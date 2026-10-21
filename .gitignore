@@ -1,0 +1,32 @@
+node_modules/
+dist/
+.venv/
+.runtime/
+__pycache__/
+.pytest_cache/
+data/
+library/preparation/raw/
+library/preparation/tessdata/
+*.log
+tmp/
+*.tsbuildinfo
+
+# Local study material and generated Cambridge content
+/library/
+/Tài liệu Cambridge/
+/docs/screenshots/
+*.pdf
+*.sqlite3*
+*.db
+*.zip
+
+# Local preparation scripts containing transcribed questions or answer keys
+/scripts/extract_keys.py
+/scripts/prepare_question_layouts.py
+/scripts/review_cam15_questions.py
+/scripts/review_cam17.py
+
+# Credentials and local environment files
+.env
+.env.*
+!.env.example

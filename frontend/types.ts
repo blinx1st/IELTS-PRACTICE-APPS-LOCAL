@@ -1,0 +1,16 @@
+export type Option = { value: string; label: string };
+export type SourceImage = { url: string; page: number };
+export type Question = { number: number; text: string; options?: Option[] };
+export type TableCell = { header?: boolean; rowSpan?: number; colSpan?: number; content: (string | {number:number;part?:number})[] };
+export type QuestionLayout = {kind:'table';caption?:string;rows:{cells:TableCell[]}[]} | {kind:'matrix';matchingKind:'headings'|'paragraphs';rows:{number:number;text:string}[]};
+export type Group = { id: string; type: string; heading: string; instructions: string; body: string; questions: Question[]; options?: Option[]; choose?: number; wordLimit?: number; allowNumber?: boolean; sourceImages?: SourceImage[]; renderMode?: string; layout?:QuestionLayout };
+export type Passage = { id: string; number: number; title: string; paragraphs: { id: string; label?: string; text: string; kind?: string }[]; groups: Group[]; sourceImages?: SourceImage[] };
+export type Test = { id: string; book: number; test: number; title: string; version: string; verification: {status: string; note?: string}; passages: Passage[] };
+export type TextRange = {anchor:string;start:number;end:number;text:string};
+export type Annotation = TextRange & { id:string; kind:'highlight'|'note'; level?:1|2|3; note?:string };
+export type ResultRow = { number: number; passage: number; type: string; answer: string; accepted: string[]; status: 'correct' | 'incorrect' | 'blank'; groupNumbers?: number[] };
+export type Result = { score: number; total: number; band: number | null; blank: number; rows: ResultRow[]; byType: Record<string, {correct:number;total:number}> };
+export type Attempt = { id: string; testId: string; title: string; book: number; testNumber: number; mode: string; passage: number | null; numbers: number[]; startedAt: number; updatedAt: number; deadline: number | null; duration: number | null; remaining: number | null; status: string; revision: number; answers: Record<string,string>; answerParts:Record<string,string[]>; flags: number[]; annotations: Annotation[]; currentPassage: number; test: Test; result: Result | null; serverNow: number; autoSubmitted?: boolean; examTiming?:'timed'|'untimed'; elapsedSeconds?:number;elapsedStartedAt?:number|null };
+export type TestCard = { id: string; book: number; test: number; title: string; ready: boolean; passages: {number: number; title: string; questions: number}[]; verification?: {status:string;note?:string} };
+export type Library = { books: {number:number;available:boolean;tests:TestCard[]}[]; readyCount: number };
+export const typeNames: Record<string,string> = { choice:'Chọn một đáp án', multi:'Chọn nhiều đáp án', tfng:'True / False / Not Given', ynng:'Yes / No / Not Given', matching:'Matching', completion:'Điền từ', short:'Trả lời ngắn' };
