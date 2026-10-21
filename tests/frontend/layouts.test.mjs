@@ -20,9 +20,9 @@ const noop=()=>{};
 const props=group=>({group,attempt:{answers:{},answerParts:{},annotations:[],flags:[]},editable:true,results:{},onAnswer:noop,onAnswerPart:noop,onFlag:noop,onFocus:noop,onAnnotation:noop});
 const render=(component,p)=>renderToStaticMarkup(createElement(component,p));
 
-test('all six verified tables render 36 in-cell inputs covering exactly 35 questions',()=>{
+test('all seven Reading tables render 42 in-cell inputs covering exactly 41 questions',()=>{
   const tables=groups.filter(g=>g.layout.kind==='table');
-  assert.equal(tables.length,6);
+  assert.equal(tables.length,7);
   let total=0,questions=0;
   for(const group of tables){
     const html=render(ui.InteractiveTable,props(group));
@@ -33,7 +33,7 @@ test('all six verified tables render 36 in-cell inputs covering exactly 35 quest
     assert.ok(/rowspan="5"/i.test(html)||group.id!=='cam13-t3-p1-g1');
     total+=labels.length;questions+=group.questions.length;
   }
-  assert.equal(total,36);assert.equal(questions,35);
+  assert.equal(total,42);assert.equal(questions,41);
 });
 
 test('two-part table answer preserves an empty first field, and displays old combined answers',()=>{
@@ -47,10 +47,10 @@ test('two-part table answer preserves an empty first field, and displays old com
   assert.equal((html.match(/<input[^>]*disabled=""/g)||[]).length,4);
 });
 
-test('all 34 matrices expose the complete correct choices, with no result before grading',()=>{
+test('all 38 Reading matrices expose complete choices, with no result before grading',()=>{
   const matrices=groups.filter(g=>g.layout.kind==='matrix');
-  assert.equal(matrices.length,34);
-  assert.equal(matrices.filter(g=>g.layout.matchingKind==='headings').length,5);
+  assert.equal(matrices.length,38);
+  assert.equal(matrices.filter(g=>g.layout.matchingKind==='headings').length,7);
   for(const group of matrices){
     const p=props(group),n=group.questions[0].number;p.attempt.answers[n]=group.options[0].value;
     const html=render(ui.MatchingMatrix,p);

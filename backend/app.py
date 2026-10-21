@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from contextlib import contextmanager
+
 import hashlib
 import io
 import json
@@ -21,6 +23,8 @@ from starlette.middleware.trustedhost import TrustedHostMiddleware
 
 from backend.scoring import grade, question_map
 from backend.presentation import present, part_counts
+from backend.listening import units, initial_player, control, stale, duration
+from backend import backups
 
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "library"
@@ -32,12 +36,17 @@ app = FastAPI(title="Reading Room Local", docs_url=None, redoc_url=None)
 app.add_middleware(TrustedHostMiddleware, allowed_hosts=["127.0.0.1", "localhost", "testserver"])
 
 
+@contextmanager
 def connect():
     db = sqlite3.connect(DB, timeout=15)
     db.row_factory = sqlite3.Row
     db.execute("PRAGMA journal_mode=WAL")
     db.execute("CREATE TABLE IF NOT EXISTS attempts (id TEXT PRIMARY KEY, updated REAL NOT NULL, payload TEXT NOT NULL)")
-    return db
+    try:
+        with db:
+            yield db
+    finally:
+        db.close()
 
 
 with connect() as _db:
@@ -63,17 +72,26 @@ def read_json(path):
 def load_test(test_id):
     if not test_id.startswith("cam") or any(c not in "abcdefghijklmnopqrstuvwxyz0123456789-" for c in test_id):
         raise HTTPException(404, "Không tìm thấy đề.")
-    file = LIBRARY / "tests" / f"{test_id}.json"
+    base = LIBRARY / 'listening' if '-listening-' in test_id else LIBRARY
+    file = base / "tests" / f"{test_id}.json"
     if not file.exists():
         raise HTTPException(404, "Đề chưa được chuẩn bị.")
     test = read_json(file)
-    key_file = LIBRARY / "keys" / f"{test_id}.json"
+    key_file = base / "keys" / f"{test_id}.json"
     key = read_json(key_file) if key_file.exists() else {"answers": {}, "multi": []}
     return test, key
 
 
 def ready(test, key):
     numbers = sorted(int(n) for n in question_map(test))
+    if test.get('skill') == 'listening':
+        return (test.get('verification', {}).get('status') == 'verified'
+                and [u['number'] for u in units(test)] == [1, 2, 3, 4]
+                and all(len([q for g in u['groups'] for q in g['questions']]) == 10
+                        and u.get('audio', {}).get('verification', {}).get('status') == 'verified'
+                        and (LIBRARY / 'audio' / Path(u['audio']['url']).name).is_file() for u in units(test))
+                and numbers == list(range(1, 41))
+                and all(key.get('answers', {}).get(str(n)) for n in numbers))
     return (test.get("verification", {}).get("status") == "verified"
             and len(test["passages"]) == 3
             and sum(len(g["questions"]) for p in test["passages"] for g in p["groups"]) == 40
@@ -88,6 +106,7 @@ def save(db, a):
 
 
 def expire(db, a):
+    if stale(a): save(db, a)
     if a["status"] == "active" and a.get("deadline") is not None and time.time() >= a["deadline"]:
         a.update(status="submitted", submittedAt=a["deadline"], revision=a["revision"] + 1, autoSubmitted=True)
         save(db, a)
@@ -102,10 +121,11 @@ def get_attempt(db, attempt_id):
 
 
 def public(a, include_test=True):
-    result = {k: v for k, v in a.items() if k not in ("keySnapshot", "testSnapshot")}
+    result = {k: v for k, v in a.items() if k not in ("keySnapshot", "testSnapshot", "transcriptSnapshot")}
     if include_test:
         result["test"] = present(a["testSnapshot"], LIBRARY)
     result.setdefault('answerParts', {})
+    result.setdefault('skill', 'reading')
     if a['mode'] == 'exam':
         result.setdefault('examTiming', 'timed')
     result["serverNow"] = time.time()
@@ -114,7 +134,7 @@ def public(a, include_test=True):
 
 @app.get("/api/health")
 def health():
-    return {"app": "reading-room-local", "version": "1.1.0", "workspace": hashlib.sha256(str(ROOT).encode()).hexdigest()[:16]}
+    return {"app": "reading-room-local", "version": "2.0.0", "workspace": hashlib.sha256(str(ROOT).encode()).hexdigest()[:16]}
 
 
 @app.post("/api/shutdown")
@@ -131,21 +151,21 @@ async def shutdown(request: Request):
 
 
 @app.get("/api/library")
-def library():
+def library(skill: Literal['reading', 'listening'] = 'reading'):
     books = []
     for book in range(13, 21):
         tests = []
         for n in range(1, 5):
-            tid = f"cam{book}-test{n}"
+            tid = f"cam{book}-{'listening-' if skill == 'listening' else ''}test{n}"
             try:
                 t, k = load_test(tid)
                 tests.append({"id": tid, "book": book, "test": n, "title": t["title"], "ready": ready(t, k),
                               "verification": t.get("verification", {}),
-                              "passages": [{"number": p["number"], "title": p["title"], "questions": len([q for g in p["groups"] for q in g["questions"]])} for p in t["passages"]]})
+                              "skill": skill, "passages": [{"number": p["number"], "title": p["title"], "questions": len([q for g in p["groups"] for q in g["questions"]])} for p in units(t)]})
             except HTTPException:
-                tests.append({"id": tid, "book": book, "test": n, "title": f"Cambridge {book} · Test {n}", "ready": False, "passages": []})
-        books.append({"number": book, "available": book != 16, "tests": tests})
-    return {"books": books, "readyCount": sum(t["ready"] for b in books for t in b["tests"])}
+                tests.append({"id": tid, "skill": skill, "book": book, "test": n, "title": f"Cambridge {book} · Test {n}", "ready": False, "passages": []})
+        books.append({"number": book, "available": any(t['ready'] for t in tests), "tests": tests})
+    return {"books": books, 'skill': skill, "readyCount": sum(t["ready"] for b in books for t in b["tests"])}
 
 
 class Start(BaseModel):
@@ -154,20 +174,27 @@ class Start(BaseModel):
     passage: int | None = None
     minutes: int = Field(default=20, ge=0, le=180)
     examTiming: Literal['timed', 'untimed'] = 'timed'
+    skill: Literal['reading', 'listening'] = 'reading'
+    part: int | None = Field(default=None, ge=1, le=4)
 
 
 @app.post("/api/attempts")
 def start(body: Start):
     t, k = load_test(body.testId)
+    if t.get('skill', 'reading') != body.skill:
+        raise HTTPException(422, 'Kỹ năng không khớp với đề đã chọn.')
     if not ready(t, k):
         raise HTTPException(409, "Đề đang được đối chiếu nội dung và đáp án, chưa sẵn sàng để làm bài.")
     if body.mode not in ("exam", "practice"):
         raise HTTPException(422, "Chế độ không hợp lệ.")
-    if body.mode == "practice" and body.passage not in [p["number"] for p in t["passages"]]:
+    listening = body.skill == 'listening'
+    if not listening and body.mode == "practice" and body.passage not in [p["number"] for p in t["passages"]]:
         raise HTTPException(422, "Hãy chọn passage.")
-    numbers = sorted(int(n) for n, (p, _, _) in question_map(t).items() if body.mode == "exam" or p["number"] == body.passage)
+    selected_part = body.part if listening else body.passage
+    numbers = sorted(int(n) for n, (p, _, _) in question_map(t).items() if body.mode == "exam" or (listening and selected_part is None) or p["number"] == selected_part)
     now = time.time()
     seconds = (3600 if body.examTiming == 'timed' else 0) if body.mode == "exam" else body.minutes * 60
+    if listening: seconds = 0
     version = hashlib.sha256(json.dumps([t, k], sort_keys=True).encode()).hexdigest()[:16]
     a = {"id": str(uuid.uuid4()), "testId": t["id"], "title": t["title"], "book": t["book"],
          "testNumber": t["test"], "contentVersion": version, "testSnapshot": t, "keySnapshot": k,
@@ -175,7 +202,15 @@ def start(body: Start):
          "numbers": numbers, "startedAt": now, "deadline": now + seconds if seconds else None,
          "duration": seconds or None, "remaining": seconds or None, "status": "active", "revision": 0,
          "answers": {}, "answerParts": {}, "flags": [], "annotations": [], "currentPassage": body.passage or 1, "result": None}
-    if body.mode == 'exam':
+    a['skill'] = body.skill
+    if listening:
+        tp = LIBRARY / 'listening' / 'transcripts' / (body.testId + '.json')
+        if not tp.is_file(): raise HTTPException(409, 'Transcript chưa được kiểm tra.')
+        a.update(part=body.part if body.mode == 'practice' else None, passage=None,
+                 currentPassage=body.part or 1, player=initial_player(t, body.part if body.mode == 'practice' else None),
+                 transcriptSnapshot=read_json(tp), duration=duration(t) if body.mode == 'exam' else None,
+                 examTiming='timed' if body.mode == 'exam' else 'untimed')
+    elif body.mode == 'exam':
         a['examTiming'] = body.examTiming
         if body.examTiming == 'untimed':
             a.update(elapsedSeconds=0, elapsedStartedAt=now)
@@ -185,10 +220,10 @@ def start(body: Start):
 
 
 @app.get("/api/attempts")
-def attempts():
+def attempts(skill: Literal['reading', 'listening'] | None = None):
     with LOCK, connect() as db:
         data = [expire(db, json.loads(r[0])) for r in db.execute("SELECT payload FROM attempts ORDER BY updated DESC").fetchall()]
-    return [public(a, False) for a in data]
+    return [public(a, False) for a in data if skill is None or a.get('skill', 'reading') == skill]
 
 
 @app.get("/api/attempts/{attempt_id}")
@@ -242,6 +277,7 @@ def update(attempt_id: str, body: Draft):
 def pause(attempt_id: str):
     with LOCK, connect() as db:
         a = get_attempt(db, attempt_id)
+        if a.get('skill') == 'listening': raise HTTPException(409, 'Use the Listening audio controls.')
         if a["status"] != "active" or not (a['mode'] == 'practice' or a.get('examTiming') == 'untimed'):
             raise HTTPException(409, "Chỉ có thể tạm dừng luyện tập hoặc thi thử không hạn giờ.")
         if a.get('examTiming') == 'untimed':
@@ -257,6 +293,7 @@ def pause(attempt_id: str):
 def resume(attempt_id: str):
     with LOCK, connect() as db:
         a = get_attempt(db, attempt_id)
+        if a.get('skill') == 'listening': raise HTTPException(409, 'Use the Listening audio controls.')
         if a["status"] != "paused":
             raise HTTPException(409, "Bài không ở trạng thái tạm dừng.")
         if a.get('examTiming') == 'untimed':
@@ -271,6 +308,7 @@ def resume(attempt_id: str):
 def make_untimed(attempt_id: str):
     with LOCK, connect() as db:
         a = get_attempt(db, attempt_id)
+        if a.get('skill') == 'listening': raise HTTPException(409, 'Use Switch to practice in the Listening player.')
         if a['mode'] != 'exam' or a['status'] != 'active':
             raise HTTPException(409, 'Chỉ chuyển được bài thi thử còn đang làm, chưa hết giờ.')
         if a.get('examTiming') != 'untimed':
@@ -286,6 +324,7 @@ def submit(attempt_id: str):
     with LOCK, connect() as db:
         a = get_attempt(db, attempt_id)
         if a["status"] in ("active", "paused"):
+            if a.get('player'): a['player'].update(running=False, phase='finished', leaseOwner=None, leaseUntil=0)
             if a.get('examTiming') == 'untimed' and a.get('elapsedStartedAt') is not None:
                 a['elapsedSeconds'] += max(0, time.time() - a['elapsedStartedAt'])
                 a['elapsedStartedAt'] = None
@@ -308,8 +347,8 @@ def mark(attempt_id: str):
 
 
 @app.get("/api/statistics")
-def statistics():
-    rows = [a for a in attempts() if a["status"] == "graded"]
+def statistics(skill: Literal['reading', 'listening'] | None = None):
+    rows = [a for a in attempts(skill) if a["status"] == "graded"]
     groups = {}
     for a in rows:
         for typ, value in a["result"]["byType"].items():
@@ -320,87 +359,54 @@ def statistics():
             "total": sum(a["result"]["total"] for a in rows), "byType": groups}
 
 
-@app.get("/api/backup")
+class PlayerCommand(BaseModel):
+    action: Literal['claim', 'play', 'pause', 'checkpoint', 'seek', 'next', 'interrupt', 'practice', 'release']
+    clientId: str = Field(min_length=8, max_length=100)
+    part: int | None = Field(default=None, ge=1, le=4)
+    position: float | None = None
+    rate: float | None = None
+    loopA: float | None = None
+    loopB: float | None = None
+    clearLoop: bool = False
+
+
+@app.post('/api/attempts/{attempt_id}/player')
+def player(attempt_id: str, body: PlayerCommand):
+    with LOCK, connect() as db:
+        a = get_attempt(db, attempt_id)
+        control(a, body)
+        save(db, a)
+        return public(a)
+
+
+@app.get('/api/attempts/{attempt_id}/transcript')
+def transcript(attempt_id: str):
+    with LOCK, connect() as db:
+        a = get_attempt(db, attempt_id)
+        if a.get('skill') != 'listening' or a['status'] != 'graded':
+            raise HTTPException(409, 'Chỉ mở transcript sau khi chấm bài.')
+        return a['transcriptSnapshot']
+
+
+@app.get('/library-audio/{name}')
+def audio_asset(name: str):
+    root = (LIBRARY / 'audio').resolve()
+    target = (root / name).resolve()
+    if not target.is_relative_to(root) or not target.is_file() or target.suffix.lower() not in ('.mp3', '.m4a', '.wav', '.ogg'):
+        raise HTTPException(404, 'Không tìm thấy audio.')
+    return FileResponse(target, media_type='audio/mp4' if target.suffix == '.m4a' else 'audio/mpeg')
+
+
+@app.get('/api/backup')
 def backup():
     with LOCK, connect() as db:
-        rows = [json.loads(r[0]) for r in db.execute("SELECT payload FROM attempts").fetchall()]
-    stream = io.BytesIO()
-    assets = {}
-    def collect(value):
-        if isinstance(value, dict):
-            for v in value.values():
-                collect(v)
-        elif isinstance(value, list):
-            for v in value:
-                collect(v)
-        elif isinstance(value, str) and value.startswith("/library-assets/"):
-            name = value.removeprefix("/library-assets/")
-            path = (LIBRARY / "assets" / name).resolve()
-            if path.is_relative_to((LIBRARY / "assets").resolve()) and path.is_file():
-                assets[name] = path
-    for a in rows:
-        collect(a["testSnapshot"])
-    asset_hashes = {name: hashlib.sha256(path.read_bytes()).hexdigest() for name, path in assets.items()}
-    with zipfile.ZipFile(stream, "w", zipfile.ZIP_DEFLATED) as z:
-        z.writestr("reading-room-backup.json", json.dumps({"format": "reading-room", "version": 1, "createdAt": time.time(), "attempts": rows, "assets": asset_hashes}, ensure_ascii=False))
-        for name, path in assets.items():
-            z.write(path, "assets/" + name)
-    return Response(stream.getvalue(), media_type="application/zip", headers={"Content-Disposition": 'attachment; filename="reading-room-backup.zip"'})
+        rows = [json.loads(r[0]) for r in db.execute('SELECT payload FROM attempts').fetchall()]
+    return backups.export(rows, LIBRARY)
 
 
-@app.post("/api/restore")
+@app.post('/api/restore')
 async def restore(file: UploadFile = File(...)):
-    raw = await file.read(256_000_001)
-    if len(raw) > 256_000_000:
-        raise HTTPException(413, "Bản sao lưu vượt quá 256 MB.")
-    restored_assets = {}
-    try:
-        with zipfile.ZipFile(io.BytesIO(raw)) as z:
-            info = z.getinfo("reading-room-backup.json")
-            if info.file_size > 100_000_000:
-                raise ValueError("Bản giải nén quá lớn")
-            data = json.loads(z.read(info))
-            if sum(i.file_size for i in z.infolist()) > 512_000_000:
-                raise ValueError("Bản giải nén quá lớn")
-            for name, expected in data.get("assets", {}).items():
-                if not name or Path(name).name != name or "/" in name or "\\" in name:
-                    raise ValueError("Đường dẫn tài liệu không hợp lệ")
-                content = z.read("assets/" + name)
-                if hashlib.sha256(content).hexdigest() != expected:
-                    raise ValueError("Tài liệu bị hỏng")
-                destination = LIBRARY / "assets" / name
-                if destination.exists() and hashlib.sha256(destination.read_bytes()).hexdigest() != expected:
-                    raise ValueError("Tài liệu trùng tên khác nội dung")
-                restored_assets[name] = content
-        if data["format"] != "reading-room" or data["version"] != 1 or not isinstance(data["attempts"], list):
-            raise ValueError("Định dạng không hợp lệ")
-        for a in data["attempts"]:
-            uuid.UUID(a["id"])
-            assert a["status"] in ("active", "paused", "submitted", "graded")
-            assert isinstance(a["updatedAt"], (float, int))
-            assert isinstance(a["answers"], dict) and isinstance(a["numbers"], list)
-            assert set(map(str, a["numbers"])) <= set(question_map(a["testSnapshot"]))
-            assert all(str(n) in a["keySnapshot"]["answers"] for n in a["numbers"])
-            assert a["status"] != "graded" or isinstance(a["result"]["rows"], list)
-            for name in ("revision", "startedAt", "deadline", "duration", "remaining", "annotations", "flags", "testId", "title", "book", "mode", "currentPassage"):
-                a[name]
-    except Exception:
-        raise HTTPException(422, "Tệp sao lưu không hợp lệ hoặc bị hỏng.")
-    restored = 0
-    with LOCK, connect() as db:
-        (LIBRARY / "assets").mkdir(parents=True, exist_ok=True)
-        for name, content in restored_assets.items():
-            destination = LIBRARY / "assets" / name
-            if not destination.exists():
-                temporary = destination.with_suffix(destination.suffix + ".restore")
-                temporary.write_bytes(content)
-                temporary.replace(destination)
-        for a in data["attempts"]:
-            old = db.execute("SELECT updated FROM attempts WHERE id=?", (a["id"],)).fetchone()
-            if old is None or old[0] < a["updatedAt"]:
-                db.execute("INSERT INTO attempts VALUES(?,?,?) ON CONFLICT(id) DO UPDATE SET updated=excluded.updated,payload=excluded.payload", (a["id"], a["updatedAt"], json.dumps(a, ensure_ascii=False)))
-                restored += 1
-    return {"restored": restored}
+    return await backups.import_archive(file, LIBRARY, connect, LOCK)
 
 
 (LIBRARY / "assets").mkdir(parents=True, exist_ok=True)

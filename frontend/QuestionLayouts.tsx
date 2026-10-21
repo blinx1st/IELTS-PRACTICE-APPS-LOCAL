@@ -13,7 +13,7 @@ export function answerPartsFor(a:Pick<Attempt,'answers'|'answerParts'>,number:nu
 
 const norm=(s:string)=>s.normalize('NFKC').trim().toUpperCase();
 function FlagButton({n,props}:{n:number;props:LayoutProps}){
-  return <button type="button" className={'flag-button '+(props.attempt.flags.includes(n)?'flagged':'')} aria-label={'Mark question '+n+' for review'} title="Mark for review" disabled={!props.editable} onClick={()=>props.onFlag(n)}><Flag size={14}/></button>;
+  return <button type="button" className={'flag-button '+(props.attempt.flags.includes(n)?'flagged':'')} aria-label={'Mark question '+n+' for review'} aria-pressed={props.attempt.flags.includes(n)} title="Mark for review" disabled={!props.editable} onClick={()=>props.onFlag(n)}><Flag size={14}/></button>;
 }
 
 export function InteractiveTable(props:LayoutProps){

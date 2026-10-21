@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 LIB = ROOT / "library"
 PREP = LIB / "preparation"
 TESS = PREP / "tessdata"
-BOOKS = [13, 14, 15, 17, 18, 19, 20]
+BOOKS = [13, 14, 15, 16, 17, 18, 19, 20]
 
 def sources():
     out = {}

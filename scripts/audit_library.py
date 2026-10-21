@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from backend.scoring import grade, normalize, within_limit
 
-BOOKS = (13, 14, 15, 17, 18, 19, 20)
+BOOKS = (13, 14, 15, 16, 17, 18, 19, 20)
 KINDS = {"completion", "short", "matching", "choice", "multi", "tfng", "ynng"}
 ROMANS = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii")
 
@@ -237,7 +237,7 @@ def audit_library():
     # group failure unless the specific question/accepted value matters.
     return dict(schemaVersion=1, generatedAt=datetime.now(timezone.utc).isoformat(),
                 scope="All expected local Cambridge test JSON, private keys, referenced files, scoring compatibility; not a complete passage transcription review.",
-                summary=dict(expectedTests=28, actualTests=len(records), passages=sum(r["passages"] for r in records),
+                summary=dict(expectedTests=32, actualTests=len(records), passages=sum(r["passages"] for r in records),
                              questions=sum(r["questions"] for r in records), groups=group_count,
                              sourceImageReferences=image_count,
                              errors=sum(i["severity"] == "error" for i in issues),

@@ -15,7 +15,7 @@ def present(test, library):
         return copy.deepcopy(test)
     layouts = json.loads(registry.read_text(encoding='utf-8')).get('groups', {})
     result = copy.deepcopy(test)
-    for p in result['passages']:
+    for p in result.get('parts', result.get('passages', [])):
         for g in p['groups']:
             entry = layouts.get(g['id'])
             if not g.get('layout') and entry and signature(g) == entry['baseSha256']:
@@ -25,9 +25,18 @@ def present(test, library):
 
 def part_counts(test):
     refs = {}
-    for p in test['passages']:
+    def collect(value):
+        if isinstance(value, dict):
+            if 'number' in value and 'part' in value:
+                n = str(value['number'])
+                refs[n] = max(refs.get(n, 0), value['part'] + 1)
+            for v in value.values(): collect(v)
+        elif isinstance(value, list):
+            for v in value: collect(v)
+    for p in test.get('parts', test.get('passages', [])):
         for g in p['groups']:
             layout = g.get('layout', {})
+            collect(layout)
             if layout.get('kind') != 'table':
                 continue
             for row in layout['rows']:

@@ -25,6 +25,16 @@ tmp/
 /scripts/prepare_question_layouts.py
 /scripts/review_cam15_questions.py
 /scripts/review_cam17.py
+/scripts/prepare_cam16_reading.py
+/scripts/prepare_listening_13_16.py
+/scripts/prepare_listening_17_20.py
+/scripts/finalize_listening.py
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.ogg
+!frontend/public/audio-check.wav
 
 # Credentials and local environment files
 .env

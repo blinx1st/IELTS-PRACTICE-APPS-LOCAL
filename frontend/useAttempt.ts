@@ -5,7 +5,7 @@ import { normalizeAnnotations } from './annotations';
 
 type Draft = Pick<Attempt,'answers'|'answerParts'|'flags'|'annotations'|'currentPassage'>;
 const fields = (a:Attempt):Draft => ({answers:a.answers,answerParts:a.answerParts||{},flags:a.flags,annotations:normalizeAnnotations(a.annotations),currentPassage:a.currentPassage});
-const normalizeAttempt=(a:Attempt):Attempt=>({...a,...fields(a)});
+const normalizeAttempt=(a:Attempt):Attempt=>({...a,...fields(a),test:a.test?{...a.test,passages:a.test.parts||a.test.passages}:a.test});
 export function useAttempt(id:string) {
   const [attempt,setAttempt] = useState<Attempt|null>(null);
   const [saveState,setSaveState] = useState('saved');
@@ -54,6 +54,7 @@ export function useAttempt(id:string) {
           const response = normalizeAttempt(await api<Attempt>('/attempts/'+id,{method:'PATCH',body:JSON.stringify({...fields(a),revision:a.revision})}));
           const latest=current.current!;
           const next = g===generation.current ? response : {...response,...fields(latest)};
+          if((latest.player?.sequence||0)>(response.player?.sequence||0))next.player=latest.player;
           saved.current=g;apply(next);setError('');
           if(g===generation.current) {localStorage.removeItem(draftKey);setSaveState('saved');}
           else persist(next);
@@ -95,5 +96,12 @@ export function useAttempt(id:string) {
       setError('Time is up. Your last saved answers have been submitted.');
     }
   },[id,apply]);
-  return {attempt,saveState,error,setError,edit,action,checkExpiry,flush};
+  const receivePlayback=useCallback((remote:Attempt)=>{
+    const c=current.current;if(!c)return;
+    if(['submitted','graded'].includes(remote.status)){
+      saved.current=generation.current;apply(normalizeAttempt(remote));
+      localStorage.removeItem(draftKey);setSaveState('saved');
+    }else apply({...c,player:remote.player,status:remote.status,mode:remote.mode,part:remote.part,convertedFromExam:remote.convertedFromExam,serverNow:remote.serverNow});
+  },[apply,draftKey]);
+  return {attempt,saveState,error,setError,edit,action,checkExpiry,flush,receivePlayback};
 }

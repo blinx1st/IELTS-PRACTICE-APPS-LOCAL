@@ -1,3 +1,28 @@
+# UI/UX 2.1 — làm quen và điều hướng
+
+20 kiểm thử frontend và 38 backend đạt; build và npm audit đạt. Các kiểm thử mới phủ lọc câu trống/cờ theo đúng phạm vi, số thứ tự không đổi, trước/sau ở biên, 40 nút câu, cỡ chữ/độ tương phản và bài mẫu không điểm. Kiểm tra bằng Chrome trên kho QA riêng; không tạo lượt QA trong dữ liệu học chính. Chi tiết, nguồn tham khảo và ảnh tại [UI_UX_REVIEW.md](UI_UX_REVIEW.md).
+
+---
+
+# Kiểm tra bản 2.0 — Reading và Listening Cambridge 13–20
+
+- **38 kiểm thử backend và 16 kiểm thử frontend đạt**. Build TypeScript/Vite thành công; npm audit: 0 lỗ hổng. Frontend kiểm tra tất cả 127 nhóm Listening có flow/table/diagram hoặc matching, đủ ô theo số câu, khóa sau nộp và không có kết quả trước chấm.
+- Reading: **32 đề / 96 passages / 1.280 câu / 0 lỗi / 0 cảnh báo**, gồm 4 đề Cambridge 16. Dựng lại 32 full overrides giữ nguyên byte. Reading có 7 bảng, 38 matrix (7 heading, 31 matching đoạn).
+- Listening: **32 đề / 128 Parts / 1.280 câu / 128 audio hash duy nhất / 0 lỗi cấu trúc**. 75 nhóm completion gồm 11 table và 64 flow; 10 diagram, 52 matching, 48 choice, 63 multi. Canonical và đảo thứ tự nhóm multi chấm đủ 40/40. Audio đối chiếu mẫu nội dung và timeline; bằng chứng nằm riêng trong preparation.
+- **160 luồng API offline** (32 đề × cả đề và 4 Parts) tạo → lưu đáp án chuẩn → nộp → chấm → transcript đạt; đủ đề có band, Part không có band. Chặn kết nối socket ngoài trong tiến trình kiểm tra. Không thay đổi cấu hình Internet Windows.
+- Test backend: lease hai tab; heartbeat/revision độc lập; freeze checkpoint khi quá hạn; tải lại; đổi chế độ; loại Pause/tua/tốc độ khi thi; phát 4 Parts và 120 giây; chuyển luyện trong lúc kiểm tra cuối; lặp A–B mới; Range206; thiếu audio khóa đề; transcript/khóa ẩn trước chấm; backup cũ/mới.
+- Chrome: phát audio 1,5×, điền/cờ, Pause che nội dung, reload giữ vị trí và tốc độ, Resume đúng mốc. Nộp khóa ô; chấm kết quả1/40 phân biệt đúng/sai/trống; transcript có player nghe lại trong cửa sổ. Map Cambridge20T3 có ô chọn trên hình; không tràn trang. CSS viewport đo trực tiếp 1280×720, footer đủ40 câu. Có kiểm tra bổ sung ở1600×900.
+- Bộ dữ liệu QA riêng rút mỗi track còn2 giây: tự nối đủ4 tracks1×, không tua/Pause/speed, vào120 giây kiểm tra và tự nộp trên trình duyệt. Đã sửa lỗi coi buffering bình thường lúc đổi track là sự cố.
+- Dừng/mở dịch vụ khi đang nghe: audio dừng, giữ mốc38,248s; Resume tiếp tục đúng mốc, nhãn Đã gián đoạn(1). Không bỏ qua đoạn audio khi lỗi. Hai tab bị chặn bằng lease trong kiểm thử backend.
+- ZIP thực tế **18.967.979 byte**, 4 audio: khôi phục đủ4 lượt QA; xác nhận SHA-256, transcript và player dừng. ZIP cũ khôi phục đủ4 lượt. Giới hạn2 GB / 4 GB kiểm tra ở mã và test giới hạn; chưa tạo file2 GB thực tế.
+- Hai lượt học thật trước cập nhật **giữ nguyên toàn bộ payload từng byte**, gồm snapshot/khóa/đáp án/highlight. Dữ liệu QA ởtmp, không ghi vào lịch sử chính. SQLitebackup trước cập nhật: data/pre-listening-upgrade.sqlite3.
+
+Giới hạn kiểm tra: trình duyệt kết nối hiện có là Chrome; chưa chạy trực tiếp Edge. Luồng offline dùng ASGI chặn socket ngoài và tài nguyên local, không rút mạng vật lý Windows. Transcript Cambridge13 và đoạn thiếu20T1 được khôi phục có hỗ trợ ASR, có thông báo chất lượng; không xác nhận bản chép in nguyên văn từng từ. Ảnh và bằng chứng nguồn giữ local, không lênGitHub.
+
+Ảnh: [Listening](docs/screenshots/listening-1280x720.png), [bản đồ](docs/screenshots/listening-map.png).
+
+---
+
 # Kiểm tra bản 1.1 — giao diện xanh biển và bố cục tương tác
 
 - Build TypeScript/Vite thành công. **28 kiểm thử backend và 11 kiểm thử frontend đạt** (`pytest -q`, `npm run test:ui`). Frontend dùng bộ chạy test có sẵn của Node và Vite SSR, không thêm phụ thuộc runtime.

@@ -20,17 +20,17 @@ def within_limit(value, group):
     return len(tokens) <= limit
 
 
-def band_for(score):
+def band_for(score, skill='reading'):
     # Indicative Academic scale; thresholds vary slightly between official test versions.
-    for minimum, band in [(39, 9), (37, 8.5), (35, 8), (33, 7.5), (30, 7), (27, 6.5),
-                          (23, 6), (19, 5.5), (15, 5), (13, 4.5), (10, 4), (8, 3.5),
+    for minimum, band in [(39, 9), (37, 8.5), (35, 8), (32 if skill == 'listening' else 33, 7.5), (30, 7), (26 if skill == 'listening' else 27, 6.5),
+                          (23, 6), (18 if skill == 'listening' else 19, 5.5), (16 if skill == 'listening' else 15, 5), (13, 4.5), (10, 4), (8, 3.5),
                           (6, 3), (4, 2.5), (3, 2), (2, 1.5), (1, 1), (0, 0)]:
         if score >= minimum:
             return band
 
 
 def question_map(test):
-    return {str(q["number"]): (p, g, q) for p in test["passages"] for g in p["groups"] for q in g["questions"]}
+    return {str(q["number"]): (p, g, q) for p in test.get('parts', test.get('passages', [])) for g in p["groups"] for q in g["questions"]}
 
 
 def grade(test, key, answers, selected_numbers):
@@ -40,7 +40,8 @@ def grade(test, key, answers, selected_numbers):
         p, g, q = lookup[str(n)]
         value = str(answers.get(str(n), ""))
         accepted = key["answers"].get(str(n), [])
-        correct = bool(normalize(value)) and within_limit(value, g) and normalize(value) in {normalize(v) for v in accepted}
+        limit_exceptions = {normalize(v) for v in key.get('limitExceptions', {}).get(str(n), [])}
+        correct = bool(normalize(value)) and (within_limit(value, g) or normalize(value) in limit_exceptions) and normalize(value) in {normalize(v) for v in accepted}
         rows[str(n)] = {"number": n, "passage": p["number"], "type": g["type"], "answer": value,
                         "accepted": accepted, "status": "blank" if not normalize(value) else "correct" if correct else "incorrect"}
     for group in key.get("multi", []):
@@ -68,6 +69,6 @@ def grade(test, key, answers, selected_numbers):
         p["correct"] += row["status"] == "correct"
         p["total"] += 1
         p["blank"] += row["status"] == "blank"
-    return {"score": score, "total": len(values), "band": band_for(score) if len(values) == 40 else None,
+    return {"score": score, "total": len(values), "band": band_for(score, test.get('skill', 'reading')) if len(values) == 40 else None,
             "blank": sum(r["status"] == "blank" for r in values),
             "rows": sorted(values, key=lambda r: r["number"]), "byType": breakdown, "byPassage": passages}

@@ -1,6 +1,6 @@
-# Chuẩn bị và kiểm tra thư viện Reading
+# Chuẩn bị và kiểm tra thư viện Reading / Listening
 
-Thư viện hiện có **28 đề, 84 bài đọc và 1.120 câu** của Cambridge 13, 14, 15, 17, 18, 19 và 20. Cambridge 16 chưa có PDF trong thư mục nguồn, vì vậy chưa được nhập. Tài liệu này dành cho việc bảo trì nội dung; sử dụng app hằng ngày không cần chạy OCR, tải mô hình hoặc kết nối Internet.
+Thư viện hiện có **32 đề Reading, 32 đề Listening, 96 passages, 128 Parts và 2.560 câu** Cambridge 13–20. Cambridge 16 đã được nhập và đối chiếu. Tài liệu này dành cho việc bảo trì nội dung; sử dụng app hằng ngày không cần chạy OCR, tải mô hình hoặc kết nối Internet.
 
 ## Nguồn và cấu trúc
 
@@ -25,7 +25,7 @@ Mở PowerShell tại thư mục app. Môi trường Python cần các gói tron
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/prepare_library.py provenance
-.\.venv\Scripts\python.exe scripts/prepare_library.py extract --book 13 14 15 17 18 19 20 --workers 4
+.\.venv\Scripts\python.exe scripts/prepare_library.py extract --book 13 14 15 16 17 18 19 20 --workers 4
 .\.venv\Scripts\python.exe scripts/prepare_library.py assemble
 .\.venv\Scripts\python.exe scripts/audit_library.py
 ```
@@ -87,13 +87,13 @@ Kiểm tra tự động và đối chiếu bằng mắt được lưu riêng; tr
 | Toàn bộ khóa | `keys-report.json` và provenance trong từng khóa |
 | Toàn bộ cấu trúc | `content-audit.json` |
 | Danh mục và hash cuối | `library-verification.json` |
-| Dựng lại đủ 28 đề giữ nguyên từng byte | `rebuild-verification.json` |
+| Dựng lại đủ 32 đề giữ nguyên từng byte | `rebuild-verification.json` |
 
 Ảnh nguồn có thể chứa dòng quảng bá của bản scan; chữ bài đọc chuẩn hóa đã loại các dòng này. Một số nội dung gây ngạc nhiên vẫn giữ đúng bản người dùng cung cấp, ví dụ WWFN/1990 trong Cambridge 19 Test 3 hoặc số 130 loài bướm trong Test 4. Các đính chính đối với lỗi của bản nguồn được ghi rõ ở biên bản tương ứng, không âm thầm sửa theo suy đoán.
 
 ## Bổ sung hoặc sửa một đề
 
-1. Giữ PDF mới tại thư mục nguồn riêng và ghi hash. Nếu thêm Cambridge 16, bổ sung danh mục nguồn và vùng trang của sách trong importer.
+1. Giữ PDF mới tại thư mục nguồn riêng và ghi hash. Với sách mới, bổ sung danh mục nguồn và vùng trang trong importer.
 2. Trích xuất và dựng bản cơ sở; đề mới bắt đầu bằng `needs_review`.
 3. Đối chiếu toàn bộ bài đọc và nhãn đoạn. Kiểm tra thứ tự cột, đầu/cuối trang, phụ đề và chú thích.
 4. Đối chiếu đủ 40 vị trí câu, hướng dẫn, giới hạn từ/số, toàn bộ lựa chọn và bố cục bảng/sơ đồ. Xem trực tiếp từng ảnh crop được dùng trong giao diện.
@@ -118,3 +118,33 @@ Table chứa hàng, ô, `rowSpan`/`colSpan`, chuỗi chữ và tham chiếu số
 `library/presentation.json` chứa layout cùng SHA-256 của nhóm gốc (không gồm field layout). Khi mở lượt làm cũ, backend chỉ thêm layout vào dữ liệu trả cho giao diện nếu fingerprint khớp; không sửa snapshot/khóa/kết quả trên SQLite. Giữ registry này khi chuyển máy. Bài mới lưu metadata ngay trong snapshot nên backup mang theo bố cục của nó.
 
 Mỗi lượt làm có thể lưu `answerParts` để giữ vị trí các ô còn trống; đáp án ghép trong `answers` vẫn là chuỗi dùng để chấm. Annotation mới phân biệt `kind: highlight` (level 1–3) và `kind: note`. Giao diện đọc được annotation cũ thiếu kind và ZIP cũ, không cần di trú phá hủy dữ liệu.
+
+
+## Listening và Cambridge 16 — bản 2.0
+
+Reading Cambridge 16 dùng cache `library/preparation/cam16`, bốn full overrides và báo cáo `cam16/reading-review.json`. Khóa Reading giữ riêng trong `library/keys`. Không dùng script khóa cũ ghi đè nội dung mới đã kiểm tra.
+
+Listening dùng `library/listening/tests`, `keys`, `transcripts`, `audio-manifest.json`; 128 audio sao chép theo SHA-256 vào `library/audio`. Manifest ghi sách/test/Part, nguồn, thời lượng, start/end và bằng chứng đối chiếu. Bản trùng 15/17 và file macOS không nhập. Ba track Cambridge 17 Test 4 Part 2–4 bổ sung từ nguồn ứng viên được duyệt và so với audioscript nguồn.
+
+Reading giữ `passages`; Listening dùng `parts` và cấu trúc nhóm câu chung. Layout table/flow/diagram chứa vị trí câu; giới hạn từ là số nguyên `wordLimit`, cho phép số bằng `allowNumber`. Khóa giữ các biến thể riêng. Không đưa khóa/transcript vào test public; API transcript chỉ mở sau chấm.
+
+Bản hiệu đính cuối nằm trong `library/preparation/listening/overrides/{tests,keys,transcripts}`. Dựng lại bằng:
+
+```powershell
+.venv\Scripts\python.exe -X utf8 scripts/rebuild_listening.py
+.venv\Scripts\python.exe -X utf8 scripts/rebuild_listening.py --check
+.venv\Scripts\python.exe -X utf8 scripts/audit_listening.py
+```
+
+Không chạy importer OCR cũ chồng lên bản đã hiệu đính. Các helper private prepare_listening_13_16.py, prepare_listening_17_20.py, finalize_listening.py chỉ lưu local vì chứa bản chép Cambridge. Sửa đề cần đối chiếu nguồn, thay override có chủ đích; không sửa snapshot lịch sử.
+
+Bằng chứng audio ở `library/preparation/listening/cam*/`: mẫu đầu/cuối và timestamp ASR local. So với 16 scripts mỗi sách; không chỉ dựa tên file. 127/128 track có script đúng đạt điểm so khớp cao nhất; Cambridge 19 Test 1 Part 1 có ít lời trong mẫu nên bổ sung 115–175 giây, xác nhận Hinchingbrooke/69 hectares/stream. Chi tiết ở audio-content-comparison.json và final-review.json.
+
+`scripts/verify_audio_timeline.py` là công cụ chuẩn bị tùy chọn dùng faster-whisper tiny.en CPU local, không gửi audio ra ngoài và không phải phụ thuộc runtime. Model nằm trong preparation. Timestamp giúp loại publisher/paper instructions và khoảng kiểm tra cuối Part 4 trước khi app cộng đúng 120 giây. Các khoảng đọc/kiểm tra giữa Parts giữ nguyên. Cambridge 14 Test 2 Part 4 có bài khác nối đuôi, bị loại bằng boundary; file gốc không sửa.
+
+Nguồn thiếu/sai được ghi rõ: Cambridge 13 Test 3 PDF thiếu trang audioscript 109, đoạn thiếu khôi phục từ audio và có thông báo UI; Cambridge 20 Test 3 bản gõ lại thiếu map, dùng trang 46 PDF gốc khác; map có G dù ghi A–F; Cambridge 20 Test 4 khóa câu 12 trống, cặp B/C xác nhận qua audio/script. Không coi ASR là bản chép in chính thức.
+
+Audit kiểm tra 32 đề/128 Parts/1.280 câu, SHA-256, ảnh/audio, native blanks, lựa chọn, canonical 40/40 và nhóm nhiều đáp án đảo thứ tự. Kiểm tra cấu trúc không thay thế đối chiếu nội dung; bằng chứng editorial lưu riêng trong preparation.
+
+
+Lưu ý transcript: Cambridge 13 có nhiều dòng gạch chân bị OCR bỏ sót, nên bản chép dùng hỗ trợ nhận dạng audio local và có thể còn sai khác nhỏ về từ ngữ/tên riêng. Cambridge 20 Test 1 Part 1 có đoạn cuối thiếu trong PDF được khôi phục từ audio. App hiển thị thông báo tại các transcript này; khóa chấm và nội dung câu hỏi được giữ riêng.
