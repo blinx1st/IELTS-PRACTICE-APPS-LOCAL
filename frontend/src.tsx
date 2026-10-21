@@ -107,7 +107,7 @@ function Brand() {
         <BookOpen size={22} />
       </span>
       <span>
-        Tu Luyện<span className="brand-light">IELTS</span>
+        Tu Luyện - IELTS
         <small>ĐỘT PHÁ TU VI</small>
       </span>
     </div>
