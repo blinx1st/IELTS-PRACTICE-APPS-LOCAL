@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/87bd934522d3f332a3ce71a1fa55c97d1380ef45a3df981e2baa10e427a01f9b.mp3",
+    "sha256": "87bd934522d3f332a3ce71a1fa55c97d1380ef45a3df981e2baa10e427a01f9b",
+    "duration": 481.907,
+    "start": 0,
+    "end": 481.907,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 2. This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to part 1. Part 1. You will hear two friends talking about a guitar group. First, you have some time to look at questions 1 to 6. Now listen carefully and answer questions one to six. Hi Coleman, how are you? Good thanks. I wanted to have a chat with you because our friend Josh told me..."
+    },
+    {
+      "name": "ending",
+      "start": 416.907,
+      "end": 481.907,
+      "text": "That's the last ten minutes of the lesson. When we pick out the individual notes from a tune he's made up. It's always quite simple. That must be hard though. It is. But people like it because they can really concentrate. And if we're all playing well, it sounds quite impressive. The only trouble is that he sometimes gets us to play I want it a time. You know, alone. Oh, that's scary. Hmm, it is. But I've got used to it now. At the end, he spends about five minutes telling us what to practice for the following week. Well, thanks, Coleman. I'll go and have a look at that website, I think. That is the end of part 1. You now have one minute to check your answers to part 1."
+    }
+  ]
+}

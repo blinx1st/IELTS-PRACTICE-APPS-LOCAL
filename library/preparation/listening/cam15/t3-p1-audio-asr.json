@@ -1,0 +1,162 @@
+{
+  "book": 15,
+  "test": 3,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio1.m4a",
+  "sha256": "ef7e14b87ab280ac03e41d0058eed6151ba52a3c84d582c497000316bbc78565",
+  "duration": 470.613,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      370.6133125,
+      470.6133125
+    ]
+  ],
+  "text": "Test 3 This is the IELTS Listening Test. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to the answer sheet. Now turn to part one. Part one. You will hear a woman who works at an employment agency talking to a man about jobs he could apply for. First, you have some time to look at questions 1 to 5. Now listen carefully and answer questions one to five. Good morning. Thanks for coming in to see us here at the Agency Joe. I'm one of the Agency representatives and my name's Sally Baker. Hi Sally. I think we spoke on the phone didn't we? That's right we did. So thank you for sending in your CV. We've had quite a careful look at it and I think we have two jobs that might be suitable for you. the training. Good. Now, as far as experience goes, they mention they want someone with a license and that you have experience of driving in London, so you can cope with the traffic and so on. Yes, no problem. And you've got experience of warehouse work. And the final thing they mentioned is customer service. I think looking at your CV, you're okay there. Right. So what about pay. Can you tell me a bit more about that, please? That is the end of Part 1. You now have one minute to check your answers to Part 1. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "Test 3 This is the IELTS Listening Test."
+    },
+    {
+      "start": 6.96,
+      "end": 12.04,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on"
+    },
+    {
+      "start": 12.04,
+      "end": 13.52,
+      "text": "what you hear."
+    },
+    {
+      "start": 13.52,
+      "end": 19.2,
+      "text": "There will be time for you to read the instructions and questions, and you will have"
+    },
+    {
+      "start": 19.2,
+      "end": 22.76,
+      "text": "a chance to check your work."
+    },
+    {
+      "start": 22.76,
+      "end": 27.36,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 27.36,
+      "end": 29.64,
+      "text": "The test is in four parts."
+    },
+    {
+      "start": 31.08,
+      "end": 34.44,
+      "text": "At the end of the test, you will be given 10 minutes"
+    },
+    {
+      "start": 34.44,
+      "end": 37.44,
+      "text": "to transfer your answers to the answer sheet."
+    },
+    {
+      "start": 38.84,
+      "end": 40.8,
+      "text": "Now turn to part one."
+    },
+    {
+      "start": 45.96,
+      "end": 46.8,
+      "text": "Part one."
+    },
+    {
+      "start": 48.2,
+      "end": 51.8,
+      "text": "You will hear a woman who works at an employment agency"
+    },
+    {
+      "start": 51.8,
+      "end": 54.96,
+      "text": "talking to a man about jobs he could apply for."
+    },
+    {
+      "start": 54.96,
+      "end": 59.96,
+      "text": "First, you have some time to look at questions 1 to 5."
+    },
+    {
+      "start": 84.96,
+      "end": 91.96,
+      "text": "Now listen carefully and answer questions one to five."
+    },
+    {
+      "start": 91.96,
+      "end": 96.96,
+      "text": "Good morning. Thanks for coming in to see us here at the Agency Joe."
+    },
+    {
+      "start": 96.96,
+      "end": 100.96,
+      "text": "I'm one of the Agency representatives and my name's Sally Baker."
+    },
+    {
+      "start": 100.96,
+      "end": 103.96,
+      "text": "Hi Sally. I think we spoke on the phone didn't we?"
+    },
+    {
+      "start": 103.96,
+      "end": 107.96,
+      "text": "That's right we did. So thank you for sending in your CV."
+    },
+    {
+      "start": 107.96,
+      "end": 112.96,
+      "text": "We've had quite a careful look at it and I think we have two jobs"
+    },
+    {
+      "start": 112.96,
+      "end": 114.96,
+      "text": "that might be suitable for you."
+    },
+    {
+      "start": 370.61,
+      "end": 377.09,
+      "text": "the training. Good. Now, as far as experience goes, they mention they want someone with a license"
+    },
+    {
+      "start": 377.65,
+      "end": 383.81,
+      "text": "and that you have experience of driving in London, so you can cope with the traffic and so on."
+    },
+    {
+      "start": 383.81,
+      "end": 389.57,
+      "text": "Yes, no problem. And you've got experience of warehouse work. And the final thing they"
+    },
+    {
+      "start": 389.57,
+      "end": 397.01,
+      "text": "mentioned is customer service. I think looking at your CV, you're okay there. Right. So what about"
+    },
+    {
+      "start": 397.01,
+      "end": 403.41,
+      "text": "pay. Can you tell me a bit more about that, please?"
+    },
+    {
+      "start": 403.41,
+      "end": 410.29,
+      "text": "That is the end of Part 1. You now have one minute to check your answers to Part 1."
+    },
+    {
+      "start": 427.01,
+      "end": 429.01,
+      "text": "You"
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

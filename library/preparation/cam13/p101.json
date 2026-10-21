@@ -1,0 +1,111 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 101,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Audioscripts\nTEST 2\nSECTION 1\nJIM:\nHello, South City Cycling Club.\nwoman:\nOh, hi. Er ...\n| want to find out about joining the club.\nJIM:\nRight. | can help you there. I'm the club secretary and my name's Jim Hunter.\nExample\nwoman:\nOh, hi Jim.\nJIM:\nSo, are you interested in membership for yourself?\nwoman:\nThat's right\nJIM:\nOK. Well there are basically two types of adult membership. If you're pretty serious\nabout cycling, there's the Full membership. That costs 260 dollars and that covers\"\nQ1\nother parts of Australia.\nwoman:\nRight. Well, I'm not really up to that standard. | was more interested in just joining a\ngroup to do some cycling in my free time.\nJIM:\nSure. That's why most people join. So, in that case you'd be better with the\nRecreational membership. That's 108 dollars if you're over 19, and 95 dollars if\nyou're under.\nwoman:\nI'm 25.\nJIM:\nOK. It's paid quarterly, and you can upgrade it later to the Full membership if\nyou want to, of course. Now\nQ2\ndollars. They also provide insurance in case you have an accident, though we hope\nyou won't need that, of course.\nwoman:\nNo. OK, well, I'll go with the Recreational membership, | think. And that allows me\nto join in the club activities, and so on?\nJIM:\nThat's right. And once you're a member of the club, you're also permitted to wear\nour kit when you're out cycling. It's green and white.\nwoman:\nYes, I've seen cyclists wearing it. So, can | buy that at the club?\nJIM:\nNo, it’s made to order by a company in Brisbane. You can find them online: they're.\nQ3\ncalled Jerriz. That's J-E-R-R-I-Z. You can use your membership number to put in an\norder on their website.\nwoman:\nOK. Now, can you tell me a bit about the rides | can do?\nJIM:\nSure. So we have training rides pretty well every morning, and they're a really\ngood way of improving your cycling skills as well as your general level of fitness,\nbut they're different levels. Level A is pretty fast — you're looking at about 30 or 35\nkilometres an hour. If you can do about 25 kilometres an hour, you'd probablybe\n4\nlevelB, and then level C are the novices, who stay at about 15 kilometres per hour.\nwoman:\nRight. Well | reckon I'd be level B. So, when are the sessions for that level?\nJIM:\nThere are a couple each week. They're both early morning sessions. There's one\nQ5\nstadium — do you know where that is?\nwoman:\nYes, it's quite near my home, in fact. OK, and how about the other one?\nJIM:\nQ6\nthe park.\nwoman: _ Is that the one just past the shopping mall?\nJIM:\nThat's it.\n",
+  "blocks": [
+    {
+      "box": [
+        56.15999984741211,
+        56.52001953125,
+        125.92794799804688,
+        68.77224731445312
+      ],
+      "text": "Audioscripts\n"
+    },
+    {
+      "box": [
+        252.0,
+        94.67999267578125,
+        309.5999755859375,
+        105.49078369140625
+      ],
+      "text": "TEST 2\n"
+    },
+    {
+      "box": [
+        57.24000549316406,
+        146.8800048828125,
+        147.57298278808594,
+        159.49258422851562
+      ],
+      "text": "SECTION 1\n"
+    },
+    {
+      "box": [
+        56.88002014160156,
+        170.280029296875,
+        554.7312622070312,
+        220.32936096191406
+      ],
+      "text": "JIM:\nHello, South City Cycling Club.\nwoman:\nOh, hi. Er ...\n| want to find out about joining the club.\nJIM:\nRight. | can help you there. I'm the club secretary and my name's Jim Hunter.\nExample\nwoman:\nOh, hi Jim.\n"
+    },
+    {
+      "box": [
+        57.59998321533203,
+        221.760009765625,
+        527.0040283203125,
+        275.4162292480469
+      ],
+      "text": "JIM:\nSo, are you interested in membership for yourself?\nwoman:\nThat's right\nJIM:\nOK. Well there are basically two types of adult membership. If you're pretty serious\nabout cycling, there's the Full membership. That costs 260 dollars and that covers\"\nQ1\n"
+    },
+    {
+      "box": [
+        57.959983825683594,
+        288.0,
+        501.77520751953125,
+        377.6486511230469
+      ],
+      "text": "other parts of Australia.\nwoman:\nRight. Well, I'm not really up to that standard. | was more interested in just joining a\ngroup to do some cycling in my free time.\nJIM:\nSure. That's why most people join. So, in that case you'd be better with the\nRecreational membership. That's 108 dollars if you're over 19, and 95 dollars if\nyou're under.\nwoman:\nI'm 25.\n"
+    },
+    {
+      "box": [
+        59.040016174316406,
+        378.3599853515625,
+        529.1172485351562,
+        420.4972839355469
+      ],
+      "text": "JIM:\nOK. It's paid quarterly, and you can upgrade it later to the Full membership if\nyou want to, of course. Now\nQ2\ndollars. They also provide insurance in case you have an accident, though we hope\n"
+    },
+    {
+      "box": [
+        59.03999328613281,
+        420.1199951171875,
+        529.8192138671875,
+        524.8961791992188
+      ],
+      "text": "you won't need that, of course.\nwoman:\nNo. OK, well, I'll go with the Recreational membership, | think. And that allows me\nto join in the club activities, and so on?\nJIM:\nThat's right. And once you're a member of the club, you're also permitted to wear\nour kit when you're out cycling. It's green and white.\nwoman:\nYes, I've seen cyclists wearing it. So, can | buy that at the club?\nJIM:\nNo, it’s made to order by a company in Brisbane. You can find them online: they're.\nQ3\ncalled Jerriz. That's J-E-R-R-I-Z. You can use your membership number to put in an\n"
+    },
+    {
+      "box": [
+        59.75999450683594,
+        525.9599609375,
+        530.9568481445312,
+        644.4172973632812
+      ],
+      "text": "order on their website.\nwoman:\nOK. Now, can you tell me a bit about the rides | can do?\nJIM:\nSure. So we have training rides pretty well every morning, and they're a really\ngood way of improving your cycling skills as well as your general level of fitness,\nbut they're different levels. Level A is pretty fast — you're looking at about 30 or 35\nkilometres an hour. If you can do about 25 kilometres an hour, you'd probablybe\n4\nlevelB, and then level C are the novices, who stay at about 15 kilometres per hour.\nwoman:\nRight. Well | reckon I'd be level B. So, when are the sessions for that level?\nJIM:\nThere are a couple each week. They're both early morning sessions. There's one\nQ5\n"
+    },
+    {
+      "box": [
+        60.839996337890625,
+        656.280029296875,
+        449.76953125,
+        681.49365234375
+      ],
+      "text": "stadium — do you know where that is?\nwoman:\nYes, it's quite near my home, in fact. OK, and how about the other one?\n"
+    },
+    {
+      "box": [
+        61.20001220703125,
+        680.0399780273438,
+        531.3168334960938,
+        736.5736694335938
+      ],
+      "text": "JIM:\nQ6\nthe park.\nwoman: _ Is that the one just past the shopping mall?\nJIM:\nThat's it.\n"
+    }
+  ]
+}

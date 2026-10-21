@@ -1,0 +1,214 @@
+{
+  "tests": 32,
+  "parts": 128,
+  "questions": 1280,
+  "uniqueAudioFiles": 128,
+  "groups": {
+    "completion": 75,
+    "choice": 48,
+    "matching": 52,
+    "multi": 63
+  },
+  "layouts": {
+    "table": 11,
+    "standard": 153,
+    "diagram": 10,
+    "flow": 64
+  },
+  "errors": [],
+  "records": [
+    {
+      "id": "cam13-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam13-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam13-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam13-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam14-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam14-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam14-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam14-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam15-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam15-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam15-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam15-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam16-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam16-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam16-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam16-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam17-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam17-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam17-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam17-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam18-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam18-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam18-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam18-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam19-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam19-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam19-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam19-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam20-listening-test1",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam20-listening-test2",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam20-listening-test3",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    },
+    {
+      "id": "cam20-listening-test4",
+      "questions": 40,
+      "parts": 4,
+      "canonicalScore": 40
+    }
+  ],
+  "scope": "Structural, SHA-256, native controls, canonical answers, unordered multi choices; not a substitute for editorial PDF/audio review."
+}

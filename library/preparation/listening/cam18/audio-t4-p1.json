@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/c4ba3cb30b3208acd298cf6a2c31a9fe46414d3fd35472680babd810fdbd5051.mp3",
+    "sha256": "c4ba3cb30b3208acd298cf6a2c31a9fe46414d3fd35472680babd810fdbd5051",
+    "duration": 442.888,
+    "start": 0,
+    "end": 442.888,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 4. This is the IELTS Listening Test. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to part 1. Part 1. You will hear a man who works at an employment agency, phoning a woman who is looking for a job. First, you have some time to look at questions 1 to 5. Now, listen carefully and answer questions one to five. Hello? Oh hello, is that Julie Davison? Yes. This is Greg Preston from the Employment Agency. We met last week when you came in to inquire about office work? Oh, that's right. Now we've just had some details come in of a job which might..."
+    },
+    {
+      "name": "ending",
+      "start": 377.888,
+      "end": 442.888,
+      "text": "You now have one minute to check your answers to part one. You"
+    }
+  ]
+}

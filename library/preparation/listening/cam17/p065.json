@@ -1,0 +1,183 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 65,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "DhakA\nah ve\nBE, RAURERORATR\nreps\nBy\nTest 3\nRee a\na 1718867188\nWRITING\nWRITING TASK\n1\nYou should spend about 20 minutes on this task.\nThe chart below gives information about how families in one country spent\ntheir weekly income in 1968 and in 2018.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\n1968 and 2018: average weekly spending by families\nM1968\nfj 2018\nFood\nHousing\nFuel and power\nClothing and footware\nHousehold goods\nPersonal goods\nTransport\nLeisure\n0\n5\n10\n15\n20\n25\n30\n35\n£40\n% of weekly income\n72,\n|S p. 133\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        64.45471954345703
+      ],
+      "text": "DhakA\nah ve\nBE, RAURERORATR\nreps\nBy\nTest 3\nRee a\na 1718867188\n"
+    },
+    {
+      "box": [
+        267.7859802246094,
+        82.06343078613281,
+        335.1572570800781,
+        92.15149688720703
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        70.18582153320312,
+        126.69447326660156,
+        200.08364868164062,
+        136.78253173828125
+      ],
+      "text": "WRITING TASK\n1\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        155.84861755371094,
+        323.5746765136719,
+        166.6572265625
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        83.863037109375,
+        192.20127868652344,
+        505.2480773925781,
+        217.0469970703125
+      ],
+      "text": "The chart below gives information about how families in one country spent\ntheir weekly income in 1968 and in 2018.\n"
+    },
+    {
+      "box": [
+        83.14318084716797,
+        233.59288024902344,
+        517.0681762695312,
+        258.79864501953125
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        70.54571533203125,
+        283.9827575683594,
+        199.255859375,
+        292.6296691894531
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        131.73338317871094,
+        327.174072265625,
+        477.839599609375,
+        340.5046691894531
+      ],
+      "text": "1968 and 2018: average weekly spending by families\n"
+    },
+    {
+      "box": [
+        258.78778076171875,
+        350.20941162109375,
+        352.1673583984375,
+        360.2974548339844
+      ],
+      "text": "M1968\nfj 2018\n"
+    },
+    {
+      "box": [
+        192.20120239257812,
+        383.3227233886719,
+        217.252197265625,
+        391.9696350097656
+      ],
+      "text": "Food\n"
+    },
+    {
+      "box": [
+        175.64453125,
+        419.3154602050781,
+        217.21617126464844,
+        430.1241149902344
+      ],
+      "text": "Housing\n"
+    },
+    {
+      "box": [
+        137.13230895996094,
+        455.3081970214844,
+        218.02603149414062,
+        466.1168518066406
+      ],
+      "text": "Fuel and power\n"
+    },
+    {
+      "box": [
+        103.65904235839844,
+        491.660888671875,
+        217.2521209716797,
+        502.4695129394531
+      ],
+      "text": "Clothing and footware\n"
+    },
+    {
+      "box": [
+        126.69440460205078,
+        528.0135498046875,
+        217.12620544433594,
+        538.8222045898438
+      ],
+      "text": "Household goods\n"
+    },
+    {
+      "box": [
+        136.77236938476562,
+        564.0062866210938,
+        217.2161865234375,
+        574.81494140625
+      ],
+      "text": "Personal goods\n"
+    },
+    {
+      "box": [
+        168.0860595703125,
+        599.9990234375,
+        217.64804077148438,
+        610.8076782226562
+      ],
+      "text": "Transport\n"
+    },
+    {
+      "box": [
+        180.32359313964844,
+        635.9918212890625,
+        217.51129150390625,
+        644.6387329101562
+      ],
+      "text": "Leisure\n"
+    },
+    {
+      "box": [
+        220.27554321289062,
+        677.743408203125,
+        500.6337890625,
+        707.628173828125
+      ],
+      "text": "0\n5\n10\n15\n20\n25\n30\n35\n£40\n% of weekly income\n"
+    },
+    {
+      "box": [
+        70.54571533203125,
+        729.932861328125,
+        172.72012329101562,
+        742.5429077148438
+      ],
+      "text": "72,\n|S p. 133\n"
+    }
+  ]
+}

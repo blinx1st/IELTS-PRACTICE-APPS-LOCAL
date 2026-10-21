@@ -1,0 +1,154 @@
+{
+  "id": "cam14-listening-test3",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "Tesla"
+    ],
+    "2": [
+      "microphone"
+    ],
+    "3": [
+      "exhibition"
+    ],
+    "4": [
+      "wifi"
+    ],
+    "5": [
+      "45"
+    ],
+    "6": [
+      "135"
+    ],
+    "7": [
+      "pool"
+    ],
+    "8": [
+      "airport"
+    ],
+    "9": [
+      "sea"
+    ],
+    "10": [
+      "clubs"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "E"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "E"
+    ],
+    "18": [
+      "G"
+    ],
+    "19": [
+      "D"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "50"
+    ],
+    "22": [
+      "regional"
+    ],
+    "23": [
+      "carnival"
+    ],
+    "24": [
+      "drummer"
+    ],
+    "25": [
+      "film"
+    ],
+    "26": [
+      "parade"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "E"
+    ],
+    "30": [
+      "F"
+    ],
+    "31": [
+      "violin"
+    ],
+    "32": [
+      "energy"
+    ],
+    "33": [
+      "complex"
+    ],
+    "34": [
+      "opera"
+    ],
+    "35": [
+      "disturbing"
+    ],
+    "36": [
+      "clarinet"
+    ],
+    "37": [
+      "diversity"
+    ],
+    "38": [
+      "physics"
+    ],
+    "39": [
+      "dance"
+    ],
+    "40": [
+      "Olympics"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        11,
+        12
+      ],
+      "answers": [
+        "A",
+        "E"
+      ]
+    },
+    {
+      "numbers": [
+        13,
+        14
+      ],
+      "answers": [
+        "B",
+        "E"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+    "pdfPage": 93,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

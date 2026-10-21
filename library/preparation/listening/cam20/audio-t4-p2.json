@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/d11b2c3bbce95b06bbdbeca8f928ee7e3002367f59a6b89feff6f63256cea092.m4a",
+    "sha256": "d11b2c3bbce95b06bbdbeca8f928ee7e3002367f59a6b89feff6f63256cea092",
+    "duration": 508.494,
+    "start": 0,
+    "end": 508.494,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S2.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a guide talking to members of the public who are visiting a football stadium in the UK. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. morning and welcome to City Football Club. I'd like to give you some useful information about your visit to the stadium today and then we'll start the tour of the areas of the stadium that are open to visitors. I can see lots of children here today so just to let mums and dads know a few things before we start. The stadium has lots of stairs and the players tunnel is very dark. please don't let your children wander off on their own. Even for a minute, we don't want any accidents or anyone getting frightened. Cameras are permitted everywhere and you can take pictures of your child."
+    },
+    {
+      "name": "ending",
+      "start": 443.494,
+      "end": 508.494,
+      "text": "That is the end of Part 2. You now have 30 seconds to check your answers to Part 2. You"
+    }
+  ]
+}

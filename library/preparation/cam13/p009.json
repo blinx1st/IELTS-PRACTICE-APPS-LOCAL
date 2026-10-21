@@ -1,0 +1,147 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 9,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 1\nLISTENING\nSECTION\n1\nQuestions 1-10\nComplete the table below.\nFB com/LouisQuangVo\nWrite ONE WORD AND/OR A NUMBER for each answer.\nCOOKERY CLASSES\nCookery Class\nFocus\nOther Information\nExample\nA Oh nr\nsmall classes\nand cook with seasonal\nThe Food...... Studio... |products\n©\nANSO OFFEFS 2 oocccsnnnnnnnnnesennne\nclasses\n°\nclients who return get\nBB occccccccsesssnnnseenenneeeee diSCount\nBond's Cookery\nfood that\ns\nincludes recipes to strengthen\nSchool\n1S Airccaonmmmnnunamnaninns\nNOUN © scccenannuencamcmmassuns\n°\nthey have a\nFES GB ooreccsesssssessnstisssenseensseens OVELY\nThursday\nThe\nMANN 8 sntocsommmmmmzces\n|\nlocated near\nY ee ee\nfood\n11: en\nrereer\nCentre\n°\na special course in skills with\nii\n||\nen eee\n|\nsometimes available\n10\n",
+  "blocks": [
+    {
+      "box": [
+        87.83999633789062,
+        79.91998291015625,
+        153.6479949951172,
+        99.7397689819336
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        283.67999267578125,
+        130.67999267578125,
+        369.70184326171875,
+        141.49078369140625
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        87.83999633789062,
+        179.6400146484375,
+        315.6480712890625,
+        191.5319061279297
+      ],
+      "text": "SECTION\n1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        88.55999755859375,
+        209.8800048828125,
+        341.5101318359375,
+        223.93402099609375
+      ],
+      "text": "Complete the table below.\nFB com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        88.91999816894531,
+        238.32000732421875,
+        399.42340087890625,
+        248.04969787597656
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        253.0800018310547,
+        287.2799987792969,
+        407.131103515625,
+        299.5322265625
+      ],
+      "text": "COOKERY CLASSES\n"
+    },
+    {
+      "box": [
+        92.52001953125,
+        311.760009765625,
+        563.1837768554688,
+        397.08935546875
+      ],
+      "text": "Cookery Class\nFocus\nOther Information\nExample\nA Oh nr\nsmall classes\nand cook with seasonal\nThe Food...... Studio... |products\n©\nANSO OFFEFS 2 oocccsnnnnnnnnnesennne\nclasses\n"
+    },
+    {
+      "box": [
+        376.2000427246094,
+        410.0400085449219,
+        566.3953857421875,
+        434.5300598144531
+      ],
+      "text": "°\nclients who return get\nBB occccccccsesssnnnseenenneeeee diSCount\n"
+    },
+    {
+      "box": [
+        92.8800048828125,
+        463.67999267578125,
+        564.3900146484375,
+        491.4143981933594
+      ],
+      "text": "Bond's Cookery\nfood that\ns\nincludes recipes to strengthen\nSchool\n1S Airccaonmmmnnunamnaninns\nNOUN © scccenannuencamcmmassuns\n"
+    },
+    {
+      "box": [
+        376.20001220703125,
+        506.1600036621094,
+        564.6961059570312,
+        546.4915161132812
+      ],
+      "text": "°\nthey have a\nFES GB ooreccsesssssessnstisssenseensseens OVELY\nThursday\n"
+    },
+    {
+      "box": [
+        92.8800048828125,
+        569.52001953125,
+        470.1455993652344,
+        581.7722778320312
+      ],
+      "text": "The\nMANN 8 sntocsommmmmmzces\n|\nlocated near\n"
+    },
+    {
+      "box": [
+        91.44000244140625,
+        582.8399658203125,
+        527.9111938476562,
+        608.4093627929688
+      ],
+      "text": "Y ee ee\nfood\n11: en\nrereer\nCentre\n"
+    },
+    {
+      "box": [
+        376.55999755859375,
+        627.8399658203125,
+        558.62646484375,
+        639.7318725585938
+      ],
+      "text": "°\na special course in skills with\n"
+    },
+    {
+      "box": [
+        403.55999755859375,
+        642.239990234375,
+        536.7330322265625,
+        666.3693237304688
+      ],
+      "text": "ii\n||\nen eee\n|\nsometimes available\n"
+    },
+    {
+      "box": [
+        88.92001342773438,
+        747.3599853515625,
+        100.80001831054688,
+        756.3689575195312
+      ],
+      "text": "10\n"
+    }
+  ]
+}

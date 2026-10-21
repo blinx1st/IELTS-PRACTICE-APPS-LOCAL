@@ -1,0 +1,135 @@
+{
+  "id": "cam13-test2",
+  "version": "1",
+  "answers": {
+    "1": [
+      "oils"
+    ],
+    "2": [
+      "friendship"
+    ],
+    "3": [
+      "funerals"
+    ],
+    "4": [
+      "wealth"
+    ],
+    "5": [
+      "indigestion"
+    ],
+    "6": [
+      "India"
+    ],
+    "7": [
+      "camels"
+    ],
+    "8": [
+      "Alexandria"
+    ],
+    "9": [
+      "Venice"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "NOT GIVEN"
+    ],
+    "13": [
+      "FALSE"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "E"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "animals"
+    ],
+    "22": [
+      "childbirth"
+    ],
+    "23": [
+      "placebo"
+    ],
+    "24": [
+      "game"
+    ],
+    "25": [
+      "strangers"
+    ],
+    "26": [
+      "names"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "D"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "C"
+    ],
+    "37": [
+      "A"
+    ],
+    "38": [
+      "B"
+    ],
+    "39": [
+      "C"
+    ],
+    "40": [
+      "D"
+    ]
+  },
+  "multi": [],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+    "sha256": "7e98040d551cd2e4bda85dfd25d787d59607502613d890341c3fa98e255a5589",
+    "pdfPage": 119,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 12,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Listening\nSECTION\n3\nQuestions 21-30\nQuestions 21-25\nChoose the correct letter, A, B or C.\n21.\nWhy is Jack interested in investigating seed germination?\nA\nHe may do a module ona related topic later on.\nB\nHe wants to have a career in plant science.\nC_Heis thinking of choosing this topic for his dissertation.\n22\nJack and Emma agree the main advantage of their present experiment is that it\ncan be\nA\ndescribed very easily.\nB\ncarried out inside the laboratory.\nC\ncompleted in the time available.\n23\nWhat do they decide to check with their tutor?\nA\nwhether their aim is appropriate\nB-\nwhether anyone else has chosen this topic\nC_\nwhether the assignment contributes to their final grade\n24\nThey agree that Graves’ book on seed germination is disappointing because\nA _\nit fails to cover recent advances in seed science.\nB\nthe content is irrelevant for them.\nC _\nits focus is very theoretical.\n25\nWhat does Jack say about the article on seed germination by Lee Hall?\nA_\nThe diagrams of plant development are useful.\nB_\nThe analysis of seed germination statistics is thorough.\nC_\nThe findings on seed germination after fires are surprising.\n",
+  "blocks": [
+    {
+      "box": [
+        491.3999938964844,
+        65.15997314453125,
+        540.64794921875,
+        76.69151306152344
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        50.760009765625,
+        103.32000732421875,
+        291.6719970703125,
+        115.57223510742188
+      ],
+      "text": "SECTION\n3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        51.480010986328125,
+        133.91998291015625,
+        153.14401245117188,
+        144.37042236328125
+      ],
+      "text": "Questions 21-25\n"
+    },
+    {
+      "box": [
+        51.12001037597656,
+        163.44000244140625,
+        247.28399658203125,
+        174.25079345703125
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        50.4000244140625,
+        192.5999755859375,
+        394.5171813964844,
+        204.85226440429688
+      ],
+      "text": "21.\nWhy is Jack interested in investigating seed germination?\n"
+    },
+    {
+      "box": [
+        77.04000854492188,
+        214.20001220703125,
+        406.91717529296875,
+        257.0518493652344
+      ],
+      "text": "A\nHe may do a module ona related topic later on.\nB\nHe wants to have a career in plant science.\nC_Heis thinking of choosing this topic for his dissertation.\n"
+    },
+    {
+      "box": [
+        50.0400390625,
+        267.84002685546875,
+        514.78564453125,
+        291.968994140625
+      ],
+      "text": "22\nJack and Emma agree the main advantage of their present experiment is that it\ncan be\n"
+    },
+    {
+      "box": [
+        76.68003845214844,
+        305.6400146484375,
+        280.1790466308594,
+        347.0518798828125
+      ],
+      "text": "A\ndescribed very easily.\nB\ncarried out inside the laboratory.\nC\ncompleted in the time available.\n"
+    },
+    {
+      "box": [
+        49.680023193359375,
+        357.8399963378906,
+        329.0868835449219,
+        369.73187255859375
+      ],
+      "text": "23\nWhat do they decide to check with their tutor?\n"
+    },
+    {
+      "box": [
+        76.67999267578125,
+        380.5199890136719,
+        278.7264099121094,
+        392.411865234375
+      ],
+      "text": "A\nwhether their aim is appropriate\n"
+    },
+    {
+      "box": [
+        77.03999328613281,
+        395.2799987792969,
+        339.3990478515625,
+        407.171875
+      ],
+      "text": "B-\nwhether anyone else has chosen this topic\n"
+    },
+    {
+      "box": [
+        76.67996215820312,
+        410.0400085449219,
+        404.58587646484375,
+        422.292236328125
+      ],
+      "text": "C_\nwhether the assignment contributes to their final grade\n"
+    },
+    {
+      "box": [
+        49.319976806640625,
+        433.0799865722656,
+        498.0672912597656,
+        498.9754638671875
+      ],
+      "text": "24\nThey agree that Graves’ book on seed germination is disappointing because\nA _\nit fails to cover recent advances in seed science.\nB\nthe content is irrelevant for them.\nC _\nits focus is very theoretical.\n"
+    },
+    {
+      "box": [
+        48.9599609375,
+        508.32000732421875,
+        470.4840393066406,
+        520.2119140625
+      ],
+      "text": "25\nWhat does Jack say about the article on seed germination by Lee Hall?\n"
+    },
+    {
+      "box": [
+        75.9599609375,
+        531.0,
+        359.951416015625,
+        542.8919067382812
+      ],
+      "text": "A_\nThe diagrams of plant development are useful.\n"
+    },
+    {
+      "box": [
+        76.67996215820312,
+        545.760009765625,
+        405.9214782714844,
+        557.6519165039062
+      ],
+      "text": "B_\nThe analysis of seed germination statistics is thorough.\n"
+    },
+    {
+      "box": [
+        76.3199462890625,
+        560.52001953125,
+        425.25872802734375,
+        572.4119262695312
+      ],
+      "text": "C_\nThe findings on seed germination after fires are surprising.\n"
+    }
+  ]
+}

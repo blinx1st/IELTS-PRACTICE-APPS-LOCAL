@@ -1,0 +1,970 @@
+{
+  "id": "cam14-listening-test4",
+  "skill": "listening",
+  "book": 14,
+  "test": 4,
+  "title": "Cambridge 14 · Listening Test 4",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam14-listening-test4-p1",
+      "number": 1,
+      "title": "Enquiry about booking hotel room for event",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t4-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–7",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "number of people who can sit down to eat: …"
+            },
+            {
+              "number": 2,
+              "text": "can go out and see the … in pots on the terrace"
+            },
+            {
+              "number": 3,
+              "text": "terrace has a view of a group of …"
+            },
+            {
+              "number": 4,
+              "text": "has a …"
+            },
+            {
+              "number": 5,
+              "text": "can give a … while people are eating"
+            },
+            {
+              "number": 6,
+              "text": "will provide … if there are any problems"
+            },
+            {
+              "number": 7,
+              "text": "Accommodation: in hotel rooms or …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-067.webp",
+              "page": 67
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Enquiry about booking hotel room for event"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Example: Andrew is the Events Manager"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Rooms"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Adelphi Room"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "number of people who can sit down to eat: ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "has a gallery suitable for musicians"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "can go out and see the ",
+                  {
+                    "number": 2
+                  },
+                  " in pots on the terrace"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "terrace has a view of a group of ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Carlton Room"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "number of people who can sit down to eat: 110"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "has a ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "view of the lake"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Options"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Master of Ceremonies:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "can give a ",
+                  {
+                    "number": 5
+                  },
+                  " while people are eating"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "will provide ",
+                  {
+                    "number": 6
+                  },
+                  " if there are any problems"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Accommodation: in hotel rooms or ",
+                  {
+                    "number": 7
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam14-t4-p1-g8",
+          "type": "matching",
+          "heading": "Questions 8–10",
+          "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to . Availability",
+          "body": "",
+          "questions": [
+            {
+              "number": 8,
+              "text": "outdoor swimming pool"
+            },
+            {
+              "number": 9,
+              "text": "gym"
+            },
+            {
+              "number": 10,
+              "text": "tennis courts"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-068.webp",
+              "page": 68
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "included in cost of hiring room"
+            },
+            {
+              "value": "B",
+              "label": "available at extra charge"
+            },
+            {
+              "value": "C",
+              "label": "not available"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-067.webp",
+          "page": 67
+        },
+        {
+          "url": "/library-assets/l-cam14-page-068.webp",
+          "page": 68
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 67
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 68
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/b1f255690b01dd26ffa0326dd0e1fa6acfcde415dac60e20ba3477b7d01d50b6.mp3",
+        "sha256": "b1f255690b01dd26ffa0326dd0e1fa6acfcde415dac60e20ba3477b7d01d50b6",
+        "duration": 491.826,
+        "start": 50.68,
+        "end": 491.826,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t4-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t4-p2-g11",
+          "type": "matching",
+          "heading": "Questions 11–16",
+          "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to . Information",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "dolphin watching"
+            },
+            {
+              "number": 12,
+              "text": "forest walk"
+            },
+            {
+              "number": 13,
+              "text": "cycle trip"
+            },
+            {
+              "number": 14,
+              "text": "local craft tour"
+            },
+            {
+              "number": 15,
+              "text": "observatory trip"
+            },
+            {
+              "number": 16,
+              "text": "horse riding"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-069.webp",
+              "page": 69
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "all downhill"
+            },
+            {
+              "value": "B",
+              "label": "suitable for beginners"
+            },
+            {
+              "value": "C",
+              "label": "only in good weather"
+            },
+            {
+              "value": "D",
+              "label": "food included"
+            },
+            {
+              "value": "E",
+              "label": "no charge"
+            },
+            {
+              "value": "F",
+              "label": "swimming possible"
+            },
+            {
+              "value": "G",
+              "label": "fully booked today"
+            },
+            {
+              "value": "H",
+              "label": "transport not included"
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t4-p2-g17",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO things does the speaker say about the attraction called Musical Favourites?",
+          "questions": [
+            {
+              "number": 17,
+              "text": "Which TWO things does the speaker say about the attraction called Musical Favourites?"
+            },
+            {
+              "number": 18,
+              "text": "Which TWO things does the speaker say about the attraction called Musical Favourites?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-070.webp",
+              "page": 70
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "You pay extra for drinks."
+            },
+            {
+              "value": "B",
+              "label": "You must book it in advance."
+            },
+            {
+              "value": "C",
+              "label": "You get a reduction if you buy two tickets."
+            },
+            {
+              "value": "D",
+              "label": "You can meet the performers."
+            },
+            {
+              "value": "E",
+              "label": "You can take part in the show."
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t4-p2-g19",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO things does the speaker say about the Castle Feast?",
+          "questions": [
+            {
+              "number": 19,
+              "text": "Which TWO things does the speaker say about the Castle Feast?"
+            },
+            {
+              "number": 20,
+              "text": "Which TWO things does the speaker say about the Castle Feast?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-070.webp",
+              "page": 70
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "Visitors can dance after the meal."
+            },
+            {
+              "value": "B",
+              "label": "There is a choice of food."
+            },
+            {
+              "value": "C",
+              "label": "Visitors wear historical costume."
+            },
+            {
+              "value": "D",
+              "label": "Knives and forks are not used."
+            },
+            {
+              "value": "E",
+              "label": "The entertainment includes horse races."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-069.webp",
+          "page": 69
+        },
+        {
+          "url": "/library-assets/l-cam14-page-070.webp",
+          "page": 70
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 69
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 70
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/749becc46eb098dfd0c8087542cec26017694fcd19a0ffd6e1624a8bce608edd.mp3",
+        "sha256": "749becc46eb098dfd0c8087542cec26017694fcd19a0ffd6e1624a8bce608edd",
+        "duration": 432.647,
+        "start": 0,
+        "end": 432.647,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t4-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t4-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–25",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "What does Trevor find interesting about the purpose of children’s literature?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the fact that authors may not realise what values they’re teaching"
+                },
+                {
+                  "value": "B",
+                  "label": "the fact that literature can be entertaining and educational at the same time"
+                },
+                {
+                  "value": "C",
+                  "label": "the fact that adults expect children to imitate characters in literature"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Trevor says the module about the purpose of children’s literature made him",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "analyse some of the stories that his niece reads."
+                },
+                {
+                  "value": "B",
+                  "label": "wonder how far popularity reflects good quality."
+                },
+                {
+                  "value": "C",
+                  "label": "decide to start writing some children’s stories."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Stephanie is interested in the Pictures module because",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "she intends to become an illustrator."
+                },
+                {
+                  "value": "B",
+                  "label": "she can remember beautiful illustrations from her childhood."
+                },
+                {
+                  "value": "C",
+                  "label": "she believes illustrations are more important than words."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "Trevor and Stephanie agree that comics",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "are inferior to books."
+                },
+                {
+                  "value": "B",
+                  "label": "have the potential for being useful."
+                },
+                {
+                  "value": "C",
+                  "label": "discourage children from using their imagination."
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "With regard to books aimed at only boys or only girls, Trevor was surprised",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "how long the distinction had gone unquestioned."
+                },
+                {
+                  "value": "B",
+                  "label": "how few books were aimed at both girls and boys."
+                },
+                {
+                  "value": "C",
+                  "label": "how many children enjoyed books intended for the opposite sex."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-071.webp",
+              "page": 71
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t4-p3-g26",
+          "type": "matching",
+          "heading": "Questions 26–30",
+          "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A—G, next to . Comments",
+          "body": "",
+          "questions": [
+            {
+              "number": 26,
+              "text": "Perrault’s fairy tales"
+            },
+            {
+              "number": 27,
+              "text": "The Swiss Family Robinson"
+            },
+            {
+              "number": 28,
+              "text": "The Nutcracker and The Mouse King"
+            },
+            {
+              "number": 29,
+              "text": "The Lord of the Rings"
+            },
+            {
+              "number": 30,
+              "text": "War Horse"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-072.webp",
+              "page": 72
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "translated into many other languages"
+            },
+            {
+              "value": "B",
+              "label": "hard to read"
+            },
+            {
+              "value": "C",
+              "label": "inspired a work in a different area of art"
+            },
+            {
+              "value": "D",
+              "label": "more popular than the author’s other works"
+            },
+            {
+              "value": "E",
+              "label": "original title refers to another book"
+            },
+            {
+              "value": "F",
+              "label": "started a new genre"
+            },
+            {
+              "value": "G",
+              "label": "unlikely topic"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-071.webp",
+          "page": 71
+        },
+        {
+          "url": "/library-assets/l-cam14-page-072.webp",
+          "page": 72
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 71
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 72
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/f1c07be34b090154afde2aa87d2ffc35c537de367a264c45dfb20dfcee17deab.mp3",
+        "sha256": "f1c07be34b090154afde2aa87d2ffc35c537de367a264c45dfb20dfcee17deab",
+        "duration": 463.303,
+        "start": 0,
+        "end": 463.303,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t4-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test4-p4",
+      "number": 4,
+      "title": "The hunt for sunken settlements and ancient shipwrecks",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t4-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "had a semicircle of large stones round a …"
+            },
+            {
+              "number": 32,
+              "text": "research carried out into structures, … and human remains"
+            },
+            {
+              "number": 33,
+              "text": "used in the oil industry, e.g. to make …"
+            },
+            {
+              "number": 34,
+              "text": "problems: they were expensive and …"
+            },
+            {
+              "number": 35,
+              "text": "Tests: Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of …"
+            },
+            {
+              "number": 36,
+              "text": "… is used for short distance communication, acoustic waves for long distance"
+            },
+            {
+              "number": 37,
+              "text": "AUV can send data to another AUV that has better …, for example"
+            },
+            {
+              "number": 38,
+              "text": "– one carrying … supplies; tablets may have been used for cleaning the …"
+            },
+            {
+              "number": 39,
+              "text": "– one carrying … supplies; tablets may have been used for cleaning the …"
+            },
+            {
+              "number": 40,
+              "text": "– others carrying containers of olive oil or …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-073.webp",
+              "page": 73
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The hunt for sunken settlements and ancient shipwrecks"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "ATLIT-YAM"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "was a village on coast of eastern Mediterranean"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "thrived until about 7,000 BC"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "stone homes had a courtyard"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "had a semicircle of large stones round a ",
+                  {
+                    "number": 31
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "cause of destruction unknown – now under the sea"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "biggest settlement from the prehistoric period found on the seabed"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "research carried out into structures, ",
+                  {
+                    "number": 32
+                  },
+                  " and human remains"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "TRADITIONAL AUTONOMOUS UNDERWATER VEHICLES (AUVs)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "used in the oil industry, e.g. to make ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "problems: they were expensive and ",
+                  {
+                    "number": 34
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "LATEST AUVs"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "much easier to use, relatively cheap, sophisticated"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Tests: Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of ",
+                  {
+                    "number": 35
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Underwater internet:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 36
+                  },
+                  " is used for short distance communication, acoustic waves for long distance"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "plans for communication with researchers by satellite"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "AUV can send data to another AUV that has better ",
+                  {
+                    "number": 37
+                  },
+                  ", for example"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Planned research in Gulf of Baratti:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "to find out more about wrecks of ancient Roman ships, including"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– one carrying ",
+                  {
+                    "number": 38
+                  },
+                  " supplies; tablets may have been used for cleaning the ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– others carrying containers of olive oil or ",
+                  {
+                    "number": 40
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-073.webp",
+          "page": 73
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 73
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/42dd2bd3d5a3120246a4898428d31958fc09b2c9f7391603f9ea333196071005.mp3",
+        "sha256": "42dd2bd3d5a3120246a4898428d31958fc09b2c9f7391603f9ea333196071005",
+        "duration": 558.514,
+        "start": 0,
+        "end": 509.6,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t4-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam14/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

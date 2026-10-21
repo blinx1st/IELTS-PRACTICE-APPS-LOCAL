@@ -1,0 +1,51 @@
+{
+  "testId": "cam20-test3",
+  "reportFile": "cam20-test3-review.json",
+  "status": "verified",
+  "beforeContentSha256": "d65720f381448cecd3c1540af6619842aebbbcc3f08abe399a0fac68db106528",
+  "reviewDate": "2026-10-21",
+  "method": "Visual review of all 13 source PDF pages50–62 against normalized JSON. Alternate144-page source54–56 inspected for Robots and us.",
+  "coverage": {
+    "passages": 3,
+    "questions": 40,
+    "questionGroups": 9,
+    "multiGroups": 2,
+    "wordLimits": [
+      {
+        "questions": "1-7",
+        "wordLimit": 1
+      },
+      {
+        "questions": "24-26",
+        "wordLimit": 1
+      }
+    ]
+  },
+  "corrections": [
+    "Restored truncated Frozen Food wording: Inuit people of Canada; moment was right. Each is a short external corroborated repair.",
+    "Separated Frozen Food paragraphs beginning The modern frozen food industry and 1950s families.",
+    "Assigned source section labels A-F for Coral reefs; preserved second paragraph within sectionD.",
+    "Restored Wolpert quote across pages58/59 and separated Richardson response after it.",
+    "Restored heading-matching instruction field; normalized multi prompts to avoid duplicated checkbox option lists.",
+    "Removed first-question duplication from TFNG/choice instructions and corrected It vs lt in Q37 optionA."
+  ],
+  "externalCorrections": [
+    {
+      "location": "Frozen Food missing of Canada",
+      "source": "https://ieltsdo.com/ielts-reading-test-312/",
+      "corroboration": "https://livinghistoryfarm.org/farming-in-the-1950s/farm-life/frozen-foods/",
+      "insertedWords": 2
+    },
+    {
+      "location": "Frozen Food corrupted mor -> moment was",
+      "source": "https://practicepteonline.com/ielts-reading-test-312/",
+      "replacementWords": 2
+    }
+  ],
+  "sourceLimitations": [
+    "Retyped source fidelity with documented short editorial repairs, not publisher certification. Source image preserves original truncation."
+  ],
+  "unresolvedContentIssues": [],
+  "contentSha256": "a76e3d7eebfae5a04e488ec29056c39f5dc3550bf233d366c6ee58cf09c28d34",
+  "encodingCheck": "UTF-8 JSON round-trip; replacement-mark and mojibake checks passed"
+}

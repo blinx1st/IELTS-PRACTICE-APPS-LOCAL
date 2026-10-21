@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/b5d43130bd1f3bfd569be6eed04e055cc04cd5776cd1545aa1524e738dd1ac9f.mp3",
+    "sha256": "b5d43130bd1f3bfd569be6eed04e055cc04cd5776cd1545aa1524e738dd1ac9f",
+    "duration": 527.603,
+    "start": 0,
+    "end": 527.603,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part4.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear a zoology student giving a presentation on the process of moving wild elephants to a new reserve known as translocation. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. For my presentation today, I want to tell you about how groups of elephants have been moved and settled in new reserves. This is known as translocation and has been carried out in Malawi in Africa in recent years. The reason this is being done is because of overpopulation of elephants in some areas."
+    },
+    {
+      "name": "ending",
+      "start": 462.60299999999995,
+      "end": 527.603,
+      "text": "You That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the listening on the sheet."
+    }
+  ]
+}

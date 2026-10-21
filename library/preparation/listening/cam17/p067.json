@@ -1,0 +1,183 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 67,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "DhakA\nah ve\nBE, EAURERORAER\nrere\nBy\nTest 3\nRee a\nile 1718867188\nSPEAKING\nPART\n1\nThe examiner asks you about yourself, your home, work or studies and other familiar\ntopics.\nEXAMPLE\nDrinks\ne What do you like to drink with your dinner? [Why?]\ne\nDo you drink a lot of water every day? [Why/Why not?]\ne\nDo you prefer drinking tea or coffee? [Why?]\ne\nIf people visit you in your home, what do you usually offer them to drink?\n[Why/Why not?]\nPART 2\nDescribe a monument (e.g., a statue or sculpture)\nYou will have to talk\nthat you like.\nabout the topic for one\n.\nto two minutes. You\nYou should say:\n:\n,\n.\nhave one minute to\nwhat this monument is\nthink\nabout\nwhat\nwhere this monument is\nte oot whe bo\nwhat it looks like\nare going\nto say.\nYou\ncan make some notes\nand explain why you like this monument.\nto help you if you wish.\nPART 3\nDiscussion topics:\nPublic monuments\nExample questions:\nWhat kinds of monuments do tourists in your country enjoy visiting?\nWhy do you think there are often statues of famous people in public places?\nDo you agree that old monuments and buildings should always be preserved?\nArchitecture\nExample questions:\nWhy is architecture such a popular university subject?\nIn what ways has the design of homes changed in recent years?\nTo what extent does the design of buildings affect people’s moods?\n74\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        64.45471954345703
+      ],
+      "text": "DhakA\nah ve\nBE, EAURERORAER\nrere\nBy\nTest 3\nRee a\nile 1718867188\n"
+    },
+    {
+      "box": [
+        261.3072814941406,
+        82.06343078613281,
+        342.3343811035156,
+        92.15149688720703
+      ],
+      "text": "SPEAKING\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        129.21395874023438,
+        124.49527740478516,
+        139.66229248046875
+      ],
+      "text": "PART\n1\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        158.7279510498047,
+        513.8469848632812,
+        183.57342529296875
+      ],
+      "text": "The examiner asks you about yourself, your home, work or studies and other familiar\ntopics.\n"
+    },
+    {
+      "box": [
+        70.90567779541016,
+        194.72071838378906,
+        126.53627014160156,
+        203.0073699951172
+      ],
+      "text": "EXAMPLE\n"
+    },
+    {
+      "box": [
+        70.90567779541016,
+        216.31637573242188,
+        106.14984893798828,
+        224.96328735351562
+      ],
+      "text": "Drinks\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        237.55210876464844,
+        462.3233337402344,
+        304.50946044921875
+      ],
+      "text": "e What do you like to drink with your dinner? [Why?]\ne\nDo you drink a lot of water every day? [Why/Why not?]\ne\nDo you prefer drinking tea or coffee? [Why?]\ne\nIf people visit you in your home, what do you usually offer them to drink?\n[Why/Why not?]\n"
+    },
+    {
+      "box": [
+        71.26558685302734,
+        319.6155700683594,
+        125.94573974609375,
+        329.70355224609375
+      ],
+      "text": "PART 2\n"
+    },
+    {
+      "box": [
+        82.78327178955078,
+        348.4097595214844,
+        510.61102294921875,
+        373.25555419921875
+      ],
+      "text": "Describe a monument (e.g., a statue or sculpture)\nYou will have to talk\nthat you like.\nabout the topic for one\n"
+    },
+    {
+      "box": [
+        82.78327178955078,
+        376.4841003417969,
+        495.1378479003906,
+        393.77142333984375
+      ],
+      "text": ".\nto two minutes. You\nYou should say:\n:\n"
+    },
+    {
+      "box": [
+        83.14318084716797,
+        389.4415283203125,
+        511.9607849121094,
+        457.4800109863281
+      ],
+      "text": ",\n.\nhave one minute to\nwhat this monument is\nthink\nabout\nwhat\nwhere this monument is\nte oot whe bo\nwhat it looks like\nare going\nto say.\nYou\ncan make some notes\nand explain why you like this monument.\nto help you if you wish.\n"
+    },
+    {
+      "box": [
+        71.26557159423828,
+        481.9428405761719,
+        126.33267211914062,
+        492.39117431640625
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        70.90564727783203,
+        504.61822509765625,
+        184.35116577148438,
+        516.5077514648438
+      ],
+      "text": "Discussion topics:\n"
+    },
+    {
+      "box": [
+        70.90564727783203,
+        526.9337768554688,
+        175.0831756591797,
+        535.5806884765625
+      ],
+      "text": "Public monuments\n"
+    },
+    {
+      "box": [
+        70.54571533203125,
+        548.8893432617188,
+        477.44384765625,
+        601.4495849609375
+      ],
+      "text": "Example questions:\nWhat kinds of monuments do tourists in your country enjoy visiting?\nWhy do you think there are often statues of famous people in public places?\nDo you agree that old monuments and buildings should always be preserved?\n"
+    },
+    {
+      "box": [
+        70.18580627441406,
+        617.9954223632812,
+        139.1190948486328,
+        626.642333984375
+      ],
+      "text": "Architecture\n"
+    },
+    {
+      "box": [
+        70.54573059082031,
+        639.9509887695312,
+        351.6635437011719,
+        664.7971801757812
+      ],
+      "text": "Example questions:\nWhy is architecture such a popular university subject?\n"
+    },
+    {
+      "box": [
+        70.54571533203125,
+        668.0253295898438,
+        420.53924560546875,
+        692.8711547851562
+      ],
+      "text": "In what ways has the design of homes changed in recent years?\nTo what extent does the design of buildings affect people’s moods?\n"
+    },
+    {
+      "box": [
+        70.54571533203125,
+        731.0126342773438,
+        82.71485900878906,
+        739.2992553710938
+      ],
+      "text": "74\n"
+    }
+  ]
+}

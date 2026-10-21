@@ -1,0 +1,127 @@
+{
+  "book": 16,
+  "test": 2,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 4.mp3",
+  "sha256": "ac61a42880345db1d81bc6931e0b3b31ff750da22fc10ede9be39eb3dfbab185",
+  "duration": 525.711,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      426.289,
+      526.289
+    ]
+  ],
+  "text": "Part 4. You will hear a sports science student giving a presentation on the health benefits of dance. First, you have some time to look at questions 31 to 40. You Now, listen carefully and answer questions 31 to 40. Dancing is something that humans do when they want to have a good time. It's a universal response to music found in all cultures. But what's only been discovered recently is that dancing not only makes us feel good, It's also extremely good for our health. Dancing, like other forms of exercise, releases hormones, such as dopamine, which make us feel relaxed and happy, and it also reduces feelings of stress or anxiety. Dancing is also a sociable activity, which is another reason it makes us feel good. study compared people's Dance is never going to compete with high intensity workouts when it comes to physical fitness gains, but its popularity is likely to keep on rising because it's such a fun way to keep fit. That is the end of part 4. You now have one minute to check your answers to part 4. You That is the end of the Listening Test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Part 4."
+    },
+    {
+      "start": 2.24,
+      "end": 7.28,
+      "text": "You will hear a sports science student giving a presentation on the health benefits of"
+    },
+    {
+      "start": 7.28,
+      "end": 8.28,
+      "text": "dance."
+    },
+    {
+      "start": 8.28,
+      "end": 12.92,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 71.4,
+      "text": "Now, listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 71.4,
+      "end": 75.64,
+      "text": "Dancing is something that humans do when they want to have a good time."
+    },
+    {
+      "start": 75.64,
+      "end": 80.56,
+      "text": "It's a universal response to music found in all cultures."
+    },
+    {
+      "start": 80.56,
+      "end": 86.92,
+      "text": "But what's only been discovered recently is that dancing not only makes us feel good,"
+    },
+    {
+      "start": 86.92,
+      "end": 90.6,
+      "text": "It's also extremely good for our health."
+    },
+    {
+      "start": 90.6,
+      "end": 97.6,
+      "text": "Dancing, like other forms of exercise, releases hormones, such as dopamine, which make"
+    },
+    {
+      "start": 97.6,
+      "end": 106.4,
+      "text": "us feel relaxed and happy, and it also reduces feelings of stress or anxiety."
+    },
+    {
+      "start": 106.4,
+      "end": 113.08,
+      "text": "Dancing is also a sociable activity, which is another reason it makes us feel good."
+    },
+    {
+      "start": 113.08,
+      "end": 114.92,
+      "text": "study compared people's"
+    },
+    {
+      "start": 426.29,
+      "end": 433.29,
+      "text": "Dance is never going to compete with high intensity workouts when it comes to physical"
+    },
+    {
+      "start": 433.29,
+      "end": 440.29,
+      "text": "fitness gains, but its popularity is likely to keep on rising because it's such a fun"
+    },
+    {
+      "start": 440.29,
+      "end": 445.29,
+      "text": "way to keep fit."
+    },
+    {
+      "start": 445.29,
+      "end": 452.29,
+      "text": "That is the end of part 4. You now have one minute to check your answers to part 4."
+    },
+    {
+      "start": 456.29,
+      "end": 458.29,
+      "text": "You"
+    },
+    {
+      "start": 486.29,
+      "end": 515.13,
+      "text": "That is the end of the Listening Test."
+    },
+    {
+      "start": 515.13,
+      "end": 521.13,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

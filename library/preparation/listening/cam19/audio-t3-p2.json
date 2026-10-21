@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/2581e4ed41c646ea980fa703a3cab1bd3617016b96ff5fb5ac52dd19b93d2e49.mp3",
+    "sha256": "2581e4ed41c646ea980fa703a3cab1bd3617016b96ff5fb5ac52dd19b93d2e49",
+    "duration": 371.827,
+    "start": 0,
+    "end": 371.827,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear the organizer of a children's book festival, giving some information about it on a local radio program. First, you have some time to look at questions 11-16. Now listen carefully and answer questions 11 to 16. The children's book festival is coming up again soon, and here to tell us all about it is the festival's organizer, Jenny Morgan. So tell us what we can expect this year, Jenny. Well, as usual, we've got five days of action-packed exciting events for children, with writers coming from all over the country getting involved. Just to give you an idea of what's on offer in the workshops, first of all, there's a very special event called Super Heroes. This is a chance for deaf children to share their reading experiences with author Madeline Gordon, who is herself hearing impaired. Just do it is a practical workshop, led by the well-known..."
+    },
+    {
+      "name": "ending",
+      "start": 306.827,
+      "end": 371.827,
+      "text": "days that it can be hard to find time for reading. One thing I'd say is to make time to sit down with your child and share books with them. A lot of parents give up reading aloud to their children as soon as they learn to read independently, but this is a mistake. It's good to read more advanced books to them as it helps to develop their vocabulary. If you don't have time for this, then let them listen to audiobooks. Often, they'll want to read books they've listened to for themselves. I think it's a good idea to make a mental note of the type of books your child is reading. Often, they just read the same genre all the time, which can get a bit boring. You can introduce new authors and genres to them. Librarian should be able to help you with this. Well, Jenny, I think that's really useful. That is the end of part two. You now have 30 seconds to check your answers to part 2."
+    }
+  ]
+}

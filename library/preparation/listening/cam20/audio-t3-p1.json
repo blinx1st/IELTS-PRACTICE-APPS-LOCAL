@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/2bac4bf39ad2320fe3877a8426b1cafb26b1b46754f6a56b7e1df6b8ecc5443e.m4a",
+    "sha256": "2bac4bf39ad2320fe3877a8426b1cafb26b1b46754f6a56b7e1df6b8ecc5443e",
+    "duration": 439.693,
+    "start": 0,
+    "end": 439.693,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S1.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 3 This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to Part 1. Part 1. You will hear a woman phoning the owner of a house she is going to rent about companies that she could rent furniture from. First, you have some time to look at questions 1 to 5. Now listen carefully and answer questions 1 to 5."
+    },
+    {
+      "name": "ending",
+      "start": 374.693,
+      "end": 439.693,
+      "text": "than a week of receiving it. That sounds really great. Okay? Well, thanks very much. That's so helpful. That is the end of Part 1. You now have one minute to check your answers to Part 1. You"
+    }
+  ]
+}

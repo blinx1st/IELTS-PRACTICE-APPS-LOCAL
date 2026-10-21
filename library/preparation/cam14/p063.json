@@ -1,0 +1,138 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 63,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nQuestions 37-40\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 37-40 on your answer sheet.\nGuided play\nIn the simplest form of guided play, an adult contributes to the environment in which\nthe child is playing. Alternatively, an adult can play with a child and develop the play,\nfor INStANCE DY 37 cconsssnnennen the Child to investigate different aspects of their\ngame. Adults can help children to learn through play, and may make the activity rather\nstructured, but it should still be based on the Child’s 38oe tO play.\nPlay without the intervention of adults gives children real 39occ\n7 With\nadults, play CaN DE 40 ou... At particular goals. However, all forms of play\nshould be an opportunity for children to have fun.\n71\n",
+  "blocks": [
+    {
+      "box": [
+        498.8594970703125,
+        96.10060119628906,
+        540.1288452148438,
+        106.18866729736328
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        107.61830139160156,
+        131.01361083984375,
+        196.79922485351562,
+        140.74134826660156
+      ],
+      "text": "Questions 37-40\n"
+    },
+    {
+      "box": [
+        107.61830139160156,
+        157.64828491210938,
+        253.26278686523438,
+        168.0965576171875
+      ],
+      "text": "Complete the summary below.\n"
+    },
+    {
+      "box": [
+        107.61830139160156,
+        183.20315551757812,
+        414.4618225097656,
+        193.6514892578125
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        107.97821807861328,
+        208.7579803466797,
+        389.5133972167969,
+        219.56658935546875
+      ],
+      "text": "Write your answers in boxes 37-40 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        280.0235595703125,
+        236.83229064941406,
+        365.24725341796875,
+        250.883544921875
+      ],
+      "text": "Guided play\n"
+    },
+    {
+      "box": [
+        107.97821807861328,
+        268.8658447265625,
+        514.1923217773438,
+        280.3949890136719
+      ],
+      "text": "In the simplest form of guided play, an adult contributes to the environment in which\n"
+    },
+    {
+      "box": [
+        106.8984146118164,
+        285.782470703125,
+        515.9200439453125,
+        297.3116760253906
+      ],
+      "text": "the child is playing. Alternatively, an adult can play with a child and develop the play,\n"
+    },
+    {
+      "box": [
+        106.89838409423828,
+        302.69903564453125,
+        526.4729614257812,
+        331.1448059082031
+      ],
+      "text": "for INStANCE DY 37 cconsssnnennen the Child to investigate different aspects of their\ngame. Adults can help children to learn through play, and may make the activity rather\n"
+    },
+    {
+      "box": [
+        107.25830078125,
+        336.89215087890625,
+        497.1588134765625,
+        347.3404846191406
+      ],
+      "text": "structured, but it should still be based on the Child’s 38oe tO play.\n"
+    },
+    {
+      "box": [
+        107.97815704345703,
+        366.40618896484375,
+        514.1491088867188,
+        377.9353942871094
+      ],
+      "text": "Play without the intervention of adults gives children real 39occ\n7 With\n"
+    },
+    {
+      "box": [
+        107.61824035644531,
+        383.3227844238281,
+        525.65966796875,
+        395.2122802734375
+      ],
+      "text": "adults, play CaN DE 40 ou... At particular goals. However, all forms of play\n"
+    },
+    {
+      "box": [
+        107.61824035644531,
+        400.9592590332031,
+        345.5230712890625,
+        412.1281433105469
+      ],
+      "text": "should be an opportunity for children to have fun.\n"
+    },
+    {
+      "box": [
+        528.0134887695312,
+        732.4525146484375,
+        538.0303344726562,
+        740.7391357421875
+      ],
+      "text": "71\n"
+    }
+  ]
+}

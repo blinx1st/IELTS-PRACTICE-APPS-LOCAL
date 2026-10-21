@@ -1,0 +1,946 @@
+{
+  "id": "cam13-listening-test1",
+  "skill": "listening",
+  "book": 13,
+  "test": 1,
+  "title": "Cambridge 13 · Listening Test 1",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam13-listening-test1-p1",
+      "number": 1,
+      "title": "COOKERY CLASSES",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t1-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the table below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "how to … and cook with seasonal products"
+            },
+            {
+              "number": 2,
+              "text": "• also offers … classes"
+            },
+            {
+              "number": 3,
+              "text": "• clients who return get a … discount"
+            },
+            {
+              "number": 4,
+              "text": "food that is …"
+            },
+            {
+              "number": 5,
+              "text": "• includes recipes to strengthen your …"
+            },
+            {
+              "number": 6,
+              "text": "• they have a free … every Thursday"
+            },
+            {
+              "number": 7,
+              "text": "The … Centre"
+            },
+            {
+              "number": 8,
+              "text": "mainly … food"
+            },
+            {
+              "number": 9,
+              "text": "• located near the …"
+            },
+            {
+              "number": 10,
+              "text": "• a special course in skills with a … is sometimes available"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-009.webp",
+              "page": 9
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "table",
+            "caption": "COOKERY CLASSES",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "header": true,
+                    "content": [
+                      "Cookery Class"
+                    ]
+                  },
+                  {
+                    "header": true,
+                    "content": [
+                      "Focus"
+                    ]
+                  },
+                  {
+                    "header": true,
+                    "content": [
+                      "Other Information"
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Example: The Food Studio"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "how to ",
+                      {
+                        "number": 1
+                      },
+                      " and cook with seasonal products"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "• small classes\n• also offers ",
+                      {
+                        "number": 2
+                      },
+                      " classes\n• clients who return get a ",
+                      {
+                        "number": 3
+                      },
+                      " discount"
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Bond’s Cookery School"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "food that is ",
+                      {
+                        "number": 4
+                      }
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "• includes recipes to strengthen your ",
+                      {
+                        "number": 5
+                      },
+                      "\n• they have a free ",
+                      {
+                        "number": 6
+                      },
+                      " every Thursday"
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "The ",
+                      {
+                        "number": 7
+                      },
+                      " Centre"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "mainly ",
+                      {
+                        "number": 8
+                      },
+                      " food"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "• located near the ",
+                      {
+                        "number": 9
+                      },
+                      "\n• a special course in skills with a ",
+                      {
+                        "number": 10
+                      },
+                      " is sometimes available"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-009.webp",
+          "page": 9
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 9
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/909f54b389f412e7b6d081c08c35ebccc7daa77316133bfc2690d7d9aa604fc2.mp3",
+        "sha256": "909f54b389f412e7b6d081c08c35ebccc7daa77316133bfc2690d7d9aa604fc2",
+        "duration": 448.294,
+        "start": 67.0,
+        "end": 448.294,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_01.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t1-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test1-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t1-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–13",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Why are changes needed to traffic systems in Granford?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "The number of traffic accidents has risen."
+                },
+                {
+                  "value": "B",
+                  "label": "The amount of traffic on the roads has increased."
+                },
+                {
+                  "value": "C",
+                  "label": "The types of vehicles on the roads have changed."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "In a survey, local residents particularly complained about",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "dangerous driving by parents."
+                },
+                {
+                  "value": "B",
+                  "label": "pollution from trucks and lorries."
+                },
+                {
+                  "value": "C",
+                  "label": "inconvenience from parked cars."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "According to the speaker, one problem with the new regulations will be",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "raising money to pay for them."
+                },
+                {
+                  "value": "B",
+                  "label": "finding a way to make people follow them."
+                },
+                {
+                  "value": "C",
+                  "label": "getting the support of the police."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-010.webp",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t1-p2-g14",
+          "type": "matching",
+          "heading": "Questions 14–20",
+          "instructions": "Label the map/plan below. Write the correct letter, A–I, next to Questions 14–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 14,
+              "text": "New traffic lights"
+            },
+            {
+              "number": 15,
+              "text": "Pedestrian crossing"
+            },
+            {
+              "number": 16,
+              "text": "Parking allowed"
+            },
+            {
+              "number": 17,
+              "text": "New ‘No Parking’ sign"
+            },
+            {
+              "number": 18,
+              "text": "New disabled parking spaces"
+            },
+            {
+              "number": 19,
+              "text": "Widened pavement"
+            },
+            {
+              "number": 20,
+              "text": "Lorry loading/unloading restrictions"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-011.webp",
+              "page": 11
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            },
+            {
+              "value": "I",
+              "label": "I"
+            }
+          ],
+          "renderMode": "source-map",
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam13-page-011.webp",
+              "page": 11
+            },
+            "labels": [
+              {
+                "number": 14,
+                "x": 0.75,
+                "y": 0.727,
+                "width": 0.13
+              },
+              {
+                "number": 15,
+                "x": 0.75,
+                "y": 0.7642,
+                "width": 0.13
+              },
+              {
+                "number": 16,
+                "x": 0.75,
+                "y": 0.8014,
+                "width": 0.13
+              },
+              {
+                "number": 17,
+                "x": 0.75,
+                "y": 0.8386,
+                "width": 0.13
+              },
+              {
+                "number": 18,
+                "x": 0.75,
+                "y": 0.8758,
+                "width": 0.13
+              },
+              {
+                "number": 19,
+                "x": 0.75,
+                "y": 0.913,
+                "width": 0.13
+              },
+              {
+                "number": 20,
+                "x": 0.75,
+                "y": 0.9502,
+                "width": 0.13
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-010.webp",
+          "page": 10
+        },
+        {
+          "url": "/library-assets/l-cam13-page-011.webp",
+          "page": 11
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 10
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 11
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/437825c120edd7195032522cee82e66f831e61e6c0b33dad6db3fc6bebeb290d.mp3",
+        "sha256": "437825c120edd7195032522cee82e66f831e61e6c0b33dad6db3fc6bebeb290d",
+        "duration": 405.596,
+        "start": 0,
+        "end": 405.596,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_02.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t1-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test1-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t1-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–25",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Why is Jack interested in investigating seed germination?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "He may do a module on a related topic later on."
+                },
+                {
+                  "value": "B",
+                  "label": "He wants to have a career in plant science."
+                },
+                {
+                  "value": "C",
+                  "label": "He’s thinking of choosing this topic for his dissertation."
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Jack and Emma agree the main advantage of their present experiment is that it can be",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "described very easily."
+                },
+                {
+                  "value": "B",
+                  "label": "carried out inside the laboratory."
+                },
+                {
+                  "value": "C",
+                  "label": "completed in the time available."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "What do they decide to check with their tutor?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "whether their aim is appropriate"
+                },
+                {
+                  "value": "B",
+                  "label": "whether anyone else has chosen this topic"
+                },
+                {
+                  "value": "C",
+                  "label": "whether the assignment contributes to their final grade"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "They agree that Graves’ book on seed germination is disappointing because",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "it fails to cover recent advances in seed science."
+                },
+                {
+                  "value": "B",
+                  "label": "the content is irrelevant for them."
+                },
+                {
+                  "value": "C",
+                  "label": "its focus is very theoretical."
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "What does Jack say about the article on seed germination by Lee Hall?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "The diagrams of plant development are useful."
+                },
+                {
+                  "value": "B",
+                  "label": "The analysis of seed germination statistics is thorough."
+                },
+                {
+                  "value": "C",
+                  "label": "The findings on seed germination after fires are surprising."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-012.webp",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t1-p3-g26",
+          "type": "matching",
+          "heading": "Questions 26–30",
+          "instructions": "Complete the flow-chart below.",
+          "body": "Stages in the experiment\nInvestigate the findings.",
+          "questions": [
+            {
+              "number": 26,
+              "text": "Select seeds of different … and sizes."
+            },
+            {
+              "number": 27,
+              "text": "Measure and record the … and size of each one."
+            },
+            {
+              "number": 28,
+              "text": "Decide on the … to be used."
+            },
+            {
+              "number": 29,
+              "text": "Use a different … for each seed and label it."
+            },
+            {
+              "number": 30,
+              "text": "After about 3 weeks, record the plant’s … ."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-013.webp",
+              "page": 13
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "container"
+            },
+            {
+              "value": "B",
+              "label": "soil"
+            },
+            {
+              "value": "C",
+              "label": "weight"
+            },
+            {
+              "value": "D",
+              "label": "condition"
+            },
+            {
+              "value": "E",
+              "label": "height"
+            },
+            {
+              "value": "F",
+              "label": "colour"
+            },
+            {
+              "value": "G",
+              "label": "types"
+            },
+            {
+              "value": "H",
+              "label": "depths"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-012.webp",
+          "page": 12
+        },
+        {
+          "url": "/library-assets/l-cam13-page-013.webp",
+          "page": 13
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 12
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 13
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c9e4bfe258e6bf508af3a0d77213a0dbb70d0689009aa42f8e954cccaf3b50d5.mp3",
+        "sha256": "c9e4bfe258e6bf508af3a0d77213a0dbb70d0689009aa42f8e954cccaf3b50d5",
+        "duration": 426.645,
+        "start": 0,
+        "end": 426.645,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_03.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t1-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test1-p4",
+      "number": 4,
+      "title": "Effects of urban environments on animals",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t1-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "the … – because of its general adaptability"
+            },
+            {
+              "number": 32,
+              "text": "the pigeon – because walls of city buildings are similar to …"
+            },
+            {
+              "number": 33,
+              "text": "In fact, many urban animals are adapting with unusual …."
+            },
+            {
+              "number": 34,
+              "text": "– She found the size of their … had increased."
+            },
+            {
+              "number": 35,
+              "text": "– She suggests this may be due to the need to locate new sources of … and to deal with new dangers."
+            },
+            {
+              "number": 36,
+              "text": "Catarina Miranda focused on the … of urban and rural blackbirds."
+            },
+            {
+              "number": 37,
+              "text": "– She found urban birds were often braver, but were afraid of situations that were …."
+            },
+            {
+              "number": 38,
+              "text": "– He found that some animals respond to … by producing lower levels of hormones."
+            },
+            {
+              "number": 39,
+              "text": "Sarah Partan’s team found urban squirrels use their … to help them communicate."
+            },
+            {
+              "number": 40,
+              "text": "Species of animals may develop which are unique to cities. However, some changes may not be …."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-014.webp",
+              "page": 14
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Effects of urban environments on animals"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Introduction"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life, e.g."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the ",
+                  {
+                    "number": 31
+                  },
+                  " – because of its general adaptability"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the pigeon – because walls of city buildings are similar to ",
+                  {
+                    "number": 32
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "In fact, many urban animals are adapting with unusual ",
+                  {
+                    "number": 33
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Recent research"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Emilie Snell-Rood studied small urbanised mammal specimens from museums in Minnesota."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– She found the size of their ",
+                  {
+                    "number": 34
+                  },
+                  " had increased."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– She suggests this may be due to the need to locate new sources of ",
+                  {
+                    "number": 35
+                  },
+                  " and to deal with new dangers."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Catarina Miranda focused on the ",
+                  {
+                    "number": 36
+                  },
+                  " of urban and rural blackbirds."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– She found urban birds were often braver, but were afraid of situations that were ",
+                  {
+                    "number": 37
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Jonathan Atwell studies how animals respond to urban environments."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– He found that some animals respond to ",
+                  {
+                    "number": 38
+                  },
+                  " by producing lower levels of hormones."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Sarah Partan’s team found urban squirrels use their ",
+                  {
+                    "number": 39
+                  },
+                  " to help them communicate."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Long-term possibilities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Species of animals may develop which are unique to cities. However, some changes may not be ",
+                  {
+                    "number": 40
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-014.webp",
+          "page": 14
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 14
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/bb349125abe3033124495f03256e2c58d56d421b3b4aadeed087aa113d282578.mp3",
+        "sha256": "bb349125abe3033124495f03256e2c58d56d421b3b4aadeed087aa113d282578",
+        "duration": 419.107,
+        "start": 0,
+        "end": 369.72,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_04.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t1-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam13/timeline-t1-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

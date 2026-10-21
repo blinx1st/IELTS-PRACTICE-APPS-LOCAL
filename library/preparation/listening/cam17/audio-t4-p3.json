@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/88d0e50e550c46ab604cdbcfaaa45f31d2b7fe699c71669676e796e9d126acac.mp3",
+    "sha256": "88d0e50e550c46ab604cdbcfaaa45f31d2b7fe699c71669676e796e9d126acac",
+    "duration": 410.667,
+    "start": 0,
+    "end": 410.667,
+    "source": "library\\preparation\\listening\\cam17\\cam17-test4-part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two students called Gene and Thomas discussing their Sports Science course. First you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. Hi Thomas! How are you enjoying the course so far? Yeah, I think it's good. Remind me, why did you decide to study sports science? Didn't you want to be a professional athlete when you were at school? Yeah, that was my goal. And all my classmates assumed I would achieve it. They thought I was brilliant. That must have been a nice feeling. Hmm, I thought I could win anything. There was no one who could run faster than me. Exactly. So what happened? Did your mum and dad want you to be more academic? Not at all. Perhaps they should have pushed me harder though. What do you mean? I think I should have practiced more. What makes you say that? Well, I went out to Kenya for a couple of weeks to train. Really? I didn't know that. I was chosen to go there out of loads of kids and run with some of the top teenage athletes in the world. And I was so calm about it."
+    },
+    {
+      "name": "ending",
+      "start": 345.667,
+      "end": 410.667,
+      "text": "First balls were made of animal skin. Yeah, they covered them with pieces of leather that were stitched together. But the balls let in water when it rained. Oh, that would have made them much heavier. That's right. You can imagine the damage to players' necks when the ball was headed. Oh, how painful that must have been. Yeah. Well, I think we can put together some useful ideas. That is the end of Part 3. You now have half a minute to check your answers to Part 3."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "book": 14,
+  "test": 2,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S1.mp3",
+  "sha256": "39f8e825e45596fbac72e053e47d845dbc98b2ae990b32d7d4454478459e5bb2",
+  "duration": 462.151,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      362.037375,
+      462.037375
+    ]
+  ],
+  "text": "Test 2. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to section 1. You will hear a woman talking to a doctor at a clinic about a medical problem. First, you have some time to look at questions one to four. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Hi, come and take a seat. Thank you. My name is Carl Rogers and I'm one of the doctors here at the Total Health Clinic, so I understand this is your first visit to the clinic. Yes, it is. Okay, well I hope you'll be very happy with the service you receive here. So if it's alright with you, I'll take a few details to help me give you the best possible. a lot of tennis. I belong to a club, so I go there a lot. I'm quite competitive, so I enjoy that side of it as well as the exercise, but I haven't gone since I started. Sure, and do you do any other types of exercise? Yeah, I sometimes do a little swimming, but usually just when I'm on vacation. But normally I go running a few times a week, maybe three or four times. Mmm. So your legs are getting quite a pounding, but you haven't had any problems up to now. No, not with my legs. I did have an accident last year when I slipped and hurt my shoulder, but that's better now. Excellent. And do you have any allergies? No, none that I'm aware of. And do you take any medication on a regular basis? Well, I take vitamins, but that's all. I'm generally very healthy. Okay. Well, let's have a closer look and see what might be causing this problem if you can just get up. What is the end of section 1? You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "Test 2."
+    },
+    {
+      "start": 5.52,
+      "end": 10.8,
+      "text": "You will hear a number of different recordings and you will have to answer questions on"
+    },
+    {
+      "start": 10.8,
+      "end": 12.64,
+      "text": "what you hear."
+    },
+    {
+      "start": 12.64,
+      "end": 19.04,
+      "text": "There will be time for you to read the instructions and questions and you will have a chance"
+    },
+    {
+      "start": 19.04,
+      "end": 22.32,
+      "text": "to check your work."
+    },
+    {
+      "start": 22.32,
+      "end": 27.56,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 27.56,
+      "end": 31.72,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 31.72,
+      "end": 37.4,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an"
+    },
+    {
+      "start": 37.4,
+      "end": 39.56,
+      "text": "answer sheet."
+    },
+    {
+      "start": 39.56,
+      "end": 48.28,
+      "text": "Now turn to section 1."
+    },
+    {
+      "start": 48.28,
+      "end": 56.28,
+      "text": "You will hear a woman talking to a doctor at a clinic about a medical problem."
+    },
+    {
+      "start": 56.28,
+      "end": 62.28,
+      "text": "First, you have some time to look at questions one to four."
+    },
+    {
+      "start": 78.28,
+      "end": 87.72,
+      "text": "You will see that there is an example that has been done for you."
+    },
+    {
+      "start": 87.72,
+      "end": 94.68,
+      "text": "On this occasion only, the conversation relating to this will be played first."
+    },
+    {
+      "start": 94.68,
+      "end": 98.36,
+      "text": "Hi, come and take a seat."
+    },
+    {
+      "start": 98.36,
+      "end": 99.36,
+      "text": "Thank you."
+    },
+    {
+      "start": 99.36,
+      "end": 103.56,
+      "text": "My name is Carl Rogers and I'm one of the doctors here at the Total Health Clinic, so I"
+    },
+    {
+      "start": 103.56,
+      "end": 105.92,
+      "text": "understand this is your first visit to the clinic."
+    },
+    {
+      "start": 105.92,
+      "end": 106.92,
+      "text": "Yes, it is."
+    },
+    {
+      "start": 106.92,
+      "end": 110.92,
+      "text": "Okay, well I hope you'll be very happy with the service you receive here."
+    },
+    {
+      "start": 110.92,
+      "end": 114.92,
+      "text": "So if it's alright with you, I'll take a few details to help me give you the best possible."
+    },
+    {
+      "start": 362.04,
+      "end": 367.76,
+      "text": "a lot of tennis. I belong to a club, so I go there a lot. I'm quite competitive, so I"
+    },
+    {
+      "start": 367.76,
+      "end": 372.88,
+      "text": "enjoy that side of it as well as the exercise, but I haven't gone since I started."
+    },
+    {
+      "start": 372.88,
+      "end": 375.48,
+      "text": "Sure, and do you do any other types of exercise?"
+    },
+    {
+      "start": 375.48,
+      "end": 381.72,
+      "text": "Yeah, I sometimes do a little swimming, but usually just when I'm on vacation. But normally"
+    },
+    {
+      "start": 381.72,
+      "end": 385.4,
+      "text": "I go running a few times a week, maybe three or four times."
+    },
+    {
+      "start": 385.4,
+      "end": 389.92,
+      "text": "Mmm. So your legs are getting quite a pounding, but you haven't had any problems up to"
+    },
+    {
+      "start": 389.92,
+      "end": 395.44,
+      "text": "now. No, not with my legs. I did have an accident last year when I slipped and hurt my"
+    },
+    {
+      "start": 395.44,
+      "end": 401.12,
+      "text": "shoulder, but that's better now. Excellent. And do you have any allergies? No, none that"
+    },
+    {
+      "start": 401.12,
+      "end": 406.88,
+      "text": "I'm aware of. And do you take any medication on a regular basis? Well, I take vitamins,"
+    },
+    {
+      "start": 406.88,
+      "end": 411.56,
+      "text": "but that's all. I'm generally very healthy. Okay. Well, let's have a closer look and see"
+    },
+    {
+      "start": 411.56,
+      "end": 418.16,
+      "text": "what might be causing this problem if you can just get up."
+    },
+    {
+      "start": 418.16,
+      "end": 421.44,
+      "text": "What is the end of section 1?"
+    },
+    {
+      "start": 421.44,
+      "end": 424.8,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 448.16,
+      "end": 455.16,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

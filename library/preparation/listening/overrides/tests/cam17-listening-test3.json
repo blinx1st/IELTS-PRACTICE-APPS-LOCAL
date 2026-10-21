@@ -1,0 +1,1024 @@
+{
+  "id": "cam17-listening-test3",
+  "skill": "listening",
+  "book": 17,
+  "test": 3,
+  "title": "Cambridge 17 · Listening Test 3",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam17-t3-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t3-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/ORA NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-046.webp",
+              "page": 46
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 46
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Advice on surfing holidays"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Jack's advice"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Recommends surfing for ",
+                  {
+                    "number": 1
+                  },
+                  " holidays in the summer"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Need to be quite ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Irish surfing locations"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "County Clare"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Lahinch has some good quality ",
+                  {
+                    "number": 3
+                  },
+                  " and surf schools"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "There are famous cliffs nearby"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "County Mayo"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Good surf school at ",
+                  {
+                    "number": 4
+                  },
+                  " beach"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Surf camp lasts for one ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Can also explore the local ",
+                  {
+                    "number": 6
+                  },
+                  " by kayak"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Weather"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Best month to go: ",
+                  {
+                    "number": 7
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Average temperature in summer: approx. ",
+                  {
+                    "number": 8
+                  },
+                  " degrees"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Costs"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Equipment"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Wetsuit and surfboard: ",
+                  {
+                    "number": 9
+                  },
+                  " euros per day"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Also advisable to hire ",
+                  {
+                    "number": 10
+                  },
+                  " for warmth"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-046.webp",
+          "page": 46
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 46
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/7a6dec6583aeb9b1448cf86945892727a05d767bd1199fe989b5749871c2b908.mp3",
+        "sha256": "7a6dec6583aeb9b1448cf86945892727a05d767bd1199fe989b5749871c2b908",
+        "duration": 414.368,
+        "start": 38.82,
+        "end": 414.368,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t3-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t3-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t3-p2-q11-12",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO facts are given about the school’s extended hours childcare service?",
+          "questions": [
+            {
+              "number": 11,
+              "text": ""
+            },
+            {
+              "number": 12,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-047.webp",
+              "page": 47
+            },
+            {
+              "url": "/library-assets/l-cam17-source-048.webp",
+              "page": 48
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 47
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 48
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "It started recently"
+            },
+            {
+              "value": "B",
+              "label": "More children attend after school than before school"
+            },
+            {
+              "value": "C",
+              "label": "An average of 50 children attend in the mornings"
+            },
+            {
+              "value": "D",
+              "label": "A child cannot attend both the before and after school sessions"
+            },
+            {
+              "value": "E",
+              "label": "The maximum number of children who can attend is 70"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam17-t3-p2-q13-15",
+          "type": "choice",
+          "heading": "Questions 13–15",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 13,
+              "text": "How much does childcare cost for a complete afternoon session per child?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "£3.50"
+                },
+                {
+                  "value": "B",
+                  "label": "£5.70"
+                },
+                {
+                  "value": "C",
+                  "label": "£7.20"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "What does the manager say about food?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Children with allergies should bring their own food"
+                },
+                {
+                  "value": "B",
+                  "label": "Children may bring healthy snacks with them"
+                },
+                {
+                  "value": "C",
+                  "label": "Children are given a proper meal at 5 p.m"
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "What is different about arrangements in the school holidays?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Children from other schools can attend"
+                },
+                {
+                  "value": "B",
+                  "label": "Older children can attend"
+                },
+                {
+                  "value": "C",
+                  "label": "A greater number of children can attend"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-047.webp",
+              "page": 47
+            },
+            {
+              "url": "/library-assets/l-cam17-source-048.webp",
+              "page": 48
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 47
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 48
+            }
+          ]
+        },
+        {
+          "id": "l-cam17-t3-p2-q16-20",
+          "type": "matching",
+          "heading": "Questions 16–20",
+          "instructions": "What information is given about each of the following activities on offer? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 16-20. Information",
+          "body": "",
+          "questions": [
+            {
+              "number": 16,
+              "text": "Spanish"
+            },
+            {
+              "number": 17,
+              "text": "Music"
+            },
+            {
+              "number": 18,
+              "text": "Painting"
+            },
+            {
+              "number": 19,
+              "text": "Yoga"
+            },
+            {
+              "number": 20,
+              "text": "Cooking"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-047.webp",
+              "page": 47
+            },
+            {
+              "url": "/library-assets/l-cam17-source-048.webp",
+              "page": 48
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 47
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 48
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "has limited availability"
+            },
+            {
+              "value": "B",
+              "label": "is no longer available"
+            },
+            {
+              "value": "C",
+              "label": "is for over 8s only"
+            },
+            {
+              "value": "D",
+              "label": "requires help from parents"
+            },
+            {
+              "value": "E",
+              "label": "involves an additional fee"
+            },
+            {
+              "value": "F",
+              "label": "is a new activity"
+            },
+            {
+              "value": "G",
+              "label": "was requested by children"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-047.webp",
+          "page": 47
+        },
+        {
+          "url": "/library-assets/l-cam17-source-048.webp",
+          "page": 48
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 47
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 48
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/4f2179d4be363797c34d231627ea01bebdbfeb70231125d17f4d781773590478.mp3",
+        "sha256": "4f2179d4be363797c34d231627ea01bebdbfeb70231125d17f4d781773590478",
+        "duration": 449.344,
+        "start": 0,
+        "end": 449.344,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t3-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t3-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t3-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t3-p3-q21-24",
+          "type": "choice",
+          "heading": "Questions 21–24",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Holly has chosen the Orion Stadium placement because",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "it involves children"
+                },
+                {
+                  "value": "B",
+                  "label": "it is outdoors"
+                },
+                {
+                  "value": "C",
+                  "label": "it sounds like fun"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Which aspect of safety does Dr Green emphasise most?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "ensuring children stay in the stadium"
+                },
+                {
+                  "value": "B",
+                  "label": "checking the equipment children will use"
+                },
+                {
+                  "value": "C",
+                  "label": "removing obstacles in changing rooms"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "What does Dr Green say about the spectators?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "They can be hard to manage"
+                },
+                {
+                  "value": "B",
+                  "label": "They make useful volunteers"
+                },
+                {
+                  "value": "C",
+                  "label": "They shouldn't take photographs"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What has affected the schedule in the past?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "bad weather"
+                },
+                {
+                  "value": "B",
+                  "label": "an injury"
+                },
+                {
+                  "value": "C",
+                  "label": "extra time"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-049.webp",
+              "page": 49
+            },
+            {
+              "url": "/library-assets/l-cam17-source-050.webp",
+              "page": 50
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 49
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 50
+            }
+          ]
+        },
+        {
+          "id": "l-cam17-t3-p3-q25-30",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What do Holly and her tutor agree is an important aspect of each of the following events management skills? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Important aspects",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Communication"
+            },
+            {
+              "number": 26,
+              "text": "Organisation"
+            },
+            {
+              "number": 27,
+              "text": "Time management"
+            },
+            {
+              "number": 28,
+              "text": "Creativity"
+            },
+            {
+              "number": 29,
+              "text": "Leadership"
+            },
+            {
+              "number": 30,
+              "text": "Networking"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-049.webp",
+              "page": 49
+            },
+            {
+              "url": "/library-assets/l-cam17-source-050.webp",
+              "page": 50
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 49
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 50
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "being flexible"
+            },
+            {
+              "value": "B",
+              "label": "focusing on details"
+            },
+            {
+              "value": "C",
+              "label": "having a smart appearance"
+            },
+            {
+              "value": "D",
+              "label": "hiding your emotions"
+            },
+            {
+              "value": "E",
+              "label": "relying on experts"
+            },
+            {
+              "value": "F",
+              "label": "trusting your own views"
+            },
+            {
+              "value": "G",
+              "label": "doing one thing at a time"
+            },
+            {
+              "value": "H",
+              "label": "thinking of the future"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-049.webp",
+          "page": 49
+        },
+        {
+          "url": "/library-assets/l-cam17-source-050.webp",
+          "page": 50
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 49
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 50
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/7d14ef22fae7517d6b5c8aec158797a1bcbe5ae4da5715f74779ccc17331827c.mp3",
+        "sha256": "7d14ef22fae7517d6b5c8aec158797a1bcbe5ae4da5715f74779ccc17331827c",
+        "duration": 451.715,
+        "start": 0,
+        "end": 451.715,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t3-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t3-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t3-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t3-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-051.webp",
+              "page": 51
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 51
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Bird Migration Theory"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Most birds are believed to migrate seasonally."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Hibernation theory"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "It was believed that birds hibernated underwater or buried themselves in ",
+                  {
+                    "number": 31
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "This theory was later disproved by experiments on caged birds."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Transmutation theory"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Aristotle believed birds changed from one species into another in summer and winter."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "In autumn he observed that redstarts experience the loss of ",
+                  {
+                    "number": 32
+                  },
+                  " and thought they then turned into robins."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Aristotle's assumptions were logical because the two species of birds had a similar ",
+                  {
+                    "number": 33
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "17th century"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Charles Morton popularised the idea that birds fly to the ",
+                  {
+                    "number": 34
+                  },
+                  " in winter."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Scientific developments"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "In 1822, a stork was killed in Germany which had an African spear in its ",
+                  {
+                    "number": 35
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "previously there had been no ",
+                  {
+                    "number": 36
+                  },
+                  " that storks migrate to Africa"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Little was known about the ",
+                  {
+                    "number": 37
+                  },
+                  " and journeys of migrating birds until the practice of ringing was established."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "It was thought large birds carried small birds on some journeys because they were considered incapable of travelling across huge ",
+                  {
+                    "number": 38
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Ringing depended on what is called the ",
+                  {
+                    "number": 39
+                  },
+                  " of dead birds."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "In 1931, the first ",
+                  {
+                    "number": 40
+                  },
+                  " to show the migration of European birds was printed."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-051.webp",
+          "page": 51
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 51
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/4002bdf50c2bccfad57240f722e3940e5e1eafb98416a13689edfd91a456b928.mp3",
+        "sha256": "4002bdf50c2bccfad57240f722e3940e5e1eafb98416a13689edfd91a456b928",
+        "duration": 485.701,
+        "start": 0,
+        "end": 408.34,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t3-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 27,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 1\nQuestions 38-40\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 38—40 on your answer sheet, write\nYES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n38\nMoffat's research may help explain people's reactions to EMI.\n39\nThe non-experts in Moffat's study all responded in a predictable way.\n40\nJustin Kruger's findings cast doubt on Paul Bloom's theory about people's prejudice\ntowards computer art.\nFR\n",
+  "blocks": [
+    {
+      "box": [
+        66.95999908447266,
+        63.719970703125,
+        99.35641479492188,
+        73.44972229003906
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        67.31999969482422,
+        102.5999755859375,
+        170.0279998779297,
+        114.49185943603516
+      ],
+      "text": "Questions 38-40\n"
+    },
+    {
+      "box": [
+        67.31999969482422,
+        126.3599853515625,
+        544.6260375976562,
+        141.13475036621094
+      ],
+      "text": "Do the following statements agree with the claims of the writer in Reading Passage 3?\n"
+    },
+    {
+      "box": [
+        68.04000854492188,
+        156.5999755859375,
+        309.1321716308594,
+        168.85226440429688
+      ],
+      "text": "In boxes 38—40 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        111.23995971679688,
+        187.91998291015625,
+        498.43438720703125,
+        230.77333068847656
+      ],
+      "text": "YES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n"
+    },
+    {
+      "box": [
+        69.8399658203125,
+        255.96002197265625,
+        435.4703369140625,
+        268.2122497558594
+      ],
+      "text": "38\nMoffat's research may help explain people's reactions to EMI.\n"
+    },
+    {
+      "box": [
+        70.199951171875,
+        278.6400146484375,
+        476.243896484375,
+        291.2525939941406
+      ],
+      "text": "39\nThe non-experts in Moffat's study all responded in a predictable way.\n"
+    },
+    {
+      "box": [
+        70.199951171875,
+        301.67999267578125,
+        559.089111328125,
+        328.3315124511719
+      ],
+      "text": "40\nJustin Kruger's findings cast doubt on Paul Bloom's theory about people's prejudice\ntowards computer art.\n"
+    },
+    {
+      "box": [
+        78.11992645263672,
+        784.0799560546875,
+        90.32392120361328,
+        789.4853515625
+      ],
+      "text": "FR\n"
+    }
+  ]
+}

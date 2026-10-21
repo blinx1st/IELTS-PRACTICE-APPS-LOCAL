@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/7d14ef22fae7517d6b5c8aec158797a1bcbe5ae4da5715f74779ccc17331827c.mp3",
+    "sha256": "7d14ef22fae7517d6b5c8aec158797a1bcbe5ae4da5715f74779ccc17331827c",
+    "duration": 451.715,
+    "start": 0,
+    "end": 451.715,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear Holly, a student on an events management course, talking to her tutor about her work placement. First, you have some time to look at questions 21-24. Now, listen carefully and answer questions 21 to 24. Hello, Dr. Green. I'm here to talk to you about my work placement. Oh yes, it's Holly, isn't it? Yes, so which work placement have you chosen? I decided to go for the Orion Stadium placement. The event I'll be managing is one where I'm helping to set up a sports competition for primary school children. Yep, that's always a popular placement. Even though it can be tougher than you think, working with children. I know, but it's the fresh air that attracts me. something indoors doesn't have the same appeal, even though it might be fun. Okay, so obviously safety is going to be one of your key concerns for this event? Yes, I've already thought about that. I only..."
+    },
+    {
+      "name": "ending",
+      "start": 386.715,
+      "end": 451.715,
+      "text": "an area that a lot of students worry about, because we don't have much experience to offer others. But, even without it, you can still be an interesting person with useful ideas, and the more people you impress, the better. I guess that will help me when I apply for a real job. Exactly. Think ahead. Remember what your ambitions are, and keep them in mind. Definitely. That is the end of part 3. You now have half a minute to check your answers to part 3."
+    }
+  ]
+}

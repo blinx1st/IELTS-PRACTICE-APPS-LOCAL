@@ -1,0 +1,165 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 100,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Test 4\nSPEAKING\nPART\n1\nThe examiner asks you about yourself, your home, work or studies and other\nfamiliar topics.\nEXAMPLE\nSleep\ne\nHow many hours do you usually sleep at night?\ne\nDo you sometimes sleep during the day? [Why/Why not?]\ne\nWhat do you do if you can’t get to sleep at night? [Why?]\ne\nDo you ever remember the dreams you’ve had while you were asleep?\nPART 2\nDescribe a time when you met someone who you\nbecame good friends with.\nYou will have to talk\nYou should say:\nabout the topic for one\ny:\nto two minutes. You\nanal yaad Kinet\nhave one minute to\nwhen and where you met this person\n;\nwhat\nyou thought about this\nperson when\nyou\nthink about what you\nfirst et\ng\nP\ny\nare going to say. You\ncan make some notes\nand explain why you think you became good\nto help you if you wish.\nfriends with this person.\nPART 3\nDiscussion topics:\nFriends at school\nExample questions:\nHow important is it for children to have lots of friends at school?\nDo you think it is wrong for parents to influence which friends their children have?\nWhy do you think children often choose different friends as they get older?\nMaking new friends\nExample questions:\nIf\na person is moving to a new town, what is a good way for them to make friends?\nCan you think of any disadvantages of making new friends online?\nWould you say it is harder for people to make new friends as they get older?\n98\n",
+  "blocks": [
+    {
+      "box": [
+        48.94369888305664,
+        29.870067596435547,
+        78.07958221435547,
+        37.79533004760742
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        201.5328826904297,
+        63.33892822265625,
+        277.30938720703125,
+        73.42566680908203
+      ],
+      "text": "SPEAKING\n"
+    },
+    {
+      "box": [
+        48.22394561767578,
+        108.32391357421875,
+        98.2328872680664,
+        117.69013977050781
+      ],
+      "text": "PART\n1\n"
+    },
+    {
+      "box": [
+        47.50416564941406,
+        129.19696044921875,
+        422.4093322753906,
+        152.95916748046875
+      ],
+      "text": "The examiner asks you about yourself, your home, work or studies and other\nfamiliar topics.\n"
+    },
+    {
+      "box": [
+        48.223934173583984,
+        163.0257110595703,
+        100.320068359375,
+        170.9509735107422
+      ],
+      "text": "EXAMPLE\n"
+    },
+    {
+      "box": [
+        47.864051818847656,
+        183.17898559570312,
+        76.58244323730469,
+        193.26568603515625
+      ],
+      "text": "Sleep\n"
+    },
+    {
+      "box": [
+        48.22393035888672,
+        202.61251831054688,
+        406.00244140625,
+        252.28712463378906
+      ],
+      "text": "e\nHow many hours do you usually sleep at night?\ne\nDo you sometimes sleep during the day? [Why/Why not?]\ne\nWhat do you do if you can’t get to sleep at night? [Why?]\ne\nDo you ever remember the dreams you’ve had while you were asleep?\n"
+    },
+    {
+      "box": [
+        48.583824157714844,
+        265.951416015625,
+        99.64181518554688,
+        275.6778869628906
+      ],
+      "text": "PART 2\n"
+    },
+    {
+      "box": [
+        59.020320892333984,
+        297.9807434082031,
+        459.4769592285156,
+        424.30877685546875
+      ],
+      "text": "Describe a time when you met someone who you\nbecame good friends with.\nYou will have to talk\nYou should say:\nabout the topic for one\ny:\nto two minutes. You\nanal yaad Kinet\nhave one minute to\nwhen and where you met this person\n;\nwhat\nyou thought about this\nperson when\nyou\nthink about what you\nfirst et\ng\nP\ny\nare going to say. You\ncan make some notes\nand explain why you think you became good\nto help you if you wish.\nfriends with this person.\n"
+    },
+    {
+      "box": [
+        48.58380126953125,
+        447.6908874511719,
+        99.66159057617188,
+        457.4173583984375
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        48.22392654418945,
+        468.5639343261719,
+        154.11685180664062,
+        479.73138427734375
+      ],
+      "text": "Discussion topics:\n"
+    },
+    {
+      "box": [
+        48.58380126953125,
+        489.4369812011719,
+        138.1615753173828,
+        497.7225036621094
+      ],
+      "text": "Friends at school\n"
+    },
+    {
+      "box": [
+        47.86403274536133,
+        509.23040771484375,
+        430.8754577636719,
+        558.5451049804688
+      ],
+      "text": "Example questions:\nHow important is it for children to have lots of friends at school?\nDo you think it is wrong for parents to influence which friends their children have?\nWhy do you think children often choose different friends as they get older?\n"
+    },
+    {
+      "box": [
+        48.223899841308594,
+        574.0087890625,
+        149.1594696044922,
+        584.4557495117188
+      ],
+      "text": "Making new friends\n"
+    },
+    {
+      "box": [
+        47.864009857177734,
+        594.162109375,
+        143.5021514892578,
+        604.6090698242188
+      ],
+      "text": "Example questions:\n"
+    },
+    {
+      "box": [
+        47.50410461425781,
+        606.0381469726562,
+        431.0211181640625,
+        643.4768676757812
+      ],
+      "text": "If\na person is moving to a new town, what is a good way for them to make friends?\nCan you think of any disadvantages of making new friends online?\nWould you say it is harder for people to make new friends as they get older?\n"
+    },
+    {
+      "box": [
+        47.8640022277832,
+        666.85791015625,
+        59.344181060791016,
+        674.783203125
+      ],
+      "text": "98\n"
+    }
+  ]
+}

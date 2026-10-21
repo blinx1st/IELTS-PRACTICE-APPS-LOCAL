@@ -1,0 +1,935 @@
+{
+  "id": "cam20-listening-test4",
+  "skill": "listening",
+  "book": 20,
+  "test": 4,
+  "title": "Cambridge 20 · Listening Test 4",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam20-t4-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t4-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-061.webp",
+              "page": 61
+            },
+            {
+              "url": "/library-assets/l-cam20-source-062.webp",
+              "page": 62
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 61
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 62
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Advice on family visit\nAccommodation\n\n",
+                  {
+                    "number": 1
+                  },
+                  " Hotel on George Street\n\ncost of a family room per night: ",
+                  {
+                    "number": 2
+                  },
+                  " £ (approx.)\nRecommended trips\n\na ",
+                  {
+                    "number": 3
+                  },
+                  " tour of the city centre (starts in Carlton Square)\n\na trip by ",
+                  {
+                    "number": 4
+                  },
+                  " to the old fort\nScience Museum\n\nbest day to visit: ",
+                  {
+                    "number": 5
+                  },
+                  "\n\nsee the exhibition about ",
+                  {
+                    "number": 6
+                  },
+                  ", which opens soon\nFood\n\nClacton Market:\no good for ",
+                  {
+                    "number": 7
+                  },
+                  "\no need to have lunch before ",
+                  {
+                    "number": 8
+                  },
+                  " p.m.\nTheatre tickets\n\nsave up to ",
+                  {
+                    "number": 9
+                  },
+                  " % on ticket prices at bargaingtickets.com\nFree activities\n\nBlakewell Gardens:\no Roots Music Festival\no climb Telegraph Hill to see a view of the ",
+                  {
+                    "number": 10
+                  },
+                  ""
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-061.webp",
+          "page": 61
+        },
+        {
+          "url": "/library-assets/l-cam20-source-062.webp",
+          "page": 62
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 61
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 62
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/7190aaab382b2592b16e76619aa24a8f6232d9d38d9642b61b700c6e3ec1c917.m4a",
+        "sha256": "7190aaab382b2592b16e76619aa24a8f6232d9d38d9642b61b700c6e3ec1c917",
+        "duration": 442.34,
+        "start": 53.58,
+        "end": 442.34,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S1.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t4-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t4-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t4-p2-q11-12",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "11-12 Which TWO things does the speaker say about visiting the football stadium with children?",
+          "questions": [
+            {
+              "number": 11,
+              "text": ""
+            },
+            {
+              "number": 12,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-062.webp",
+              "page": 62
+            },
+            {
+              "url": "/library-assets/l-cam20-source-063.webp",
+              "page": 63
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 62
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 63
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": ""
+            },
+            {
+              "value": "B",
+              "label": "There is a competition for children today"
+            },
+            {
+              "value": "C",
+              "label": "Parents must stay with their children at all times"
+            },
+            {
+              "value": "D",
+              "label": ""
+            },
+            {
+              "value": "E",
+              "label": "The café has a special offer on meals for children"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam20-t4-p2-q13-14",
+          "type": "multi",
+          "heading": "Questions 13–14",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "13-14 Which TWO features of the stadium tour are new this year?",
+          "questions": [
+            {
+              "number": 13,
+              "text": ""
+            },
+            {
+              "number": 14,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-062.webp",
+              "page": 62
+            },
+            {
+              "url": "/library-assets/l-cam20-source-063.webp",
+              "page": 63
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 62
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 63
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "VIP tour"
+            },
+            {
+              "value": "B",
+              "label": "360 cinema experience"
+            },
+            {
+              "value": "C",
+              "label": "audio guide"
+            },
+            {
+              "value": "D",
+              "label": "dressing room tour"
+            },
+            {
+              "value": "E",
+              "label": "tours in other languages"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam20-t4-p2-q15-20",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "Which event in the history of football in the UK took place in each of the following years? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 15-20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "1870"
+            },
+            {
+              "number": 16,
+              "text": "1874"
+            },
+            {
+              "number": 17,
+              "text": "1875"
+            },
+            {
+              "number": 18,
+              "text": "1877"
+            },
+            {
+              "number": 19,
+              "text": "1878"
+            },
+            {
+              "number": 20,
+              "text": "1880"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-062.webp",
+              "page": 62
+            },
+            {
+              "url": "/library-assets/l-cam20-source-063.webp",
+              "page": 63
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 62
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 63
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "the introduction of pay for the players"
+            },
+            {
+              "value": "B",
+              "label": "a change to the design of the goal"
+            },
+            {
+              "value": "C",
+              "label": "the first use of lights for matches"
+            },
+            {
+              "value": "D",
+              "label": "the introduction of goalkeepers"
+            },
+            {
+              "value": "E",
+              "label": "the first international match"
+            },
+            {
+              "value": "F",
+              "label": "two changes to the rules of the game"
+            },
+            {
+              "value": "G",
+              "label": "the introduction of a fee for spectators"
+            },
+            {
+              "value": "H",
+              "label": "an agreement on the length of a game"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-062.webp",
+          "page": 62
+        },
+        {
+          "url": "/library-assets/l-cam20-source-063.webp",
+          "page": 63
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 62
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 63
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/d11b2c3bbce95b06bbdbeca8f928ee7e3002367f59a6b89feff6f63256cea092.m4a",
+        "sha256": "d11b2c3bbce95b06bbdbeca8f928ee7e3002367f59a6b89feff6f63256cea092",
+        "duration": 508.494,
+        "start": 0,
+        "end": 508.494,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S2.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t4-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t4-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t4-p3-q21-22",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "21-22. Which TWO benefits for children of learning to write did both students find surprising?",
+          "questions": [
+            {
+              "number": 21,
+              "text": ""
+            },
+            {
+              "number": 22,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-063.webp",
+              "page": 63
+            },
+            {
+              "url": "/library-assets/l-cam20-source-064.webp",
+              "page": 64
+            },
+            {
+              "url": "/library-assets/l-cam20-source-065.webp",
+              "page": 65
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 63
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 64
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 65
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "improved fine motor skills"
+            },
+            {
+              "value": "B",
+              "label": "improved memory"
+            },
+            {
+              "value": "C",
+              "label": "improved concentration"
+            },
+            {
+              "value": "D",
+              "label": "improved imagination"
+            },
+            {
+              "value": "E",
+              "label": "improved spatial awareness"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam20-t4-p3-q23-24",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "23-24. For children with dyspraxia, which TWO problems with handwriting do the students think are easiest to correct?",
+          "questions": [
+            {
+              "number": 23,
+              "text": ""
+            },
+            {
+              "number": 24,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-063.webp",
+              "page": 63
+            },
+            {
+              "url": "/library-assets/l-cam20-source-064.webp",
+              "page": 64
+            },
+            {
+              "url": "/library-assets/l-cam20-source-065.webp",
+              "page": 65
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 63
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 64
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 65
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "not spacing letters correctly"
+            },
+            {
+              "value": "B",
+              "label": "not writing in a straight line"
+            },
+            {
+              "value": "C",
+              "label": "applying too much pressure when writing"
+            },
+            {
+              "value": "D",
+              "label": "confusing letter shapes"
+            },
+            {
+              "value": "E",
+              "label": "writing very slowly"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam20-t4-p3-q25-30",
+          "type": "choice",
+          "heading": "Questions 25–30",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "What does the woman say about using laptops to teach writing to children with dyslexia?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Children often lack motivation to learn that way"
+                },
+                {
+                  "value": "B",
+                  "label": "Children become fluent relatively quickly"
+                },
+                {
+                  "value": "C",
+                  "label": "Children react more positively if they make a mistake"
+                }
+              ]
+            },
+            {
+              "number": 26,
+              "text": "When discussing whether to teach cursive or print writing, the woman thinks that",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Cursive writing disadvantages a certain group of children"
+                },
+                {
+                  "value": "B",
+                  "label": "Print writing is associated with lower academic performance"
+                },
+                {
+                  "value": "C",
+                  "label": "Most teachers in the UK prefer a traditional approach to handwriting"
+                }
+              ]
+            },
+            {
+              "number": 27,
+              "text": "According to the students, what impact does poor handwriting have on exam performance?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "There is evidence to suggest grades are affected by poor handwriting"
+                },
+                {
+                  "value": "B",
+                  "label": "Neat handwriting is less important now than it used to be"
+                },
+                {
+                  "value": "C",
+                  "label": "Candidates write more slowly and produce shorter answers"
+                }
+              ]
+            },
+            {
+              "number": 28,
+              "text": "What prediction does the man make about the future of handwriting?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Touch typing will be taught before writing by hand"
+                },
+                {
+                  "value": "B",
+                  "label": "Children will continue to learn to write by hand"
+                },
+                {
+                  "value": "C",
+                  "label": "People will dislike handwriting on digital devices"
+                }
+              ]
+            },
+            {
+              "number": 29,
+              "text": "The woman is concerned that relying on digital devices has made it difficult for her to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "take detailed notes"
+                },
+                {
+                  "value": "B",
+                  "label": "spell and punctuate"
+                },
+                {
+                  "value": "C",
+                  "label": "read old documents"
+                }
+              ]
+            },
+            {
+              "number": 30,
+              "text": "How do the students feel about their own handwriting?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "concerned they are unable to write quickly"
+                },
+                {
+                  "value": "B",
+                  "label": "embarrassed by comments made about it"
+                },
+                {
+                  "value": "C",
+                  "label": "regretful that they have lost the habit"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-063.webp",
+              "page": 63
+            },
+            {
+              "url": "/library-assets/l-cam20-source-064.webp",
+              "page": 64
+            },
+            {
+              "url": "/library-assets/l-cam20-source-065.webp",
+              "page": 65
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 63
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 64
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 65
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-063.webp",
+          "page": 63
+        },
+        {
+          "url": "/library-assets/l-cam20-source-064.webp",
+          "page": 64
+        },
+        {
+          "url": "/library-assets/l-cam20-source-065.webp",
+          "page": 65
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 63
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 64
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 65
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/a87f1b76eded0c00cada5fe63bad024b2602c14485e3294a315a2749072508bc.m4a",
+        "sha256": "a87f1b76eded0c00cada5fe63bad024b2602c14485e3294a315a2749072508bc",
+        "duration": 472.735,
+        "start": 0,
+        "end": 472.735,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S3.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t4-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t4-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t4-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t4-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-065.webp",
+              "page": 65
+            },
+            {
+              "url": "/library-assets/l-cam20-source-066.webp",
+              "page": 66
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 65
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 66
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Research in the area around Chembe Bird Sanctuary\nThe importance of birds of prey to the local communities\n\nThey destroy ",
+                  {
+                    "number": 31
+                  },
+                  " and other rodents.\n\nThey help to prevent farmers from being bitten by ",
+                  {
+                    "number": 32
+                  },
+                  ".\n\nThey have been an important part of the local culture for many years.\n\nThey now support the economy by encouraging ",
+                  {
+                    "number": 33
+                  },
+                  " in the\narea.\nFalling numbers of birds of prey\n\nThe birds may be accidentally killed by ",
+                  {
+                    "number": 34
+                  },
+                  " when they are\nhunting or sleeping\n\nby electrocution from contact with power lines, especially at times when\nthere are a lot of ",
+                  {
+                    "number": 35
+                  },
+                  "\n\nLocal farmers may illegally shoot them or ",
+                  {
+                    "number": 36
+                  },
+                  " them.\nWays of protecting chickens from birds of prey\n\nclearing away vegetation from the area (unhelpful)\n\nproviding a ",
+                  {
+                    "number": 37
+                  },
+                  " for chickens (expensive)\n\nfrightening birds of prey by\no keeping a ",
+                  {
+                    "number": 38
+                  },
+                  "\no making a ",
+                  {
+                    "number": 39
+                  },
+                  " - e.g. with metal objects\n\nA ",
+                  {
+                    "number": 40
+                  },
+                  " of methods is usually most effective."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-065.webp",
+          "page": 65
+        },
+        {
+          "url": "/library-assets/l-cam20-source-066.webp",
+          "page": 66
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 65
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 66
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/cfccbf2a13be59948248f13fee89b6db2d91153934d268386cc9d5d837e5185b.m4a",
+        "sha256": "cfccbf2a13be59948248f13fee89b6db2d91153934d268386cc9d5d837e5185b",
+        "duration": 482.743,
+        "start": 0,
+        "end": 402.33,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S4.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t4-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

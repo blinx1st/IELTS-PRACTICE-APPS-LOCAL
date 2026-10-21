@@ -1,0 +1,156 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 44,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "aa\na\nReading\nQuestions 21-26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWhite your answers in boxes 21-26 on your answer sheet.\nOxytocin research\nThe earliest findings about oxytocin and bonding came from research involving\n2 rere\n. It Was also discovered that humans produce oxytocin during\n22 oocronennmnnnonnne AN experiment in 2005, in which participants were given either\nOXYLOCIN OF A 23 enrcrnrrrnnnnnnnnee, FeINforced the belief that the hormone had a\npositive effect.\nHowever, later research suggests that this is not always the case. A study at the\nUniversity of Haifa where participants took part in a 24 ....ccmmnnnn FeVealed\nthe negative emotions which oxytocin can trigger. A study at the University of Antwerp\nshowed people's lack of willingness to Help 25 .....-cPcBc0_mumonnns While under the\ninfluence of oxytocin. Meanwhile, research at the University of Amsterdam revealed that\npeople who have been given OxytOCin CONSIDEF 26 ...----ennnnumnnnen that are familiar\nto them in their own country to have more positive associations than those from other\ncultures.\nA\n",
+  "blocks": [
+    {
+      "box": [
+        19.440000534057617,
+        28.44000244140625,
+        577.7860717773438,
+        34.205772399902344
+      ],
+      "text": "aa\na\n"
+    },
+    {
+      "box": [
+        489.6000061035156,
+        70.55999755859375,
+        535.300048828125,
+        81.73113250732422
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        55.79998779296875,
+        99.3599853515625,
+        155.50201416015625,
+        111.25186920166016
+      ],
+      "text": "Questions 21-26\n"
+    },
+    {
+      "box": [
+        55.43998336791992,
+        129.96002197265625,
+        218.1671600341797,
+        143.29335021972656
+      ],
+      "text": "Complete the summary below.\n"
+    },
+    {
+      "box": [
+        55.079986572265625,
+        159.1199951171875,
+        395.9569396972656,
+        176.41729736328125
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        55.0799560546875,
+        189.0,
+        369.15472412109375,
+        204.49545288085938
+      ],
+      "text": "White your answers in boxes 21-26 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        222.8399658203125,
+        222.84002685546875,
+        367.1423034667969,
+        239.4165802001953
+      ],
+      "text": "Oxytocin research\n"
+    },
+    {
+      "box": [
+        53.63995361328125,
+        258.1199951171875,
+        512.4959106445312,
+        330.8540344238281
+      ],
+      "text": "The earliest findings about oxytocin and bonding came from research involving\n2 rere\n. It Was also discovered that humans produce oxytocin during\n22 oocronennmnnnonnne AN experiment in 2005, in which participants were given either\nOXYLOCIN OF A 23 enrcrnrrrnnnnnnnnee, FeINforced the belief that the hormone had a\n"
+    },
+    {
+      "box": [
+        53.63995361328125,
+        335.8800048828125,
+        128.85655212402344,
+        347.7718811035156
+      ],
+      "text": "positive effect.\n"
+    },
+    {
+      "box": [
+        53.63995361328125,
+        370.0799865722656,
+        496.05120849609375,
+        403.21405029296875
+      ],
+      "text": "However, later research suggests that this is not always the case. A study at the\nUniversity of Haifa where participants took part in a 24 ....ccmmnnnn FeVealed\n"
+    },
+    {
+      "box": [
+        52.919921875,
+        408.9599914550781,
+        516.5891723632812,
+        441.3729553222656
+      ],
+      "text": "the negative emotions which oxytocin can trigger. A study at the University of Antwerp\nshowed people's lack of willingness to Help 25 .....-cPcBc0_mumonnns While under the\n"
+    },
+    {
+      "box": [
+        53.639892578125,
+        447.8399963378906,
+        529.0990600585938,
+        460.8129577636719
+      ],
+      "text": "influence of oxytocin. Meanwhile, research at the University of Amsterdam revealed that\n"
+    },
+    {
+      "box": [
+        53.279876708984375,
+        468.0,
+        511.1278381347656,
+        480.2522277832031
+      ],
+      "text": "people who have been given OxytOCin CONSIDEF 26 ...----ennnnumnnnen that are familiar\n"
+    },
+    {
+      "box": [
+        52.919891357421875,
+        487.0799865722656,
+        514.844970703125,
+        499.6925964355469
+      ],
+      "text": "to them in their own country to have more positive associations than those from other\n"
+    },
+    {
+      "box": [
+        52.919891357421875,
+        506.15997314453125,
+        95.67168426513672,
+        516.6104125976562
+      ],
+      "text": "cultures.\n"
+    },
+    {
+      "box": [
+        518.39990234375,
+        784.7999877929688,
+        530.6381225585938,
+        789.4846801757812
+      ],
+      "text": "A\n"
+    }
+  ]
+}

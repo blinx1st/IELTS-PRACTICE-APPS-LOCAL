@@ -1,0 +1,138 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 59,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 3\nQuestions 26-30\nComplete the flowchart below.\nChoose FIVE answers from the box and write the correct letter, A-H, next to\nQuestions 26-30.\nA\nsize\nB-\nescape\nCc\nage\nD_\nwater\nE\ncereal\nF\ncalculations\nG_schanges\nH\ncolour\nChoose mice which are all the SAME 26 ......ccesscmeeneeneeneenee\n«\nDivide the mice into two groups, each with a different 27occ «\nPut each group in a separate cage.\nFeed group A commercial mouse food.\nFeed group B the same, but also sugar CONLAINEM IN 2B on.cccccsssnennnsnnennenenn +\nTake measurements using an electronic scale.\nPlace them in a weighing Chamber to prevent 29 .....cccsccssessesenseneeseenee\n+\nDO alli NECESSARY SO sascceicscsciscccseiceenn’s\n60\n—>|@ p. 124) |\np. 114\n",
+  "blocks": [
+    {
+      "box": [
+        48.58906173706055,
+        40.310943603515625,
+        77.73707580566406,
+        48.597328186035156
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        48.22914505004883,
+        74.14331817626953,
+        138.4608917236328,
+        84.23114776611328
+      ],
+      "text": "Questions 26-30\n"
+    },
+    {
+      "box": [
+        47.869224548339844,
+        101.85710906982422,
+        193.24050903320312,
+        112.66545867919922
+      ],
+      "text": "Complete the flowchart below.\n"
+    },
+    {
+      "box": [
+        48.22913360595703,
+        127.05142211914062,
+        417.837158203125,
+        149.73532104492188
+      ],
+      "text": "Choose FIVE answers from the box and write the correct letter, A-H, next to\nQuestions 26-30.\n"
+    },
+    {
+      "box": [
+        205.5137176513672,
+        176.72024536132812,
+        248.33677673339844,
+        185.0066375732422
+      ],
+      "text": "A\nsize\n"
+    },
+    {
+      "box": [
+        205.87364196777344,
+        190.03724670410156,
+        264.39630126953125,
+        200.125
+      ],
+      "text": "B-\nescape\n"
+    },
+    {
+      "box": [
+        205.87364196777344,
+        202.99427795410156,
+        286.4810791015625,
+        276.0661315917969
+      ],
+      "text": "Cc\nage\nD_\nwater\nE\ncereal\nF\ncalculations\nG_schanges\nH\ncolour\n"
+    },
+    {
+      "box": [
+        82.7813491821289,
+        318.8882141113281,
+        367.1173095703125,
+        327.89520263671875
+      ],
+      "text": "Choose mice which are all the SAME 26 ......ccesscmeeneeneeneenee\n«\n"
+    },
+    {
+      "box": [
+        83.1412582397461,
+        378.27484130859375,
+        441.2156677246094,
+        389.4435119628906
+      ],
+      "text": "Divide the mice into two groups, each with a different 27occ «\n"
+    },
+    {
+      "box": [
+        83.1412582397461,
+        435.5019836425781,
+        443.3751525878906,
+        479.783203125
+      ],
+      "text": "Put each group in a separate cage.\nFeed group A commercial mouse food.\nFeed group B the same, but also sugar CONLAINEM IN 2B on.cccccsssnennnsnnennenenn +\n"
+    },
+    {
+      "box": [
+        83.1412582397461,
+        525.121826171875,
+        307.25909423828125,
+        535.5698852539062
+      ],
+      "text": "Take measurements using an electronic scale.\n"
+    },
+    {
+      "box": [
+        83.50115966796875,
+        542.0380249023438,
+        411.3513488769531,
+        552.8463745117188
+      ],
+      "text": "Place them in a weighing Chamber to prevent 29 .....cccsccssessesenseneeseenee\n+\n"
+    },
+    {
+      "box": [
+        83.86106872558594,
+        602.1444091796875,
+        272.45867919921875,
+        612.592529296875
+      ],
+      "text": "DO alli NECESSARY SO sascceicscsciscccseiceenn’s\n"
+    },
+    {
+      "box": [
+        49.66875076293945,
+        673.768310546875,
+        201.86048889160156,
+        689.9808349609375
+      ],
+      "text": "60\n—>|@ p. 124) |\np. 114\n"
+    }
+  ]
+}

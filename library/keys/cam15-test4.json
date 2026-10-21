@@ -1,0 +1,142 @@
+{
+  "id": "cam15-test4",
+  "version": "1",
+  "answers": {
+    "1": [
+      "water"
+    ],
+    "2": [
+      "diet"
+    ],
+    "3": [
+      "drought"
+    ],
+    "4": [
+      "erosion"
+    ],
+    "5": [
+      "desert"
+    ],
+    "6": [
+      "branches",
+      "its branches",
+      "huarango branches",
+      "the branches"
+    ],
+    "7": [
+      "leaves bark",
+      "bark leaves"
+    ],
+    "8": [
+      "trunk",
+      "its trunk",
+      "huarango trunk",
+      "the trunk"
+    ],
+    "9": [
+      "NOT GIVEN"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "TRUE"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "NOT GIVEN"
+    ],
+    "15": [
+      "FALSE"
+    ],
+    "16": [
+      "TRUE"
+    ],
+    "17": [
+      "FALSE"
+    ],
+    "18": [
+      "FALSE"
+    ],
+    "19": [
+      "TRUE"
+    ],
+    "20": [
+      "words"
+    ],
+    "21": [
+      "finger"
+    ],
+    "22": [
+      "direction"
+    ],
+    "23": [
+      "commands"
+    ],
+    "24": [
+      "fires"
+    ],
+    "25": [
+      "technology"
+    ],
+    "26": [
+      "award"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "E"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "H"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "C"
+    ],
+    "33": [
+      "D"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "YES"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NOT GIVEN"
+    ],
+    "40": [
+      "D"
+    ]
+  },
+  "multi": [],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+    "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+    "pdfPage": 128,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

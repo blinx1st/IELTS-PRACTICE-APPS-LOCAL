@@ -1,0 +1,187 @@
+{
+  "book": 16,
+  "test": 4,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 3.mp3",
+  "sha256": "c9b8b98d40ddb2e5168e8531ef1f59556325becfc3b9cc911d0bce33a24f25a8",
+  "duration": 407.897,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      308.346125,
+      408.346125
+    ]
+  ],
+  "text": "Part 3. You will hear two urban planning students discussing bike sharing schemes in different cities. First you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. Now that we've done all the research into bike sharing schemes in cities around the world, we need to think about how we're going to organize our report. Right. I think we should start by talking about the benefits. I mean, it's great that so many cities have introduced these schemes, where anyone can pick up a bike from dozens of different locations and hire it for a few hours. It makes riding a bike very convenient for people. Yes, but the costs can add up and that puts people on low incomes off in some places. I suppose so, but if it means more people in general are cycling rather than driving, then because they're increasing the amount of physical activity they do, it's good for their health. OK, but isn't that of less importance? I mean, doesn't the impact of reduced emissions on air pollution have a more significant effect on people's health? Certainly in some cities, bike sharing has made a big contribution to that and also helped to cut the number of cars on the road significantly. Which is the main point? Exactly. But I'd say it's had less of an impact on noise pollution because there are still loads of buses and lorries around. that'll change. Yes. Now what about outside Europe? Well, bike sharing schemes have taken off in places like Buenos Aires. Hmm. They built a huge network of cycle lanes to support the introduction of the scheme there, didn't they? It attracted huge numbers of cyclists where previously they were hardly any. An example of good planning? Absolutely. New York is a good example of how not to introduce a scheme. When they launched it, it was more than 10 times the price of most other schemes. More than it costs to take a taxi, crazy. I think the organises lact-vision and ambition there. I think so too. Sydney would be a good example to use. I would have expected it to have grown pretty quickly here. Yes, I can't quite work out why it hasn't been an instant success, like some of the others. It's a shame really. I know. Okay, so now we've thought about all this. That is the end of part three. You now have half a minute to check your answers to part three. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Part 3. You will hear two urban planning students discussing bike sharing schemes in different cities."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "First you have some time to look at questions 21 to 24."
+    },
+    {
+      "start": 30.0,
+      "end": 41.0,
+      "text": "Now listen carefully and answer questions 21 to 24."
+    },
+    {
+      "start": 41.0,
+      "end": 46.0,
+      "text": "Now that we've done all the research into bike sharing schemes in cities around the world,"
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": "we need to think about how we're going to organize our report."
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "text": "Right."
+    },
+    {
+      "start": 50.0,
+      "end": 54.0,
+      "text": "I think we should start by talking about the benefits."
+    },
+    {
+      "start": 54.0,
+      "end": 58.0,
+      "text": "I mean, it's great that so many cities have introduced these schemes,"
+    },
+    {
+      "start": 58.0,
+      "end": 64.32,
+      "text": "where anyone can pick up a bike from dozens of different locations and hire it for a few hours."
+    },
+    {
+      "start": 64.32,
+      "end": 67.36,
+      "text": "It makes riding a bike very convenient for people."
+    },
+    {
+      "start": 67.36,
+      "end": 73.04,
+      "text": "Yes, but the costs can add up and that puts people on low incomes off in some places."
+    },
+    {
+      "start": 74.0,
+      "end": 80.32,
+      "text": "I suppose so, but if it means more people in general are cycling rather than driving,"
+    },
+    {
+      "start": 80.32,
+      "end": 85.6,
+      "text": "then because they're increasing the amount of physical activity they do, it's good for their health."
+    },
+    {
+      "start": 85.6,
+      "end": 89.52,
+      "text": "OK, but isn't that of less importance?"
+    },
+    {
+      "start": 89.52,
+      "end": 93.6,
+      "text": "I mean, doesn't the impact of reduced emissions on air pollution"
+    },
+    {
+      "start": 93.6,
+      "end": 96.56,
+      "text": "have a more significant effect on people's health?"
+    },
+    {
+      "start": 96.56,
+      "end": 101.76,
+      "text": "Certainly in some cities, bike sharing has made a big contribution to that"
+    },
+    {
+      "start": 101.76,
+      "end": 105.68,
+      "text": "and also helped to cut the number of cars on the road significantly."
+    },
+    {
+      "start": 105.68,
+      "end": 107.04,
+      "text": "Which is the main point?"
+    },
+    {
+      "start": 107.04,
+      "end": 108.24,
+      "text": "Exactly."
+    },
+    {
+      "start": 108.24,
+      "end": 112.08,
+      "text": "But I'd say it's had less of an impact on noise pollution"
+    },
+    {
+      "start": 112.08,
+      "end": 115.08,
+      "text": "because there are still loads of buses and lorries around."
+    },
+    {
+      "start": 308.35,
+      "end": 316.03,
+      "text": "that'll change. Yes. Now what about outside Europe? Well, bike sharing schemes have taken off in"
+    },
+    {
+      "start": 316.03,
+      "end": 321.95,
+      "text": "places like Buenos Aires. Hmm. They built a huge network of cycle lanes to support the introduction"
+    },
+    {
+      "start": 321.95,
+      "end": 327.39,
+      "text": "of the scheme there, didn't they? It attracted huge numbers of cyclists where previously they"
+    },
+    {
+      "start": 327.39,
+      "end": 334.19,
+      "text": "were hardly any. An example of good planning? Absolutely. New York is a good example of how not"
+    },
+    {
+      "start": 334.19,
+      "end": 340.35,
+      "text": "to introduce a scheme. When they launched it, it was more than 10 times the price of most other"
+    },
+    {
+      "start": 340.35,
+      "end": 347.55,
+      "text": "schemes. More than it costs to take a taxi, crazy. I think the organises lact-vision and ambition"
+    },
+    {
+      "start": 347.55,
+      "end": 354.19,
+      "text": "there. I think so too. Sydney would be a good example to use. I would have expected it to have"
+    },
+    {
+      "start": 354.19,
+      "end": 360.67,
+      "text": "grown pretty quickly here. Yes, I can't quite work out why it hasn't been an instant success,"
+    },
+    {
+      "start": 360.67,
+      "end": 367.71,
+      "text": "like some of the others. It's a shame really. I know. Okay, so now we've thought about all this."
+    },
+    {
+      "start": 371.23,
+      "end": 377.79,
+      "text": "That is the end of part three. You now have half a minute to check your answers to part three."
+    },
+    {
+      "start": 390.67,
+      "end": 392.67,
+      "text": "You"
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

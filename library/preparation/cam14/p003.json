@@ -1,0 +1,147 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 3,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Listening\nSECTION 2\nQuestions 11-20\nInduction talk for new apprentices\nQuestions 11 and 12\nChoose TWO letters, A-E.\nWhich TWO pieces of advice for the first week of an apprenticeship does the manager give?\nA__ get to know colleagues\nB\nlearn from any mistakes\nC\nask lots of questions\nD\nreact positively to feedback\nE\nenjoy new challenges\nQuestions 13 and 14\nChoose TWO letters, A-E.\nWhich TWO things does the manager say mentors can help with?\nA __ confidence-building\nB-\nmaking career plans\nC\ncompleting difficult tasks\nD-\nmaking a weekly timetable\nE\nreviewing progress\n11\n",
+  "blocks": [
+    {
+      "box": [
+        496.6999206542969,
+        94.30099487304688,
+        540.3826904296875,
+        104.74932861328125
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        129.2140350341797,
+        319.6155700683594,
+        140.02264404296875
+      ],
+      "text": "SECTION 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        201.91932678222656,
+        158.3681182861328,
+        445.1076354980469,
+        172.4193115234375
+      ],
+      "text": "Induction talk for new apprentices\n"
+    },
+    {
+      "box": [
+        108.33817291259766,
+        186.4424591064453,
+        217.3097686767578,
+        196.53045654296875
+      ],
+      "text": "Questions 11 and 12\n"
+    },
+    {
+      "box": [
+        108.33817291259766,
+        213.0770263671875,
+        236.37164306640625,
+        222.80482482910156
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        107.61831665039062,
+        237.91209411621094,
+        538.08251953125,
+        249.0809783935547
+      ],
+      "text": "Which TWO pieces of advice for the first week of an apprenticeship does the manager give?\n"
+    },
+    {
+      "box": [
+        131.7334747314453,
+        257.70806884765625,
+        266.5263671875,
+        271.39898681640625
+      ],
+      "text": "A__ get to know colleagues\n"
+    },
+    {
+      "box": [
+        132.09339904785156,
+        272.1051940917969,
+        287.9276123046875,
+        321.42572021484375
+      ],
+      "text": "B\nlearn from any mistakes\nC\nask lots of questions\nD\nreact positively to feedback\nE\nenjoy new challenges\n"
+    },
+    {
+      "box": [
+        108.33818817138672,
+        361.7271423339844,
+        218.38963317871094,
+        371.815185546875
+      ],
+      "text": "Questions 13 and 14\n"
+    },
+    {
+      "box": [
+        108.33818817138672,
+        388.3617858886719,
+        236.7315216064453,
+        398.08953857421875
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        107.25840759277344,
+        413.55670166015625,
+        427.8638610839844,
+        424.7256164550781
+      ],
+      "text": "Which TWO things does the manager say mentors can help with?\n"
+    },
+    {
+      "box": [
+        132.09341430664062,
+        432.63287353515625,
+        249.8294219970703,
+        445.9635009765625
+      ],
+      "text": "A __ confidence-building\n"
+    },
+    {
+      "box": [
+        132.45333862304688,
+        447.3898620605469,
+        274.5347595214844,
+        470.7959899902344
+      ],
+      "text": "B-\nmaking career plans\nC\ncompleting difficult tasks\n"
+    },
+    {
+      "box": [
+        132.8132781982422,
+        472.9447326660156,
+        284.1626892089844,
+        496.71038818359375
+      ],
+      "text": "D-\nmaking a weekly timetable\nE\nreviewing progress\n"
+    },
+    {
+      "box": [
+        528.7335815429688,
+        731.0127563476562,
+        537.6813354492188,
+        738.9390869140625
+      ],
+      "text": "11\n"
+    }
+  ]
+}

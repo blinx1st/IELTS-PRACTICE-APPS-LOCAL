@@ -1,0 +1,1098 @@
+{
+  "id": "cam18-listening-test1",
+  "skill": "listening",
+  "book": 18,
+  "test": 1,
+  "title": "Cambridge 18 · Listening Test 1",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam18-t1-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t1-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-012.webp",
+              "page": 12
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 12
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Transport survey"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Name: Sadie Jones"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Year of birth: 1991"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Postcode: ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Travelling by bus"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Date of bus journey: ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Reason for trip: shopping and visit to the ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Travelled by bus because cost of ",
+                  {
+                    "number": 4
+                  },
+                  " too high"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Got on bus at ",
+                  {
+                    "number": 5
+                  },
+                  " Street"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Complaints about bus service:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "bus today was ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "frequency of buses in the ",
+                  {
+                    "number": 7
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Travelling by car"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Goes to the ",
+                  {
+                    "number": 8
+                  },
+                  " by car"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Travelling by bicycle"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Dislikes travelling by bike in the city centre because of the ",
+                  {
+                    "number": 9
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Doesn't own a bike because of a lack of ",
+                  {
+                    "number": 10
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-012.webp",
+          "page": 12
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 12
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c97e1b3aec47a05b54da77db01941e3b5064fbf4480d905c0a625310e1c92056.mp3",
+        "sha256": "c97e1b3aec47a05b54da77db01941e3b5064fbf4480d905c0a625310e1c92056",
+        "duration": 431.29,
+        "start": 49.1,
+        "end": 431.29,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t1-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t1-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t1-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t1-p2-q11-13",
+          "type": "choice",
+          "heading": "Questions 11–13",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Why does the speaker apologise about the seats?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "They are too small"
+                },
+                {
+                  "value": "B",
+                  "label": "There are not enough of them"
+                },
+                {
+                  "value": "C",
+                  "label": "Some of them are very close together"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "What does the speaker say about the age of volunteers?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "The age of volunteers is less important than other factors"
+                },
+                {
+                  "value": "B",
+                  "label": "Young volunteers are less reliable than older ones"
+                },
+                {
+                  "value": "C",
+                  "label": "Most volunteers are about 60 years old"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "What does the speaker say about training?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It is continuous"
+                },
+                {
+                  "value": "B",
+                  "label": "It is conducted by a manager"
+                },
+                {
+                  "value": "C",
+                  "label": "It takes place online"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-013.webp",
+              "page": 13
+            },
+            {
+              "url": "/library-assets/l-cam18-source-014.webp",
+              "page": 14
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 13
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "id": "l-cam18-t1-p2-q14-15",
+          "type": "multi",
+          "heading": "Questions 14–15",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?",
+          "questions": [
+            {
+              "number": 14,
+              "text": ""
+            },
+            {
+              "number": 15,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-013.webp",
+              "page": 13
+            },
+            {
+              "url": "/library-assets/l-cam18-source-014.webp",
+              "page": 14
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 13
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 14
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "their financial situation"
+            },
+            {
+              "value": "B",
+              "label": "their level of commitment"
+            },
+            {
+              "value": "C",
+              "label": "their work experience"
+            },
+            {
+              "value": "D",
+              "label": "their ambition"
+            },
+            {
+              "value": "E",
+              "label": "their availability"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t1-p2-q16-20",
+          "type": "matching",
+          "heading": "Questions 16–20",
+          "instructions": "What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 16-20. Helpful things volunteers might offer",
+          "body": "",
+          "questions": [
+            {
+              "number": 16,
+              "text": "Fundraising"
+            },
+            {
+              "number": 17,
+              "text": "Litter collection"
+            },
+            {
+              "number": 18,
+              "text": "‘Playmates’"
+            },
+            {
+              "number": 19,
+              "text": "Story club"
+            },
+            {
+              "number": 20,
+              "text": "First aid"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-013.webp",
+              "page": 13
+            },
+            {
+              "url": "/library-assets/l-cam18-source-014.webp",
+              "page": 14
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 13
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 14
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "experience on stage"
+            },
+            {
+              "value": "B",
+              "label": "original, new ideas"
+            },
+            {
+              "value": "C",
+              "label": "parenting skills"
+            },
+            {
+              "value": "D",
+              "label": "an understanding of food and diet"
+            },
+            {
+              "value": "E",
+              "label": "retail experience"
+            },
+            {
+              "value": "F",
+              "label": "a good memory"
+            },
+            {
+              "value": "G",
+              "label": "a good level of fitness"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-013.webp",
+          "page": 13
+        },
+        {
+          "url": "/library-assets/l-cam18-source-014.webp",
+          "page": 14
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 13
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 14
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/8a06d26cbf606f37da5c6aef2c55f6e13bb8db4e59a5bfb30a60b8d85562ec98.mp3",
+        "sha256": "8a06d26cbf606f37da5c6aef2c55f6e13bb8db4e59a5bfb30a60b8d85562ec98",
+        "duration": 398.088,
+        "start": 0,
+        "end": 398.088,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t1-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t1-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t1-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t1-p3-q21-26",
+          "type": "choice",
+          "heading": "Questions 21–26",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "What problem did Chantal have at the start of the talk?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Her view of the speaker was blocked"
+                },
+                {
+                  "value": "B",
+                  "label": "She was unable to find an empty seat"
+                },
+                {
+                  "value": "C",
+                  "label": "The students next to her were talking"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "What were Hugo and Chantal surprised to hear about the job market?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It has become more competitive than it used to be"
+                },
+                {
+                  "value": "B",
+                  "label": "There is more variety in it than they had realised"
+                },
+                {
+                  "value": "C",
+                  "label": "Some areas of it are more exciting than others"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Hugo and Chantal agree that the speaker’s message was",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "unfair to them at times"
+                },
+                {
+                  "value": "B",
+                  "label": "hard for them to follow"
+                },
+                {
+                  "value": "C",
+                  "label": "critical of the industry"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What do Hugo and Chantal criticise about their school careers advice?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "when they received the advice"
+                },
+                {
+                  "value": "B",
+                  "label": "how much advice was given"
+                },
+                {
+                  "value": "C",
+                  "label": "who gave the advice"
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "When discussing their future, Hugo and Chantal disagree on",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "which is the best career in fashion"
+                },
+                {
+                  "value": "B",
+                  "label": "when to choose a career in fashion"
+                },
+                {
+                  "value": "C",
+                  "label": "why they would like a career in fashion"
+                }
+              ]
+            },
+            {
+              "number": 26,
+              "text": "How does Hugo feel about being an unpaid assistant?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "He is realistic about the practice"
+                },
+                {
+                  "value": "B",
+                  "label": "He feels the practice is dishonest"
+                },
+                {
+                  "value": "C",
+                  "label": "He thinks others want to change the practice"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-015.webp",
+              "page": 15
+            },
+            {
+              "url": "/library-assets/l-cam18-source-016.webp",
+              "page": 16
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 15
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "id": "l-cam18-t1-p3-q27-28",
+          "type": "multi",
+          "heading": "Questions 27–28",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO mistakes did the speaker admit she made in her first job?",
+          "questions": [
+            {
+              "number": 27,
+              "text": ""
+            },
+            {
+              "number": 28,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-015.webp",
+              "page": 15
+            },
+            {
+              "url": "/library-assets/l-cam18-source-016.webp",
+              "page": 16
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 15
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 16
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "being dishonest to her employer"
+            },
+            {
+              "value": "B",
+              "label": "paying too much attention to how she looked"
+            },
+            {
+              "value": "C",
+              "label": "expecting to become well known"
+            },
+            {
+              "value": "D",
+              "label": "trying to earn a lot of money"
+            },
+            {
+              "value": "E",
+              "label": "openly disliking her client"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t1-p3-q29-30",
+          "type": "multi",
+          "heading": "Questions 29–30",
+          "instructions": "Choose TWO letters, A--E.",
+          "body": "Which TWO pieces of retail information do Hugo and Chantal agree would be useful?",
+          "questions": [
+            {
+              "number": 29,
+              "text": ""
+            },
+            {
+              "number": 30,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-015.webp",
+              "page": 15
+            },
+            {
+              "url": "/library-assets/l-cam18-source-016.webp",
+              "page": 16
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 15
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 16
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "the reasons people return fashion items"
+            },
+            {
+              "value": "B",
+              "label": "how much time people have to shop for clothes"
+            },
+            {
+              "value": "C",
+              "label": "fashion designs people want but can’t find"
+            },
+            {
+              "value": "D",
+              "label": "the best time of year for fashion buying"
+            },
+            {
+              "value": "E",
+              "label": "the most popular fashion sizes"
+            }
+          ],
+          "choose": 2
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-015.webp",
+          "page": 15
+        },
+        {
+          "url": "/library-assets/l-cam18-source-016.webp",
+          "page": 16
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 15
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 16
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/299268607978510cea86fe2c9a0aac09935c4efd68874868e5e4cb578d33ed29.mp3",
+        "sha256": "299268607978510cea86fe2c9a0aac09935c4efd68874868e5e4cb578d33ed29",
+        "duration": 400.909,
+        "start": 0,
+        "end": 400.909,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t1-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t1-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t1-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t1-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-017.webp",
+              "page": 17
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 17
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Elephant translocation"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Reasons for overpopulation at Majete National Park"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "strict enforcement of anti-poaching laws"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "successful breeding"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Problems caused by elephant overpopulation"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "greater competition, causing hunger for elephants"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "damage to ",
+                  {
+                    "number": 31
+                  },
+                  " in the park"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The translocation process"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a suitable group of elephants from the same ",
+                  {
+                    "number": 32
+                  },
+                  " was selected"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "vets and park staff made use of ",
+                  {
+                    "number": 33
+                  },
+                  " to help guide the elephants into an open plain"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "elephants were immobilised with tranquilisers"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "this process had to be completed quickly to reduce ",
+                  {
+                    "number": 34
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "elephants had to be turned on their ",
+                  {
+                    "number": 35
+                  },
+                  " to avoid damage to their lungs"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "elephants' ",
+                  {
+                    "number": 36
+                  },
+                  " had to be monitored constantly"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "tracking devices were fitted to the matriarchs"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "data including the size of their tusks and ",
+                  {
+                    "number": 37
+                  },
+                  " was taken"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "elephants were taken by truck to their new reserve"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Advantages of translocation at Nkhotakota Wildlife Park"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 38
+                  },
+                  " opportunities"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a reduction in the number of poachers and ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "an example of conservation that other parks can follow"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "an increase in ",
+                  {
+                    "number": 40
+                  },
+                  " as a contributor to GDP"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-017.webp",
+          "page": 17
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 17
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/b5d43130bd1f3bfd569be6eed04e055cc04cd5776cd1545aa1524e738dd1ac9f.mp3",
+        "sha256": "b5d43130bd1f3bfd569be6eed04e055cc04cd5776cd1545aa1524e738dd1ac9f",
+        "duration": 527.603,
+        "start": 0,
+        "end": 448.38,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t1-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t1-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

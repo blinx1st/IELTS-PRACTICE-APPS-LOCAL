@@ -1,0 +1,174 @@
+{
+  "id": "cam16-listening-test3",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "park"
+    ],
+    "2": [
+      "blue"
+    ],
+    "3": [
+      "reference"
+    ],
+    "4": [
+      "story"
+    ],
+    "5": [
+      "rain"
+    ],
+    "6": [
+      "snack"
+    ],
+    "7": [
+      "medication"
+    ],
+    "8": [
+      "helmet"
+    ],
+    "9": [
+      "tent"
+    ],
+    "10": [
+      "199"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "D"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "H"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "G"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "D"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "E"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "grandmother"
+    ],
+    "32": [
+      "decade"
+    ],
+    "33": [
+      "equipment"
+    ],
+    "34": [
+      "economic"
+    ],
+    "35": [
+      "basic"
+    ],
+    "36": [
+      "round"
+    ],
+    "37": [
+      "bone"
+    ],
+    "38": [
+      "rough"
+    ],
+    "39": [
+      "style"
+    ],
+    "40": [
+      "sheep"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        11,
+        12
+      ],
+      "answers": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        13,
+        14
+      ],
+      "answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        21,
+        22
+      ],
+      "answers": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        23,
+        24
+      ],
+      "answers": [
+        "C",
+        "E"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+    "pdfPage": 126,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

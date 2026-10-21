@@ -1,0 +1,167 @@
+{
+  "book": 14,
+  "test": 2,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S4.mp3",
+  "sha256": "08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90",
+  "duration": 1040.924,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      940.8106250000001,
+      1040.810625
+    ]
+  ],
+  "text": "Section 4. You will hear a lecture about the history of weather forecasting. First, you have some time to look at questions 31 to 40. you In this series of lectures about the history of weather forecasting, I'll start by examining its early history. That'll be the subject of today's talk. Okay, so we'll start by going back thousands of years. Most ancient cultures had weather gods, and weather catastrophes, such as floods, played an important role in many creation myths. Generally, weather was attributed to the whims of the gods, as the wide range of weather gods in various cultures show. It's about 12 km from the airport, but there's a complimentary shuttle bus for guests, and it's only about 10 minutes walk from this central railway station. OK. Now, I don't know, Sydney, very well. Can you just give me an idea of the location of the hotel? Ah, well, it's downtown on Wilby Street. That's quite a small street, and it's not very far from the sea. And of course, if the conference attendees want to go out on this Saturday evening, there's a huge choice of places to eat. Then if they want to make a night of it, they can go on to one of the clubs in the area. There are a great many to choose from. Okay. So, if we go ahead with this, can you give me some information about how much we're looking at? This is the end of section 1. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "Section 4."
+    },
+    {
+      "start": 5.64,
+      "end": 10.44,
+      "text": "You will hear a lecture about the history of weather forecasting."
+    },
+    {
+      "start": 10.44,
+      "end": 16.36,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "you"
+    },
+    {
+      "start": 60.0,
+      "end": 82.24,
+      "text": "In this series of lectures about the history of weather forecasting, I'll start by examining"
+    },
+    {
+      "start": 82.24,
+      "end": 84.44,
+      "text": "its early history."
+    },
+    {
+      "start": 84.44,
+      "end": 87.44,
+      "text": "That'll be the subject of today's talk."
+    },
+    {
+      "start": 87.44,
+      "end": 93.56,
+      "text": "Okay, so we'll start by going back thousands of years."
+    },
+    {
+      "start": 93.56,
+      "end": 101.56,
+      "text": "Most ancient cultures had weather gods, and weather catastrophes, such as floods, played"
+    },
+    {
+      "start": 101.56,
+      "end": 105.72,
+      "text": "an important role in many creation myths."
+    },
+    {
+      "start": 105.72,
+      "end": 112.4,
+      "text": "Generally, weather was attributed to the whims of the gods, as the wide range of weather"
+    },
+    {
+      "start": 112.4,
+      "end": 114.96,
+      "text": "gods in various cultures show."
+    },
+    {
+      "start": 940.81,
+      "end": 948.13,
+      "text": "It's about 12 km from the airport, but there's a complimentary shuttle bus for guests,"
+    },
+    {
+      "start": 948.13,
+      "end": 952.21,
+      "text": "and it's only about 10 minutes walk from this central railway station."
+    },
+    {
+      "start": 952.21,
+      "end": 953.21,
+      "text": "OK."
+    },
+    {
+      "start": 953.21,
+      "end": 956.01,
+      "text": "Now, I don't know, Sydney, very well."
+    },
+    {
+      "start": 956.01,
+      "end": 959.61,
+      "text": "Can you just give me an idea of the location of the hotel?"
+    },
+    {
+      "start": 959.61,
+      "end": 964.37,
+      "text": "Ah, well, it's downtown on Wilby Street."
+    },
+    {
+      "start": 964.37,
+      "end": 969.37,
+      "text": "That's quite a small street, and it's not very far from the sea."
+    },
+    {
+      "start": 969.37,
+      "end": 974.25,
+      "text": "And of course, if the conference attendees want to go out on this Saturday evening, there's"
+    },
+    {
+      "start": 974.25,
+      "end": 978.11,
+      "text": "a huge choice of places to eat."
+    },
+    {
+      "start": 978.11,
+      "end": 983.97,
+      "text": "Then if they want to make a night of it, they can go on to one of the clubs in the area."
+    },
+    {
+      "start": 983.97,
+      "end": 986.57,
+      "text": "There are a great many to choose from."
+    },
+    {
+      "start": 986.57,
+      "end": 987.57,
+      "text": "Okay."
+    },
+    {
+      "start": 987.57,
+      "end": 993.77,
+      "text": "So, if we go ahead with this, can you give me some information about how much we're looking"
+    },
+    {
+      "start": 993.77,
+      "end": 997.49,
+      "text": "at?"
+    },
+    {
+      "start": 997.49,
+      "end": 1000.73,
+      "text": "This is the end of section 1."
+    },
+    {
+      "start": 1000.73,
+      "end": 1004.09,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 1027.49,
+      "end": 1034.49,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

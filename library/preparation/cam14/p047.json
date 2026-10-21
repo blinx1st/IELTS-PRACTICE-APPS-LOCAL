@@ -1,0 +1,183 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 47,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Listening\nQuestions 15-20\nWhat has eachofthe following volunteers helped someone to do?\nChoose SIX answers from the box and write the correct letter, A-G, next to\nQuestions 15-20.\nWhat volunteers have helped people to do\nA\novercome physical difficulties\nB _\nrediscover skills not used for a long time\nC_\nimprove their communication skills\nD _ solve problems independently\nE\nescape isolation\nF\nremember past times\nG _ start a new hobby\nVolunteers\n15\nHabib\nsree\n16\nConsuela\nnnn\n18\nTanya\naarhtiinaesonse\n19\nAlexei\nregen\n20\nJuba\ndetpuesreanesat\n55\n",
+  "blocks": [
+    {
+      "box": [
+        495.6201477050781,
+        96.10060119628906,
+        539.6104736328125,
+        106.18866729736328
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        107.61830139160156,
+        131.0136260986328,
+        196.80819702148438,
+        141.10162353515625
+      ],
+      "text": "Questions 15-20\n"
+    },
+    {
+      "box": [
+        106.89844512939453,
+        155.84860229492188,
+        429.2495422363281,
+        170.2601318359375
+      ],
+      "text": "What has eachofthe following volunteers helped someone to do?\n"
+    },
+    {
+      "box": [
+        107.61830139160156,
+        182.84315490722656,
+        472.5128173828125,
+        205.52755737304688
+      ],
+      "text": "Choose SIX answers from the box and write the correct letter, A-G, next to\nQuestions 15-20.\n"
+    },
+    {
+      "box": [
+        211.63734436035156,
+        232.51315307617188,
+        433.6406555175781,
+        242.96148681640625
+      ],
+      "text": "What volunteers have helped people to do\n"
+    },
+    {
+      "box": [
+        194.72076416015625,
+        252.6691131591797,
+        361.1510925292969,
+        263.47772216796875
+      ],
+      "text": "A\novercome physical difficulties\n"
+    },
+    {
+      "box": [
+        195.4406280517578,
+        271.38531494140625,
+        415.6298828125,
+        285.07623291015625
+      ],
+      "text": "B _\nrediscover skills not used for a long time\n"
+    },
+    {
+      "box": [
+        195.08070373535156,
+        292.9809875488281,
+        386.8859558105469,
+        303.78961181640625
+      ],
+      "text": "C_\nimprove their communication skills\n"
+    },
+    {
+      "box": [
+        195.80055236816406,
+        311.3373107910156,
+        364.8188171386719,
+        325.38848876953125
+      ],
+      "text": "D _ solve problems independently\n"
+    },
+    {
+      "box": [
+        195.80055236816406,
+        333.2928771972656,
+        297.8831787109375,
+        343.7412109375
+      ],
+      "text": "E\nescape isolation\n"
+    },
+    {
+      "box": [
+        195.80055236816406,
+        353.4488220214844,
+        322.6750183105469,
+        363.89715576171875
+      ],
+      "text": "F\nremember past times\n"
+    },
+    {
+      "box": [
+        195.80055236816406,
+        372.1650390625,
+        306.20831298828125,
+        385.85595703125
+      ],
+      "text": "G _ start a new hobby\n"
+    },
+    {
+      "box": [
+        131.37353515625,
+        414.27655029296875,
+        186.42440795898438,
+        422.5631408691406
+      ],
+      "text": "Volunteers\n"
+    },
+    {
+      "box": [
+        107.61831665039062,
+        434.0726013183594,
+        257.95281982421875,
+        442.35919189453125
+      ],
+      "text": "15\nHabib\nsree\n"
+    },
+    {
+      "box": [
+        107.61831665039062,
+        454.2285461425781,
+        257.95281982421875,
+        462.51513671875
+      ],
+      "text": "16\nConsuela\nnnn\n"
+    },
+    {
+      "box": [
+        107.61831665039062,
+        494.5403747558594,
+        257.8700866699219,
+        504.98870849609375
+      ],
+      "text": "18\nTanya\naarhtiinaesonse\n"
+    },
+    {
+      "box": [
+        107.61831665039062,
+        514.3363647460938,
+        257.9239501953125,
+        522.9832763671875
+      ],
+      "text": "19\nAlexei\nregen\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        534.4923706054688,
+        257.8160705566406,
+        542.7789916992188
+      ],
+      "text": "20\nJuba\ndetpuesreanesat\n"
+    },
+    {
+      "box": [
+        528.0136108398438,
+        732.8123779296875,
+        539.1066284179688,
+        741.0989990234375
+      ],
+      "text": "55\n"
+    }
+  ]
+}

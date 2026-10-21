@@ -1,0 +1,157 @@
+{
+  "book": 14,
+  "test": 4,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S1.mp3",
+  "sha256": "b1f255690b01dd26ffa0326dd0e1fa6acfcde415dac60e20ba3477b7d01d50b6",
+  "duration": 491.826,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      391.71175,
+      491.71175
+    ]
+  ],
+  "text": "Test 4. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now, turn to section 1. Section 1. You will hear a woman phoning a hotel about holding a party there. First, you have some time to look at questions 1 to 7. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Good morning, Claire House Hotel, Andrew speaking. Now, listen and answer questions 8 to 10. Now, you have various facilities, don't you? Are they all included in the price of hiring the room? The pool, for instance? Normally, you'd be able to use it, but it'll be closed throughout September for refurbishment I'm afraid. The gym will be available, though, at no extra charge. That's open all day from six in the morning until midnight. Right. And the tennis courts, but there is a small additional payment for those. We have four courts, and it's worth booking in advance if you possibly can. There's there can be quite a long waiting list for them. Right. Now, could we discuss the food? This would be dinner around seven o'clock. is the end of section 1. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "Test 4."
+    },
+    {
+      "start": 5.44,
+      "end": 10.52,
+      "text": "You will hear a number of different recordings, and you will have to answer questions"
+    },
+    {
+      "start": 10.52,
+      "end": 12.56,
+      "text": "on what you hear."
+    },
+    {
+      "start": 12.56,
+      "end": 18.96,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance"
+    },
+    {
+      "start": 18.96,
+      "end": 22.24,
+      "text": "to check your work."
+    },
+    {
+      "start": 22.24,
+      "end": 27.48,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 27.48,
+      "end": 31.64,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 31.64,
+      "end": 37.28,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an"
+    },
+    {
+      "start": 37.28,
+      "end": 39.48,
+      "text": "answer sheet."
+    },
+    {
+      "start": 39.48,
+      "end": 48.16,
+      "text": "Now, turn to section 1."
+    },
+    {
+      "start": 48.16,
+      "end": 50.68,
+      "text": "Section 1."
+    },
+    {
+      "start": 50.68,
+      "end": 56.24,
+      "text": "You will hear a woman phoning a hotel about holding a party there."
+    },
+    {
+      "start": 56.24,
+      "end": 61.84,
+      "text": "First, you have some time to look at questions 1 to 7."
+    },
+    {
+      "start": 86.24,
+      "end": 102.56,
+      "text": "You will see that there is an example that has been done for you."
+    },
+    {
+      "start": 102.56,
+      "end": 111.64,
+      "text": "On this occasion only, the conversation relating to this will be played first."
+    },
+    {
+      "start": 111.64,
+      "end": 115.0,
+      "text": "Good morning, Claire House Hotel, Andrew speaking."
+    },
+    {
+      "start": 391.71,
+      "end": 398.71,
+      "text": "Now, listen and answer questions 8 to 10."
+    },
+    {
+      "start": 398.71,
+      "end": 406.47,
+      "text": "Now, you have various facilities, don't you? Are they all included in the price of hiring"
+    },
+    {
+      "start": 406.47,
+      "end": 409.23,
+      "text": "the room? The pool, for instance?"
+    },
+    {
+      "start": 409.23,
+      "end": 415.07,
+      "text": "Normally, you'd be able to use it, but it'll be closed throughout September for refurbishment"
+    },
+    {
+      "start": 415.07,
+      "end": 421.27,
+      "text": "I'm afraid. The gym will be available, though, at no extra charge. That's open all"
+    },
+    {
+      "start": 421.27,
+      "end": 427.87,
+      "text": "day from six in the morning until midnight. Right. And the tennis courts, but there is"
+    },
+    {
+      "start": 427.87,
+      "end": 434.11,
+      "text": "a small additional payment for those. We have four courts, and it's worth booking in advance"
+    },
+    {
+      "start": 434.11,
+      "end": 439.31,
+      "text": "if you possibly can. There's there can be quite a long waiting list for them. Right."
+    },
+    {
+      "start": 439.31,
+      "end": 448.67,
+      "text": "Now, could we discuss the food? This would be dinner around seven o'clock."
+    },
+    {
+      "start": 448.67,
+      "end": 455.23,
+      "text": "is the end of section 1. You now have half a minute to check your answers."
+    },
+    {
+      "start": 478.67,
+      "end": 485.67,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

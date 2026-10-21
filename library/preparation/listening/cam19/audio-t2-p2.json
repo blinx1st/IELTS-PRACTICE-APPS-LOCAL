@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/92eebe7728a829eccd8d030b3dd5ebd8acef18b13c93abec21bc732dbe809229.mp3",
+    "sha256": "92eebe7728a829eccd8d030b3dd5ebd8acef18b13c93abec21bc732dbe809229",
+    "duration": 384.157,
+    "start": 0,
+    "end": 384.157,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a man called David talking on the radio about his work as a lifeboat volunteer. First, you have some time to look at questions 11 to 16. You Now listen carefully and answer questions 11 to 16. I never really planned to be a lifeboat volunteer when I came to live in North Sea. I'd been working in London as a website designer, but although that was interesting, I didn't like city life. I'd been really keen on boats as a teenager, and I thought if I went to live by the sea, I might be able to pursue that interest a bit more in my free time. Then I found that the Lifeboat Institution was looking for volunteers, so I decided to apply. life."
+    },
+    {
+      "name": "ending",
+      "start": 319.157,
+      "end": 384.157,
+      "text": "It's not just about saving lives. I've learned a lot about the technology involved. My background in IT's been useful here, and I can use my expertise to help other volunteers. They're a great group. We're like a family, really, which helps when you're dragging yourself out of bed on a cold stormy night. But actually, it's the colder months that can be the most rewarding time. That's when the incidents tend to be more serious, and you realise that you can make a huge difference to the outcome. So, if any of you listeners are interested, why don't you give us a call? That is the end of Part 2. You now have 30 seconds to check your answers to Part 2."
+    }
+  ]
+}

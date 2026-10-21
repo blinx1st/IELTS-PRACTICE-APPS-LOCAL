@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/fab13a121f6806d6721a3dd7c03b761620ce321d705a0bc0b85dbc83ad2d1e06.mp3",
+    "sha256": "fab13a121f6806d6721a3dd7c03b761620ce321d705a0bc0b85dbc83ad2d1e06",
+    "duration": 443.245,
+    "start": 0,
+    "end": 443.245,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two veterinary science students called Diana and Tim discussing their work placements and their course modules. First, you have some time to look at questions 21 to 26. You Now listen carefully, and answer questions 21 to 26. So Tim, we have to do a short summary of our work experience on a farm. Right. My farm was great, but arranging the work experience was hard. One problem was it was miles away and I don't drive. And also I'd really wanted a placement for a month, but I could only get one for two weeks. two weeks? I was lucky. The farmer let me stay on the farm, so I didn't have to travel. But finding the right sort of farm to apply to, wasn't he?"
+    },
+    {
+      "name": "ending",
+      "start": 378.245,
+      "end": 443.245,
+      "text": "Yes. I thought they'd know a lot about ways of controlling and eradicating those diseases, but that's not the case at all. I loved the wildlife medication unit. Things like helping birds that have been caught in oil spills. That's something I hadn't thought about before. Yeah. I thought I might write my dissertation on something connected with that. Right. So, actually, I was thinking something along the same line. That is the end of part 3. You now have half a minute to check your answers to part 3."
+    }
+  ]
+}

@@ -12,7 +12,6 @@ tmp/
 *.tsbuildinfo
 
 # Local study material and generated Cambridge content
-/library/
 /Tài liệu Cambridge/
 /docs/screenshots/
 *.pdf

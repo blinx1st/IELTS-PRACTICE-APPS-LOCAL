@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/b84dfe7fc58fe27338e8e425d587f7bf57ad416e1354bfbcc191dbccbe7ae920.mp3",
+    "sha256": "b84dfe7fc58fe27338e8e425d587f7bf57ad416e1354bfbcc191dbccbe7ae920",
+    "duration": 444.079,
+    "start": 0,
+    "end": 444.079,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a guide at a tourist attraction called Onaton Hall, talking to a group of visitors. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Good morning and welcome to Onerton Hall, one of the largest estates in the area. My name's Nick and I'm one of the guides. I'll give you a brief introduction to the estate while you're sitting down and then we'll walk round. The estate consists of the house, gardens, parkland and farm and it dates back to the 14th century. The original house was replaced in the late 17th century and of course it has had a large number of owners. All of them have left their mark, generally by adding new rooms, like the ballroom and conservatory, or by demolishing others."
+    },
+    {
+      "name": "ending",
+      "start": 379.079,
+      "end": 444.079,
+      "text": "The parkland, which was laid out in the 18th century, with a lake and trees that are now well established. You'll see types of cattle and sheep that are hardly ever found on farms these days. We're helping to preserve them, to stop their numbers falling further. OK, well, if you'd like to come with me, we will start. That is the end of part 2. You now have half a minute to check your answers to part 2."
+    }
+  ]
+}

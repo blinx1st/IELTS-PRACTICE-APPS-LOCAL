@@ -1,0 +1,1130 @@
+{
+  "id": "cam17-listening-test1",
+  "skill": "listening",
+  "book": 17,
+  "test": 1,
+  "title": "Cambridge 17 · Listening Test 1",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam17-t1-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t1-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-003.webp",
+              "page": 3
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 3
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Buckworth Conservation Group"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Regular activities"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Beach"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "making sure the beach does not have ",
+                  {
+                    "number": 1
+                  },
+                  " on it"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "no ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Nature reserve"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "maintaining paths"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "nesting boxes for birds installed"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "next task is taking action to attract ",
+                  {
+                    "number": 3
+                  },
+                  " to the place"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "identifying types of ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "building a new ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Forthcoming events"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Saturday"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "meet at Dunsmore Beach car park"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "walk across the sands and reach the ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "take a picnic"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "wear appropriate ",
+                  {
+                    "number": 7
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Woodwork session"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "suitable for ",
+                  {
+                    "number": 8
+                  },
+                  " to participate in"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "making ",
+                  {
+                    "number": 9
+                  },
+                  " out of wood"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "17th, from 10 a.m. to 3 p.m."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "cost of session (no camping): £ ",
+                  {
+                    "number": 10
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-003.webp",
+          "page": 3
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 3
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/fe5f292cd6d2772a58df7eda1c99f3422a12b17961edf21b0ddb01b792f0d142.mp3",
+        "sha256": "fe5f292cd6d2772a58df7eda1c99f3422a12b17961edf21b0ddb01b792f0d142",
+        "duration": 414.211,
+        "start": 48.38,
+        "end": 414.211,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t1-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t1-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t1-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t1-p2-q11-14",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "What is the maximum number of people who can stand on each side of the boat?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "9"
+                },
+                {
+                  "value": "B",
+                  "label": "15"
+                },
+                {
+                  "value": "C",
+                  "label": "18"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "What colour are the tour boats?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "dark red"
+                },
+                {
+                  "value": "B",
+                  "label": "jet black"
+                },
+                {
+                  "value": "C",
+                  "label": "light green"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "Which lunchbox is suitable for someone who doesn’t eat meat or fish?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Lunchbox 1"
+                },
+                {
+                  "value": "B",
+                  "label": "Lunchbox 2"
+                },
+                {
+                  "value": "C",
+                  "label": "Lunchbox 3"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "What should people do with their litter?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "take it home"
+                },
+                {
+                  "value": "B",
+                  "label": "hand it to a member of staff"
+                },
+                {
+                  "value": "C",
+                  "label": "put it in the bins provided on the boat"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-004.webp",
+              "page": 4
+            },
+            {
+              "url": "/library-assets/l-cam17-source-005.webp",
+              "page": 5
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 4
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "id": "l-cam17-t1-p2-q15-16",
+          "type": "multi",
+          "heading": "Questions 15–16",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO features of the lighthouse does Lou mention?",
+          "questions": [
+            {
+              "number": 15,
+              "text": ""
+            },
+            {
+              "number": 16,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-004.webp",
+              "page": 4
+            },
+            {
+              "url": "/library-assets/l-cam17-source-005.webp",
+              "page": 5
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 4
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 5
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "why it was built"
+            },
+            {
+              "value": "B",
+              "label": "who built it"
+            },
+            {
+              "value": "C",
+              "label": "how long it took to build"
+            },
+            {
+              "value": "D",
+              "label": "who staffed it"
+            },
+            {
+              "value": "E",
+              "label": "what it was built with"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam17-t1-p2-q17-18",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO types of creature might come close to the boat?",
+          "questions": [
+            {
+              "number": 17,
+              "text": ""
+            },
+            {
+              "number": 18,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-004.webp",
+              "page": 4
+            },
+            {
+              "url": "/library-assets/l-cam17-source-005.webp",
+              "page": 5
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 4
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 5
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "sea eagles"
+            },
+            {
+              "value": "B",
+              "label": "fur seals"
+            },
+            {
+              "value": "C",
+              "label": "dolphins"
+            },
+            {
+              "value": "D",
+              "label": "whales"
+            },
+            {
+              "value": "E",
+              "label": "penguins"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam17-t1-p2-q19-20",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO points does Lou make about the caves?",
+          "questions": [
+            {
+              "number": 19,
+              "text": ""
+            },
+            {
+              "number": 20,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-004.webp",
+              "page": 4
+            },
+            {
+              "url": "/library-assets/l-cam17-source-005.webp",
+              "page": 5
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 4
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 5
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Only large tourist boats can visit them"
+            },
+            {
+              "value": "B",
+              "label": "The entrances to them are often blocked"
+            },
+            {
+              "value": "C",
+              "label": "It is too dangerous for individuals to go near them"
+            },
+            {
+              "value": "D",
+              "label": "Someone will explain what is inside them"
+            },
+            {
+              "value": "E",
+              "label": "They cannot be reached on foot"
+            }
+          ],
+          "choose": 2
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-004.webp",
+          "page": 4
+        },
+        {
+          "url": "/library-assets/l-cam17-source-005.webp",
+          "page": 5
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 4
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 5
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/0b5ea2fc49fcbad55d9e867b880e5e3966b7ebb49b9f15dad7c63be9516694c1.mp3",
+        "sha256": "0b5ea2fc49fcbad55d9e867b880e5e3966b7ebb49b9f15dad7c63be9516694c1",
+        "duration": 412.491,
+        "start": 0,
+        "end": 412.491,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t1-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t1-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t1-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t1-p3-q21-26",
+          "type": "choice",
+          "heading": "Questions 21–26",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "What problem did both Diana and Tim have when arranging their work experience?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "making initial contact with suitable farms"
+                },
+                {
+                  "value": "B",
+                  "label": "organising transport to and from the farm"
+                },
+                {
+                  "value": "C",
+                  "label": "finding a placement for the required length of time"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Tim was pleased to be able to help",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a lamb that had a broken leg"
+                },
+                {
+                  "value": "B",
+                  "label": "a sheep that was having difficulty giving birth"
+                },
+                {
+                  "value": "C",
+                  "label": "a newly born lamb that was having trouble feeding"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Diana says the sheep on her farm",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "were of various different varieties"
+                },
+                {
+                  "value": "B",
+                  "label": "were mainly reared for their meat"
+                },
+                {
+                  "value": "C",
+                  "label": "had better quality wool than sheep on the hills"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What did the students learn about adding supplements to chicken feed?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "These should only be given if specially needed"
+                },
+                {
+                  "value": "B",
+                  "label": "It is worth paying extra for the most effective ones"
+                },
+                {
+                  "value": "C",
+                  "label": "The amount given at one time should be limited"
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "What happened when Diana was working with dairy cows?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "She identified some cows incorrectly"
+                },
+                {
+                  "value": "B",
+                  "label": "She accidentally threw some milk away"
+                },
+                {
+                  "value": "C",
+                  "label": "She made a mistake when storing milk"
+                }
+              ]
+            },
+            {
+              "number": 26,
+              "text": "What did both farmers mention about vets and farming?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Vets are failing to cope with some aspects of animal health"
+                },
+                {
+                  "value": "B",
+                  "label": "There needs to be a fundamental change in the training of vets"
+                },
+                {
+                  "value": "C",
+                  "label": "Some jobs could be done by the farmer rather than by a vet."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-006.webp",
+              "page": 6
+            },
+            {
+              "url": "/library-assets/l-cam17-source-007.webp",
+              "page": 7
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 6
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 7
+            }
+          ]
+        },
+        {
+          "id": "l-cam17-t1-p3-q27-30",
+          "type": "matching",
+          "heading": "Questions 27–30",
+          "instructions": "What opinion do the students give about each of the following modules on their veterinary science course? Choose FOUR answers from the box and write the correct letter, A-F, next to questions 27-30. Opinions",
+          "body": "",
+          "questions": [
+            {
+              "number": 27,
+              "text": "Medical terminology"
+            },
+            {
+              "number": 28,
+              "text": "Diet and nutrition"
+            },
+            {
+              "number": 29,
+              "text": "Animal disease"
+            },
+            {
+              "number": 30,
+              "text": "Wildlife medication"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-006.webp",
+              "page": 6
+            },
+            {
+              "url": "/library-assets/l-cam17-source-007.webp",
+              "page": 7
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 6
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 7
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Tim found this easier than expected"
+            },
+            {
+              "value": "B",
+              "label": "Tim thought this was not very clearly organised"
+            },
+            {
+              "value": "C",
+              "label": "Diana may do some further study on this"
+            },
+            {
+              "value": "D",
+              "label": "They both found the reading required for this was difficult"
+            },
+            {
+              "value": "E",
+              "label": "Tim was shocked at something he learned on this module"
+            },
+            {
+              "value": "F",
+              "label": "They were both surprised how little is known about some aspects of this"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-006.webp",
+          "page": 6
+        },
+        {
+          "url": "/library-assets/l-cam17-source-007.webp",
+          "page": 7
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 6
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 7
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/fab13a121f6806d6721a3dd7c03b761620ce321d705a0bc0b85dbc83ad2d1e06.mp3",
+        "sha256": "fab13a121f6806d6721a3dd7c03b761620ce321d705a0bc0b85dbc83ad2d1e06",
+        "duration": 443.245,
+        "start": 0,
+        "end": 443.245,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t1-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t1-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t1-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t1-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-008.webp",
+              "page": 8
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 8
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Labyrinths"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Definition"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a winding spiral path leading to a central area"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Labyrinths compared with mazes"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Mazes are a type of ",
+                  {
+                    "number": 31
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 32
+                  },
+                  " is needed to navigate through a maze"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the word ‘maze’ is derived from a word meaning a feeling of ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Labyrinths represent a journey through life"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "they have frequently been used in ",
+                  {
+                    "number": 34
+                  },
+                  " and prayer"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Early examples of the labyrinth spiral"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Ancient carvings on ",
+                  {
+                    "number": 35
+                  },
+                  " have been found across many cultures"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The Pima, a Native American tribe, wove the symbol on baskets"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Ancient Greeks used the symbol on ",
+                  {
+                    "number": 36
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Walking labyrinths"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The largest surviving example of a turf labyrinth once had a big ",
+                  {
+                    "number": 37
+                  },
+                  " at its centre"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Labyrinths nowadays"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Believed to have a beneficial impact on mental and physical health, e.g., walking a maze can reduce a person's ",
+                  {
+                    "number": 38
+                  },
+                  " rate"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Used in medical and health and fitness settings and also prisons"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Popular with patients, visitors and staff in hospitals"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "patients who can't walk can use ‘finger labyrinths’ made from ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "research has shown that Alzheimer's sufferers experience less ",
+                  {
+                    "number": 40
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-008.webp",
+          "page": 8
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 8
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/a4b1d6fc610c3c9d0503313ff420348a2930856f92b983a41f2c50fe95ddeb21.mp3",
+        "sha256": "a4b1d6fc610c3c9d0503313ff420348a2930856f92b983a41f2c50fe95ddeb21",
+        "duration": 454.66,
+        "start": 0,
+        "end": 377.23,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t1-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t1-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

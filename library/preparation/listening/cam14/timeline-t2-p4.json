@@ -1,0 +1,984 @@
+{
+  "audioSha256": "08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90",
+  "duration": 1040.810625,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 385.12,
+      "end": 392.12,
+      "text": " However, helped scientists to understand the atmosphere and its processes better, and they",
+      "words": [
+        {
+          "word": " However,",
+          "start": 385.12,
+          "end": 385.52
+        },
+        {
+          "word": " helped",
+          "start": 386.0,
+          "end": 386.36
+        },
+        {
+          "word": " scientists",
+          "start": 386.36,
+          "end": 387.04
+        },
+        {
+          "word": " to",
+          "start": 387.04,
+          "end": 387.56
+        },
+        {
+          "word": " understand",
+          "start": 387.56,
+          "end": 388.18
+        },
+        {
+          "word": " the",
+          "start": 388.18,
+          "end": 388.68
+        },
+        {
+          "word": " atmosphere",
+          "start": 388.68,
+          "end": 388.98
+        },
+        {
+          "word": " and",
+          "start": 388.98,
+          "end": 389.38
+        },
+        {
+          "word": " its",
+          "start": 389.38,
+          "end": 389.64
+        },
+        {
+          "word": " processes",
+          "start": 389.64,
+          "end": 390.2
+        },
+        {
+          "word": " better,",
+          "start": 390.2,
+          "end": 390.84000000000003
+        },
+        {
+          "word": " and",
+          "start": 391.42,
+          "end": 391.8
+        },
+        {
+          "word": " they",
+          "start": 391.8,
+          "end": 392.12
+        }
+      ]
+    },
+    {
+      "start": 392.12,
+      "end": 395.58,
+      "text": " started collecting weather observation data systematically.",
+      "words": [
+        {
+          "word": " started",
+          "start": 392.12,
+          "end": 392.46
+        },
+        {
+          "word": " collecting",
+          "start": 392.46,
+          "end": 393.12
+        },
+        {
+          "word": " weather",
+          "start": 393.12,
+          "end": 393.54
+        },
+        {
+          "word": " observation",
+          "start": 393.54,
+          "end": 394.2
+        },
+        {
+          "word": " data",
+          "start": 394.2,
+          "end": 394.84000000000003
+        },
+        {
+          "word": " systematically.",
+          "start": 394.84000000000003,
+          "end": 395.58
+        }
+      ]
+    },
+    {
+      "start": 397.24,
+      "end": 403.68,
+      "text": " In the 18th century, the scientist and politician Benjamin Franklin carried out work on",
+      "words": [
+        {
+          "word": " In",
+          "start": 397.24,
+          "end": 397.38
+        },
+        {
+          "word": " the",
+          "start": 397.38,
+          "end": 397.52
+        },
+        {
+          "word": " 18th",
+          "start": 397.52,
+          "end": 398.22
+        },
+        {
+          "word": " century,",
+          "start": 398.22,
+          "end": 398.68
+        },
+        {
+          "word": " the",
+          "start": 399.06,
+          "end": 399.2
+        },
+        {
+          "word": " scientist",
+          "start": 399.2,
+          "end": 399.62
+        },
+        {
+          "word": " and",
+          "start": 399.62,
+          "end": 400.0
+        },
+        {
+          "word": " politician",
+          "start": 400.0,
+          "end": 400.7
+        },
+        {
+          "word": " Benjamin",
+          "start": 400.7,
+          "end": 401.28000000000003
+        },
+        {
+          "word": " Franklin",
+          "start": 401.28000000000003,
+          "end": 402.02
+        },
+        {
+          "word": " carried",
+          "start": 402.02,
+          "end": 402.72
+        },
+        {
+          "word": " out",
+          "start": 402.72,
+          "end": 403.14
+        },
+        {
+          "word": " work",
+          "start": 403.14,
+          "end": 403.42
+        },
+        {
+          "word": " on",
+          "start": 403.42,
+          "end": 403.68
+        }
+      ]
+    },
+    {
+      "start": 403.68,
+      "end": 410.56,
+      "text": " electricity and lightning in particular, but he was also very interested in weather and",
+      "words": [
+        {
+          "word": " electricity",
+          "start": 403.68,
+          "end": 404.26
+        },
+        {
+          "word": " and",
+          "start": 404.26,
+          "end": 404.84000000000003
+        },
+        {
+          "word": " lightning",
+          "start": 404.84000000000003,
+          "end": 405.24
+        },
+        {
+          "word": " in",
+          "start": 405.24,
+          "end": 405.58
+        },
+        {
+          "word": " particular,",
+          "start": 405.58,
+          "end": 406.26
+        },
+        {
+          "word": " but",
+          "start": 406.82,
+          "end": 407.22
+        },
+        {
+          "word": " he",
+          "start": 407.22,
+          "end": 407.44
+        },
+        {
+          "word": " was",
+          "start": 407.44,
+          "end": 407.62
+        },
+        {
+          "word": " also",
+          "start": 407.62,
+          "end": 408.16
+        },
+        {
+          "word": " very",
+          "start": 408.16,
+          "end": 408.6
+        },
+        {
+          "word": " interested",
+          "start": 408.6,
+          "end": 409.08
+        },
+        {
+          "word": " in",
+          "start": 409.08,
+          "end": 409.52
+        },
+        {
+          "word": " weather",
+          "start": 409.52,
+          "end": 410.04
+        },
+        {
+          "word": " and",
+          "start": 410.04,
+          "end": 410.56
+        }
+      ]
+    },
+    {
+      "start": 410.56,
+      "end": 412.88,
+      "text": " studied it throughout most of his life.",
+      "words": [
+        {
+          "word": " studied",
+          "start": 410.56,
+          "end": 410.84000000000003
+        },
+        {
+          "word": " it",
+          "start": 410.84000000000003,
+          "end": 411.2
+        },
+        {
+          "word": " throughout",
+          "start": 411.2,
+          "end": 411.58
+        },
+        {
+          "word": " most",
+          "start": 411.58,
+          "end": 411.9
+        },
+        {
+          "word": " of",
+          "start": 411.9,
+          "end": 412.04
+        },
+        {
+          "word": " his",
+          "start": 412.04,
+          "end": 412.24
+        },
+        {
+          "word": " life.",
+          "start": 412.24,
+          "end": 412.88
+        }
+      ]
+    },
+    {
+      "start": 412.88,
+      "end": 419.92,
+      "text": " It was Franklin who discovered that storms generally travel from west to east.",
+      "words": [
+        {
+          "word": " It",
+          "start": 412.88,
+          "end": 414.04
+        },
+        {
+          "word": " was",
+          "start": 414.04,
+          "end": 414.36
+        },
+        {
+          "word": " Franklin",
+          "start": 414.36,
+          "end": 414.76
+        },
+        {
+          "word": " who",
+          "start": 414.76,
+          "end": 415.26
+        },
+        {
+          "word": " discovered",
+          "start": 415.26,
+          "end": 415.72
+        },
+        {
+          "word": " that",
+          "start": 415.72,
+          "end": 416.18
+        },
+        {
+          "word": " storms",
+          "start": 416.18,
+          "end": 416.72
+        },
+        {
+          "word": " generally",
+          "start": 416.72,
+          "end": 417.54
+        },
+        {
+          "word": " travel",
+          "start": 417.54,
+          "end": 417.9
+        },
+        {
+          "word": " from",
+          "start": 417.9,
+          "end": 418.38
+        },
+        {
+          "word": " west",
+          "start": 418.38,
+          "end": 418.94
+        },
+        {
+          "word": " to",
+          "start": 418.94,
+          "end": 419.24
+        },
+        {
+          "word": " east.",
+          "start": 419.24,
+          "end": 419.92
+        }
+      ]
+    },
+    {
+      "start": 421.36,
+      "end": 427.34000000000003,
+      "text": " In addition to new meteorological instruments, other developments contributed to our understanding",
+      "words": [
+        {
+          "word": " In",
+          "start": 421.36,
+          "end": 421.48
+        },
+        {
+          "word": " addition",
+          "start": 421.48,
+          "end": 421.8
+        },
+        {
+          "word": " to",
+          "start": 421.8,
+          "end": 422.32
+        },
+        {
+          "word": " new",
+          "start": 422.32,
+          "end": 422.6
+        },
+        {
+          "word": " meteorological",
+          "start": 422.6,
+          "end": 423.38
+        },
+        {
+          "word": " instruments,",
+          "start": 423.38,
+          "end": 424.12
+        },
+        {
+          "word": " other",
+          "start": 424.68,
+          "end": 424.8
+        },
+        {
+          "word": " developments",
+          "start": 424.8,
+          "end": 425.42
+        },
+        {
+          "word": " contributed",
+          "start": 425.42,
+          "end": 426.04
+        },
+        {
+          "word": " to",
+          "start": 426.04,
+          "end": 426.44
+        },
+        {
+          "word": " our",
+          "start": 426.44,
+          "end": 426.68
+        },
+        {
+          "word": " understanding",
+          "start": 426.68,
+          "end": 427.34000000000003
+        }
+      ]
+    },
+    {
+      "start": 427.34000000000003,
+      "end": 428.38,
+      "text": " of the atmosphere.",
+      "words": [
+        {
+          "word": " of",
+          "start": 427.34000000000003,
+          "end": 427.68
+        },
+        {
+          "word": " the",
+          "start": 427.68,
+          "end": 428.3
+        },
+        {
+          "word": " atmosphere.",
+          "start": 428.3,
+          "end": 428.38
+        }
+      ]
+    },
+    {
+      "start": 429.52,
+      "end": 436.34000000000003,
+      "text": " People in different locations began to keep records, and in the mid-19th century the invention",
+      "words": [
+        {
+          "word": " People",
+          "start": 429.52,
+          "end": 429.9
+        },
+        {
+          "word": " in",
+          "start": 429.9,
+          "end": 430.24
+        },
+        {
+          "word": " different",
+          "start": 430.24,
+          "end": 430.62
+        },
+        {
+          "word": " locations",
+          "start": 430.62,
+          "end": 431.42
+        },
+        {
+          "word": " began",
+          "start": 431.42,
+          "end": 431.8
+        },
+        {
+          "word": " to",
+          "start": 431.8,
+          "end": 432.0
+        },
+        {
+          "word": " keep",
+          "start": 432.0,
+          "end": 432.28
+        },
+        {
+          "word": " records,",
+          "start": 432.28,
+          "end": 432.86
+        },
+        {
+          "word": " and",
+          "start": 433.36,
+          "end": 433.6
+        },
+        {
+          "word": " in",
+          "start": 433.6,
+          "end": 433.72
+        },
+        {
+          "word": " the",
+          "start": 433.72,
+          "end": 433.98
+        },
+        {
+          "word": " mid",
+          "start": 433.98,
+          "end": 434.26
+        },
+        {
+          "word": "-19th",
+          "start": 434.26,
+          "end": 434.78
+        },
+        {
+          "word": " century",
+          "start": 434.78,
+          "end": 435.24
+        },
+        {
+          "word": " the",
+          "start": 435.24,
+          "end": 435.96000000000004
+        },
+        {
+          "word": " invention",
+          "start": 435.96000000000004,
+          "end": 436.34000000000003
+        }
+      ]
+    },
+    {
+      "start": 436.34000000000003,
+      "end": 440.76,
+      "text": " of the telegraph made it possible for these records to be collated.",
+      "words": [
+        {
+          "word": " of",
+          "start": 436.34000000000003,
+          "end": 436.64
+        },
+        {
+          "word": " the",
+          "start": 436.64,
+          "end": 436.98
+        },
+        {
+          "word": " telegraph",
+          "start": 436.98,
+          "end": 437.52
+        },
+        {
+          "word": " made",
+          "start": 437.52,
+          "end": 438.04
+        },
+        {
+          "word": " it",
+          "start": 438.04,
+          "end": 438.58
+        },
+        {
+          "word": " possible",
+          "start": 438.58,
+          "end": 438.58
+        },
+        {
+          "word": " for",
+          "start": 438.58,
+          "end": 438.96000000000004
+        },
+        {
+          "word": " these",
+          "start": 438.96000000000004,
+          "end": 439.28
+        },
+        {
+          "word": " records",
+          "start": 439.28,
+          "end": 439.76
+        },
+        {
+          "word": " to",
+          "start": 439.76,
+          "end": 440.04
+        },
+        {
+          "word": " be",
+          "start": 440.04,
+          "end": 440.32
+        },
+        {
+          "word": " collated.",
+          "start": 440.32,
+          "end": 440.76
+        }
+      ]
+    },
+    {
+      "start": 440.76,
+      "end": 447.34000000000003,
+      "text": " This led by the end of the 19th century to the first weather services.",
+      "words": [
+        {
+          "word": " This",
+          "start": 440.76,
+          "end": 442.28
+        },
+        {
+          "word": " led",
+          "start": 442.28,
+          "end": 442.76
+        },
+        {
+          "word": " by",
+          "start": 442.76,
+          "end": 443.3
+        },
+        {
+          "word": " the",
+          "start": 443.3,
+          "end": 443.38
+        },
+        {
+          "word": " end",
+          "start": 443.38,
+          "end": 443.66
+        },
+        {
+          "word": " of",
+          "start": 443.66,
+          "end": 443.84000000000003
+        },
+        {
+          "word": " the",
+          "start": 443.84000000000003,
+          "end": 444.14
+        },
+        {
+          "word": " 19th",
+          "start": 444.14,
+          "end": 444.66
+        },
+        {
+          "word": " century",
+          "start": 444.66,
+          "end": 444.96000000000004
+        },
+        {
+          "word": " to",
+          "start": 444.96000000000004,
+          "end": 445.38
+        },
+        {
+          "word": " the",
+          "start": 445.38,
+          "end": 445.66
+        },
+        {
+          "word": " first",
+          "start": 445.66,
+          "end": 446.22
+        },
+        {
+          "word": " weather",
+          "start": 446.22,
+          "end": 446.6
+        },
+        {
+          "word": " services.",
+          "start": 446.6,
+          "end": 447.34000000000003
+        }
+      ]
+    },
+    {
+      "start": 448.68,
+      "end": 456.14,
+      "text": " It was not until the early 20th century that mathematics and physics became part of meteorology,",
+      "words": [
+        {
+          "word": " It",
+          "start": 448.68,
+          "end": 448.74
+        },
+        {
+          "word": " was",
+          "start": 448.74,
+          "end": 449.02
+        },
+        {
+          "word": " not",
+          "start": 449.02,
+          "end": 449.22
+        },
+        {
+          "word": " until",
+          "start": 449.22,
+          "end": 449.64
+        },
+        {
+          "word": " the",
+          "start": 449.64,
+          "end": 449.98
+        },
+        {
+          "word": " early",
+          "start": 449.98,
+          "end": 450.36
+        },
+        {
+          "word": " 20th",
+          "start": 450.36,
+          "end": 451.24
+        },
+        {
+          "word": " century",
+          "start": 451.24,
+          "end": 451.54
+        },
+        {
+          "word": " that",
+          "start": 451.54,
+          "end": 452.18
+        },
+        {
+          "word": " mathematics",
+          "start": 452.18,
+          "end": 452.76
+        },
+        {
+          "word": " and",
+          "start": 452.76,
+          "end": 453.3
+        },
+        {
+          "word": " physics",
+          "start": 453.3,
+          "end": 453.84000000000003
+        },
+        {
+          "word": " became",
+          "start": 453.84000000000003,
+          "end": 454.52
+        },
+        {
+          "word": " part",
+          "start": 454.52,
+          "end": 455.08
+        },
+        {
+          "word": " of",
+          "start": 455.08,
+          "end": 455.4
+        },
+        {
+          "word": " meteorology,",
+          "start": 455.4,
+          "end": 456.14
+        }
+      ]
+    },
+    {
+      "start": 456.82,
+      "end": 461.32,
+      "text": " and we'll continue from that point next week.",
+      "words": [
+        {
+          "word": " and",
+          "start": 456.82,
+          "end": 457.58
+        },
+        {
+          "word": " we'll",
+          "start": 457.58,
+          "end": 458.02
+        },
+        {
+          "word": " continue",
+          "start": 458.02,
+          "end": 458.56
+        },
+        {
+          "word": " from",
+          "start": 458.56,
+          "end": 459.0
+        },
+        {
+          "word": " that",
+          "start": 459.0,
+          "end": 459.24
+        },
+        {
+          "word": " point",
+          "start": 459.24,
+          "end": 459.86
+        },
+        {
+          "word": " next",
+          "start": 459.86,
+          "end": 460.2
+        },
+        {
+          "word": " week.",
+          "start": 460.2,
+          "end": 461.32
+        }
+      ]
+    },
+    {
+      "start": 463.54,
+      "end": 466.1,
+      "text": " That is the end of section 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 463.54,
+          "end": 464.0
+        },
+        {
+          "word": " is",
+          "start": 464.0,
+          "end": 464.24
+        },
+        {
+          "word": " the",
+          "start": 464.24,
+          "end": 464.58
+        },
+        {
+          "word": " end",
+          "start": 464.58,
+          "end": 464.68
+        },
+        {
+          "word": " of",
+          "start": 464.68,
+          "end": 465.0
+        },
+        {
+          "word": " section",
+          "start": 465.0,
+          "end": 465.26
+        },
+        {
+          "word": " 4.",
+          "start": 465.26,
+          "end": 466.1
+        }
+      ]
+    },
+    {
+      "start": 466.98,
+      "end": 470.82,
+      "text": " You now have half a minute to check your answers.",
+      "words": [
+        {
+          "word": " You",
+          "start": 466.98,
+          "end": 467.66
+        },
+        {
+          "word": " now",
+          "start": 467.66,
+          "end": 468.04
+        },
+        {
+          "word": " have",
+          "start": 468.04,
+          "end": 468.4
+        },
+        {
+          "word": " half",
+          "start": 468.4,
+          "end": 468.7
+        },
+        {
+          "word": " a",
+          "start": 468.7,
+          "end": 468.86
+        },
+        {
+          "word": " minute",
+          "start": 468.86,
+          "end": 469.16
+        },
+        {
+          "word": " to",
+          "start": 469.16,
+          "end": 469.76
+        },
+        {
+          "word": " check",
+          "start": 469.76,
+          "end": 470.1
+        },
+        {
+          "word": " your",
+          "start": 470.1,
+          "end": 470.34000000000003
+        },
+        {
+          "word": " answers.",
+          "start": 470.34000000000003,
+          "end": 470.82
+        }
+      ]
+    },
+    {
+      "start": 501.1,
+      "end": 503.1,
+      "text": " That is the end of the listening test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 501.1,
+          "end": 501.58
+        },
+        {
+          "word": " is",
+          "start": 501.58,
+          "end": 501.82
+        },
+        {
+          "word": " the",
+          "start": 501.82,
+          "end": 502.04
+        },
+        {
+          "word": " end",
+          "start": 502.04,
+          "end": 502.3
+        },
+        {
+          "word": " of",
+          "start": 502.3,
+          "end": 502.52
+        },
+        {
+          "word": " the",
+          "start": 502.52,
+          "end": 502.72
+        },
+        {
+          "word": " listening",
+          "start": 502.72,
+          "end": 502.94
+        },
+        {
+          "word": " test.",
+          "start": 502.94,
+          "end": 503.18
+        }
+      ]
+    }
+  ]
+}

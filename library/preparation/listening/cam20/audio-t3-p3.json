@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/7af31bb872672f51b02b3a861a65208561d99c1e2632766b2b93509aa99cb5f1.m4a",
+    "sha256": "7af31bb872672f51b02b3a861a65208561d99c1e2632766b2b93509aa99cb5f1",
+    "duration": 446.566,
+    "start": 0,
+    "end": 446.566,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S3.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two theatre study students, Maya and Finn discussing their project on theatre programmes. First, you have some time to look at questions 21 to 26. You Now listen carefully and answer questions 21 to 26. So Finn, I've done as much as I can for our project on theatre programmes. How's your research coming along? Okay Maya. I didn't know theatre programmes a chord playbills in the USA till I started looking into the topic. Even though I struggled to find many useful websites, I'm glad we picked this subject. No one else on the course is doing the same as us, although it is one of the research"
+    },
+    {
+      "name": "ending",
+      "start": 381.566,
+      "end": 446.566,
+      "text": "the tragedy of Jane Shaw, and it's said to be the earliest surviving document to have been printed on Australia's first printing press. Fantastic! Another programme to talk about is for The Sailors Festival. It comes from the British Library's digitised collection of programmes that was started a few years ago. It already comprises over 200,000 programmes, which is amazing! I wish I'd known about it while I was doing my research."
+    }
+  ]
+}

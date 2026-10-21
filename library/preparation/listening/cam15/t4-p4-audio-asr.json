@@ -1,0 +1,117 @@
+{
+  "book": 15,
+  "test": 4,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio4.m4a",
+  "sha256": "26b9c8b6c0e1ec7b25f3baf532e59b463e9aa455a5516c4d945153c295c1f2f5",
+  "duration": 467.797,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      367.7973125,
+      467.7973125
+    ]
+  ],
+  "text": "Part 4. You will hear a history student giving part of a presentation about changes in British society in the 19th century. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. Hi everyone, in this session I'll be presenting my research about the social history of Britain during the Industrial Revolution. I particularly looked at how ordinary lives were affected by changes that happened at that time. This was a time that saw the beginning of a new phenomenon, consumerism, where buying and selling goods became a major part of ordinary people's lives. In fact, it was in the 19th century that the quantity and quality of people's possessions was used as an an indication of the wealth of the country. Before this, the vast majority of people had very... been luxuries from sugar to cutlery became conveniences, and before long they turned into necessities. Life without sugar or cutlery was unimaginable, rather like mobile phones these days. That is the end of Part 4. You now have one minute to check your answers to Part 4. You That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.44,
+      "text": "Part 4. You will hear a history student giving part of a presentation about changes"
+    },
+    {
+      "start": 7.44,
+      "end": 15.08,
+      "text": "in British society in the 19th century. First, you have some time to look at questions"
+    },
+    {
+      "start": 15.08,
+      "end": 16.68,
+      "text": "31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 75.0,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 75.0,
+      "end": 84.0,
+      "text": "Hi everyone, in this session I'll be presenting my research about the social history of Britain during the Industrial Revolution."
+    },
+    {
+      "start": 84.0,
+      "end": 89.04,
+      "text": "I particularly looked at how ordinary lives were affected by changes that happened at"
+    },
+    {
+      "start": 89.04,
+      "end": 96.28,
+      "text": "that time. This was a time that saw the beginning of a new phenomenon, consumerism, where"
+    },
+    {
+      "start": 96.28,
+      "end": 103.12,
+      "text": "buying and selling goods became a major part of ordinary people's lives. In fact, it was"
+    },
+    {
+      "start": 103.12,
+      "end": 108.76,
+      "text": "in the 19th century that the quantity and quality of people's possessions was used as an"
+    },
+    {
+      "start": 108.76,
+      "end": 112.16,
+      "text": "an indication of the wealth of the country."
+    },
+    {
+      "start": 112.16,
+      "end": 115.0,
+      "text": "Before this, the vast majority of people had very..."
+    },
+    {
+      "start": 367.8,
+      "end": 376.24,
+      "text": "been luxuries from sugar to cutlery became conveniences, and before long they turned into"
+    },
+    {
+      "start": 376.24,
+      "end": 383.84,
+      "text": "necessities. Life without sugar or cutlery was unimaginable, rather like mobile phones these"
+    },
+    {
+      "start": 383.84,
+      "end": 387.88,
+      "text": "days."
+    },
+    {
+      "start": 387.88,
+      "end": 394.8,
+      "text": "That is the end of Part 4. You now have one minute to check your answers to Part 4."
+    },
+    {
+      "start": 397.8,
+      "end": 399.8,
+      "text": "You"
+    },
+    {
+      "start": 427.8,
+      "end": 457.6,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 457.6,
+      "end": 465.6,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

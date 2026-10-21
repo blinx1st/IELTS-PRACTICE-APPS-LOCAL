@@ -1,0 +1,157 @@
+{
+  "id": "cam19-test1",
+  "version": "1",
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "FALSE"
+    ],
+    "5": [
+      "NOT GIVEN"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "TRUE"
+    ],
+    "8": [
+      "paint"
+    ],
+    "9": [
+      "topspin"
+    ],
+    "10": [
+      "training"
+    ],
+    "11": [
+      "intestines",
+      "gut"
+    ],
+    "12": [
+      "weights"
+    ],
+    "13": [
+      "grips"
+    ],
+    "14": [
+      "D"
+    ],
+    "15": [
+      "G"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "G"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "D"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "E"
+    ],
+    "24": [
+      "grain"
+    ],
+    "25": [
+      "punishment"
+    ],
+    "26": [
+      "ransom"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "G"
+    ],
+    "32": [
+      "J"
+    ],
+    "33": [
+      "H"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "E"
+    ],
+    "36": [
+      "C"
+    ],
+    "37": [
+      "YES"
+    ],
+    "38": [
+      "NOT GIVEN"
+    ],
+    "39": [
+      "NO"
+    ],
+    "40": [
+      "NOT GIVEN"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        20,
+        21
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        22,
+        23
+      ],
+      "answers": [
+        "C",
+        "E"
+      ]
+    }
+  ],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-19/BAN_GOC/Cambridge 19 - IELTS Fighter.pdf",
+    "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb",
+    "pdfPage": 120,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

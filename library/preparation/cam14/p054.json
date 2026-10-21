@@ -1,0 +1,174 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 54,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nQuestions 7-13\nLook at the following statements (Questions 7-13) and the list of theories below.\nMatch each statement with the correct theory, A, B, or C.\nWrite the correct letter, A, B, or C, in boxes 7-13 on your answer sheet.\nNB\nYou may use any letter more than once.\n7 _ Itis desirable for the same possibilities to be open to everyone.\n8\nNo section of society should have preferential treatment at the expense of another.\n9\nPeople should only gain benefits on the basis of what they actually achieve.\n10\nVariation in intelligence begins at birth.\n11\nThe more intelligent people should be in positions of power.\n12\nEveryone can develop the same abilities.\n13\nPeople of low intelligence are likely to lead uncontrolled lives.\nList of Theories\nA\nHamiltonian\nB\nJeffersonian\nC\nJacksonian\n62\n",
+  "blocks": [
+    {
+      "box": [
+        127.05440521240234,
+        91.78152465820312,
+        155.84857177734375,
+        100.42837524414062
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        125.97461700439453,
+        208.99560546875,
+        135.70240783691406
+      ],
+      "text": "Questions 7-13\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        152.24935913085938,
+        515.758056640625,
+        164.85940551757812
+      ],
+      "text": "Look at the following statements (Questions 7-13) and the list of theories below.\n"
+    },
+    {
+      "box": [
+        125.61470794677734,
+        178.16409301757812,
+        401.98504638671875,
+        190.77420043945312
+      ],
+      "text": "Match each statement with the correct theory, A, B, or C.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        204.07888793945312,
+        473.9345703125,
+        216.68899536132812
+      ],
+      "text": "Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        124.89482116699219,
+        229.6337890625,
+        342.5068359375,
+        241.16294860839844
+      ],
+      "text": "NB\nYou may use any letter more than once.\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        254.1088409423828,
+        455.9129638671875,
+        269.9614562988281
+      ],
+      "text": "7 _ Itis desirable for the same possibilities to be open to everyone.\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        275.7044677734375,
+        550.890869140625,
+        289.03509521484375
+      ],
+      "text": "8\nNo section of society should have preferential treatment at the expense of another.\n"
+    },
+    {
+      "box": [
+        124.17499542236328,
+        295.86041259765625,
+        516.3232421875,
+        309.1910400390625
+      ],
+      "text": "9\nPeople should only gain benefits on the basis of what they actually achieve.\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        316.016357421875,
+        334.8621826171875,
+        327.9058532714844
+      ],
+      "text": "10\nVariation in intelligence begins at birth.\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        335.8123779296875,
+        437.4558410644531,
+        348.78271484375
+      ],
+      "text": "11\nThe more intelligent people should be in positions of power.\n"
+    },
+    {
+      "box": [
+        124.17499542236328,
+        355.96832275390625,
+        347.0420227050781,
+        367.49749755859375
+      ],
+      "text": "12\nEveryone can develop the same abilities.\n"
+    },
+    {
+      "box": [
+        124.17498016357422,
+        376.1242370605469,
+        445.3240051269531,
+        388.3740234375
+      ],
+      "text": "13\nPeople of low intelligence are likely to lead uncontrolled lives.\n"
+    },
+    {
+      "box": [
+        298.73980712890625,
+        414.27655029296875,
+        380.0834045410156,
+        423.28375244140625
+      ],
+      "text": "List of Theories\n"
+    },
+    {
+      "box": [
+        296.58026123046875,
+        434.4324951171875,
+        378.31268310546875,
+        443.07940673828125
+      ],
+      "text": "A\nHamiltonian\n"
+    },
+    {
+      "box": [
+        297.30010986328125,
+        454.58843994140625,
+        379.6229553222656,
+        463.2353515625
+      ],
+      "text": "B\nJeffersonian\n"
+    },
+    {
+      "box": [
+        296.940185546875,
+        474.3844299316406,
+        375.0444030761719,
+        483.3916320800781
+      ],
+      "text": "C\nJacksonian\n"
+    },
+    {
+      "box": [
+        120.93563079833984,
+        728.4932861328125,
+        132.02859497070312,
+        736.7799072265625
+      ],
+      "text": "62\n"
+    }
+  ]
+}

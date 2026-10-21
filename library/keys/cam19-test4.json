@@ -1,0 +1,136 @@
+{
+  "id": "cam19-test4",
+  "version": "1",
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "TRUE"
+    ],
+    "3": [
+      "FALSE"
+    ],
+    "4": [
+      "NOT GIVEN"
+    ],
+    "5": [
+      "FALSE"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "colonies"
+    ],
+    "8": [
+      "spring"
+    ],
+    "9": [
+      "endangered"
+    ],
+    "10": [
+      "habitat",
+      "habitats"
+    ],
+    "11": [
+      "Europe"
+    ],
+    "12": [
+      "southern"
+    ],
+    "13": [
+      "diet"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "E"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "waste"
+    ],
+    "25": [
+      "machinery"
+    ],
+    "26": [
+      "caution"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "egalitarianism"
+    ],
+    "32": [
+      "status"
+    ],
+    "33": [
+      "hunting"
+    ],
+    "34": [
+      "domineering"
+    ],
+    "35": [
+      "autonomy"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NOT GIVEN"
+    ],
+    "40": [
+      "NO"
+    ]
+  },
+  "multi": [],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-19/BAN_GOC/Cambridge 19 - IELTS Fighter.pdf",
+    "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb",
+    "pdfPage": 126,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

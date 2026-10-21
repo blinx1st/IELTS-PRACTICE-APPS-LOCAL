@@ -1,0 +1,61 @@
+{
+  "source": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "sourceSha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+  "scope": "Visual review of every question, option, word limit and retained source table; reading review in reading-review/cam15-*.jpg. A–J typo on test 4 summary retained as supplied; nine actual choices A–I are available.",
+  "tests": [
+    {
+      "id": "cam15-test1",
+      "questions": 40,
+      "sha256": "d63590e15e49767448eb1955be01d425c356c715f35fa04decd2850f1d2ce31a",
+      "sourceQuestionPages": [
+        20,
+        21,
+        24,
+        25,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "cam15-test2",
+      "questions": 40,
+      "sha256": "f9c89545245eda193715cda0dd9c60b6af6c8e92369fc0a7657f6ba000ab7d8c",
+      "sourceQuestionPages": [
+        41,
+        44,
+        45,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "id": "cam15-test3",
+      "questions": 40,
+      "sha256": "a814917f44b419efa08fa258f9b08f87b1c762c73f07a63c399b04f76c5a046c",
+      "sourceQuestionPages": [
+        62,
+        63,
+        64,
+        67,
+        70,
+        71,
+        72
+      ]
+    },
+    {
+      "id": "cam15-test4",
+      "questions": 40,
+      "sha256": "1fc9702d2e341cc04c874a5d0663337928058c67861e1d8ab02e5d179a40f36b",
+      "sourceQuestionPages": [
+        84,
+        85,
+        88,
+        89,
+        92,
+        93,
+        94
+      ]
+    }
+  ]
+}

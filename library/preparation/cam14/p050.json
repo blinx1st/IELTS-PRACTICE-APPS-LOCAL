@@ -1,0 +1,282 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 50,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nSECTION 4\nQuestions 31-40\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nConcerts in university arts festival\nConcert 1\n¢\nAustralian composer: Liza Lim\n¢\nStudied piano and 31... nsnunnnne D@fore turning to composition\n°\nperformers and festivals around the world have given her a lot of commissions\n*\ncompositions show a great deal Of 32ues ANd are drawn from\nvarious cultural sources\n°\nher music is very expressive and alSO 33 o.com\n°\nfestival will include her 34... Called The Oresteia\ne\nLim described the sounds in The Oresteia AS 35 ucccccscsssseseunemene\n°\nBritish composers: Ralph Vaughan Williams, Frederick Delius\nConcert 2\n°\nBritish composers: Benjamin Britten, Judith Weir\n¢\nAustralian composer: Ross Edwards\n°\nfestival will include The Tower of Remoteness, inspired by nature\ne\nThe Tower of Remoteness is performed by piano and 36 w.ncccwcssssssneeusnenee\n*\ncompositions include music for children\n°\ncelebrates Australia’s CUIRUTAl 37 ooccccsussssssntsnenen\nConcert 3\n¢\nAustralian composer: Carl Vine\ne\nplayed cornet then piano\n©\nstudied 38 on\nmsnne DEfore studying music\n° — worked in Sydney as a pianist and composer\n°\nbecame well known as composer Of MUSIC FOF 39ou.\n°\nfestival will include his music for the 1996 40 ooccscssssesanenee\n¢ — British composers: Edward Elgar, Thomas Adés\n58\n",
+  "blocks": [
+    {
+      "box": [
+        126.6944808959961,
+        92.50137329101562,
+        155.4886932373047,
+        101.14828491210938
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        126.69451904296875,
+        338.2598876953125,
+        138.22373962402344
+      ],
+      "text": "SECTION 4\nQuestions 31-40\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        153.68907165527344,
+        252.9569854736328,
+        164.4976806640625
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        179.60385131835938,
+        406.5381164550781,
+        190.05218505859375
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        216.31642150878906,
+        220.99549865722656,
+        445.24462890625,
+        235.04669189453125
+      ],
+      "text": "Concerts in university arts festival\n"
+    },
+    {
+      "box": [
+        133.53309631347656,
+        242.23123168945312,
+        181.74899291992188,
+        250.87814331054688
+      ],
+      "text": "Concert 1\n"
+    },
+    {
+      "box": [
+        133.1731719970703,
+        259.5077209472656,
+        304.10284423828125,
+        270.31640625
+      ],
+      "text": "¢\nAustralian composer: Liza Lim\n"
+    },
+    {
+      "box": [
+        133.1731719970703,
+        279.3038024902344,
+        493.03570556640625,
+        291.5535583496094
+      ],
+      "text": "¢\nStudied piano and 31... nsnunnnne D@fore turning to composition\n"
+    },
+    {
+      "box": [
+        133.17318725585938,
+        298.7398376464844,
+        525.9151611328125,
+        310.9895935058594
+      ],
+      "text": "°\nperformers and festivals around the world have given her a lot of commissions\n"
+    },
+    {
+      "box": [
+        132.8132781982422,
+        318.895751953125,
+        526.177978515625,
+        340.8603515625
+      ],
+      "text": "*\ncompositions show a great deal Of 32ues ANd are drawn from\nvarious cultural sources\n"
+    },
+    {
+      "box": [
+        132.8132781982422,
+        351.28924560546875,
+        444.1236267089844,
+        362.4581604003906
+      ],
+      "text": "°\nher music is very expressive and alSO 33 o.com\n"
+    },
+    {
+      "box": [
+        132.8132781982422,
+        370.7253112792969,
+        468.8703918457031,
+        381.17364501953125
+      ],
+      "text": "°\nfestival will include her 34... Called The Oresteia\n"
+    },
+    {
+      "box": [
+        132.45335388183594,
+        390.5213623046875,
+        478.72503662109375,
+        400.9696960449219
+      ],
+      "text": "e\nLim described the sounds in The Oresteia AS 35 ucccccscsssseseunemene\n"
+    },
+    {
+      "box": [
+        132.45335388183594,
+        410.3173522949219,
+        454.80438232421875,
+        421.8465270996094
+      ],
+      "text": "°\nBritish composers: Ralph Vaughan Williams, Frederick Delius\n"
+    },
+    {
+      "box": [
+        132.45335388183594,
+        434.4324951171875,
+        182.1233673095703,
+        443.07940673828125
+      ],
+      "text": "Concert 2\n"
+    },
+    {
+      "box": [
+        132.0934295654297,
+        451.3490905761719,
+        391.759521484375,
+        462.8782653808594
+      ],
+      "text": "°\nBritish composers: Benjamin Britten, Judith Weir\n"
+    },
+    {
+      "box": [
+        132.09341430664062,
+        471.14508056640625,
+        333.13104248046875,
+        481.9537353515625
+      ],
+      "text": "¢\nAustralian composer: Ross Edwards\n"
+    },
+    {
+      "box": [
+        132.09341430664062,
+        490.5811767578125,
+        471.86505126953125,
+        503.1912536621094
+      ],
+      "text": "°\nfestival will include The Tower of Remoteness, inspired by nature\n"
+    },
+    {
+      "box": [
+        131.7334747314453,
+        510.37713623046875,
+        518.8713989257812,
+        522.2666625976562
+      ],
+      "text": "e\nThe Tower of Remoteness is performed by piano and 36 w.ncccwcssssssneeusnenee\n"
+    },
+    {
+      "box": [
+        131.7334747314453,
+        530.5330810546875,
+        346.30780029296875,
+        540.6211547851562
+      ],
+      "text": "*\ncompositions include music for children\n"
+    },
+    {
+      "box": [
+        131.73345947265625,
+        549.96923828125,
+        400.9230041503906,
+        559.6969604492188
+      ],
+      "text": "°\ncelebrates Australia’s CUIRUTAl 37 ooccccsussssssntsnenen\n"
+    },
+    {
+      "box": [
+        131.37353515625,
+        573.7244262695312,
+        181.01470947265625,
+        582.371337890625
+      ],
+      "text": "Concert 3\n"
+    },
+    {
+      "box": [
+        131.37353515625,
+        591.0009155273438,
+        305.8663635253906,
+        601.8095703125
+      ],
+      "text": "¢\nAustralian composer: Carl Vine\n"
+    },
+    {
+      "box": [
+        131.0135955810547,
+        610.43701171875,
+        274.732666015625,
+        621.60595703125
+      ],
+      "text": "e\nplayed cornet then piano\n"
+    },
+    {
+      "box": [
+        131.0135955810547,
+        630.2330322265625,
+        403.6766052246094,
+        642.12255859375
+      ],
+      "text": "©\nstudied 38 on\nmsnne DEfore studying music\n"
+    },
+    {
+      "box": [
+        131.0135955810547,
+        648.58935546875,
+        372.8127746582031,
+        663.0008544921875
+      ],
+      "text": "° — worked in Sydney as a pianist and composer\n"
+    },
+    {
+      "box": [
+        130.65367126464844,
+        669.4651489257812,
+        480.3592529296875,
+        680.994384765625
+      ],
+      "text": "°\nbecame well known as composer Of MUSIC FOF 39ou.\n"
+    },
+    {
+      "box": [
+        130.65367126464844,
+        688.9011840820312,
+        458.4902648925781,
+        699.3495483398438
+      ],
+      "text": "°\nfestival will include his music for the 1996 40 ooccscssssesanenee\n"
+    },
+    {
+      "box": [
+        130.29376220703125,
+        707.257568359375,
+        385.8422546386719,
+        721.6690673828125
+      ],
+      "text": "¢ — British composers: Edward Elgar, Thomas Adés\n"
+    },
+    {
+      "box": [
+        121.29557037353516,
+        729.5730590820312,
+        132.77725219726562,
+        737.4993896484375
+      ],
+      "text": "58\n"
+    }
+  ]
+}

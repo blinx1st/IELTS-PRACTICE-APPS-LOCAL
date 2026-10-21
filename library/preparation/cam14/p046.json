@@ -1,0 +1,129 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 46,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nSECTION 2\nQuestions 11-20\nQuestions 11 and 12\nChoose TWO letters, A-E.\nWhich TWO activities that volunteers do are mentioned?\nA\ndecorating\nB_\ncleaning\nC_\ndelivering meals\nD _— shopping\nE\nchildcare\nQuestions 13 and 14\nChoose TWO letters, A-E.\nWhich TWO ways that volunteers can benefit from volunteering are mentioned?\nA _ learning how to be part of a team\nB\nhaving a sense of purpose\nC\nrealising how lucky they are\nD__\nimproved ability at time management\nE\nboosting their employment prospects\n54\n",
+  "blocks": [
+    {
+      "box": [
+        126.33454895019531,
+        92.5013656616211,
+        155.48329162597656,
+        100.78800201416016
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        126.33460998535156,
+        337.5040588378906,
+        138.22409057617188
+      ],
+      "text": "SECTION 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        152.9691925048828,
+        234.2840118408203,
+        163.0572509765625
+      ],
+      "text": "Questions 11 and 12\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        179.24388122558594,
+        253.20175170898438,
+        190.4127655029297
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        124.17498016357422,
+        205.15867614746094,
+        399.8794250488281,
+        215.96728515625
+      ],
+      "text": "Which TWO activities that volunteers do are mentioned?\n"
+    },
+    {
+      "box": [
+        147.93020629882812,
+        225.67454528808594,
+        250.60861206054688,
+        286.5112609863281
+      ],
+      "text": "A\ndecorating\nB_\ncleaning\nC_\ndelivering meals\nD _— shopping\nE\nchildcare\n"
+    },
+    {
+      "box": [
+        124.17498016357422,
+        328.2538757324219,
+        233.92408752441406,
+        338.3419189453125
+      ],
+      "text": "Questions 13 and 14\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        354.5285949707031,
+        251.80526733398438,
+        365.33721923828125
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        122.73527526855469,
+        380.443359375,
+        510.52105712890625,
+        393.77398681640625
+      ],
+      "text": "Which TWO ways that volunteers can benefit from volunteering are mentioned?\n"
+    },
+    {
+      "box": [
+        146.49050903320312,
+        399.1595764160156,
+        331.3492431640625,
+        413.931396484375
+      ],
+      "text": "A _ learning how to be part of a team\n"
+    },
+    {
+      "box": [
+        146.85044860839844,
+        413.9166259765625,
+        305.4920959472656,
+        438.4031982421875
+      ],
+      "text": "B\nhaving a sense of purpose\nC\nrealising how lucky they are\n"
+    },
+    {
+      "box": [
+        146.85044860839844,
+        439.8313903808594,
+        350.4075012207031,
+        464.6782531738281
+      ],
+      "text": "D__\nimproved ability at time management\nE\nboosting their employment prospects\n"
+    },
+    {
+      "box": [
+        120.57574462890625,
+        729.213134765625,
+        131.66151428222656,
+        737.1394653320312
+      ],
+      "text": "54\n"
+    }
+  ]
+}

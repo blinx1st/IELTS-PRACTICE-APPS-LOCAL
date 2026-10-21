@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/a87f1b76eded0c00cada5fe63bad024b2602c14485e3294a315a2749072508bc.m4a",
+    "sha256": "a87f1b76eded0c00cada5fe63bad024b2602c14485e3294a315a2749072508bc",
+    "duration": 472.735,
+    "start": 0,
+    "end": 472.735,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S3.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two education students discussing an assignment on teaching handwriting to children. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. How are you getting on with the assignment on handwriting? Not too bad. You know, I haven't realised that children benefit in so many ways from learning to right. It's such an important skill, and yet most people think handwriting is less important than in the past, because people hardly ever write by hand these days. Yes, and all the evidence suggests children should learn to write by hand before they learn to type. Not least because it helps their memory. That's right. physical act of writing helps children to remember letters. That seems pretty obvious when you think about it. What's less obvious is how it helps develop their concentration. They have to sit still and focus on one thing. Yeah, that aspect of Henry-"
+    },
+    {
+      "name": "ending",
+      "start": 407.735,
+      "end": 472.735,
+      "text": "inconsistent. I think you can put that down to lack of practice. I expect so. Personally, I miss writing by hand. I hardly ever write anything now. I remember my grandparents had such beautiful handwriting and it was so individual. Nobody I know would be able to identify my handwriting now. It's a shame. I know. I feel the same way. I used to write a diary by hand, and now, I do that digitally. It just seems less effort to do it that way. Hmm. So it's not just a problem. That is the end of Part 3. You now have 30 seconds to check your answers to Part 3."
+    }
+  ]
+}

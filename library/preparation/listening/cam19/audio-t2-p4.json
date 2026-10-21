@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/c3a5c6e3c89dde95748eddf6e4a81efe86bfb56591211a04f89cb7c8bd4f557a.mp3",
+    "sha256": "c3a5c6e3c89dde95748eddf6e4a81efe86bfb56591211a04f89cb7c8bd4f557a",
+    "duration": 426.971,
+    "start": 0,
+    "end": 426.971,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part4.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear a zoology student giving a presentation about an animal called a tardy grade. First, you have some time to look at questions 31 to 40. you Now listen carefully and answer questions 31 to 40. For my project on invertebrates I chose to study tardigrades. These are microscopic or to be more precise near microscopic animals. There are well over a thousand known species of these tiny animals which belong to the phylum tardigrada. Most tardigrades range in length from 0.05 to 1 mm, though the largest species can grow to be 1.2 mm."
+    },
+    {
+      "name": "ending",
+      "start": 361.971,
+      "end": 426.971,
+      "text": "in their own. I suppose this isn't surprising given that tardigrades are mainly comprised of liquid and are coated with a type of gel. Finally I'd like to mention the conservation status of tardigrades. It is estimated that they have been in existence for approximately half a billion years and in that time they have survived five mass extinctions. So it will probably come as no surprise to you that Tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list. Some researchers have described them as thriving. Does anyone have any questions they'd like to ask? That is the end of part 4. You now have one minute to check your answers to part 4."
+    }
+  ]
+}

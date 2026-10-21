@@ -1,0 +1,120 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 58,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Test 3\nPART 2\nQuestions 11-20\nQuestions 11 and 12\nChoose TWO letters, A—-E.\nWhich TWO warnings does Dan give about picking mushrooms?\nA\nDon’t pick more than one variety of mushroom at a time.\nB_\nDon’t pick mushrooms near busy roads.\nC\nDon’t eat mushrooms given to you.\nD\nDon’t eat mushrooms while picking them.\nE\nDon’t pick old mushrooms.\nQuestions 13 and 14\nChoose TWO letters, A-E.\nWhich TWO ideas about wild mushrooms does Dan say are correct?\nA\nMushrooms should always be peeled before eating.\nB-\nMushrooms eaten by animals may be unsafe.\nC\nCooking destroys toxins in mushrooms.\nD\nBrightly coloured mushrooms can be edible.\nE\nAll poisonous mushrooms have a bad smell.\n56\n",
+  "blocks": [
+    {
+      "box": [
+        48.223941802978516,
+        28.430553436279297,
+        77.71610260009766,
+        36.35581588745117
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        48.223941802978516,
+        61.53948211669922,
+        232.76141357421875,
+        72.70689392089844
+      ],
+      "text": "PART 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        48.22394561767578,
+        88.530517578125,
+        157.54115295410156,
+        98.61725616455078
+      ],
+      "text": "Questions 11 and 12\n"
+    },
+    {
+      "box": [
+        48.22394561767578,
+        115.16168212890625,
+        176.6291046142578,
+        124.88813781738281
+      ],
+      "text": "Choose TWO letters, A—-E.\n"
+    },
+    {
+      "box": [
+        47.504180908203125,
+        141.4329071044922,
+        361.6077880859375,
+        152.9606170654297
+      ],
+      "text": "Which TWO warnings does Dan give about picking mushrooms?\n"
+    },
+    {
+      "box": [
+        71.61614990234375,
+        160.14669799804688,
+        368.6521301269531,
+        224.57565307617188
+      ],
+      "text": "A\nDon’t pick more than one variety of mushroom at a time.\nB_\nDon’t pick mushrooms near busy roads.\nC\nDon’t eat mushrooms given to you.\nD\nDon’t eat mushrooms while picking them.\nE\nDon’t pick old mushrooms.\n"
+    },
+    {
+      "box": [
+        48.943729400634766,
+        253.35562133789062,
+        159.0382537841797,
+        263.44232177734375
+      ],
+      "text": "Questions 13 and 14\n"
+    },
+    {
+      "box": [
+        49.30360794067383,
+        281.0663757324219,
+        177.70884704589844,
+        290.7928466796875
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        48.223976135253906,
+        307.337646484375,
+        382.50927734375,
+        317.7845764160156
+      ],
+      "text": "Which TWO ideas about wild mushrooms does Dan say are correct?\n"
+    },
+    {
+      "box": [
+        72.33592224121094,
+        327.49090576171875,
+        347.3382873535156,
+        338.2981262207031
+      ],
+      "text": "A\nMushrooms should always be peeled before eating.\n"
+    },
+    {
+      "box": [
+        73.05567169189453,
+        340.4466247558594,
+        317.9720764160156,
+        390.84100341796875
+      ],
+      "text": "B-\nMushrooms eaten by animals may be unsafe.\nC\nCooking destroys toxins in mushrooms.\nD\nBrightly coloured mushrooms can be edible.\nE\nAll poisonous mushrooms have a bad smell.\n"
+    },
+    {
+      "box": [
+        50.74309539794922,
+        665.0585327148438,
+        61.834598541259766,
+        673.3440551757812
+      ],
+      "text": "56\n"
+    }
+  ]
+}

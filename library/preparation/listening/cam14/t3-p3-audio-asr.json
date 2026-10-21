@@ -1,0 +1,167 @@
+{
+  "book": 14,
+  "test": 3,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S3.mp3",
+  "sha256": "e80037d9a5ea7daadf2765aaafd5b23d7c33bfe16df595b809cca358882b4555",
+  "duration": 381.554,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      281.44,
+      381.44
+    ]
+  ],
+  "text": "section 3. You will hear a trainee music teacher called Joe talking to his supervisor about the school marching band that he has been given responsibility for. First, you have some time to look at questions 21 to 26. Now listen carefully and answer questions 21 to 26. So how are you getting on with your teaching practice at the high school, Joe? Well, I've been put in charge of the school marching band and it's quite a responsibility. I'd like to talk it over with you. ahead. You better start by giving me a bit of background. Okay. Well, the band has students in it from all years. So they're aged 11 to 18 and there are about 50 of them all together. It's quite a popular activity within the school. I've never worked with a band of more than 20 before and this is very different. I can imagine. They aren't really good enough to international band competitions but they're in a regional one later in the term even if they don't win and I don't expect them to. Hopefully it'll be an incentive for them to try and improve. Yes hopefully. You can say that again. A one of the trombonists has got an impressive sense of rhythm and could be an excellent musician, except that he has breathing difficulties, and he doesn't really have enough breath for the trombone. He'd be much better off playing percussion, for instance, but he refuses to give up, so he ends up only playing half the notes. I suppose you have to admire his determination. Maybe one of the percussionists isn't too bad, but he never seems to interact with other people and he always rushes off as soon as the rehearsal ends. I don't know if there are family reasons or what, but it isn't good in a band where people really need to feel they're part of a group. There are others too, but at least that gives you an idea of what I'm up against. Do you have any thoughts about what I can do, Lizzie? That is the end of section three. You now have half a minute to check your answers. Now, turn to section 4.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "text": "section 3. You will hear a trainee music teacher called Joe talking to his supervisor"
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "about the school marching band that he has been given responsibility for."
+    },
+    {
+      "start": 16.0,
+      "end": 22.5,
+      "text": "First, you have some time to look at questions 21 to 26."
+    },
+    {
+      "start": 46.0,
+      "end": 61.76,
+      "text": "Now listen carefully and answer questions 21 to 26."
+    },
+    {
+      "start": 61.76,
+      "end": 66.28,
+      "text": "So how are you getting on with your teaching practice at the high school, Joe?"
+    },
+    {
+      "start": 66.28,
+      "end": 72.32,
+      "text": "Well, I've been put in charge of the school marching band and it's quite a responsibility."
+    },
+    {
+      "start": 72.32,
+      "end": 74.4,
+      "text": "I'd like to talk it over with you."
+    },
+    {
+      "start": 74.4,
+      "end": 81.6,
+      "text": "ahead. You better start by giving me a bit of background. Okay. Well, the band has students"
+    },
+    {
+      "start": 81.6,
+      "end": 88.72,
+      "text": "in it from all years. So they're aged 11 to 18 and there are about 50 of them all together."
+    },
+    {
+      "start": 89.52,
+      "end": 95.04,
+      "text": "It's quite a popular activity within the school. I've never worked with a band of more than 20"
+    },
+    {
+      "start": 95.04,
+      "end": 100.24,
+      "text": "before and this is very different. I can imagine. They aren't really good enough to"
+    },
+    {
+      "start": 100.24,
+      "end": 105.22,
+      "text": "international band competitions but they're in a regional one later in the"
+    },
+    {
+      "start": 105.22,
+      "end": 110.96,
+      "text": "term even if they don't win and I don't expect them to. Hopefully it'll be an"
+    },
+    {
+      "start": 110.96,
+      "end": 116.56,
+      "text": "incentive for them to try and improve. Yes hopefully."
+    },
+    {
+      "start": 281.44,
+      "end": 283.44,
+      "text": "You can say that again."
+    },
+    {
+      "start": 283.44,
+      "end": 289.6,
+      "text": "A one of the trombonists has got an impressive sense of rhythm and could be an excellent musician,"
+    },
+    {
+      "start": 289.6,
+      "end": 294.64,
+      "text": "except that he has breathing difficulties, and he doesn't really have enough breath for the trombone."
+    },
+    {
+      "start": 295.44,
+      "end": 300.4,
+      "text": "He'd be much better off playing percussion, for instance, but he refuses to give up,"
+    },
+    {
+      "start": 300.4,
+      "end": 303.04,
+      "text": "so he ends up only playing half the notes."
+    },
+    {
+      "start": 303.04,
+      "end": 306.16,
+      "text": "I suppose you have to admire his determination."
+    },
+    {
+      "start": 306.16,
+      "end": 312.68,
+      "text": "Maybe one of the percussionists isn't too bad, but he never seems to interact with other"
+    },
+    {
+      "start": 312.68,
+      "end": 317.4,
+      "text": "people and he always rushes off as soon as the rehearsal ends."
+    },
+    {
+      "start": 317.4,
+      "end": 322.64,
+      "text": "I don't know if there are family reasons or what, but it isn't good in a band where"
+    },
+    {
+      "start": 322.64,
+      "end": 327.12,
+      "text": "people really need to feel they're part of a group."
+    },
+    {
+      "start": 327.12,
+      "end": 332.56,
+      "text": "There are others too, but at least that gives you an idea of what I'm up against."
+    },
+    {
+      "start": 332.56,
+      "end": 335.12,
+      "text": "Do you have any thoughts about what I can do, Lizzie?"
+    },
+    {
+      "start": 338.32,
+      "end": 340.6,
+      "text": "That is the end of section three."
+    },
+    {
+      "start": 342.0,
+      "end": 345.4,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 362.56,
+      "end": 377.84,
+      "text": "Now, turn to section 4."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

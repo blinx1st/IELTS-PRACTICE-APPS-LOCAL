@@ -1,0 +1,1005 @@
+{
+  "id": "cam16-listening-test3",
+  "skill": "listening",
+  "book": 16,
+  "test": 3,
+  "title": "Cambridge 16 · Listening Test 3",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam16-listening-test3-p1",
+      "number": 1,
+      "title": "JUNIOR CYCLE CAMP",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t3-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "First of all, children at this level are taken to practise in a …."
+            },
+            {
+              "number": 2,
+              "text": "Instructors wear … shirts."
+            },
+            {
+              "number": 3,
+              "text": "A … is required and training is given."
+            },
+            {
+              "number": 4,
+              "text": "There are quiet times during the morning for a … or a game."
+            },
+            {
+              "number": 5,
+              "text": "Classes are held even if there is …."
+            },
+            {
+              "number": 6,
+              "text": "a …"
+            },
+            {
+              "number": 7,
+              "text": "Charlie’s …"
+            },
+            {
+              "number": 8,
+              "text": "Before the class, his … will be checked."
+            },
+            {
+              "number": 9,
+              "text": "He should then go to the … to meet his class instructor."
+            },
+            {
+              "number": 10,
+              "text": "The course costs $… per week."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-056.webp",
+              "page": 56
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "JUNIOR CYCLE CAMP"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The course focuses on skills and safety."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Charlie would be placed in Level 5."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "First of all, children at this level are taken to practise in a ",
+                  {
+                    "number": 1
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Instructors"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Instructors wear ",
+                  {
+                    "number": 2
+                  },
+                  " shirts."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A ",
+                  {
+                    "number": 3
+                  },
+                  " is required and training is given."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Classes"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The size of the classes is limited."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "There are quiet times during the morning for a ",
+                  {
+                    "number": 4
+                  },
+                  " or a game."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Classes are held even if there is ",
+                  {
+                    "number": 5
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "What to bring"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "a change of clothing"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "a ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "shoes (not sandals)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Charlie’s ",
+                  {
+                    "number": 7
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Day 1"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Charlie should arrive at 9.20 am on the first day."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Before the class, his ",
+                  {
+                    "number": 8
+                  },
+                  " will be checked."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "He should then go to the ",
+                  {
+                    "number": 9
+                  },
+                  " to meet his class instructor."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Cost"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The course costs $",
+                  {
+                    "number": 10
+                  },
+                  " per week."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-056.webp",
+          "page": 56
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 56
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/18a8e68862b70145d5baede37c62ac6affb37fe70f32da5a70206fa026cd0b6a.mp3",
+        "sha256": "18a8e68862b70145d5baede37c62ac6affb37fe70f32da5a70206fa026cd0b6a",
+        "duration": 493.015,
+        "start": 43.44,
+        "end": 493.015,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t3-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t3-p2-g11",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "According to Megan, what are the TWO main advantages of working in the agriculture and horticulture sectors?",
+          "questions": [
+            {
+              "number": 11,
+              "text": "According to Megan, what are the TWO main advantages of working in the agriculture and horticulture sectors?"
+            },
+            {
+              "number": 12,
+              "text": "According to Megan, what are the TWO main advantages of working in the agriculture and horticulture sectors?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-057.webp",
+              "page": 57
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "the active lifestyle"
+            },
+            {
+              "value": "B",
+              "label": "the above-average salaries"
+            },
+            {
+              "value": "C",
+              "label": "the flexible working opportunities"
+            },
+            {
+              "value": "D",
+              "label": "the opportunities for overseas travel"
+            },
+            {
+              "value": "E",
+              "label": "the chance to be in a natural environment"
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t3-p2-g13",
+          "type": "multi",
+          "heading": "Questions 13–14",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO of the following are likely to be disadvantages for people working outdoors?",
+          "questions": [
+            {
+              "number": 13,
+              "text": "Which TWO of the following are likely to be disadvantages for people working outdoors?"
+            },
+            {
+              "number": 14,
+              "text": "Which TWO of the following are likely to be disadvantages for people working outdoors?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-057.webp",
+              "page": 57
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "the increasing risk of accidents"
+            },
+            {
+              "value": "B",
+              "label": "being in a very quiet location"
+            },
+            {
+              "value": "C",
+              "label": "difficult weather conditions at times"
+            },
+            {
+              "value": "D",
+              "label": "the cost of housing"
+            },
+            {
+              "value": "E",
+              "label": "the level of physical fitness required"
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t3-p2-g15",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "What information does Megan give about each of the following job opportunities? Choose SIX answers from the box and write the correct letter, A-H, next to . Information",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "Fresh food commercial manager"
+            },
+            {
+              "number": 16,
+              "text": "Agronomist"
+            },
+            {
+              "number": 17,
+              "text": "Fresh produce buyer"
+            },
+            {
+              "number": 18,
+              "text": "Garden centre sales manager"
+            },
+            {
+              "number": 19,
+              "text": "Tree technician"
+            },
+            {
+              "number": 20,
+              "text": "Farm worker"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-058.webp",
+              "page": 58
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "not a permanent job"
+            },
+            {
+              "value": "B",
+              "label": "involves leading a team"
+            },
+            {
+              "value": "C",
+              "label": "experience not essential"
+            },
+            {
+              "value": "D",
+              "label": "intensive work but also fun"
+            },
+            {
+              "value": "E",
+              "label": "chance to earn more through overtime"
+            },
+            {
+              "value": "F",
+              "label": "chance for rapid promotion"
+            },
+            {
+              "value": "G",
+              "label": "accommodation available"
+            },
+            {
+              "value": "H",
+              "label": "local travel involved"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-057.webp",
+          "page": 57
+        },
+        {
+          "url": "/library-assets/l-cam16-page-058.webp",
+          "page": 58
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 57
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 58
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/57b9e975b3d33992d1200c2e4eaec6c5db2caaf114567b07d1dfecda7d88e327.mp3",
+        "sha256": "57b9e975b3d33992d1200c2e4eaec6c5db2caaf114567b07d1dfecda7d88e327",
+        "duration": 408.002,
+        "start": 0,
+        "end": 408.002,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t3-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test3-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t3-p3-g21",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO points does Adam make about his experiment on artificial sweeteners?",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Which TWO points does Adam make about his experiment on artificial sweeteners?"
+            },
+            {
+              "number": 22,
+              "text": "Which TWO points does Adam make about his experiment on artificial sweeteners?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-059.webp",
+              "page": 59
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "The results were what he had predicted."
+            },
+            {
+              "value": "B",
+              "label": "The experiment was simple to set up."
+            },
+            {
+              "value": "C",
+              "label": "A large sample of people was tested."
+            },
+            {
+              "value": "D",
+              "label": "The subjects were unaware of what they were drinking."
+            },
+            {
+              "value": "E",
+              "label": "The test was repeated several times for each person."
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t3-p3-g23",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO problems did Rosie have when measuring the fat content of nuts?",
+          "questions": [
+            {
+              "number": 23,
+              "text": "Which TWO problems did Rosie have when measuring the fat content of nuts?"
+            },
+            {
+              "number": 24,
+              "text": "Which TWO problems did Rosie have when measuring the fat content of nuts?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-059.webp",
+              "page": 59
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "She used the wrong sort of nuts."
+            },
+            {
+              "value": "B",
+              "label": "She used an unsuitable chemical."
+            },
+            {
+              "value": "C",
+              "label": "She did not grind the nuts finely enough."
+            },
+            {
+              "value": "D",
+              "label": "The information on the nut package was incorrect."
+            },
+            {
+              "value": "E",
+              "label": "The weighing scales may have been unsuitable."
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t3-p3-g25",
+          "type": "choice",
+          "heading": "Questions 25–30",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Adam suggests that restaurants could reduce obesity if their menus",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "offered fewer options."
+                },
+                {
+                  "value": "B",
+                  "label": "had more low-calorie foods."
+                },
+                {
+                  "value": "C",
+                  "label": "were organised in a particular way."
+                }
+              ]
+            },
+            {
+              "number": 26,
+              "text": "The students agree that food manufacturers deliberately",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "make calorie counts hard to understand."
+                },
+                {
+                  "value": "B",
+                  "label": "fail to provide accurate calorie counts."
+                },
+                {
+                  "value": "C",
+                  "label": "use ineffective methods to reduce calories."
+                }
+              ]
+            },
+            {
+              "number": 27,
+              "text": "What does Rosie say about levels of exercise in England?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "The amount recommended is much too low."
+                },
+                {
+                  "value": "B",
+                  "label": "Most people overestimate how much they do."
+                },
+                {
+                  "value": "C",
+                  "label": "Women now exercise more than they used to."
+                }
+              ]
+            },
+            {
+              "number": 28,
+              "text": "Adam refers to the location and width of stairs in a train station to illustrate",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "practical changes that can influence people’s behaviour."
+                },
+                {
+                  "value": "B",
+                  "label": "methods of helping people who have mobility problems."
+                },
+                {
+                  "value": "C",
+                  "label": "ways of preventing accidents by controlling crowd movement."
+                }
+              ]
+            },
+            {
+              "number": 29,
+              "text": "What do the students agree about including reference to exercise in their presentation?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "They should probably leave it out."
+                },
+                {
+                  "value": "B",
+                  "label": "They need to do more research on it."
+                },
+                {
+                  "value": "C",
+                  "label": "They should discuss this with their tutor."
+                }
+              ]
+            },
+            {
+              "number": 30,
+              "text": "What are the students going to do next for their presentation?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "prepare some slides for it"
+                },
+                {
+                  "value": "B",
+                  "label": "find out how long they have for it"
+                },
+                {
+                  "value": "C",
+                  "label": "decide on its content and organisation"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-060.webp",
+              "page": 60
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-059.webp",
+          "page": 59
+        },
+        {
+          "url": "/library-assets/l-cam16-page-060.webp",
+          "page": 60
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 59
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 60
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/a1672623d8f6e5fdb823f587f5af811f0d0a116b32bdbe6862dab4241a06b42e.mp3",
+        "sha256": "a1672623d8f6e5fdb823f587f5af811f0d0a116b32bdbe6862dab4241a06b42e",
+        "duration": 410.924,
+        "start": 0,
+        "end": 410.924,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t3-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test3-p4",
+      "number": 4,
+      "title": "Hand knitting",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t3-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "We imagine someone like a … knitting."
+            },
+            {
+              "number": 32,
+              "text": "A … ago, knitting was expected to disappear."
+            },
+            {
+              "number": 33,
+              "text": "People are buying more … for knitting nowadays."
+            },
+            {
+              "number": 34,
+              "text": "gives support in times of … difficulty"
+            },
+            {
+              "number": 35,
+              "text": "requires only … skills and little money to start"
+            },
+            {
+              "number": 36,
+              "text": "Findings show early knitted items to be … in shape."
+            },
+            {
+              "number": 37,
+              "text": "The first needles were made of natural materials such as wood and …."
+            },
+            {
+              "number": 38,
+              "text": "Early yarns felt … to touch."
+            },
+            {
+              "number": 39,
+              "text": "Geographical areas had their own … of knitting."
+            },
+            {
+              "number": 40,
+              "text": "Everyday tasks like looking after … were done while knitting."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-061.webp",
+              "page": 61
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Hand knitting"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Interest in knitting"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Knitting has a long history around the world."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "We imagine someone like a ",
+                  {
+                    "number": 31
+                  },
+                  " knitting."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A ",
+                  {
+                    "number": 32
+                  },
+                  " ago, knitting was expected to disappear."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The number of knitting classes is now increasing."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "People are buying more ",
+                  {
+                    "number": 33
+                  },
+                  " for knitting nowadays."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Benefits of knitting"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "gives support in times of ",
+                  {
+                    "number": 34
+                  },
+                  " difficulty"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "requires only ",
+                  {
+                    "number": 35
+                  },
+                  " skills and little money to start"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "reduces stress in a busy life"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Early knitting"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The origins are not known."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Findings show early knitted items to be ",
+                  {
+                    "number": 36
+                  },
+                  " in shape."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The first needles were made of natural materials such as wood and ",
+                  {
+                    "number": 37
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Early yarns felt ",
+                  {
+                    "number": 38
+                  },
+                  " to touch."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Wool became the most popular yarn for spinning."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Geographical areas had their own ",
+                  {
+                    "number": 39
+                  },
+                  " of knitting."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Everyday tasks like looking after ",
+                  {
+                    "number": 40
+                  },
+                  " were done while knitting."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-061.webp",
+          "page": 61
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 61
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/a41ce6d1f0d4ff93e4aa15f7525dad2ad4979956d4bef7be0ca78794aca01cb2.mp3",
+        "sha256": "a41ce6d1f0d4ff93e4aa15f7525dad2ad4979956d4bef7be0ca78794aca01cb2",
+        "duration": 514.517,
+        "start": 0,
+        "end": 436.2,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t3-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam16/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2536 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "book": 13,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/909f54b389f412e7b6d081c08c35ebccc7daa77316133bfc2690d7d9aa604fc2.mp3",
+      "sha256": "909f54b389f412e7b6d081c08c35ebccc7daa77316133bfc2690d7d9aa604fc2",
+      "duration": 448.294,
+      "start": 67.0,
+      "end": 448.294,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_01.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t1-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/437825c120edd7195032522cee82e66f831e61e6c0b33dad6db3fc6bebeb290d.mp3",
+      "sha256": "437825c120edd7195032522cee82e66f831e61e6c0b33dad6db3fc6bebeb290d",
+      "duration": 405.596,
+      "start": 0,
+      "end": 405.596,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_02.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t1-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/c9e4bfe258e6bf508af3a0d77213a0dbb70d0689009aa42f8e954cccaf3b50d5.mp3",
+      "sha256": "c9e4bfe258e6bf508af3a0d77213a0dbb70d0689009aa42f8e954cccaf3b50d5",
+      "duration": 426.645,
+      "start": 0,
+      "end": 426.645,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_03.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t1-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/bb349125abe3033124495f03256e2c58d56d421b3b4aadeed087aa113d282578.mp3",
+      "sha256": "bb349125abe3033124495f03256e2c58d56d421b3b4aadeed087aa113d282578",
+      "duration": 419.107,
+      "start": 0,
+      "end": 369.72,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_04.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t1-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam13/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/d03f53f824401f5f3c70216496ca5751b1f5cdd5f821f3623a38a7d42d12daf3.mp3",
+      "sha256": "d03f53f824401f5f3c70216496ca5751b1f5cdd5f821f3623a38a7d42d12daf3",
+      "duration": 520.936,
+      "start": 44.84,
+      "end": 520.936,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_05.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t2-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/266ac1fed6b17c588e38861116ba895b2b0cdccdf0dc1af66449c8b4867a038b.mp3",
+      "sha256": "266ac1fed6b17c588e38861116ba895b2b0cdccdf0dc1af66449c8b4867a038b",
+      "duration": 439.843,
+      "start": 0,
+      "end": 439.843,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_06.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t2-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/1ce49dcba2d7875ffe8a6795579dac56a536b31e47124373f5fa5c5c910da60f.mp3",
+      "sha256": "1ce49dcba2d7875ffe8a6795579dac56a536b31e47124373f5fa5c5c910da60f",
+      "duration": 428.445,
+      "start": 0,
+      "end": 428.445,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_07.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t2-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/4cd8d0cf514a462876eaa5dc65be99191ebf42094c8e15a96f50a734556fdc87.mp3",
+      "sha256": "4cd8d0cf514a462876eaa5dc65be99191ebf42094c8e15a96f50a734556fdc87",
+      "duration": 543.394,
+      "start": 0,
+      "end": 497.21,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_08.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t2-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam13/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/3e8652f1537f6aee3e27e686457e1fa21c0e912d7b89fd0036da2a46de6a0585.mp3",
+      "sha256": "3e8652f1537f6aee3e27e686457e1fa21c0e912d7b89fd0036da2a46de6a0585",
+      "duration": 548.35,
+      "start": 64.92,
+      "end": 548.35,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_01.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t3-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/d96dffe85a002270e58aa90fe568b3c6d9fef6d7ac5bd78ebeece5d3a0cb1d2a.mp3",
+      "sha256": "d96dffe85a002270e58aa90fe568b3c6d9fef6d7ac5bd78ebeece5d3a0cb1d2a",
+      "duration": 380.817,
+      "start": 0,
+      "end": 380.817,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_02.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t3-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/0482877e09035af01eec435116240ca7b69c82d92b0a46c5f7ee1e203432e5bb.mp3",
+      "sha256": "0482877e09035af01eec435116240ca7b69c82d92b0a46c5f7ee1e203432e5bb",
+      "duration": 397.953,
+      "start": 0,
+      "end": 397.953,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_03.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t3-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/bbff8698b1ba1cbc7567cf6b29c57b6b6f08a1a640f7b56a59b88c66faf1e8f1.mp3",
+      "sha256": "bbff8698b1ba1cbc7567cf6b29c57b6b6f08a1a640f7b56a59b88c66faf1e8f1",
+      "duration": 398.997,
+      "start": 0,
+      "end": 349.6,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_04.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t3-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam13/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/ba1c05e31543c7a582a0bd93305c0ff9e6984c598cbaf833dd8e92b6e190fc3e.mp3",
+      "sha256": "ba1c05e31543c7a582a0bd93305c0ff9e6984c598cbaf833dd8e92b6e190fc3e",
+      "duration": 466.161,
+      "start": 46.0,
+      "end": 466.161,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_05.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t4-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/36b3a3459ade970ae6880618847bdf99ee6065199d5bc0a04c79c7de2e11470f.mp3",
+      "sha256": "36b3a3459ade970ae6880618847bdf99ee6065199d5bc0a04c79c7de2e11470f",
+      "duration": 412.065,
+      "start": 0,
+      "end": 412.065,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_06.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t4-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/aca2f33da1bf81fa94b0726d0f578a05410c82dd8ac0322494dee68116591b3f.mp3",
+      "sha256": "aca2f33da1bf81fa94b0726d0f578a05410c82dd8ac0322494dee68116591b3f",
+      "duration": 450.198,
+      "start": 0,
+      "end": 450.198,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_07.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t4-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/c6f8731c7d6988141d1db81552b53d0192ea029e47d7f26f04f8873989a20cb4.mp3",
+      "sha256": "c6f8731c7d6988141d1db81552b53d0192ea029e47d7f26f04f8873989a20cb4",
+      "duration": 477.742,
+      "start": 0,
+      "end": 431.44,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_08.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam13/t4-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam13/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/f8bbb6b49d7cf60554bbd81bfa2c97ec071998431eafc20f9f0e771b6dab3b06.mp3",
+      "sha256": "f8bbb6b49d7cf60554bbd81bfa2c97ec071998431eafc20f9f0e771b6dab3b06",
+      "duration": 523.314,
+      "start": 66.0,
+      "end": 523.314,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t1-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/25b2436cd4b0ee0a0a412bd3efd798975e44abd4423949c9885624992a0e02d9.mp3",
+      "sha256": "25b2436cd4b0ee0a0a412bd3efd798975e44abd4423949c9885624992a0e02d9",
+      "duration": 404.765,
+      "start": 0,
+      "end": 404.765,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t1-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/24d4f7fc940869f313052264349984e6a6aef71cf1a38bf2e69e475bc56acee9.mp3",
+      "sha256": "24d4f7fc940869f313052264349984e6a6aef71cf1a38bf2e69e475bc56acee9",
+      "duration": 431.303,
+      "start": 0,
+      "end": 431.303,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t1-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/436c4ea5431405b0995df4550f6ca7105d6073d00554a964b63b3183576316ca.mp3",
+      "sha256": "436c4ea5431405b0995df4550f6ca7105d6073d00554a964b63b3183576316ca",
+      "duration": 487.965,
+      "start": 0,
+      "end": 440.61,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t1-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam14/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/39f8e825e45596fbac72e053e47d845dbc98b2ae990b32d7d4454478459e5bb2.mp3",
+      "sha256": "39f8e825e45596fbac72e053e47d845dbc98b2ae990b32d7d4454478459e5bb2",
+      "duration": 462.151,
+      "start": 48.28,
+      "end": 462.151,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t2-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/540e4275e303ca5f4cb2bb2b3cb30209e6219b02e39bcc318a40e0751ce23c05.mp3",
+      "sha256": "540e4275e303ca5f4cb2bb2b3cb30209e6219b02e39bcc318a40e0751ce23c05",
+      "duration": 443.229,
+      "start": 0,
+      "end": 443.229,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t2-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/c21a6775fd56b4b4c28229f1f37404fe7b2fa54fd10abd7c85a37c8127ea1648.mp3",
+      "sha256": "c21a6775fd56b4b4c28229f1f37404fe7b2fa54fd10abd7c85a37c8127ea1648",
+      "duration": 462.045,
+      "start": 0,
+      "end": 462.045,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t2-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90.mp3",
+      "sha256": "08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90",
+      "duration": 1040.924,
+      "start": 0,
+      "end": 466.98,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t2-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam14/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/0c3a789d973e910d192b00ec771727d9e74cd45475f3f8e51e094130ffa7c59a.mp3",
+      "sha256": "0c3a789d973e910d192b00ec771727d9e74cd45475f3f8e51e094130ffa7c59a",
+      "duration": 525.533,
+      "start": 65.6,
+      "end": 525.533,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t3-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/f2022e64d4fd7015a9b6616245bfa95fab2a4e021e23449c5652aa80f57eb1ac.mp3",
+      "sha256": "f2022e64d4fd7015a9b6616245bfa95fab2a4e021e23449c5652aa80f57eb1ac",
+      "duration": 397.725,
+      "start": 0,
+      "end": 397.725,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t3-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/e80037d9a5ea7daadf2765aaafd5b23d7c33bfe16df595b809cca358882b4555.mp3",
+      "sha256": "e80037d9a5ea7daadf2765aaafd5b23d7c33bfe16df595b809cca358882b4555",
+      "duration": 381.554,
+      "start": 0,
+      "end": 381.554,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t3-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/892ac0d394743b5fc558e6506de5f7c6bdf253c54dcab46b711adb9c656474f2.mp3",
+      "sha256": "892ac0d394743b5fc558e6506de5f7c6bdf253c54dcab46b711adb9c656474f2",
+      "duration": 488.434,
+      "start": 0,
+      "end": 440.46,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t3-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam14/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/b1f255690b01dd26ffa0326dd0e1fa6acfcde415dac60e20ba3477b7d01d50b6.mp3",
+      "sha256": "b1f255690b01dd26ffa0326dd0e1fa6acfcde415dac60e20ba3477b7d01d50b6",
+      "duration": 491.826,
+      "start": 50.68,
+      "end": 491.826,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t4-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/749becc46eb098dfd0c8087542cec26017694fcd19a0ffd6e1624a8bce608edd.mp3",
+      "sha256": "749becc46eb098dfd0c8087542cec26017694fcd19a0ffd6e1624a8bce608edd",
+      "duration": 432.647,
+      "start": 0,
+      "end": 432.647,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t4-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/f1c07be34b090154afde2aa87d2ffc35c537de367a264c45dfb20dfcee17deab.mp3",
+      "sha256": "f1c07be34b090154afde2aa87d2ffc35c537de367a264c45dfb20dfcee17deab",
+      "duration": 463.303,
+      "start": 0,
+      "end": 463.303,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t4-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/42dd2bd3d5a3120246a4898428d31958fc09b2c9f7391603f9ea333196071005.mp3",
+      "sha256": "42dd2bd3d5a3120246a4898428d31958fc09b2c9f7391603f9ea333196071005",
+      "duration": 558.514,
+      "start": 0,
+      "end": 509.6,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam14/t4-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam14/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/c4f0efe14b9a8e3362e2cfee5f028dbc87c05758b078d4124213aea504a27362.m4a",
+      "sha256": "c4f0efe14b9a8e3362e2cfee5f028dbc87c05758b078d4124213aea504a27362",
+      "duration": 460.245,
+      "start": 61.8,
+      "end": 460.245,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t1-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/28ec443b3ca6a677424460cfd67fa946397ba616153f23a299a98df1b0349e0b.m4a",
+      "sha256": "28ec443b3ca6a677424460cfd67fa946397ba616153f23a299a98df1b0349e0b",
+      "duration": 418.475,
+      "start": 0,
+      "end": 418.475,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t1-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/191e1abede32e56380b0aa32a7730c98c574e3b89e648f84bf31866719b1442e.m4a",
+      "sha256": "191e1abede32e56380b0aa32a7730c98c574e3b89e648f84bf31866719b1442e",
+      "duration": 432.853,
+      "start": 0,
+      "end": 432.853,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t1-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/61e80747260137fd728607c505fd066499a429d19d9a6792c6d100b005f47247.m4a",
+      "sha256": "61e80747260137fd728607c505fd066499a429d19d9a6792c6d100b005f47247",
+      "duration": 546.645,
+      "start": 0,
+      "end": 469.59,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t1-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam15/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/b6038832cd2cccf0b6750541e817ef4da6827f65ae543bcdfe37f05a45ba935e.m4a",
+      "sha256": "b6038832cd2cccf0b6750541e817ef4da6827f65ae543bcdfe37f05a45ba935e",
+      "duration": 486.997,
+      "start": 47.8,
+      "end": 486.997,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t2-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/7e0e00f71e779ab7e884a17da10b10ba30c6eafefb43390d39ab001eeafe1c17.m4a",
+      "sha256": "7e0e00f71e779ab7e884a17da10b10ba30c6eafefb43390d39ab001eeafe1c17",
+      "duration": 423.68,
+      "start": 0,
+      "end": 423.68,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t2-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/5852f1674584bf8abe566dfdec3439edfe36e2db5fbc52d7483429bef5f9c2f0.m4a",
+      "sha256": "5852f1674584bf8abe566dfdec3439edfe36e2db5fbc52d7483429bef5f9c2f0",
+      "duration": 427.691,
+      "start": 0,
+      "end": 427.691,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t2-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/db19c5bfaedf9ead311102e78f00501bc14ce4ad6acc1a0e01561691784ec21c.m4a",
+      "sha256": "db19c5bfaedf9ead311102e78f00501bc14ce4ad6acc1a0e01561691784ec21c",
+      "duration": 524.843,
+      "start": 0,
+      "end": 447.78,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t2-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam15/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/ef7e14b87ab280ac03e41d0058eed6151ba52a3c84d582c497000316bbc78565.m4a",
+      "sha256": "ef7e14b87ab280ac03e41d0058eed6151ba52a3c84d582c497000316bbc78565",
+      "duration": 470.613,
+      "start": 48.2,
+      "end": 470.613,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t3-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/dd097156a2bf3f1f9a8c76019e8cbf3fd2edc5e97d14de553b1e652f7dacd173.m4a",
+      "sha256": "dd097156a2bf3f1f9a8c76019e8cbf3fd2edc5e97d14de553b1e652f7dacd173",
+      "duration": 424.533,
+      "start": 0,
+      "end": 424.533,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t3-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/23269aba3945fe32accf812a1ec3cdd21c1fa9091465583507161cf4e6bfd6c9.m4a",
+      "sha256": "23269aba3945fe32accf812a1ec3cdd21c1fa9091465583507161cf4e6bfd6c9",
+      "duration": 410.069,
+      "start": 0,
+      "end": 410.069,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t3-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/4e2cee2e3e6ede7716242aebd57f0701dd7ca4bdef0afa861a303ae7dadd1ba4.m4a",
+      "sha256": "4e2cee2e3e6ede7716242aebd57f0701dd7ca4bdef0afa861a303ae7dadd1ba4",
+      "duration": 467.072,
+      "start": 0,
+      "end": 389.73,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t3-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam15/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/1ddaea93cfcf0fbe6aaba07be0bed5adbf7a968bb931265a93e6442349ae04fe.m4a",
+      "sha256": "1ddaea93cfcf0fbe6aaba07be0bed5adbf7a968bb931265a93e6442349ae04fe",
+      "duration": 474.667,
+      "start": 46.0,
+      "end": 474.667,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t4-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/d7bcb0f88eef2b0c5f579eeca5f85744adbbd6b417a4e7b6d389889e0c697025.m4a",
+      "sha256": "d7bcb0f88eef2b0c5f579eeca5f85744adbbd6b417a4e7b6d389889e0c697025",
+      "duration": 381.184,
+      "start": 0,
+      "end": 381.184,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t4-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/44ce12fd0e77d23a09fa5e0dec3a01b4020c025d61c90e469fed063f48d25303.m4a",
+      "sha256": "44ce12fd0e77d23a09fa5e0dec3a01b4020c025d61c90e469fed063f48d25303",
+      "duration": 418.859,
+      "start": 0,
+      "end": 418.859,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t4-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/26b9c8b6c0e1ec7b25f3baf532e59b463e9aa455a5516c4d945153c295c1f2f5.m4a",
+      "sha256": "26b9c8b6c0e1ec7b25f3baf532e59b463e9aa455a5516c4d945153c295c1f2f5",
+      "duration": 467.797,
+      "start": 0,
+      "end": 390.74,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam15/t4-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam15/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/0ab5c21d09421649106c432304c5c3b471064a373348d9a6705e95488e6f989d.mp3",
+      "sha256": "0ab5c21d09421649106c432304c5c3b471064a373348d9a6705e95488e6f989d",
+      "duration": 422.04,
+      "start": 52.28,
+      "end": 422.04,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t1-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/b0d054228360331ae0d3b03e5a61d1f52e72071bfab1194099dde9e73d9ffaef.mp3",
+      "sha256": "b0d054228360331ae0d3b03e5a61d1f52e72071bfab1194099dde9e73d9ffaef",
+      "duration": 416.9,
+      "start": 0,
+      "end": 416.9,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t1-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/8b19aaa56d6f41e566014d2f408c5f36b4872a41e3d5cb5158f934dc5c01b796.mp3",
+      "sha256": "8b19aaa56d6f41e566014d2f408c5f36b4872a41e3d5cb5158f934dc5c01b796",
+      "duration": 401.4,
+      "start": 0,
+      "end": 401.4,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t1-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98.mp3",
+      "sha256": "150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98",
+      "duration": 505.045,
+      "start": 0,
+      "end": 426.68,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t1-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam16/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/618e129c35d8ac7c6c0c831c22fc59e613043b85d1b39c0e0c3d5073dbf53f11.mp3",
+      "sha256": "618e129c35d8ac7c6c0c831c22fc59e613043b85d1b39c0e0c3d5073dbf53f11",
+      "duration": 397.538,
+      "start": 43.44,
+      "end": 397.538,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t2-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/d62d55bb0bd766dc7998db3a0abbbac0e8b41f272216efb464214623add5bfa4.mp3",
+      "sha256": "d62d55bb0bd766dc7998db3a0abbbac0e8b41f272216efb464214623add5bfa4",
+      "duration": 463.686,
+      "start": 0,
+      "end": 463.686,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t2-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/fe9f06395f5b77d8d063c2e7cada196ee557aebcedfb6c2f9f2958f122196ed8.mp3",
+      "sha256": "fe9f06395f5b77d8d063c2e7cada196ee557aebcedfb6c2f9f2958f122196ed8",
+      "duration": 416.221,
+      "start": 0,
+      "end": 416.221,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t2-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/ac61a42880345db1d81bc6931e0b3b31ff750da22fc10ede9be39eb3dfbab185.mp3",
+      "sha256": "ac61a42880345db1d81bc6931e0b3b31ff750da22fc10ede9be39eb3dfbab185",
+      "duration": 525.711,
+      "start": 0,
+      "end": 448.03,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t2-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam16/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/18a8e68862b70145d5baede37c62ac6affb37fe70f32da5a70206fa026cd0b6a.mp3",
+      "sha256": "18a8e68862b70145d5baede37c62ac6affb37fe70f32da5a70206fa026cd0b6a",
+      "duration": 493.015,
+      "start": 43.44,
+      "end": 493.015,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t3-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/57b9e975b3d33992d1200c2e4eaec6c5db2caaf114567b07d1dfecda7d88e327.mp3",
+      "sha256": "57b9e975b3d33992d1200c2e4eaec6c5db2caaf114567b07d1dfecda7d88e327",
+      "duration": 408.002,
+      "start": 0,
+      "end": 408.002,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t3-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/a1672623d8f6e5fdb823f587f5af811f0d0a116b32bdbe6862dab4241a06b42e.mp3",
+      "sha256": "a1672623d8f6e5fdb823f587f5af811f0d0a116b32bdbe6862dab4241a06b42e",
+      "duration": 410.924,
+      "start": 0,
+      "end": 410.924,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t3-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/a41ce6d1f0d4ff93e4aa15f7525dad2ad4979956d4bef7be0ca78794aca01cb2.mp3",
+      "sha256": "a41ce6d1f0d4ff93e4aa15f7525dad2ad4979956d4bef7be0ca78794aca01cb2",
+      "duration": 514.517,
+      "start": 0,
+      "end": 436.2,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t3-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam16/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/eb518572fd3231ade6ba8957b46ff171d21f10fefd36ca308a65ed2806dda199.mp3",
+      "sha256": "eb518572fd3231ade6ba8957b46ff171d21f10fefd36ca308a65ed2806dda199",
+      "duration": 425.824,
+      "start": 43.6,
+      "end": 425.824,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t4-p1-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/b4da010e07807223d6df4cb8ee10de2544bc045b531e3e42d6b82aaf0873e2aa.mp3",
+      "sha256": "b4da010e07807223d6df4cb8ee10de2544bc045b531e3e42d6b82aaf0873e2aa",
+      "duration": 384.674,
+      "start": 0,
+      "end": 384.674,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t4-p2-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/c9b8b98d40ddb2e5168e8531ef1f59556325becfc3b9cc911d0bce33a24f25a8.mp3",
+      "sha256": "c9b8b98d40ddb2e5168e8531ef1f59556325becfc3b9cc911d0bce33a24f25a8",
+      "duration": 407.897,
+      "start": 0,
+      "end": 407.897,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t4-p3-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": null,
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/2a6aa104b6369a58fd28ab052ed42381b8073349534a6a7815da3728f78a411b.mp3",
+      "sha256": "2a6aa104b6369a58fd28ab052ed42381b8073349534a6a7815da3728f78a411b",
+      "duration": 553.344,
+      "start": 0,
+      "end": 475.69,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam16/t4-p4-audio-asr.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam16/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/fe5f292cd6d2772a58df7eda1c99f3422a12b17961edf21b0ddb01b792f0d142.mp3",
+      "sha256": "fe5f292cd6d2772a58df7eda1c99f3422a12b17961edf21b0ddb01b792f0d142",
+      "duration": 414.211,
+      "start": 48.38,
+      "end": 414.211,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t1-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t1-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/0b5ea2fc49fcbad55d9e867b880e5e3966b7ebb49b9f15dad7c63be9516694c1.mp3",
+      "sha256": "0b5ea2fc49fcbad55d9e867b880e5e3966b7ebb49b9f15dad7c63be9516694c1",
+      "duration": 412.491,
+      "start": 0,
+      "end": 412.491,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t1-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t1-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/fab13a121f6806d6721a3dd7c03b761620ce321d705a0bc0b85dbc83ad2d1e06.mp3",
+      "sha256": "fab13a121f6806d6721a3dd7c03b761620ce321d705a0bc0b85dbc83ad2d1e06",
+      "duration": 443.245,
+      "start": 0,
+      "end": 443.245,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t1-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t1-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/a4b1d6fc610c3c9d0503313ff420348a2930856f92b983a41f2c50fe95ddeb21.mp3",
+      "sha256": "a4b1d6fc610c3c9d0503313ff420348a2930856f92b983a41f2c50fe95ddeb21",
+      "duration": 454.66,
+      "start": 0,
+      "end": 377.23,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t1-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/972ee2c44fd1f23c061f8804108ba7fc80bd8a7545c3f772e6c8e918bbae054a.mp3",
+      "sha256": "972ee2c44fd1f23c061f8804108ba7fc80bd8a7545c3f772e6c8e918bbae054a",
+      "duration": 473.477,
+      "start": 38.94,
+      "end": 473.477,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t2-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t2-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/b84dfe7fc58fe27338e8e425d587f7bf57ad416e1354bfbcc191dbccbe7ae920.mp3",
+      "sha256": "b84dfe7fc58fe27338e8e425d587f7bf57ad416e1354bfbcc191dbccbe7ae920",
+      "duration": 444.079,
+      "start": 0,
+      "end": 444.079,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t2-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t2-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/2a1ee1874269370525776237f8e0df93512bc0f407d0728752d9b969e9aa9f05.mp3",
+      "sha256": "2a1ee1874269370525776237f8e0df93512bc0f407d0728752d9b969e9aa9f05",
+      "duration": 401.519,
+      "start": 0,
+      "end": 401.519,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t2-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t2-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/54d9dbeb4c124f9df8ac6ef4af7e30de93454e5abe9057ef217589317a779748.mp3",
+      "sha256": "54d9dbeb4c124f9df8ac6ef4af7e30de93454e5abe9057ef217589317a779748",
+      "duration": 433.393,
+      "start": 0,
+      "end": 355.93,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t2-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/7a6dec6583aeb9b1448cf86945892727a05d767bd1199fe989b5749871c2b908.mp3",
+      "sha256": "7a6dec6583aeb9b1448cf86945892727a05d767bd1199fe989b5749871c2b908",
+      "duration": 414.368,
+      "start": 38.82,
+      "end": 414.368,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t3-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t3-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/4f2179d4be363797c34d231627ea01bebdbfeb70231125d17f4d781773590478.mp3",
+      "sha256": "4f2179d4be363797c34d231627ea01bebdbfeb70231125d17f4d781773590478",
+      "duration": 449.344,
+      "start": 0,
+      "end": 449.344,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t3-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t3-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/7d14ef22fae7517d6b5c8aec158797a1bcbe5ae4da5715f74779ccc17331827c.mp3",
+      "sha256": "7d14ef22fae7517d6b5c8aec158797a1bcbe5ae4da5715f74779ccc17331827c",
+      "duration": 451.715,
+      "start": 0,
+      "end": 451.715,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t3-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t3-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/4002bdf50c2bccfad57240f722e3940e5e1eafb98416a13689edfd91a456b928.mp3",
+      "sha256": "4002bdf50c2bccfad57240f722e3940e5e1eafb98416a13689edfd91a456b928",
+      "duration": 485.701,
+      "start": 0,
+      "end": 408.34,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t3-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/71afa448e10ad21ee5cdefcaad498cc743242c170543ec9f02dcd5782653aa5a.mp3",
+      "sha256": "71afa448e10ad21ee5cdefcaad498cc743242c170543ec9f02dcd5782653aa5a",
+      "duration": 382.233,
+      "start": 37.58,
+      "end": 382.233,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T4P1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t4-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t4-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/c267eb0ff993342feb039b94f172b10e0721b7f06394883786e9107dced79180.mp3",
+      "sha256": "c267eb0ff993342feb039b94f172b10e0721b7f06394883786e9107dced79180",
+      "duration": 471.549,
+      "start": 0,
+      "end": 471.549,
+      "source": "library\\preparation\\listening\\cam17\\cam17-test4-part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t4-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t4-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/88d0e50e550c46ab604cdbcfaaa45f31d2b7fe699c71669676e796e9d126acac.mp3",
+      "sha256": "88d0e50e550c46ab604cdbcfaaa45f31d2b7fe699c71669676e796e9d126acac",
+      "duration": 410.667,
+      "start": 0,
+      "end": 410.667,
+      "source": "library\\preparation\\listening\\cam17\\cam17-test4-part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t4-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t4-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/09e20454ed250a3c26c34a2d85fd7fa7829185e266725302e5acdfad76fe3527.mp3",
+      "sha256": "09e20454ed250a3c26c34a2d85fd7fa7829185e266725302e5acdfad76fe3527",
+      "duration": 514.708,
+      "start": 0,
+      "end": 440.93,
+      "source": "library\\preparation\\listening\\cam17\\cam17-test4-part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam17/audio-t4-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam17/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/c97e1b3aec47a05b54da77db01941e3b5064fbf4480d905c0a625310e1c92056.mp3",
+      "sha256": "c97e1b3aec47a05b54da77db01941e3b5064fbf4480d905c0a625310e1c92056",
+      "duration": 431.29,
+      "start": 49.1,
+      "end": 431.29,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t1-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t1-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/8a06d26cbf606f37da5c6aef2c55f6e13bb8db4e59a5bfb30a60b8d85562ec98.mp3",
+      "sha256": "8a06d26cbf606f37da5c6aef2c55f6e13bb8db4e59a5bfb30a60b8d85562ec98",
+      "duration": 398.088,
+      "start": 0,
+      "end": 398.088,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t1-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t1-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/299268607978510cea86fe2c9a0aac09935c4efd68874868e5e4cb578d33ed29.mp3",
+      "sha256": "299268607978510cea86fe2c9a0aac09935c4efd68874868e5e4cb578d33ed29",
+      "duration": 400.909,
+      "start": 0,
+      "end": 400.909,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t1-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t1-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/b5d43130bd1f3bfd569be6eed04e055cc04cd5776cd1545aa1524e738dd1ac9f.mp3",
+      "sha256": "b5d43130bd1f3bfd569be6eed04e055cc04cd5776cd1545aa1524e738dd1ac9f",
+      "duration": 527.603,
+      "start": 0,
+      "end": 448.38,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t1-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/db4ddc60106225c83d8c8b102dae447b2f546a387b5406de5a8112ade461b262.mp3",
+      "sha256": "db4ddc60106225c83d8c8b102dae447b2f546a387b5406de5a8112ade461b262",
+      "duration": 468.801,
+      "start": 39.52,
+      "end": 468.801,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2-part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t2-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t2-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/34d1cfe240f4e2a06888de1419b82c0a81757e4c52a9b2e2648cb20d6addf31b.mp3",
+      "sha256": "34d1cfe240f4e2a06888de1419b82c0a81757e4c52a9b2e2648cb20d6addf31b",
+      "duration": 437.219,
+      "start": 0,
+      "end": 437.219,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2-part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t2-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t2-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/04bddc6ca1a14877e8e1d4e108bf5e6cd1b835bc6d541c9512f258802fe0320e.mp3",
+      "sha256": "04bddc6ca1a14877e8e1d4e108bf5e6cd1b835bc6d541c9512f258802fe0320e",
+      "duration": 428.024,
+      "start": 0,
+      "end": 428.024,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2- part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t2-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t2-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/9956aada224a2d1e3dd64bdf428aaf4f3da8abda2ac815949574ba571047b1df.mp3",
+      "sha256": "9956aada224a2d1e3dd64bdf428aaf4f3da8abda2ac815949574ba571047b1df",
+      "duration": 425.961,
+      "start": 0,
+      "end": 346.81,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2- part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t2-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/db7734781e43877228e9b5e682e2b8f7175ef08221ac5f955441860104d2661e.mp3",
+      "sha256": "db7734781e43877228e9b5e682e2b8f7175ef08221ac5f955441860104d2661e",
+      "duration": 470.578,
+      "start": 39.34,
+      "end": 470.578,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t3-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t3-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/e363b7e68a0fb4adb8791a9c7c5aa9921d984c207816cf91f279f6fe273ba839.mp3",
+      "sha256": "e363b7e68a0fb4adb8791a9c7c5aa9921d984c207816cf91f279f6fe273ba839",
+      "duration": 467.417,
+      "start": 0,
+      "end": 467.417,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t3-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t3-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/fd994ca01e1f98bf34f7d6c9cf4ef90ebbe32d81db65076c6a98ab5ae86aa0ad.mp3",
+      "sha256": "fd994ca01e1f98bf34f7d6c9cf4ef90ebbe32d81db65076c6a98ab5ae86aa0ad",
+      "duration": 355.247,
+      "start": 0,
+      "end": 355.247,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t3-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t3-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/c92a622f8c8988f5a7d45d466dbecb9ff7bf9960db4b0083b9a09bf0a287bb34.mp3",
+      "sha256": "c92a622f8c8988f5a7d45d466dbecb9ff7bf9960db4b0083b9a09bf0a287bb34",
+      "duration": 459.711,
+      "start": 0,
+      "end": 380.5,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t3-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/c4ba3cb30b3208acd298cf6a2c31a9fe46414d3fd35472680babd810fdbd5051.mp3",
+      "sha256": "c4ba3cb30b3208acd298cf6a2c31a9fe46414d3fd35472680babd810fdbd5051",
+      "duration": 442.888,
+      "start": 38.48,
+      "end": 442.888,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t4-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t4-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/7758d048fb6b0280f89738cd740f80e3311157ee99c16381e3c3305ab50d564b.mp3",
+      "sha256": "7758d048fb6b0280f89738cd740f80e3311157ee99c16381e3c3305ab50d564b",
+      "duration": 436.122,
+      "start": 0,
+      "end": 436.122,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t4-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t4-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/57096d17d19f60b1db2efa7d10c8d024086a69b8552eb13c02666e184c1eee40.mp3",
+      "sha256": "57096d17d19f60b1db2efa7d10c8d024086a69b8552eb13c02666e184c1eee40",
+      "duration": 418.098,
+      "start": 0,
+      "end": 418.098,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t4-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t4-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/f5f5f91b3ed3b542207f2c0516afa73f3757b29dd424292e4c3633a571daef2e.mp3",
+      "sha256": "f5f5f91b3ed3b542207f2c0516afa73f3757b29dd424292e4c3633a571daef2e",
+      "duration": 497.432,
+      "start": 0,
+      "end": 414,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam18/audio-t4-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam18/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds.",
+          "No reliable spoken check cue in source; boundary follows last transcript sentence (timed local ASR evidence)."
+        ]
+      }
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/9297b29a5f03fe7a61220ae4efe1998fe7cfcaae1a2d5d4f3e52b4d41db8753c.mp3",
+      "sha256": "9297b29a5f03fe7a61220ae4efe1998fe7cfcaae1a2d5d4f3e52b4d41db8753c",
+      "duration": 472.66,
+      "start": 54.02,
+      "end": 472.66,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t1-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t1-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ],
+        "additionalProof": "preparation/listening/cam19/timeline-t1-p1.json (115–175 seconds: Hinchingbrooke 69 hectares, wetland and stream)"
+      }
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/a1d2e490e8fa649ab0dce108c0ee4ccb9e173f34fa8288c8961ce4b05c2d9d6a.mp3",
+      "sha256": "a1d2e490e8fa649ab0dce108c0ee4ccb9e173f34fa8288c8961ce4b05c2d9d6a",
+      "duration": 437.238,
+      "start": 0,
+      "end": 437.238,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t1-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t1-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/b43379f7c9d26e6e06dc8e52a9ffa66bb4bfae25823ad83cfe0d845efffac47b.mp3",
+      "sha256": "b43379f7c9d26e6e06dc8e52a9ffa66bb4bfae25823ad83cfe0d845efffac47b",
+      "duration": 420.258,
+      "start": 0,
+      "end": 420.258,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t1-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t1-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/a125a0b8de00cdbae3f877500bd0234afdaec351e007db8764e4116d09175159.mp3",
+      "sha256": "a125a0b8de00cdbae3f877500bd0234afdaec351e007db8764e4116d09175159",
+      "duration": 414.798,
+      "start": 0,
+      "end": 374.11,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t1-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/87bd934522d3f332a3ce71a1fa55c97d1380ef45a3df981e2baa10e427a01f9b.mp3",
+      "sha256": "87bd934522d3f332a3ce71a1fa55c97d1380ef45a3df981e2baa10e427a01f9b",
+      "duration": 481.907,
+      "start": 44.36,
+      "end": 481.907,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t2-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t2-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/92eebe7728a829eccd8d030b3dd5ebd8acef18b13c93abec21bc732dbe809229.mp3",
+      "sha256": "92eebe7728a829eccd8d030b3dd5ebd8acef18b13c93abec21bc732dbe809229",
+      "duration": 384.157,
+      "start": 0,
+      "end": 384.157,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t2-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t2-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/bd5d682d220405fefb553e8d8419319bbffda84a534043c60560aeb0193217a4.mp3",
+      "sha256": "bd5d682d220405fefb553e8d8419319bbffda84a534043c60560aeb0193217a4",
+      "duration": 410.802,
+      "start": 0,
+      "end": 410.802,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t2-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t2-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/c3a5c6e3c89dde95748eddf6e4a81efe86bfb56591211a04f89cb7c8bd4f557a.mp3",
+      "sha256": "c3a5c6e3c89dde95748eddf6e4a81efe86bfb56591211a04f89cb7c8bd4f557a",
+      "duration": 426.971,
+      "start": 0,
+      "end": 414.57,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t2-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/97e6fbb34e21eeb1ade85ed22223bd99d449815e89ef374dabddd89620c54e2b.mp3",
+      "sha256": "97e6fbb34e21eeb1ade85ed22223bd99d449815e89ef374dabddd89620c54e2b",
+      "duration": 396.199,
+      "start": 44.86,
+      "end": 396.199,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t3-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t3-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/2581e4ed41c646ea980fa703a3cab1bd3617016b96ff5fb5ac52dd19b93d2e49.mp3",
+      "sha256": "2581e4ed41c646ea980fa703a3cab1bd3617016b96ff5fb5ac52dd19b93d2e49",
+      "duration": 371.827,
+      "start": 0,
+      "end": 371.827,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t3-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t3-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/e55469b89b9ce0f495eac91af275b394658932079701be0ae28f6c5003b8456e.mp3",
+      "sha256": "e55469b89b9ce0f495eac91af275b394658932079701be0ae28f6c5003b8456e",
+      "duration": 422.165,
+      "start": 0,
+      "end": 422.165,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t3-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t3-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/07fdf245403bdae93d23ed0722c265d8823afe87f74d2b583e2e14e22a302615.mp3",
+      "sha256": "07fdf245403bdae93d23ed0722c265d8823afe87f74d2b583e2e14e22a302615",
+      "duration": 410.436,
+      "start": 0,
+      "end": 384,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t3-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds.",
+          "No reliable spoken check cue in source; boundary follows last transcript sentence (timed local ASR evidence)."
+        ]
+      }
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/6adef56d3145a0d7d49d1c5e08a9e957104ddcef2a95d2a0bb2d0026a89ca2d6.mp3",
+      "sha256": "6adef56d3145a0d7d49d1c5e08a9e957104ddcef2a95d2a0bb2d0026a89ca2d6",
+      "duration": 405.159,
+      "start": 43.62,
+      "end": 405.159,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t4-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t4-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/fdcdb59c3e3015eb8d522d3f97e5f7928c1364420c72ed35f2e9c56f293fb168.mp3",
+      "sha256": "fdcdb59c3e3015eb8d522d3f97e5f7928c1364420c72ed35f2e9c56f293fb168",
+      "duration": 389.12,
+      "start": 0,
+      "end": 389.12,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t4-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t4-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/001757f60d198e0bd900892a4cc7916b06e34656ae8feeff89d493f3e1d5e948.mp3",
+      "sha256": "001757f60d198e0bd900892a4cc7916b06e34656ae8feeff89d493f3e1d5e948",
+      "duration": 429.401,
+      "start": 0,
+      "end": 429.401,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t4-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t4-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/bccccad08d978375085d5f2f3793693ba2d13e59ab7b11607da9fc8cb3db2a40.mp3",
+      "sha256": "bccccad08d978375085d5f2f3793693ba2d13e59ab7b11607da9fc8cb3db2a40",
+      "duration": 518.922,
+      "start": 0,
+      "end": 508.22,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam19/audio-t4-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam19/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 1,
+      "url": "/library-audio/e912ed87c4697597a0108cd96aa52772e10739f4e44baf65bd5438a33df7ff12.m4a",
+      "sha256": "e912ed87c4697597a0108cd96aa52772e10739f4e44baf65bd5438a33df7ff12",
+      "duration": 501.319,
+      "start": 58.04,
+      "end": 461,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t1-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t1-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 2,
+      "url": "/library-audio/35e7baadbb23a544ec7a5a91c5d91b50ade3d03b83cf88c08844adda619eb467.m4a",
+      "sha256": "35e7baadbb23a544ec7a5a91c5d91b50ade3d03b83cf88c08844adda619eb467",
+      "duration": 514.554,
+      "start": 0,
+      "end": 514.554,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t1-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t1-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 3,
+      "url": "/library-audio/1e39513454852ad3b1e33398d77fc09c5870a5bb6a3267501af906284feb7078.m4a",
+      "sha256": "1e39513454852ad3b1e33398d77fc09c5870a5bb6a3267501af906284feb7078",
+      "duration": 479.028,
+      "start": 0,
+      "end": 479.028,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t1-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t1-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 4,
+      "url": "/library-audio/be0b0670d8c0c319f4f3c0b61a31586b67854d944cc713fb99729fd3af46eb84.m4a",
+      "sha256": "be0b0670d8c0c319f4f3c0b61a31586b67854d944cc713fb99729fd3af46eb84",
+      "duration": 472.573,
+      "start": 0,
+      "end": 392.75,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t1-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t1-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 1,
+      "url": "/library-audio/8c0b0821563da09bd9fadd5543f7ef15d091a4a7c13ac0d59b68be246e4893e9.m4a",
+      "sha256": "8c0b0821563da09bd9fadd5543f7ef15d091a4a7c13ac0d59b68be246e4893e9",
+      "duration": 408.253,
+      "start": 46.9,
+      "end": 408.253,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t2-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t2-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 2,
+      "url": "/library-audio/a6486d18b0e99da395ed969c47ed17eb600a26c0715a0ba73b1a7196e31c0f94.m4a",
+      "sha256": "a6486d18b0e99da395ed969c47ed17eb600a26c0715a0ba73b1a7196e31c0f94",
+      "duration": 428.896,
+      "start": 0,
+      "end": 428.896,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t2-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t2-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 3,
+      "url": "/library-audio/94195b59fb813a7331e6a0f3f310d2e5898d8f8c847e4261f604e70ca2f1c52c.m4a",
+      "sha256": "94195b59fb813a7331e6a0f3f310d2e5898d8f8c847e4261f604e70ca2f1c52c",
+      "duration": 422.441,
+      "start": 0,
+      "end": 422.441,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t2-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t2-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 4,
+      "url": "/library-audio/4961bf01e80566290d5826e2b08c1abc7ce1ec2d48989f7d590b04286dca15fa.m4a",
+      "sha256": "4961bf01e80566290d5826e2b08c1abc7ce1ec2d48989f7d590b04286dca15fa",
+      "duration": 571.466,
+      "start": 0,
+      "end": 468.3,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t2-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t2-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 1,
+      "url": "/library-audio/2bac4bf39ad2320fe3877a8426b1cafb26b1b46754f6a56b7e1df6b8ecc5443e.m4a",
+      "sha256": "2bac4bf39ad2320fe3877a8426b1cafb26b1b46754f6a56b7e1df6b8ecc5443e",
+      "duration": 439.693,
+      "start": 50.0,
+      "end": 439.693,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t3-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t3-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 2,
+      "url": "/library-audio/7e8cd0fca97da2e36b1561c017a385520b2a4e43d5a6597cdbe6bb391b67a112.m4a",
+      "sha256": "7e8cd0fca97da2e36b1561c017a385520b2a4e43d5a6597cdbe6bb391b67a112",
+      "duration": 525.421,
+      "start": 0,
+      "end": 525.421,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t3-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t3-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 3,
+      "url": "/library-audio/7af31bb872672f51b02b3a861a65208561d99c1e2632766b2b93509aa99cb5f1.m4a",
+      "sha256": "7af31bb872672f51b02b3a861a65208561d99c1e2632766b2b93509aa99cb5f1",
+      "duration": 446.566,
+      "start": 0,
+      "end": 446.566,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t3-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t3-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 4,
+      "url": "/library-audio/f78eed8ca867f1282c808b7fd5c2b5da4e0ae209f24b09c5271f50788a557e5b.m4a",
+      "sha256": "f78eed8ca867f1282c808b7fd5c2b5da4e0ae209f24b09c5271f50788a557e5b",
+      "duration": 512.998,
+      "start": 0,
+      "end": 419.64,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t3-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t3-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 1,
+      "url": "/library-audio/7190aaab382b2592b16e76619aa24a8f6232d9d38d9642b61b700c6e3ec1c917.m4a",
+      "sha256": "7190aaab382b2592b16e76619aa24a8f6232d9d38d9642b61b700c6e3ec1c917",
+      "duration": 442.34,
+      "start": 53.58,
+      "end": 442.34,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S1.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t4-p1.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t4-p1.json",
+        "timelineNotes": [
+          "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+        ]
+      }
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 2,
+      "url": "/library-audio/d11b2c3bbce95b06bbdbeca8f928ee7e3002367f59a6b89feff6f63256cea092.m4a",
+      "sha256": "d11b2c3bbce95b06bbdbeca8f928ee7e3002367f59a6b89feff6f63256cea092",
+      "duration": 508.494,
+      "start": 0,
+      "end": 508.494,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S2.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t4-p2.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t4-p2.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 3,
+      "url": "/library-audio/a87f1b76eded0c00cada5fe63bad024b2602c14485e3294a315a2749072508bc.m4a",
+      "sha256": "a87f1b76eded0c00cada5fe63bad024b2602c14485e3294a315a2749072508bc",
+      "duration": 472.735,
+      "start": 0,
+      "end": 472.735,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S3.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t4-p3.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t4-p3.json",
+        "timelineNotes": []
+      }
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 4,
+      "url": "/library-audio/cfccbf2a13be59948248f13fee89b6db2d91153934d268386cc9d5d837e5185b.m4a",
+      "sha256": "cfccbf2a13be59948248f13fee89b6db2d91153934d268386cc9d5d837e5185b",
+      "duration": 482.743,
+      "start": 0,
+      "end": 402.33,
+      "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T4S4.m4a",
+      "verification": {
+        "status": "verified",
+        "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+        "proof": "preparation/listening/cam20/audio-t4-p4.json",
+        "contentComparison": "preparation/listening/audio-content-comparison.json",
+        "timelineProof": "preparation/listening/cam20/timeline-t4-p4.json",
+        "timelineNotes": [
+          "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+        ]
+      }
+    }
+  ]
+}

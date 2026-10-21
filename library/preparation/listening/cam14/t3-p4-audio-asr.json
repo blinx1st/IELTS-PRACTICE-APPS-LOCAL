@@ -1,0 +1,147 @@
+{
+  "book": 14,
+  "test": 3,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S4.mp3",
+  "sha256": "892ac0d394743b5fc558e6506de5f7c6bdf253c54dcab46b711adb9c656474f2",
+  "duration": 488.434,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      388.31975,
+      488.31975
+    ]
+  ],
+  "text": "Section 4 You will hear a British University lecturer in music talking about concerts in an arts festival. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. As you all know, the university is planning an arts festival for later this year, and here in the Music Department, we've planned three concerts. This will be public performances, and the program has just been finalized. The theme of the festival is links between the UK and Australia, and this is reflected in the music. Each concert will feature both British and Australian composers. I'll tell you briefly about the Australian music, as you probably won't be familiar with that. After graduating, he moved to Sydney and worked as a freelance pianist and composer. Before long, he had become prominent in Australia as a composer for dance, and in fact has written 25 scores of that type. In our third concert, Vine will be represented by his music for the flag handover ceremony of the Olympics held in 1996. This seven-minute orchestral piece was of course heard by millions of people worldwide, and we'll hear it alongside works written by British composers Edward Elgar and more recently Thomas Addes. That is the end of section four. You now have half a minute to check your answers. That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.32,
+      "text": "Section 4"
+    },
+    {
+      "start": 5.32,
+      "end": 14.0,
+      "text": "You will hear a British University lecturer in music talking about concerts in an arts festival."
+    },
+    {
+      "start": 14.0,
+      "end": 18.88,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 77.92,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 77.92,
+      "end": 84.04,
+      "text": "As you all know, the university is planning an arts festival for later this year, and"
+    },
+    {
+      "start": 84.04,
+      "end": 88.84,
+      "text": "here in the Music Department, we've planned three concerts."
+    },
+    {
+      "start": 88.84,
+      "end": 94.52,
+      "text": "This will be public performances, and the program has just been finalized."
+    },
+    {
+      "start": 94.52,
+      "end": 100.88,
+      "text": "The theme of the festival is links between the UK and Australia, and this is reflected"
+    },
+    {
+      "start": 100.88,
+      "end": 102.6,
+      "text": "in the music."
+    },
+    {
+      "start": 102.6,
+      "end": 107.08,
+      "text": "Each concert will feature both British and Australian composers."
+    },
+    {
+      "start": 107.08,
+      "end": 113.2,
+      "text": "I'll tell you briefly about the Australian music, as you probably won't be familiar with"
+    },
+    {
+      "start": 113.2,
+      "end": 114.92,
+      "text": "that."
+    },
+    {
+      "start": 388.32,
+      "end": 395.9,
+      "text": "After graduating, he moved to Sydney and worked as a freelance pianist and composer."
+    },
+    {
+      "start": 395.9,
+      "end": 402.44,
+      "text": "Before long, he had become prominent in Australia as a composer for dance, and in fact"
+    },
+    {
+      "start": 402.44,
+      "end": 407.52,
+      "text": "has written 25 scores of that type."
+    },
+    {
+      "start": 407.52,
+      "end": 414.24,
+      "text": "In our third concert, Vine will be represented by his music for the flag handover ceremony"
+    },
+    {
+      "start": 414.24,
+      "end": 418.72,
+      "text": "of the Olympics held in 1996."
+    },
+    {
+      "start": 418.72,
+      "end": 425.4,
+      "text": "This seven-minute orchestral piece was of course heard by millions of people worldwide,"
+    },
+    {
+      "start": 425.4,
+      "end": 432.56,
+      "text": "and we'll hear it alongside works written by British composers Edward Elgar and more recently"
+    },
+    {
+      "start": 432.56,
+      "end": 436.88,
+      "text": "Thomas Addes."
+    },
+    {
+      "start": 436.88,
+      "end": 440.68,
+      "text": "That is the end of section four."
+    },
+    {
+      "start": 440.68,
+      "end": 444.04,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 470.68,
+      "end": 478.24,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 478.24,
+      "end": 484.72,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

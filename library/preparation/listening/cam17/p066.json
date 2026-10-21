@@ -1,0 +1,93 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 66,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nFete\nAra\naia 1718867188\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome people believe that professionals, such as doctors and engineers,\nshould be required to work in the country where they did their training. Others\nbelieve they should be free to work in another country if they wish.\nDiscuss both these views and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n>\n|S p.135|\n73\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        511.4405517578125,
+        50.76811218261719
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nFete\nAra\naia 1718867188\n"
+    },
+    {
+      "box": [
+        60.827735900878906,
+        82.06344604492188,
+        192.9193115234375,
+        92.51177978515625
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        111.21756744384766,
+        314.2165832519531,
+        122.02617645263672
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        138.93199157714844,
+        220.7796173095703,
+        150.10093688964844
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        74.14505767822266,
+        175.64463806152344,
+        513.7244262695312,
+        214.52793884277344
+      ],
+      "text": "Some people believe that professionals, such as doctors and engineers,\nshould be required to work in the country where they did their training. Others\nbelieve they should be free to work in another country if they wish.\n"
+    },
+    {
+      "box": [
+        74.50497436523438,
+        231.0734100341797,
+        373.4606018066406,
+        241.88201904296875
+      ],
+      "text": "Discuss both these views and give your own opinion.\n"
+    },
+    {
+      "box": [
+        61.54759216308594,
+        267.4260559082031,
+        478.5954895019531,
+        292.27191162109375
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        308.8177795410156,
+        189.8975372314453,
+        317.4646301269531
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        422.9147644042969,
+        728.8530883789062,
+        525.0980834960938,
+        741.463134765625
+      ],
+      "text": ">\n|S p.135|\n73\n"
+    }
+  ]
+}

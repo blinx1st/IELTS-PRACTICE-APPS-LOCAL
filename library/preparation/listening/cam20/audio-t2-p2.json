@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/a6486d18b0e99da395ed969c47ed17eb600a26c0715a0ba73b1a7196e31c0f94.m4a",
+    "sha256": "a6486d18b0e99da395ed969c47ed17eb600a26c0715a0ba73b1a7196e31c0f94",
+    "duration": 428.896,
+    "start": 0,
+    "end": 428.896,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S2.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2 You will hear a man who works for Elmlee Town Council talking to some people who want to join the small towns volunteer scheme. First, you have some time to look at questions 11 to 16. Now, listen carefully and answer questions 11 to 16. on in everyone. I'm Steve Wayne Wright from Elmly Town Council and I organise the town's volunteer scheme. I'm delighted you're all interested in joining the scheme. Our volunteers help to create a sense of community among the many people who live in our historic town of Elmly and make residents and visitors feel welcome at local events. First, I'll mention just a few of the activities that volunteers carry out. One is to walk around the towns and to streets wearing our volunteer t-shirt. Tourists often ask how to get to a particular shop and they might also be grateful for a Thank you."
+    },
+    {
+      "name": "ending",
+      "start": 363.896,
+      "end": 428.896,
+      "text": "In recent years we've had a party in the town hall, and last year a barbecue in Chamber Park. Our forthcoming event is a trip along the canal from here to Duhrston back. It's on Saturday September the 28th, and if you'd like to attend you can sign up once you start work. Now, this is the Volunteer's D-shirt. That is the end of part 2. You now have 30 seconds to check your answers to part 2."
+    }
+  ]
+}

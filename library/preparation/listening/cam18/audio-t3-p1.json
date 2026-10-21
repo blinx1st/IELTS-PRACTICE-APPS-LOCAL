@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/db7734781e43877228e9b5e682e2b8f7175ef08221ac5f955441860104d2661e.mp3",
+    "sha256": "db7734781e43877228e9b5e682e2b8f7175ef08221ac5f955441860104d2661e",
+    "duration": 470.578,
+    "start": 0,
+    "end": 470.578,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 3. This is the IELTS Listening Test. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given ten minutes minutes to transfer your answers to an answer sheet. Now turn to Part 1. Part 1. You will hear a man talking to the coordinator of a photography club. First, you have some time to look at questions 1 to 4. Now, listen carefully and answer questions one to four. Hello, wayside camera club, breeders speaking. Hello, my name's Stan and I'd like to join your club. That's great, Dan. We have an application form. Would you like to complete it over the phone? Then you can ask any questions you might have. Oh yes, thanks. Okay. So what's your family name? It's green. Dan Green."
+    },
+    {
+      "name": "ending",
+      "start": 405.578,
+      "end": 470.578,
+      "text": "You now have one minute to check your answers to part one. You"
+    }
+  ]
+}

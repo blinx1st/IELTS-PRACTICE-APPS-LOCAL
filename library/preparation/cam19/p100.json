@@ -1,0 +1,147 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 100,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 1\n| know that one or two of our visitors may not be all that mobile. The main entrance to the\nhouse hasa\nlot of steps so you might want to use the disabled entry. This is on the far side of\nQ17\nthe house from the car park.\nChildren will probably be most interested in the adventure playground. That's at the northern\nQ18\nend of the larger lake, in a bend on the path that leads to the lake. There's lots for children to\ndo there.\nThere are a number of lovely gardens near the house. The kitchen gardens are rectangular\nQ19\nand surrounded by a wall. They're to the north-east of the house, quite near the smaller lake.\nThey're still in use and have a great collection of fruit and vegetables.\nThe Temple of the Four Winds is a bit more of a walk — but it's worth it. Take the path from\nthe car park and go past the western sides of the stables and the house. Then when\nthe path\n@Q20\nforks, take the right-hand path. Go up there with the woods on your left and the temple is right\nat the end. There are great views over the whole area.\nOK, so that’s .\n.\n.\nPART 3\nCOLIN:\n| haven't seen you for a bit, Marie.\nMARIE:\nNo. I've been busy with my project.\nCOLIN:\nYou're making a vegan alternative to eggs, aren’t you? Something that doesn't\nuse animal products?\nMARIE:\nYes. I'm using chickpeas. | had two main aims when| first started looking for an\nalternative to eggs, but actually I've found chickpeas have got more advantages.\nCOLIN:\nRight.\nMARIE:\nBut how about your project on reusing waste food — you were looking at bread,\nweren't you?\nCOLIN:\nYes. It's been hard work, but I've enjoyed it. The basic process was quite\nstraightforward — breaking the stale bread down to a paste then reforming it.\nMARIE:\nBut you were using 3-D printing, weren't you, to make the paste into biscuits?\nCOLIN:\nYeah, I'd used that before, but in this project, | had time to play around with\nQ21/22\ndifferent patterns for the biscuits and finding how | could add fruit and vegetables\n|managed\nto produce.\nMARIE:\nIt must've been a great feeling to make something appetising out of bits of old\nQ21/22\nCOLIN:\nItwas. And I'm hoping that some of the restaurants in town will be interested in\nthe biscuits. I'm going to send them some samples.\nMARIE:\n| came across something on the internet yesterday that might interest you. It was\na company that's developed touch-sensitive sensors for food labels.\nCOLIN:\nMmm?\nMARIE:\nIt's a special sort of label on the food package. When the label's smooth, the food\nis fresh and then when you can feel bumps on the label, that means the food's\ngone bad. It started off as a project to help visually impaired people know whether\nfood was fit to eat or not.\nCOLIN:\nInteresting. So just solid food?\nMARIE:\nNo, things like milk and juice as well. But actually, | thought it might be really good\n+\n@Q23/24\nCOLIN:\nRight. And coming back to food, maybe it'd be possible to use it for other things\nbesides freshness. Like how many kilograms a joint of meat is, for example.\nQ23/24\n101\n",
+  "blocks": [
+    {
+      "box": [
+        441.2606506347656,
+        34.55223846435547,
+        470.0254211425781,
+        43.198944091796875
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        41.39067459106445,
+        68.74452209472656,
+        453.8505859375,
+        100.4264144897461
+      ],
+      "text": "| know that one or two of our visitors may not be all that mobile. The main entrance to the\nhouse hasa\nlot of steps so you might want to use the disabled entry. This is on the far side of\nQ17\nthe house from the car park.\n"
+    },
+    {
+      "box": [
+        41.39064407348633,
+        107.97570037841797,
+        453.3538513183594,
+        138.57598876953125
+      ],
+      "text": "Children will probably be most interested in the adventure playground. That's at the northern\nQ18\nend of the larger lake, in a bend on the path that leads to the lake. There's lots for children to\ndo there.\n"
+    },
+    {
+      "box": [
+        39.950965881347656,
+        147.56678771972656,
+        453.3971252441406,
+        170.6149444580078
+      ],
+      "text": "There are a number of lovely gardens near the house. The kitchen gardens are rectangular\nQ19\nand surrounded by a wall. They're to the north-east of the house, quite near the smaller lake.\n"
+    },
+    {
+      "box": [
+        41.39064407348633,
+        170.24172973632812,
+        322.22454833984375,
+        179.6089630126953
+      ],
+      "text": "They're still in use and have a great collection of fruit and vegetables.\n"
+    },
+    {
+      "box": [
+        41.39064407348633,
+        186.79795837402344,
+        453.7499084472656,
+        230.35714721679688
+      ],
+      "text": "The Temple of the Four Winds is a bit more of a walk — but it's worth it. Take the path from\nthe car park and go past the western sides of the stables and the house. Then when\nthe path\n@Q20\nforks, take the right-hand path. Go up there with the woods on your left and the temple is right\nat the end. There are great views over the whole area.\n"
+    },
+    {
+      "box": [
+        41.75059509277344,
+        238.6262969970703,
+        108.32481384277344,
+        246.5524444580078
+      ],
+      "text": "OK, so that’s .\n.\n.\n"
+    },
+    {
+      "box": [
+        42.11051559448242,
+        280.37689208984375,
+        93.17401885986328,
+        290.1044006347656
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        40.31093215942383,
+        299.8125305175781,
+        466.8330383300781,
+        459.2702941894531
+      ],
+      "text": "COLIN:\n| haven't seen you for a bit, Marie.\nMARIE:\nNo. I've been busy with my project.\nCOLIN:\nYou're making a vegan alternative to eggs, aren’t you? Something that doesn't\nuse animal products?\nMARIE:\nYes. I'm using chickpeas. | had two main aims when| first started looking for an\nalternative to eggs, but actually I've found chickpeas have got more advantages.\nCOLIN:\nRight.\nMARIE:\nBut how about your project on reusing waste food — you were looking at bread,\nweren't you?\nCOLIN:\nYes. It's been hard work, but I've enjoyed it. The basic process was quite\nstraightforward — breaking the stale bread down to a paste then reforming it.\nMARIE:\nBut you were using 3-D printing, weren't you, to make the paste into biscuits?\nCOLIN:\nYeah, I'd used that before, but in this project, | had time to play around with\nQ21/22\ndifferent patterns for the biscuits and finding how | could add fruit and vegetables\n"
+    },
+    {
+      "box": [
+        89.97986602783203,
+        468.97442626953125,
+        181.48944091796875,
+        482.6650390625
+      ],
+      "text": "|managed\n"
+    },
+    {
+      "box": [
+        40.3110466003418,
+        468.9743957519531,
+        466.9626159667969,
+        493.46295166015625
+      ],
+      "text": "to produce.\nMARIE:\nIt must've been a great feeling to make something appetising out of bits of old\nQ21/22\n"
+    },
+    {
+      "box": [
+        40.67101287841797,
+        502.80682373046875,
+        419.7304382324219,
+        601.4318237304688
+      ],
+      "text": "COLIN:\nItwas. And I'm hoping that some of the restaurants in town will be interested in\nthe biscuits. I'm going to send them some samples.\nMARIE:\n| came across something on the internet yesterday that might interest you. It was\na company that's developed touch-sensitive sensors for food labels.\nCOLIN:\nMmm?\nMARIE:\nIt's a special sort of label on the food package. When the label's smooth, the food\nis fresh and then when you can feel bumps on the label, that means the food's\ngone bad. It started off as a project to help visually impaired people know whether\nfood was fit to eat or not.\n"
+    },
+    {
+      "box": [
+        42.11068344116211,
+        604.303955078125,
+        466.5686340332031,
+        626.9907836914062
+      ],
+      "text": "COLIN:\nInteresting. So just solid food?\nMARIE:\nNo, things like milk and juice as well. But actually, | thought it might be really good\n+\n@Q23/24\n"
+    },
+    {
+      "box": [
+        42.11069869995117,
+        638.1363525390625,
+        466.4552307128906,
+        660.8238525390625
+      ],
+      "text": "COLIN:\nRight. And coming back to food, maybe it'd be possible to use it for other things\nbesides freshness. Like how many kilograms a joint of meat is, for example.\nQ23/24\n"
+    },
+    {
+      "box": [
+        454.2179260253906,
+        672.6885986328125,
+        469.61529541015625,
+        680.9750366210938
+      ],
+      "text": "101\n"
+    }
+  ]
+}

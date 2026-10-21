@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/57096d17d19f60b1db2efa7d10c8d024086a69b8552eb13c02666e184c1eee40.mp3",
+    "sha256": "57096d17d19f60b1db2efa7d10c8d024086a69b8552eb13c02666e184c1eee40",
+    "duration": 418.098,
+    "start": 0,
+    "end": 418.098,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3 Following instructions from their tutor, you will hear two trainee teachers discussing the use of origami, a paper folding activity in the classroom. First, you have some time to look at questions 21 to 27. Now listen carefully and answer questions 21 to 27. So, now I want you to discuss the lesson we've just been watching on the video, and think about the ways in which origami can be a useful educational tool. Can you all work with the person sitting next to you? I had no idea that such a simple thing like folding squares of paper to make the shape of something like a bird could be such an amazing tool. It's made me see origami in a whole new light. I know. It was interesting to see the educational skills the children were developing by doing origami. On the video you could see them really listening hard to make sure they did all the steps in the room."
+    },
+    {
+      "name": "ending",
+      "start": 353.098,
+      "end": 418.098,
+      "text": "I think it would also work really well for presenting fractions, which is coming up soon. Good idea! That's something most of the kids in that class might struggle with. Oregami would also be good practice for using symmetry, but I think they did that last term. Okay, well, let's try and get some ideas together and plan the lesson next week. Okay, if you could also... That is the end of part 3. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

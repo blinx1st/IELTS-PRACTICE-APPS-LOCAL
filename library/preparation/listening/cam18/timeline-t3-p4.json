@@ -1,0 +1,738 @@
+{
+  "audioSha256": "c92a622f8c8988f5a7d45d466dbecb9ff7bf9960db4b0083b9a09bf0a287bb34",
+  "duration": 459.702875,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 339.702875,
+      "end": 343.682875,
+      "text": " a single database on which it can be entered.",
+      "words": [
+        {
+          "word": " a",
+          "start": 339.702875,
+          "end": 340.282875
+        },
+        {
+          "word": " single",
+          "start": 340.282875,
+          "end": 340.942875
+        },
+        {
+          "word": " database",
+          "start": 340.942875,
+          "end": 341.742875
+        },
+        {
+          "word": " on",
+          "start": 341.742875,
+          "end": 342.42287500000003
+        },
+        {
+          "word": " which",
+          "start": 342.42287500000003,
+          "end": 342.682875
+        },
+        {
+          "word": " it",
+          "start": 342.682875,
+          "end": 342.92287500000003
+        },
+        {
+          "word": " can",
+          "start": 342.92287500000003,
+          "end": 343.042875
+        },
+        {
+          "word": " be",
+          "start": 343.042875,
+          "end": 343.242875
+        },
+        {
+          "word": " entered.",
+          "start": 343.242875,
+          "end": 343.682875
+        }
+      ]
+    },
+    {
+      "start": 344.722875,
+      "end": 347.962875,
+      "text": " As we continue to push forward new developments,",
+      "words": [
+        {
+          "word": " As",
+          "start": 344.722875,
+          "end": 345.042875
+        },
+        {
+          "word": " we",
+          "start": 345.042875,
+          "end": 345.402875
+        },
+        {
+          "word": " continue",
+          "start": 345.402875,
+          "end": 345.682875
+        },
+        {
+          "word": " to",
+          "start": 345.682875,
+          "end": 345.982875
+        },
+        {
+          "word": " push",
+          "start": 345.982875,
+          "end": 346.36287500000003
+        },
+        {
+          "word": " forward",
+          "start": 346.36287500000003,
+          "end": 346.80287500000003
+        },
+        {
+          "word": " new",
+          "start": 346.80287500000003,
+          "end": 347.202875
+        },
+        {
+          "word": " developments,",
+          "start": 347.202875,
+          "end": 347.962875
+        }
+      ]
+    },
+    {
+      "start": 348.582875,
+      "end": 352.222875,
+      "text": " congestion of the space environment is only going to increase.",
+      "words": [
+        {
+          "word": " congestion",
+          "start": 348.582875,
+          "end": 348.92287500000003
+        },
+        {
+          "word": " of",
+          "start": 348.92287500000003,
+          "end": 349.162875
+        },
+        {
+          "word": " the",
+          "start": 349.162875,
+          "end": 349.36287500000003
+        },
+        {
+          "word": " space",
+          "start": 349.36287500000003,
+          "end": 349.662875
+        },
+        {
+          "word": " environment",
+          "start": 349.662875,
+          "end": 350.202875
+        },
+        {
+          "word": " is",
+          "start": 350.202875,
+          "end": 350.682875
+        },
+        {
+          "word": " only",
+          "start": 350.682875,
+          "end": 351.062875
+        },
+        {
+          "word": " going",
+          "start": 351.062875,
+          "end": 351.382875
+        },
+        {
+          "word": " to",
+          "start": 351.382875,
+          "end": 351.702875
+        },
+        {
+          "word": " increase.",
+          "start": 351.702875,
+          "end": 352.222875
+        }
+      ]
+    },
+    {
+      "start": 352.962875,
+      "end": 357.102875,
+      "text": " To cope with this, we need to develop a system like the one I've described",
+      "words": [
+        {
+          "word": " To",
+          "start": 352.962875,
+          "end": 353.102875
+        },
+        {
+          "word": " cope",
+          "start": 353.102875,
+          "end": 353.322875
+        },
+        {
+          "word": " with",
+          "start": 353.322875,
+          "end": 353.542875
+        },
+        {
+          "word": " this,",
+          "start": 353.542875,
+          "end": 354.142875
+        },
+        {
+          "word": " we",
+          "start": 354.162875,
+          "end": 354.282875
+        },
+        {
+          "word": " need",
+          "start": 354.282875,
+          "end": 354.582875
+        },
+        {
+          "word": " to",
+          "start": 354.582875,
+          "end": 354.722875
+        },
+        {
+          "word": " develop",
+          "start": 354.722875,
+          "end": 355.042875
+        },
+        {
+          "word": " a",
+          "start": 355.042875,
+          "end": 355.322875
+        },
+        {
+          "word": " system",
+          "start": 355.322875,
+          "end": 355.562875
+        },
+        {
+          "word": " like",
+          "start": 355.562875,
+          "end": 355.902875
+        },
+        {
+          "word": " the",
+          "start": 355.902875,
+          "end": 356.062875
+        },
+        {
+          "word": " one",
+          "start": 356.062875,
+          "end": 356.202875
+        },
+        {
+          "word": " I've",
+          "start": 356.202875,
+          "end": 356.582875
+        },
+        {
+          "word": " described",
+          "start": 356.582875,
+          "end": 357.102875
+        }
+      ]
+    },
+    {
+      "start": 357.102875,
+      "end": 361.462875,
+      "text": " to coordinate the work of the numerous spacecraft operators.",
+      "words": [
+        {
+          "word": " to",
+          "start": 357.102875,
+          "end": 357.86287500000003
+        },
+        {
+          "word": " coordinate",
+          "start": 357.86287500000003,
+          "end": 358.382875
+        },
+        {
+          "word": " the",
+          "start": 358.382875,
+          "end": 358.762875
+        },
+        {
+          "word": " work",
+          "start": 358.762875,
+          "end": 358.98287500000004
+        },
+        {
+          "word": " of",
+          "start": 358.98287500000004,
+          "end": 359.282875
+        },
+        {
+          "word": " the",
+          "start": 359.282875,
+          "end": 359.442875
+        },
+        {
+          "word": " numerous",
+          "start": 359.442875,
+          "end": 359.842875
+        },
+        {
+          "word": " spacecraft",
+          "start": 359.842875,
+          "end": 360.662875
+        },
+        {
+          "word": " operators.",
+          "start": 360.662875,
+          "end": 361.462875
+        }
+      ]
+    },
+    {
+      "start": 362.222875,
+      "end": 368.222875,
+      "text": " But it's also essential that this system is one that establishes trust in the people that use it,",
+      "words": [
+        {
+          "word": " But",
+          "start": 362.222875,
+          "end": 362.462875
+        },
+        {
+          "word": " it's",
+          "start": 362.462875,
+          "end": 362.962875
+        },
+        {
+          "word": " also",
+          "start": 362.962875,
+          "end": 363.122875
+        },
+        {
+          "word": " essential",
+          "start": 363.122875,
+          "end": 363.642875
+        },
+        {
+          "word": " that",
+          "start": 363.642875,
+          "end": 364.002875
+        },
+        {
+          "word": " this",
+          "start": 364.002875,
+          "end": 364.36287500000003
+        },
+        {
+          "word": " system",
+          "start": 364.36287500000003,
+          "end": 364.562875
+        },
+        {
+          "word": " is",
+          "start": 364.562875,
+          "end": 364.80287500000003
+        },
+        {
+          "word": " one",
+          "start": 364.80287500000003,
+          "end": 365.022875
+        },
+        {
+          "word": " that",
+          "start": 365.022875,
+          "end": 365.30287500000003
+        },
+        {
+          "word": " establishes",
+          "start": 365.30287500000003,
+          "end": 365.782875
+        },
+        {
+          "word": " trust",
+          "start": 365.782875,
+          "end": 366.522875
+        },
+        {
+          "word": " in",
+          "start": 366.522875,
+          "end": 366.782875
+        },
+        {
+          "word": " the",
+          "start": 366.782875,
+          "end": 366.962875
+        },
+        {
+          "word": " people",
+          "start": 366.962875,
+          "end": 367.222875
+        },
+        {
+          "word": " that",
+          "start": 367.222875,
+          "end": 367.48287500000004
+        },
+        {
+          "word": " use",
+          "start": 367.48287500000004,
+          "end": 367.782875
+        },
+        {
+          "word": " it,",
+          "start": 367.782875,
+          "end": 368.222875
+        }
+      ]
+    },
+    {
+      "start": 368.222875,
+      "end": 371.682875,
+      "text": " both nationally and at a global level.",
+      "words": [
+        {
+          "word": " both",
+          "start": 368.222875,
+          "end": 368.782875
+        },
+        {
+          "word": " nationally",
+          "start": 368.782875,
+          "end": 369.402875
+        },
+        {
+          "word": " and",
+          "start": 369.402875,
+          "end": 370.202875
+        },
+        {
+          "word": " at",
+          "start": 370.202875,
+          "end": 370.48287500000004
+        },
+        {
+          "word": " a",
+          "start": 370.48287500000004,
+          "end": 370.582875
+        },
+        {
+          "word": " global",
+          "start": 370.582875,
+          "end": 370.98287500000004
+        },
+        {
+          "word": " level.",
+          "start": 370.98287500000004,
+          "end": 371.682875
+        }
+      ]
+    },
+    {
+      "start": 372.382875,
+      "end": 375.382875,
+      "text": " One interesting development that I'll mention at this.",
+      "words": [
+        {
+          "word": " One",
+          "start": 372.382875,
+          "end": 372.682875
+        },
+        {
+          "word": " interesting",
+          "start": 372.682875,
+          "end": 373.242875
+        },
+        {
+          "word": " development",
+          "start": 373.242875,
+          "end": 373.98287500000004
+        },
+        {
+          "word": " that",
+          "start": 373.98287500000004,
+          "end": 374.142875
+        },
+        {
+          "word": " I'll",
+          "start": 374.142875,
+          "end": 374.382875
+        },
+        {
+          "word": " mention",
+          "start": 374.382875,
+          "end": 374.702875
+        },
+        {
+          "word": " at",
+          "start": 374.702875,
+          "end": 375.222875
+        },
+        {
+          "word": " this.",
+          "start": 375.222875,
+          "end": 375.382875
+        }
+      ]
+    },
+    {
+      "start": 378.242875,
+      "end": 380.262875,
+      "text": " That is the end of Part 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 378.242875,
+          "end": 378.582875
+        },
+        {
+          "word": " is",
+          "start": 378.582875,
+          "end": 378.762875
+        },
+        {
+          "word": " the",
+          "start": 378.762875,
+          "end": 378.942875
+        },
+        {
+          "word": " end",
+          "start": 378.942875,
+          "end": 379.202875
+        },
+        {
+          "word": " of",
+          "start": 379.202875,
+          "end": 379.442875
+        },
+        {
+          "word": " Part",
+          "start": 379.442875,
+          "end": 379.682875
+        },
+        {
+          "word": " 4.",
+          "start": 379.682875,
+          "end": 380.262875
+        }
+      ]
+    },
+    {
+      "start": 380.502875,
+      "end": 384.462875,
+      "text": " You now have one minute to check your answers to Part 4.",
+      "words": [
+        {
+          "word": " You",
+          "start": 380.502875,
+          "end": 380.80287500000003
+        },
+        {
+          "word": " now",
+          "start": 380.80287500000003,
+          "end": 381.082875
+        },
+        {
+          "word": " have",
+          "start": 381.082875,
+          "end": 381.342875
+        },
+        {
+          "word": " one",
+          "start": 381.342875,
+          "end": 381.702875
+        },
+        {
+          "word": " minute",
+          "start": 381.702875,
+          "end": 381.962875
+        },
+        {
+          "word": " to",
+          "start": 381.962875,
+          "end": 382.382875
+        },
+        {
+          "word": " check",
+          "start": 382.382875,
+          "end": 382.682875
+        },
+        {
+          "word": " your",
+          "start": 382.682875,
+          "end": 382.902875
+        },
+        {
+          "word": " answers",
+          "start": 382.902875,
+          "end": 383.282875
+        },
+        {
+          "word": " to",
+          "start": 383.282875,
+          "end": 383.642875
+        },
+        {
+          "word": " Part",
+          "start": 383.642875,
+          "end": 383.86287500000003
+        },
+        {
+          "word": " 4.",
+          "start": 383.86287500000003,
+          "end": 384.462875
+        }
+      ]
+    },
+    {
+      "start": 419.68287499999997,
+      "end": 421.082875,
+      "text": " You",
+      "words": [
+        {
+          "word": " You",
+          "start": 419.68287499999997,
+          "end": 421.082875
+        }
+      ]
+    },
+    {
+      "start": 443.882875,
+      "end": 446.682875,
+      "text": " That is the end of the listening test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 443.882875,
+          "end": 444.60287500000004
+        },
+        {
+          "word": " is",
+          "start": 444.60287500000004,
+          "end": 444.782875
+        },
+        {
+          "word": " the",
+          "start": 444.782875,
+          "end": 445.002875
+        },
+        {
+          "word": " end",
+          "start": 445.002875,
+          "end": 445.282875
+        },
+        {
+          "word": " of",
+          "start": 445.282875,
+          "end": 445.502875
+        },
+        {
+          "word": " the",
+          "start": 445.502875,
+          "end": 445.882875
+        },
+        {
+          "word": " listening",
+          "start": 445.882875,
+          "end": 445.882875
+        },
+        {
+          "word": " test.",
+          "start": 445.882875,
+          "end": 446.682875
+        }
+      ]
+    },
+    {
+      "start": 447.902875,
+      "end": 458.202875,
+      "text": " In the IELTS test, you would now have ten minutes to transfer your answers to the",
+      "words": [
+        {
+          "word": " In",
+          "start": 447.902875,
+          "end": 448.122875
+        },
+        {
+          "word": " the",
+          "start": 448.122875,
+          "end": 448.48287500000004
+        },
+        {
+          "word": " IELTS",
+          "start": 448.48287500000004,
+          "end": 448.86287500000003
+        },
+        {
+          "word": " test,",
+          "start": 448.86287500000003,
+          "end": 449.342875
+        },
+        {
+          "word": " you",
+          "start": 449.562875,
+          "end": 449.782875
+        },
+        {
+          "word": " would",
+          "start": 449.782875,
+          "end": 449.98287500000004
+        },
+        {
+          "word": " now",
+          "start": 449.98287500000004,
+          "end": 450.262875
+        },
+        {
+          "word": " have",
+          "start": 450.262875,
+          "end": 450.522875
+        },
+        {
+          "word": " ten",
+          "start": 450.522875,
+          "end": 450.86287500000003
+        },
+        {
+          "word": " minutes",
+          "start": 450.86287500000003,
+          "end": 451.202875
+        },
+        {
+          "word": " to",
+          "start": 451.202875,
+          "end": 451.60287500000004
+        },
+        {
+          "word": " transfer",
+          "start": 451.60287500000004,
+          "end": 452.062875
+        },
+        {
+          "word": " your",
+          "start": 452.062875,
+          "end": 452.462875
+        },
+        {
+          "word": " answers",
+          "start": 452.462875,
+          "end": 452.822875
+        },
+        {
+          "word": " to",
+          "start": 452.822875,
+          "end": 453.302875
+        },
+        {
+          "word": " the",
+          "start": 453.302875,
+          "end": 458.202875
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 16,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Test 1\n.\nielts-fighter.com\nQuestions 27 and 28\nChoose TWO letters, A-E.\nWhich TWO mistakes did the speaker admit she made in her first job?\nA _ being dishonest to her employer\nB\npaying too much attention to how she looked\nC\nexpecting to become well known\nD\ntrying to earn a lot of money\nE\nopenly disliking her client\nQuestions 29 and 30\nChoose TWO letters, A—-E.\nWhich TWO pieces of retail information do Hugo and Chantal agree would be useful?\nA__ the reasons people return fashion items\nB\nhow much time people have to shop for clothes\nC\nfashion designs people want but can’t find\nD\nthe best time of year for fashion buying\nE\nthe most popular fashion sizes\n14.\n->|@ p.119] |B p. 101\n",
+  "blocks": [
+    {
+      "box": [
+        49.3035774230957,
+        30.229930877685547,
+        77.33463287353516,
+        38.515419006347656
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        48.943721771240234,
+        53.9820442199707,
+        485.61358642578125,
+        73.78517150878906
+      ],
+      "text": ".\nielts-fighter.com\nQuestions 27 and 28\n"
+    },
+    {
+      "box": [
+        48.9437141418457,
+        92.1292724609375,
+        177.34901428222656,
+        101.85578918457031
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        48.223960876464844,
+        116.96105194091797,
+        388.9080505371094,
+        128.1284637451172
+      ],
+      "text": "Which TWO mistakes did the speaker admit she made in her first job?\n"
+    },
+    {
+      "box": [
+        72.33595275878906,
+        136.39456176757812,
+        252.86619567871094,
+        150.08367919921875
+      ],
+      "text": "A _ being dishonest to her employer\n"
+    },
+    {
+      "box": [
+        72.69581604003906,
+        150.42987060546875,
+        313.6321105957031,
+        200.46368408203125
+      ],
+      "text": "B\npaying too much attention to how she looked\nC\nexpecting to become well known\nD\ntrying to earn a lot of money\nE\nopenly disliking her client\n"
+    },
+    {
+      "box": [
+        49.30361557006836,
+        228.88375854492188,
+        159.36935424804688,
+        238.970458984375
+      ],
+      "text": "Questions 29 and 30\n"
+    },
+    {
+      "box": [
+        49.66350555419922,
+        256.59454345703125,
+        177.70887756347656,
+        266.3210144042969
+      ],
+      "text": "Choose TWO letters, A—-E.\n"
+    },
+    {
+      "box": [
+        48.5838623046875,
+        282.5058898925781,
+        463.59765625,
+        294.0335693359375
+      ],
+      "text": "Which TWO pieces of retail information do Hugo and Chantal agree would be useful?\n"
+    },
+    {
+      "box": [
+        72.69584655761719,
+        301.9394226074219,
+        289.7845153808594,
+        315.9888000488281
+      ],
+      "text": "A__ the reasons people return fashion items\n"
+    },
+    {
+      "box": [
+        73.05573272705078,
+        316.33465576171875,
+        326.5911865234375,
+        366.008544921875
+      ],
+      "text": "B\nhow much time people have to shop for clothes\nC\nfashion designs people want but can’t find\nD\nthe best time of year for fashion buying\nE\nthe most popular fashion sizes\n"
+    },
+    {
+      "box": [
+        50.74315643310547,
+        663.9788208007812,
+        203.9009246826172,
+        679.1089477539062
+      ],
+      "text": "14.\n->|@ p.119] |B p. 101\n"
+    }
+  ]
+}

@@ -1,0 +1,1094 @@
+{
+  "id": "cam15-listening-test1",
+  "skill": "listening",
+  "book": 15,
+  "test": 1,
+  "title": "Cambridge 15 · Listening Test 1",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam15-listening-test1-p1",
+      "number": 1,
+      "title": "Bankside Recruitment Agency",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t1-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Name of agent: Becky …"
+            },
+            {
+              "number": 2,
+              "text": "Best to call her in the …"
+            },
+            {
+              "number": 3,
+              "text": "Must have good … skills"
+            },
+            {
+              "number": 4,
+              "text": "Jobs are usually for at least one …"
+            },
+            {
+              "number": 5,
+              "text": "Pay is usually £… per hour"
+            },
+            {
+              "number": 6,
+              "text": "Wear a … to the interview"
+            },
+            {
+              "number": 7,
+              "text": "Must bring your … to the interview"
+            },
+            {
+              "number": 8,
+              "text": "They will ask questions about each applicant’s …"
+            },
+            {
+              "number": 9,
+              "text": "The … you receive at interview will benefit you"
+            },
+            {
+              "number": 10,
+              "text": "Less … is involved in applying for jobs"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-012.webp",
+              "page": 12
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Bankside Recruitment Agency"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Address of agency: 497 Eastside, Docklands"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Name of agent: Becky ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Phone number: 07866 510333"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Best to call her in the ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Typical jobs"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Clerical and admin roles, mainly in the finance industry"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Must have good ",
+                  {
+                    "number": 3
+                  },
+                  " skills"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Jobs are usually for at least one ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Pay is usually £",
+                  {
+                    "number": 5
+                  },
+                  " per hour"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Registration process"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Wear a ",
+                  {
+                    "number": 6
+                  },
+                  " to the interview"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Must bring your ",
+                  {
+                    "number": 7
+                  },
+                  " to the interview"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "They will ask questions about each applicant’s ",
+                  {
+                    "number": 8
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Advantages of using an agency"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The ",
+                  {
+                    "number": 9
+                  },
+                  " you receive at interview will benefit you"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Will get access to vacancies which are not advertised"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Less ",
+                  {
+                    "number": 10
+                  },
+                  " is involved in applying for jobs"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-012.webp",
+          "page": 12
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 12
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c4f0efe14b9a8e3362e2cfee5f028dbc87c05758b078d4124213aea504a27362.m4a",
+        "sha256": "c4f0efe14b9a8e3362e2cfee5f028dbc87c05758b078d4124213aea504a27362",
+        "duration": 460.245,
+        "start": 61.8,
+        "end": 460.245,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio1.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t1-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test1-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t1-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "According to the speaker, the company",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "has been in business for longer than most of its competitors."
+                },
+                {
+                  "value": "B",
+                  "label": "arranges holidays to more destinations than its competitors."
+                },
+                {
+                  "value": "C",
+                  "label": "has more customers than its competitors."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "Where can customers meet the tour manager before travelling to the Isle of Man?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Liverpool"
+                },
+                {
+                  "value": "B",
+                  "label": "Heysham"
+                },
+                {
+                  "value": "C",
+                  "label": "Luton"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "How many lunches are included in the price of the holiday?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "three"
+                },
+                {
+                  "value": "B",
+                  "label": "four"
+                },
+                {
+                  "value": "C",
+                  "label": "five"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "Customers have to pay extra for",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "guaranteeing themselves a larger room."
+                },
+                {
+                  "value": "B",
+                  "label": "booking at short notice."
+                },
+                {
+                  "value": "C",
+                  "label": "transferring to another date."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-013.webp",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t1-p2-g15",
+          "type": "completion",
+          "heading": "Questions 15–20",
+          "instructions": "Complete the table below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "Hotel dining room has view of the …"
+            },
+            {
+              "number": 16,
+              "text": "Tynwald may have been founded in … not 979."
+            },
+            {
+              "number": 17,
+              "text": "Travel along promenade in a tram; train to Laxey; train to the … of Snaefell"
+            },
+            {
+              "number": 18,
+              "text": "Company provides a … for local transport and heritage sites."
+            },
+            {
+              "number": 19,
+              "text": "Take the … railway train from Douglas to Port Erin"
+            },
+            {
+              "number": 20,
+              "text": "Free time, then coach to Castletown – former … has old castle."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-014.webp",
+              "page": 14
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "table",
+            "caption": "Timetable for Isle of Man holiday",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "header": true,
+                    "content": []
+                  },
+                  {
+                    "header": true,
+                    "content": [
+                      "Activity"
+                    ]
+                  },
+                  {
+                    "header": true,
+                    "content": [
+                      "Notes"
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Day 1"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Arrive"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Introduction by manager\nHotel dining room has view of the ",
+                      {
+                        "number": 15
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Day 2"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Tynwald Exhibition and Peel"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Tynwald may have been founded in ",
+                      {
+                        "number": 16
+                      },
+                      " not 979."
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Day 3"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Trip to Snaefell"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Travel along promenade in a tram; train to Laxey; train to the ",
+                      {
+                        "number": 17
+                      },
+                      " of Snaefell"
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Day 4"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Free day"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Company provides a ",
+                      {
+                        "number": 18
+                      },
+                      " for local transport and heritage sites."
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Day 5"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Take the ",
+                      {
+                        "number": 19
+                      },
+                      " railway train from Douglas to Port Erin"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Free time, then coach to Castletown – former ",
+                      {
+                        "number": 20
+                      },
+                      " has old castle."
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "Day 6"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Leave"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "Leave the island by ferry or plane"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-013.webp",
+          "page": 13
+        },
+        {
+          "url": "/library-assets/l-cam15-page-014.webp",
+          "page": 14
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 13
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 14
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/28ec443b3ca6a677424460cfd67fa946397ba616153f23a299a98df1b0349e0b.m4a",
+        "sha256": "28ec443b3ca6a677424460cfd67fa946397ba616153f23a299a98df1b0349e0b",
+        "duration": 418.475,
+        "start": 0,
+        "end": 418.475,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio2.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t1-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test1-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t1-p3-g21",
+          "type": "matching",
+          "heading": "Questions 21–26",
+          "instructions": "What did findings of previous research claim about the personality traits a child is likely to have because of their position in the family? Choose SIX answers from the box and write the correct letter, A-H, next to . Personality Traits",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "the eldest child"
+            },
+            {
+              "number": 22,
+              "text": "a middle child"
+            },
+            {
+              "number": 23,
+              "text": "the youngest child"
+            },
+            {
+              "number": 24,
+              "text": "a twin"
+            },
+            {
+              "number": 25,
+              "text": "an only child"
+            },
+            {
+              "number": 26,
+              "text": "a child with much older siblings"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-015.webp",
+              "page": 15
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "outgoing"
+            },
+            {
+              "value": "B",
+              "label": "selfish"
+            },
+            {
+              "value": "C",
+              "label": "independent"
+            },
+            {
+              "value": "D",
+              "label": "attention-seeking"
+            },
+            {
+              "value": "E",
+              "label": "introverted"
+            },
+            {
+              "value": "F",
+              "label": "co-operative"
+            },
+            {
+              "value": "G",
+              "label": "caring"
+            },
+            {
+              "value": "H",
+              "label": "competitive"
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t1-p3-g27",
+          "type": "choice",
+          "heading": "Questions 27–28",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 27,
+              "text": "What do the speakers say about the evidence relating to birth order and academic success?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "There is conflicting evidence about whether oldest children perform best in intelligence tests."
+                },
+                {
+                  "value": "B",
+                  "label": "There is little doubt that birth order has less influence on academic achievement than socio-economic status."
+                },
+                {
+                  "value": "C",
+                  "label": "Some studies have neglected to include important factors such as family size."
+                }
+              ]
+            },
+            {
+              "number": 28,
+              "text": "What does Ruth think is surprising about the difference in oldest children’s academic performance?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It is mainly thanks to their roles as teachers for their younger siblings."
+                },
+                {
+                  "value": "B",
+                  "label": "The advantages they have only lead to a slightly higher level of achievement."
+                },
+                {
+                  "value": "C",
+                  "label": "The extra parental attention they receive at a young age makes little difference."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-016.webp",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t1-p3-g29",
+          "type": "multi",
+          "heading": "Questions 29–30",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO experiences of sibling rivalry do the speakers agree has been valuable for them?",
+          "questions": [
+            {
+              "number": 29,
+              "text": "Which TWO experiences of sibling rivalry do the speakers agree has been valuable for them?"
+            },
+            {
+              "number": 30,
+              "text": "Which TWO experiences of sibling rivalry do the speakers agree has been valuable for them?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-016.webp",
+              "page": 16
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "learning to share"
+            },
+            {
+              "value": "B",
+              "label": "learning to stand up for oneself"
+            },
+            {
+              "value": "C",
+              "label": "learning to be a good loser"
+            },
+            {
+              "value": "D",
+              "label": "learning to be tolerant"
+            },
+            {
+              "value": "E",
+              "label": "learning to say sorry"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-015.webp",
+          "page": 15
+        },
+        {
+          "url": "/library-assets/l-cam15-page-016.webp",
+          "page": 16
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 15
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 16
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/191e1abede32e56380b0aa32a7730c98c574e3b89e648f84bf31866719b1442e.m4a",
+        "sha256": "191e1abede32e56380b0aa32a7730c98c574e3b89e648f84bf31866719b1442e",
+        "duration": 432.853,
+        "start": 0,
+        "end": 432.853,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio3.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t1-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test1-p4",
+      "number": 4,
+      "title": "The Eucalyptus Tree in Australia",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t1-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "it provides … and food for a wide range of species"
+            },
+            {
+              "number": 32,
+              "text": "its leaves provide … which is used to make a disinfectant"
+            },
+            {
+              "number": 33,
+              "text": "Cause – lime used for making … was absorbed"
+            },
+            {
+              "number": 34,
+              "text": "Cause – … feed on eucalyptus leaves"
+            },
+            {
+              "number": 35,
+              "text": "high-frequency bushfires have impact on vegetation, resulting in the growth of …"
+            },
+            {
+              "number": 36,
+              "text": "– make more … available to the trees"
+            },
+            {
+              "number": 37,
+              "text": "– maintain the quality of the …"
+            },
+            {
+              "number": 38,
+              "text": "low-frequency bushfires result in the growth of … ‘rainforest’, which is:"
+            },
+            {
+              "number": 39,
+              "text": "– a … ecosystem"
+            },
+            {
+              "number": 40,
+              "text": "– an ideal environment for the … of the bell-miner"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-017.webp",
+              "page": 17
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The Eucalyptus Tree in Australia"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Importance"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "it provides ",
+                  {
+                    "number": 31
+                  },
+                  " and food for a wide range of species"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "its leaves provide ",
+                  {
+                    "number": 32
+                  },
+                  " which is used to make a disinfectant"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Reasons for present decline in number"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "A) Diseases"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "(i) ‘Mundulla Yellows’"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cause – lime used for making ",
+                  {
+                    "number": 33
+                  },
+                  " was absorbed"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– trees were unable to take in necessary iron through their roots"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "(ii) ‘Bell-miner Associated Die-back’"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cause – ",
+                  {
+                    "number": 34
+                  },
+                  " feed on eucalyptus leaves"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– they secrete a substance containing sugar"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– bell-miner birds are attracted by this and keep away other species"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "B) Bushfires"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "William Jackson’s theory:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "high-frequency bushfires have impact on vegetation, resulting in the growth of ",
+                  {
+                    "number": 35
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "mid-frequency bushfires result in the growth of eucalyptus forests, because they:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– make more ",
+                  {
+                    "number": 36
+                  },
+                  " available to the trees"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– maintain the quality of the ",
+                  {
+                    "number": 37
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "low-frequency bushfires result in the growth of ",
+                  {
+                    "number": 38
+                  },
+                  " ‘rainforest’, which is:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– a ",
+                  {
+                    "number": 39
+                  },
+                  " ecosystem"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– an ideal environment for the ",
+                  {
+                    "number": 40
+                  },
+                  " of the bell-miner"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-017.webp",
+          "page": 17
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 17
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/61e80747260137fd728607c505fd066499a429d19d9a6792c6d100b005f47247.m4a",
+        "sha256": "61e80747260137fd728607c505fd066499a429d19d9a6792c6d100b005f47247",
+        "duration": 546.645,
+        "start": 0,
+        "end": 469.59,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio4.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t1-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam15/timeline-t1-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

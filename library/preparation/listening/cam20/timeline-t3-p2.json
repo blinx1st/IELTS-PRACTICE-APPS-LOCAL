@@ -1,0 +1,470 @@
+{
+  "audioSha256": "7e8cd0fca97da2e36b1561c017a385520b2a4e43d5a6597cdbe6bb391b67a112",
+  "duration": 525.3621875,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 405.3621875,
+      "end": 408.3621875,
+      "text": " but it's possible the river has moved slightly.",
+      "words": [
+        {
+          "word": " but",
+          "start": 405.3621875,
+          "end": 405.8221875
+        },
+        {
+          "word": " it's",
+          "start": 405.8221875,
+          "end": 406.2021875
+        },
+        {
+          "word": " possible",
+          "start": 406.2021875,
+          "end": 406.5621875
+        },
+        {
+          "word": " the",
+          "start": 406.5621875,
+          "end": 406.9021875
+        },
+        {
+          "word": " river",
+          "start": 406.9021875,
+          "end": 407.0421875
+        },
+        {
+          "word": " has",
+          "start": 407.0421875,
+          "end": 407.3621875
+        },
+        {
+          "word": " moved",
+          "start": 407.3621875,
+          "end": 407.6821875
+        },
+        {
+          "word": " slightly.",
+          "start": 407.6821875,
+          "end": 408.3621875
+        }
+      ]
+    },
+    {
+      "start": 409.2421875,
+      "end": 415.9021875,
+      "text": " Anyway, to get there from here, you turn right at the first information board you come to",
+      "words": [
+        {
+          "word": " Anyway,",
+          "start": 409.2421875,
+          "end": 409.5021875
+        },
+        {
+          "word": " to",
+          "start": 409.9821875,
+          "end": 410.08218750000003
+        },
+        {
+          "word": " get",
+          "start": 410.08218750000003,
+          "end": 410.3421875
+        },
+        {
+          "word": " there",
+          "start": 410.3421875,
+          "end": 410.7621875
+        },
+        {
+          "word": " from",
+          "start": 410.7621875,
+          "end": 411.0021875
+        },
+        {
+          "word": " here,",
+          "start": 411.0021875,
+          "end": 411.7221875
+        },
+        {
+          "word": " you",
+          "start": 411.8421875,
+          "end": 412.1421875
+        },
+        {
+          "word": " turn",
+          "start": 412.1421875,
+          "end": 412.5021875
+        },
+        {
+          "word": " right",
+          "start": 412.5021875,
+          "end": 412.8621875
+        },
+        {
+          "word": " at",
+          "start": 412.8621875,
+          "end": 413.1421875
+        },
+        {
+          "word": " the",
+          "start": 413.1421875,
+          "end": 413.4021875
+        },
+        {
+          "word": " first",
+          "start": 413.4021875,
+          "end": 413.8221875
+        },
+        {
+          "word": " information",
+          "start": 413.8221875,
+          "end": 414.4621875
+        },
+        {
+          "word": " board",
+          "start": 414.4621875,
+          "end": 414.8821875
+        },
+        {
+          "word": " you",
+          "start": 414.8821875,
+          "end": 415.1021875
+        },
+        {
+          "word": " come",
+          "start": 415.1021875,
+          "end": 415.4221875
+        },
+        {
+          "word": " to",
+          "start": 415.4221875,
+          "end": 415.9021875
+        }
+      ]
+    },
+    {
+      "start": 415.9021875,
+      "end": 418.6421875,
+      "text": " and follow the path into the trees.",
+      "words": [
+        {
+          "word": " and",
+          "start": 415.9021875,
+          "end": 416.5621875
+        },
+        {
+          "word": " follow",
+          "start": 416.5621875,
+          "end": 416.8421875
+        },
+        {
+          "word": " the",
+          "start": 416.8421875,
+          "end": 417.1221875
+        },
+        {
+          "word": " path",
+          "start": 417.1221875,
+          "end": 417.5621875
+        },
+        {
+          "word": " into",
+          "start": 417.5621875,
+          "end": 417.9021875
+        },
+        {
+          "word": " the",
+          "start": 417.9021875,
+          "end": 418.2421875
+        },
+        {
+          "word": " trees.",
+          "start": 418.2421875,
+          "end": 418.6421875
+        }
+      ]
+    },
+    {
+      "start": 419.5621875,
+      "end": 423.2621875,
+      "text": " Before you come out of the trees, you'll see it on your right.",
+      "words": [
+        {
+          "word": " Before",
+          "start": 419.5621875,
+          "end": 419.9021875
+        },
+        {
+          "word": " you",
+          "start": 419.9021875,
+          "end": 420.1421875
+        },
+        {
+          "word": " come",
+          "start": 420.1421875,
+          "end": 420.3621875
+        },
+        {
+          "word": " out",
+          "start": 420.3621875,
+          "end": 420.6021875
+        },
+        {
+          "word": " of",
+          "start": 420.6021875,
+          "end": 420.7421875
+        },
+        {
+          "word": " the",
+          "start": 420.7421875,
+          "end": 420.9421875
+        },
+        {
+          "word": " trees,",
+          "start": 420.9421875,
+          "end": 421.4021875
+        },
+        {
+          "word": " you'll",
+          "start": 421.6221875,
+          "end": 421.9821875
+        },
+        {
+          "word": " see",
+          "start": 421.9821875,
+          "end": 422.1821875
+        },
+        {
+          "word": " it",
+          "start": 422.1821875,
+          "end": 422.3821875
+        },
+        {
+          "word": " on",
+          "start": 422.3821875,
+          "end": 422.5421875
+        },
+        {
+          "word": " your",
+          "start": 422.5421875,
+          "end": 422.7821875
+        },
+        {
+          "word": " right.",
+          "start": 422.7821875,
+          "end": 423.2621875
+        }
+      ]
+    },
+    {
+      "start": 423.9221875,
+      "end": 427.0421875,
+      "text": " If you reach the river, you've gone too far.",
+      "words": [
+        {
+          "word": " If",
+          "start": 423.9221875,
+          "end": 424.1821875
+        },
+        {
+          "word": " you",
+          "start": 424.1821875,
+          "end": 424.4621875
+        },
+        {
+          "word": " reach",
+          "start": 424.4621875,
+          "end": 424.7621875
+        },
+        {
+          "word": " the",
+          "start": 424.7621875,
+          "end": 425.02218750000003
+        },
+        {
+          "word": " river,",
+          "start": 425.02218750000003,
+          "end": 425.4021875
+        },
+        {
+          "word": " you've",
+          "start": 425.6421875,
+          "end": 425.9621875
+        },
+        {
+          "word": " gone",
+          "start": 425.9621875,
+          "end": 426.2621875
+        },
+        {
+          "word": " too",
+          "start": 426.2621875,
+          "end": 426.58218750000003
+        },
+        {
+          "word": " far.",
+          "start": 426.58218750000003,
+          "end": 427.0421875
+        }
+      ]
+    },
+    {
+      "start": 428.6421875,
+      "end": 430.7621875,
+      "text": " So, does anyone have it?",
+      "words": [
+        {
+          "word": " So,",
+          "start": 428.6421875,
+          "end": 428.6821875
+        },
+        {
+          "word": " does",
+          "start": 428.8621875,
+          "end": 429.4221875
+        },
+        {
+          "word": " anyone",
+          "start": 429.4221875,
+          "end": 429.7821875
+        },
+        {
+          "word": " have",
+          "start": 429.7821875,
+          "end": 430.08218750000003
+        },
+        {
+          "word": " it?",
+          "start": 430.08218750000003,
+          "end": 430.7621875
+        }
+      ]
+    },
+    {
+      "start": 433.3021875,
+      "end": 441.2221875,
+      "text": " That is the end of part 2. You now have 30 seconds to check your answers to part 2.",
+      "words": [
+        {
+          "word": " That",
+          "start": 433.3021875,
+          "end": 434.02218750000003
+        },
+        {
+          "word": " is",
+          "start": 434.02218750000003,
+          "end": 434.1821875
+        },
+        {
+          "word": " the",
+          "start": 434.1821875,
+          "end": 434.3621875
+        },
+        {
+          "word": " end",
+          "start": 434.3621875,
+          "end": 434.6621875
+        },
+        {
+          "word": " of",
+          "start": 434.6621875,
+          "end": 434.9221875
+        },
+        {
+          "word": " part",
+          "start": 434.9221875,
+          "end": 435.2421875
+        },
+        {
+          "word": " 2.",
+          "start": 435.2421875,
+          "end": 436.0021875
+        },
+        {
+          "word": " You",
+          "start": 436.3621875,
+          "end": 436.6821875
+        },
+        {
+          "word": " now",
+          "start": 436.6821875,
+          "end": 437.0021875
+        },
+        {
+          "word": " have",
+          "start": 437.0021875,
+          "end": 437.4221875
+        },
+        {
+          "word": " 30",
+          "start": 437.4221875,
+          "end": 437.8221875
+        },
+        {
+          "word": " seconds",
+          "start": 437.8221875,
+          "end": 438.2821875
+        },
+        {
+          "word": " to",
+          "start": 438.2821875,
+          "end": 438.7821875
+        },
+        {
+          "word": " check",
+          "start": 438.7821875,
+          "end": 439.08218750000003
+        },
+        {
+          "word": " your",
+          "start": 439.08218750000003,
+          "end": 439.4421875
+        },
+        {
+          "word": " answers",
+          "start": 439.4421875,
+          "end": 439.8421875
+        },
+        {
+          "word": " to",
+          "start": 439.8421875,
+          "end": 440.2621875
+        },
+        {
+          "word": " part",
+          "start": 440.2621875,
+          "end": 440.5021875
+        },
+        {
+          "word": " 2.",
+          "start": 440.5021875,
+          "end": 441.2221875
+        }
+      ]
+    },
+    {
+      "start": 482.2021875,
+      "end": 483.6021875,
+      "text": " You",
+      "words": [
+        {
+          "word": " You",
+          "start": 482.2021875,
+          "end": 483.6021875
+        }
+      ]
+    },
+    {
+      "start": 512.2021875,
+      "end": 513.6021875,
+      "text": " You",
+      "words": [
+        {
+          "word": " You",
+          "start": 512.2021875,
+          "end": 513.6021875
+        }
+      ]
+    }
+  ]
+}

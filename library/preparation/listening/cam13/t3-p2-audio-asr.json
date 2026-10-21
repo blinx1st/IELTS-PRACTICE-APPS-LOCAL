@@ -1,0 +1,157 @@
+{
+  "book": 13,
+  "test": 3,
+  "part": 2,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_02.mp3",
+  "sha256": "d96dffe85a002270e58aa90fe568b3c6d9fef6d7ac5bd78ebeece5d3a0cb1d2a",
+  "duration": 380.817,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      281.38775,
+      381.38775
+    ]
+  ],
+  "text": "You will hear a fitness instructor talking on the radio about different ways of keeping fit. First, you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16. So if you're one of those people who hasn't found a perfect physical activity yet, here There are some things to think about which might help you make the right decision for you. The first question to ask yourself is whether you would enjoy training in a gym? Many people are put off by the idea of having to fit a visit to the gym into their busy day. You often have to go very early or late, as some gyms can get very crowded. But with regular training, you'll see a big difference in a relatively short space of time. Running has become incredibly popular in recent years. That's probably got a lot to do with the fact that it's a very accessible form of exercise. Anyone can run, even if you can only run a few meters to begin with. But make sure you get the right shoes. It's worth investing in a high quality pair and they don't come cheap. Another great thing. That's when they give up hope, and stop believing they'll ever achieve their goals. Also, what people sometimes don't realise when they start is that it takes a lot of determination and hard work to keep training week after week, and lots of people don't have that kind of commitment. One thing you can do to help yourself is to set manageable goals, be realistic, and don't push yourself too far. Some people advise writing goals down, but I think it's better to have a flexible approach. Give yourself a really nice treat every time you reach one of your goals. And don't get too upset if you experience setbacks. It's a journey. There are bound to be difficulties along the way. is the end of section 2. You now have half a minute to check your answers. Now turn to section 3.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "You will hear a fitness instructor talking on the radio about different ways of keeping fit."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "First, you have some time to look at questions 11 to 16."
+    },
+    {
+      "start": 30.0,
+      "end": 53.12,
+      "text": "Now listen carefully and answer questions 11 to 16."
+    },
+    {
+      "start": 53.12,
+      "end": 59.32,
+      "text": "So if you're one of those people who hasn't found a perfect physical activity yet, here"
+    },
+    {
+      "start": 59.32,
+      "end": 65.32,
+      "text": "There are some things to think about which might help you make the right decision for you."
+    },
+    {
+      "start": 65.32,
+      "end": 71.48,
+      "text": "The first question to ask yourself is whether you would enjoy training in a gym?"
+    },
+    {
+      "start": 71.48,
+      "end": 76.56,
+      "text": "Many people are put off by the idea of having to fit a visit to the gym into their busy"
+    },
+    {
+      "start": 76.56,
+      "end": 77.56,
+      "text": "day."
+    },
+    {
+      "start": 77.56,
+      "end": 83.92,
+      "text": "You often have to go very early or late, as some gyms can get very crowded."
+    },
+    {
+      "start": 83.92,
+      "end": 90.8,
+      "text": "But with regular training, you'll see a big difference in a relatively short space of time."
+    },
+    {
+      "start": 90.8,
+      "end": 94.88,
+      "text": "Running has become incredibly popular in recent years."
+    },
+    {
+      "start": 94.88,
+      "end": 100.6,
+      "text": "That's probably got a lot to do with the fact that it's a very accessible form of exercise."
+    },
+    {
+      "start": 100.6,
+      "end": 106.04,
+      "text": "Anyone can run, even if you can only run a few meters to begin with."
+    },
+    {
+      "start": 106.04,
+      "end": 108.92,
+      "text": "But make sure you get the right shoes."
+    },
+    {
+      "start": 108.92,
+      "end": 114.52,
+      "text": "It's worth investing in a high quality pair and they don't come cheap."
+    },
+    {
+      "start": 114.52,
+      "end": 115.92,
+      "text": "Another great thing."
+    },
+    {
+      "start": 281.39,
+      "end": 287.63,
+      "text": "That's when they give up hope, and stop believing they'll ever achieve their goals."
+    },
+    {
+      "start": 287.63,
+      "end": 295.51,
+      "text": "Also, what people sometimes don't realise when they start is that it takes a lot of determination"
+    },
+    {
+      "start": 295.51,
+      "end": 301.95,
+      "text": "and hard work to keep training week after week, and lots of people don't have that kind"
+    },
+    {
+      "start": 301.95,
+      "end": 304.55,
+      "text": "of commitment."
+    },
+    {
+      "start": 304.55,
+      "end": 311.15,
+      "text": "One thing you can do to help yourself is to set manageable goals, be realistic, and don't"
+    },
+    {
+      "start": 311.15,
+      "end": 318.03,
+      "text": "push yourself too far. Some people advise writing goals down, but I think it's better"
+    },
+    {
+      "start": 318.03,
+      "end": 324.11,
+      "text": "to have a flexible approach. Give yourself a really nice treat every time you reach one"
+    },
+    {
+      "start": 324.11,
+      "end": 331.47,
+      "text": "of your goals. And don't get too upset if you experience setbacks. It's a journey. There"
+    },
+    {
+      "start": 331.47,
+      "end": 337.43,
+      "text": "are bound to be difficulties along the way."
+    },
+    {
+      "start": 337.43,
+      "end": 343.59,
+      "text": "is the end of section 2. You now have half a minute to check your answers."
+    },
+    {
+      "start": 367.43,
+      "end": 374.43,
+      "text": "Now turn to section 3."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

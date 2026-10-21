@@ -1,0 +1,172 @@
+{
+  "book": 15,
+  "test": 3,
+  "part": 2,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio2.m4a",
+  "sha256": "dd097156a2bf3f1f9a8c76019e8cbf3fd2edc5e97d14de553b1e652f7dacd173",
+  "duration": 424.533,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      324.5333125,
+      424.5333125
+    ]
+  ],
+  "text": "Part 2 You will hear a woman called Alice Riches, talking on the radio about a scheme which involves closing streets to traffic to allow children to play. First, you have some time to look at questions 11 to 16. You Now listen carefully and answer questions 11 to 16. My guest on the show today is Alice Rich's, who started the street play scheme where she lives in Beachwood Road. For those of you that don't already know, street play involves local residents closing off their street for a few hours so that children have a chance to play in the streets safely. She started it in her own street, beachwood road and the idea caught on and there are now street play schemes all over the city. So when did you actually start the scheme Alice? Well, I first had the idea when my oldest child was still a toddler. So that's about six years ago now but it took at least two years of campaigning before we were actually able to make it happen. Right. Well, this was an experiment I was involved in, where local residents decided to try and reduce the traffic along King Street, which is the busiest main road in our area, by persuading people not to use their cars for one day. We thought about making people pay more for parking, but we decided that would be really unpopular. So, instead, we just stopped people from parking on King Street, but left the other car parks open. It was surprising how much of a difference all this made. As we'd predicted, air quality was significantly better, but what I hadn't expected was how much quieter it would be, even with the buses still running. Of course, everyone said they felt safer, but we were actually amazed that sales in the shops went up considerably that day. We thought there'd be fewer people out shopping. Not more? That's really interesting. So the fact that the street was... That is the end of part two. You now have 30 seconds to check your answers to part two. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "Part 2 You will hear a woman called Alice Riches,"
+    },
+    {
+      "start": 5.84,
+      "end": 11.56,
+      "text": "talking on the radio about a scheme which involves closing streets to traffic to allow children"
+    },
+    {
+      "start": 11.56,
+      "end": 13.04,
+      "text": "to play."
+    },
+    {
+      "start": 13.04,
+      "end": 18.32,
+      "text": "First, you have some time to look at questions 11 to 16."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 71.52,
+      "text": "Now listen carefully and answer questions 11 to 16."
+    },
+    {
+      "start": 71.52,
+      "end": 77.0,
+      "text": "My guest on the show today is Alice Rich's, who started the street play scheme where"
+    },
+    {
+      "start": 77.0,
+      "end": 79.52,
+      "text": "she lives in Beachwood Road."
+    },
+    {
+      "start": 79.52,
+      "end": 84.52,
+      "text": "For those of you that don't already know, street play involves local residents closing"
+    },
+    {
+      "start": 84.52,
+      "end": 89.04,
+      "text": "off their street for a few hours so that children have a chance to play in the streets"
+    },
+    {
+      "start": 89.04,
+      "end": 96.16,
+      "text": "safely. She started it in her own street, beachwood road and the idea caught on and there are"
+    },
+    {
+      "start": 96.16,
+      "end": 101.68,
+      "text": "now street play schemes all over the city. So when did you actually start the scheme Alice?"
+    },
+    {
+      "start": 102.48,
+      "end": 109.28,
+      "text": "Well, I first had the idea when my oldest child was still a toddler. So that's about six years ago"
+    },
+    {
+      "start": 109.28,
+      "end": 114.24,
+      "text": "now but it took at least two years of campaigning before we were actually able to make it happen."
+    },
+    {
+      "start": 324.53,
+      "end": 340.53,
+      "text": "Right. Well, this was an experiment I was involved in, where local residents decided to try and reduce the traffic along King Street, which is the busiest main road in our area, by persuading people not to use their cars for one day."
+    },
+    {
+      "start": 341.17,
+      "end": 347.69,
+      "text": "We thought about making people pay more for parking, but we decided that would be really unpopular."
+    },
+    {
+      "start": 347.69,
+      "end": 352.53,
+      "text": "So, instead, we just stopped people from parking on King Street, but left the other car"
+    },
+    {
+      "start": 352.53,
+      "end": 354.49,
+      "text": "parks open."
+    },
+    {
+      "start": 354.49,
+      "end": 358.73,
+      "text": "It was surprising how much of a difference all this made."
+    },
+    {
+      "start": 358.73,
+      "end": 364.29,
+      "text": "As we'd predicted, air quality was significantly better, but what I hadn't expected"
+    },
+    {
+      "start": 364.29,
+      "end": 369.81,
+      "text": "was how much quieter it would be, even with the buses still running."
+    },
+    {
+      "start": 369.81,
+      "end": 374.49,
+      "text": "Of course, everyone said they felt safer, but we were actually amazed that sales in the"
+    },
+    {
+      "start": 374.49,
+      "end": 377.29,
+      "text": "shops went up considerably that day."
+    },
+    {
+      "start": 377.29,
+      "end": 379.61,
+      "text": "We thought there'd be fewer people out shopping."
+    },
+    {
+      "start": 379.61,
+      "end": 380.61,
+      "text": "Not more?"
+    },
+    {
+      "start": 380.61,
+      "end": 382.17,
+      "text": "That's really interesting."
+    },
+    {
+      "start": 382.17,
+      "end": 383.81,
+      "text": "So the fact that the street was..."
+    },
+    {
+      "start": 387.01,
+      "end": 389.21,
+      "text": "That is the end of part two."
+    },
+    {
+      "start": 390.33,
+      "end": 394.49,
+      "text": "You now have 30 seconds to check your answers to part two."
+    },
+    {
+      "start": 407.29,
+      "end": 409.29,
+      "text": "You"
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

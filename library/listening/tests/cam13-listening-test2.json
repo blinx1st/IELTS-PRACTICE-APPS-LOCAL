@@ -1,0 +1,988 @@
+{
+  "id": "cam13-listening-test2",
+  "skill": "listening",
+  "book": 13,
+  "test": 2,
+  "title": "Cambridge 13 · Listening Test 2",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam13-listening-test2-p1",
+      "number": 1,
+      "title": "South City Cycling Club",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t2-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Full membership costs $260; this covers cycling and … all over Australia"
+            },
+            {
+              "number": 2,
+              "text": "Cost of membership includes the club fee and …"
+            },
+            {
+              "number": 3,
+              "text": "The club kit is made by a company called …"
+            },
+            {
+              "number": 4,
+              "text": "Level B: speed about … kph"
+            },
+            {
+              "number": 5,
+              "text": "– Tuesdays at 5.30 am, meet at the …"
+            },
+            {
+              "number": 6,
+              "text": "– Thursdays at 5.30 am, meet at the entrance to the …"
+            },
+            {
+              "number": 7,
+              "text": "Members often have … together afterwards"
+            },
+            {
+              "number": 8,
+              "text": "There is not always a … with the group on these rides"
+            },
+            {
+              "number": 9,
+              "text": "Check and print the … on the website beforehand"
+            },
+            {
+              "number": 10,
+              "text": "Bikes: must have …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-031.webp",
+              "page": 31
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "South City Cycling Club"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Example: Name of club secretary: Jim Hunter"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Membership"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Full membership costs $260; this covers cycling and ",
+                  {
+                    "number": 1
+                  },
+                  " all over Australia"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Recreational membership costs $108"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cost of membership includes the club fee and ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The club kit is made by a company called ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Training rides"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Chance to improve cycling skills and fitness"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Level B: speed about ",
+                  {
+                    "number": 4
+                  },
+                  " kph"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Weekly sessions"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– Tuesdays at 5.30 am, meet at the ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– Thursdays at 5.30 am, meet at the entrance to the ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Further information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Rides are about an hour and a half"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Members often have ",
+                  {
+                    "number": 7
+                  },
+                  " together afterwards"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "There is not always a ",
+                  {
+                    "number": 8
+                  },
+                  " with the group on these rides"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Check and print the ",
+                  {
+                    "number": 9
+                  },
+                  " on the website beforehand"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Bikes: must have ",
+                  {
+                    "number": 10
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-031.webp",
+          "page": 31
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 31
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/d03f53f824401f5f3c70216496ca5751b1f5cdd5f821f3623a38a7d42d12daf3.mp3",
+        "sha256": "d03f53f824401f5f3c70216496ca5751b1f5cdd5f821f3623a38a7d42d12daf3",
+        "duration": 520.936,
+        "start": 44.84,
+        "end": 520.936,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_05.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t2-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t2-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "How much time for volunteering does the company allow per employee?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "two hours per week"
+                },
+                {
+                  "value": "B",
+                  "label": "one day per month"
+                },
+                {
+                  "value": "C",
+                  "label": "8 hours per year"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "In feedback almost all employees said that volunteering improved their",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "chances of promotion."
+                },
+                {
+                  "value": "B",
+                  "label": "job satisfaction."
+                },
+                {
+                  "value": "C",
+                  "label": "relationships with colleagues."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "Last year some staff helped unemployed people with their",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "literacy skills."
+                },
+                {
+                  "value": "B",
+                  "label": "job applications."
+                },
+                {
+                  "value": "C",
+                  "label": "communication skills."
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "This year the company will start a new volunteering project with a local",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "school."
+                },
+                {
+                  "value": "B",
+                  "label": "park."
+                },
+                {
+                  "value": "C",
+                  "label": "charity."
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "Where will the Digital Inclusion Day be held?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "at the company’s training facility"
+                },
+                {
+                  "value": "B",
+                  "label": "at a college"
+                },
+                {
+                  "value": "C",
+                  "label": "in a community centre"
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "text": "What should staff do if they want to take part in the Digital Inclusion Day?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "fill in a form"
+                },
+                {
+                  "value": "B",
+                  "label": "attend a training workshop"
+                },
+                {
+                  "value": "C",
+                  "label": "get permission from their manager"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-032.webp",
+              "page": 32
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t2-p2-g17",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "What TWO things are mentioned about the participants on the last Digital Inclusion Day?",
+          "questions": [
+            {
+              "number": 17,
+              "text": "What TWO things are mentioned about the participants on the last Digital Inclusion Day?"
+            },
+            {
+              "number": 18,
+              "text": "What TWO things are mentioned about the participants on the last Digital Inclusion Day?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-033.webp",
+              "page": 33
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "They were all over 70."
+            },
+            {
+              "value": "B",
+              "label": "They never used their computer."
+            },
+            {
+              "value": "C",
+              "label": "Their phones were mostly old-fashioned."
+            },
+            {
+              "value": "D",
+              "label": "They only used their phones for making calls."
+            },
+            {
+              "value": "E",
+              "label": "They initially showed little interest."
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t2-p2-g19",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "What TWO activities on the last Digital Inclusion Day did participants describe as useful?",
+          "questions": [
+            {
+              "number": 19,
+              "text": "What TWO activities on the last Digital Inclusion Day did participants describe as useful?"
+            },
+            {
+              "number": 20,
+              "text": "What TWO activities on the last Digital Inclusion Day did participants describe as useful?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-033.webp",
+              "page": 33
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "learning to use tablets"
+            },
+            {
+              "value": "B",
+              "label": "communicating with family"
+            },
+            {
+              "value": "C",
+              "label": "shopping online"
+            },
+            {
+              "value": "D",
+              "label": "playing online games"
+            },
+            {
+              "value": "E",
+              "label": "sending emails"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-032.webp",
+          "page": 32
+        },
+        {
+          "url": "/library-assets/l-cam13-page-033.webp",
+          "page": 33
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 32
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 33
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/266ac1fed6b17c588e38861116ba895b2b0cdccdf0dc1af66449c8b4867a038b.mp3",
+        "sha256": "266ac1fed6b17c588e38861116ba895b2b0cdccdf0dc1af66449c8b4867a038b",
+        "duration": 439.843,
+        "start": 0,
+        "end": 439.843,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_06.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t2-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t2-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–25",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Russ says that his difficulty in planning the presentation is due to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "his lack of knowledge about the topic."
+                },
+                {
+                  "value": "B",
+                  "label": "his uncertainty about what he should try to achieve."
+                },
+                {
+                  "value": "C",
+                  "label": "the short time that he has for preparation."
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Russ and his tutor agree that his approach in the presentation will be",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "to concentrate on how nanotechnology is used in one field."
+                },
+                {
+                  "value": "B",
+                  "label": "to follow the chronological development of nanotechnology."
+                },
+                {
+                  "value": "C",
+                  "label": "to show the range of applications of nanotechnology."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "in connection with slides, the tutor advises Russ to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "talk about things that he can find slides to illustrate."
+                },
+                {
+                  "value": "B",
+                  "label": "look for slides to illustrate the points he makes."
+                },
+                {
+                  "value": "C",
+                  "label": "consider omitting slides altogether."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "They both agree that the best way for Russ to start his presentation is",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "to encourage the audience to talk."
+                },
+                {
+                  "value": "B",
+                  "label": "to explain what Russ intends to do."
+                },
+                {
+                  "value": "C",
+                  "label": "to provide an example."
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "What does the tutor advise Russ to do next while preparing his presentation?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "summarise the main point he wants to make"
+                },
+                {
+                  "value": "B",
+                  "label": "read the notes he has already made"
+                },
+                {
+                  "value": "C",
+                  "label": "list the topics he wants to cover"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-034.webp",
+              "page": 34
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t2-p3-g26",
+          "type": "matching",
+          "heading": "Questions 26–30",
+          "instructions": "What comments do the speakers make about each of the following aspects of Russ’s previous presentation? Choose FIVE answers from the box and write the correct letter, A-G, next to . Comments",
+          "body": "",
+          "questions": [
+            {
+              "number": 26,
+              "text": "structure"
+            },
+            {
+              "number": 27,
+              "text": "eye contact"
+            },
+            {
+              "number": 28,
+              "text": "body language"
+            },
+            {
+              "number": 29,
+              "text": "choice of words"
+            },
+            {
+              "number": 30,
+              "text": "handouts"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-035.webp",
+              "page": 35
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "lacked a conclusion"
+            },
+            {
+              "value": "B",
+              "label": "useful in the future"
+            },
+            {
+              "value": "C",
+              "label": "not enough"
+            },
+            {
+              "value": "D",
+              "label": "sometimes distracting"
+            },
+            {
+              "value": "E",
+              "label": "showed originality"
+            },
+            {
+              "value": "F",
+              "label": "covered a wide range"
+            },
+            {
+              "value": "G",
+              "label": "not too technical"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-034.webp",
+          "page": 34
+        },
+        {
+          "url": "/library-assets/l-cam13-page-035.webp",
+          "page": 35
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 34
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 35
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/1ce49dcba2d7875ffe8a6795579dac56a536b31e47124373f5fa5c5c910da60f.mp3",
+        "sha256": "1ce49dcba2d7875ffe8a6795579dac56a536b31e47124373f5fa5c5c910da60f",
+        "duration": 428.445,
+        "start": 0,
+        "end": 428.445,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_07.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t2-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test2-p4",
+      "number": 4,
+      "title": "Episodic memory",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t2-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "the ability to recall details, e.g. the time and … of past events"
+            },
+            {
+              "number": 32,
+              "text": "different to semantic memory – the ability to remember general information about the …, which does not involve recalling …"
+            },
+            {
+              "number": 33,
+              "text": "different to semantic memory – the ability to remember general information about the …, which does not involve recalling …"
+            },
+            {
+              "number": 34,
+              "text": "the more … given to an event, the more successfully it can be encoded"
+            },
+            {
+              "number": 35,
+              "text": "to remember a …, it is useful to have a strategy for encoding such information"
+            },
+            {
+              "number": 36,
+              "text": "most effective when memories can be added to a … of related information"
+            },
+            {
+              "number": 37,
+              "text": "the … of retrieval affects the strength of memories"
+            },
+            {
+              "number": 38,
+              "text": "memory retrieval often depends on using a prompt, e.g. the … of an object near to the place where you left your car"
+            },
+            {
+              "number": 39,
+              "text": "games which stimulate the … have been found to help people with schizophrenia"
+            },
+            {
+              "number": 40,
+              "text": "children with autism may have difficulty forming episodic memories – possibly because their concept of the … may be absent"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-036.webp",
+              "page": 36
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Episodic memory"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the ability to recall details, e.g. the time and ",
+                  {
+                    "number": 31
+                  },
+                  " of past events"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "different to semantic memory – the ability to remember general information about the ",
+                  {
+                    "number": 32
+                  },
+                  ", which does not involve recalling ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Forming episodic memories involves three steps:"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Encoding"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "involves receiving and processing information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the more ",
+                  {
+                    "number": 34
+                  },
+                  " given to an event, the more successfully it can be encoded"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "to remember a ",
+                  {
+                    "number": 35
+                  },
+                  ", it is useful to have a strategy for encoding such information"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Consolidation"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "how memories are strengthened and stored"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "most effective when memories can be added to a ",
+                  {
+                    "number": 36
+                  },
+                  " of related information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the ",
+                  {
+                    "number": 37
+                  },
+                  " of retrieval affects the strength of memories"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Retrieval"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "memory retrieval often depends on using a prompt, e.g. the ",
+                  {
+                    "number": 38
+                  },
+                  " of an object near to the place where you left your car"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Episodic memory impairments"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "these affect people with a wide range of medical conditions"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "games which stimulate the ",
+                  {
+                    "number": 39
+                  },
+                  " have been found to help people with schizophrenia"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "children with autism may have difficulty forming episodic memories – possibly because their concept of the ",
+                  {
+                    "number": 40
+                  },
+                  " may be absent"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "memory training may help autistic children develop social skills"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-036.webp",
+          "page": 36
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 36
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/4cd8d0cf514a462876eaa5dc65be99191ebf42094c8e15a96f50a734556fdc87.mp3",
+        "sha256": "4cd8d0cf514a462876eaa5dc65be99191ebf42094c8e15a96f50a734556fdc87",
+        "duration": 543.394,
+        "start": 0,
+        "end": 497.21,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_08.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t2-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam13/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

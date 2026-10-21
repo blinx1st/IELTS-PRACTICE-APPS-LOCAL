@@ -1,0 +1,729 @@
+{
+  "audioSha256": "26b9c8b6c0e1ec7b25f3baf532e59b463e9aa455a5516c4d945153c295c1f2f5",
+  "duration": 467.7973125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 337.6,
+      "end": 339.90000000000003,
+      "text": " to be much larger than previously.",
+      "words": [
+        {
+          "word": " to",
+          "start": 337.6,
+          "end": 337.8
+        },
+        {
+          "word": " be",
+          "start": 337.8,
+          "end": 338.0
+        },
+        {
+          "word": " much",
+          "start": 338.0,
+          "end": 338.32000000000005
+        },
+        {
+          "word": " larger",
+          "start": 338.32000000000005,
+          "end": 338.74
+        },
+        {
+          "word": " than",
+          "start": 338.74,
+          "end": 338.98
+        },
+        {
+          "word": " previously.",
+          "start": 338.98,
+          "end": 339.90000000000003
+        }
+      ]
+    },
+    {
+      "start": 341.12,
+      "end": 344.3,
+      "text": " New ways of promoting goods were introduced too.",
+      "words": [
+        {
+          "word": " New",
+          "start": 341.12,
+          "end": 341.42
+        },
+        {
+          "word": " ways",
+          "start": 341.42,
+          "end": 341.66
+        },
+        {
+          "word": " of",
+          "start": 341.66,
+          "end": 341.92
+        },
+        {
+          "word": " promoting",
+          "start": 341.92,
+          "end": 342.24
+        },
+        {
+          "word": " goods",
+          "start": 342.24,
+          "end": 342.62
+        },
+        {
+          "word": " were",
+          "start": 342.62,
+          "end": 342.88
+        },
+        {
+          "word": " introduced",
+          "start": 342.88,
+          "end": 343.36
+        },
+        {
+          "word": " too.",
+          "start": 343.36,
+          "end": 344.3
+        }
+      ]
+    },
+    {
+      "start": 345.48,
+      "end": 348.86,
+      "text": " Previously, the focus had been on informing potential customers",
+      "words": [
+        {
+          "word": " Previously,",
+          "start": 345.48,
+          "end": 345.48
+        },
+        {
+          "word": " the",
+          "start": 346.0,
+          "end": 346.12
+        },
+        {
+          "word": " focus",
+          "start": 346.12,
+          "end": 346.38
+        },
+        {
+          "word": " had",
+          "start": 346.38,
+          "end": 346.66
+        },
+        {
+          "word": " been",
+          "start": 346.66,
+          "end": 346.90000000000003
+        },
+        {
+          "word": " on",
+          "start": 346.90000000000003,
+          "end": 347.12
+        },
+        {
+          "word": " informing",
+          "start": 347.12,
+          "end": 347.8
+        },
+        {
+          "word": " potential",
+          "start": 347.8,
+          "end": 348.36
+        },
+        {
+          "word": " customers",
+          "start": 348.36,
+          "end": 348.86
+        }
+      ]
+    },
+    {
+      "start": 348.86,
+      "end": 351.06,
+      "text": " about the availability of goods.",
+      "words": [
+        {
+          "word": " about",
+          "start": 348.86,
+          "end": 349.5
+        },
+        {
+          "word": " the",
+          "start": 349.5,
+          "end": 349.88
+        },
+        {
+          "word": " availability",
+          "start": 349.88,
+          "end": 350.22
+        },
+        {
+          "word": " of",
+          "start": 350.22,
+          "end": 350.6
+        },
+        {
+          "word": " goods.",
+          "start": 350.6,
+          "end": 351.06
+        }
+      ]
+    },
+    {
+      "start": 351.78000000000003,
+      "end": 354.72,
+      "text": " Now there was an explosion in advertising",
+      "words": [
+        {
+          "word": " Now",
+          "start": 351.78000000000003,
+          "end": 352.32000000000005
+        },
+        {
+          "word": " there",
+          "start": 352.32000000000005,
+          "end": 352.70000000000005
+        },
+        {
+          "word": " was",
+          "start": 352.70000000000005,
+          "end": 352.8
+        },
+        {
+          "word": " an",
+          "start": 352.8,
+          "end": 353.16
+        },
+        {
+          "word": " explosion",
+          "start": 353.16,
+          "end": 353.56
+        },
+        {
+          "word": " in",
+          "start": 353.56,
+          "end": 354.1
+        },
+        {
+          "word": " advertising",
+          "start": 354.1,
+          "end": 354.72
+        }
+      ]
+    },
+    {
+      "start": 354.72,
+      "end": 357.54,
+      "text": " trying to persuade people to go shopping.",
+      "words": [
+        {
+          "word": " trying",
+          "start": 354.72,
+          "end": 355.48
+        },
+        {
+          "word": " to",
+          "start": 355.48,
+          "end": 355.76000000000005
+        },
+        {
+          "word": " persuade",
+          "start": 355.76000000000005,
+          "end": 356.02000000000004
+        },
+        {
+          "word": " people",
+          "start": 356.02000000000004,
+          "end": 356.52000000000004
+        },
+        {
+          "word": " to",
+          "start": 356.52000000000004,
+          "end": 356.64000000000004
+        },
+        {
+          "word": " go",
+          "start": 356.64000000000004,
+          "end": 356.92
+        },
+        {
+          "word": " shopping.",
+          "start": 356.92,
+          "end": 357.54
+        }
+      ]
+    },
+    {
+      "start": 359.06,
+      "end": 362.78000000000003,
+      "text": " Flanders claims that one of the great effects of the industrial revolution",
+      "words": [
+        {
+          "word": " Flanders",
+          "start": 359.06,
+          "end": 359.52000000000004
+        },
+        {
+          "word": " claims",
+          "start": 359.52000000000004,
+          "end": 360.16
+        },
+        {
+          "word": " that",
+          "start": 360.16,
+          "end": 360.3
+        },
+        {
+          "word": " one",
+          "start": 360.3,
+          "end": 360.5
+        },
+        {
+          "word": " of",
+          "start": 360.5,
+          "end": 360.66
+        },
+        {
+          "word": " the",
+          "start": 360.66,
+          "end": 360.72
+        },
+        {
+          "word": " great",
+          "start": 360.72,
+          "end": 361.02000000000004
+        },
+        {
+          "word": " effects",
+          "start": 361.02000000000004,
+          "end": 361.38
+        },
+        {
+          "word": " of",
+          "start": 361.38,
+          "end": 361.58000000000004
+        },
+        {
+          "word": " the",
+          "start": 361.58000000000004,
+          "end": 362.06
+        },
+        {
+          "word": " industrial",
+          "start": 362.06,
+          "end": 362.18
+        },
+        {
+          "word": " revolution",
+          "start": 362.18,
+          "end": 362.78000000000003
+        }
+      ]
+    },
+    {
+      "start": 362.78000000000003,
+      "end": 365.16,
+      "text": " was that it created choice.",
+      "words": [
+        {
+          "word": " was",
+          "start": 362.78000000000003,
+          "end": 363.28000000000003
+        },
+        {
+          "word": " that",
+          "start": 363.28000000000003,
+          "end": 363.48
+        },
+        {
+          "word": " it",
+          "start": 363.48,
+          "end": 363.54
+        },
+        {
+          "word": " created",
+          "start": 363.54,
+          "end": 364.04
+        },
+        {
+          "word": " choice.",
+          "start": 364.04,
+          "end": 365.16
+        }
+      ]
+    },
+    {
+      "start": 365.16,
+      "end": 373.08000000000004,
+      "text": " All sorts of things had a previously been luxuries from sugar to cutlery became conveniences.",
+      "words": [
+        {
+          "word": " All",
+          "start": 365.16,
+          "end": 366.14000000000004
+        },
+        {
+          "word": " sorts",
+          "start": 366.14000000000004,
+          "end": 366.46000000000004
+        },
+        {
+          "word": " of",
+          "start": 366.46000000000004,
+          "end": 366.62
+        },
+        {
+          "word": " things",
+          "start": 366.62,
+          "end": 366.90000000000003
+        },
+        {
+          "word": " had",
+          "start": 366.90000000000003,
+          "end": 367.06
+        },
+        {
+          "word": " a",
+          "start": 367.06,
+          "end": 367.40000000000003
+        },
+        {
+          "word": " previously",
+          "start": 367.40000000000003,
+          "end": 367.76000000000005
+        },
+        {
+          "word": " been",
+          "start": 367.76000000000005,
+          "end": 368.28000000000003
+        },
+        {
+          "word": " luxuries",
+          "start": 368.28000000000003,
+          "end": 368.92
+        },
+        {
+          "word": " from",
+          "start": 368.92,
+          "end": 369.70000000000005
+        },
+        {
+          "word": " sugar",
+          "start": 369.70000000000005,
+          "end": 370.22
+        },
+        {
+          "word": " to",
+          "start": 370.22,
+          "end": 370.76
+        },
+        {
+          "word": " cutlery",
+          "start": 370.76,
+          "end": 371.52000000000004
+        },
+        {
+          "word": " became",
+          "start": 371.52000000000004,
+          "end": 372.06
+        },
+        {
+          "word": " conveniences.",
+          "start": 372.06,
+          "end": 373.08000000000004
+        }
+      ]
+    },
+    {
+      "start": 373.94000000000005,
+      "end": 377.20000000000005,
+      "text": " And before long, they turned into necessities.",
+      "words": [
+        {
+          "word": " And",
+          "start": 373.94000000000005,
+          "end": 374.06
+        },
+        {
+          "word": " before",
+          "start": 374.06,
+          "end": 374.40000000000003
+        },
+        {
+          "word": " long,",
+          "start": 374.40000000000003,
+          "end": 374.90000000000003
+        },
+        {
+          "word": " they",
+          "start": 375.18,
+          "end": 375.36
+        },
+        {
+          "word": " turned",
+          "start": 375.36,
+          "end": 375.76
+        },
+        {
+          "word": " into",
+          "start": 375.76,
+          "end": 376.40000000000003
+        },
+        {
+          "word": " necessities.",
+          "start": 376.40000000000003,
+          "end": 377.20000000000005
+        }
+      ]
+    },
+    {
+      "start": 378.28000000000003,
+      "end": 381.20000000000005,
+      "text": " Life without sugar or cutlery was unimaginable.",
+      "words": [
+        {
+          "word": " Life",
+          "start": 378.28000000000003,
+          "end": 378.32000000000005
+        },
+        {
+          "word": " without",
+          "start": 378.32000000000005,
+          "end": 378.72
+        },
+        {
+          "word": " sugar",
+          "start": 378.72,
+          "end": 379.16
+        },
+        {
+          "word": " or",
+          "start": 379.16,
+          "end": 379.6
+        },
+        {
+          "word": " cutlery",
+          "start": 379.6,
+          "end": 380.24
+        },
+        {
+          "word": " was",
+          "start": 380.24,
+          "end": 380.64000000000004
+        },
+        {
+          "word": " unimaginable.",
+          "start": 380.64000000000004,
+          "end": 381.20000000000005
+        }
+      ]
+    },
+    {
+      "start": 382.22,
+      "end": 384.16,
+      "text": " Rather like mobile phones these days.",
+      "words": [
+        {
+          "word": " Rather",
+          "start": 382.22,
+          "end": 382.36
+        },
+        {
+          "word": " like",
+          "start": 382.36,
+          "end": 382.72
+        },
+        {
+          "word": " mobile",
+          "start": 382.72,
+          "end": 383.06
+        },
+        {
+          "word": " phones",
+          "start": 383.06,
+          "end": 383.6
+        },
+        {
+          "word": " these",
+          "start": 383.6,
+          "end": 383.96000000000004
+        },
+        {
+          "word": " days.",
+          "start": 383.96000000000004,
+          "end": 384.36
+        }
+      ]
+    },
+    {
+      "start": 387.54,
+      "end": 389.74,
+      "text": " That is the end of Part 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 387.54,
+          "end": 387.98
+        },
+        {
+          "word": " is",
+          "start": 387.98,
+          "end": 388.20000000000005
+        },
+        {
+          "word": " the",
+          "start": 388.20000000000005,
+          "end": 388.40000000000003
+        },
+        {
+          "word": " end",
+          "start": 388.40000000000003,
+          "end": 388.68
+        },
+        {
+          "word": " of",
+          "start": 388.68,
+          "end": 388.88
+        },
+        {
+          "word": " Part",
+          "start": 388.88,
+          "end": 389.18
+        },
+        {
+          "word": " 4.",
+          "start": 389.18,
+          "end": 389.74
+        }
+      ]
+    },
+    {
+      "start": 390.74,
+      "end": 394.86,
+      "text": " You now have one minute to check your answers to Part 4.",
+      "words": [
+        {
+          "word": " You",
+          "start": 390.74,
+          "end": 391.14000000000004
+        },
+        {
+          "word": " now",
+          "start": 391.14000000000004,
+          "end": 391.46000000000004
+        },
+        {
+          "word": " have",
+          "start": 391.46000000000004,
+          "end": 391.74
+        },
+        {
+          "word": " one",
+          "start": 391.74,
+          "end": 391.98
+        },
+        {
+          "word": " minute",
+          "start": 391.98,
+          "end": 392.3
+        },
+        {
+          "word": " to",
+          "start": 392.3,
+          "end": 392.78000000000003
+        },
+        {
+          "word": " check",
+          "start": 392.78000000000003,
+          "end": 393.06
+        },
+        {
+          "word": " your",
+          "start": 393.06,
+          "end": 393.26
+        },
+        {
+          "word": " answers",
+          "start": 393.26,
+          "end": 393.70000000000005
+        },
+        {
+          "word": " to",
+          "start": 393.70000000000005,
+          "end": 394.08000000000004
+        },
+        {
+          "word": " Part",
+          "start": 394.08000000000004,
+          "end": 394.40000000000003
+        },
+        {
+          "word": " 4.",
+          "start": 394.40000000000003,
+          "end": 394.86
+        }
+      ]
+    },
+    {
+      "start": 416.62,
+      "end": 418.02000000000004,
+      "text": " You",
+      "words": [
+        {
+          "word": " You",
+          "start": 416.62,
+          "end": 418.02000000000004
+        }
+      ]
+    },
+    {
+      "start": 455.16,
+      "end": 457.38,
+      "text": " That is the end of the listening test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 455.16,
+          "end": 455.40000000000003
+        },
+        {
+          "word": " is",
+          "start": 455.40000000000003,
+          "end": 455.62
+        },
+        {
+          "word": " the",
+          "start": 455.62,
+          "end": 455.84000000000003
+        },
+        {
+          "word": " end",
+          "start": 455.84000000000003,
+          "end": 456.22
+        },
+        {
+          "word": " of",
+          "start": 456.22,
+          "end": 456.5
+        },
+        {
+          "word": " the",
+          "start": 456.5,
+          "end": 456.70000000000005
+        },
+        {
+          "word": " listening",
+          "start": 456.70000000000005,
+          "end": 456.92
+        },
+        {
+          "word": " test.",
+          "start": 456.92,
+          "end": 457.38
+        }
+      ]
+    }
+  ]
+}

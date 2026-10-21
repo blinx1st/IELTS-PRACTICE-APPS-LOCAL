@@ -1,0 +1,111 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 37,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 2\nREADING PASSAGE\n1\nYou should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\nee\nBringing cinnamon to Europe\nCinnamon is a sweet, fragrant spice produced from the inner bark of trees of the genus\nCinnamomum, which is native to the Indian sub-continent. It was known in biblical times,\nand is mentioned in several books of the Bible, both as an ingredient that was mixed\nwith oils for anointing people's bodies, and also as a token indicating friendship among\nlovers and friends. In ancient Rome, mourners attending funerals burnt cinnamon to\ncreate a pleasant scent. Most often, however, the spice found its primary use as an\nadditive to food and drink. In the Middle Ages, Europeans who could afford the spice\nused it to flavour food, particularly meat, and to impress those around them with their\nability to purchase an expensive condiment from the ‘exotic’ East. At a banquet, a host\nwould offer guests a plate with various spices piled upon it as a sign of the wealth at his\nor her disposal. Cinnamon was also reported to have health benefits, and was thought\nto cure various ailments, such as indigestion.\nToward the end of the Middle Ages, the European middle classes began to desire\nthe lifestyle of the elite, including their consumption of spices. This led to a growth in\ndemand for cinnamon and other spices. At that time, cinnamon was transported by Arab\nmerchants, who closely guarded the secret of the source of the spice from potential\nrivals. They took it from India, where it was grown, on camels via an overland route\nto the Mediterranean. Their journey ended when they reached Alexandria. European\ntraders sailed there to purchase their supply of cinnamon, then brought it back to Venice.\nThe spice then travelled from that great trading city to markets all around Europe.\nBecause the overland trade route allowed for only small quantities of the spice to reach\nEurope, and because Venice had a virtual monopoly of the trade, the Venetians could\nset the price of cinnamon exorbitantly high. These prices, coupled with the increasing\ndemand, spurred the search for new routes to Asia by Europeans eager to take part in\nthe spice trade\nSeeking the high profits promised by the cinnamon market, Portuguese traders arrived\non the island of Ceylon in the Indian Ocean toward the end of the 15th century. Before\nEuropeans arrived on the island, the state had organized the cultivation of cinnamon.\nPeople belonging to the ethnic group called the Salagama would peel the bark off\nyoung shoots of the cinnamon plant in the rainy season, when the wet bark was\nmore pliable. During the peeling process, they curled the bark into the ‘stick’ shape\nstill associated with the spice today. The Salagama then gave the finished product to\nthe king as a form of tribute. When the Portuguese arrived, they needed to increase\n38\n",
+  "blocks": [
+    {
+      "box": [
+        106.19999694824219,
+        59.03997802734375,
+        137.51998901367188,
+        68.04898071289062
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        105.12000274658203,
+        145.44000244140625,
+        278.6256103515625,
+        156.97154235839844
+      ],
+      "text": "READING PASSAGE\n1\n"
+    },
+    {
+      "box": [
+        104.39999389648438,
+        175.67999267578125,
+        571.435302734375,
+        207.37725830078125
+      ],
+      "text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\nee\n"
+    },
+    {
+      "box": [
+        227.16000366210938,
+        221.4000244140625,
+        460.28155517578125,
+        237.97657775878906
+      ],
+      "text": "Bringing cinnamon to Europe\n"
+    },
+    {
+      "box": [
+        102.60000610351562,
+        252.3599853515625,
+        579.99609375,
+        423.73223876953125
+      ],
+      "text": "Cinnamon is a sweet, fragrant spice produced from the inner bark of trees of the genus\nCinnamomum, which is native to the Indian sub-continent. It was known in biblical times,\nand is mentioned in several books of the Bible, both as an ingredient that was mixed\nwith oils for anointing people's bodies, and also as a token indicating friendship among\nlovers and friends. In ancient Rome, mourners attending funerals burnt cinnamon to\ncreate a pleasant scent. Most often, however, the spice found its primary use as an\nadditive to food and drink. In the Middle Ages, Europeans who could afford the spice\nused it to flavour food, particularly meat, and to impress those around them with their\nability to purchase an expensive condiment from the ‘exotic’ East. At a banquet, a host\nwould offer guests a plate with various spices piled upon it as a sign of the wealth at his\nor her disposal. Cinnamon was also reported to have health benefits, and was thought\nto cure various ailments, such as indigestion.\n"
+    },
+    {
+      "box": [
+        101.88018798828125,
+        439.9200134277344,
+        580.4498901367188,
+        554.0532836914062
+      ],
+      "text": "Toward the end of the Middle Ages, the European middle classes began to desire\nthe lifestyle of the elite, including their consumption of spices. This led to a growth in\ndemand for cinnamon and other spices. At that time, cinnamon was transported by Arab\nmerchants, who closely guarded the secret of the source of the spice from potential\nrivals. They took it from India, where it was grown, on camels via an overland route\nto the Mediterranean. Their journey ended when they reached Alexandria. European\ntraders sailed there to purchase their supply of cinnamon, then brought it back to Venice.\nThe spice then travelled from that great trading city to markets all around Europe.\n"
+    },
+    {
+      "box": [
+        101.52020263671875,
+        555.1199951171875,
+        571.8511352539062,
+        624.6115112304688
+      ],
+      "text": "Because the overland trade route allowed for only small quantities of the spice to reach\nEurope, and because Venice had a virtual monopoly of the trade, the Venetians could\nset the price of cinnamon exorbitantly high. These prices, coupled with the increasing\ndemand, spurred the search for new routes to Asia by Europeans eager to take part in\nthe spice trade\n"
+    },
+    {
+      "box": [
+        101.16024780273438,
+        641.52001953125,
+        568.0083618164062,
+        668.8929443359375
+      ],
+      "text": "Seeking the high profits promised by the cinnamon market, Portuguese traders arrived\non the island of Ceylon in the Indian Ocean toward the end of the 15th century. Before\n"
+    },
+    {
+      "box": [
+        101.16024780273438,
+        670.3200073242188,
+        559.359375,
+        726.4925537109375
+      ],
+      "text": "Europeans arrived on the island, the state had organized the cultivation of cinnamon.\nPeople belonging to the ethnic group called the Salagama would peel the bark off\nyoung shoots of the cinnamon plant in the rainy season, when the wet bark was\nmore pliable. During the peeling process, they curled the bark into the ‘stick’ shape\n"
+    },
+    {
+      "box": [
+        100.80023193359375,
+        727.9199829101562,
+        557.2514038085938,
+        754.9325561523438
+      ],
+      "text": "still associated with the spice today. The Salagama then gave the finished product to\nthe king as a form of tribute. When the Portuguese arrived, they needed to increase\n"
+    },
+    {
+      "box": [
+        101.16024780273438,
+        764.6400146484375,
+        113.67024230957031,
+        773.6489868164062
+      ],
+      "text": "38\n"
+    }
+  ]
+}

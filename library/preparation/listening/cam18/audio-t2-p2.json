@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/34d1cfe240f4e2a06888de1419b82c0a81757e4c52a9b2e2648cb20d6addf31b.mp3",
+    "sha256": "34d1cfe240f4e2a06888de1419b82c0a81757e4c52a9b2e2648cb20d6addf31b",
+    "duration": 437.219,
+    "start": 0,
+    "end": 437.219,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2-part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a talk to members of the public about plans for a new housing development near a town called Nunsston. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Hello everyone. It's good to see that so many members of the public have shown up for our presentation on the new housing development planned on the outskirts of Nungsten. I'm Mark Reynolds, and I'm Communications Manager at the development. I'll start by giving you a brief overview of our plans for the development. So one thing I'm sure you'll want to know is why we've selected this particular site for a housing development. A present is being used for farming, like much of the land around Nuntstone. But because of the new industrial centre in Nunsden, there's a lot of demand for housing for employees in the region. As many employees are having to commute long distances at present. Of course, there's also the fact that we have..."
+    },
+    {
+      "name": "ending",
+      "start": 372.219,
+      "end": 437.219,
+      "text": "It's planned to have a playground for younger children. If you look at the road that goes up from the south entrance, you'll see it curves round to the left at the top, and the playground will be in that curve with nice views of the lake. OK, so now does anyone have any questions? That is the end of part 2. You now have 30 seconds to check your answers to part 2."
+    }
+  ]
+}

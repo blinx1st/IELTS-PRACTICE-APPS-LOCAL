@@ -1,0 +1,53 @@
+{
+  "testId": "cam20-test4",
+  "reportFile": "cam20-test4-review.json",
+  "status": "verified",
+  "beforeContentSha256": "3b8f990598afb069c9f34da95d647d3d8a96ea01a6692dbcfa6a8484424eb399",
+  "reviewDate": "2026-10-21",
+  "method": "Visual review of all13 source80-page PDFpages68–80; alternate144-page source68/71/75 visually inspected.",
+  "coverage": {
+    "passages": 3,
+    "questions": 40,
+    "questionGroups": 8,
+    "wordLimits": [
+      {
+        "questions": "1-7",
+        "wordLimit": 1
+      },
+      {
+        "questions": "18-22",
+        "wordLimit": 1
+      },
+      {
+        "questions": "37-40",
+        "wordLimit": 1
+      }
+    ]
+  },
+  "corrections": [
+    "Restored corrupted summer retreat wording from the original Metropolitan Museum of Art essay; separated paragraph beginning O’Keeffe eventually owned.",
+    "Separated missing sectionD from sectionC, retained its page continuation, assigned allA–F labels in climate-change passage.",
+    "Restored omitted final ten words of Susanna Tol quotation from original Geographical article; this clause supplies evidence for question23.",
+    "Restored guard dogs in various parts of the world from alternate supplied PDF75; assigned A–G section labels.",
+    "Corrected installation or a -> installation of a as grammatical typo; normalized notes bullet continuation around blanks5/6.",
+    "Removed first question duplication from TFNG instructions. All matching options verified against sourceimages."
+  ],
+  "externalCorrections": [
+    {
+      "location": "Georgia O’Keeffe corrupted summer retreat",
+      "source": "https://www.metmuseum.org/essays/georgia-okeeffe-1887-1986",
+      "replacementWords": 2
+    },
+    {
+      "location": "Climate change paragraphC omitted end of quotation",
+      "source": "https://geographical.co.uk/climate-change/adapting-to-climate-change",
+      "insertedWords": 10
+    }
+  ],
+  "sourceLimitations": [
+    "Retyped source fidelity plus documented brief editorial repairs, not publisher certification. Sourceimages retain original textual omissions."
+  ],
+  "unresolvedContentIssues": [],
+  "contentSha256": "af9ad30786534d63cd5ad5c82c1f8956d7e130676f14d39ec906b29a1aa57427",
+  "encodingCheck": "UTF-8 JSON round-trip; replacement-mark and mojibake checks passed"
+}

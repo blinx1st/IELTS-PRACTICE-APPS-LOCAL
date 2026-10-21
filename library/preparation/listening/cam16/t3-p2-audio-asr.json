@@ -1,0 +1,187 @@
+{
+  "book": 16,
+  "test": 3,
+  "part": 2,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 2.mp3",
+  "sha256": "57b9e975b3d33992d1200c2e4eaec6c5db2caaf114567b07d1dfecda7d88e327",
+  "duration": 408.002,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      308.450625,
+      408.450625
+    ]
+  ],
+  "text": "Part 2. You will hear a recruitment officer called Meghan Baker giving a talk at a job fair about opportunities for those interested in the food and agriculture sectors. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Hello everyone, my name's Megan Baker and I'm a recruitment consultant at AVT Recruitment Specialists. Now, our company specializes in positions that involve working in the agriculture and horticulture sectors, so that's fresh food production, garden and park maintenance and so on. And these sectors do provide some very special career opportunities. For a start, they often offer opportunities for those who don't want to be stuck with the 40 hour week, but need to juggle work with other responsibilities, such as childcare, and this is very important for many of our recruits. Some people like working in a rural setting, surrounded by plants and trees instead of buildings, although we can't guarantee that. But there are certainly health benefits, especially in jobs where you're not sitting all day looking at a screen, a big plus for many people. Salaries can sometimes be good too, although there's a lot of variety here. And you may have the opportunity. This post is only suitable for someone who is prepared to live in the region. There is also a vacancy for a tree technician to carry out tree cutting, forestry and conservation work. Candidates must have a clean driving licence and have training in safety procedures. A year's experience would be preferred, but the company might be prepared to consider someone who has just completed an appropriate training course. Finally, we have a position for a farm worker. This will involve a wide range of farm duties, including crop sewing and harvesting, machine maintenance and animal care. Pooks of the job include the possibility of renting a small cottage on the estate and the chance to earn a competitive salary. a driving license and track to driving experience are essential. That is the end of part two. You now have half a minute to check your answers to part two. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.44,
+      "text": "Part 2. You will hear a recruitment officer called Meghan Baker giving a talk at a job"
+    },
+    {
+      "start": 6.44,
+      "end": 12.24,
+      "text": "fair about opportunities for those interested in the food and agriculture sectors."
+    },
+    {
+      "start": 12.24,
+      "end": 16.88,
+      "text": "First, you have some time to look at questions 11 to 14."
+    },
+    {
+      "start": 30.0,
+      "end": 45.0,
+      "text": "Now listen carefully and answer questions 11 to 14."
+    },
+    {
+      "start": 45.0,
+      "end": 51.76,
+      "text": "Hello everyone, my name's Megan Baker and I'm a recruitment consultant at AVT Recruitment"
+    },
+    {
+      "start": 51.76,
+      "end": 53.0,
+      "text": "Specialists."
+    },
+    {
+      "start": 53.0,
+      "end": 59.36,
+      "text": "Now, our company specializes in positions that involve working in the agriculture and"
+    },
+    {
+      "start": 59.36,
+      "end": 66.96,
+      "text": "horticulture sectors, so that's fresh food production, garden and park maintenance and so on."
+    },
+    {
+      "start": 66.96,
+      "end": 71.84,
+      "text": "And these sectors do provide some very special career opportunities."
+    },
+    {
+      "start": 71.84,
+      "end": 76.72,
+      "text": "For a start, they often offer opportunities for those who don't want to be stuck with"
+    },
+    {
+      "start": 76.72,
+      "end": 83.4,
+      "text": "the 40 hour week, but need to juggle work with other responsibilities, such as childcare,"
+    },
+    {
+      "start": 83.4,
+      "end": 87.96,
+      "text": "and this is very important for many of our recruits."
+    },
+    {
+      "start": 87.96,
+      "end": 93.36,
+      "text": "Some people like working in a rural setting, surrounded by plants and trees instead of"
+    },
+    {
+      "start": 93.36,
+      "end": 100.4,
+      "text": "buildings, although we can't guarantee that. But there are certainly health benefits,"
+    },
+    {
+      "start": 100.4,
+      "end": 105.24,
+      "text": "especially in jobs where you're not sitting all day looking at a screen, a big plus"
+    },
+    {
+      "start": 105.24,
+      "end": 107.28,
+      "text": "for many people."
+    },
+    {
+      "start": 107.28,
+      "end": 113.2,
+      "text": "Salaries can sometimes be good too, although there's a lot of variety here."
+    },
+    {
+      "start": 113.2,
+      "end": 115.0,
+      "text": "And you may have the opportunity."
+    },
+    {
+      "start": 308.45,
+      "end": 315.69,
+      "text": "This post is only suitable for someone who is prepared to live in the region."
+    },
+    {
+      "start": 315.69,
+      "end": 321.53,
+      "text": "There is also a vacancy for a tree technician to carry out tree cutting, forestry and"
+    },
+    {
+      "start": 321.53,
+      "end": 323.33,
+      "text": "conservation work."
+    },
+    {
+      "start": 323.33,
+      "end": 330.01,
+      "text": "Candidates must have a clean driving licence and have training in safety procedures."
+    },
+    {
+      "start": 330.01,
+      "end": 335.49,
+      "text": "A year's experience would be preferred, but the company might be prepared to consider"
+    },
+    {
+      "start": 335.49,
+      "end": 339.97,
+      "text": "someone who has just completed an appropriate training course."
+    },
+    {
+      "start": 339.97,
+      "end": 344.69,
+      "text": "Finally, we have a position for a farm worker."
+    },
+    {
+      "start": 344.69,
+      "end": 351.33,
+      "text": "This will involve a wide range of farm duties, including crop sewing and harvesting, machine"
+    },
+    {
+      "start": 351.33,
+      "end": 354.61,
+      "text": "maintenance and animal care."
+    },
+    {
+      "start": 354.61,
+      "end": 360.17,
+      "text": "Pooks of the job include the possibility of renting a small cottage on the estate and"
+    },
+    {
+      "start": 360.17,
+      "end": 362.81,
+      "text": "the chance to earn a competitive salary."
+    },
+    {
+      "start": 362.81,
+      "end": 367.81,
+      "text": "a driving license and track to driving experience are essential."
+    },
+    {
+      "start": 370.81,
+      "end": 373.81,
+      "text": "That is the end of part two."
+    },
+    {
+      "start": 373.81,
+      "end": 377.81,
+      "text": "You now have half a minute to check your answers to part two."
+    },
+    {
+      "start": 392.81,
+      "end": 394.81,
+      "text": "You"
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

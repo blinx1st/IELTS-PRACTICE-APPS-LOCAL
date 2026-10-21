@@ -1,0 +1,166 @@
+{
+  "id": "cam14-test1",
+  "version": "1",
+  "answers": {
+    "1": [
+      "creativity"
+    ],
+    "2": [
+      "rules"
+    ],
+    "3": [
+      "cities"
+    ],
+    "4": [
+      "traffic"
+    ],
+    "5": [
+      "crime"
+    ],
+    "6": [
+      "competition"
+    ],
+    "7": [
+      "evidence"
+    ],
+    "8": [
+      "life"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "NOT GIVEN"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "TRUE"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "D"
+    ],
+    "21": [
+      "D"
+    ],
+    "22": [
+      "E"
+    ],
+    "23": [
+      "activists"
+    ],
+    "24": [
+      "consumerism"
+    ],
+    "25": [
+      "leaflets"
+    ],
+    "26": [
+      "police"
+    ],
+    "27": [
+      "E"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "YES"
+    ],
+    "33": [
+      "NO"
+    ],
+    "34": [
+      "NO"
+    ],
+    "35": [
+      "NOT GIVEN"
+    ],
+    "36": [
+      "restaurants"
+    ],
+    "37": [
+      "performance"
+    ],
+    "38": [
+      "turnover"
+    ],
+    "39": [
+      "goals"
+    ],
+    "40": [
+      "characteristics"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        4,
+        5
+      ],
+      "answers": [
+        "traffic",
+        "crime"
+      ]
+    },
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        21,
+        22
+      ],
+      "answers": [
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+    "sha256": "af18169e87db1ba4e69324b1d0c63ffb0e00d24d35d2a463889274444546609c",
+    "pdfPage": 120,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

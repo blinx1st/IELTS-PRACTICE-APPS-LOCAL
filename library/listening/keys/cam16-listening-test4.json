@@ -1,0 +1,157 @@
+{
+  "id": "cam16-listening-test4",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "28th"
+    ],
+    "2": [
+      "550"
+    ],
+    "3": [
+      "Chervil"
+    ],
+    "4": [
+      "garage"
+    ],
+    "5": [
+      "garden"
+    ],
+    "6": [
+      "parking"
+    ],
+    "7": [
+      "wood"
+    ],
+    "8": [
+      "bridge"
+    ],
+    "9": [
+      "monument"
+    ],
+    "10": [
+      "March"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "I"
+    ],
+    "19": [
+      "E"
+    ],
+    "20": [
+      "H"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "E"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "spice",
+      "spices"
+    ],
+    "32": [
+      "colony",
+      "settlement"
+    ],
+    "33": [
+      "fat"
+    ],
+    "34": [
+      "head"
+    ],
+    "35": [
+      "movement"
+    ],
+    "36": [
+      "balance",
+      "balancing"
+    ],
+    "37": [
+      "brain"
+    ],
+    "38": [
+      "smell"
+    ],
+    "39": [
+      "rats"
+    ],
+    "40": [
+      "forest"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        21,
+        22
+      ],
+      "answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        23,
+        24
+      ],
+      "answers": [
+        "B",
+        "C"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+    "pdfPage": 128,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/299268607978510cea86fe2c9a0aac09935c4efd68874868e5e4cb578d33ed29.mp3",
+    "sha256": "299268607978510cea86fe2c9a0aac09935c4efd68874868e5e4cb578d33ed29",
+    "duration": 400.909,
+    "start": 0,
+    "end": 400.909,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two students called Hugo and Chantal discussing a talk they have just attended at the start of their course in fashion design. First, you have some time to look at questions 21 to 26. You Now, listen carefully and answer questions 21 to 26. Hi, Chantal. What did you think of the talk, then? Hi, Hugo. I thought it was good once I'd moved seats. Oh, were the people beside you chatting or something? It wasn't that. I went early so that I'd get a seat and not have to stand. But then this guy sat right in front of me and he was so tall. It's hard to see through people's heads, isn't it? Impossible! Anyway, to answer your question, I thought it was really interesting."
+    },
+    {
+      "name": "ending",
+      "start": 335.909,
+      "end": 400.909,
+      "text": "to know if there's a gap in the market, you know, an item that no one's stocking, but that consumers are looking for. Yeah, people don't give up searching. They also take things back to the store if they aren't right. Yeah. Imagine you worked in an expensive shop and you found out the garment sold there were being returned because they fell apart in the wash. Yeah, it would be be good to know that kind of thing. Yeah, that is the end of part 3. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

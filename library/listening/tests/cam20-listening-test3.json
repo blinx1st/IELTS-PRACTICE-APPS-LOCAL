@@ -1,0 +1,968 @@
+{
+  "id": "cam20-listening-test3",
+  "skill": "listening",
+  "book": 20,
+  "test": 3,
+  "title": "Cambridge 20 · Listening Test 3",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam20-t3-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t3-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-043.webp",
+              "page": 43
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 43
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "table",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Name of companies"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Information about costs"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Additional notes"
+                    ],
+                    "header": true
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Peak Rentals"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Prices range from 105 dollars to ",
+                      {
+                        "number": 1
+                      },
+                      " dollars per room per month"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "The furniture is very ",
+                      {
+                        "number": 2
+                      },
+                      ".\nDelivers in 1–2 days.\nSpecial offer: free ",
+                      {
+                        "number": 3
+                      },
+                      " with every living room set"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      {
+                        "number": 4
+                      },
+                      " and Oliver"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Mid-range prices\n12% monthly fee for ",
+                      {
+                        "number": 5
+                      }
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Also offers a cleaning service"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Larch Furniture"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Offers cheapest prices for renting furniture and ",
+                      {
+                        "number": 6
+                      },
+                      " items"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Must have own ",
+                      {
+                        "number": 7
+                      },
+                      ".\nMinimum contract length: six months"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      {
+                        "number": 8
+                      },
+                      " Rentals"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "See the ",
+                      {
+                        "number": 9
+                      },
+                      " for the most up-to-date prices"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      {
+                        "number": 10
+                      },
+                      " are allowed within 7 days of delivery"
+                    ],
+                    "header": false
+                  }
+                ]
+              }
+            ],
+            "caption": "Furniture rental companies"
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-043.webp",
+          "page": 43
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 43
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/2bac4bf39ad2320fe3877a8426b1cafb26b1b46754f6a56b7e1df6b8ecc5443e.m4a",
+        "sha256": "2bac4bf39ad2320fe3877a8426b1cafb26b1b46754f6a56b7e1df6b8ecc5443e",
+        "duration": 439.693,
+        "start": 50.0,
+        "end": 439.693,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S1.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t3-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t3-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t3-p2-q11-16",
+          "type": "choice",
+          "heading": "Questions 11–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Who was responsible for starting the community project?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the castle owners"
+                },
+                {
+                  "value": "B",
+                  "label": "a national charity"
+                },
+                {
+                  "value": "C",
+                  "label": "the local council"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "How was the gold coin found?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Heavy rain had removed some of the soil"
+                },
+                {
+                  "value": "B",
+                  "label": "The ground was dug up by wild rabbits"
+                },
+                {
+                  "value": "C",
+                  "label": "A person with a metal detector searched the area"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "What led the archaeologists to believe there was an ancient village on this site?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the lucky discovery of old records"
+                },
+                {
+                  "value": "B",
+                  "label": "the bases of several structures visible in the grass"
+                },
+                {
+                  "value": "C",
+                  "label": "the unusual stones found near the castle"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "What are the team still hoping to find?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "everyday pottery"
+                },
+                {
+                  "value": "B",
+                  "label": "animal bones"
+                },
+                {
+                  "value": "C",
+                  "label": "pieces of jewellery"
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "What was found on the other side of the river from the castle?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the remains of a large palace"
+                },
+                {
+                  "value": "B",
+                  "label": "the outline of fields"
+                },
+                {
+                  "value": "C",
+                  "label": "a number of small huts"
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "text": "What do the team plan to do after work ends this summer?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "prepare a display for a museum"
+                },
+                {
+                  "value": "B",
+                  "label": "take part in a television programme"
+                },
+                {
+                  "value": "C",
+                  "label": "start to organise school visits"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-044.webp",
+              "page": 44
+            },
+            {
+              "url": "/library-assets/l-cam20-source-045.webp",
+              "page": 45
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 44
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 45
+            }
+          ]
+        },
+        {
+          "id": "l-cam20-t3-p2-q17-20",
+          "type": "matching",
+          "heading": "Questions 17–20",
+          "instructions": "Label the map below. Write the correct letter, A–G, next to Questions 17–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 17,
+              "text": "bridge foundations"
+            },
+            {
+              "number": 18,
+              "text": "rubbish pit"
+            },
+            {
+              "number": 19,
+              "text": "meeting hall"
+            },
+            {
+              "number": 20,
+              "text": "fish pond"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-044.webp",
+              "page": 44
+            },
+            {
+              "url": "/library-assets/l-cam20-source-045.webp",
+              "page": 45
+            },
+            {
+              "url": "/library-assets/l-cam20-t3-map-original.webp",
+              "page": 46
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 44
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 45
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            }
+          ],
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam20-t3-map-original.webp",
+              "page": 46
+            },
+            "labels": [
+              {
+                "number": 17,
+                "x": 0.473,
+                "y": 0.766,
+                "width": 0.17
+              },
+              {
+                "number": 18,
+                "x": 0.473,
+                "y": 0.821,
+                "width": 0.17
+              },
+              {
+                "number": 19,
+                "x": 0.473,
+                "y": 0.88,
+                "width": 0.17
+              },
+              {
+                "number": 20,
+                "x": 0.473,
+                "y": 0.936,
+                "width": 0.17
+              }
+            ]
+          },
+          "errata": [
+            "Source instruction says A–F, but the diagram includes G. Original map recovered from alternate supplied PDF; retyped PDF omits it."
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-044.webp",
+          "page": 44
+        },
+        {
+          "url": "/library-assets/l-cam20-source-045.webp",
+          "page": 45
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 44
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 45
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/7e8cd0fca97da2e36b1561c017a385520b2a4e43d5a6597cdbe6bb391b67a112.m4a",
+        "sha256": "7e8cd0fca97da2e36b1561c017a385520b2a4e43d5a6597cdbe6bb391b67a112",
+        "duration": 525.421,
+        "start": 0,
+        "end": 525.421,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S2.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t3-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t3-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t3-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t3-p3-q21-26",
+          "type": "choice",
+          "heading": "Questions 21–26",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Finn was pleased to discover that their topic",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "was not familiar to their module leader"
+                },
+                {
+                  "value": "B",
+                  "label": "had not been chosen by other students"
+                },
+                {
+                  "value": "C",
+                  "label": "did not prove to be difficult to research"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Maya says a mistaken belief about theatre programmes is that",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Theatres pay companies to produce them"
+                },
+                {
+                  "value": "B",
+                  "label": "Few theatre-goers buy them nowadays"
+                },
+                {
+                  "value": "C",
+                  "label": "They contain far more adverts than previously"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Finn was surprised that, in early Brit ish theatre, programmes",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "were difficult for audiences to obtain"
+                },
+                {
+                  "value": "B",
+                  "label": "were given out free of charge"
+                },
+                {
+                  "value": "C",
+                  "label": "were seen as a kind of contract"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "Maya feels their project should include an explanation of why companies of actors",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "promoted their own plays"
+                },
+                {
+                  "value": "B",
+                  "label": "performed plays outdoors"
+                },
+                {
+                  "value": "C",
+                  "label": "had to tour with their plays"
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "Finn and Maya both think that, compared to nineteenth-century programmes, those from the eighteenth century",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "were more original"
+                },
+                {
+                  "value": "B",
+                  "label": "were more colourful"
+                },
+                {
+                  "value": "C",
+                  "label": "were more informative"
+                }
+              ]
+            },
+            {
+              "number": 26,
+              "text": "Maya doesn’t fully understand why, in the twentieth century,",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Very few theatre programmes were printed in the USA"
+                },
+                {
+                  "value": "B",
+                  "label": "Brit ish theatre programmes failed to develop for so long"
+                },
+                {
+                  "value": "C",
+                  "label": "Theatre programmes in Britain copied fashions from the USA"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-045.webp",
+              "page": 45
+            },
+            {
+              "url": "/library-assets/l-cam20-source-046.webp",
+              "page": 46
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 45
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 46
+            }
+          ]
+        },
+        {
+          "id": "l-cam20-t3-p3-q27-30",
+          "type": "matching",
+          "heading": "Questions 27–30",
+          "instructions": "What comment is made about the programme for each of the following shows? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30. Show",
+          "body": "",
+          "questions": [
+            {
+              "number": 27,
+              "text": "Ruy Blas"
+            },
+            {
+              "number": 28,
+              "text": "Man of La Mancha"
+            },
+            {
+              "number": 29,
+              "text": "The Tragedy of Jane Shore"
+            },
+            {
+              "number": 30,
+              "text": "The Sailors’ Festival"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-045.webp",
+              "page": 45
+            },
+            {
+              "url": "/library-assets/l-cam20-source-046.webp",
+              "page": 46
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 45
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 46
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Its origin is somewhat controversial"
+            },
+            {
+              "value": "B",
+              "label": "It is historically significant for a country"
+            },
+            {
+              "value": "C",
+              "label": "It was effective at attracting audiences"
+            },
+            {
+              "value": "D",
+              "label": "It is included in a recent project"
+            },
+            {
+              "value": "E",
+              "label": "It contains insights into the show"
+            },
+            {
+              "value": "F",
+              "label": "It resembles an artwork"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-045.webp",
+          "page": 45
+        },
+        {
+          "url": "/library-assets/l-cam20-source-046.webp",
+          "page": 46
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 45
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 46
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/7af31bb872672f51b02b3a861a65208561d99c1e2632766b2b93509aa99cb5f1.m4a",
+        "sha256": "7af31bb872672f51b02b3a861a65208561d99c1e2632766b2b93509aa99cb5f1",
+        "duration": 446.566,
+        "start": 0,
+        "end": 446.566,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S3.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t3-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t3-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t3-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t3-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-047.webp",
+              "page": 47
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 47
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Inclusive design\nDefinition\n\nDesigning products that can be accessed by a diverse range of people\nwithout the need for any ",
+                  {
+                    "number": 31
+                  },
+                  ".\n\nNot the same as universal design: that is design for everyone, including\ncatering for people with ",
+                  {
+                    "number": 32
+                  },
+                  " problems\nExamples of inclusive design\n\n",
+                  {
+                    "number": 33
+                  },
+                  " which are adjustable, avoiding back or neck problems\n\n",
+                  {
+                    "number": 34
+                  },
+                  " in public toilets which are easier to use\nTo assist the elderly:\n\nDesigners avoid using ",
+                  {
+                    "number": 35
+                  },
+                  " in interfaces\n\nPeople can make commands using a mouse, keyboard or their ",
+                  {
+                    "number": 36
+                  },
+                  "\nImpact of non-inclusive designs\n\nAccess\no Loss of independence for disabled people.\n\nSafety\no Seatbelts are especially problematic for ",
+                  {
+                    "number": 37
+                  },
+                  " women.\no PPE jackets are often unsuitable because of the size of women’s\n",
+                  {
+                    "number": 38
+                  },
+                  ".\no PPE for female ",
+                  {
+                    "number": 39
+                  },
+                  " officers dealing with emergencies\nis the worst.\n\nComfort in the workplace\no The ",
+                  {
+                    "number": 40
+                  },
+                  " in offices is often too low for women."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-047.webp",
+          "page": 47
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 47
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/f78eed8ca867f1282c808b7fd5c2b5da4e0ae209f24b09c5271f50788a557e5b.m4a",
+        "sha256": "f78eed8ca867f1282c808b7fd5c2b5da4e0ae209f24b09c5271f50788a557e5b",
+        "duration": 512.998,
+        "start": 0,
+        "end": 419.64,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S4.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t3-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

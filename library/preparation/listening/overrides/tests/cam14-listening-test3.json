@@ -1,0 +1,955 @@
+{
+  "id": "cam14-listening-test3",
+  "skill": "listening",
+  "book": 14,
+  "test": 3,
+  "title": "Cambridge 14 · Listening Test 3",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam14-listening-test3-p1",
+      "number": 1,
+      "title": "Flanders Conference Hotel",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t3-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "the … room for talks (projector and … available)"
+            },
+            {
+              "number": 2,
+              "text": "the … room for talks (projector and … available)"
+            },
+            {
+              "number": 3,
+              "text": "area for coffee and an …"
+            },
+            {
+              "number": 4,
+              "text": "free … throughout"
+            },
+            {
+              "number": 5,
+              "text": "a standard buffet lunch costs $… per head"
+            },
+            {
+              "number": 6,
+              "text": "Rooms will cost $… including breakfast."
+            },
+            {
+              "number": 7,
+              "text": "The hotel also has a spa and rooftop …."
+            },
+            {
+              "number": 8,
+              "text": "There’s a free shuttle service to the …."
+            },
+            {
+              "number": 9,
+              "text": "Wilby Street (quite near the …)"
+            },
+            {
+              "number": 10,
+              "text": "near to restaurants and many …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-045.webp",
+              "page": 45
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Flanders Conference Hotel"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Example: Customer Services Manager: Angela"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Date available"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "weekend beginning February 4th"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Conference facilities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the ",
+                  {
+                    "number": 1
+                  },
+                  " room for talks (projector and ",
+                  {
+                    "number": 2
+                  },
+                  " available)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "area for coffee and an ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "free ",
+                  {
+                    "number": 4
+                  },
+                  " throughout"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "a standard buffet lunch costs $",
+                  {
+                    "number": 5
+                  },
+                  " per head"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Accommodation"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Rooms will cost $",
+                  {
+                    "number": 6
+                  },
+                  " including breakfast."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Other facilities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The hotel also has a spa and rooftop ",
+                  {
+                    "number": 7
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "There’s a free shuttle service to the ",
+                  {
+                    "number": 8
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Location"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Wilby Street (quite near the ",
+                  {
+                    "number": 9
+                  },
+                  ")"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "near to restaurants and many ",
+                  {
+                    "number": 10
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-045.webp",
+          "page": 45
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 45
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/0c3a789d973e910d192b00ec771727d9e74cd45475f3f8e51e094130ffa7c59a.mp3",
+        "sha256": "0c3a789d973e910d192b00ec771727d9e74cd45475f3f8e51e094130ffa7c59a",
+        "duration": 525.533,
+        "start": 65.6,
+        "end": 525.533,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t3-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t3-p2-g11",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO activities that volunteers do are mentioned?",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Which TWO activities that volunteers do are mentioned?"
+            },
+            {
+              "number": 12,
+              "text": "Which TWO activities that volunteers do are mentioned?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-046.webp",
+              "page": 46
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "decorating"
+            },
+            {
+              "value": "B",
+              "label": "cleaning"
+            },
+            {
+              "value": "C",
+              "label": "delivering meals"
+            },
+            {
+              "value": "D",
+              "label": "shopping"
+            },
+            {
+              "value": "E",
+              "label": "childcare"
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t3-p2-g13",
+          "type": "multi",
+          "heading": "Questions 13–14",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO ways that volunteers can benefit from volunteering are mentioned?",
+          "questions": [
+            {
+              "number": 13,
+              "text": "Which TWO ways that volunteers can benefit from volunteering are mentioned?"
+            },
+            {
+              "number": 14,
+              "text": "Which TWO ways that volunteers can benefit from volunteering are mentioned?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-046.webp",
+              "page": 46
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "learning how to be part of a team"
+            },
+            {
+              "value": "B",
+              "label": "having a sense of purpose"
+            },
+            {
+              "value": "C",
+              "label": "realising how lucky they are"
+            },
+            {
+              "value": "D",
+              "label": "improved ability at time management"
+            },
+            {
+              "value": "E",
+              "label": "boosting their employment prospects"
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t3-p2-g15",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write the correct letter, A-G, next to . What volunteers have helped people to do",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "Habib"
+            },
+            {
+              "number": 16,
+              "text": "Consuela"
+            },
+            {
+              "number": 17,
+              "text": "Minh"
+            },
+            {
+              "number": 18,
+              "text": "Tanya"
+            },
+            {
+              "number": 19,
+              "text": "Alexei"
+            },
+            {
+              "number": 20,
+              "text": "Juba"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-047.webp",
+              "page": 47
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "overcome physical difficulties"
+            },
+            {
+              "value": "B",
+              "label": "rediscover skills not used for a long time"
+            },
+            {
+              "value": "C",
+              "label": "improve their communication skills"
+            },
+            {
+              "value": "D",
+              "label": "solve problems independently"
+            },
+            {
+              "value": "E",
+              "label": "escape isolation"
+            },
+            {
+              "value": "F",
+              "label": "remember past times"
+            },
+            {
+              "value": "G",
+              "label": "start a new hobby"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-046.webp",
+          "page": 46
+        },
+        {
+          "url": "/library-assets/l-cam14-page-047.webp",
+          "page": 47
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 46
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 47
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/f2022e64d4fd7015a9b6616245bfa95fab2a4e021e23449c5652aa80f57eb1ac.mp3",
+        "sha256": "f2022e64d4fd7015a9b6616245bfa95fab2a4e021e23449c5652aa80f57eb1ac",
+        "duration": 397.725,
+        "start": 0,
+        "end": 397.725,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t3-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test3-p3",
+      "number": 3,
+      "title": "Background on school marching band",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t3-p3-g21",
+          "type": "completion",
+          "heading": "Questions 21–26",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "It consists of around … students."
+            },
+            {
+              "number": 22,
+              "text": "It is due to play in a … band competition."
+            },
+            {
+              "number": 23,
+              "text": "It has been invited to play in the town’s …."
+            },
+            {
+              "number": 24,
+              "text": "They have listened to a talk by a …."
+            },
+            {
+              "number": 25,
+              "text": "Joe will discuss a … with the band."
+            },
+            {
+              "number": 26,
+              "text": "Joe hopes the band will attend a … next month."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-048.webp",
+              "page": 48
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Background on school marching band"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It consists of around ",
+                  {
+                    "number": 21
+                  },
+                  " students."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It is due to play in a ",
+                  {
+                    "number": 22
+                  },
+                  " band competition."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It has been invited to play in the town’s ",
+                  {
+                    "number": 23
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "They have listened to a talk by a ",
+                  {
+                    "number": 24
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Joe will discuss a ",
+                  {
+                    "number": 25
+                  },
+                  " with the band."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Joe hopes the band will attend a ",
+                  {
+                    "number": 26
+                  },
+                  " next month."
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam14-t3-p3-g27",
+          "type": "matching",
+          "heading": "Questions 27–30",
+          "instructions": "What problem does Joe mention in connection with each of the following band members? Choose FOUR answers from the box and write the correct letter, A-F, next to . Problems",
+          "body": "",
+          "questions": [
+            {
+              "number": 27,
+              "text": "flautist"
+            },
+            {
+              "number": 28,
+              "text": "trumpeter"
+            },
+            {
+              "number": 29,
+              "text": "trombonist"
+            },
+            {
+              "number": 30,
+              "text": "percussionist"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-049.webp",
+              "page": 49
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "makes a lot of mistakes in rehearsals"
+            },
+            {
+              "value": "B",
+              "label": "keeps making unhelpful suggestions"
+            },
+            {
+              "value": "C",
+              "label": "has difficulty with rhythm"
+            },
+            {
+              "value": "D",
+              "label": "misses too many rehearsals"
+            },
+            {
+              "value": "E",
+              "label": "has a health problem"
+            },
+            {
+              "value": "F",
+              "label": "doesn’t mix with other students"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-048.webp",
+          "page": 48
+        },
+        {
+          "url": "/library-assets/l-cam14-page-049.webp",
+          "page": 49
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 48
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 49
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/e80037d9a5ea7daadf2765aaafd5b23d7c33bfe16df595b809cca358882b4555.mp3",
+        "sha256": "e80037d9a5ea7daadf2765aaafd5b23d7c33bfe16df595b809cca358882b4555",
+        "duration": 381.554,
+        "start": 0,
+        "end": 381.554,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t3-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test3-p4",
+      "number": 4,
+      "title": "Concerts in university arts festival",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t3-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "studied piano and … before turning to composition"
+            },
+            {
+              "number": 32,
+              "text": "compositions show a great deal of … and are drawn from various cultural sources"
+            },
+            {
+              "number": 33,
+              "text": "her music is very expressive and also …"
+            },
+            {
+              "number": 34,
+              "text": "festival will include her … called The Oresteia"
+            },
+            {
+              "number": 35,
+              "text": "Lim described the sounds in The Oresteia as …"
+            },
+            {
+              "number": 36,
+              "text": "The Tower of Remoteness is performed by piano and …"
+            },
+            {
+              "number": 37,
+              "text": "celebrates Australia’s cultural …"
+            },
+            {
+              "number": 38,
+              "text": "studied … before studying music"
+            },
+            {
+              "number": 39,
+              "text": "became well known as composer of music for …"
+            },
+            {
+              "number": 40,
+              "text": "festival will include his music for the 1996 …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-050.webp",
+              "page": 50
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Concerts in university arts festival"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Concert 1"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Australian composer: Liza Lim"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "studied piano and ",
+                  {
+                    "number": 31
+                  },
+                  " before turning to composition"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "performers and festivals around the world have given her a lot of commissions"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "compositions show a great deal of ",
+                  {
+                    "number": 32
+                  },
+                  " and are drawn from various cultural sources"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "her music is very expressive and also ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "festival will include her ",
+                  {
+                    "number": 34
+                  },
+                  " called The Oresteia"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Lim described the sounds in The Oresteia as ",
+                  {
+                    "number": 35
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "British composers: Ralph Vaughan Williams, Frederick Delius"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Concert 2"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "British composers: Benjamin Britten, Judith Weir"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Australian composer: Ross Edwards"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "festival will include The Tower of Remoteness, inspired by nature"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The Tower of Remoteness is performed by piano and ",
+                  {
+                    "number": 36
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "compositions include music for children"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "celebrates Australia’s cultural ",
+                  {
+                    "number": 37
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Concert 3"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Australian composer: Carl Vine"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "played cornet then piano"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "studied ",
+                  {
+                    "number": 38
+                  },
+                  " before studying music"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "worked in Sydney as a pianist and composer"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "became well known as composer of music for ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "festival will include his music for the 1996 ",
+                  {
+                    "number": 40
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "British composers: Edward Elgar, Thomas Adès"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-050.webp",
+          "page": 50
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 50
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/892ac0d394743b5fc558e6506de5f7c6bdf253c54dcab46b711adb9c656474f2.mp3",
+        "sha256": "892ac0d394743b5fc558e6506de5f7c6bdf253c54dcab46b711adb9c656474f2",
+        "duration": 488.434,
+        "start": 0,
+        "end": 440.46,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t3-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam14/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

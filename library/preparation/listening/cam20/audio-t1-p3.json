@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/1e39513454852ad3b1e33398d77fc09c5870a5bb6a3267501af906284feb7078.m4a",
+    "sha256": "1e39513454852ad3b1e33398d77fc09c5870a5bb6a3267501af906284feb7078",
+    "duration": 479.028,
+    "start": 0,
+    "end": 479.028,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S3.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two sociology students, called Tamara and Dev, discussing their research for a presentation on loneliness. First, you have some time to look at questions 21 to 26. Now listen carefully and answer questions 21 to 26. Are we going through the notes we've made from our research into loneliness now, Dev? Ok, Samara, it's been a real eye-opener. I had no idea that loneliness has been increasing steadily for the last 20 years. I know, and it's the same all over the world, the downside of a modern lifestyle, I guess. Did you come to any conclusions about what the reasons for the increase are? Well, I assumed it was mainly an issue for the elderly, but in fact it's something which affects young people just as much. So nothing really to do with longer life spans."
+    },
+    {
+      "name": "ending",
+      "start": 414.028,
+      "end": 479.028,
+      "text": "It's strange the way some people can't stand being by themselves, while others love it. Yeah, the research shows a certain amount of solitude is beneficial for well-being, which I appreciate. But being alone isn't something I actually like. I'd never choose to go on holiday alone, for example. Me neither. Well, let's not think... That is the end of part 3. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

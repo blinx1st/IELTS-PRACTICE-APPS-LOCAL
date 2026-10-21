@@ -1,0 +1,255 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 73,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 4\nRe J}\na 1718867188\nPART 4\nQuestions 31-40\nPe\nLard a 4\nComplete the notes below.\nher eem\nWrite ONE WORD ONLY for each answer.\nListoding feat tials\nMaple syrup\nWhat is maple syrup?\ne\nmade from the sap of the maple tree\n¢\ncolour described aS 31 ooo.\ne\nadded to food or used in cooking\n©\nVETY 82 oes. COMpared to\nrefined sugar\nThe maple tree\ne\nhas many species\ne\nneeds moist soil but does not need\ne\nneeds sunny days and cool nights\nfertiliser as well\ne\nmaple leaf has been on the Canadian\n*\nbest growing conditions and\nflag since 1964\n33\noocccccsesissninennee Ale in Canada and\nNorth America\nEarly maple sugar producers\ne\nmade holes in the tree trunks\ne\nused tree bark to make containers\ne\nused hot 34... to heat\nfor collection\nthe sap\ne\nsweetened food and drink with sugar\nToday’s maple syrup\nThe trees\ne\nTree trunks may not have the correct 35 «cee UNTIL they have been\ngrowing for 40 years.\ne\nThe changing temperature and movement of water within the tree produces the sap.\nThe production\ne\nAtap is drilled into the trunk and a 36 «uu. Carries the sap into a bucket.\ne\nLarge pans of sap called evaporators are heated by Means Of A 37 ooo.\ne\nAlot of 38 ou. IS produced during the evaporation process.\ne\n‘Sugar sand’ is removed because it makes the Syrup lOOK 39»... ANA\naffects the taste.\ne\nThe syrup is ready for use.\ne\nAhuge quantity of sap is needed to make a 40 ou. Of maple syrup.\n80\n—>|@ p. 125\np. 117\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        63.01321792602539
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 4\nRe J}\na 1718867188\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        74.14501953125,
+        455.9992980957031,
+        93.24026489257812
+      ],
+      "text": "PART 4\nQuestions 31-40\nPe\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        102.2193832397461,
+        455.9920654296875,
+        124.5489501953125
+      ],
+      "text": "Lard a 4\nComplete the notes below.\nher eem\n"
+    },
+    {
+      "box": [
+        71.62554931640625,
+        133.53311157226562,
+        512.8965454101562,
+        147.944580078125
+      ],
+      "text": "Write ONE WORD ONLY for each answer.\nListoding feat tials\n"
+    },
+    {
+      "box": [
+        263.4668884277344,
+        181.0435028076172,
+        352.666015625,
+        195.81529235839844
+      ],
+      "text": "Maple syrup\n"
+    },
+    {
+      "box": [
+        82.78331756591797,
+        206.23838806152344,
+        204.51075744628906,
+        217.0469970703125
+      ],
+      "text": "What is maple syrup?\n"
+    },
+    {
+      "box": [
+        83.50316619873047,
+        223.15501403808594,
+        518.8717651367188,
+        233.96368408203125
+      ],
+      "text": "e\nmade from the sap of the maple tree\n¢\ncolour described aS 31 ooo.\n"
+    },
+    {
+      "box": [
+        83.50315856933594,
+        240.07164001464844,
+        509.9200134277344,
+        265.2777099609375
+      ],
+      "text": "e\nadded to food or used in cooking\n©\nVETY 82 oes. COMpared to\nrefined sugar\n"
+    },
+    {
+      "box": [
+        83.14324188232422,
+        276.0643615722656,
+        165.78256225585938,
+        286.87298583984375
+      ],
+      "text": "The maple tree\n"
+    },
+    {
+      "box": [
+        83.50316619873047,
+        290.4613952636719,
+        505.122314453125,
+        301.27008056640625
+      ],
+      "text": "e\nhas many species\ne\nneeds moist soil but does not need\n"
+    },
+    {
+      "box": [
+        83.50315856933594,
+        304.1386413574219,
+        403.41387939453125,
+        318.18988037109375
+      ],
+      "text": "e\nneeds sunny days and cool nights\nfertiliser as well\n"
+    },
+    {
+      "box": [
+        83.50312805175781,
+        321.4151916503906,
+        510.5768737792969,
+        357.7764892578125
+      ],
+      "text": "e\nmaple leaf has been on the Canadian\n*\nbest growing conditions and\nflag since 1964\n33\noocccccsesissninennee Ale in Canada and\nNorth America\n"
+    },
+    {
+      "box": [
+        83.50312805175781,
+        377.2039489746094,
+        245.3265838623047,
+        388.0126037597656
+      ],
+      "text": "Early maple sugar producers\n"
+    },
+    {
+      "box": [
+        83.50313568115234,
+        394.12054443359375,
+        501.3067321777344,
+        402.7674255371094
+      ],
+      "text": "e\nmade holes in the tree trunks\ne\nused tree bark to make containers\n"
+    },
+    {
+      "box": [
+        83.50312805175781,
+        408.51763916015625,
+        515.6320190429688,
+        436.24322509765625
+      ],
+      "text": "e\nused hot 34... to heat\nfor collection\nthe sap\ne\nsweetened food and drink with sugar\n"
+    },
+    {
+      "box": [
+        83.1432113647461,
+        455.6681213378906,
+        198.9498291015625,
+        466.47674560546875
+      ],
+      "text": "Today’s maple syrup\n"
+    },
+    {
+      "box": [
+        84.22299194335938,
+        475.8240966796875,
+        132.74114990234375,
+        484.4709777832031
+      ],
+      "text": "The trees\n"
+    },
+    {
+      "box": [
+        83.50313568115234,
+        495.6200866699219,
+        497.5636901855469,
+        520.8258666992188
+      ],
+      "text": "e\nTree trunks may not have the correct 35 «cee UNTIL they have been\ngrowing for 40 years.\n"
+    },
+    {
+      "box": [
+        83.50313568115234,
+        529.813232421875,
+        516.06396484375,
+        540.621826171875
+      ],
+      "text": "e\nThe changing temperature and movement of water within the tree produces the sap.\n"
+    },
+    {
+      "box": [
+        84.22298431396484,
+        551.4088745117188,
+        161.60733032226562,
+        562.2174682617188
+      ],
+      "text": "The production\n"
+    },
+    {
+      "box": [
+        83.50312805175781,
+        571.5648193359375,
+        511.3309020996094,
+        582.3734130859375
+      ],
+      "text": "e\nAtap is drilled into the trunk and a 36 «uu. Carries the sap into a bucket.\n"
+    },
+    {
+      "box": [
+        83.50309753417969,
+        591.720703125,
+        524.5581665039062,
+        602.5293579101562
+      ],
+      "text": "e\nLarge pans of sap called evaporators are heated by Means Of A 37 ooo.\n"
+    },
+    {
+      "box": [
+        83.50306701660156,
+        611.876708984375,
+        464.9542236328125,
+        622.685302734375
+      ],
+      "text": "e\nAlot of 38 ou. IS produced during the evaporation process.\n"
+    },
+    {
+      "box": [
+        83.50306701660156,
+        632.0325927734375,
+        517.5215454101562,
+        654.7166748046875
+      ],
+      "text": "e\n‘Sugar sand’ is removed because it makes the Syrup lOOK 39»... ANA\naffects the taste.\n"
+    },
+    {
+      "box": [
+        83.50304412841797,
+        666.2257690429688,
+        239.3516082763672,
+        677.0343627929688
+      ],
+      "text": "e\nThe syrup is ready for use.\n"
+    },
+    {
+      "box": [
+        83.50303649902344,
+        685.6617431640625,
+        521.736328125,
+        696.8306884765625
+      ],
+      "text": "e\nAhuge quantity of sap is needed to make a 40 ou. Of maple syrup.\n"
+    },
+    {
+      "box": [
+        70.54562377929688,
+        729.5729370117188,
+        236.82492065429688,
+        741.8226928710938
+      ],
+      "text": "80\n—>|@ p. 125\np. 117\n"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/0b5ea2fc49fcbad55d9e867b880e5e3966b7ebb49b9f15dad7c63be9516694c1.mp3",
+    "sha256": "0b5ea2fc49fcbad55d9e867b880e5e3966b7ebb49b9f15dad7c63be9516694c1",
+    "duration": 412.491,
+    "start": 0,
+    "end": 412.491,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a tour guide, Lou Miller, speaking to a group of people about a boat trip they are going to take around the Australian island of Tasmania. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Hello everyone, my name's Lou Miller and I'm going to be your tour guide today as we take this fantastic bow trip around the Tasmanian coast. Before we set off, I just want to tell you a few things about our journey. Our boats aren't huge as you can see, we already have three staff members on board, and on top of that we can transport a further 15 people. that's you, around the coastline. But please note, if there are more than nine people on either side of the boat, we'll move some of you over. Otherwise, all 18 of us will end up in the sea."
+    },
+    {
+      "name": "ending",
+      "start": 347.491,
+      "end": 412.491,
+      "text": "that you want to see more than we're able to show you, then you can take a kayak into the area on another day, and one of our staff will give you more information on that. What we'll do is to go through a narrow channel, pass some incredible rock formations, and from there we'll be able to see the openings to the caves, and at that point we'll talk to you about what lies beyond. That is the end of part 2. You now have half a minute to check your answers to part 2."
+    }
+  ]
+}

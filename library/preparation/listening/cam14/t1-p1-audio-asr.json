@@ -1,0 +1,202 @@
+{
+  "book": 14,
+  "test": 1,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S1.mp3",
+  "sha256": "f8bbb6b49d7cf60554bbd81bfa2c97ec071998431eafc20f9f0e771b6dab3b06",
+  "duration": 523.314,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      423.1998125,
+      523.1998125
+    ]
+  ],
+  "text": "IELTS 14, Tests 1-4, Published by Cambridge University Press and Uckles 2019. This recording is copyright, Test 1. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to Section 1. You will hear a woman reporting a theft to an officer in a police station. First, you have some time to look at questions 1 to 3. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Good morning. What can I do for you? I want to report a theft. I had some things stolen out of my bag yesterday. I'm... of something. Let's see. A tiger. Right. Any idea of how old he might have been? Around twelve years old? And can you remember anything else about his appearance? Not much. He was quite thin. Color of hair? I do remember that. He was blonde. All the The others were dark-haired. And any details of the others? Not really. They came and went so quickly. Right. So, what I'm going to do now is give you a crime reference number so you can contact your insurance company. So this is 10 digits, 87954, 82361. Thank you. So should I contact you? That is the end of section 1. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.88,
+      "text": "IELTS 14, Tests 1-4, Published by Cambridge University Press and Uckles 2019."
+    },
+    {
+      "start": 14.88,
+      "end": 20.68,
+      "text": "This recording is copyright, Test 1."
+    },
+    {
+      "start": 20.68,
+      "end": 25.72,
+      "text": "You will hear a number of different recordings, and you will have to answer questions"
+    },
+    {
+      "start": 25.72,
+      "end": 27.84,
+      "text": "on what you hear."
+    },
+    {
+      "start": 27.84,
+      "end": 33.56,
+      "text": "There will be time for you to read the instructions and questions, and you will have"
+    },
+    {
+      "start": 33.56,
+      "end": 37.44,
+      "text": "a chance to check your work."
+    },
+    {
+      "start": 37.44,
+      "end": 42.72,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 42.72,
+      "end": 46.84,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 46.84,
+      "end": 52.48,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an"
+    },
+    {
+      "start": 52.48,
+      "end": 55.68,
+      "text": "answer sheet."
+    },
+    {
+      "start": 55.68,
+      "end": 66.0,
+      "text": "Now turn to Section 1."
+    },
+    {
+      "start": 66.0,
+      "end": 71.6,
+      "text": "You will hear a woman reporting a theft to an officer in a police station."
+    },
+    {
+      "start": 71.6,
+      "end": 77.24,
+      "text": "First, you have some time to look at questions 1 to 3."
+    },
+    {
+      "start": 85.68,
+      "end": 97.96,
+      "text": "You will see that there is an example that has been done for you."
+    },
+    {
+      "start": 97.96,
+      "end": 106.96,
+      "text": "On this occasion only, the conversation relating to this will be played first."
+    },
+    {
+      "start": 106.96,
+      "end": 107.96,
+      "text": "Good morning."
+    },
+    {
+      "start": 107.96,
+      "end": 109.52,
+      "text": "What can I do for you?"
+    },
+    {
+      "start": 109.52,
+      "end": 111.44,
+      "text": "I want to report a theft."
+    },
+    {
+      "start": 111.44,
+      "end": 114.6,
+      "text": "I had some things stolen out of my bag yesterday."
+    },
+    {
+      "start": 114.6,
+      "end": 115.6,
+      "text": "I'm..."
+    },
+    {
+      "start": 423.2,
+      "end": 432.76,
+      "text": "of something. Let's see. A tiger. Right. Any idea of how old he might have been?"
+    },
+    {
+      "start": 432.76,
+      "end": 439.8,
+      "text": "Around twelve years old? And can you remember anything else about his appearance?"
+    },
+    {
+      "start": 439.8,
+      "end": 447.92,
+      "text": "Not much. He was quite thin. Color of hair? I do remember that. He was blonde. All the"
+    },
+    {
+      "start": 447.92,
+      "end": 450.48,
+      "text": "The others were dark-haired."
+    },
+    {
+      "start": 450.48,
+      "end": 453.2,
+      "text": "And any details of the others?"
+    },
+    {
+      "start": 453.2,
+      "end": 454.52,
+      "text": "Not really."
+    },
+    {
+      "start": 454.52,
+      "end": 457.08,
+      "text": "They came and went so quickly."
+    },
+    {
+      "start": 457.08,
+      "end": 458.08,
+      "text": "Right."
+    },
+    {
+      "start": 458.08,
+      "end": 464.0,
+      "text": "So, what I'm going to do now is give you a crime reference number so you can contact"
+    },
+    {
+      "start": 464.0,
+      "end": 466.0,
+      "text": "your insurance company."
+    },
+    {
+      "start": 466.0,
+      "end": 474.96,
+      "text": "So this is 10 digits, 87954, 82361."
+    },
+    {
+      "start": 474.96,
+      "end": 476.44,
+      "text": "Thank you."
+    },
+    {
+      "start": 476.44,
+      "end": 481.44,
+      "text": "So should I contact you?"
+    },
+    {
+      "start": 481.44,
+      "end": 484.68,
+      "text": "That is the end of section 1."
+    },
+    {
+      "start": 484.68,
+      "end": 488.06,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 506.44,
+      "end": 520.76,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

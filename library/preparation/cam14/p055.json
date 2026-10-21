@@ -1,0 +1,129 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 55,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on Reading\nPassage 2 below.\nSaving bugs to find new drugs\nZoologist Ross Piper looks at the potential of insects in\npharmaceutical research\nA\nMore drugs than you might think are derived from, or inspired by, compounds found\nin living things. Looking to nature for the soothing and curing of our ailments is\nnothing new — we have been doing it for tens of thousands of years. You only have\nto look at other primates — such as the capuchin monkeys who rub themselves with\ntoxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious\nforest plants to rid themselves of intestinal parasites — to realise that our ancient\nancestors too probably had a basic grasp of medicine.\nB_\nPharmaceutical science and chemistry built on these ancient foundations and\nperfected the extraction, characterisation, modification and testing of these natural\nproducts. Then, for a while, modern pharmaceutical science moved its focus away\nfrom nature and into the laboratory, designing chemical compounds from scratch.\nThe main cause of this shift is that although there are plenty of promising chemical\ncompounds in nature, finding them is far from easy. Securing sufficient numbers of\nthe organism in question, isolating and characterising the compounds of interest,\nand producing large quantities of these compounds are all significant hurdles.\nC___Laboratory-based drug discovery has achieved varying levels of success,\nsomething which has now prompted the development of new approaches focusing\nonce again on natural products. With the ability to mine genomes for useful\ncompounds, it is now evident that we have barely scratched the surface of nature’s\nmolecular diversity. This realisation, together with several looming health crises,\nsuch as antibiotic resistance, has put bioprospecting — the search for useful\ncompounds in nature — firmly back on the map.\nD\nInsects are the undisputed masters of the terrestrial domain, where they occupy\nevery possible niche. Consequently, they have a bewildering array of interactions\nwith other organisms, something which has driven the evolution of an enormous\nrange of very interesting compounds for defensive and offensive purposes. Their\nremarkable diversity exceeds that of every other group of animals on the planet\ncombined. Yet even though insects are far and away the most diverse animals in\nexistence, their potential as sources of therapeutic compounds is yet to be realised.\n63\n",
+  "blocks": [
+    {
+      "box": [
+        498.49957275390625,
+        95.74069213867188,
+        539.781494140625,
+        106.18902587890625
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        131.0136260986328,
+        264.51788330078125,
+        141.10162353515625
+      ],
+      "text": "READING PASSAGE 2\n"
+    },
+    {
+      "box": [
+        106.89847564697266,
+        157.288330078125,
+        534.8955688476562,
+        181.77386474609375
+      ],
+      "text": "You should spend about 20 minutes on Questions 14-26, which are based on Reading\nPassage 2 below.\n"
+    },
+    {
+      "box": [
+        213.07708740234375,
+        198.6799774169922,
+        432.19195556640625,
+        213.45176696777344
+      ],
+      "text": "Saving bugs to find new drugs\n"
+    },
+    {
+      "box": [
+        164.4868621826172,
+        225.674560546875,
+        480.8271789550781,
+        239.0052032470703
+      ],
+      "text": "Zoologist Ross Piper looks at the potential of insects in\n"
+    },
+    {
+      "box": [
+        250.50953674316406,
+        238.99185180664062,
+        394.1204833984375,
+        251.60189819335938
+      ],
+      "text": "pharmaceutical research\n"
+    },
+    {
+      "box": [
+        106.53853607177734,
+        265.2665710449219,
+        537.6056518554688,
+        355.25927734375
+      ],
+      "text": "A\nMore drugs than you might think are derived from, or inspired by, compounds found\nin living things. Looking to nature for the soothing and curing of our ailments is\nnothing new — we have been doing it for tens of thousands of years. You only have\nto look at other primates — such as the capuchin monkeys who rub themselves with\ntoxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious\nforest plants to rid themselves of intestinal parasites — to realise that our ancient\nancestors too probably had a basic grasp of medicine.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        369.64556884765625,
+        534.1036376953125,
+        472.23638916015625
+      ],
+      "text": "B_\nPharmaceutical science and chemistry built on these ancient foundations and\nperfected the extraction, characterisation, modification and testing of these natural\nproducts. Then, for a while, modern pharmaceutical science moved its focus away\nfrom nature and into the laboratory, designing chemical compounds from scratch.\nThe main cause of this shift is that although there are plenty of promising chemical\ncompounds in nature, finding them is far from easy. Securing sufficient numbers of\nthe organism in question, isolating and characterising the compounds of interest,\nand producing large quantities of these compounds are all significant hurdles.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        486.62200927734375,
+        487.8168640136719,
+        497.7909240722656
+      ],
+      "text": "C___Laboratory-based drug discovery has achieved varying levels of success,\n"
+    },
+    {
+      "box": [
+        131.7334442138672,
+        499.2194519042969,
+        534.5787963867188,
+        575.8948364257812
+      ],
+      "text": "something which has now prompted the development of new approaches focusing\nonce again on natural products. With the ability to mine genomes for useful\ncompounds, it is now evident that we have barely scratched the surface of nature’s\nmolecular diversity. This realisation, together with several looming health crises,\nsuch as antibiotic resistance, has put bioprospecting — the search for useful\ncompounds in nature — firmly back on the map.\n"
+    },
+    {
+      "box": [
+        107.61834716796875,
+        590.2810668945312,
+        525.7100830078125,
+        627.3648071289062
+      ],
+      "text": "D\nInsects are the undisputed masters of the terrestrial domain, where they occupy\nevery possible niche. Consequently, they have a bewildering array of interactions\nwith other organisms, something which has driven the evolution of an enormous\n"
+    },
+    {
+      "box": [
+        132.09344482421875,
+        629.1533203125,
+        536.9686279296875,
+        679.5546264648438
+      ],
+      "text": "range of very interesting compounds for defensive and offensive purposes. Their\nremarkable diversity exceeds that of every other group of animals on the planet\ncombined. Yet even though insects are far and away the most diverse animals in\nexistence, their potential as sources of therapeutic compounds is yet to be realised.\n"
+    },
+    {
+      "box": [
+        527.6537475585938,
+        732.4524536132812,
+        539.4918212890625,
+        740.7390747070312
+      ],
+      "text": "63\n"
+    }
+  ]
+}

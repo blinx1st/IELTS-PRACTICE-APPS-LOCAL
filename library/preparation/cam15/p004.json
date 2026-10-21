@@ -1,0 +1,147 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 4,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "$a B (CrP) BE\nSER BAS. 15. 2728 / RES\niA\nRRA tH a Ptanes. —— Re\n: FT Wee, 2020.6\n+34 JR: Cambridge IELTS 15 (Academic)\nISBN 978-7-5193-0494-2\n1. O&y--- 1. OS IL. DIELTS\n- YR\nWV.\nH310.41-44\nFPRASE ACIP ( 2020) 380720915\nMULE: FAS#01—2020—20205\nThis is a reprint of the following title published by Cambridge University Press:\nCambridge IELTS 15 (Academic) (ISBN: 9781108781619)\nCambridge University Press and Cambridge Assessment 2020\nThis reprint for the People’s Republic of China (excluding Hong Kong, Macau and Taiwan) is published by\narrangement with the Press Syndicate of the University of Cambridge, Cambridge, United Kingdom.\n© Cambridge University Press, Cambridge Assessment English and Qunyan Press 2020.\nThis reprint is authorized for sale in the People’s Republic of China (excluding Hong Kong, Macau and Taiwan) only.\nUnauthorized export of this reprint is a violation of the Copyright Act. No part of this publication may be reproduced\nor distributed by any means, or stored in a database or retrieval system, without the prior written permission of\nCambridge University Press and Qunyan Press.\nHERA\nEE A REA\nOMETEFE. BRST RAS ) HE. RABEAE\nPAT. FRUITS\nHELALE Se LB TDR, ASSET PRS AN LAEOS, BLA\nROESUER RHE\nRE: PEE\nHRT: =\nfa\nTHARStT: BRS\noh eth:\nBe\nBE: AGAR TARE\nART WAILERS (100006 )\nRy\ndk: www.qypublish.com ( ‘H PI-B5x)\nHAF4AGA: dywh@xdficn\nqunyanchs@126.com\nREAM: 010-62418641\n65267783 65263836\n&\n4: Heese\nPl:\nTGR\nARRREA\nPR al\nAR\nOR: 20204FG ASAI\n2020466ASALEA\nF\nAe: 787mmX1092mm = 1/16\nfu\nmR: 9\n-\nBR: 2097F\n#\n5: [SBN 978-7-5193-0494-2\n%\nft:\n128.0070\nEz mura, Bes)\nHAR, HR, MAFPRAEMA, HAITMSMA:\n010-626051656,\n",
+  "blocks": [
+    {
+      "box": [
+        85.65631376587062,
+        103.65133766626361,
+        315.49951386019285,
+        138.21294257862826
+      ],
+      "text": "$a B (CrP) BE\nSER BAS. 15. 2728 / RES\n"
+    },
+    {
+      "box": [
+        64.4221855634069,
+        125.2453663467352,
+        316.2445617410167,
+        175.63935588171097
+      ],
+      "text": "iA\nRRA tH a Ptanes. —— Re\n: FT Wee, 2020.6\n+34 JR: Cambridge IELTS 15 (Academic)\nISBN 978-7-5193-0494-2\n"
+    },
+    {
+      "box": [
+        64.78208604141476,
+        187.8680495201028,
+        307.72026854270604,
+        213.44653791561575
+      ],
+      "text": "1. O&y--- 1. OS IL. DIELTS\n- YR\nWV.\nH310.41-44\n"
+    },
+    {
+      "box": [
+        85.65631376587062,
+        224.93779875491234,
+        317.7687496377883,
+        241.87003548935218
+      ],
+      "text": "FPRASE ACIP ( 2020) 380720915\n"
+    },
+    {
+      "box": [
+        86.37611472188634,
+        253.0100360395254,
+        247.1795487139601,
+        263.45757670596646
+      ],
+      "text": "MULE: FAS#01—2020—20205\n"
+    },
+    {
+      "box": [
+        64.78208604141476,
+        272.44466185194983,
+        389.9593729603824,
+        282.53195057507247
+      ],
+      "text": "This is a reprint of the following title published by Cambridge University Press:\n"
+    },
+    {
+      "box": [
+        65.50188699743047,
+        287.56048192827996,
+        296.7738521567087,
+        298.3683038268153
+      ],
+      "text": "Cambridge IELTS 15 (Academic) (ISBN: 9781108781619)\n"
+    },
+    {
+      "box": [
+        65.50188699743047,
+        304.83570487265723,
+        316.89951734723513,
+        314.2024604203671
+      ],
+      "text": "Cambridge University Press and Cambridge Assessment 2020\n"
+    },
+    {
+      "box": [
+        65.50188699743047,
+        319.2317239929716,
+        552.0513666472767,
+        359.55065286875447
+      ],
+      "text": "This reprint for the People’s Republic of China (excluding Hong Kong, Macau and Taiwan) is published by\narrangement with the Press Syndicate of the University of Cambridge, Cambridge, United Kingdom.\n© Cambridge University Press, Cambridge Assessment English and Qunyan Press 2020.\n"
+    },
+    {
+      "box": [
+        65.50188699743047,
+        363.85938326594624,
+        544.1696399029875,
+        375.3877090511184
+      ],
+      "text": "This reprint is authorized for sale in the People’s Republic of China (excluding Hong Kong, Macau and Taiwan) only.\n"
+    },
+    {
+      "box": [
+        65.50188699743047,
+        380.7747057323156,
+        553.1526246203478,
+        404.17831214172907
+      ],
+      "text": "Unauthorized export of this reprint is a violation of the Copyright Act. No part of this publication may be reproduced\nor distributed by any means, or stored in a database or retrieval system, without the prior written permission of\n"
+    },
+    {
+      "box": [
+        64.4221855634069,
+        408.12714206091294,
+        552.0873332640568,
+        463.58204169083103
+      ],
+      "text": "Cambridge University Press and Qunyan Press.\nHERA\nEE A REA\nOMETEFE. BRST RAS ) HE. RABEAE\nPAT. FRUITS\nHELALE Se LB TDR, ASSET PRS AN LAEOS, BLA\nROESUER RHE\n"
+    },
+    {
+      "box": [
+        121.28646108864874,
+        510.3388778151451,
+        202.91548030475417,
+        533.3822322812401
+      ],
+      "text": "RE: PEE\nHRT: =\nfa\n"
+    },
+    {
+      "box": [
+        122.36616252267231,
+        549.5680299180018,
+        223.39020912621302,
+        559.6553186411245
+      ],
+      "text": "THARStT: BRS\n"
+    },
+    {
+      "box": [
+        120.92656061064088,
+        548.1284280059704,
+        401.73890857627345,
+        765.5173376656886
+      ],
+      "text": "oh eth:\nBe\nBE: AGAR TARE\nART WAILERS (100006 )\nRy\ndk: www.qypublish.com ( ‘H PI-B5x)\nHAF4AGA: dywh@xdficn\nqunyanchs@126.com\nREAM: 010-62418641\n65267783 65263836\n&\n4: Heese\nPl:\nTGR\nARRREA\nPR al\nAR\nOR: 20204FG ASAI\n2020466ASALEA\nF\nAe: 787mmX1092mm = 1/16\nfu\nmR: 9\n-\nBR: 2097F\n#\n5: [SBN 978-7-5193-0494-2\n%\nft:\n128.0070\nEz mura, Bes)\nHAR, HR, MAFPRAEMA, HAITMSMA:\n010-626051656,\n"
+    }
+  ]
+}

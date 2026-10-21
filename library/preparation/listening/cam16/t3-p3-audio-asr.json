@@ -1,0 +1,177 @@
+{
+  "book": 16,
+  "test": 3,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 3.mp3",
+  "sha256": "a1672623d8f6e5fdb823f587f5af811f0d0a116b32bdbe6862dab4241a06b42e",
+  "duration": 410.924,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      311.3763125,
+      411.3763125
+    ]
+  ],
+  "text": "Part 3. You will hear two food science students called Adam and Rosie starting to plan their presentation on diet and obesity. First you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. OK Rosie, shall we try to get some ideas together for our presentation on diet and obesity? Sure. I can talk about the experiment I did to see if people can tell a difference between real sugar and artificial sweeteners. where you gave people drinks with either sugar or artificial sweeteners and they had to say which they thought it was. Yeah, it took me ages to decide exactly how I'd organize it, especially how I could make sure that people didn't know which drink I was giving them. It was hard to keep track of it all, especially as I had so many people doing it, I had to make sure I kept a proper record of what each person had had. So could most people tell the difference? Yeah, I hadn't thought that they would be able to, but most people could. Then there's that experiment I did, measuring the fat content of nuts, to see if the nutritional information given on the packet was accurate. The one where you ground up the nuts and mixed them with a chemical to absorb the fat. Yes, my results were a bit problematic. That content for that type of nut seemed much lower than it said. and if you increase the width of the stairs you'll get more people using them at the same time. It's an unconscious process and influenced by minor modifications in their environment. Right and it might not be a big change but if it happens every day it all heads up. Yes but actually I'm not sure if we should be talking about exercise in our presentation. Well we've done quite a bit of reading about it. I know, but it's going to mean we have a very wide focus and are you to did say that we need to focus on causes and solutions in terms of nutrition? I suppose so. And we've got plenty of information about that. Okay, well, that will be simpler. So what shall we do now? We've still got half an hour before our next lecture. Let's think about what we're going to include and what we'll go where. Then we can decide what slides we need. Okay fine.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Part 3. You will hear two food science students called Adam and Rosie starting to plan their presentation on diet and obesity."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "First you have some time to look at questions 21 to 24."
+    },
+    {
+      "start": 30.0,
+      "end": 44.0,
+      "text": "Now listen carefully and answer questions 21 to 24."
+    },
+    {
+      "start": 44.0,
+      "end": 50.0,
+      "text": "OK Rosie, shall we try to get some ideas together for our presentation on diet and obesity?"
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "text": "Sure."
+    },
+    {
+      "start": 51.0,
+      "end": 56.0,
+      "text": "I can talk about the experiment I did to see if people can tell a difference between"
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": "real sugar and artificial sweeteners."
+    },
+    {
+      "start": 58.0,
+      "end": 64.76,
+      "text": "where you gave people drinks with either sugar or artificial sweeteners and they had to say which they thought it was."
+    },
+    {
+      "start": 64.76,
+      "end": 74.28,
+      "text": "Yeah, it took me ages to decide exactly how I'd organize it, especially how I could make sure that people didn't know which drink I was giving them."
+    },
+    {
+      "start": 74.56,
+      "end": 80.16,
+      "text": "It was hard to keep track of it all, especially as I had so many people doing it,"
+    },
+    {
+      "start": 80.24,
+      "end": 84.44,
+      "text": "I had to make sure I kept a proper record of what each person had had."
+    },
+    {
+      "start": 84.44,
+      "end": 87.32,
+      "text": "So could most people tell the difference?"
+    },
+    {
+      "start": 87.32,
+      "end": 92.32,
+      "text": "Yeah, I hadn't thought that they would be able to, but most people could."
+    },
+    {
+      "start": 92.32,
+      "end": 97.32,
+      "text": "Then there's that experiment I did, measuring the fat content of nuts,"
+    },
+    {
+      "start": 97.32,
+      "end": 102.32,
+      "text": "to see if the nutritional information given on the packet was accurate."
+    },
+    {
+      "start": 102.32,
+      "end": 107.32,
+      "text": "The one where you ground up the nuts and mixed them with a chemical to absorb the fat."
+    },
+    {
+      "start": 107.32,
+      "end": 111.32,
+      "text": "Yes, my results were a bit problematic."
+    },
+    {
+      "start": 111.32,
+      "end": 115.08,
+      "text": "That content for that type of nut seemed much lower than it said."
+    },
+    {
+      "start": 311.38,
+      "end": 316.98,
+      "text": "and if you increase the width of the stairs you'll get more people using them at the same time."
+    },
+    {
+      "start": 317.7,
+      "end": 323.62,
+      "text": "It's an unconscious process and influenced by minor modifications in their environment."
+    },
+    {
+      "start": 323.62,
+      "end": 329.94,
+      "text": "Right and it might not be a big change but if it happens every day it all heads up."
+    },
+    {
+      "start": 329.94,
+      "end": 335.7,
+      "text": "Yes but actually I'm not sure if we should be talking about exercise in our presentation."
+    },
+    {
+      "start": 335.7,
+      "end": 338.9,
+      "text": "Well we've done quite a bit of reading about it."
+    },
+    {
+      "start": 338.9,
+      "end": 343.94,
+      "text": "I know, but it's going to mean we have a very wide focus and are you to"
+    },
+    {
+      "start": 343.94,
+      "end": 349.3,
+      "text": "did say that we need to focus on causes and solutions in terms of nutrition?"
+    },
+    {
+      "start": 349.3,
+      "end": 353.7,
+      "text": "I suppose so. And we've got plenty of information about that."
+    },
+    {
+      "start": 354.42,
+      "end": 356.9,
+      "text": "Okay, well, that will be simpler."
+    },
+    {
+      "start": 357.7,
+      "end": 362.82,
+      "text": "So what shall we do now? We've still got half an hour before our next lecture."
+    },
+    {
+      "start": 362.82,
+      "end": 366.5,
+      "text": "Let's think about what we're going to include and what we'll go where."
+    },
+    {
+      "start": 366.5,
+      "end": 369.74,
+      "text": "Then we can decide what slides we need."
+    },
+    {
+      "start": 369.74,
+      "end": 370.74,
+      "text": "Okay fine."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

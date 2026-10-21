@@ -1,0 +1,961 @@
+{
+  "id": "cam14-listening-test2",
+  "skill": "listening",
+  "book": 14,
+  "test": 2,
+  "title": "Cambridge 14 · Listening Test 2",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam14-listening-test2-p1",
+      "number": 1,
+      "title": "TOTAL HEALTH CLINIC",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t2-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Contact phone: …"
+            },
+            {
+              "number": 2,
+              "text": "Date of birth: …, 1992"
+            },
+            {
+              "number": 3,
+              "text": "Occupation: works as a …"
+            },
+            {
+              "number": 4,
+              "text": "Insurance company: … Life Insurance"
+            },
+            {
+              "number": 5,
+              "text": "Type of problem: pain in her left …"
+            },
+            {
+              "number": 6,
+              "text": "When it began: … ago"
+            },
+            {
+              "number": 7,
+              "text": "Sports played: belongs to a … club; goes … regularly"
+            },
+            {
+              "number": 8,
+              "text": "Sports played: belongs to a … club; goes … regularly"
+            },
+            {
+              "number": 9,
+              "text": "Medical history: injured her … last year; no allergies; no regular medication apart from …"
+            },
+            {
+              "number": 10,
+              "text": "Medical history: injured her … last year; no allergies; no regular medication apart from …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-024.webp",
+              "page": 24
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "TOTAL HEALTH CLINIC"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "PATIENT DETAILS"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Personal information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Example: Name: Julie Anne Garcia"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Contact phone: ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Date of birth: ",
+                  {
+                    "number": 2
+                  },
+                  ", 1992"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Occupation: works as a ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Insurance company: ",
+                  {
+                    "number": 4
+                  },
+                  " Life Insurance"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Details of the problem"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Type of problem: pain in her left ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "When it began: ",
+                  {
+                    "number": 6
+                  },
+                  " ago"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Action already taken: has taken painkillers and applied ice"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Other information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Sports played: belongs to a ",
+                  {
+                    "number": 7
+                  },
+                  " club; goes ",
+                  {
+                    "number": 8
+                  },
+                  " regularly"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Medical history: injured her ",
+                  {
+                    "number": 9
+                  },
+                  " last year; no allergies; no regular medication apart from ",
+                  {
+                    "number": 10
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-024.webp",
+          "page": 24
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 24
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/39f8e825e45596fbac72e053e47d845dbc98b2ae990b32d7d4454478459e5bb2.mp3",
+        "sha256": "39f8e825e45596fbac72e053e47d845dbc98b2ae990b32d7d4454478459e5bb2",
+        "duration": 462.151,
+        "start": 48.28,
+        "end": 462.151,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t2-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t2-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–15",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Before Queen Elizabeth I visited the castle in 1576,",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "repairs were carried out to the guest rooms."
+                },
+                {
+                  "value": "B",
+                  "label": "a new building was constructed for her."
+                },
+                {
+                  "value": "C",
+                  "label": "a fire damaged part of the main hall."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "In 1982, the castle was sold to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the government."
+                },
+                {
+                  "value": "B",
+                  "label": "the Fenys family."
+                },
+                {
+                  "value": "C",
+                  "label": "an entertainment company."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "In some of the rooms, visitors can",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "speak to experts on the history of the castle."
+                },
+                {
+                  "value": "B",
+                  "label": "interact with actors dressed as famous characters."
+                },
+                {
+                  "value": "C",
+                  "label": "see models of historical figures moving and talking."
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "In the castle park, visitors can",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "see an 800-year-old tree."
+                },
+                {
+                  "value": "B",
+                  "label": "go to an art exhibition."
+                },
+                {
+                  "value": "C",
+                  "label": "visit a small zoo."
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "At the end of the visit, the group will have",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "afternoon tea in the conservatory."
+                },
+                {
+                  "value": "B",
+                  "label": "the chance to meet the castle’s owners."
+                },
+                {
+                  "value": "C",
+                  "label": "a photograph together on the Great Staircase."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-025.webp",
+              "page": 25
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t2-p2-g16",
+          "type": "matching",
+          "heading": "Questions 16–20",
+          "instructions": "Label the map/plan below. Write the correct letter, A–H, next to Questions 16–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 16,
+              "text": "Starting point for walking the walls"
+            },
+            {
+              "number": 17,
+              "text": "Bow and arrow display"
+            },
+            {
+              "number": 18,
+              "text": "Hunting birds display"
+            },
+            {
+              "number": 19,
+              "text": "Traditional dancing"
+            },
+            {
+              "number": 20,
+              "text": "Shop"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-026.webp",
+              "page": 26
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            }
+          ],
+          "renderMode": "source-map",
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam14-page-026.webp",
+              "page": 26
+            },
+            "labels": [
+              {
+                "number": 16,
+                "x": 0.714,
+                "y": 0.728,
+                "width": 0.12
+              },
+              {
+                "number": 17,
+                "x": 0.714,
+                "y": 0.7518,
+                "width": 0.12
+              },
+              {
+                "number": 18,
+                "x": 0.714,
+                "y": 0.7756,
+                "width": 0.12
+              },
+              {
+                "number": 19,
+                "x": 0.714,
+                "y": 0.7994,
+                "width": 0.12
+              },
+              {
+                "number": 20,
+                "x": 0.714,
+                "y": 0.8232,
+                "width": 0.12
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-025.webp",
+          "page": 25
+        },
+        {
+          "url": "/library-assets/l-cam14-page-026.webp",
+          "page": 26
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 25
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 26
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/540e4275e303ca5f4cb2bb2b3cb30209e6219b02e39bcc318a40e0751ce23c05.mp3",
+        "sha256": "540e4275e303ca5f4cb2bb2b3cb30209e6219b02e39bcc318a40e0751ce23c05",
+        "duration": 443.229,
+        "start": 0,
+        "end": 443.229,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t2-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t2-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–24",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "How will Rosie and Martin introduce their presentation?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "with a drawing of woolly mammoths in their natural habitat"
+                },
+                {
+                  "value": "B",
+                  "label": "with a timeline showing when woolly mammoths lived"
+                },
+                {
+                  "value": "C",
+                  "label": "with a video clip about woolly mammoths"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "What was surprising about the mammoth tooth found by Russell Graham?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It was still embedded in the mammoth’s jawbone."
+                },
+                {
+                  "value": "B",
+                  "label": "It was from an unknown species of mammoth."
+                },
+                {
+                  "value": "C",
+                  "label": "It was not as old as mammoth remains from elsewhere."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "The students will use an animated diagram to demonstrate how the mammoths",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "became isolated on the island."
+                },
+                {
+                  "value": "B",
+                  "label": "spread from the island to other areas."
+                },
+                {
+                  "value": "C",
+                  "label": "coexisted with other animals on the island."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "According to Martin, what is unusual about the date of the mammoths’ extinction on the island?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "how exact it is"
+                },
+                {
+                  "value": "B",
+                  "label": "how early it is"
+                },
+                {
+                  "value": "C",
+                  "label": "how it was established"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-027.webp",
+              "page": 27
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t2-p3-g25",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What action will the students take for each of the following sections of their presentation? Choose SIX answers from the box and write the correct letter, A-H, next to . Actions",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Introduction"
+            },
+            {
+              "number": 26,
+              "text": "Discovery of the mammoth tooth"
+            },
+            {
+              "number": 27,
+              "text": "Initial questions asked by the researchers"
+            },
+            {
+              "number": 28,
+              "text": "Further research carried out on the island"
+            },
+            {
+              "number": 29,
+              "text": "Findings and possible explanations"
+            },
+            {
+              "number": 30,
+              "text": "Relevance to the present day"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-028.webp",
+              "page": 28
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "make it more interactive"
+            },
+            {
+              "value": "B",
+              "label": "reduce visual input"
+            },
+            {
+              "value": "C",
+              "label": "add personal opinions"
+            },
+            {
+              "value": "D",
+              "label": "contact one of the researchers"
+            },
+            {
+              "value": "E",
+              "label": "make detailed notes"
+            },
+            {
+              "value": "F",
+              "label": "find information online"
+            },
+            {
+              "value": "G",
+              "label": "check timing"
+            },
+            {
+              "value": "H",
+              "label": "organise the content more clearly"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-027.webp",
+          "page": 27
+        },
+        {
+          "url": "/library-assets/l-cam14-page-028.webp",
+          "page": 28
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 27
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 28
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c21a6775fd56b4b4c28229f1f37404fe7b2fa54fd10abd7c85a37c8127ea1648.mp3",
+        "sha256": "c21a6775fd56b4b4c28229f1f37404fe7b2fa54fd10abd7c85a37c8127ea1648",
+        "duration": 462.045,
+        "start": 0,
+        "end": 462.045,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t2-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test2-p4",
+      "number": 4,
+      "title": "The history of weather forecasting",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t2-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "many cultures invented … and other ceremonies to make the weather gods friendly"
+            },
+            {
+              "number": 32,
+              "text": "people needed to observe and interpret the sky to ensure their …"
+            },
+            {
+              "number": 33,
+              "text": "around 650 BC, Babylonians started forecasting, using weather phenomena such as …"
+            },
+            {
+              "number": 34,
+              "text": "by 300 BC, the Chinese had a calendar made up of a number of … connected with the weather"
+            },
+            {
+              "number": 35,
+              "text": "Aristotle also described haloes and …"
+            },
+            {
+              "number": 36,
+              "text": "many proverbs, e.g. about the significance of the colour of the …, passed on accurate information."
+            },
+            {
+              "number": 37,
+              "text": "15th century: scientists recognised value of … for the first time"
+            },
+            {
+              "number": 38,
+              "text": "Galileo invented the …"
+            },
+            {
+              "number": 39,
+              "text": "18th century: Franklin identified the movement of …"
+            },
+            {
+              "number": 40,
+              "text": "19th century: data from different locations could be sent to the same place by …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-029.webp",
+              "page": 29
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The history of weather forecasting"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient cultures"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "many cultures believed that floods and other disasters were involved in the creation of the world"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "many cultures invented ",
+                  {
+                    "number": 31
+                  },
+                  " and other ceremonies to make the weather gods friendly"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "people needed to observe and interpret the sky to ensure their ",
+                  {
+                    "number": 32
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "around 650 BC, Babylonians started forecasting, using weather phenomena such as ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "by 300 BC, the Chinese had a calendar made up of a number of ",
+                  {
+                    "number": 34
+                  },
+                  " connected with the weather"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Greeks"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "a more scientific approach"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Aristotle tried to explain the formation of various weather phenomena"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Aristotle also described haloes and ",
+                  {
+                    "number": 35
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Middle Ages"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Aristotle’s work considered accurate"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "many proverbs, e.g. about the significance of the colour of the ",
+                  {
+                    "number": 36
+                  },
+                  ", passed on accurate information."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "15th–19th centuries"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "15th century: scientists recognised value of ",
+                  {
+                    "number": 37
+                  },
+                  " for the first time"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Galileo invented the ",
+                  {
+                    "number": 38
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Pascal showed relationship between atmospheric pressure and altitude"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "from the 17th century, scientists could measure atmospheric pressure and temperature"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "18th century: Franklin identified the movement of ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "19th century: data from different locations could be sent to the same place by ",
+                  {
+                    "number": 40
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-029.webp",
+          "page": 29
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 29
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90.mp3",
+        "sha256": "08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90",
+        "duration": 1040.924,
+        "start": 0,
+        "end": 466.98,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t2-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam14/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

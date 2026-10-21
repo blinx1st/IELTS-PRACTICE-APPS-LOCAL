@@ -1,0 +1,147 @@
+{
+  "book": 13,
+  "test": 1,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_03.mp3",
+  "sha256": "c9e4bfe258e6bf508af3a0d77213a0dbb70d0689009aa42f8e954cccaf3b50d5",
+  "duration": 426.645,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      327.2849375,
+      427.2849375
+    ]
+  ],
+  "text": "You will hear two biology students called Emma and Jack discussing an experiment they are going to do together. First, you have some time to look at questions 21 to 25. Now, listen carefully and answer questions 21 to 25. We've got to choose a topic for our experiment, haven't we, Jack? Were you thinking of something to do with seeds? That's right. I thought we could look at seed germination, how a seed begins to grow. Okay, any particular reason? I know you're hoping to work in plant science, eventually. Yeah, but practically everything we do is going to feed into that. that. No, there's an optional module on seed structure and function in the third year that I might do. So, I thought it might be useful for that. If I choose that option, I don't have to do a dissertation module. Good idea. Well, I thought for this experiment, we could look at the relationship between seed size and the way the seeds are planted, So we could plant different sized seeds in different ways. That'll be quite time consuming and we also need to decide how deep we're going to plant the seeds right on the surface a few millimeters down or several centimeters. Okay, so then we get planting. Do you think we can plant several seeds together in the same plant pot? No, I think we need a different one for each seed. Right. And we'll need to label them. We can use different colored labels. Then we wait for the seeds to germinate. I reckon that'll be about three weeks, depending on what the weather's like. Then we see if our plants have come up and write down how tall they've grown. Then all we have to do is look at our numbers and see if there's any relation between them. That's right. That is the end of section three. You now have half a minute to check your answers. Now turn to Section 4.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "You will hear two biology students called Emma and Jack discussing an experiment they are going to do together."
+    },
+    {
+      "start": 11.0,
+      "end": 17.0,
+      "text": "First, you have some time to look at questions 21 to 25."
+    },
+    {
+      "start": 30.0,
+      "end": 56.76,
+      "text": "Now, listen carefully and answer questions 21 to 25."
+    },
+    {
+      "start": 60.0,
+      "end": 63.52,
+      "text": "We've got to choose a topic for our experiment, haven't we, Jack?"
+    },
+    {
+      "start": 64.16,
+      "end": 66.72,
+      "text": "Were you thinking of something to do with seeds?"
+    },
+    {
+      "start": 67.28,
+      "end": 73.44,
+      "text": "That's right. I thought we could look at seed germination, how a seed begins to grow."
+    },
+    {
+      "start": 74.16,
+      "end": 80.48,
+      "text": "Okay, any particular reason? I know you're hoping to work in plant science, eventually."
+    },
+    {
+      "start": 80.48,
+      "end": 84.72,
+      "text": "Yeah, but practically everything we do is going to feed into that."
+    },
+    {
+      "start": 84.72,
+      "end": 90.56,
+      "text": "that. No, there's an optional module on seed structure and function in the third year"
+    },
+    {
+      "start": 90.56,
+      "end": 97.88,
+      "text": "that I might do. So, I thought it might be useful for that. If I choose that option,"
+    },
+    {
+      "start": 97.88,
+      "end": 105.04,
+      "text": "I don't have to do a dissertation module. Good idea. Well, I thought for this experiment,"
+    },
+    {
+      "start": 105.04,
+      "end": 111.44,
+      "text": "we could look at the relationship between seed size and the way the seeds are planted,"
+    },
+    {
+      "start": 111.44,
+      "end": 114.96,
+      "text": "So we could plant different sized seeds in different ways."
+    },
+    {
+      "start": 327.28,
+      "end": 334.08,
+      "text": "That'll be quite time consuming and we also need to decide how deep we're going to plant the seeds"
+    },
+    {
+      "start": 334.08,
+      "end": 339.12,
+      "text": "right on the surface a few millimeters down or several centimeters."
+    },
+    {
+      "start": 339.12,
+      "end": 346.96,
+      "text": "Okay, so then we get planting. Do you think we can plant several seeds together in the same plant pot?"
+    },
+    {
+      "start": 347.68,
+      "end": 351.36,
+      "text": "No, I think we need a different one for each seed."
+    },
+    {
+      "start": 351.36,
+      "end": 359.04,
+      "text": "Right. And we'll need to label them. We can use different colored labels. Then we wait"
+    },
+    {
+      "start": 359.04,
+      "end": 365.12,
+      "text": "for the seeds to germinate. I reckon that'll be about three weeks, depending on what"
+    },
+    {
+      "start": 365.12,
+      "end": 371.44,
+      "text": "the weather's like. Then we see if our plants have come up and write down how tall they've"
+    },
+    {
+      "start": 371.44,
+      "end": 376.48,
+      "text": "grown. Then all we have to do is look at our numbers and see if there's any relation"
+    },
+    {
+      "start": 376.48,
+      "end": 380.48,
+      "text": "between them. That's right."
+    },
+    {
+      "start": 382.48,
+      "end": 385.48,
+      "text": "That is the end of section three."
+    },
+    {
+      "start": 385.48,
+      "end": 390.48,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 406.48,
+      "end": 422.48,
+      "text": "Now turn to Section 4."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

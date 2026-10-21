@@ -1,0 +1,210 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 72,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah oe\nBE, EAURERORAER\naps\nAra\niia 1718867188\nQuestions 25-30\nWhat comment do the students make about the development of each of the following\nitems of sporting equipment?\nChoose SIX answers from the box and write the correct letter, A-H, next to\nQuestions 25-30.\nComments about the development of the equipment\nA\nIt could cause excessive sweating.\nB-\nThe material was being mass produced for another\npurpose.\nC\nPeople often needed to make their own.\nD\nIt often had to be replaced.\nE\nThe material was expensive.\nF\nIt was unpopular among spectators.\nG _\nIt caused injuries.\nH\nNoone using it liked it at first.\nItems of sporting equipment\n25\nthe table tennis bat\n sssetnsseennseen\n26\nthe cricket helmet\n sssetnseeennseen\n27\nthe cycle helmet\n sessseesunnseeeee\n28\nthe golf club\nsb seseesssestnseee\n29\nthe hockey stick\n csssseentsnneeene\n30\nthe football\n sosstssseetnsee\n2/0 p. 125\np.115}\n79\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        512.0147705078125,
+        48.249000549316406
+      ],
+      "text": "hea\nah oe\nBE, EAURERORAER\naps\nAra\niia 1718867188\n"
+    },
+    {
+      "box": [
+        61.907535552978516,
+        82.06343078613281,
+        158.47613525390625,
+        92.15149688720703
+      ],
+      "text": "Questions 25-30\n"
+    },
+    {
+      "box": [
+        61.18768310546875,
+        110.49771881103516,
+        504.4565734863281,
+        135.34385681152344
+      ],
+      "text": "What comment do the students make about the development of each of the following\nitems of sporting equipment?\n"
+    },
+    {
+      "box": [
+        61.90752029418945,
+        152.24928283691406,
+        452.4000244140625,
+        175.65394592285156
+      ],
+      "text": "Choose SIX answers from the box and write the correct letter, A-H, next to\nQuestions 25-30.\n"
+    },
+    {
+      "box": [
+        146.8504180908203,
+        205.1586151123047,
+        438.9712219238281,
+        216.3275604248047
+      ],
+      "text": "Comments about the development of the equipment\n"
+    },
+    {
+      "box": [
+        159.8077850341797,
+        227.11424255371094,
+        366.046142578125,
+        237.9228515625
+      ],
+      "text": "A\nIt could cause excessive sweating.\n"
+    },
+    {
+      "box": [
+        160.5276336669922,
+        248.3498992919922,
+        451.7809143066406,
+        259.15850830078125
+      ],
+      "text": "B-\nThe material was being mass produced for another\n"
+    },
+    {
+      "box": [
+        186.44241333007812,
+        264.9065856933594,
+        230.67031860351562,
+        273.5534973144531
+      ],
+      "text": "purpose.\n"
+    },
+    {
+      "box": [
+        160.16770935058594,
+        283.9827575683594,
+        393.7605895996094,
+        294.7913818359375
+      ],
+      "text": "C\nPeople often needed to make their own.\n"
+    },
+    {
+      "box": [
+        160.5276336669922,
+        305.578369140625,
+        324.9193115234375,
+        316.747314453125
+      ],
+      "text": "D\nIt often had to be replaced.\n"
+    },
+    {
+      "box": [
+        160.5276336669922,
+        327.5339660644531,
+        334.37255859375,
+        338.34259033203125
+      ],
+      "text": "E\nThe material was expensive.\n"
+    },
+    {
+      "box": [
+        160.5276336669922,
+        349.1296081542969,
+        371.48101806640625,
+        359.938232421875
+      ],
+      "text": "F\nIt was unpopular among spectators.\n"
+    },
+    {
+      "box": [
+        160.16770935058594,
+        369.28558349609375,
+        276.0841369628906,
+        383.3367614746094
+      ],
+      "text": "G _\nIt caused injuries.\n"
+    },
+    {
+      "box": [
+        160.5276336669922,
+        391.96099853515625,
+        338.9041442871094,
+        403.1299133300781
+      ],
+      "text": "H\nNoone using it liked it at first.\n"
+    },
+    {
+      "box": [
+        87.4623794555664,
+        441.6309814453125,
+        245.54788208007812,
+        452.7998962402344
+      ],
+      "text": "Items of sporting equipment\n"
+    },
+    {
+      "box": [
+        61.187679290771484,
+        463.5865478515625,
+        300.35235595703125,
+        472.2334289550781
+      ],
+      "text": "25\nthe table tennis bat\n sssetnsseennseen\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        485.18218994140625,
+        300.35235595703125,
+        493.8291015625
+      ],
+      "text": "26\nthe cricket helmet\n sssetnseeennseen\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        506.77783203125,
+        300.50335693359375,
+        517.5864868164062
+      ],
+      "text": "27\nthe cycle helmet\n sessseesunnseeeee\n"
+    },
+    {
+      "box": [
+        61.18764877319336,
+        526.9337768554688,
+        299.5746765136719,
+        540.9849853515625
+      ],
+      "text": "28\nthe golf club\nsb seseesssestnseee\n"
+    },
+    {
+      "box": [
+        61.1876335144043,
+        549.9691772460938,
+        300.5032958984375,
+        560.7777709960938
+      ],
+      "text": "29\nthe hockey stick\n csssseentsnneeene\n"
+    },
+    {
+      "box": [
+        61.54754638671875,
+        571.5648193359375,
+        300.1793212890625,
+        580.5719604492188
+      ],
+      "text": "30\nthe football\n sosstssseetnsee\n"
+    },
+    {
+      "box": [
+        362.80682373046875,
+        729.2130126953125,
+        525.1268310546875,
+        741.4627685546875
+      ],
+      "text": "2/0 p. 125\np.115}\n79\n"
+    }
+  ]
+}

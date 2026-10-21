@@ -1,0 +1,911 @@
+{
+  "id": "cam13-listening-test3",
+  "skill": "listening",
+  "book": 13,
+  "test": 3,
+  "title": "Cambridge 13 · Listening Test 3",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam13-listening-test3-p1",
+      "number": 1,
+      "title": "Moving to Banford City",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t3-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Average rent: £… a month"
+            },
+            {
+              "number": 2,
+              "text": "Linda travels to work by …"
+            },
+            {
+              "number": 3,
+              "text": "Limited … in city centre"
+            },
+            {
+              "number": 4,
+              "text": "Trains to London every … minutes"
+            },
+            {
+              "number": 5,
+              "text": "Poor train service at …"
+            },
+            {
+              "number": 6,
+              "text": "New … opened recently"
+            },
+            {
+              "number": 7,
+              "text": "… has excellent reputation"
+            },
+            {
+              "number": 8,
+              "text": "Good … on Bridge Street"
+            },
+            {
+              "number": 9,
+              "text": "Meet Linda on … after 5.30 pm"
+            },
+            {
+              "number": 10,
+              "text": "In the … opposite the station"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-053.webp",
+              "page": 53
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Moving to Banford City"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Example: Linda recommends living in suburb of: Dalton"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Accommodation"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Average rent: £",
+                  {
+                    "number": 1
+                  },
+                  " a month"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Transport"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Linda travels to work by ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Limited ",
+                  {
+                    "number": 3
+                  },
+                  " in city centre"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Trains to London every ",
+                  {
+                    "number": 4
+                  },
+                  " minutes"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Poor train service at ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Advantages of living in Banford"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "New ",
+                  {
+                    "number": 6
+                  },
+                  " opened recently"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 7
+                  },
+                  " has excellent reputation"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Good ",
+                  {
+                    "number": 8
+                  },
+                  " on Bridge Street"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Meet Linda"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Meet Linda on ",
+                  {
+                    "number": 9
+                  },
+                  " after 5.30 pm"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "In the ",
+                  {
+                    "number": 10
+                  },
+                  " opposite the station"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-053.webp",
+          "page": 53
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 53
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/3e8652f1537f6aee3e27e686457e1fa21c0e912d7b89fd0036da2a46de6a0585.mp3",
+        "sha256": "3e8652f1537f6aee3e27e686457e1fa21c0e912d7b89fd0036da2a46de6a0585",
+        "duration": 548.35,
+        "start": 64.92,
+        "end": 548.35,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_01.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t3-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t3-p2-g11",
+          "type": "matching",
+          "heading": "Questions 11–16",
+          "instructions": "What advantage does the speaker mention for each of the following physical activities? Choose SIX answers from the box and write the correct letter, A-G, next to . Advantages",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "using a gym"
+            },
+            {
+              "number": 12,
+              "text": "running"
+            },
+            {
+              "number": 13,
+              "text": "swimming"
+            },
+            {
+              "number": 14,
+              "text": "cycling"
+            },
+            {
+              "number": 15,
+              "text": "doing yoga"
+            },
+            {
+              "number": 16,
+              "text": "training with a personal trainer"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-054.webp",
+              "page": 54
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "not dependent on season"
+            },
+            {
+              "value": "B",
+              "label": "enjoyable"
+            },
+            {
+              "value": "C",
+              "label": "low risk of injury"
+            },
+            {
+              "value": "D",
+              "label": "fitness level unimportant"
+            },
+            {
+              "value": "E",
+              "label": "sociable"
+            },
+            {
+              "value": "F",
+              "label": "fast results"
+            },
+            {
+              "value": "G",
+              "label": "motivating"
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t3-p2-g17",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "For which TWO reasons does the speaker say people give up going to the gym?",
+          "questions": [
+            {
+              "number": 17,
+              "text": "For which TWO reasons does the speaker say people give up going to the gym?"
+            },
+            {
+              "number": 18,
+              "text": "For which TWO reasons does the speaker say people give up going to the gym?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-055.webp",
+              "page": 55
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "lack of time"
+            },
+            {
+              "value": "B",
+              "label": "loss of confidence"
+            },
+            {
+              "value": "C",
+              "label": "too much effort required"
+            },
+            {
+              "value": "D",
+              "label": "high costs"
+            },
+            {
+              "value": "E",
+              "label": "feeling less successful than others"
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t3-p2-g19",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO pieces of advice does the speaker give for setting goals?",
+          "questions": [
+            {
+              "number": 19,
+              "text": "Which TWO pieces of advice does the speaker give for setting goals?"
+            },
+            {
+              "number": 20,
+              "text": "Which TWO pieces of advice does the speaker give for setting goals?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-055.webp",
+              "page": 55
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "write goals down"
+            },
+            {
+              "value": "B",
+              "label": "have achievable aims"
+            },
+            {
+              "value": "C",
+              "label": "set a time limit"
+            },
+            {
+              "value": "D",
+              "label": "give yourself rewards"
+            },
+            {
+              "value": "E",
+              "label": "challenge yourself"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-054.webp",
+          "page": 54
+        },
+        {
+          "url": "/library-assets/l-cam13-page-055.webp",
+          "page": 55
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 54
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 55
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/d96dffe85a002270e58aa90fe568b3c6d9fef6d7ac5bd78ebeece5d3a0cb1d2a.mp3",
+        "sha256": "d96dffe85a002270e58aa90fe568b3c6d9fef6d7ac5bd78ebeece5d3a0cb1d2a",
+        "duration": 380.817,
+        "start": 0,
+        "end": 380.817,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_02.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t3-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test3-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t3-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–24",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "What first inspired Jim to choose this project?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "textiles displayed in an exhibition"
+                },
+                {
+                  "value": "B",
+                  "label": "a book about a botanic garden"
+                },
+                {
+                  "value": "C",
+                  "label": "carpets he saw on holiday"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Jim eventually decided to do a practical investigation which involved",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "using a range of dyes with different fibres."
+                },
+                {
+                  "value": "B",
+                  "label": "applying different dyes to one type of fibre."
+                },
+                {
+                  "value": "C",
+                  "label": "testing one dye and a range of fibres."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "When doing his experiments, Jim was surprised by",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "how much natural material was needed to make the dye."
+                },
+                {
+                  "value": "B",
+                  "label": "the fact that dyes were widely available on the internet."
+                },
+                {
+                  "value": "C",
+                  "label": "the time that he had to leave the fabric in the dye."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What problem did Jim have with using tartrazine as a fabric dye?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It caused a slight allergic reaction."
+                },
+                {
+                  "value": "B",
+                  "label": "it was not a permanent dye on cotton."
+                },
+                {
+                  "value": "C",
+                  "label": "it was ineffective when used on nylon."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-056.webp",
+              "page": 56
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t3-p3-g25",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What problem is identified with each of the following natural dyes? Choose SIX answers from the box and write the correct letter, A-H, next to . Problems",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "turmeric"
+            },
+            {
+              "number": 26,
+              "text": "beetroot"
+            },
+            {
+              "number": 27,
+              "text": "Tyrian purple"
+            },
+            {
+              "number": 28,
+              "text": "logwood"
+            },
+            {
+              "number": 29,
+              "text": "cochineal"
+            },
+            {
+              "number": 30,
+              "text": "metal oxide"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-057.webp",
+              "page": 57
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "It is expensive."
+            },
+            {
+              "value": "B",
+              "label": "The colour is too strong."
+            },
+            {
+              "value": "C",
+              "label": "The colour is not long-lasting."
+            },
+            {
+              "value": "D",
+              "label": "It is very poisonous."
+            },
+            {
+              "value": "E",
+              "label": "It can damage the fabric."
+            },
+            {
+              "value": "F",
+              "label": "The colour may be unexpected."
+            },
+            {
+              "value": "G",
+              "label": "It is unsuitable for some fabrics."
+            },
+            {
+              "value": "H",
+              "label": "It is not generally available."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-056.webp",
+          "page": 56
+        },
+        {
+          "url": "/library-assets/l-cam13-page-057.webp",
+          "page": 57
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 56
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 57
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/0482877e09035af01eec435116240ca7b69c82d92b0a46c5f7ee1e203432e5bb.mp3",
+        "sha256": "0482877e09035af01eec435116240ca7b69c82d92b0a46c5f7ee1e203432e5bb",
+        "duration": 397.953,
+        "start": 0,
+        "end": 397.953,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_03.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t3-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test3-p4",
+      "number": 4,
+      "title": "The sleepy lizard (tiliqua rugosa)",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t3-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "They are brown, but recognisable by their blue …"
+            },
+            {
+              "number": 32,
+              "text": "Their diet consists mainly of …"
+            },
+            {
+              "number": 33,
+              "text": "Their main predators are large birds and …"
+            },
+            {
+              "number": 34,
+              "text": "One study found that lizards can use the … to help them navigate"
+            },
+            {
+              "number": 35,
+              "text": "Observations show that these lizards keep the same … for several years"
+            },
+            {
+              "number": 36,
+              "text": "(but little … has been noted between parents and children)"
+            },
+            {
+              "number": 37,
+              "text": "– to provide … for female lizards"
+            },
+            {
+              "number": 38,
+              "text": "– A study was carried out using GPS systems attached to the … of the lizards"
+            },
+            {
+              "number": 39,
+              "text": "– This provided information on the lizards’ location and even the number of … taken"
+            },
+            {
+              "number": 40,
+              "text": "– This may be in order to reduce chances of …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-058.webp",
+              "page": 58
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The sleepy lizard (tiliqua rugosa)"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Description"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "They are common in Western and South Australia"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "They are brown, but recognisable by their blue ",
+                  {
+                    "number": 31
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "They are relatively large"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Their diet consists mainly of ",
+                  {
+                    "number": 32
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Their main predators are large birds and ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Navigation study"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "One study found that lizards can use the ",
+                  {
+                    "number": 34
+                  },
+                  " to help them navigate"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Observations in the wild"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Observations show that these lizards keep the same ",
+                  {
+                    "number": 35
+                  },
+                  " for several years"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Possible reasons:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– to improve the survival of their young"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "(but little ",
+                  {
+                    "number": 36
+                  },
+                  " has been noted between parents and children)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– to provide ",
+                  {
+                    "number": 37
+                  },
+                  " for female lizards"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Tracking study"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– A study was carried out using GPS systems attached to the ",
+                  {
+                    "number": 38
+                  },
+                  " of the lizards"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– This provided information on the lizards’ location and even the number of ",
+                  {
+                    "number": 39
+                  },
+                  " taken"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– It appeared that the lizards were trying to avoid one another"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– This may be in order to reduce chances of ",
+                  {
+                    "number": 40
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-058.webp",
+          "page": 58
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 58
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/bbff8698b1ba1cbc7567cf6b29c57b6b6f08a1a640f7b56a59b88c66faf1e8f1.mp3",
+        "sha256": "bbff8698b1ba1cbc7567cf6b29c57b6b6f08a1a640f7b56a59b88c66faf1e8f1",
+        "duration": 398.997,
+        "start": 0,
+        "end": 349.6,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_04.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t3-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam13/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 36,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 2\nQuestions 14-18\nReading Passage 2 has nine sections, A-I.\nWhich section contains the following information?\nWrite the correct letter, A-I, in boxes 14-18 on your answer sheet.\n14\nwhy some people avoided hospitals in the 19th century\n15\na suggestion that the popularity of tall buildings is linked to prestige\n16\nacomparison between the circulation of air in a 19th-century building and modern\nstandards\n17\nhow Short tested the circulation of air in\na 19th-century building\n18\nan implication that advertising led to the large increase in the use of air conditioning\n44\n",
+  "blocks": [
+    {
+      "box": [
+        127.77426147460938,
+        91.78152465820312,
+        156.91395568847656,
+        100.42837524414062
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        125.97461700439453,
+        216.8294219970703,
+        135.70240783691406
+      ],
+      "text": "Questions 14-18\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        152.60923767089844,
+        336.37384033203125,
+        163.77818298339844
+      ],
+      "text": "Reading Passage 2 has nine sections, A-I.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        178.5240478515625,
+        366.089599609375,
+        190.0532684326172
+      ],
+      "text": "Which section contains the following information?\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        204.07888793945312,
+        449.02410888671875,
+        216.32870483398438
+      ],
+      "text": "Write the correct letter, A-I, in boxes 14-18 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        229.99368286132812,
+        417.5157470703125,
+        242.60372924804688
+      ],
+      "text": "14\nwhy some people avoided hospitals in the 19th century\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        250.1495819091797,
+        476.22735595703125,
+        263.1199645996094
+      ],
+      "text": "15\na suggestion that the popularity of tall buildings is linked to prestige\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        269.94561767578125,
+        547.413818359375,
+        291.9094543457031
+      ],
+      "text": "16\nacomparison between the circulation of air in a 19th-century building and modern\nstandards\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        303.0589599609375,
+        456.316162109375,
+        316.0293273925781
+      ],
+      "text": "17\nhow Short tested the circulation of air in\na 19th-century building\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        323.21490478515625,
+        554.9219360351562,
+        338.3469543457031
+      ],
+      "text": "18\nan implication that advertising led to the large increase in the use of air conditioning\n"
+    },
+    {
+      "box": [
+        121.29557037353516,
+        728.8532104492188,
+        133.17318725585938,
+        736.779541015625
+      ],
+      "text": "44\n"
+    }
+  ]
+}

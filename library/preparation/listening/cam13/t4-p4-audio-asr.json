@@ -1,0 +1,147 @@
+{
+  "book": 13,
+  "test": 4,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_08.mp3",
+  "sha256": "c6f8731c7d6988141d1db81552b53d0192ea029e47d7f26f04f8873989a20cb4",
+  "duration": 477.742,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      378.4588125,
+      478.4588125
+    ]
+  ],
+  "text": "You will hear part of a presentation by a history student about the history of coffee. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. In my presentation, I'm going to talk about coffee and its importance both in economic and social terms. We think it was first drunk in the Arab world, but there's hardly any documentary evidence of it before the 1500s, although of course that doesn't mean that people didn't know about it before then. However, there is evidence that coffee was originally gathered from bushes growing wild in Ethiopia in the northeast of Africa. In the early 16th century, it was being bought by traders, and gradually its use as a drink spread throughout the Middle East. It's... consumed. But during this century, production boomed and coffee prices started to fall. This was partly because new types of transportation had been developed, which were cheaper and more efficient. So now, working people could afford to buy coffee. It wasn't just a drink for the middle classes. And this was at a time when large parts of Europe were starting to work in industries. And sometimes this meant their work didn't stop when it got dark. They might have to continue throughout the night. So the use of coffee as a stimulant became important. It wasn't just a drink people drank in the morning for breakfast. There were also changes in cultivation. That is the end of section 4. You now have half a minute to check your answers. That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "You will hear part of a presentation by a history student about the history of coffee."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 72.36,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 72.36,
+      "end": 78.48,
+      "text": "In my presentation, I'm going to talk about coffee and its importance both in economic"
+    },
+    {
+      "start": 78.48,
+      "end": 84.96,
+      "text": "and social terms. We think it was first drunk in the Arab world, but there's hardly"
+    },
+    {
+      "start": 84.96,
+      "end": 90.88,
+      "text": "any documentary evidence of it before the 1500s, although of course that doesn't mean"
+    },
+    {
+      "start": 90.88,
+      "end": 97.76,
+      "text": "that people didn't know about it before then. However, there is evidence that coffee was originally"
+    },
+    {
+      "start": 97.76,
+      "end": 103.12,
+      "text": "gathered from bushes growing wild in Ethiopia in the northeast of Africa."
+    },
+    {
+      "start": 104.4,
+      "end": 111.76,
+      "text": "In the early 16th century, it was being bought by traders, and gradually its use as a drink"
+    },
+    {
+      "start": 111.76,
+      "end": 114.76,
+      "text": "spread throughout the Middle East."
+    },
+    {
+      "start": 114.76,
+      "end": 115.76,
+      "text": "It's..."
+    },
+    {
+      "start": 378.46,
+      "end": 386.26,
+      "text": "consumed. But during this century, production boomed and coffee prices started to fall."
+    },
+    {
+      "start": 386.26,
+      "end": 391.34,
+      "text": "This was partly because new types of transportation had been developed, which were cheaper"
+    },
+    {
+      "start": 391.34,
+      "end": 397.42,
+      "text": "and more efficient. So now, working people could afford to buy coffee. It wasn't just"
+    },
+    {
+      "start": 397.42,
+      "end": 403.14,
+      "text": "a drink for the middle classes. And this was at a time when large parts of Europe were"
+    },
+    {
+      "start": 403.14,
+      "end": 409.94,
+      "text": "starting to work in industries. And sometimes this meant their work didn't stop when it got dark."
+    },
+    {
+      "start": 409.94,
+      "end": 415.38,
+      "text": "They might have to continue throughout the night. So the use of coffee as a stimulant"
+    },
+    {
+      "start": 415.38,
+      "end": 420.82,
+      "text": "became important. It wasn't just a drink people drank in the morning for breakfast."
+    },
+    {
+      "start": 420.82,
+      "end": 428.46,
+      "text": "There were also changes in cultivation."
+    },
+    {
+      "start": 428.46,
+      "end": 432.02,
+      "text": "That is the end of section 4."
+    },
+    {
+      "start": 432.02,
+      "end": 435.06,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 458.46,
+      "end": 470.14,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 470.14,
+      "end": 475.82,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer"
+    },
+    {
+      "start": 475.82,
+      "end": 476.3,
+      "text": "sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

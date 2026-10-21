@@ -1,0 +1,1233 @@
+{
+  "audioSha256": "bccccad08d978375085d5f2f3793693ba2d13e59ab7b11607da9fc8cb3db2a40",
+  "duration": 518.8963125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 398.8963125,
+      "end": 407.0163125,
+      "text": " Unlike the majority of fruit trees, figs bear fruit all year round, providing a reliable",
+      "words": [
+        {
+          "word": " Unlike",
+          "start": 398.8963125,
+          "end": 400.31631250000004
+        },
+        {
+          "word": " the",
+          "start": 400.31631250000004,
+          "end": 400.7163125
+        },
+        {
+          "word": " majority",
+          "start": 400.7163125,
+          "end": 401.2363125
+        },
+        {
+          "word": " of",
+          "start": 401.2363125,
+          "end": 401.5163125
+        },
+        {
+          "word": " fruit",
+          "start": 401.5163125,
+          "end": 401.8363125
+        },
+        {
+          "word": " trees,",
+          "start": 401.8363125,
+          "end": 402.4163125
+        },
+        {
+          "word": " figs",
+          "start": 402.99631250000004,
+          "end": 403.3963125
+        },
+        {
+          "word": " bear",
+          "start": 403.3963125,
+          "end": 403.7763125
+        },
+        {
+          "word": " fruit",
+          "start": 403.7763125,
+          "end": 404.2163125
+        },
+        {
+          "word": " all",
+          "start": 404.2163125,
+          "end": 404.57631250000003
+        },
+        {
+          "word": " year",
+          "start": 404.57631250000003,
+          "end": 404.87631250000004
+        },
+        {
+          "word": " round,",
+          "start": 404.87631250000004,
+          "end": 405.5363125
+        },
+        {
+          "word": " providing",
+          "start": 405.93631250000004,
+          "end": 406.2363125
+        },
+        {
+          "word": " a",
+          "start": 406.2363125,
+          "end": 406.57631250000003
+        },
+        {
+          "word": " reliable",
+          "start": 406.57631250000003,
+          "end": 407.0163125
+        }
+      ]
+    },
+    {
+      "start": 407.0163125,
+      "end": 409.3563125,
+      "text": " food source for many species.",
+      "words": [
+        {
+          "word": " food",
+          "start": 407.0163125,
+          "end": 407.57631250000003
+        },
+        {
+          "word": " source",
+          "start": 407.57631250000003,
+          "end": 408.0363125
+        },
+        {
+          "word": " for",
+          "start": 408.0363125,
+          "end": 408.3363125
+        },
+        {
+          "word": " many",
+          "start": 408.3363125,
+          "end": 408.57631250000003
+        },
+        {
+          "word": " species.",
+          "start": 408.57631250000003,
+          "end": 409.3563125
+        }
+      ]
+    },
+    {
+      "start": 410.25631250000004,
+      "end": 417.3963125,
+      "text": " At this site, for example, after only three rainy seasons, monkeys started visiting to eat",
+      "words": [
+        {
+          "word": " At",
+          "start": 410.25631250000004,
+          "end": 410.5163125
+        },
+        {
+          "word": " this",
+          "start": 410.5163125,
+          "end": 410.81631250000004
+        },
+        {
+          "word": " site,",
+          "start": 410.81631250000004,
+          "end": 411.13631250000003
+        },
+        {
+          "word": " for",
+          "start": 411.31631250000004,
+          "end": 411.31631250000004
+        },
+        {
+          "word": " example,",
+          "start": 411.31631250000004,
+          "end": 411.99631250000004
+        },
+        {
+          "word": " after",
+          "start": 412.43631250000004,
+          "end": 412.5163125
+        },
+        {
+          "word": " only",
+          "start": 412.5163125,
+          "end": 412.8963125
+        },
+        {
+          "word": " three",
+          "start": 412.8963125,
+          "end": 413.37631250000004
+        },
+        {
+          "word": " rainy",
+          "start": 413.37631250000004,
+          "end": 413.75631250000004
+        },
+        {
+          "word": " seasons,",
+          "start": 413.75631250000004,
+          "end": 414.5363125
+        },
+        {
+          "word": " monkeys",
+          "start": 415.13631250000003,
+          "end": 415.37631250000004
+        },
+        {
+          "word": " started",
+          "start": 415.37631250000004,
+          "end": 416.19631250000003
+        },
+        {
+          "word": " visiting",
+          "start": 416.19631250000003,
+          "end": 416.61631250000005
+        },
+        {
+          "word": " to",
+          "start": 416.61631250000005,
+          "end": 417.0963125
+        },
+        {
+          "word": " eat",
+          "start": 417.0963125,
+          "end": 417.3963125
+        }
+      ]
+    },
+    {
+      "start": 417.3963125,
+      "end": 421.99631250000004,
+      "text": " the fig fruits, naturally dispersing seeds through defecation.",
+      "words": [
+        {
+          "word": " the",
+          "start": 417.3963125,
+          "end": 417.6763125
+        },
+        {
+          "word": " fig",
+          "start": 417.6763125,
+          "end": 417.8963125
+        },
+        {
+          "word": " fruits,",
+          "start": 417.8963125,
+          "end": 418.3963125
+        },
+        {
+          "word": " naturally",
+          "start": 419.07631250000003,
+          "end": 419.25631250000004
+        },
+        {
+          "word": " dispersing",
+          "start": 419.25631250000004,
+          "end": 420.1763125
+        },
+        {
+          "word": " seeds",
+          "start": 420.1763125,
+          "end": 420.5963125
+        },
+        {
+          "word": " through",
+          "start": 420.5963125,
+          "end": 421.1763125
+        },
+        {
+          "word": " defecation.",
+          "start": 421.1763125,
+          "end": 421.99631250000004
+        }
+      ]
+    },
+    {
+      "start": 423.3563125,
+      "end": 429.81631250000004,
+      "text": " Reforation projects should always aim to make sure that local communities are consulted",
+      "words": [
+        {
+          "word": " Reforation",
+          "start": 423.3563125,
+          "end": 424.2363125
+        },
+        {
+          "word": " projects",
+          "start": 424.2363125,
+          "end": 425.0363125
+        },
+        {
+          "word": " should",
+          "start": 425.0363125,
+          "end": 425.63631250000003
+        },
+        {
+          "word": " always",
+          "start": 425.63631250000003,
+          "end": 426.07631250000003
+        },
+        {
+          "word": " aim",
+          "start": 426.07631250000003,
+          "end": 426.3963125
+        },
+        {
+          "word": " to",
+          "start": 426.3963125,
+          "end": 426.5963125
+        },
+        {
+          "word": " make",
+          "start": 426.5963125,
+          "end": 426.9563125
+        },
+        {
+          "word": " sure",
+          "start": 426.9563125,
+          "end": 427.2363125
+        },
+        {
+          "word": " that",
+          "start": 427.2363125,
+          "end": 427.57631250000003
+        },
+        {
+          "word": " local",
+          "start": 427.57631250000003,
+          "end": 427.99631250000004
+        },
+        {
+          "word": " communities",
+          "start": 427.99631250000004,
+          "end": 428.7163125
+        },
+        {
+          "word": " are",
+          "start": 428.7163125,
+          "end": 429.2163125
+        },
+        {
+          "word": " consulted",
+          "start": 429.2163125,
+          "end": 429.81631250000004
+        }
+      ]
+    },
+    {
+      "start": 429.81631250000004,
+      "end": 433.0363125,
+      "text": " and involved in the decision-making process.",
+      "words": [
+        {
+          "word": " and",
+          "start": 429.81631250000004,
+          "end": 430.4763125
+        },
+        {
+          "word": " involved",
+          "start": 430.4763125,
+          "end": 431.07631250000003
+        },
+        {
+          "word": " in",
+          "start": 431.07631250000003,
+          "end": 431.3963125
+        },
+        {
+          "word": " the",
+          "start": 431.3963125,
+          "end": 431.5963125
+        },
+        {
+          "word": " decision",
+          "start": 431.5963125,
+          "end": 431.9763125
+        },
+        {
+          "word": "-making",
+          "start": 431.9763125,
+          "end": 432.4563125
+        },
+        {
+          "word": " process.",
+          "start": 432.4563125,
+          "end": 433.0363125
+        }
+      ]
+    },
+    {
+      "start": 434.4163125,
+      "end": 440.63631250000003,
+      "text": " The restoration of mangrove forests in Madagascar is an example of a project which has",
+      "words": [
+        {
+          "word": " The",
+          "start": 434.4163125,
+          "end": 434.5963125
+        },
+        {
+          "word": " restoration",
+          "start": 434.5963125,
+          "end": 435.13631250000003
+        },
+        {
+          "word": " of",
+          "start": 435.13631250000003,
+          "end": 435.4563125
+        },
+        {
+          "word": " mangrove",
+          "start": 435.4563125,
+          "end": 436.13631250000003
+        },
+        {
+          "word": " forests",
+          "start": 436.13631250000003,
+          "end": 436.73631250000005
+        },
+        {
+          "word": " in",
+          "start": 436.73631250000005,
+          "end": 437.0963125
+        },
+        {
+          "word": " Madagascar",
+          "start": 437.0963125,
+          "end": 437.5963125
+        },
+        {
+          "word": " is",
+          "start": 437.5963125,
+          "end": 438.4163125
+        },
+        {
+          "word": " an",
+          "start": 438.4163125,
+          "end": 438.61631250000005
+        },
+        {
+          "word": " example",
+          "start": 438.61631250000005,
+          "end": 439.0363125
+        },
+        {
+          "word": " of",
+          "start": 439.0363125,
+          "end": 439.31631250000004
+        },
+        {
+          "word": " a",
+          "start": 439.31631250000004,
+          "end": 439.5363125
+        },
+        {
+          "word": " project",
+          "start": 439.5363125,
+          "end": 439.9763125
+        },
+        {
+          "word": " which",
+          "start": 439.9763125,
+          "end": 440.37631250000004
+        },
+        {
+          "word": " has",
+          "start": 440.37631250000004,
+          "end": 440.63631250000003
+        }
+      ]
+    },
+    {
+      "start": 440.63631250000003,
+      "end": 444.31631250000004,
+      "text": " succeeded in creating real benefits for the community.",
+      "words": [
+        {
+          "word": " succeeded",
+          "start": 440.63631250000003,
+          "end": 441.07631250000003
+        },
+        {
+          "word": " in",
+          "start": 441.07631250000003,
+          "end": 441.99631250000004
+        },
+        {
+          "word": " creating",
+          "start": 441.99631250000004,
+          "end": 442.07631250000003
+        },
+        {
+          "word": " real",
+          "start": 442.07631250000003,
+          "end": 442.57631250000003
+        },
+        {
+          "word": " benefits",
+          "start": 442.57631250000003,
+          "end": 442.9763125
+        },
+        {
+          "word": " for",
+          "start": 442.9763125,
+          "end": 443.3963125
+        },
+        {
+          "word": " the",
+          "start": 443.3963125,
+          "end": 443.57631250000003
+        },
+        {
+          "word": " community.",
+          "start": 443.57631250000003,
+          "end": 444.31631250000004
+        }
+      ]
+    },
+    {
+      "start": 445.19631250000003,
+      "end": 452.5963125,
+      "text": " Destruction of the mangrove forests had a terrible impact on plant and animal life, and",
+      "words": [
+        {
+          "word": " Destruction",
+          "start": 445.19631250000003,
+          "end": 446.0363125
+        },
+        {
+          "word": " of",
+          "start": 446.0363125,
+          "end": 446.4163125
+        },
+        {
+          "word": " the",
+          "start": 446.4163125,
+          "end": 446.61631250000005
+        },
+        {
+          "word": " mangrove",
+          "start": 446.61631250000005,
+          "end": 447.2163125
+        },
+        {
+          "word": " forests",
+          "start": 447.2163125,
+          "end": 447.6763125
+        },
+        {
+          "word": " had",
+          "start": 447.6763125,
+          "end": 448.2963125
+        },
+        {
+          "word": " a",
+          "start": 448.2963125,
+          "end": 448.75631250000004
+        },
+        {
+          "word": " terrible",
+          "start": 448.75631250000004,
+          "end": 449.07631250000003
+        },
+        {
+          "word": " impact",
+          "start": 449.07631250000003,
+          "end": 449.69631250000003
+        },
+        {
+          "word": " on",
+          "start": 449.69631250000003,
+          "end": 450.07631250000003
+        },
+        {
+          "word": " plant",
+          "start": 450.07631250000003,
+          "end": 450.57631250000003
+        },
+        {
+          "word": " and",
+          "start": 450.57631250000003,
+          "end": 450.9763125
+        },
+        {
+          "word": " animal",
+          "start": 450.9763125,
+          "end": 451.2963125
+        },
+        {
+          "word": " life,",
+          "start": 451.2963125,
+          "end": 451.9563125
+        },
+        {
+          "word": " and",
+          "start": 452.1763125,
+          "end": 452.5963125
+        }
+      ]
+    },
+    {
+      "start": 452.5963125,
+      "end": 458.9563125,
+      "text": " also badly affected the fishing industry, which was a major source of employment for local",
+      "words": [
+        {
+          "word": " also",
+          "start": 452.5963125,
+          "end": 453.07631250000003
+        },
+        {
+          "word": " badly",
+          "start": 453.07631250000003,
+          "end": 453.49631250000004
+        },
+        {
+          "word": " affected",
+          "start": 453.49631250000004,
+          "end": 454.07631250000003
+        },
+        {
+          "word": " the",
+          "start": 454.07631250000003,
+          "end": 454.4763125
+        },
+        {
+          "word": " fishing",
+          "start": 454.4763125,
+          "end": 454.8563125
+        },
+        {
+          "word": " industry,",
+          "start": 454.8563125,
+          "end": 455.57631250000003
+        },
+        {
+          "word": " which",
+          "start": 455.9763125,
+          "end": 456.25631250000004
+        },
+        {
+          "word": " was",
+          "start": 456.25631250000004,
+          "end": 456.57631250000003
+        },
+        {
+          "word": " a",
+          "start": 456.57631250000003,
+          "end": 456.73631250000005
+        },
+        {
+          "word": " major",
+          "start": 456.73631250000005,
+          "end": 456.99631250000004
+        },
+        {
+          "word": " source",
+          "start": 456.99631250000004,
+          "end": 457.49631250000004
+        },
+        {
+          "word": " of",
+          "start": 457.49631250000004,
+          "end": 457.81631250000004
+        },
+        {
+          "word": " employment",
+          "start": 457.81631250000004,
+          "end": 458.23631250000005
+        },
+        {
+          "word": " for",
+          "start": 458.23631250000005,
+          "end": 458.5563125
+        },
+        {
+          "word": " local",
+          "start": 458.5563125,
+          "end": 458.9563125
+        }
+      ]
+    },
+    {
+      "start": 458.9563125,
+      "end": 466.7763125,
+      "text": " people living in coastal areas. The reef forestation project involved hiring local people",
+      "words": [
+        {
+          "word": " people",
+          "start": 458.9563125,
+          "end": 459.43631250000004
+        },
+        {
+          "word": " living",
+          "start": 459.43631250000004,
+          "end": 459.81631250000004
+        },
+        {
+          "word": " in",
+          "start": 459.81631250000004,
+          "end": 460.1563125
+        },
+        {
+          "word": " coastal",
+          "start": 460.1563125,
+          "end": 460.57631250000003
+        },
+        {
+          "word": " areas.",
+          "start": 460.57631250000003,
+          "end": 461.07631250000003
+        },
+        {
+          "word": " The",
+          "start": 462.2763125,
+          "end": 462.4563125
+        },
+        {
+          "word": " reef",
+          "start": 462.4563125,
+          "end": 462.73631250000005
+        },
+        {
+          "word": " forestation",
+          "start": 462.73631250000005,
+          "end": 463.43631250000004
+        },
+        {
+          "word": " project",
+          "start": 463.43631250000004,
+          "end": 464.3363125
+        },
+        {
+          "word": " involved",
+          "start": 464.3363125,
+          "end": 464.9563125
+        },
+        {
+          "word": " hiring",
+          "start": 464.9563125,
+          "end": 465.5163125
+        },
+        {
+          "word": " local",
+          "start": 465.5163125,
+          "end": 466.13631250000003
+        },
+        {
+          "word": " people",
+          "start": 466.13631250000003,
+          "end": 466.7763125
+        }
+      ]
+    },
+    {
+      "start": 466.7763125,
+      "end": 474.2963125,
+      "text": " to plant and care for the new mangrove trees. Millions of mangrove trees have now been",
+      "words": [
+        {
+          "word": " to",
+          "start": 466.7763125,
+          "end": 467.23631250000005
+        },
+        {
+          "word": " plant",
+          "start": 467.23631250000005,
+          "end": 467.6763125
+        },
+        {
+          "word": " and",
+          "start": 467.6763125,
+          "end": 468.2763125
+        },
+        {
+          "word": " care",
+          "start": 468.2763125,
+          "end": 468.6563125
+        },
+        {
+          "word": " for",
+          "start": 468.6563125,
+          "end": 468.8963125
+        },
+        {
+          "word": " the",
+          "start": 468.8963125,
+          "end": 469.13631250000003
+        },
+        {
+          "word": " new",
+          "start": 469.13631250000003,
+          "end": 469.49631250000004
+        },
+        {
+          "word": " mangrove",
+          "start": 469.49631250000004,
+          "end": 470.0563125
+        },
+        {
+          "word": " trees.",
+          "start": 470.0563125,
+          "end": 470.6563125
+        },
+        {
+          "word": " Millions",
+          "start": 471.61631250000005,
+          "end": 472.2163125
+        },
+        {
+          "word": " of",
+          "start": 472.2163125,
+          "end": 472.5163125
+        },
+        {
+          "word": " mangrove",
+          "start": 472.5163125,
+          "end": 473.0563125
+        },
+        {
+          "word": " trees",
+          "start": 473.0563125,
+          "end": 473.4763125
+        },
+        {
+          "word": " have",
+          "start": 473.4763125,
+          "end": 473.7763125
+        },
+        {
+          "word": " now",
+          "start": 473.7763125,
+          "end": 474.0163125
+        },
+        {
+          "word": " been",
+          "start": 474.0163125,
+          "end": 474.2963125
+        }
+      ]
+    },
+    {
+      "start": 474.2963125,
+      "end": 481.61631250000005,
+      "text": " planted, which has resulted in the return of a healthy, aquatic ecosystem. The mangroves",
+      "words": [
+        {
+          "word": " planted,",
+          "start": 474.2963125,
+          "end": 474.7963125
+        },
+        {
+          "word": " which",
+          "start": 475.19631250000003,
+          "end": 475.5363125
+        },
+        {
+          "word": " has",
+          "start": 475.5363125,
+          "end": 475.8363125
+        },
+        {
+          "word": " resulted",
+          "start": 475.8363125,
+          "end": 476.2763125
+        },
+        {
+          "word": " in",
+          "start": 476.2763125,
+          "end": 476.57631250000003
+        },
+        {
+          "word": " the",
+          "start": 476.57631250000003,
+          "end": 476.75631250000004
+        },
+        {
+          "word": " return",
+          "start": 476.75631250000004,
+          "end": 477.1763125
+        },
+        {
+          "word": " of",
+          "start": 477.1763125,
+          "end": 477.4163125
+        },
+        {
+          "word": " a",
+          "start": 477.4163125,
+          "end": 477.61631250000005
+        },
+        {
+          "word": " healthy,",
+          "start": 477.61631250000005,
+          "end": 478.11631250000005
+        },
+        {
+          "word": " aquatic",
+          "start": 478.3563125,
+          "end": 478.7963125
+        },
+        {
+          "word": " ecosystem.",
+          "start": 478.7963125,
+          "end": 479.5163125
+        },
+        {
+          "word": " The",
+          "start": 480.7163125,
+          "end": 480.9163125
+        },
+        {
+          "word": " mangroves",
+          "start": 480.9163125,
+          "end": 481.61631250000005
+        }
+      ]
+    },
+    {
+      "start": 481.61631250000005,
+      "end": 488.0563125,
+      "text": " also act as a defence against the increased threat of flooding caused by climate change.",
+      "words": [
+        {
+          "word": " also",
+          "start": 481.61631250000005,
+          "end": 482.13631250000003
+        },
+        {
+          "word": " act",
+          "start": 482.13631250000003,
+          "end": 482.3563125
+        },
+        {
+          "word": " as",
+          "start": 482.3563125,
+          "end": 482.6763125
+        },
+        {
+          "word": " a",
+          "start": 482.6763125,
+          "end": 482.8363125
+        },
+        {
+          "word": " defence",
+          "start": 482.8363125,
+          "end": 483.31631250000004
+        },
+        {
+          "word": " against",
+          "start": 483.31631250000004,
+          "end": 484.0363125
+        },
+        {
+          "word": " the",
+          "start": 484.0363125,
+          "end": 484.37631250000004
+        },
+        {
+          "word": " increased",
+          "start": 484.37631250000004,
+          "end": 484.73631250000005
+        },
+        {
+          "word": " threat",
+          "start": 484.73631250000005,
+          "end": 485.2163125
+        },
+        {
+          "word": " of",
+          "start": 485.2163125,
+          "end": 485.57631250000003
+        },
+        {
+          "word": " flooding",
+          "start": 485.57631250000003,
+          "end": 485.9763125
+        },
+        {
+          "word": " caused",
+          "start": 485.9763125,
+          "end": 486.7963125
+        },
+        {
+          "word": " by",
+          "start": 486.7963125,
+          "end": 487.1563125
+        },
+        {
+          "word": " climate",
+          "start": 487.1563125,
+          "end": 487.3963125
+        },
+        {
+          "word": " change.",
+          "start": 487.3963125,
+          "end": 488.0563125
+        }
+      ]
+    },
+    {
+      "start": 488.9763125,
+      "end": 496.2763125,
+      "text": " What's more, the local economy is more stable, and thousands more Madagascar are now able",
+      "words": [
+        {
+          "word": " What's",
+          "start": 488.9763125,
+          "end": 489.2963125
+        },
+        {
+          "word": " more,",
+          "start": 489.2963125,
+          "end": 489.7763125
+        },
+        {
+          "word": " the",
+          "start": 490.1563125,
+          "end": 490.2763125
+        },
+        {
+          "word": " local",
+          "start": 490.2763125,
+          "end": 490.6563125
+        },
+        {
+          "word": " economy",
+          "start": 490.6563125,
+          "end": 491.0963125
+        },
+        {
+          "word": " is",
+          "start": 491.0963125,
+          "end": 491.49631250000004
+        },
+        {
+          "word": " more",
+          "start": 491.49631250000004,
+          "end": 491.9163125
+        },
+        {
+          "word": " stable,",
+          "start": 491.9163125,
+          "end": 492.3363125
+        },
+        {
+          "word": " and",
+          "start": 492.7763125,
+          "end": 493.1763125
+        },
+        {
+          "word": " thousands",
+          "start": 493.1763125,
+          "end": 493.69631250000003
+        },
+        {
+          "word": " more",
+          "start": 493.69631250000003,
+          "end": 494.2163125
+        },
+        {
+          "word": " Madagascar",
+          "start": 494.2163125,
+          "end": 494.6563125
+        },
+        {
+          "word": " are",
+          "start": 494.6563125,
+          "end": 495.43631250000004
+        },
+        {
+          "word": " now",
+          "start": 495.43631250000004,
+          "end": 495.8963125
+        },
+        {
+          "word": " able",
+          "start": 495.8963125,
+          "end": 496.2763125
+        }
+      ]
+    },
+    {
+      "start": 496.2763125,
+      "end": 498.5163125,
+      "text": " to send their children to school.",
+      "words": [
+        {
+          "word": " to",
+          "start": 496.2763125,
+          "end": 496.5563125
+        },
+        {
+          "word": " send",
+          "start": 496.5563125,
+          "end": 496.8363125
+        },
+        {
+          "word": " their",
+          "start": 496.8363125,
+          "end": 497.19631250000003
+        },
+        {
+          "word": " children",
+          "start": 497.19631250000003,
+          "end": 497.6563125
+        },
+        {
+          "word": " to",
+          "start": 497.6563125,
+          "end": 498.0163125
+        },
+        {
+          "word": " school.",
+          "start": 498.0163125,
+          "end": 498.5163125
+        }
+      ]
+    },
+    {
+      "start": 499.3363125,
+      "end": 502.1763125,
+      "text": " One other important point to consider.",
+      "words": [
+        {
+          "word": " One",
+          "start": 499.3363125,
+          "end": 499.9563125
+        },
+        {
+          "word": " other",
+          "start": 499.9563125,
+          "end": 500.4563125
+        },
+        {
+          "word": " important",
+          "start": 500.4563125,
+          "end": 500.99631250000004
+        },
+        {
+          "word": " point",
+          "start": 500.99631250000004,
+          "end": 501.2963125
+        },
+        {
+          "word": " to",
+          "start": 501.2963125,
+          "end": 501.49631250000004
+        },
+        {
+          "word": " consider.",
+          "start": 501.49631250000004,
+          "end": 502.1763125
+        }
+      ]
+    },
+    {
+      "start": 505.73631250000005,
+      "end": 512.3163125,
+      "text": " That is the end of Part 4. You now have one minute to check your answers to Part 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 505.73631250000005,
+          "end": 505.9563125
+        },
+        {
+          "word": " is",
+          "start": 505.9563125,
+          "end": 506.2163125
+        },
+        {
+          "word": " the",
+          "start": 506.2163125,
+          "end": 506.3363125
+        },
+        {
+          "word": " end",
+          "start": 506.3363125,
+          "end": 506.61631250000005
+        },
+        {
+          "word": " of",
+          "start": 506.61631250000005,
+          "end": 506.87631250000004
+        },
+        {
+          "word": " Part",
+          "start": 506.87631250000004,
+          "end": 507.13631250000003
+        },
+        {
+          "word": " 4.",
+          "start": 507.13631250000003,
+          "end": 507.7963125
+        },
+        {
+          "word": " You",
+          "start": 508.2163125,
+          "end": 508.5963125
+        },
+        {
+          "word": " now",
+          "start": 508.5963125,
+          "end": 508.87631250000004
+        },
+        {
+          "word": " have",
+          "start": 508.87631250000004,
+          "end": 509.1763125
+        },
+        {
+          "word": " one",
+          "start": 509.1763125,
+          "end": 509.49631250000004
+        },
+        {
+          "word": " minute",
+          "start": 509.49631250000004,
+          "end": 509.75631250000004
+        },
+        {
+          "word": " to",
+          "start": 509.75631250000004,
+          "end": 510.19631250000003
+        },
+        {
+          "word": " check",
+          "start": 510.19631250000003,
+          "end": 510.49631250000004
+        },
+        {
+          "word": " your",
+          "start": 510.49631250000004,
+          "end": 510.75631250000004
+        },
+        {
+          "word": " answers",
+          "start": 510.75631250000004,
+          "end": 511.1563125
+        },
+        {
+          "word": " to",
+          "start": 511.1563125,
+          "end": 511.5163125
+        },
+        {
+          "word": " Part",
+          "start": 511.5163125,
+          "end": 511.75631250000004
+        },
+        {
+          "word": " 4.",
+          "start": 511.75631250000004,
+          "end": 512.3163125
+        }
+      ]
+    }
+  ]
+}

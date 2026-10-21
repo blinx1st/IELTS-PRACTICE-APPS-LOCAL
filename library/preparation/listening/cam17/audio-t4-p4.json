@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/09e20454ed250a3c26c34a2d85fd7fa7829185e266725302e5acdfad76fe3527.mp3",
+    "sha256": "09e20454ed250a3c26c34a2d85fd7fa7829185e266725302e5acdfad76fe3527",
+    "duration": 514.708,
+    "start": 0,
+    "end": 514.708,
+    "source": "library\\preparation\\listening\\cam17\\cam17-test4-part4.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear a presentation by a food science student about the production of Maple Syrup. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. Hello everyone! Today we're going to look at another natural food product and that's Maple syrup. What is this exactly? Well Maple syrup looks rather like clear honey but it's not made by bees. It's produced from the plant fluid or sap inside the maple tree, and that makes Maple syrup a very natural product. Maple syrup is..."
+    },
+    {
+      "name": "ending",
+      "start": 449.70799999999997,
+      "end": 514.708,
+      "text": "You That is the end of the listening test. the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ]
+}

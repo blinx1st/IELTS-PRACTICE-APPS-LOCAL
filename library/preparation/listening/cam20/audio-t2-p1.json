@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/8c0b0821563da09bd9fadd5543f7ef15d091a4a7c13ac0d59b68be246e4893e9.m4a",
+    "sha256": "8c0b0821563da09bd9fadd5543f7ef15d091a4a7c13ac0d59b68be246e4893e9",
+    "duration": 408.253,
+    "start": 0,
+    "end": 408.253,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S1.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 2 This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to Part 1. Part 1. You will hear a woman who is caring for her elderly mother, talking to a friend. First, you have some time to look at questions 1 to 4. Now listen carefully and answer questions 1 to 4."
+    },
+    {
+      "name": "ending",
+      "start": 343.253,
+      "end": 408.253,
+      "text": "You You"
+    }
+  ]
+}

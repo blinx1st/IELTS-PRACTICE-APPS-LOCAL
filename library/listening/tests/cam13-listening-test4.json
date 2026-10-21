@@ -1,0 +1,986 @@
+{
+  "id": "cam13-listening-test4",
+  "skill": "listening",
+  "book": 13,
+  "test": 4,
+  "title": "Cambridge 13 · Listening Test 4",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam13-listening-test4-p1",
+      "number": 1,
+      "title": "Alex’s Training",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t4-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "At first, Alex did his training in the … department."
+            },
+            {
+              "number": 2,
+              "text": "Alex didn’t have a qualification from school in …."
+            },
+            {
+              "number": 3,
+              "text": "Alex thinks he should have done the diploma in … skills."
+            },
+            {
+              "number": 4,
+              "text": "Age of other trainees: the youngest was …."
+            },
+            {
+              "number": 5,
+              "text": "Trainees receive the same amount of … as permanent staff."
+            },
+            {
+              "number": 6,
+              "text": "Trainees go to … one day per month."
+            },
+            {
+              "number": 7,
+              "text": "The company is in a convenient …."
+            },
+            {
+              "number": 8,
+              "text": "Don’t wear …."
+            },
+            {
+              "number": 9,
+              "text": "Don’t be …."
+            },
+            {
+              "number": 10,
+              "text": "Make sure you …."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-075.webp",
+              "page": 75
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Alex’s Training"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Example: Alex completed his training in 2014"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "About the applicant:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "At first, Alex did his training in the ",
+                  {
+                    "number": 1
+                  },
+                  " department."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Alex didn’t have a qualification from school in ",
+                  {
+                    "number": 2
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Alex thinks he should have done the diploma in ",
+                  {
+                    "number": 3
+                  },
+                  " skills."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Age of other trainees: the youngest was ",
+                  {
+                    "number": 4
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Benefits of doing training at JPNW:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Lots of opportunities because of the size of the organisation."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Trainees receive the same amount of ",
+                  {
+                    "number": 5
+                  },
+                  " as permanent staff."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The training experience increases people’s confidence a lot."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Trainees go to ",
+                  {
+                    "number": 6
+                  },
+                  " one day per month."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The company is in a convenient ",
+                  {
+                    "number": 7
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Advice for interview:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Don’t wear ",
+                  {
+                    "number": 8
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Don’t be ",
+                  {
+                    "number": 9
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Make sure you ",
+                  {
+                    "number": 10
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-075.webp",
+          "page": 75
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 75
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/ba1c05e31543c7a582a0bd93305c0ff9e6984c598cbaf833dd8e92b6e190fc3e.mp3",
+        "sha256": "ba1c05e31543c7a582a0bd93305c0ff9e6984c598cbaf833dd8e92b6e190fc3e",
+        "duration": 466.161,
+        "start": 46.0,
+        "end": 466.161,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_05.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t4-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t4-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Annie recommends that when cross-country skiing, the visitors should",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "get away from the regular trails."
+                },
+                {
+                  "value": "B",
+                  "label": "stop to enjoy views of the scenery."
+                },
+                {
+                  "value": "C",
+                  "label": "go at a slow speed at the beginning."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "What does Annie tell the group about this afternoon's dog-sled trip?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Those who want to can take part in a race."
+                },
+                {
+                  "value": "B",
+                  "label": "Anyone has the chance to drive a team of dogs."
+                },
+                {
+                  "value": "C",
+                  "label": "One group member will be chosen to lead the trail."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "What does Annie say about the team relay event?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "All participants receive a medal."
+                },
+                {
+                  "value": "B",
+                  "label": "The course is 4 km long."
+                },
+                {
+                  "value": "C",
+                  "label": "Each team is led by a teacher."
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "On the snow-shoe trip, the visitors will",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "visit an old gold mine."
+                },
+                {
+                  "value": "B",
+                  "label": "learn about unusual flowers."
+                },
+                {
+                  "value": "C",
+                  "label": "climb to the top of a mountain."
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "The cost of accommodation in the mountain hut includes",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a supply of drinking water."
+                },
+                {
+                  "value": "B",
+                  "label": "transport of visitors’ luggage."
+                },
+                {
+                  "value": "C",
+                  "label": "cooked meals."
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "text": "If there is a storm while the visitors are in the hut, they should",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "contact the bus driver."
+                },
+                {
+                  "value": "B",
+                  "label": "wait until the weather improves."
+                },
+                {
+                  "value": "C",
+                  "label": "use the emergency locator beacon."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-076.webp",
+              "page": 76
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t4-p2-g17",
+          "type": "matching",
+          "heading": "Questions 17–20",
+          "instructions": "What information does Annie give about skiing on each of the following mountain trails? Choose FOUR answers from the box and write the correct letter, A-F, next to . Information",
+          "body": "",
+          "questions": [
+            {
+              "number": 17,
+              "text": "Highland Trail"
+            },
+            {
+              "number": 18,
+              "text": "Pine Trail"
+            },
+            {
+              "number": 19,
+              "text": "Stony Trail"
+            },
+            {
+              "number": 20,
+              "text": "Loser’s Trail"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-077.webp",
+              "page": 77
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "It has a good place to stop and rest."
+            },
+            {
+              "value": "B",
+              "label": "It is suitable for all abilities."
+            },
+            {
+              "value": "C",
+              "label": "It involves crossing a river."
+            },
+            {
+              "value": "D",
+              "label": "It demands a lot of skill."
+            },
+            {
+              "value": "E",
+              "label": "It may be closed in bad weather."
+            },
+            {
+              "value": "F",
+              "label": "It has some very narrow sections."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-076.webp",
+          "page": 76
+        },
+        {
+          "url": "/library-assets/l-cam13-page-077.webp",
+          "page": 77
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 76
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 77
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/36b3a3459ade970ae6880618847bdf99ee6065199d5bc0a04c79c7de2e11470f.mp3",
+        "sha256": "36b3a3459ade970ae6880618847bdf99ee6065199d5bc0a04c79c7de2e11470f",
+        "duration": 412.065,
+        "start": 0,
+        "end": 412.065,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_06.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t4-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t4-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–26",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "What was Jack’s attitude to nutritional food labels before this project?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "He didn’t read everything on them."
+                },
+                {
+                  "value": "B",
+                  "label": "He didn’t think they were important."
+                },
+                {
+                  "value": "C",
+                  "label": "He thought they were too complicated."
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Alice says that before doing this project,",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "she was unaware of what certain foods contained."
+                },
+                {
+                  "value": "B",
+                  "label": "she was too lazy to read food labels."
+                },
+                {
+                  "value": "C",
+                  "label": "she was only interested in the number of calories."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "When discussing supermarket brands of pizza, Jack agrees with Alice that",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the list of ingredients is shocking."
+                },
+                {
+                  "value": "B",
+                  "label": "he will hesitate before buying pizza again."
+                },
+                {
+                  "value": "C",
+                  "label": "the nutritional label is misleading."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "Jack prefers the daily value system to other labelling systems because it is",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "more accessible."
+                },
+                {
+                  "value": "B",
+                  "label": "more logical."
+                },
+                {
+                  "value": "C",
+                  "label": "more comprehensive."
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "What surprised both students about one flavour of crisps?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "The percentage of artificial additives given was incorrect."
+                },
+                {
+                  "value": "B",
+                  "label": "The products did not contain any meat."
+                },
+                {
+                  "value": "C",
+                  "label": "The labels did not list all the ingredients."
+                }
+              ]
+            },
+            {
+              "number": 26,
+              "text": "What do the students think about research into the impact of nutritional food labelling?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It did not produce clear results."
+                },
+                {
+                  "value": "B",
+                  "label": "It focused on the wrong people."
+                },
+                {
+                  "value": "C",
+                  "label": "It made unrealistic recommendations."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-078.webp",
+              "page": 78
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t4-p3-g27",
+          "type": "multi",
+          "heading": "Questions 27–28",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO things surprised the students about the traffic-light system for nutritional labels?",
+          "questions": [
+            {
+              "number": 27,
+              "text": "Which TWO things surprised the students about the traffic-light system for nutritional labels?"
+            },
+            {
+              "number": 28,
+              "text": "Which TWO things surprised the students about the traffic-light system for nutritional labels?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-079.webp",
+              "page": 79
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "its widespread use"
+            },
+            {
+              "value": "B",
+              "label": "the fact that it is voluntary for supermarkets"
+            },
+            {
+              "value": "C",
+              "label": "how little research was done before its introduction"
+            },
+            {
+              "value": "D",
+              "label": "its unpopularity with food manufacturers"
+            },
+            {
+              "value": "E",
+              "label": "the way that certain colours are used"
+            }
+          ]
+        },
+        {
+          "id": "l-cam13-t4-p3-g29",
+          "type": "multi",
+          "heading": "Questions 29–30",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO things are true about the participants in the study on the traffic-light system?",
+          "questions": [
+            {
+              "number": 29,
+              "text": "Which TWO things are true about the participants in the study on the traffic-light system?"
+            },
+            {
+              "number": 30,
+              "text": "Which TWO things are true about the participants in the study on the traffic-light system?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-079.webp",
+              "page": 79
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "They had low literacy levels."
+            },
+            {
+              "value": "B",
+              "label": "They were regular consumers of packaged food."
+            },
+            {
+              "value": "C",
+              "label": "They were selected randomly."
+            },
+            {
+              "value": "D",
+              "label": "They were from all socio-economic groups."
+            },
+            {
+              "value": "E",
+              "label": "They were interviewed face-to-face."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-078.webp",
+          "page": 78
+        },
+        {
+          "url": "/library-assets/l-cam13-page-079.webp",
+          "page": 79
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 78
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 79
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/aca2f33da1bf81fa94b0726d0f578a05410c82dd8ac0322494dee68116591b3f.mp3",
+        "sha256": "aca2f33da1bf81fa94b0726d0f578a05410c82dd8ac0322494dee68116591b3f",
+        "duration": 450.198,
+        "start": 0,
+        "end": 450.198,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_07.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t4-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam13-listening-test4-p4",
+      "number": 4,
+      "title": "The history of coffee",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam13-t4-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "1623: In Constantinople, the ruler ordered the … of every coffee house."
+            },
+            {
+              "number": 32,
+              "text": "Coffee shops were compared to …."
+            },
+            {
+              "number": 33,
+              "text": "They played an important part in social and … changes."
+            },
+            {
+              "number": 34,
+              "text": "Types of coffee were often named according to the … they came from."
+            },
+            {
+              "number": 35,
+              "text": "In Brazil and the Caribbean, most cultivation depended on …."
+            },
+            {
+              "number": 36,
+              "text": "In Java, coffee was used as a form of …."
+            },
+            {
+              "number": 37,
+              "text": "Coffee became almost as important as …."
+            },
+            {
+              "number": 38,
+              "text": "The move towards the consumption of … in Britain did not also take place in the USA."
+            },
+            {
+              "number": 39,
+              "text": "Prices dropped because of improvements in …."
+            },
+            {
+              "number": 40,
+              "text": "Industrial workers found coffee helped them to work at …."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam13-page-080.webp",
+              "page": 80
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The history of coffee"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Coffee in the Arab world"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "There was small-scale trade in wild coffee from Ethiopia."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "1522: Coffee was approved in the Ottoman court as a type of medicine."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "1623: In Constantinople, the ruler ordered the ",
+                  {
+                    "number": 31
+                  },
+                  " of every coffee house."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Coffee arrives in Europe (17th century)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Coffee shops were compared to ",
+                  {
+                    "number": 32
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "They played an important part in social and ",
+                  {
+                    "number": 33
+                  },
+                  " changes."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Coffee and European colonisation"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "European powers established coffee plantations in their colonies."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Types of coffee were often named according to the ",
+                  {
+                    "number": 34
+                  },
+                  " they came from."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "In Brazil and the Caribbean, most cultivation depended on ",
+                  {
+                    "number": 35
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "In Java, coffee was used as a form of ",
+                  {
+                    "number": 36
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Coffee became almost as important as ",
+                  {
+                    "number": 37
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The move towards the consumption of ",
+                  {
+                    "number": 38
+                  },
+                  " in Britain did not also take place in the USA."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Coffee in the 19th century"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Prices dropped because of improvements in ",
+                  {
+                    "number": 39
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Industrial workers found coffee helped them to work at ",
+                  {
+                    "number": 40
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam13-page-080.webp",
+          "page": 80
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+          "page": 80
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c6f8731c7d6988141d1db81552b53d0192ea029e47d7f26f04f8873989a20cb4.mp3",
+        "sha256": "c6f8731c7d6988141d1db81552b53d0192ea029e47d7f26f04f8873989a20cb4",
+        "duration": 477.742,
+        "start": 0,
+        "end": 431.44,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_08.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam13/t4-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam13/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

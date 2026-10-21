@@ -1,0 +1,272 @@
+{
+  "book": 15,
+  "test": 2,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio3.m4a",
+  "sha256": "5852f1674584bf8abe566dfdec3439edfe36e2db5fbc52d7483429bef5f9c2f0",
+  "duration": 427.691,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      327.6906875,
+      427.6906875
+    ]
+  ],
+  "text": "Part 3. You will hear two students of English called Cathy and Graham, planning a display on 19th century British life and literature for a university event. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. Okay Graham, so let's check we both know what we're supposed to be doing. Okay. So, for the university's open day, we have to plan a display on British life and literature in the mid-19th century. That's right. But we'll have some people to help us find the materials and set it up, remember. For the moment, we just need to plan it. Good. So have you gathered who's expected to come and see the display? Is it for the people studying English or students from other departments? I'm not clear about it. No, me. was how it used to be, but it didn't attract many people, so this year it's going to be part of an open day to raise the university's profile. It'll be publicized in the city to encourage people to come and find out something of what goes on here. And it's included in the information that sent to people who are considering applying to study here next year. Presumably, some current students and lecturers will come. I would imagine so. But we've been told to concentrate on the other categories of people. Right. We don't have to cover the whole... That's my favourite of his novels. Yes, mine too. Oh. His satire of the legal system is pretty powerful. That's true. But think about Esther, the heroine. As a child, she lives with someone she doesn't know is her aunt, who treats her very badly. Then she's very happy living with her guardian, and he puts her in charge of the household. And at the end, she gets married, and her guardian gives her and her husband a house. Where, of course, they're very happy. Yes, I like that. What should we take next? Uh, little Dorit. Old Mr. Dorit has been in a debtors prison for years. So was Dickens' father, wasn't he? That's right. What about focusing on the part when Mr. Dorit inherits a fortune? And he starts pretending he's always been rich. Good idea. Okay. So next we need to think about what materials we want to illustrate each issue. that's going to be quite hard. That is the end of Part 3. You now have 30 seconds to check your answers to Part 3.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.24,
+      "text": "Part 3. You will hear two students of English called Cathy and Graham, planning a display"
+    },
+    {
+      "start": 8.24,
+      "end": 14.0,
+      "text": "on 19th century British life and literature for a university event."
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "First, you have some time to look at questions 21 to 24."
+    },
+    {
+      "start": 30.0,
+      "end": 44.0,
+      "text": "Now listen carefully and answer questions 21 to 24."
+    },
+    {
+      "start": 44.0,
+      "end": 51.0,
+      "text": "Okay Graham, so let's check we both know what we're supposed to be doing."
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "text": "Okay."
+    },
+    {
+      "start": 52.0,
+      "end": 58.48,
+      "text": "So, for the university's open day, we have to plan a display on British life and literature"
+    },
+    {
+      "start": 58.48,
+      "end": 60.44,
+      "text": "in the mid-19th century."
+    },
+    {
+      "start": 60.44,
+      "end": 61.44,
+      "text": "That's right."
+    },
+    {
+      "start": 61.44,
+      "end": 66.08,
+      "text": "But we'll have some people to help us find the materials and set it up, remember."
+    },
+    {
+      "start": 66.08,
+      "end": 68.44,
+      "text": "For the moment, we just need to plan it."
+    },
+    {
+      "start": 68.44,
+      "end": 69.44,
+      "text": "Good."
+    },
+    {
+      "start": 69.44,
+      "end": 73.48,
+      "text": "So have you gathered who's expected to come and see the display?"
+    },
+    {
+      "start": 73.48,
+      "end": 77.92,
+      "text": "Is it for the people studying English or students from other departments?"
+    },
+    {
+      "start": 77.92,
+      "end": 79.32,
+      "text": "I'm not clear about it."
+    },
+    {
+      "start": 79.32,
+      "end": 80.8,
+      "text": "No, me."
+    },
+    {
+      "start": 80.8,
+      "end": 86.48,
+      "text": "was how it used to be, but it didn't attract many people, so this year it's going to be part"
+    },
+    {
+      "start": 86.48,
+      "end": 93.28,
+      "text": "of an open day to raise the university's profile. It'll be publicized in the city to encourage"
+    },
+    {
+      "start": 93.28,
+      "end": 99.44,
+      "text": "people to come and find out something of what goes on here. And it's included in the information"
+    },
+    {
+      "start": 99.44,
+      "end": 103.44,
+      "text": "that sent to people who are considering applying to study here next year."
+    },
+    {
+      "start": 103.44,
+      "end": 109.44,
+      "text": "Presumably, some current students and lecturers will come. I would imagine so. But we've"
+    },
+    {
+      "start": 109.44,
+      "end": 112.6,
+      "text": "been told to concentrate on the other categories of people."
+    },
+    {
+      "start": 112.6,
+      "end": 115.08,
+      "text": "Right. We don't have to cover the whole..."
+    },
+    {
+      "start": 327.69,
+      "end": 329.69,
+      "text": "That's my favourite of his novels."
+    },
+    {
+      "start": 329.69,
+      "end": 330.69,
+      "text": "Yes, mine too."
+    },
+    {
+      "start": 330.69,
+      "end": 331.69,
+      "text": "Oh."
+    },
+    {
+      "start": 331.69,
+      "end": 334.69,
+      "text": "His satire of the legal system is pretty powerful."
+    },
+    {
+      "start": 334.69,
+      "end": 335.69,
+      "text": "That's true."
+    },
+    {
+      "start": 335.69,
+      "end": 337.69,
+      "text": "But think about Esther, the heroine."
+    },
+    {
+      "start": 337.69,
+      "end": 341.69,
+      "text": "As a child, she lives with someone she doesn't know is her aunt,"
+    },
+    {
+      "start": 341.69,
+      "end": 343.69,
+      "text": "who treats her very badly."
+    },
+    {
+      "start": 343.69,
+      "end": 346.69,
+      "text": "Then she's very happy living with her guardian,"
+    },
+    {
+      "start": 346.69,
+      "end": 348.69,
+      "text": "and he puts her in charge of the household."
+    },
+    {
+      "start": 348.69,
+      "end": 350.69,
+      "text": "And at the end, she gets married,"
+    },
+    {
+      "start": 350.69,
+      "end": 353.69,
+      "text": "and her guardian gives her and her husband a house."
+    },
+    {
+      "start": 353.69,
+      "end": 355.69,
+      "text": "Where, of course, they're very happy."
+    },
+    {
+      "start": 355.69,
+      "end": 357.69,
+      "text": "Yes, I like that."
+    },
+    {
+      "start": 357.69,
+      "end": 359.69,
+      "text": "What should we take next?"
+    },
+    {
+      "start": 359.69,
+      "end": 361.69,
+      "text": "Uh, little Dorit."
+    },
+    {
+      "start": 361.69,
+      "end": 365.69,
+      "text": "Old Mr. Dorit has been in a debtors prison for years."
+    },
+    {
+      "start": 365.69,
+      "end": 367.69,
+      "text": "So was Dickens' father, wasn't he?"
+    },
+    {
+      "start": 367.69,
+      "end": 369.69,
+      "text": "That's right."
+    },
+    {
+      "start": 369.69,
+      "end": 373.69,
+      "text": "What about focusing on the part when Mr. Dorit inherits a fortune?"
+    },
+    {
+      "start": 373.69,
+      "end": 376.69,
+      "text": "And he starts pretending he's always been rich."
+    },
+    {
+      "start": 376.69,
+      "end": 378.69,
+      "text": "Good idea."
+    },
+    {
+      "start": 378.69,
+      "end": 379.69,
+      "text": "Okay."
+    },
+    {
+      "start": 379.69,
+      "end": 384.69,
+      "text": "So next we need to think about what materials we want to illustrate each issue."
+    },
+    {
+      "start": 384.69,
+      "end": 389.69,
+      "text": "that's going to be quite hard."
+    },
+    {
+      "start": 389.69,
+      "end": 392.69,
+      "text": "That is the end of Part 3."
+    },
+    {
+      "start": 392.69,
+      "end": 397.69,
+      "text": "You now have 30 seconds to check your answers to Part 3."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

@@ -1,0 +1,129 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 78,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Listening\nPART 2\nQuestions 11-20\nQuestions 11 and 12\nChoose TWO letters, A-E.\nWhich TWO problems with some training programmes for\nnew runners does Liz mention?\nA\nThere is a risk of serious injury.\nB_\nThey are unsuitable for certain age groups.\nC\nThey are unsuitable for people with health issues.\nD\nitis difficult to stay motivated.\nE\nThere is a lack of individual support.\nQuestions 13 and 14\nChoose TWO letters, A-E.\nWhich TWO tips does Liz recommend for new runners?\nA\ndoing two runs a week\nB\nrunning in the evening\nC\ngoing on runs with a friend\nD\nlistening to music during runs\nE\nrunning very slowly\n79\n",
+  "blocks": [
+    {
+      "box": [
+        425.4242248535156,
+        31.312957763671875,
+        468.6360778808594,
+        41.76104736328125
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        41.39067459106445,
+        66.58496856689453,
+        223.95071411132812,
+        77.75364685058594
+      ],
+      "text": "PART 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        41.39067459106445,
+        93.21902465820312,
+        149.2727813720703,
+        103.6671142578125
+      ],
+      "text": "Questions 11 and 12\n"
+    },
+    {
+      "box": [
+        41.39066696166992,
+        119.85301971435547,
+        168.70115661621094,
+        129.5805206298828
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        40.67082977294922,
+        144.68740844726562,
+        318.7298583984375,
+        156.2163543701172
+      ],
+      "text": "Which TWO problems with some training programmes for\n"
+    },
+    {
+      "box": [
+        41.39067459106445,
+        158.36439514160156,
+        192.19674682617188,
+        167.37136840820312
+      ],
+      "text": "new runners does Liz mention?\n"
+    },
+    {
+      "box": [
+        64.785400390625,
+        178.51980590820312,
+        237.57534790039062,
+        188.9678955078125
+      ],
+      "text": "A\nThere is a risk of serious injury.\n"
+    },
+    {
+      "box": [
+        65.14530944824219,
+        191.47694396972656,
+        327.3822937011719,
+        240.79586791992188
+      ],
+      "text": "B_\nThey are unsuitable for certain age groups.\nC\nThey are unsuitable for people with health issues.\nD\nitis difficult to stay motivated.\nE\nThere is a lack of individual support.\n"
+    },
+    {
+      "box": [
+        42.110469818115234,
+        263.10076904296875,
+        150.73399353027344,
+        273.1885681152344
+      ],
+      "text": "Questions 13 and 14\n"
+    },
+    {
+      "box": [
+        42.110469818115234,
+        289.3748779296875,
+        169.03231811523438,
+        299.1023864746094
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        41.3906364440918,
+        314.5692138671875,
+        308.98321533203125,
+        326.0981140136719
+      ],
+      "text": "Which TWO tips does Liz recommend for new runners?\n"
+    },
+    {
+      "box": [
+        65.50518035888672,
+        335.4444885253906,
+        230.276123046875,
+        398.0808410644531
+      ],
+      "text": "A\ndoing two runs a week\nB\nrunning in the evening\nC\ngoing on runs with a friend\nD\nlistening to music during runs\nE\nrunning very slowly\n"
+    },
+    {
+      "box": [
+        460.69622802734375,
+        668.7294921875,
+        472.20281982421875,
+        677.0159301757812
+      ],
+      "text": "79\n"
+    }
+  ]
+}

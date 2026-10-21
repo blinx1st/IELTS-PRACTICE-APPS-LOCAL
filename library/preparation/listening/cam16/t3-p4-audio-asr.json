@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "test": 3,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 3 Part 4.mp3",
+  "sha256": "a41ce6d1f0d4ff93e4aa15f7525dad2ad4979956d4bef7be0ca78794aca01cb2",
+  "duration": 514.517,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      415.08243749999997,
+      515.0824375
+    ]
+  ],
+  "text": "Part 4. You will hear a lecturer on a faction design course, introducing the subject of hand knitting, which involves making things like woolen jumpers and scarves. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. Good morning everyone, so today we're going to look at an important creative activity and that's hand knitting. Ancient knitted garments have been found in many different countries showing that knitting is a global activity with a long history. When someone says the word knitting, we might well picture an elderly person, a grandmother perhaps, sitting by the fire, knitting garments for themselves or other members of the family. It's a homely image, but one that may lead you to feel that knitting When women and children took every opportunity to knit, for example, while watching over sheep, walking to market or riding in boats. So let's move on to take... That is the end of Part 4. You now have one minute to check your answers to Part 4. You That is the end of the Listening Test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Part 4."
+    },
+    {
+      "start": 2.16,
+      "end": 6.88,
+      "text": "You will hear a lecturer on a faction design course, introducing the subject of hand"
+    },
+    {
+      "start": 6.88,
+      "end": 12.0,
+      "text": "knitting, which involves making things like woolen jumpers and scarves."
+    },
+    {
+      "start": 12.0,
+      "end": 16.4,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 74.56,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 74.56,
+      "end": 80.72,
+      "text": "Good morning everyone, so today we're going to look at an important creative activity"
+    },
+    {
+      "start": 80.72,
+      "end": 88.64,
+      "text": "and that's hand knitting. Ancient knitted garments have been found in many different countries"
+    },
+    {
+      "start": 88.64,
+      "end": 93.36,
+      "text": "showing that knitting is a global activity with a long history."
+    },
+    {
+      "start": 94.4,
+      "end": 100.32,
+      "text": "When someone says the word knitting, we might well picture an elderly person,"
+    },
+    {
+      "start": 101.12,
+      "end": 108.4,
+      "text": "a grandmother perhaps, sitting by the fire, knitting garments for themselves or other members of"
+    },
+    {
+      "start": 108.4,
+      "end": 115.04,
+      "text": "the family. It's a homely image, but one that may lead you to feel that knitting"
+    },
+    {
+      "start": 415.08,
+      "end": 422.2,
+      "text": "When women and children took every opportunity to knit, for example, while watching"
+    },
+    {
+      "start": 422.2,
+      "end": 428.56,
+      "text": "over sheep, walking to market or riding in boats."
+    },
+    {
+      "start": 428.56,
+      "end": 434.2,
+      "text": "So let's move on to take..."
+    },
+    {
+      "start": 434.2,
+      "end": 436.92,
+      "text": "That is the end of Part 4."
+    },
+    {
+      "start": 436.92,
+      "end": 440.4,
+      "text": "You now have one minute to check your answers to Part 4."
+    },
+    {
+      "start": 445.08,
+      "end": 447.08,
+      "text": "You"
+    },
+    {
+      "start": 475.08,
+      "end": 503.9,
+      "text": "That is the end of the Listening Test."
+    },
+    {
+      "start": 503.9,
+      "end": 509.9,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

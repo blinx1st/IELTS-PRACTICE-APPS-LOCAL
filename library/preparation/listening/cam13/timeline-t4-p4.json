@@ -1,0 +1,1113 @@
+{
+  "audioSha256": "c6f8731c7d6988141d1db81552b53d0192ea029e47d7f26f04f8873989a20cb4",
+  "duration": 478.4588125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 350.14,
+      "end": 359.65999999999997,
+      "text": " afford it. This was tea, and by the late 1700s it was being widely drunk. However, when",
+      "words": [
+        {
+          "word": " afford",
+          "start": 350.14,
+          "end": 350.52
+        },
+        {
+          "word": " it.",
+          "start": 350.52,
+          "end": 351.12
+        },
+        {
+          "word": " This",
+          "start": 351.76,
+          "end": 352.26
+        },
+        {
+          "word": " was",
+          "start": 352.26,
+          "end": 352.97999999999996
+        },
+        {
+          "word": " tea,",
+          "start": 352.97999999999996,
+          "end": 353.65999999999997
+        },
+        {
+          "word": " and",
+          "start": 354.03999999999996,
+          "end": 354.21999999999997
+        },
+        {
+          "word": " by",
+          "start": 354.21999999999997,
+          "end": 354.41999999999996
+        },
+        {
+          "word": " the",
+          "start": 354.41999999999996,
+          "end": 354.52
+        },
+        {
+          "word": " late",
+          "start": 354.52,
+          "end": 354.8
+        },
+        {
+          "word": " 1700s",
+          "start": 354.8,
+          "end": 355.91999999999996
+        },
+        {
+          "word": " it",
+          "start": 355.91999999999996,
+          "end": 356.02
+        },
+        {
+          "word": " was",
+          "start": 356.02,
+          "end": 356.2
+        },
+        {
+          "word": " being",
+          "start": 356.2,
+          "end": 356.62
+        },
+        {
+          "word": " widely",
+          "start": 356.62,
+          "end": 357.03999999999996
+        },
+        {
+          "word": " drunk.",
+          "start": 357.03999999999996,
+          "end": 357.59999999999997
+        },
+        {
+          "word": " However,",
+          "start": 358.47999999999996,
+          "end": 359.0
+        },
+        {
+          "word": " when",
+          "start": 359.5,
+          "end": 359.65999999999997
+        }
+      ]
+    },
+    {
+      "start": 359.65999999999997,
+      "end": 366.15999999999997,
+      "text": " the USA gained independence from Britain in 1776, they identified this drink with Britain,",
+      "words": [
+        {
+          "word": " the",
+          "start": 359.65999999999997,
+          "end": 359.86
+        },
+        {
+          "word": " USA",
+          "start": 359.86,
+          "end": 360.15999999999997
+        },
+        {
+          "word": " gained",
+          "start": 360.15999999999997,
+          "end": 360.64
+        },
+        {
+          "word": " independence",
+          "start": 360.64,
+          "end": 361.24
+        },
+        {
+          "word": " from",
+          "start": 361.24,
+          "end": 361.52
+        },
+        {
+          "word": " Britain",
+          "start": 361.52,
+          "end": 361.9
+        },
+        {
+          "word": " in",
+          "start": 361.9,
+          "end": 362.26
+        },
+        {
+          "word": " 1776,",
+          "start": 362.26,
+          "end": 363.46
+        },
+        {
+          "word": " they",
+          "start": 364.26,
+          "end": 364.4
+        },
+        {
+          "word": " identified",
+          "start": 364.4,
+          "end": 364.84
+        },
+        {
+          "word": " this",
+          "start": 364.84,
+          "end": 365.24
+        },
+        {
+          "word": " drink",
+          "start": 365.24,
+          "end": 365.47999999999996
+        },
+        {
+          "word": " with",
+          "start": 365.47999999999996,
+          "end": 365.7
+        },
+        {
+          "word": " Britain,",
+          "start": 365.7,
+          "end": 366.15999999999997
+        }
+      ]
+    },
+    {
+      "start": 366.86,
+      "end": 371.21999999999997,
+      "text": " and coffee remained the preferred drink in the USA as it still is today.",
+      "words": [
+        {
+          "word": " and",
+          "start": 366.86,
+          "end": 367.06
+        },
+        {
+          "word": " coffee",
+          "start": 367.06,
+          "end": 367.3
+        },
+        {
+          "word": " remained",
+          "start": 367.3,
+          "end": 367.71999999999997
+        },
+        {
+          "word": " the",
+          "start": 367.71999999999997,
+          "end": 367.97999999999996
+        },
+        {
+          "word": " preferred",
+          "start": 367.97999999999996,
+          "end": 368.26
+        },
+        {
+          "word": " drink",
+          "start": 368.26,
+          "end": 368.64
+        },
+        {
+          "word": " in",
+          "start": 368.64,
+          "end": 368.86
+        },
+        {
+          "word": " the",
+          "start": 368.86,
+          "end": 369.21999999999997
+        },
+        {
+          "word": " USA",
+          "start": 369.21999999999997,
+          "end": 369.52
+        },
+        {
+          "word": " as",
+          "start": 369.52,
+          "end": 370.12
+        },
+        {
+          "word": " it",
+          "start": 370.12,
+          "end": 370.34
+        },
+        {
+          "word": " still",
+          "start": 370.34,
+          "end": 370.53999999999996
+        },
+        {
+          "word": " is",
+          "start": 370.53999999999996,
+          "end": 370.82
+        },
+        {
+          "word": " today.",
+          "start": 370.82,
+          "end": 371.21999999999997
+        }
+      ]
+    },
+    {
+      "start": 372.96,
+      "end": 378.97999999999996,
+      "text": " So, by the early 19th century, coffee was already being widely produced and consumed.",
+      "words": [
+        {
+          "word": " So,",
+          "start": 372.96,
+          "end": 373.38
+        },
+        {
+          "word": " by",
+          "start": 373.59999999999997,
+          "end": 373.8
+        },
+        {
+          "word": " the",
+          "start": 373.8,
+          "end": 374.03999999999996
+        },
+        {
+          "word": " early",
+          "start": 374.03999999999996,
+          "end": 374.4
+        },
+        {
+          "word": " 19th",
+          "start": 374.4,
+          "end": 375.47999999999996
+        },
+        {
+          "word": " century,",
+          "start": 375.47999999999996,
+          "end": 375.47999999999996
+        },
+        {
+          "word": " coffee",
+          "start": 375.9,
+          "end": 375.96
+        },
+        {
+          "word": " was",
+          "start": 375.96,
+          "end": 376.28
+        },
+        {
+          "word": " already",
+          "start": 376.28,
+          "end": 376.62
+        },
+        {
+          "word": " being",
+          "start": 376.62,
+          "end": 377.03999999999996
+        },
+        {
+          "word": " widely",
+          "start": 377.03999999999996,
+          "end": 377.44
+        },
+        {
+          "word": " produced",
+          "start": 377.44,
+          "end": 377.91999999999996
+        },
+        {
+          "word": " and",
+          "start": 377.91999999999996,
+          "end": 378.53999999999996
+        },
+        {
+          "word": " consumed.",
+          "start": 378.53999999999996,
+          "end": 378.97999999999996
+        }
+      ]
+    },
+    {
+      "start": 378.97999999999996,
+      "end": 385.52,
+      "text": " But during this century, production boomed and coffee prices started to fall.",
+      "words": [
+        {
+          "word": " But",
+          "start": 378.97999999999996,
+          "end": 380.02
+        },
+        {
+          "word": " during",
+          "start": 380.02,
+          "end": 380.38
+        },
+        {
+          "word": " this",
+          "start": 380.38,
+          "end": 380.65999999999997
+        },
+        {
+          "word": " century,",
+          "start": 380.65999999999997,
+          "end": 381.24
+        },
+        {
+          "word": " production",
+          "start": 381.78,
+          "end": 381.94
+        },
+        {
+          "word": " boomed",
+          "start": 381.94,
+          "end": 382.58
+        },
+        {
+          "word": " and",
+          "start": 382.58,
+          "end": 383.21999999999997
+        },
+        {
+          "word": " coffee",
+          "start": 383.21999999999997,
+          "end": 383.53999999999996
+        },
+        {
+          "word": " prices",
+          "start": 383.53999999999996,
+          "end": 384.03999999999996
+        },
+        {
+          "word": " started",
+          "start": 384.03999999999996,
+          "end": 384.65999999999997
+        },
+        {
+          "word": " to",
+          "start": 384.65999999999997,
+          "end": 384.98
+        },
+        {
+          "word": " fall.",
+          "start": 384.98,
+          "end": 385.52
+        }
+      ]
+    },
+    {
+      "start": 386.14,
+      "end": 391.08,
+      "text": " This was partly because new types of transportation had been developed, which were cheaper",
+      "words": [
+        {
+          "word": " This",
+          "start": 386.14,
+          "end": 386.38
+        },
+        {
+          "word": " was",
+          "start": 386.38,
+          "end": 386.62
+        },
+        {
+          "word": " partly",
+          "start": 386.62,
+          "end": 386.91999999999996
+        },
+        {
+          "word": " because",
+          "start": 386.91999999999996,
+          "end": 387.48
+        },
+        {
+          "word": " new",
+          "start": 387.48,
+          "end": 387.9
+        },
+        {
+          "word": " types",
+          "start": 387.9,
+          "end": 388.2
+        },
+        {
+          "word": " of",
+          "start": 388.2,
+          "end": 388.4
+        },
+        {
+          "word": " transportation",
+          "start": 388.4,
+          "end": 389.21999999999997
+        },
+        {
+          "word": " had",
+          "start": 389.21999999999997,
+          "end": 389.53999999999996
+        },
+        {
+          "word": " been",
+          "start": 389.53999999999996,
+          "end": 389.74
+        },
+        {
+          "word": " developed,",
+          "start": 389.74,
+          "end": 390.12
+        },
+        {
+          "word": " which",
+          "start": 390.5,
+          "end": 390.58
+        },
+        {
+          "word": " were",
+          "start": 390.58,
+          "end": 390.78
+        },
+        {
+          "word": " cheaper",
+          "start": 390.78,
+          "end": 391.08
+        }
+      ]
+    },
+    {
+      "start": 391.08,
+      "end": 392.29999999999995,
+      "text": " and more efficient.",
+      "words": [
+        {
+          "word": " and",
+          "start": 391.08,
+          "end": 391.62
+        },
+        {
+          "word": " more",
+          "start": 391.62,
+          "end": 391.86
+        },
+        {
+          "word": " efficient.",
+          "start": 391.86,
+          "end": 392.29999999999995
+        }
+      ]
+    },
+    {
+      "start": 393.24,
+      "end": 396.24,
+      "text": " So now, working people could afford to buy coffee.",
+      "words": [
+        {
+          "word": " So",
+          "start": 393.24,
+          "end": 393.48
+        },
+        {
+          "word": " now,",
+          "start": 393.48,
+          "end": 394.21999999999997
+        },
+        {
+          "word": " working",
+          "start": 394.44,
+          "end": 394.52
+        },
+        {
+          "word": " people",
+          "start": 394.52,
+          "end": 394.98
+        },
+        {
+          "word": " could",
+          "start": 394.98,
+          "end": 395.21999999999997
+        },
+        {
+          "word": " afford",
+          "start": 395.21999999999997,
+          "end": 395.5
+        },
+        {
+          "word": " to",
+          "start": 395.5,
+          "end": 395.7
+        },
+        {
+          "word": " buy",
+          "start": 395.7,
+          "end": 395.94
+        },
+        {
+          "word": " coffee.",
+          "start": 395.94,
+          "end": 396.24
+        }
+      ]
+    },
+    {
+      "start": 396.88,
+      "end": 399.0,
+      "text": " It wasn't just a drink for the middle classes.",
+      "words": [
+        {
+          "word": " It",
+          "start": 396.88,
+          "end": 397.02
+        },
+        {
+          "word": " wasn't",
+          "start": 397.02,
+          "end": 397.26
+        },
+        {
+          "word": " just",
+          "start": 397.26,
+          "end": 397.56
+        },
+        {
+          "word": " a",
+          "start": 397.56,
+          "end": 397.65999999999997
+        },
+        {
+          "word": " drink",
+          "start": 397.65999999999997,
+          "end": 397.91999999999996
+        },
+        {
+          "word": " for",
+          "start": 397.91999999999996,
+          "end": 398.08
+        },
+        {
+          "word": " the",
+          "start": 398.08,
+          "end": 398.24
+        },
+        {
+          "word": " middle",
+          "start": 398.24,
+          "end": 398.44
+        },
+        {
+          "word": " classes.",
+          "start": 398.44,
+          "end": 399.0
+        }
+      ]
+    },
+    {
+      "start": 400.21999999999997,
+      "end": 404.79999999999995,
+      "text": " And this was at a time when large parts of Europe were starting to work in industries.",
+      "words": [
+        {
+          "word": " And",
+          "start": 400.21999999999997,
+          "end": 400.44
+        },
+        {
+          "word": " this",
+          "start": 400.44,
+          "end": 400.64
+        },
+        {
+          "word": " was",
+          "start": 400.64,
+          "end": 400.91999999999996
+        },
+        {
+          "word": " at",
+          "start": 400.91999999999996,
+          "end": 401.03999999999996
+        },
+        {
+          "word": " a",
+          "start": 401.03999999999996,
+          "end": 401.28
+        },
+        {
+          "word": " time",
+          "start": 401.28,
+          "end": 401.46
+        },
+        {
+          "word": " when",
+          "start": 401.46,
+          "end": 401.7
+        },
+        {
+          "word": " large",
+          "start": 401.7,
+          "end": 402.03999999999996
+        },
+        {
+          "word": " parts",
+          "start": 402.03999999999996,
+          "end": 402.32
+        },
+        {
+          "word": " of",
+          "start": 402.32,
+          "end": 402.52
+        },
+        {
+          "word": " Europe",
+          "start": 402.52,
+          "end": 402.78
+        },
+        {
+          "word": " were",
+          "start": 402.78,
+          "end": 403.29999999999995
+        },
+        {
+          "word": " starting",
+          "start": 403.29999999999995,
+          "end": 403.5
+        },
+        {
+          "word": " to",
+          "start": 403.5,
+          "end": 403.82
+        },
+        {
+          "word": " work",
+          "start": 403.82,
+          "end": 404.06
+        },
+        {
+          "word": " in",
+          "start": 404.06,
+          "end": 404.34
+        },
+        {
+          "word": " industries.",
+          "start": 404.34,
+          "end": 404.79999999999995
+        }
+      ]
+    },
+    {
+      "start": 404.79999999999995,
+      "end": 409.4,
+      "text": " And sometimes this meant their work didn't stop when it got dark.",
+      "words": [
+        {
+          "word": " And",
+          "start": 404.79999999999995,
+          "end": 405.82
+        },
+        {
+          "word": " sometimes",
+          "start": 405.82,
+          "end": 406.34
+        },
+        {
+          "word": " this",
+          "start": 406.34,
+          "end": 406.71999999999997
+        },
+        {
+          "word": " meant",
+          "start": 406.71999999999997,
+          "end": 407.15999999999997
+        },
+        {
+          "word": " their",
+          "start": 407.15999999999997,
+          "end": 407.5
+        },
+        {
+          "word": " work",
+          "start": 407.5,
+          "end": 407.78
+        },
+        {
+          "word": " didn't",
+          "start": 407.78,
+          "end": 408.08
+        },
+        {
+          "word": " stop",
+          "start": 408.08,
+          "end": 408.36
+        },
+        {
+          "word": " when",
+          "start": 408.36,
+          "end": 408.5
+        },
+        {
+          "word": " it",
+          "start": 408.5,
+          "end": 408.64
+        },
+        {
+          "word": " got",
+          "start": 408.64,
+          "end": 408.9
+        },
+        {
+          "word": " dark.",
+          "start": 408.9,
+          "end": 409.4
+        }
+      ]
+    },
+    {
+      "start": 409.96,
+      "end": 412.7,
+      "text": " They might have to continue throughout the night.",
+      "words": [
+        {
+          "word": " They",
+          "start": 409.96,
+          "end": 410.06
+        },
+        {
+          "word": " might",
+          "start": 410.06,
+          "end": 410.36
+        },
+        {
+          "word": " have",
+          "start": 410.36,
+          "end": 410.53999999999996
+        },
+        {
+          "word": " to",
+          "start": 410.53999999999996,
+          "end": 410.78
+        },
+        {
+          "word": " continue",
+          "start": 410.78,
+          "end": 411.24
+        },
+        {
+          "word": " throughout",
+          "start": 411.24,
+          "end": 411.86
+        },
+        {
+          "word": " the",
+          "start": 411.86,
+          "end": 412.12
+        },
+        {
+          "word": " night.",
+          "start": 412.12,
+          "end": 412.7
+        }
+      ]
+    },
+    {
+      "start": 413.34,
+      "end": 416.65999999999997,
+      "text": " So the use of coffee as a stimulant became important.",
+      "words": [
+        {
+          "word": " So",
+          "start": 413.34,
+          "end": 413.5
+        },
+        {
+          "word": " the",
+          "start": 413.5,
+          "end": 413.68
+        },
+        {
+          "word": " use",
+          "start": 413.68,
+          "end": 413.86
+        },
+        {
+          "word": " of",
+          "start": 413.86,
+          "end": 414.08
+        },
+        {
+          "word": " coffee",
+          "start": 414.08,
+          "end": 414.36
+        },
+        {
+          "word": " as",
+          "start": 414.36,
+          "end": 414.71999999999997
+        },
+        {
+          "word": " a",
+          "start": 414.71999999999997,
+          "end": 414.84
+        },
+        {
+          "word": " stimulant",
+          "start": 414.84,
+          "end": 415.48
+        },
+        {
+          "word": " became",
+          "start": 415.48,
+          "end": 415.9
+        },
+        {
+          "word": " important.",
+          "start": 415.9,
+          "end": 416.65999999999997
+        }
+      ]
+    },
+    {
+      "start": 417.4,
+      "end": 420.41999999999996,
+      "text": " It wasn't just a drink people drank in the morning for breakfast.",
+      "words": [
+        {
+          "word": " It",
+          "start": 417.4,
+          "end": 417.56
+        },
+        {
+          "word": " wasn't",
+          "start": 417.56,
+          "end": 417.76
+        },
+        {
+          "word": " just",
+          "start": 417.76,
+          "end": 418.03999999999996
+        },
+        {
+          "word": " a",
+          "start": 418.03999999999996,
+          "end": 418.15999999999997
+        },
+        {
+          "word": " drink",
+          "start": 418.15999999999997,
+          "end": 418.41999999999996
+        },
+        {
+          "word": " people",
+          "start": 418.41999999999996,
+          "end": 418.79999999999995
+        },
+        {
+          "word": " drank",
+          "start": 418.79999999999995,
+          "end": 419.08
+        },
+        {
+          "word": " in",
+          "start": 419.08,
+          "end": 419.26
+        },
+        {
+          "word": " the",
+          "start": 419.26,
+          "end": 419.41999999999996
+        },
+        {
+          "word": " morning",
+          "start": 419.41999999999996,
+          "end": 419.65999999999997
+        },
+        {
+          "word": " for",
+          "start": 419.65999999999997,
+          "end": 419.94
+        },
+        {
+          "word": " breakfast.",
+          "start": 419.94,
+          "end": 420.41999999999996
+        }
+      ]
+    },
+    {
+      "start": 421.68,
+      "end": 423.76,
+      "text": " There were also changes in cultivation.",
+      "words": [
+        {
+          "word": " There",
+          "start": 421.68,
+          "end": 421.91999999999996
+        },
+        {
+          "word": " were",
+          "start": 421.91999999999996,
+          "end": 422.09999999999997
+        },
+        {
+          "word": " also",
+          "start": 422.09999999999997,
+          "end": 422.48
+        },
+        {
+          "word": " changes",
+          "start": 422.48,
+          "end": 422.84
+        },
+        {
+          "word": " in",
+          "start": 422.84,
+          "end": 423.2
+        },
+        {
+          "word": " cultivation.",
+          "start": 423.2,
+          "end": 423.76
+        }
+      ]
+    },
+    {
+      "start": 428.06,
+      "end": 430.62,
+      "text": " That is the end of section four.",
+      "words": [
+        {
+          "word": " That",
+          "start": 428.06,
+          "end": 428.62
+        },
+        {
+          "word": " is",
+          "start": 428.62,
+          "end": 428.86
+        },
+        {
+          "word": " the",
+          "start": 428.86,
+          "end": 429.08
+        },
+        {
+          "word": " end",
+          "start": 429.08,
+          "end": 429.26
+        },
+        {
+          "word": " of",
+          "start": 429.26,
+          "end": 429.53999999999996
+        },
+        {
+          "word": " section",
+          "start": 429.53999999999996,
+          "end": 429.79999999999995
+        },
+        {
+          "word": " four.",
+          "start": 429.79999999999995,
+          "end": 430.62
+        }
+      ]
+    },
+    {
+      "start": 431.44,
+      "end": 434.98,
+      "text": " You now have half a minute to check your answers.",
+      "words": [
+        {
+          "word": " You",
+          "start": 431.44,
+          "end": 432.12
+        },
+        {
+          "word": " now",
+          "start": 432.12,
+          "end": 432.46
+        },
+        {
+          "word": " have",
+          "start": 432.46,
+          "end": 432.76
+        },
+        {
+          "word": " half",
+          "start": 432.76,
+          "end": 433.03999999999996
+        },
+        {
+          "word": " a",
+          "start": 433.03999999999996,
+          "end": 433.15999999999997
+        },
+        {
+          "word": " minute",
+          "start": 433.15999999999997,
+          "end": 433.41999999999996
+        },
+        {
+          "word": " to",
+          "start": 433.41999999999996,
+          "end": 433.88
+        },
+        {
+          "word": " check",
+          "start": 433.88,
+          "end": 434.21999999999997
+        },
+        {
+          "word": " your",
+          "start": 434.21999999999997,
+          "end": 434.48
+        },
+        {
+          "word": " answers.",
+          "start": 434.48,
+          "end": 434.98
+        }
+      ]
+    },
+    {
+      "start": 465.28,
+      "end": 467.91999999999996,
+      "text": " That is the end of the listening test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 465.28,
+          "end": 465.76
+        },
+        {
+          "word": " is",
+          "start": 465.76,
+          "end": 465.98
+        },
+        {
+          "word": " the",
+          "start": 465.98,
+          "end": 466.2
+        },
+        {
+          "word": " end",
+          "start": 466.2,
+          "end": 466.64
+        },
+        {
+          "word": " of",
+          "start": 466.64,
+          "end": 466.88
+        },
+        {
+          "word": " the",
+          "start": 466.88,
+          "end": 467.06
+        },
+        {
+          "word": " listening",
+          "start": 467.06,
+          "end": 467.26
+        },
+        {
+          "word": " test.",
+          "start": 467.26,
+          "end": 467.91999999999996
+        }
+      ]
+    }
+  ]
+}

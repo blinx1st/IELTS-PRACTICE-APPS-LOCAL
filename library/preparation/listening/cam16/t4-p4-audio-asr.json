@@ -1,0 +1,127 @@
+{
+  "book": 16,
+  "test": 4,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 4.mp3",
+  "sha256": "2a6aa104b6369a58fd28ab052ed42381b8073349534a6a7815da3728f78a411b",
+  "duration": 553.344,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      453.9526875,
+      553.9526875
+    ]
+  ],
+  "text": "Part 4. You will hear part of an environmental science lecture about a large bird called the dodo, which is now extinct. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. One of the most famous cases of extinction is that of a bird known as the dodo. In fact, there's even a saying in English, as dead as the dodo, used to refer to something which no longer exists. But for many centuries, the dodo was alive and well, although it could only be found in one place, the island of Mauritius in the Indian Ocean. It was a very large bird, about one metre tall, and over the centuries it had lost the ability to fly, but it survived happily under the trees that covered the island. Then, in the year 1507. provided a perfect home for the dodo, was cut down, so that crops such as sugar could be grown. So, although the dodo had survived for thousands of years, suddenly it was gone. That is the end of Part 4. You now have one minute to check your answers to Part 4. You That is the end of the Listening Test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Part 4."
+    },
+    {
+      "start": 2.16,
+      "end": 7.76,
+      "text": "You will hear part of an environmental science lecture about a large bird called the dodo,"
+    },
+    {
+      "start": 7.76,
+      "end": 9.56,
+      "text": "which is now extinct."
+    },
+    {
+      "start": 9.56,
+      "end": 13.92,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 72.24,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 72.24,
+      "end": 78.6,
+      "text": "One of the most famous cases of extinction is that of a bird known as the dodo."
+    },
+    {
+      "start": 78.6,
+      "end": 85.0,
+      "text": "In fact, there's even a saying in English, as dead as the dodo, used to refer to something"
+    },
+    {
+      "start": 85.0,
+      "end": 87.92,
+      "text": "which no longer exists."
+    },
+    {
+      "start": 87.92,
+      "end": 93.24,
+      "text": "But for many centuries, the dodo was alive and well, although it could only be found"
+    },
+    {
+      "start": 93.24,
+      "end": 98.76,
+      "text": "in one place, the island of Mauritius in the Indian Ocean."
+    },
+    {
+      "start": 98.76,
+      "end": 104.88,
+      "text": "It was a very large bird, about one metre tall, and over the centuries it had lost the"
+    },
+    {
+      "start": 104.88,
+      "end": 111.32,
+      "text": "ability to fly, but it survived happily under the trees that covered the island."
+    },
+    {
+      "start": 111.32,
+      "end": 115.32,
+      "text": "Then, in the year 1507."
+    },
+    {
+      "start": 453.95,
+      "end": 460.15,
+      "text": "provided a perfect home for the dodo, was cut down, so that crops such as sugar could"
+    },
+    {
+      "start": 460.15,
+      "end": 468.73,
+      "text": "be grown. So, although the dodo had survived for thousands of years, suddenly it was"
+    },
+    {
+      "start": 468.73,
+      "end": 473.19,
+      "text": "gone."
+    },
+    {
+      "start": 473.19,
+      "end": 479.27,
+      "text": "That is the end of Part 4. You now have one minute to check your answers to Part 4."
+    },
+    {
+      "start": 483.95,
+      "end": 485.95,
+      "text": "You"
+    },
+    {
+      "start": 513.95,
+      "end": 542.79,
+      "text": "That is the end of the Listening Test."
+    },
+    {
+      "start": 542.79,
+      "end": 548.79,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

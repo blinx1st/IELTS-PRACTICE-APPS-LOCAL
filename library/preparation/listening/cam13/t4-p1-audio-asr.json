@@ -1,0 +1,142 @@
+{
+  "book": 13,
+  "test": 4,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_05.mp3",
+  "sha256": "ba1c05e31543c7a582a0bd93305c0ff9e6984c598cbaf833dd8e92b6e190fc3e",
+  "duration": 466.161,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      366.8604375,
+      466.8604375
+    ]
+  ],
+  "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section 1. Section 1. You will hear a phone conversation between Alex and employee at a company called JPNW and Martha, who wants to work as a trainee at the company. First, you have some time to look at questions 1 to 7. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Hi Alex, it's Martha Kines here. third of this month. So long as you're well prepared, there's nothing to worry about. Everyone's very friendly. I am not sure what I should wear. What do you think? Nothing too casual, like jeans for example. If you've got a nice jacket, wear that with a skirt or trousers. Okay, thanks. Any other tips? Well, I know it's really obvious, but arrive in plenty of time. They hate people who are late. So make sure you know exactly where you have to get to. And one other useful piece of advice my manager told me before I had the interview for this job is to smile, even if you feel terrified. It makes people respond better to you. I'll have to practice doing that in the mirror. Yeah, well good luck. Let me know if you need any more information. Thanks very much. That is the end of section 1. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "start": 10.0,
+      "end": 18.0,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work."
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 27.0,
+      "end": 34.0,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Now turn to section 1."
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": "Section 1."
+    },
+    {
+      "start": 46.0,
+      "end": 53.0,
+      "text": "You will hear a phone conversation between Alex and employee at a company called JPNW"
+    },
+    {
+      "start": 53.0,
+      "end": 57.0,
+      "text": "and Martha, who wants to work as a trainee at the company."
+    },
+    {
+      "start": 58.0,
+      "end": 63.0,
+      "text": "First, you have some time to look at questions 1 to 7."
+    },
+    {
+      "start": 83.0,
+      "end": 102.6,
+      "text": "You will see that there is an example that has been done for you."
+    },
+    {
+      "start": 102.6,
+      "end": 108.92,
+      "text": "On this occasion only, the conversation relating to this will be played first."
+    },
+    {
+      "start": 108.92,
+      "end": 115.92,
+      "text": "Hi Alex, it's Martha Kines here."
+    },
+    {
+      "start": 366.86,
+      "end": 372.06,
+      "text": "third of this month. So long as you're well prepared, there's nothing to worry about. Everyone's"
+    },
+    {
+      "start": 372.06,
+      "end": 379.82,
+      "text": "very friendly. I am not sure what I should wear. What do you think? Nothing too casual, like"
+    },
+    {
+      "start": 379.82,
+      "end": 386.78,
+      "text": "jeans for example. If you've got a nice jacket, wear that with a skirt or trousers. Okay, thanks."
+    },
+    {
+      "start": 387.66,
+      "end": 394.62,
+      "text": "Any other tips? Well, I know it's really obvious, but arrive in plenty of time. They hate"
+    },
+    {
+      "start": 394.62,
+      "end": 400.22,
+      "text": "people who are late. So make sure you know exactly where you have to get to. And one other"
+    },
+    {
+      "start": 400.22,
+      "end": 405.58,
+      "text": "useful piece of advice my manager told me before I had the interview for this job is to smile,"
+    },
+    {
+      "start": 406.14,
+      "end": 409.98,
+      "text": "even if you feel terrified. It makes people respond better to you."
+    },
+    {
+      "start": 410.7,
+      "end": 416.7,
+      "text": "I'll have to practice doing that in the mirror. Yeah, well good luck. Let me know if you need"
+    },
+    {
+      "start": 416.7,
+      "end": 422.78,
+      "text": "any more information. Thanks very much."
+    },
+    {
+      "start": 422.78,
+      "end": 429.22,
+      "text": "That is the end of section 1. You now have half a minute to check your answers."
+    },
+    {
+      "start": 446.7,
+      "end": 461.7,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

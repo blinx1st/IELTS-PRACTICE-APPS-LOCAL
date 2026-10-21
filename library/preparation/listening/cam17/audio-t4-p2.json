@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/c267eb0ff993342feb039b94f172b10e0721b7f06394883786e9107dced79180.mp3",
+    "sha256": "c267eb0ff993342feb039b94f172b10e0721b7f06394883786e9107dced79180",
+    "duration": 471.549,
+    "start": 0,
+    "end": 471.549,
+    "source": "library\\preparation\\listening\\cam17\\cam17-test4-part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a training manager giving a talk to a group of senior staff from a hotel chain about the problem of high staff turnover. First you have some time to look at questions 11 to 14. As many of you here today have worked in the hotel industry for some time, I'm sure you have experienced the problem of high staff turnover in your hotels. Every hotel relies on having loyal and experienced members of staff, who make sure that everything runs smoothly. If staff are constantly changing, it can make life difficult for everyone. But why do staff leave frequently in many hotels? Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-paid. A lot of managers think it's this and the long hours that are the main causes of"
+    },
+    {
+      "name": "ending",
+      "start": 406.549,
+      "end": 471.549,
+      "text": "childcare. Louise Marsh at the Aimsbury has one of the best staff retention rates in the business. Since she joined the company, she's made a huge effort to achieve this by creating a cooperative and supportive environment. For her, the staff are part of a a large family where everyone is valued. Okay, now I'd like to move. That is the end of part two. You now have half a minute to check your answers to part two."
+    }
+  ]
+}

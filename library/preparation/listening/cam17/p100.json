@@ -1,0 +1,93 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 100,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "ah ae\nRE, RHBRERORRTR\nEth 2\nia 1718867188\need\nTEST 3\nPART1\nWOMAN:\nJack, I’m thinking of taking the kids to the seaside on a surfing holiday this\nsummer and\n| wanted to ask your advice — as\n| know you're such an expert.\nJACK:\nWell,\n| don’t know about that, but yes, I’ve donea bit of surfing over the years. I'd\nthoroughly recommend it.\n| think it’s the kind of holiday all the family can enjoy\nQ1\ntogether. The thing about surfing is that it’s great for all ages and all abilities. My\nyoungest started when he was only three!\nWOMAN:\nWow! But it’s quite physically demanding, isn’t it? I've heard you need to be\nQ2\npretty fit.\nJACK:\nYes. You'll certainly learn more quickly and won't tire as easily.\nWOMAN:\nWell — that should be OK for us. You've been surfing a few times in Ireland,\nhaven't you?\nJACK?\nYes. There’s some great surfing there, which people don’t always realise.\nWOMAN:\nAnd which locations would you recommend? — there seem to be quite a few.\nJACK:\nYes, there are loads. Last year we went to County Donegal. There are several\ngreat places to surf there.\nWOMAN:\nWhat about in County Clare?\n| read that’s also really good for surfing.\nJACK?\nYes, it is. I've been there a few times. Most people go to Lahinch. My kids love it\nthere. The waves aren't too challenging and the town is very lively.\nWOMAN:\nAre there good hotels there?\nQ3\nJACK:\nYes — some very nice ones and there are also a few basic hostels and campsites.\nIt's great if you need lessons as the surf schools are excellent.\nWOMAN:\nSounds good.\nJACK?\nYes and there’s lots to see in the area — like those well-known cliffs — ... I’ve\nforgotten the name of them ...\nWOMAN:\nOh don’t worry — | can look them up.\nJACK:\nI've also been surfing in County Mayo, which is less well-known for surfing,\nbut we had a really good time. That was a few years ago when the kids were\nyounger. There’s a good surf school at Carrowniskey beach.\nQ4\nWOMAN:\nHow do you spell that?\nJACK:\nC-A-double R-O-W-N-I-S-K-E-Y\nWOMAN:\nOK.\nJACK:\n| put the kids into the surf camp they run during the summer for 10-16 year olds.\nWOMAN:\nOh right. How long was that for?\nJACK:\nThree hours every day for a week. It was perfect — they were so tired out after\nQ5\nthat.\nWOMAN:\n| can imagine.\nJACK?\nOne thing we did while the kids were surfing was to rent some kayaks to have a\nQ6\nlook around the bay which is nearby. It’s really beautiful.\nWOMAN:\nOh, I'd love to do that.\nWOMAN:\nNow the only time | went to Ireland it rained practically every day.\nJACK:\nMmm yes — that can be a problem — but you can surf in the rain, you know.\nWOMAN:\nIt doesn’t have the same appeal, somehow.\nJACK?\nWell, the weather’s been fine the last couple of years when I’ve been there,\nbut actually, it tends to rain more in August than in the spring or autumn.\nSeptember’s my favourite month because the water is warmer then.\nQ7\n107\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        14.03717041015625,
+        512.0147705078125,
+        63.00422286987305
+      ],
+      "text": "ah ae\nRE, RHBRERORRTR\nEth 2\nia 1718867188\need\n"
+    },
+    {
+      "box": [
+        240.0716094970703,
+        82.06343078613281,
+        293.31927490234375,
+        92.15149688720703
+      ],
+      "text": "TEST 3\n"
+    },
+    {
+      "box": [
+        61.90752029418945,
+        124.1749267578125,
+        116.20978546142578,
+        145.07159423828125
+      ],
+      "text": "PART1\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        150.80960083007812,
+        501.72808837890625,
+        391.2501220703125
+      ],
+      "text": "WOMAN:\nJack, I’m thinking of taking the kids to the seaside on a surfing holiday this\nsummer and\n| wanted to ask your advice — as\n| know you're such an expert.\nJACK:\nWell,\n| don’t know about that, but yes, I’ve donea bit of surfing over the years. I'd\nthoroughly recommend it.\n| think it’s the kind of holiday all the family can enjoy\nQ1\ntogether. The thing about surfing is that it’s great for all ages and all abilities. My\nyoungest started when he was only three!\nWOMAN:\nWow! But it’s quite physically demanding, isn’t it? I've heard you need to be\nQ2\npretty fit.\nJACK:\nYes. You'll certainly learn more quickly and won't tire as easily.\nWOMAN:\nWell — that should be OK for us. You've been surfing a few times in Ireland,\nhaven't you?\nJACK?\nYes. There’s some great surfing there, which people don’t always realise.\nWOMAN:\nAnd which locations would you recommend? — there seem to be quite a few.\nJACK:\nYes, there are loads. Last year we went to County Donegal. There are several\ngreat places to surf there.\nWOMAN:\nWhat about in County Clare?\n| read that’s also really good for surfing.\nJACK?\nYes, it is. I've been there a few times. Most people go to Lahinch. My kids love it\nthere. The waves aren't too challenging and the town is very lively.\nWOMAN:\nAre there good hotels there?\nQ3\nJACK:\nYes — some very nice ones and there are also a few basic hostels and campsites.\n"
+    },
+    {
+      "box": [
+        61.18777084350586,
+        394.48046875,
+        447.3179931640625,
+        425.8013610839844
+      ],
+      "text": "It's great if you need lessons as the surf schools are excellent.\nWOMAN:\nSounds good.\nJACK?\nYes and there’s lots to see in the area — like those well-known cliffs — ... I’ve\n"
+    },
+    {
+      "box": [
+        61.18778610229492,
+        430.8331298828125,
+        501.70660400390625,
+        623.0463256835938
+      ],
+      "text": "forgotten the name of them ...\nWOMAN:\nOh don’t worry — | can look them up.\nJACK:\nI've also been surfing in County Mayo, which is less well-known for surfing,\nbut we had a really good time. That was a few years ago when the kids were\nyounger. There’s a good surf school at Carrowniskey beach.\nQ4\nWOMAN:\nHow do you spell that?\nJACK:\nC-A-double R-O-W-N-I-S-K-E-Y\nWOMAN:\nOK.\nJACK:\n| put the kids into the surf camp they run during the summer for 10-16 year olds.\nWOMAN:\nOh right. How long was that for?\nJACK:\nThree hours every day for a week. It was perfect — they were so tired out after\nQ5\nthat.\nWOMAN:\n| can imagine.\nJACK?\nOne thing we did while the kids were surfing was to rent some kayaks to have a\nQ6\nlook around the bay which is nearby. It’s really beautiful.\nWOMAN:\nOh, I'd love to do that.\n"
+    },
+    {
+      "box": [
+        61.187801361083984,
+        639.9509887695312,
+        444.78057861328125,
+        686.7505493164062
+      ],
+      "text": "WOMAN:\nNow the only time | went to Ireland it rained practically every day.\nJACK:\nMmm yes — that can be a problem — but you can surf in the rain, you know.\nWOMAN:\nIt doesn’t have the same appeal, somehow.\nJACK?\nWell, the weather’s been fine the last couple of years when I’ve been there,\n"
+    },
+    {
+      "box": [
+        115.17700958251953,
+        689.6209716796875,
+        502.0954284667969,
+        710.8663940429688
+      ],
+      "text": "but actually, it tends to rain more in August than in the spring or autumn.\nSeptember’s my favourite month because the water is warmer then.\nQ7\n"
+    },
+    {
+      "box": [
+        506.4181213378906,
+        731.0126342773438,
+        524.29931640625,
+        739.2992553710938
+      ],
+      "text": "107\n"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 30,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 2\nREADING\nREADING PASSAGE\n1\nYou should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\nAlexander Henderson (1831-1913)\nBorn in Scotland, Henderson emigrated to Canada in 1855 and became a\nwell-known landscape photographer\nAlexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.\nHis grandfather, also called Alexander, had founded the family business, and later became\nthe first chairman of the National Bank of Scotland. The family had extensive landholdings in\nScotland. Besides its residence in Edinburgh, it owned Press Estate, 650 acres of farmland about\n35 miles southeast of the city. The family often stayed at Press Castle, the large mansion on the\nnorthern edge of the property, and Alexander spent much of his childhood in the area, playing on\nthe beach near Eyemouth or fishing in the streams nearby.\nEven after he went to school at Murcheston Academy on the outskirts of Edinburgh, Henderson\nreturned to Press at weekends. In 1849 he began a three-year apprenticeship to become an\naccountant. Although he never liked the prospect of a business career, he stayed with it to\nplease his family. In October 1855, however, he emigrated to Canada with his wife Agnes Elder\nRobertson and they settled in Montreal.\nHenderson learned photography in Montreal around the year 1857 and quickly took it up\nas a serious amateur. He becamea personal friend and colleague ofthe Scottish-Canadian\nphotographer William Notman. The two men madea photographic excursion to Niagara Falls in\n1860 and they cooperated on experiments with magnesium flares as a source of artificial light\nin 1865. They belonged to the same societies and were among the founding members of the Art\nAssociation of Montreal. Henderson acted as chairman of the association’s first meeting, which\nwas held in Notman’s studio on 11 January 1860.\nIn spite of their friendship, their styles of photography were quite different. While Notman’s\nlandscapes were noted for their bold realism, Henderson for the first 20 years of his career\nproduced romantic images, showing the strong influence of the British landscape tradition. His\nartistic and technical progress was rapid and in 1865 he published his first major collection of\nlandscape photographs. The publication had limited circulation (only seven copies have ever been\nfound), and was called Canadian Views and Studies. The contents of each copy vary significantly\nand have proved a useful source for evaluating Henderson’s early work.\nThis text is taken, for the most part, verbatim from the Dictionary of Canadian Biography Volume XIV (1911-1920). For design purposes,\nquotation marks have been omitted. Source: http:/Awww. biographi.ca/en/bio/henderson_alexander_1831_1913_14E.html. Reproduced\nwith permission.\n38\n",
+  "blocks": [
+    {
+      "box": [
+        127.41433715820312,
+        91.0616683959961,
+        156.1905517578125,
+        99.34830474853516
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        308.81781005859375,
+        127.05438995361328,
+        375.1435852050781,
+        136.7821807861328
+      ],
+      "text": "READING\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        169.1658935546875,
+        282.1255798339844,
+        180.6951141357422
+      ],
+      "text": "READING PASSAGE\n1\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        196.52040100097656,
+        547.9467163085938,
+        222.08929443359375
+      ],
+      "text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\n"
+    },
+    {
+      "box": [
+        229.63372802734375,
+        239.351806640625,
+        451.5362243652344,
+        254.48387145996094
+      ],
+      "text": "Alexander Henderson (1831-1913)\n"
+    },
+    {
+      "box": [
+        148.29013061523438,
+        268.14599609375,
+        533.3532104492188,
+        281.47662353515625
+      ],
+      "text": "Born in Scotland, Henderson emigrated to Canada in 1855 and became a\n"
+    },
+    {
+      "box": [
+        245.47056579589844,
+        284.70263671875,
+        436.2394104003906,
+        298.03326416015625
+      ],
+      "text": "well-known landscape photographer\n"
+    },
+    {
+      "box": [
+        123.45513916015625,
+        310.61749267578125,
+        551.36572265625,
+        400.97186279296875
+      ],
+      "text": "Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.\nHis grandfather, also called Alexander, had founded the family business, and later became\nthe first chairman of the National Bank of Scotland. The family had extensive landholdings in\nScotland. Besides its residence in Edinburgh, it owned Press Estate, 650 acres of farmland about\n35 miles southeast of the city. The family often stayed at Press Castle, the large mansion on the\nnorthern edge of the property, and Alexander spent much of his childhood in the area, playing on\nthe beach near Eyemouth or fishing in the streams nearby.\n"
+    },
+    {
+      "box": [
+        123.09526062011719,
+        414.27655029296875,
+        544.6494140625,
+        477.274658203125
+      ],
+      "text": "Even after he went to school at Murcheston Academy on the outskirts of Edinburgh, Henderson\nreturned to Press at weekends. In 1849 he began a three-year apprenticeship to become an\naccountant. Although he never liked the prospect of a business career, he stayed with it to\nplease his family. In October 1855, however, he emigrated to Canada with his wife Agnes Elder\nRobertson and they settled in Montreal.\n"
+    },
+    {
+      "box": [
+        122.73531341552734,
+        492.0209045410156,
+        545.6249389648438,
+        531.9883422851562
+      ],
+      "text": "Henderson learned photography in Montreal around the year 1857 and quickly took it up\nas a serious amateur. He becamea personal friend and colleague ofthe Scottish-Canadian\nphotographer William Notman. The two men madea photographic excursion to Niagara Falls in\n"
+    },
+    {
+      "box": [
+        122.37540435791016,
+        531.2529907226562,
+        542.95068359375,
+        581.6543579101562
+      ],
+      "text": "1860 and they cooperated on experiments with magnesium flares as a source of artificial light\nin 1865. They belonged to the same societies and were among the founding members of the Art\nAssociation of Montreal. Henderson acted as chairman of the association’s first meeting, which\nwas held in Notman’s studio on 11 January 1860.\n"
+    },
+    {
+      "box": [
+        121.65548706054688,
+        595.6799926757812,
+        551.3082275390625,
+        686.394287109375
+      ],
+      "text": "In spite of their friendship, their styles of photography were quite different. While Notman’s\nlandscapes were noted for their bold realism, Henderson for the first 20 years of his career\nproduced romantic images, showing the strong influence of the British landscape tradition. His\nartistic and technical progress was rapid and in 1865 he published his first major collection of\nlandscape photographs. The publication had limited circulation (only seven copies have ever been\nfound), and was called Canadian Views and Studies. The contents of each copy vary significantly\nand have proved a useful source for evaluating Henderson’s early work.\n"
+    },
+    {
+      "box": [
+        120.93563079833984,
+        696.459716796875,
+        541.55419921875,
+        721.3011474609375
+      ],
+      "text": "This text is taken, for the most part, verbatim from the Dictionary of Canadian Biography Volume XIV (1911-1920). For design purposes,\nquotation marks have been omitted. Source: http:/Awww. biographi.ca/en/bio/henderson_alexander_1831_1913_14E.html. Reproduced\nwith permission.\n"
+    },
+    {
+      "box": [
+        121.29556274414062,
+        727.7734375,
+        132.8024444580078,
+        736.06005859375
+      ],
+      "text": "38\n"
+    }
+  ]
+}

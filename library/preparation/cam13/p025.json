@@ -1,0 +1,174 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 25,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 1\nQuestions 27-31\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 27-31 on your answer sheet.\n27\nWhat is the writer suggesting about computer-produced works in the\nfirst paragraph?\nA\nPeople’s acceptance of them can vary considerably.\nB-\nAgreat deal of progress has already been attained in this field.\nC_\nThey have had more success in some artistic genres than in others.\nD_\nThe advances are not as significant as the public believes them to be.\n28\nAccording to Geraint Wiggins, why are many people worried by computer art?\nA\n__ltis aesthetically inferior to human art.\nB\nIt may ultimately supersede human art.\nC\nIt undermines a fundamental human quality.\nD\nIt will lead to a deterioration in human ability.\n29\nWhat is a key difference between Aaron and the Painting Fool?\nA _\nits programmer’s background\nB\npublic response to its work\nC__ the source of its subject matter\nD _\nthe technical standard of its output\n30\nWhat point does Simon Colton make in the fourth paragraph?\nA __ Software-produced art is often dismissed as childish and simplistic.\nB-\nThe same concepts of creativity should not be applied to all forms of art.\nC\nitis unreasonable to expect a machine to be as imaginative as a human being.\nD\nPeople tend to judge computer art and human art according to\ndifferent criteria.\n31\nThe writer refers to the paintings of a chair as an example of computer art which\nA\nachieves a particularly striking effect.\nB\nexhibits a certain level of genuine artistic skill.\n|\nC\nclosely resembles that of a well-known artist.\nD\nhighlights the technical limitations of the software.\n26\n",
+  "blocks": [
+    {
+      "box": [
+        94.31999969482422,
+        62.6400146484375,
+        125.95500183105469,
+        71.64901733398438
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        93.95999908447266,
+        100.44000244140625,
+        193.67994689941406,
+        111.25079345703125
+      ],
+      "text": "Questions 27-31\n"
+    },
+    {
+      "box": [
+        93.95999908447266,
+        129.96002197265625,
+        303.4187927246094,
+        141.1311492919922
+      ],
+      "text": "Choose the correct letter, A, B, C or D.\n"
+    },
+    {
+      "box": [
+        94.32000732421875,
+        158.760009765625,
+        424.83953857421875,
+        170.6519012451172
+      ],
+      "text": "Write the correct letter in boxes 27-31 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        93.239990234375,
+        187.55999755859375,
+        491.9544372558594,
+        199.45188903808594
+      ],
+      "text": "27\nWhat is the writer suggesting about computer-produced works in the\n"
+    },
+    {
+      "box": [
+        119.8800048828125,
+        202.32000732421875,
+        205.77597045898438,
+        214.21189880371094
+      ],
+      "text": "first paragraph?\n"
+    },
+    {
+      "box": [
+        119.87999725341797,
+        224.280029296875,
+        429.18975830078125,
+        236.17185974121094
+      ],
+      "text": "A\nPeople’s acceptance of them can vary considerably.\n"
+    },
+    {
+      "box": [
+        120.239990234375,
+        239.03997802734375,
+        515.27880859375,
+        265.3318786621094
+      ],
+      "text": "B-\nAgreat deal of progress has already been attained in this field.\nC_\nThey have had more success in some artistic genres than in others.\n"
+    },
+    {
+      "box": [
+        120.60000610351562,
+        268.20001220703125,
+        526.5252075195312,
+        280.09185791015625
+      ],
+      "text": "D_\nThe advances are not as significant as the public believes them to be.\n"
+    },
+    {
+      "box": [
+        93.239990234375,
+        290.1600036621094,
+        543.3983764648438,
+        302.4122314453125
+      ],
+      "text": "28\nAccording to Geraint Wiggins, why are many people worried by computer art?\n"
+    },
+    {
+      "box": [
+        119.8800048828125,
+        312.8399963378906,
+        387.2737121582031,
+        368.2918701171875
+      ],
+      "text": "A\n__ltis aesthetically inferior to human art.\nB\nIt may ultimately supersede human art.\nC\nIt undermines a fundamental human quality.\nD\nIt will lead to a deterioration in human ability.\n"
+    },
+    {
+      "box": [
+        92.8800048828125,
+        379.0799865722656,
+        463.5631103515625,
+        390.97186279296875
+      ],
+      "text": "29\nWhat is a key difference between Aaron and the Painting Fool?\n"
+    },
+    {
+      "box": [
+        119.52001953125,
+        400.32000732421875,
+        334.2528076171875,
+        458.65478515625
+      ],
+      "text": "A _\nits programmer’s background\nB\npublic response to its work\nC__ the source of its subject matter\nD _\nthe technical standard of its output\n"
+    },
+    {
+      "box": [
+        92.88003540039062,
+        467.6400146484375,
+        510.9191589355469,
+        503.6551208496094
+      ],
+      "text": "30\nWhat point does Simon Colton make in the fourth paragraph?\nA __ Software-produced art is often dismissed as childish and simplistic.\n"
+    },
+    {
+      "box": [
+        119.8800048828125,
+        504.3599853515625,
+        574.959716796875,
+        558.0097045898438
+      ],
+      "text": "B-\nThe same concepts of creativity should not be applied to all forms of art.\nC\nitis unreasonable to expect a machine to be as imaginative as a human being.\nD\nPeople tend to judge computer art and human art according to\ndifferent criteria.\n"
+    },
+    {
+      "box": [
+        92.87996673583984,
+        570.239990234375,
+        555.3900756835938,
+        582.8525390625
+      ],
+      "text": "31\nThe writer refers to the paintings of a chair as an example of computer art which\n"
+    },
+    {
+      "box": [
+        119.51998901367188,
+        593.2799682617188,
+        595.747802734375,
+        649.0925903320312
+      ],
+      "text": "A\nachieves a particularly striking effect.\nB\nexhibits a certain level of genuine artistic skill.\n|\nC\nclosely resembles that of a well-known artist.\nD\nhighlights the technical limitations of the software.\n"
+    },
+    {
+      "box": [
+        92.52001953125,
+        774.3599853515625,
+        105.43681335449219,
+        783.7293090820312
+      ],
+      "text": "26\n"
+    }
+  ]
+}

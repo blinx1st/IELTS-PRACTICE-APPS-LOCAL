@@ -1,0 +1,219 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 33,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "PART\n1\nThe examiner asks you about yourself, your home, work or studies and other\nfamiliar topics.\nEXAMPLE\nPaying bills\ne\nWhat kinds of bills do you have to pay?\ne\nHow do you usually pay your bills — in cash or by another method? [Why?]\ne\nHave you ever forgotten to pay a bill? [Why/Why not?]\ne\nls there anything you could do to make your bills cheaper? [Why/Why not?]\nPART 2\nDescribe some food or drink that you learned to\nYou will have to talk\nprepare.\nabout the topic for one\nwhat food or drink you learned to prepare\nthink about’ what\nvou\nwhen and where you learned to prepare this\n; sing ts 5 a oo\nhow you learned to prepare this\nare going\nay.\ncan make some notes\nand explain how you felt about learning to prepare\nto help you if you wish.\nthis food or drink.\nPART 3\nDiscussion topics:\nYoung people and cooking\nExample questions:\nWhat kinds of things can children learn to cook?\nDo you think it is important for children to learn to cook?\nDo you think young people should learn to cook at home or at school?\nWorking as a chef\nExample questions:\nHow enjoyable do you think it would be to work as a professional chef?\nWhat skills does a person need to be a great chef?\nHow much influence do celebrity/TV chefs have on what ordinary people cook?\n31\n",
+  "blocks": [
+    {
+      "box": [
+        432.2394104003906,
+        578.2369995117188,
+        481.8794860839844,
+        587.9634399414062
+      ],
+      "text": "PART\n1\n"
+    },
+    {
+      "box": [
+        108.2337646484375,
+        537.9300537109375,
+        482.9591369628906,
+        561.6921997070312
+      ],
+      "text": "The examiner asks you about yourself, your home, work or studies and other\nfamiliar topics.\n"
+    },
+    {
+      "box": [
+        430.0929260253906,
+        519.9378051757812,
+        482.2393798828125,
+        528.2233276367188
+      ],
+      "text": "EXAMPLE\n"
+    },
+    {
+      "box": [
+        422.4002685546875,
+        497.62310791015625,
+        482.2393798828125,
+        508.070068359375
+      ],
+      "text": "Paying bills\n"
+    },
+    {
+      "box": [
+        277.9570007324219,
+        477.8296813964844,
+        482.2393798828125,
+        488.2766418457031
+      ],
+      "text": "e\nWhat kinds of bills do you have to pay?\n"
+    },
+    {
+      "box": [
+        107.88848876953125,
+        464.8732604980469,
+        482.2393798828125,
+        476.04071044921875
+      ],
+      "text": "e\nHow do you usually pay your bills — in cash or by another method? [Why?]\n"
+    },
+    {
+      "box": [
+        205.58154296875,
+        451.91796875,
+        481.8795166015625,
+        462.72515869140625
+      ],
+      "text": "e\nHave you ever forgotten to pay a bill? [Why/Why not?]\n"
+    },
+    {
+      "box": [
+        102.99776458740234,
+        438.6016845703125,
+        481.8795166015625,
+        450.12933349609375
+      ],
+      "text": "e\nls there anything you could do to make your bills cheaper? [Why/Why not?]\n"
+    },
+    {
+      "box": [
+        430.0927734375,
+        415.21160888671875,
+        481.5196228027344,
+        424.5778503417969
+      ],
+      "text": "PART 2\n"
+    },
+    {
+      "box": [
+        85.11167907714844,
+        382.4607238769531,
+        470.00347900390625,
+        393.628173828125
+      ],
+      "text": "Describe some food or drink that you learned to\nYou will have to talk\n"
+    },
+    {
+      "box": [
+        71.67910766601562,
+        368.0640869140625,
+        470.00347900390625,
+        380.6725158691406
+      ],
+      "text": "prepare.\nabout the topic for one\n"
+    },
+    {
+      "box": [
+        80.70313262939453,
+        333.153564453125,
+        446.2513732910156,
+        347.92340087890625
+      ],
+      "text": "what food or drink you learned to prepare\nthink about’ what\nvou\n"
+    },
+    {
+      "box": [
+        73.95541381835938,
+        307.2490539550781,
+        446.2513427734375,
+        339.2862854003906
+      ],
+      "text": "when and where you learned to prepare this\n; sing ts 5 a oo\nhow you learned to prepare this\nare going\nay.\ncan make some notes\n"
+    },
+    {
+      "box": [
+        70.6624526977539,
+        292.1308288574219,
+        470.3633117675781,
+        303.29827880859375
+      ],
+      "text": "and explain how you felt about learning to prepare\nto help you if you wish.\n"
+    },
+    {
+      "box": [
+        377.7481689453125,
+        281.69720458984375,
+        470.7231750488281,
+        289.98272705078125
+      ],
+      "text": "this food or drink.\n"
+    },
+    {
+      "box": [
+        429.71844482421875,
+        241.74940490722656,
+        481.51959228515625,
+        251.1156463623047
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        375.6266784667969,
+        219.43504333496094,
+        481.51959228515625,
+        230.60247802734375
+      ],
+      "text": "Discussion topics:\n"
+    },
+    {
+      "box": [
+        342.355712890625,
+        199.64234924316406,
+        481.87945556640625,
+        210.0893096923828
+      ],
+      "text": "Young people and cooking\n"
+    },
+    {
+      "box": [
+        141.07652282714844,
+        140.6212921142578,
+        481.87945556640625,
+        189.93601989746094
+      ],
+      "text": "Example questions:\nWhat kinds of things can children learn to cook?\nDo you think it is important for children to learn to cook?\nDo you think young people should learn to cook at home or at school?\n"
+    },
+    {
+      "box": [
+        387.7779846191406,
+        114.71063232421875,
+        481.87945556640625,
+        125.1575927734375
+      ],
+      "text": "Working as a chef\n"
+    },
+    {
+      "box": [
+        137.0063018798828,
+        81.6009521484375,
+        481.51959228515625,
+        105.00431060791016
+      ],
+      "text": "Example questions:\nHow enjoyable do you think it would be to work as a professional chef?\n"
+    },
+    {
+      "box": [
+        96.89762115478516,
+        55.330055236816406,
+        481.87945556640625,
+        79.09294128417969
+      ],
+      "text": "What skills does a person need to be a great chef?\nHow much influence do celebrity/TV chefs have on what ordinary people cook?\n"
+    },
+    {
+      "box": [
+        51.16414260864258,
+        22.943363189697266,
+        61.179595947265625,
+        31.2288818359375
+      ],
+      "text": "31\n"
+    }
+  ]
+}

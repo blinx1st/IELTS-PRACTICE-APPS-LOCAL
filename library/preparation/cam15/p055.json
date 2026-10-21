@@ -1,0 +1,183 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 55,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "|\n.\nHl\nListening\nSecond Job\n|\nWarehouse assistant in South London\n|\nResponsibilities\ne — stock management\n©\nMANAING 6 onceeseeeneseeeseeee\nRequirements\n:\ne\nability to work with numbers\ne\ngood computer skills\n:\n©\nvery Organised ANd 7 seen\n*\ngood communication skills\n©\n—uSed fo Working I a 8oe cesuensne\ne\nable to cope with items that are 9ee\nNeed experience of\ne — driving in London\n¢\nwarehouse work\n|\n1D ieeeeeeetteeeeteeneee SOFVICR\n|\nt\n|\n3/0 p. 123\np. 107\n53\n",
+  "blocks": [
+    {
+      "box": [
+        185.34874617404776,
+        27.352436328597342,
+        410.61047879018787,
+        33.837121413305184
+      ],
+      "text": "|\n.\nHl\n"
+    },
+    {
+      "box": [
+        470.74982523428054,
+        83.85681137583133,
+        517.8786873898166,
+        94.6646259521727
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        67.30138938746977,
+        133.88297781892382,
+        575.7939613487201,
+        187.16264399743187
+      ],
+      "text": "Second Job\n|\nWarehouse assistant in South London\n|\nResponsibilities\n"
+    },
+    {
+      "box": [
+        68.02119034348549,
+        190.74725334416567,
+        193.2305900734406,
+        207.31922349089916
+      ],
+      "text": "e — stock management\n"
+    },
+    {
+      "box": [
+        68.02119034348549,
+        211.9813815466294,
+        249.44345393434546,
+        223.14945538848315
+      ],
+      "text": "©\nMANAING 6 onceeseeeneseeeseeee\n"
+    },
+    {
+      "box": [
+        68.38109082149336,
+        233.57541022710097,
+        576.5605657685913,
+        247.9858394251481
+      ],
+      "text": "Requirements\n:\n"
+    },
+    {
+      "box": [
+        68.02119034348549,
+        253.72983699554112,
+        238.00940871872956,
+        265.2581627807133
+      ],
+      "text": "e\nability to work with numbers\n"
+    },
+    {
+      "box": [
+        68.02119034348549,
+        269.9253585058948,
+        575.7903881180628,
+        285.4165435338972
+      ],
+      "text": "e\ngood computer skills\n:\n"
+    },
+    {
+      "box": [
+        68.02119034348549,
+        291.15948670835854,
+        298.51586067969646,
+        302.6878124935307
+      ],
+      "text": "©\nvery Organised ANd 7 seen\n"
+    },
+    {
+      "box": [
+        68.02119034348549,
+        309.87431156476725,
+        231.32603223955186,
+        321.042385406621
+      ],
+      "text": "*\ngood communication skills\n"
+    },
+    {
+      "box": [
+        68.38109082149336,
+        328.58913642117597,
+        303.13698516041944,
+        340.11746220634814
+      ],
+      "text": "©\n—uSed fo Working I a 8oe cesuensne\n"
+    },
+    {
+      "box": [
+        68.38109082149336,
+        347.3039612775847,
+        361.68557032016633,
+        358.47203511943843
+      ],
+      "text": "e\nable to cope with items that are 9ee\n"
+    },
+    {
+      "box": [
+        68.74099129950122,
+        370.3375918700877,
+        170.8951453203542,
+        381.86591765525986
+      ],
+      "text": "Need experience of\n"
+    },
+    {
+      "box": [
+        68.38109082149336,
+        390.49201863852784,
+        183.63561638407725,
+        405.26269977989335
+      ],
+      "text": "e — driving in London\n"
+    },
+    {
+      "box": [
+        68.38109082149336,
+        408.84694301692866,
+        576.4777956879557,
+        438.72767434577605
+      ],
+      "text": "¢\nwarehouse work\n|\n1D ieeeeeeetteeeeteeneee SOFVICR\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        458.51320898201334,
+        577.6366939719576,
+        463.55685334357463
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        575.1209638565599,
+        604.9927035312122,
+        576.5461556908585,
+        609.3158440061368
+      ],
+      "text": "t\n"
+    },
+    {
+      "box": [
+        575.1209638565599,
+        624.4273293436366,
+        576.5281723824686,
+        632.7132997726155
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        353.4222694037183,
+        772.7063262828749,
+        520.7688452160585,
+        784.9551852434597
+      ],
+      "text": "3/0 p. 123\np. 107\n53\n"
+    }
+  ]
+}

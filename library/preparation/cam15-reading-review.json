@@ -1,0 +1,346 @@
+{
+  "book": 15,
+  "scope": "Reading titles, subtitles, paragraphs, labels, footnotes and page/column order; question content is reviewed in a separate report.",
+  "status": "visually_reviewed",
+  "passagesReviewed": 12,
+  "sourceReadingPagesReviewed": 24,
+  "method": "Manual comparison of the complete normalised text with locally rendered source pages. Contact sheets retain the full original page edges; no generated replacement prose was used.",
+  "sourcePdf": [
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+      "bytes": 29236035,
+      "pages": 147,
+      "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298"
+    }
+  ],
+  "notes": [
+    "All twelve normalised passages were read and compared with all twenty-four source reading pages.",
+    "Gray scan instructions were recovered using a binarised OCR pass. Paragraph labels, line endings and page continuations were checked against the scan.",
+    "Final question and two minor reading punctuation corrections are recorded separately in cam15-questions-review.json and scripts/review_cam15_questions.py."
+  ],
+  "tests": [
+    {
+      "id": "cam15-test1",
+      "version": "2026-10-21.3",
+      "jsonSha256": "f0c9a2574d70959eb022873553c8fdc034c38608f2d776f134f331f9860b1771",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Nutmeg — a valuable spice",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            18,
+            19
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t1-p1-reading-018-b78a7026.webp",
+              "page": 18
+            },
+            {
+              "url": "/library-assets/cam15-t1-p1-reading-019-37bbe2b5.webp",
+              "page": 19
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t1-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "fbea0adb68e9cec6b7932363265a657be8d2d29157fa9591c400144bb67d7816"
+        },
+        {
+          "number": 2,
+          "title": "Driverless cars",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            22,
+            23
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t1-p2-reading-022-de56b967.webp",
+              "page": 22
+            },
+            {
+              "url": "/library-assets/cam15-t1-p2-reading-023-0d8e146f.webp",
+              "page": 23
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t1-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "readingSha256": "67fc500d00aa6ccff6f1e5fec6af7787bad4001af7d9017c09f638d05278ad35"
+        },
+        {
+          "number": 3,
+          "title": "What is exploration?",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            26,
+            27
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t1-p3-reading-026-d3bada88.webp",
+              "page": 26
+            },
+            {
+              "url": "/library-assets/cam15-t1-p3-reading-027-93080637.webp",
+              "page": 27
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t1-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "f7c0f3d82b2d7315ee53054f8bcbe0fba8c63809f650ef436bf5c8194d7368e2"
+        }
+      ]
+    },
+    {
+      "id": "cam15-test2",
+      "version": "2026-10-21.3",
+      "jsonSha256": "4c25198dd7492b714a5f449a39888207a750bdd0747d27834bf978586d22738e",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Could urban engineers learn from dance?",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            39,
+            40
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t2-p1-reading-039-7f4e4b42.webp",
+              "page": 39
+            },
+            {
+              "url": "/library-assets/cam15-t2-p1-reading-040-beacf046.webp",
+              "page": 40
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t2-p1.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "readingSha256": "46dbf6a0171229b82ecf670452149f43dd70e19c1769ad11f6fcbb05d19b196f"
+        },
+        {
+          "number": 2,
+          "title": "Should we try to bring extinct species back to life?",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            42,
+            43
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t2-p2-reading-042-e2190963.webp",
+              "page": 42
+            },
+            {
+              "url": "/library-assets/cam15-t2-p2-reading-043-1ff0699d.webp",
+              "page": 43
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t2-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "readingSha256": "c0918c47a768c5333db1f82f6a9fef3c3f735e28cf38a51c2985402691560960"
+        },
+        {
+          "number": 3,
+          "title": "Having a laugh",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            46,
+            47
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t2-p3-reading-046-dd7dfd12.webp",
+              "page": 46
+            },
+            {
+              "url": "/library-assets/cam15-t2-p3-reading-047-3fde8fca.webp",
+              "page": 47
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t2-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "498b2a013db548d10297e058af59ce31609ae530648507e50a2105868c795399"
+        }
+      ]
+    },
+    {
+      "id": "cam15-test3",
+      "version": "2026-10-21.3",
+      "jsonSha256": "dd22d8520cc7c9000776851466488d26da487b43699bda7876c6966f05452ec9",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Henry Moore (1898-1986)",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            60,
+            61
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t3-p1-reading-060-2a31d85d.webp",
+              "page": 60
+            },
+            {
+              "url": "/library-assets/cam15-t3-p1-reading-061-7b3ce96f.webp",
+              "page": 61
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t3-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "c21bcd63e356f711d4a7287d74983a8553a30ddef14c9abc2298fb9312fc2ad5"
+        },
+        {
+          "number": 2,
+          "title": "The Desolenator: producing clean water",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            65,
+            66
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t3-p2-reading-065-a803e7e0.webp",
+              "page": 65
+            },
+            {
+              "url": "/library-assets/cam15-t3-p2-reading-066-6a5fb261.webp",
+              "page": 66
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t3-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "readingSha256": "7c7be5397e88fe428b15b94d6ca48697dc84fda8158714491f36f5c969403e48"
+        },
+        {
+          "number": 3,
+          "title": "Why fairy tales are really scary tales",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            68,
+            69
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t3-p3-reading-068-57f5d860.webp",
+              "page": 68
+            },
+            {
+              "url": "/library-assets/cam15-t3-p3-reading-069-80b5bc23.webp",
+              "page": 69
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t3-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "5798c6b2f5db3fc65232a359e4673d234b27a88854b2ae74bc1a511776a778ac"
+        }
+      ]
+    },
+    {
+      "id": "cam15-test4",
+      "version": "2026-10-21.3",
+      "jsonSha256": "6ea1173b9df87fff7c81925efb1a1c246f9d6ca34654d3e68b7fcb5390fd58bb",
+      "passages": [
+        {
+          "number": 1,
+          "title": "The return of the huarango",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            82,
+            83
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t4-p1-reading-082-3e91f268.webp",
+              "page": 82
+            },
+            {
+              "url": "/library-assets/cam15-t4-p1-reading-083-54a003a1.webp",
+              "page": 83
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t4-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "3aa1dfb901fce3e33d028872fce2da4afbec4e05c3720f5cbd0ee3b5ccc71f14"
+        },
+        {
+          "number": 2,
+          "title": "Silbo Gomero — the whistle ‘language’ of the Canary Islands",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            86,
+            87
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t4-p2-reading-086-934e05b3.webp",
+              "page": 86
+            },
+            {
+              "url": "/library-assets/cam15-t4-p2-reading-087-9e106525.webp",
+              "page": 87
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t4-p2.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "58bc848630aad257a318b2b0863c2c5601e7c28824aa0a4904bdd292aaeae3ae"
+        },
+        {
+          "number": 3,
+          "title": "Environmental practices of big businesses",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            90,
+            91
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam15-t4-p3-reading-090-73a02138.webp",
+              "page": 90
+            },
+            {
+              "url": "/library-assets/cam15-t4-p3-reading-091-39a425a5.webp",
+              "page": 91
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam15-t4-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "9636496d7d34516c92f67c5207494db73047729799d860b082e7e69598d2e106"
+        }
+      ]
+    }
+  ]
+}

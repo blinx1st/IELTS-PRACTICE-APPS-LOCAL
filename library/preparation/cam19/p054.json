@@ -1,0 +1,174 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 54,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 3\nPART 1\nQuestions 1-10\nQuestions 1-6\nComplete the notes below.\nWrite ONE WORD ANDIORA NUMBER for each answer.\nLocal food shops\nWhere to go\n@ —_ Kite Place — near the 4 on.esssssssssssesssnssne\nFish market\n©\n—-CFOSS the 2on eennnenees aNd turn right\n©\nbest to Go before 3... PM, Carlier than closing time\nOrganic shop\n©\nCalled 4 wrrccerranancane\ne\nbelow a restaurant in the large, grey building\n©\n100K for the large 5wes OULSIDE\nSupermarket\n©\ntAKE 8 6 ocean Minibus, number 289\n55\n",
+  "blocks": [
+    {
+      "box": [
+        42.83035659790039,
+        69.46435546875,
+        105.0423583984375,
+        87.1180419921875
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        43.190277099609375,
+        168.4420623779297,
+        220.1265869140625,
+        179.25048828125
+      ],
+      "text": "PART 1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        43.550193786621094,
+        195.0760955810547,
+        119.35819244384766,
+        204.8036651611328
+      ],
+      "text": "Questions 1-6\n"
+    },
+    {
+      "box": [
+        43.55019760131836,
+        221.7101287841797,
+        170.05447387695312,
+        231.79791259765625
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        43.91011428833008,
+        245.46473693847656,
+        320.9199523925781,
+        259.515625
+      ],
+      "text": "Write ONE WORD ANDIORA NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        195.79591369628906,
+        283.9761047363281,
+        317.7813720703125,
+        298.0269470214844
+      ],
+      "text": "Local food shops\n"
+    },
+    {
+      "box": [
+        51.46841049194336,
+        312.76959228515625,
+        114.02232360839844,
+        323.2176818847656
+      ],
+      "text": "Where to go\n"
+    },
+    {
+      "box": [
+        52.18825149536133,
+        337.2441101074219,
+        272.2895202636719,
+        350.9346923828125
+      ],
+      "text": "@ —_ Kite Place — near the 4 on.esssssssssssesssnssne\n"
+    },
+    {
+      "box": [
+        52.18824768066406,
+        364.5979309082031,
+        112.51065063476562,
+        372.88433837890625
+      ],
+      "text": "Fish market\n"
+    },
+    {
+      "box": [
+        52.1882438659668,
+        388.7124938964844,
+        283.44525146484375,
+        402.76336669921875
+      ],
+      "text": "©\n—-CFOSS the 2on eennnenees aNd turn right\n"
+    },
+    {
+      "box": [
+        52.18824768066406,
+        415.7064208984375,
+        393.2474365234375,
+        426.5148010253906
+      ],
+      "text": "©\nbest to Go before 3... PM, Carlier than closing time\n"
+    },
+    {
+      "box": [
+        52.188232421875,
+        441.9804992675781,
+        121.50862121582031,
+        452.4285888671875
+      ],
+      "text": "Organic shop\n"
+    },
+    {
+      "box": [
+        52.188228607177734,
+        467.5347900390625,
+        204.70729064941406,
+        476.18145751953125
+      ],
+      "text": "©\nCalled 4 wrrccerranancane\n"
+    },
+    {
+      "box": [
+        52.18822479248047,
+        493.4489440917969,
+        290.06597900390625,
+        503.89703369140625
+      ],
+      "text": "e\nbelow a restaurant in the large, grey building\n"
+    },
+    {
+      "box": [
+        52.188232421875,
+        519.003173828125,
+        291.3902893066406,
+        529.8115234375
+      ],
+      "text": "©\n100K for the large 5wes OULSIDE\n"
+    },
+    {
+      "box": [
+        52.18821716308594,
+        545.2772216796875,
+        118.20634460449219,
+        555.725341796875
+      ],
+      "text": "Supermarket\n"
+    },
+    {
+      "box": [
+        52.18821716308594,
+        570.8314819335938,
+        306.6401062011719,
+        580.19873046875
+      ],
+      "text": "©\ntAKE 8 6 ocean Minibus, number 289\n"
+    },
+    {
+      "box": [
+        460.3363037109375,
+        672.3286743164062,
+        471.8429260253906,
+        680.6151123046875
+      ],
+      "text": "55\n"
+    }
+  ]
+}

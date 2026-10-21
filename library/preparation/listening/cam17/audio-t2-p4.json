@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/54d9dbeb4c124f9df8ac6ef4af7e30de93454e5abe9057ef217589317a779748.mp3",
+    "sha256": "54d9dbeb4c124f9df8ac6ef4af7e30de93454e5abe9057ef217589317a779748",
+    "duration": 433.393,
+    "start": 0,
+    "end": 433.393,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P4.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear a lecturer on a language's course, talking about the impact of digital technology on Icelandic, the native language of Iceland. First, you have some time to look at questions 31 to 40. You Now, listen carefully and answer questions 31 to 40. Right everyone, let's make a start. Over the past few sessions, we've been considering the reasons why some world languages are in decline, and today I'm going to introduce another factor that affects languages and the speakers of those languages, and that's technology, and in particular digital technology. In order to illustrate its effect, I'm going to focus on the icing."
+    },
+    {
+      "name": "ending",
+      "start": 368.393,
+      "end": 433.393,
+      "text": "You That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ]
+}

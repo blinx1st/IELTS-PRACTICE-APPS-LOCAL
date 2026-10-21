@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/a1d2e490e8fa649ab0dce108c0ee4ccb9e173f34fa8288c8961ce4b05c2d9d6a.mp3",
+    "sha256": "a1d2e490e8fa649ab0dce108c0ee4ccb9e173f34fa8288c8961ce4b05c2d9d6a",
+    "duration": 437.238,
+    "start": 0,
+    "end": 437.238,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear the chairman of Standthorpe Twinning Association, which organizes the link between Standthorpe in England and a town in France, talking to members about the year's events. First, you have some time to look at questions 11 to 15. It's great to see so many members of the Twinning Association here tonight. Since the Twinning Link between our two towns, Stan Thorpe, here in England, and Malat in France was established. The relationship between the towns has gone from strength to strength. Last month, 25 members of the association from Stanthorpe spent a weekend in Malat. Our hosts had arranged a great programme. We learned how cheese is produced in the region and had the chance to take..."
+    },
+    {
+      "name": "ending",
+      "start": 372.238,
+      "end": 437.238,
+      "text": "Take the path from the car park and go past the western sides of the stables and the house. Then, when the path forks, take the right-hand path. Go up there with the woods on your left, and the temple is right at the end. There are great views over the whole area. OK, so that's... That is the end of Part 2. You now have 30 seconds to check your answers to Part 2."
+    }
+  ]
+}

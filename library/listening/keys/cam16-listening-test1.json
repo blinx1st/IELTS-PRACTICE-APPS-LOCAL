@@ -1,0 +1,156 @@
+{
+  "id": "cam16-listening-test1",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "egg"
+    ],
+    "2": [
+      "tower"
+    ],
+    "3": [
+      "car"
+    ],
+    "4": [
+      "animals"
+    ],
+    "5": [
+      "bridge"
+    ],
+    "6": [
+      "movie",
+      "film"
+    ],
+    "7": [
+      "decorate"
+    ],
+    "8": [
+      "Wednesdays"
+    ],
+    "9": [
+      "Fradstone"
+    ],
+    "10": [
+      "parking"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "H"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "G"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "I"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "E"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "E"
+    ],
+    "25": [
+      "D"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "H"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "G"
+    ],
+    "31": [
+      "practical"
+    ],
+    "32": [
+      "publication"
+    ],
+    "33": [
+      "choices"
+    ],
+    "34": [
+      "negative"
+    ],
+    "35": [
+      "play"
+    ],
+    "36": [
+      "capitalism"
+    ],
+    "37": [
+      "depression"
+    ],
+    "38": [
+      "logic"
+    ],
+    "39": [
+      "opportunity"
+    ],
+    "40": [
+      "practice",
+      "practise"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        21,
+        22
+      ],
+      "answers": [
+        "C",
+        "E"
+      ]
+    },
+    {
+      "numbers": [
+        23,
+        24
+      ],
+      "answers": [
+        "B",
+        "E"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+    "pdfPage": 122,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

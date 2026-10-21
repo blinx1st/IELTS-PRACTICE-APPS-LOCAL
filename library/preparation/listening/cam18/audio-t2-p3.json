@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/04bddc6ca1a14877e8e1d4e108bf5e6cd1b835bc6d541c9512f258802fe0320e.mp3",
+    "sha256": "04bddc6ca1a14877e8e1d4e108bf5e6cd1b835bc6d541c9512f258802fe0320e",
+    "duration": 428.024,
+    "start": 0,
+    "end": 428.024,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2- part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two geography students, Adam and Michelle talking about a volcanic eruption which took place in Iceland in 1783. First, you have some time to look at questions 21 to 26. Now, listen carefully. and answer questions 21 to 26. So Michelle, shall we make a start on our presentation? We haven't got that much time left. No, Adam. But at least we've done all the background reading. I found it really interesting. I'd never even heard of the lucky eruption before this. Me neither. I suppose 1783 is a long time ago. But it was a huge eruption, and it had such devastating consequences. I know. It was great there were so many primary sources to look at. It really gives you a sense of how catastrophic the volcano was."
+    },
+    {
+      "name": "ending",
+      "start": 363.024,
+      "end": 428.024,
+      "text": "to hear that the weather in the USA was badly affected too. George Washington even makes a note in his diary that they were snowbound until March in Virginia. That was before he became president. Yes, and there was ice floating down the Mississippi, which was unprecedented. Astonishing, really. Anyway, what do you think we should include next? That is the end of part 3. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

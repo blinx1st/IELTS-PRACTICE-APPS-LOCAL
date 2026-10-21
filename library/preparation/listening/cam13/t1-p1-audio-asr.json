@@ -1,0 +1,177 @@
+{
+  "book": 13,
+  "test": 1,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_01.mp3",
+  "sha256": "909f54b389f412e7b6d081c08c35ebccc7daa77316133bfc2690d7d9aa604fc2",
+  "duration": 448.294,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      348.9665625,
+      448.9665625
+    ]
+  ],
+  "text": "Cambridge English, IELTS 13, Tests 1 to 4. Published by Cambridge University Press and Uckles, 2018. This recording is copyright. CD1 Test 1 You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section 1. Section 1. You will hear a telephone conversation between a woman who wants to attend a cookery class and an official editorialist information centre. First, you have some time to look at questions 1 to 6. You will see that there is an example that the Arezzo Centre. That's spelled A-double-R-E-T-S-A. Okay, they've got a very good reputation. They do a bit of meat and fish cookery, but they mostly specialize in vegetarian dishes. Right. That's certainly an area I'd like to learn more about. I've got lots of friends who don't eat meat. In fact, I think I might have seen that school today. Is it just by the market? That's right, so they don't have any problem getting their ingredients, they're right next to all. And they also offer a special two-hour course in how to use a knife. They cover all the different skills, buying them, sharpening, chopping techniques. It gets booked up quickly though, so you'd need to check it was available. Right, well, thank you very much. I'll go and check that out. That is the end of section one. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Cambridge English, IELTS 13, Tests 1 to 4."
+    },
+    {
+      "start": 7.0,
+      "end": 13.0,
+      "text": "Published by Cambridge University Press and Uckles, 2018."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "This recording is copyright."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "CD1"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "Test 1"
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "You will hear a number of different recordings"
+    },
+    {
+      "start": 27.0,
+      "end": 31.0,
+      "text": "and you will have to answer questions on what you hear."
+    },
+    {
+      "start": 31.8,
+      "end": 36.0,
+      "text": "There will be time for you to read the instructions and questions"
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "and you will have a chance to check your work."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 49.0,
+      "end": 56.0,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet."
+    },
+    {
+      "start": 57.0,
+      "end": 59.0,
+      "text": "Now turn to section 1."
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "text": "Section 1."
+    },
+    {
+      "start": 67.0,
+      "end": 73.0,
+      "text": "You will hear a telephone conversation between a woman who wants to attend a cookery class"
+    },
+    {
+      "start": 73.0,
+      "end": 76.0,
+      "text": "and an official editorialist information centre."
+    },
+    {
+      "start": 78.0,
+      "end": 82.0,
+      "text": "First, you have some time to look at questions 1 to 6."
+    },
+    {
+      "start": 87.0,
+      "end": 115.0,
+      "text": "You will see that there is an example that"
+    },
+    {
+      "start": 348.97,
+      "end": 356.65,
+      "text": "the Arezzo Centre. That's spelled A-double-R-E-T-S-A."
+    },
+    {
+      "start": 356.65,
+      "end": 362.33,
+      "text": "Okay, they've got a very good reputation. They do a bit of meat and fish cookery,"
+    },
+    {
+      "start": 362.33,
+      "end": 366.01,
+      "text": "but they mostly specialize in vegetarian dishes."
+    },
+    {
+      "start": 366.01,
+      "end": 371.69,
+      "text": "Right. That's certainly an area I'd like to learn more about. I've got lots of friends"
+    },
+    {
+      "start": 371.69,
+      "end": 378.41,
+      "text": "who don't eat meat. In fact, I think I might have seen that school today. Is it just by the market?"
+    },
+    {
+      "start": 378.41,
+      "end": 384.01,
+      "text": "That's right, so they don't have any problem getting their ingredients, they're right next to all."
+    },
+    {
+      "start": 384.01,
+      "end": 388.89,
+      "text": "And they also offer a special two-hour course in how to use a knife."
+    },
+    {
+      "start": 388.89,
+      "end": 394.17,
+      "text": "They cover all the different skills, buying them, sharpening, chopping techniques."
+    },
+    {
+      "start": 394.17,
+      "end": 398.01,
+      "text": "It gets booked up quickly though, so you'd need to check it was available."
+    },
+    {
+      "start": 398.01,
+      "end": 401.53,
+      "text": "Right, well, thank you very much. I'll go and check that out."
+    },
+    {
+      "start": 404.57,
+      "end": 407.05,
+      "text": "That is the end of section one."
+    },
+    {
+      "start": 407.05,
+      "end": 412.05,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 437.05,
+      "end": 444.05,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

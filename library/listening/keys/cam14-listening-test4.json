@@ -1,0 +1,155 @@
+{
+  "id": "cam14-listening-test4",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "85"
+    ],
+    "2": [
+      "roses"
+    ],
+    "3": [
+      "trees"
+    ],
+    "4": [
+      "stage"
+    ],
+    "5": [
+      "speech"
+    ],
+    "6": [
+      "support"
+    ],
+    "7": [
+      "cabins"
+    ],
+    "8": [
+      "C"
+    ],
+    "9": [
+      "A"
+    ],
+    "10": [
+      "B"
+    ],
+    "11": [
+      "G"
+    ],
+    "12": [
+      "D"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "D"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "E"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "G"
+    ],
+    "31": [
+      "spring"
+    ],
+    "32": [
+      "tools"
+    ],
+    "33": [
+      "maps"
+    ],
+    "34": [
+      "heavy"
+    ],
+    "35": [
+      "marble"
+    ],
+    "36": [
+      "light"
+    ],
+    "37": [
+      "camera",
+      "cameras"
+    ],
+    "38": [
+      "medical"
+    ],
+    "39": [
+      "eyes"
+    ],
+    "40": [
+      "wine"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        17,
+        18
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "answers": [
+        "A",
+        "D"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+    "pdfPage": 95,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

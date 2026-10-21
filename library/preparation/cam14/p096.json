@@ -1,0 +1,75 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 96,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Listening and Reading answer keys\nTEST 4\nREADING\nReading Passage 1,\nos a\nSs ti\n—\nQuestions 3-53\n23&24 IN EITHER ORDER\n1\nfour / 4\nB\n2\nyoung\nD\n3\nfood\n25826 IN EITHER ORDER\n4\nlight\nB\n5\naggressively\nE\n6\nlocation\n7\nneurons\nReading Passage 3,\n8\nchemicals\n.\n9\nFALSE\nQuestions 27-40\n10\nTRUE\n27\nFALSE\n11.\nFALSE\n28\nNOT GIVEN\n12\nNOT GIVEN\n29\nFALSE\n13.\nTRUE\n30\nTRUE\n31.\nFALSE\nReading Passage 2,\n32\nTRUE\nQuestions 14-26\n33\nNOT GIVEN\n34\nlarge\n14\nB\n35\nmicroplastic\n15\nE\n36\npopulations\n16\nC\n37\nconcentrations\n17 A\n38\npredators\n18\nTRUE\n39\ndisasters\n19\nTRUE\n40\nA\n20\nNOTGIVEN\nIf you score ...\n16-26\n27-40\nyou are unlikely to get an\nyou may get an acceptable\nyou are likely to get an\nacceptable score under\nscore under examination\nacceptable score under\nexamination conditions and we | conditions but we recommend | examination conditions but\nrecommend that you spenda lot | that you think about having\nremember that different\nof time improving your English | more practice or lessons before | institutions will find different\nbefore you take IELTS.\nyou take IELTS.\nscores acceptable.\n126\n",
+  "blocks": [
+    {
+      "box": [
+        124.89483642578125,
+        92.14144134521484,
+        298.2215576171875,
+        104.39120483398438
+      ],
+      "text": "Listening and Reading answer keys\n"
+    },
+    {
+      "box": [
+        315.2964782714844,
+        128.13421630859375,
+        365.3102111816406,
+        137.86195373535156
+      ],
+      "text": "TEST 4\n"
+    },
+    {
+      "box": [
+        124.89483642578125,
+        170.60562133789062,
+        190.653564453125,
+        181.053955078125
+      ],
+      "text": "READING\n"
+    },
+    {
+      "box": [
+        122.01545715332031,
+        196.88035583496094,
+        467.76177978515625,
+        489.868896484375
+      ],
+      "text": "Reading Passage 1,\nos a\nSs ti\n—\nQuestions 3-53\n23&24 IN EITHER ORDER\n1\nfour / 4\nB\n2\nyoung\nD\n3\nfood\n25826 IN EITHER ORDER\n4\nlight\nB\n5\naggressively\nE\n6\nlocation\n7\nneurons\nReading Passage 3,\n8\nchemicals\n.\n9\nFALSE\nQuestions 27-40\n10\nTRUE\n27\nFALSE\n11.\nFALSE\n28\nNOT GIVEN\n12\nNOT GIVEN\n29\nFALSE\n13.\nTRUE\n30\nTRUE\n31.\nFALSE\nReading Passage 2,\n32\nTRUE\nQuestions 14-26\n33\nNOT GIVEN\n34\nlarge\n14\nB\n35\nmicroplastic\n15\nE\n36\npopulations\n16\nC\n37\nconcentrations\n17 A\n38\npredators\n18\nTRUE\n39\ndisasters\n19\nTRUE\n40\nA\n20\nNOTGIVEN\n"
+    },
+    {
+      "box": [
+        122.37538146972656,
+        506.0580749511719,
+        203.66136169433594,
+        517.5872802734375
+      ],
+      "text": "If you score ...\n"
+    },
+    {
+      "box": [
+        125.25482940673828,
+        520.0952758789062,
+        528.589599609375,
+        610.0886840820312
+      ],
+      "text": "16-26\n27-40\nyou are unlikely to get an\nyou may get an acceptable\nyou are likely to get an\nacceptable score under\nscore under examination\nacceptable score under\nexamination conditions and we | conditions but we recommend | examination conditions but\nrecommend that you spenda lot | that you think about having\nremember that different\nof time improving your English | more practice or lessons before | institutions will find different\nbefore you take IELTS.\nyou take IELTS.\nscores acceptable.\n"
+    },
+    {
+      "box": [
+        120.93572235107422,
+        728.8532104492188,
+        137.8235321044922,
+        737.1398315429688
+      ],
+      "text": "126\n"
+    }
+  ]
+}

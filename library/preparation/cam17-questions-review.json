@@ -1,0 +1,172 @@
+{
+  "reviewDate": "2026-10-21",
+  "status": "verified",
+  "reviewer": "Independent question-content review",
+  "scope": "All four Cambridge 17 Reading question sets, compared visually with the supplied source scan. This report covers question statements, instructions, answer choices, completion bodies, numbering and word limits. Reading-passage review is recorded separately in cam17-review.json; answer-key review is recorded in keys-report.json. This is a local editorial source-fidelity review, not publisher certification.",
+  "method": "Rendered and visually inspected all 26 source question pages at readable resolution. Compared the complete current question data and root-authored completion bodies with the images; separately opened the source table asset retained in the app.",
+  "coverage": {
+    "tests": 4,
+    "questionGroups": 34,
+    "questionSlots": 160,
+    "nativeOptionLabels": 150,
+    "wordLimitGroups": 9,
+    "sourceQuestionPages": 26
+  },
+  "tests": [
+    {
+      "id": "cam17-test1",
+      "sourcePages": [
+        11,
+        12,
+        15,
+        16,
+        19,
+        20
+      ],
+      "questionGroups": 9,
+      "questionSlots": 40,
+      "nativeOptionLabels": 47,
+      "wordLimits": [
+        {
+          "questions": "1-6",
+          "maximumWords": 1,
+          "allowNumber": false
+        },
+        {
+          "questions": "18-22",
+          "maximumWords": 1,
+          "allowNumber": false
+        }
+      ],
+      "result": "All question statements, completion bodies, options, instructions and limits match the supplied source after the reported corrections.",
+      "contentSha256": "7f44bb3b6af7960779e5981a56b261d927729bf5b0423d2c371baa87e5f8816d",
+      "version": "2026-10-21.3"
+    },
+    {
+      "id": "cam17-test2",
+      "sourcePages": [
+        32,
+        33,
+        36,
+        37,
+        40,
+        41,
+        42
+      ],
+      "questionGroups": 8,
+      "questionSlots": 40,
+      "nativeOptionLabels": 36,
+      "wordLimits": [
+        {
+          "questions": "1-5",
+          "maximumWords": 1,
+          "allowNumber": false
+        },
+        {
+          "questions": "24-26",
+          "maximumWords": 1,
+          "allowNumber": false
+        }
+      ],
+      "result": "All question statements, completion bodies, options, instructions and limits match the supplied source after the reported corrections.",
+      "contentSha256": "139b9e7776876e6d73eb48a13424d07ccf8711c9fab2ff1e3c15aed020c3878f",
+      "version": "2026-10-21.3"
+    },
+    {
+      "id": "cam17-test3",
+      "sourcePages": [
+        54,
+        55,
+        58,
+        59,
+        62,
+        63,
+        64
+      ],
+      "questionGroups": 8,
+      "questionSlots": 40,
+      "nativeOptionLabels": 43,
+      "wordLimits": [
+        {
+          "questions": "1-5",
+          "maximumWords": 1,
+          "allowNumber": false
+        },
+        {
+          "questions": "23-26",
+          "maximumWords": 2,
+          "allowNumber": false
+        }
+      ],
+      "result": "All question statements, completion bodies, options, instructions and limits match the supplied source.",
+      "contentSha256": "1f49a1e6cb6f87cbc6b51fe149c632b0d79161e63b386eaa2c00bae28c262ce1",
+      "version": "2026-10-21.3"
+    },
+    {
+      "id": "cam17-test4",
+      "sourcePages": [
+        76,
+        77,
+        80,
+        81,
+        84,
+        85
+      ],
+      "questionGroups": 9,
+      "questionSlots": 40,
+      "nativeOptionLabels": 24,
+      "wordLimits": [
+        {
+          "questions": "7-13",
+          "maximumWords": 1,
+          "allowNumber": false
+        },
+        {
+          "questions": "19-22",
+          "maximumWords": 1,
+          "allowNumber": false
+        },
+        {
+          "questions": "37-40",
+          "maximumWords": 1,
+          "allowNumber": false
+        }
+      ],
+      "tableReview": "Compared the Rocha study table on source PDF page 77 with the retained local WebP asset. All seven answer cells numbered 7-13, their surrounding text and the Aim, Method, Findings and Recommendation row labels are present and faithful. This is the only Cambridge 17 group retaining renderMode source; native answer fields remain available.",
+      "result": "All question statements, completion bodies, options, instructions and limits match the supplied source.",
+      "contentSha256": "8187ce4a429066047eb57621ba12c2df5b9a0e048cb193d0b98d77ed1ad5de4c",
+      "version": "2026-10-21.3"
+    }
+  ],
+  "reportedCorrections": [
+    {
+      "location": "cam17-test1 questions 1-6",
+      "finding": "The source instruction is ONE WORD ONLY but allowNumber was true.",
+      "resolution": "Root changed allowNumber to false; rechecked in final JSON."
+    },
+    {
+      "location": "cam17-test2 questions 1-5",
+      "finding": "The source instruction is ONE WORD ONLY but allowNumber was true.",
+      "resolution": "Root changed allowNumber to false; rechecked in final JSON."
+    },
+    {
+      "location": "cam17-test1 questions 25-26 option E",
+      "finding": "The option included OCR footer debris after the actual answer-choice text.",
+      "resolution": "Root removed the footer debris; the final option ends with renewable power generators."
+    },
+    {
+      "location": "cam17-test1 question 39 option D",
+      "finding": "The option began with a stray OCR tilde.",
+      "resolution": "Root removed the tilde; the final option starts He chooses language."
+    },
+    {
+      "location": "Unused completion question.text metadata",
+      "finding": "A few OCR fragments remained in per-slot question.text while the displayed group completion bodies were already correct.",
+      "resolution": "Root cleared unused completion question.text fields. The reviewed group bodies and original table supply the full displayed contexts."
+    }
+  ],
+  "evidenceDirectory": "library/preparation/cam17-question-inspection",
+  "unresolvedContentIssues": [],
+  "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+  "sourceSha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4"
+}

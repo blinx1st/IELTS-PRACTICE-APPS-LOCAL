@@ -1,0 +1,129 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 18,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\n|\n;\nFB.com/Lowi\nVo\nQuestions 6-13\nconv outsQuang\nDo the following statements agree with the information given in Reading Passage 1?\n‘mn boxes 8-13 on your answer sheet, write\n|\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n8\nThe website www.newzealand.com aimed to provide ready-made itineraries and\npackages for travel companies and individual tourists.\n$\nIt was found that most visitors started searching on the website by\ngeographical location.\n10\nAccording to research, 26% of visitor satisfaction is related to their accommodation.\n11\nVisitors to New Zealand like to become involved in the local culture.\n12\nVisitors like staying in small hotels in New Zealand rather than in larger ones.\n13.\nMany visitors feel it is unlikely that they will return to New Zealand after their visit.\n",
+  "blocks": [
+    {
+      "box": [
+        500.3999938964844,
+        51.47998046875,
+        547.498779296875,
+        66.61509704589844
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        19.44000244140625,
+        77.03997802734375,
+        20.844009399414062,
+        87.850830078125
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        19.44000244140625,
+        83.8800048828125,
+        321.4188232421875,
+        104.42054748535156
+      ],
+      "text": ";\nFB.com/Lowi\nVo\nQuestions 6-13\nconv outsQuang\n"
+    },
+    {
+      "box": [
+        46.44000244140625,
+        120.239990234375,
+        522.9359741210938,
+        135.37510681152344
+      ],
+      "text": "Do the following statements agree with the information given in Reading Passage 1?\n"
+    },
+    {
+      "box": [
+        46.44000244140625,
+        150.47998046875,
+        284.904052734375,
+        162.73220825195312
+      ],
+      "text": "‘mn boxes 8-13 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        19.44000244140625,
+        171.719970703125,
+        19.796403884887695,
+        178.2064971923828
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        87.48001098632812,
+        180.719970703125,
+        414.0936279296875,
+        221.7711639404297
+      ],
+      "text": "TRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n"
+    },
+    {
+      "box": [
+        44.6400146484375,
+        248.4000244140625,
+        524.8079833984375,
+        276.4925842285156
+      ],
+      "text": "8\nThe website www.newzealand.com aimed to provide ready-made itineraries and\npackages for travel companies and individual tourists.\n"
+    },
+    {
+      "box": [
+        44.280029296875,
+        286.9200134277344,
+        444.8232421875,
+        314.2918701171875
+      ],
+      "text": "$\nIt was found that most visitors started searching on the website by\ngeographical location.\n"
+    },
+    {
+      "box": [
+        44.64002990722656,
+        325.44000244140625,
+        541.7280883789062,
+        338.0526123046875
+      ],
+      "text": "10\nAccording to research, 26% of visitor satisfaction is related to their accommodation.\n"
+    },
+    {
+      "box": [
+        44.280029296875,
+        348.8399963378906,
+        451.75677490234375,
+        360.73187255859375
+      ],
+      "text": "11\nVisitors to New Zealand like to become involved in the local culture.\n"
+    },
+    {
+      "box": [
+        44.280029296875,
+        372.239990234375,
+        505.79998779296875,
+        387.0147705078125
+      ],
+      "text": "12\nVisitors like staying in small hotels in New Zealand rather than in larger ones.\n"
+    },
+    {
+      "box": [
+        43.9200439453125,
+        396.0,
+        528.6961669921875,
+        409.33331298828125
+      ],
+      "text": "13.\nMany visitors feel it is unlikely that they will return to New Zealand after their visit.\n"
+    }
+  ]
+}

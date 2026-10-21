@@ -1,0 +1,152 @@
+{
+  "book": 16,
+  "test": 2,
+  "part": 2,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 2.mp3",
+  "sha256": "d62d55bb0bd766dc7998db3a0abbbac0e8b41f272216efb464214623add5bfa4",
+  "duration": 463.686,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      364.1959375,
+      464.1959375
+    ]
+  ],
+  "text": "Part 2. You will hear a head teacher talking to parents of pupils about changes at the school. First you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15. Good morning and thank you for coming here today. I'd like to bring you up to date with changes in the school that will affect your children. As you know, the school buildings date from various times, some from the 1970s, some from the last five years, and of course, Dartfield House is over a century old. It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed. His heir chose to sell it to the local council, who turned it into offices. A later plan to convert it into a tourist information centre didn't come about through lack of money, and instead it formed the nucleus of this school when it opened 40 years ago. The school has grown as the local population has increased, and I can now give you some news about the low... These are very popular with pupils, particularly swimming. In fact, there's a waiting list for lessons. Cycling is another favourite, and I'm delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions. It means that more and more cycle 2 and from school every day. As you know, we have a well-equipped performance centre, and we're going to start drama classes in there too. Pupils will be able to join in just for fun, or work up to taking part in a play. We hope to put on at least one year. We already teach a number of pupils to use the sound and lighting systems in the centre. And a former pupil has given a magnificent grand piano to the school, so a few pupils will be able to learn at the school, instead of going to the local college as many of them do at the moment.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Part 2. You will hear a head teacher talking to parents of pupils about changes at the school."
+    },
+    {
+      "start": 8.0,
+      "end": 13.0,
+      "text": "First you have some time to look at questions 11 to 15."
+    },
+    {
+      "start": 30.0,
+      "end": 54.48,
+      "text": "Now listen carefully and answer questions 11 to 15."
+    },
+    {
+      "start": 54.48,
+      "end": 58.4,
+      "text": "Good morning and thank you for coming here today."
+    },
+    {
+      "start": 58.4,
+      "end": 64.72,
+      "text": "I'd like to bring you up to date with changes in the school that will affect your children."
+    },
+    {
+      "start": 64.72,
+      "end": 71.72,
+      "text": "As you know, the school buildings date from various times, some from the 1970s, some from"
+    },
+    {
+      "start": 71.72,
+      "end": 78.2,
+      "text": "the last five years, and of course, Dartfield House is over a century old."
+    },
+    {
+      "start": 78.2,
+      "end": 84.72,
+      "text": "It was commissioned by a businessman, Neville Richards, and intended as his family home,"
+    },
+    {
+      "start": 84.72,
+      "end": 87.88,
+      "text": "but he died before it was completed."
+    },
+    {
+      "start": 87.88,
+      "end": 93.56,
+      "text": "His heir chose to sell it to the local council, who turned it into offices."
+    },
+    {
+      "start": 93.56,
+      "end": 99.0,
+      "text": "A later plan to convert it into a tourist information centre didn't come about through"
+    },
+    {
+      "start": 99.0,
+      "end": 105.92,
+      "text": "lack of money, and instead it formed the nucleus of this school when it opened 40 years"
+    },
+    {
+      "start": 105.92,
+      "end": 107.88,
+      "text": "ago."
+    },
+    {
+      "start": 107.88,
+      "end": 113.32,
+      "text": "The school has grown as the local population has increased, and I can now give you some"
+    },
+    {
+      "start": 113.32,
+      "end": 115.32,
+      "text": "news about the low..."
+    },
+    {
+      "start": 364.2,
+      "end": 369.2,
+      "text": "These are very popular with pupils, particularly swimming."
+    },
+    {
+      "start": 369.2,
+      "end": 373.2,
+      "text": "In fact, there's a waiting list for lessons."
+    },
+    {
+      "start": 373.2,
+      "end": 378.92,
+      "text": "Cycling is another favourite, and I'm delighted that dozens of pupils make use of the"
+    },
+    {
+      "start": 378.92,
+      "end": 383.0,
+      "text": "chance to learn to ride in off-road conditions."
+    },
+    {
+      "start": 383.0,
+      "end": 387.6,
+      "text": "It means that more and more cycle 2 and from school every day."
+    },
+    {
+      "start": 387.6,
+      "end": 393.32,
+      "text": "As you know, we have a well-equipped performance centre, and we're going to start drama classes"
+    },
+    {
+      "start": 393.32,
+      "end": 400.4,
+      "text": "in there too. Pupils will be able to join in just for fun, or work up to taking part in"
+    },
+    {
+      "start": 400.4,
+      "end": 407.36,
+      "text": "a play. We hope to put on at least one year. We already teach a number of pupils to"
+    },
+    {
+      "start": 407.36,
+      "end": 413.9,
+      "text": "use the sound and lighting systems in the centre. And a former pupil has given a magnificent"
+    },
+    {
+      "start": 413.9,
+      "end": 420.08,
+      "text": "grand piano to the school, so a few pupils will be able to learn at the school, instead"
+    },
+    {
+      "start": 420.08,
+      "end": 433.72,
+      "text": "of going to the local college as many of them do at the moment."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

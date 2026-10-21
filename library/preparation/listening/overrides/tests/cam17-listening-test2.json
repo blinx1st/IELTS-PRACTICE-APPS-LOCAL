@@ -1,0 +1,1109 @@
+{
+  "id": "cam17-listening-test2",
+  "skill": "listening",
+  "book": 17,
+  "test": 2,
+  "title": "Cambridge 17 · Listening Test 2",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam17-t2-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t2-p1-q1-7",
+          "type": "completion",
+          "heading": "Questions 1–7",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-024.webp",
+              "page": 24
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 24
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Opportunities for voluntary work in Southoe village"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Library"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Help with ",
+                  {
+                    "number": 1
+                  },
+                  " books (times to be arranged)"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Help needed to keep ",
+                  {
+                    "number": 2
+                  },
+                  " of books up to date"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Library is in the ",
+                  {
+                    "number": 3
+                  },
+                  " Room in the village hall"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Lunch club"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Help by providing ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Help with hobbies such as ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Help for individuals needed next week"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Taking Mrs Carroll to ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Work in the ",
+                  {
+                    "number": 7
+                  },
+                  " at Mr Selsbury's house"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam17-t2-p1-q8-10",
+          "type": "completion",
+          "heading": "Questions 8–10",
+          "instructions": "Complete the table below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-024.webp",
+              "page": 24
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 24
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "table",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Date"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Event"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Location"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Help needed"
+                    ],
+                    "header": true
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "19 Oct"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      {
+                        "number": 8
+                      }
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Village hall"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "providing refreshments"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "18 Nov"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "dance"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "checking ",
+                      {
+                        "number": 9
+                      }
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "31 Dec"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "New Year's Eve party"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Mountfort Hotel"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "designing the ",
+                      {
+                        "number": 10
+                      }
+                    ],
+                    "header": false
+                  }
+                ]
+              }
+            ],
+            "caption": "Village social events"
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-024.webp",
+          "page": 24
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 24
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/972ee2c44fd1f23c061f8804108ba7fc80bd8a7545c3f772e6c8e918bbae054a.mp3",
+        "sha256": "972ee2c44fd1f23c061f8804108ba7fc80bd8a7545c3f772e6c8e918bbae054a",
+        "duration": 473.477,
+        "start": 38.94,
+        "end": 473.477,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t2-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t2-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t2-p2-q11-14",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Many past owners made changes to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the gardens"
+                },
+                {
+                  "value": "B",
+                  "label": "the house"
+                },
+                {
+                  "value": "C",
+                  "label": "the farm"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "Sir Edward Downes built Oniton Hall because he wanted",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a place for discussing politics"
+                },
+                {
+                  "value": "B",
+                  "label": "a place to display his wealth"
+                },
+                {
+                  "value": "C",
+                  "label": "a place for artists and writers"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "Visitors can learn about the work of servants in the past from",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "audio guides"
+                },
+                {
+                  "value": "B",
+                  "label": "photographs"
+                },
+                {
+                  "value": "C",
+                  "label": "people in costume"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "What is new for children at Oniton Hall?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "clothes for dressing up"
+                },
+                {
+                  "value": "B",
+                  "label": "mini tractors"
+                },
+                {
+                  "value": "C",
+                  "label": "the adventure playground"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-025.webp",
+              "page": 25
+            },
+            {
+              "url": "/library-assets/l-cam17-source-026.webp",
+              "page": 26
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 25
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "id": "l-cam17-t2-p2-q15-20",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "Which activity is offered at each of the following locations on the farm? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 15-20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "dairy"
+            },
+            {
+              "number": 16,
+              "text": "large barn"
+            },
+            {
+              "number": 17,
+              "text": "small barn"
+            },
+            {
+              "number": 18,
+              "text": "stables"
+            },
+            {
+              "number": 19,
+              "text": "shed"
+            },
+            {
+              "number": 20,
+              "text": "parkland"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-025.webp",
+              "page": 25
+            },
+            {
+              "url": "/library-assets/l-cam17-source-026.webp",
+              "page": 26
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 25
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 26
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "shopping"
+            },
+            {
+              "value": "B",
+              "label": "watching cows being milked"
+            },
+            {
+              "value": "C",
+              "label": "seeing old farming equipment"
+            },
+            {
+              "value": "D",
+              "label": "eating and drinking"
+            },
+            {
+              "value": "E",
+              "label": "starting a trip"
+            },
+            {
+              "value": "F",
+              "label": "seeing rare breeds of animals"
+            },
+            {
+              "value": "G",
+              "label": "helping to look after animals"
+            },
+            {
+              "value": "H",
+              "label": "using farming tools"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-025.webp",
+          "page": 25
+        },
+        {
+          "url": "/library-assets/l-cam17-source-026.webp",
+          "page": 26
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 25
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 26
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/b84dfe7fc58fe27338e8e425d587f7bf57ad416e1354bfbcc191dbccbe7ae920.mp3",
+        "sha256": "b84dfe7fc58fe27338e8e425d587f7bf57ad416e1354bfbcc191dbccbe7ae920",
+        "duration": 444.079,
+        "start": 0,
+        "end": 444.079,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t2-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t2-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t2-p3-q21-22",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO things do the students agree they need to include in their reviews of Romeo and Juliet?",
+          "questions": [
+            {
+              "number": 21,
+              "text": ""
+            },
+            {
+              "number": 22,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-027.webp",
+              "page": 27
+            },
+            {
+              "url": "/library-assets/l-cam17-source-028.webp",
+              "page": 28
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 27
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 28
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "analysis of the text"
+            },
+            {
+              "value": "B",
+              "label": "a summary of the plot"
+            },
+            {
+              "value": "C",
+              "label": "a description of the theatre"
+            },
+            {
+              "value": "D",
+              "label": "a personal reaction"
+            },
+            {
+              "value": "E",
+              "label": "a reference to particular scenes"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam17-t2-p3-q23-27",
+          "type": "matching",
+          "heading": "Questions 23–27",
+          "instructions": "Which opinion do the speakers give about each of the following aspects of The Emporium’s production of Romeo and Juliet? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 23-27. Opinions",
+          "body": "",
+          "questions": [
+            {
+              "number": 23,
+              "text": "the set"
+            },
+            {
+              "number": 24,
+              "text": "the lighting"
+            },
+            {
+              "number": 25,
+              "text": "the costume design"
+            },
+            {
+              "number": 26,
+              "text": "the music"
+            },
+            {
+              "number": 27,
+              "text": "the actors’ delivery"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-027.webp",
+              "page": 27
+            },
+            {
+              "url": "/library-assets/l-cam17-source-028.webp",
+              "page": 28
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 27
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 28
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "They both expected this to be more traditional"
+            },
+            {
+              "value": "B",
+              "label": "They both thought this was original"
+            },
+            {
+              "value": "C",
+              "label": "They agree this created the right atmosphere"
+            },
+            {
+              "value": "D",
+              "label": "They agree this was a major strength"
+            },
+            {
+              "value": "E",
+              "label": "They were both disappointed by this"
+            },
+            {
+              "value": "F",
+              "label": "They disagree about why this was an issue"
+            },
+            {
+              "value": "G",
+              "label": "They disagree about how this could be improved"
+            }
+          ]
+        },
+        {
+          "id": "l-cam17-t2-p3-q28-30",
+          "type": "choice",
+          "heading": "Questions 28–30",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 28,
+              "text": "The students think the story of Romeo and Juliet is still relevant for young people today because",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "it illustrates how easily conflict can start"
+                },
+                {
+                  "value": "B",
+                  "label": "it deals with problems that families experience"
+                },
+                {
+                  "value": "C",
+                  "label": "it teaches them about relationships"
+                }
+              ]
+            },
+            {
+              "number": 29,
+              "text": "The students found watching Romeo and Juliet in another language",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "frustrating"
+                },
+                {
+                  "value": "B",
+                  "label": "demanding"
+                },
+                {
+                  "value": "C",
+                  "label": "moving"
+                }
+              ]
+            },
+            {
+              "number": 30,
+              "text": "Why do the students think Shakespeare’s plays have such international appeal?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "The stories are exciting"
+                },
+                {
+                  "value": "B",
+                  "label": "There are recognisable characters"
+                },
+                {
+                  "value": "C",
+                  "label": "They can be interpreted in many ways."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-027.webp",
+              "page": 27
+            },
+            {
+              "url": "/library-assets/l-cam17-source-028.webp",
+              "page": 28
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 27
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 28
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-027.webp",
+          "page": 27
+        },
+        {
+          "url": "/library-assets/l-cam17-source-028.webp",
+          "page": 28
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 27
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 28
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/2a1ee1874269370525776237f8e0df93512bc0f407d0728752d9b969e9aa9f05.mp3",
+        "sha256": "2a1ee1874269370525776237f8e0df93512bc0f407d0728752d9b969e9aa9f05",
+        "duration": 401.519,
+        "start": 0,
+        "end": 401.519,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t2-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t2-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t2-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t2-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-029.webp",
+              "page": 29
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 29
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The impact of digital technology on the Icelandic language"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The Icelandic language"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "has approximately ",
+                  {
+                    "number": 31
+                  },
+                  " speakers"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "has a ",
+                  {
+                    "number": 32
+                  },
+                  " that is still growing"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "has not changed a lot over the last thousand years"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "has its own words for computer-based concepts, such as web browser and ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Young speakers"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "are big users of digital technology, such as ",
+                  {
+                    "number": 34
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "are becoming ",
+                  {
+                    "number": 35
+                  },
+                  " very quickly"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "are having discussions using only English while they are in the ",
+                  {
+                    "number": 36
+                  },
+                  " at school"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "are better able to identify the content of a ",
+                  {
+                    "number": 37
+                  },
+                  " in English than Icelandic"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Technology and internet companies"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "write very little in Icelandic because of the small number of speakers and because of how complicated its ",
+                  {
+                    "number": 38
+                  },
+                  " is"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The Icelandic government"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "has set up a fund to support the production of more digital content in the language"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "believes that Icelandic has a secure future"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "is worried that young Icelanders may lose their ",
+                  {
+                    "number": 39
+                  },
+                  " as Icelanders"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "is worried about the consequences of children not being ",
+                  {
+                    "number": 40
+                  },
+                  " in either Icelandic or English"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-029.webp",
+          "page": 29
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 29
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/54d9dbeb4c124f9df8ac6ef4af7e30de93454e5abe9057ef217589317a779748.mp3",
+        "sha256": "54d9dbeb4c124f9df8ac6ef4af7e30de93454e5abe9057ef217589317a779748",
+        "duration": 433.393,
+        "start": 0,
+        "end": 355.93,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t2-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

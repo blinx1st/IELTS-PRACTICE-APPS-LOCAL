@@ -1,0 +1,210 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 34,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.8901977539062,
+  "text": "|\nTest 2\nPART 2\nQuestions 11-20\nQuestions 11-14\n|\nChoose the correct letter, A, B or C.Minster Park\n5\nj\n11\nThe park was originally established\nA\nas an amenity provided by the city council.\n|\nB\nas land belonging to a private house.\nC\n asashared area set up by the local community.\n:\n12.\nWhy is there a statue of Diane Gosforth in the park?\nA\nShe wasa resident who helped to lead a campaign.\nB\nShe was a council member responsible for giving the public access.\nC_\nShe was a senior worker at the park for many years.\n13\nDuring the First World War, the park was mainly used for\nA\nexercises by troops.\ni\nBs\ngrowing vegetables.\ni\nC\npublic meetings.\n|\n14\nWhen did the physical transformation of the park begin?\n;\nA\n2013\n|\nB\n2015\n|\nCc\n2016\nii\nHl\nHI\n|\n32\n",
+  "blocks": [
+    {
+      "box": [
+        18.714824856408708,
+        58.66377791528114,
+        279.81362999691595,
+        109.06172143500066
+      ],
+      "text": "|\nTest 2\nPART 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        126.32506778075877,
+        177.25100006325886,
+        137.13287503490616
+      ],
+      "text": "Questions 11-14\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        148.99879789525394,
+        361.28243960896026,
+        196.87780417861694
+      ],
+      "text": "|\nChoose the correct letter, A, B or C.Minster Park\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        200.82446672838574,
+        20.478336832537522,
+        210.91175545150838
+      ],
+      "text": "5\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        209.82197867858224,
+        290.3244051304809,
+        223.87105760421545
+      ],
+      "text": "j\n11\nThe park was originally established\n"
+    },
+    {
+      "box": [
+        106.89044196833434,
+        231.05610688104596,
+        354.1132502042685,
+        242.94469925392448
+      ],
+      "text": "A\nas an amenity provided by the city council.\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        245.45212600136034,
+        381.8544071663392,
+        271.01657042883903
+      ],
+      "text": "|\nB\nas land belonging to a private house.\nC\n asashared area set up by the local community.\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        278.20306950007557,
+        486.45593129968705,
+        328.24074643208877
+      ],
+      "text": ":\n12.\nWhy is there a statue of Diane Gosforth in the park?\nA\nShe wasa resident who helped to lead a campaign.\nB\nShe was a council member responsible for giving the public access.\n"
+    },
+    {
+      "box": [
+        107.97014340235792,
+        329.6688378551995,
+        405.2011933505463,
+        344.4395189965651
+      ],
+      "text": "C_\nShe was a senior worker at the park for many years.\n"
+    },
+    {
+      "box": [
+        82.41720946379988,
+        352.70246844770253,
+        403.3548582078756,
+        364.95132740828745
+      ],
+      "text": "13\nDuring the First World War, the park was mainly used for\n"
+    },
+    {
+      "box": [
+        107.61024292435006,
+        375.3761985621977,
+        237.34720414048095,
+        386.54427240405147
+      ],
+      "text": "A\nexercises by troops.\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        389.0524167264964,
+        237.18156146849418,
+        403.1025646924492
+      ],
+      "text": "i\nBs\ngrowing vegetables.\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        403.44843584681075,
+        217.92338588635607,
+        417.1383318694452
+      ],
+      "text": "i\nC\npublic meetings.\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        422.8830616592352,
+        399.7666609860966,
+        436.93320962518806
+      ],
+      "text": "|\n14\nWhen did the physical transformation of the park begin?\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        442.6775879496675,
+        159.183969707366,
+        456.0072320289835
+      ],
+      "text": ";\nA\n2013\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        458.51320898201334,
+        159.79581223548973,
+        474.7249271854284
+      ],
+      "text": "|\nB\n2015\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        473.9889295363513,
+        159.06160120174127,
+        497.76614357088425
+      ],
+      "text": "|\nCc\n2016\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        489.1047496126814,
+        19.40583494573483,
+        493.4278900876059
+      ],
+      "text": "ii\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        569.3625562084342,
+        20.867030007783466,
+        578.7293410449199
+      ],
+      "text": "Hl\n"
+    },
+    {
+      "box": [
+        18.714824856408708,
+        699.6465292472793,
+        20.49993181310321,
+        705.4106774954776
+      ],
+      "text": "HI\n"
+    },
+    {
+      "box": [
+        20.154426768440146,
+        706.1247378514208,
+        20.514327246448005,
+        713.3299524504444
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        83.85681137583133,
+        750.7523971243954,
+        96.38135093938243,
+        759.3986194966926
+      ],
+      "text": "32\n"
+    }
+  ]
+}

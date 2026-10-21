@@ -1,0 +1,1062 @@
+{
+  "id": "cam15-listening-test2",
+  "skill": "listening",
+  "book": 15,
+  "test": 2,
+  "title": "Cambridge 15 · Listening Test 2",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam15-listening-test2-p1",
+      "number": 1,
+      "title": "Festival information",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t2-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–4",
+          "instructions": "Complete the table below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "company called …"
+            },
+            {
+              "number": 2,
+              "text": "has had a good …"
+            },
+            {
+              "number": 3,
+              "text": "a … show"
+            },
+            {
+              "number": 4,
+              "text": "show is called …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-033.webp",
+              "page": 33
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "table",
+            "caption": "Festival information",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "header": true,
+                    "content": [
+                      "Date"
+                    ]
+                  },
+                  {
+                    "header": true,
+                    "content": [
+                      "Type of event"
+                    ]
+                  },
+                  {
+                    "header": true,
+                    "content": [
+                      "Details"
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "17th"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "a concert"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "performers from Canada"
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "18th"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "a ballet"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "company called ",
+                      {
+                        "number": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "19th–20th (afternoon)"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "a play"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "type of play: a comedy called Jemima\nhas had a good ",
+                      {
+                        "number": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "header": false,
+                    "content": [
+                      "20th (evening)"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "a ",
+                      {
+                        "number": 3
+                      },
+                      " show"
+                    ]
+                  },
+                  {
+                    "header": false,
+                    "content": [
+                      "show is called ",
+                      {
+                        "number": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam15-t2-p1-g5",
+          "type": "completion",
+          "heading": "Questions 5–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 5,
+              "text": "Making … food"
+            },
+            {
+              "number": 6,
+              "text": "(children only) Making …"
+            },
+            {
+              "number": 7,
+              "text": "(adults only) Making toys from … using various tools"
+            },
+            {
+              "number": 8,
+              "text": "Swimming in the …"
+            },
+            {
+              "number": 9,
+              "text": "Walking in the woods, led by an expert on …"
+            },
+            {
+              "number": 10,
+              "text": "See the festival organiser’s … for more information"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-033.webp",
+              "page": 33
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Workshops"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Making ",
+                  {
+                    "number": 5
+                  },
+                  " food"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "(children only) Making ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "(adults only) Making toys from ",
+                  {
+                    "number": 7
+                  },
+                  " using various tools"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Outdoor activities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Swimming in the ",
+                  {
+                    "number": 8
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Walking in the woods, led by an expert on ",
+                  {
+                    "number": 9
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "See the festival organiser’s ",
+                  {
+                    "number": 10
+                  },
+                  " for more information"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-033.webp",
+          "page": 33
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 33
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/b6038832cd2cccf0b6750541e817ef4da6827f65ae543bcdfe37f05a45ba935e.m4a",
+        "sha256": "b6038832cd2cccf0b6750541e817ef4da6827f65ae543bcdfe37f05a45ba935e",
+        "duration": 486.997,
+        "start": 47.8,
+        "end": 486.997,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio1.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t2-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t2-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "The park was originally established",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "as an amenity provided by the city council."
+                },
+                {
+                  "value": "B",
+                  "label": "as land belonging to a private house."
+                },
+                {
+                  "value": "C",
+                  "label": "as a shared area set up by the local community."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "Why is there a statue of Diane Gosforth in the park?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "She was a resident who helped to lead a campaign."
+                },
+                {
+                  "value": "B",
+                  "label": "She was a council member responsible for giving the public access."
+                },
+                {
+                  "value": "C",
+                  "label": "She was a senior worker at the park for many years."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "During the First World War, the park was mainly used for",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "exercises by troops."
+                },
+                {
+                  "value": "B",
+                  "label": "growing vegetables."
+                },
+                {
+                  "value": "C",
+                  "label": "public meetings."
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "When did the physical transformation of the park begin?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "2013"
+                },
+                {
+                  "value": "B",
+                  "label": "2015"
+                },
+                {
+                  "value": "C",
+                  "label": "2016"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-034.webp",
+              "page": 34
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t2-p2-g15",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "Label the map/plan below. Write the correct letter, A–I, next to Questions 15–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "statue of Diane Gosforth"
+            },
+            {
+              "number": 16,
+              "text": "wooden sculptures"
+            },
+            {
+              "number": 17,
+              "text": "playground"
+            },
+            {
+              "number": 18,
+              "text": "maze"
+            },
+            {
+              "number": 19,
+              "text": "tennis courts"
+            },
+            {
+              "number": 20,
+              "text": "fitness area"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-035.webp",
+              "page": 35
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            },
+            {
+              "value": "I",
+              "label": "I"
+            }
+          ],
+          "renderMode": "source-map",
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam15-page-035.webp",
+              "page": 35
+            },
+            "labels": [
+              {
+                "number": 15,
+                "x": 0.443,
+                "y": 0.676,
+                "width": 0.095
+              },
+              {
+                "number": 16,
+                "x": 0.443,
+                "y": 0.7019,
+                "width": 0.095
+              },
+              {
+                "number": 17,
+                "x": 0.443,
+                "y": 0.7278,
+                "width": 0.095
+              },
+              {
+                "number": 18,
+                "x": 0.443,
+                "y": 0.7537,
+                "width": 0.095
+              },
+              {
+                "number": 19,
+                "x": 0.443,
+                "y": 0.7796,
+                "width": 0.095
+              },
+              {
+                "number": 20,
+                "x": 0.443,
+                "y": 0.8055,
+                "width": 0.095
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-034.webp",
+          "page": 34
+        },
+        {
+          "url": "/library-assets/l-cam15-page-035.webp",
+          "page": 35
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 34
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 35
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/7e0e00f71e779ab7e884a17da10b10ba30c6eafefb43390d39ab001eeafe1c17.m4a",
+        "sha256": "7e0e00f71e779ab7e884a17da10b10ba30c6eafefb43390d39ab001eeafe1c17",
+        "duration": 423.68,
+        "start": 0,
+        "end": 423.68,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio2.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t2-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t2-p3-g21",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO groups of people is the display primarily intended for?",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Which TWO groups of people is the display primarily intended for?"
+            },
+            {
+              "number": 22,
+              "text": "Which TWO groups of people is the display primarily intended for?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-036.webp",
+              "page": 36
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "students from the English department"
+            },
+            {
+              "value": "B",
+              "label": "residents of the local area"
+            },
+            {
+              "value": "C",
+              "label": "the university’s teaching staff"
+            },
+            {
+              "value": "D",
+              "label": "potential new students"
+            },
+            {
+              "value": "E",
+              "label": "students from other departments"
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t2-p3-g23",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "What are Cathy and Graham's TWO reasons for choosing the novelist Charles Dickens?",
+          "questions": [
+            {
+              "number": 23,
+              "text": "What are Cathy and Graham's TWO reasons for choosing the novelist Charles Dickens?"
+            },
+            {
+              "number": 24,
+              "text": "What are Cathy and Graham's TWO reasons for choosing the novelist Charles Dickens?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-036.webp",
+              "page": 36
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "His speeches inspired others to try to improve society."
+            },
+            {
+              "value": "B",
+              "label": "He used his publications to draw attention to social problems."
+            },
+            {
+              "value": "C",
+              "label": "His novels are well-known now."
+            },
+            {
+              "value": "D",
+              "label": "He was consulted on a number of social issues."
+            },
+            {
+              "value": "E",
+              "label": "His reputation has changed in recent times."
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t2-p3-g25",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What topic do Cathy and Graham choose to illustrate with each novel? Choose SIX answers from the box and write the correct letter, A-H, next to . Topics",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "The Pickwick Papers"
+            },
+            {
+              "number": 26,
+              "text": "Oliver Twist"
+            },
+            {
+              "number": 27,
+              "text": "Nicholas Nickleby"
+            },
+            {
+              "number": 28,
+              "text": "Martin Chuzzlewit"
+            },
+            {
+              "number": 29,
+              "text": "Bleak House"
+            },
+            {
+              "number": 30,
+              "text": "Little Dorrit"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-037.webp",
+              "page": 37
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "poverty"
+            },
+            {
+              "value": "B",
+              "label": "education"
+            },
+            {
+              "value": "C",
+              "label": "Dickens’s travels"
+            },
+            {
+              "value": "D",
+              "label": "entertainment"
+            },
+            {
+              "value": "E",
+              "label": "crime and the law"
+            },
+            {
+              "value": "F",
+              "label": "wealth"
+            },
+            {
+              "value": "G",
+              "label": "medicine"
+            },
+            {
+              "value": "H",
+              "label": "a woman’s life"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-036.webp",
+          "page": 36
+        },
+        {
+          "url": "/library-assets/l-cam15-page-037.webp",
+          "page": 37
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 36
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 37
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/5852f1674584bf8abe566dfdec3439edfe36e2db5fbc52d7483429bef5f9c2f0.m4a",
+        "sha256": "5852f1674584bf8abe566dfdec3439edfe36e2db5fbc52d7483429bef5f9c2f0",
+        "duration": 427.691,
+        "start": 0,
+        "end": 427.691,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio3.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t2-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test2-p4",
+      "number": 4,
+      "title": "Agricultural programme in Mozambique",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t2-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "… was seen as the main priority to ensure the supply of water."
+            },
+            {
+              "number": 32,
+              "text": "Most of the work organised by farmers’ associations was done by …."
+            },
+            {
+              "number": 33,
+              "text": "– … for the fences"
+            },
+            {
+              "number": 34,
+              "text": "– … for suitable crops"
+            },
+            {
+              "number": 35,
+              "text": "– … for the fences on their land."
+            },
+            {
+              "number": 36,
+              "text": "The marketing of produce was sometimes difficult due to lack of …."
+            },
+            {
+              "number": 37,
+              "text": "Training was therefore provided in methods of food …."
+            },
+            {
+              "number": 38,
+              "text": "Farmers made special places where … could be kept."
+            },
+            {
+              "number": 39,
+              "text": "Local people later suggested keeping …."
+            },
+            {
+              "number": 40,
+              "text": "Enough time must be allowed, particularly for the … phase of the programme."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-038.webp",
+              "page": 38
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Agricultural programme in Mozambique"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "How the programme was organised"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It focused on a dry and arid region in Chicualacuala district, near the Limpopo River."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "People depended on the forest to provide charcoal as a source of income."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 31
+                  },
+                  " was seen as the main priority to ensure the supply of water."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Most of the work organised by farmers’ associations was done by ",
+                  {
+                    "number": 32
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Fenced areas were created to keep animals away from crops."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The programme provided"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– ",
+                  {
+                    "number": 33
+                  },
+                  " for the fences"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– ",
+                  {
+                    "number": 34
+                  },
+                  " for suitable crops"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– water pumps."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The farmers provided"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– labour"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– ",
+                  {
+                    "number": 35
+                  },
+                  " for the fences on their land."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Further developments"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The marketing of produce was sometimes difficult due to lack of ",
+                  {
+                    "number": 36
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Training was therefore provided in methods of food ",
+                  {
+                    "number": 37
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Farmers made special places where ",
+                  {
+                    "number": 38
+                  },
+                  " could be kept."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Local people later suggested keeping ",
+                  {
+                    "number": 39
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Evaluation and lessons learned"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Agricultural production increased, improving incomes and food security."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Enough time must be allowed, particularly for the ",
+                  {
+                    "number": 40
+                  },
+                  " phase of the programme."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-038.webp",
+          "page": 38
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 38
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/db19c5bfaedf9ead311102e78f00501bc14ce4ad6acc1a0e01561691784ec21c.m4a",
+        "sha256": "db19c5bfaedf9ead311102e78f00501bc14ce4ad6acc1a0e01561691784ec21c",
+        "duration": 524.843,
+        "start": 0,
+        "end": 447.78,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio4.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t2-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam15/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

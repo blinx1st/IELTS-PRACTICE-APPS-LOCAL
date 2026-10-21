@@ -1,0 +1,102 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 89,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "ah ae\nRE, RHBRERORRTR\nEth 2\nia 1718867188\nioaia\nAudioscripts\nTEST\n1\nPART1\nPETER:\nHello?\nJAN:\nOh hello. My name’s Jan. Are you the right person to talk to about the Buckworth\nConservation Group?\nPETER:\nYes, I’m Peter. I’m the secretary.\nJAN:\nGood. I’ve just moved to this area, and I’m interested in getting involved.\n| was\nin a similar group where\n| used to live. Could you tell me something about your\nactivities, please?\nPETER:\nOf course. Well, we have a mixture of regular activities and special events. One\nof the regular ones is trying to keep the beach free of litter.\nA few of us spend a\nQ1\ncouple of hours a month on it, and it’s awful how much there is to clear.\n| wish\npeople would be more responsible and take it home with them.\nJAN:\n| totally agree. I’d be happy to help with that. Is it OK to take dogs?\nQ2\nPETER:\nI'm afraid not, as they’re banned from the beach itself. You can take them along\nthe cliffs, though. And children are welcome.\nJAN:\nRight.\nPETER:\nWe also managea nature reserve, and there’s a lot to do there all year round.\nFor example, because it’s a popular place to visit, we spenda\nlot of time looking\nafter the paths and making sure they're in good condition for walking.\nJAN?\n| could certainly help with that.\nPETER:\nGood. And we have a programme of creating new habitats there. We've just\nfinished making and installing nesting boxes for birds to use, and next we’re\ngoing to work on encouraging insects — they’re important for the biodiversity of\nQ3\nthe reserve.\nJAN:\nThey certainly are.\nPETER:\nOh, and we're also running a project to identify the different species of butterflies\nQ4\nthat visit the reserve. You might be interested in taking part in that.\nJAN:\nSure.\n| was involved in something similar where\n| used to live, counting all the\nspecies of moths. I'd enjoy that.\nPETER:\nAnother job we're doing at the reserve is replacing the wall on the southern side,\nQ5\nbetween the parking area and our woodshed. It was badly damaged in a storm\nlast month.\nJAN:\nOK.\nPETER:\nThen as\n| said, we have a programme of events as well, both at the weekend,\nand during the week.\nJAN?\nRight.\n| presume you have guided walks? I'd like to get to know the local\ncountryside, as I’m new to the area.\nPETER:\nYes, we do. The next walk is to Ruston Island, a week on Saturday. We'll be\nmeeting in the car park at Dunsmore Beach at low tide — that’s when the sands\nare dry enough for us to walk to the island without getting wet.\nQ6\nJAN:\nSounds good.\n96\n",
+  "blocks": [
+    {
+      "box": [
+        388.7216491699219,
+        14.03717041015625,
+        512.0147705078125,
+        64.44535827636719
+      ],
+      "text": "ah ae\nRE, RHBRERORRTR\nEth 2\nia 1718867188\nioaia\n"
+    },
+    {
+      "box": [
+        70.18583679199219,
+        82.42341613769531,
+        209.15357971191406,
+        105.84205627441406
+      ],
+      "text": "Audioscripts\n"
+    },
+    {
+      "box": [
+        249.0697784423828,
+        132.09339904785156,
+        300.86334228515625,
+        142.181396484375
+      ],
+      "text": "TEST\n1\n"
+    },
+    {
+      "box": [
+        71.26563262939453,
+        174.20489501953125,
+        124.88582611083984,
+        195.46185302734375
+      ],
+      "text": "PART1\n"
+    },
+    {
+      "box": [
+        70.5457763671875,
+        201.55938720703125,
+        477.9385986328125,
+        260.2369079589844
+      ],
+      "text": "PETER:\nHello?\nJAN:\nOh hello. My name’s Jan. Are you the right person to talk to about the Buckworth\nConservation Group?\nPETER:\nYes, I’m Peter. I’m the secretary.\nJAN:\nGood. I’ve just moved to this area, and I’m interested in getting involved.\n| was\n"
+    },
+    {
+      "box": [
+        70.5457763671875,
+        263.1069641113281,
+        510.6795349121094,
+        475.8309326171875
+      ],
+      "text": "in a similar group where\n| used to live. Could you tell me something about your\nactivities, please?\nPETER:\nOf course. Well, we have a mixture of regular activities and special events. One\nof the regular ones is trying to keep the beach free of litter.\nA few of us spend a\nQ1\ncouple of hours a month on it, and it’s awful how much there is to clear.\n| wish\npeople would be more responsible and take it home with them.\nJAN:\n| totally agree. I’d be happy to help with that. Is it OK to take dogs?\nQ2\nPETER:\nI'm afraid not, as they’re banned from the beach itself. You can take them along\nthe cliffs, though. And children are welcome.\nJAN:\nRight.\nPETER:\nWe also managea nature reserve, and there’s a lot to do there all year round.\nFor example, because it’s a popular place to visit, we spenda\nlot of time looking\nafter the paths and making sure they're in good condition for walking.\nJAN?\n| could certainly help with that.\nPETER:\nGood. And we have a programme of creating new habitats there. We've just\nfinished making and installing nesting boxes for birds to use, and next we’re\ngoing to work on encouraging insects — they’re important for the biodiversity of\nQ3\nthe reserve.\n"
+    },
+    {
+      "box": [
+        70.18592834472656,
+        480.8630676269531,
+        510.72998046875,
+        572.6513671875
+      ],
+      "text": "JAN:\nThey certainly are.\nPETER:\nOh, and we're also running a project to identify the different species of butterflies\nQ4\nthat visit the reserve. You might be interested in taking part in that.\nJAN:\nSure.\n| was involved in something similar where\n| used to live, counting all the\nspecies of moths. I'd enjoy that.\nPETER:\nAnother job we're doing at the reserve is replacing the wall on the southern side,\nQ5\nbetween the parking area and our woodshed. It was badly damaged in a storm\nlast month.\n"
+    },
+    {
+      "box": [
+        70.5458984375,
+        577.6835327148438,
+        140.29978942871094,
+        584.8892822265625
+      ],
+      "text": "JAN:\nOK.\n"
+    },
+    {
+      "box": [
+        70.54586791992188,
+        605.7578735351562,
+        510.6795349121094,
+        700.4281616210938
+      ],
+      "text": "PETER:\nThen as\n| said, we have a programme of events as well, both at the weekend,\nand during the week.\nJAN?\nRight.\n| presume you have guided walks? I'd like to get to know the local\ncountryside, as I’m new to the area.\nPETER:\nYes, we do. The next walk is to Ruston Island, a week on Saturday. We'll be\nmeeting in the car park at Dunsmore Beach at low tide — that’s when the sands\nare dry enough for us to walk to the island without getting wet.\nQ6\nJAN:\nSounds good.\n"
+    },
+    {
+      "box": [
+        70.54586791992188,
+        731.0126342773438,
+        82.72581481933594,
+        739.6595458984375
+      ],
+      "text": "96\n"
+    }
+  ]
+}

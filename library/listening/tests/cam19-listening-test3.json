@@ -1,0 +1,1177 @@
+{
+  "id": "cam19-listening-test3",
+  "skill": "listening",
+  "book": 19,
+  "test": 3,
+  "title": "Cambridge 19 · Listening Test 3",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam19-t3-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t3-p1-q1-6",
+          "type": "completion",
+          "heading": "Questions 1–6",
+          "instructions": "Complete the notes below. Write ONE WORD ANDIORA NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-054.webp",
+              "page": 54
+            },
+            {
+              "url": "/library-assets/l-cam19-source-055.webp",
+              "page": 55
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 54
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 55
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Local food shops"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Where to go"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Kite Place - near the ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Fish market"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "cross the ",
+                  {
+                    "number": 2
+                  },
+                  " and turn right"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "best to go before ",
+                  {
+                    "number": 3
+                  },
+                  " pm, earlier than closing time"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Organic shop"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "called ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "below a restaurant in the large, grey building"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "look for the large ",
+                  {
+                    "number": 5
+                  },
+                  " outside"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Supermarket"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "take a ",
+                  {
+                    "number": 6
+                  },
+                  " minibus, number 289"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam19-t3-p1-q7-10",
+          "type": "completion",
+          "heading": "Questions 7–10",
+          "instructions": "Complete the table below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-054.webp",
+              "page": 54
+            },
+            {
+              "url": "/library-assets/l-cam19-source-055.webp",
+              "page": 55
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 54
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 55
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "table",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "content": [],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "To buy"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Other ideas"
+                    ],
+                    "header": true
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Fish market"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "a dozen prawns"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "a handful of ",
+                      {
+                        "number": 7
+                      },
+                      " (type of seaweed)"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Organic shop"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "beans and a ",
+                      {
+                        "number": 8
+                      },
+                      " for dessert"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "spices and ",
+                      {
+                        "number": 9
+                      }
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Bakery"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "a brown loaf"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "a ",
+                      {
+                        "number": 10
+                      },
+                      " tart"
+                    ],
+                    "header": false
+                  }
+                ]
+              }
+            ],
+            "caption": "Shopping"
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-054.webp",
+          "page": 54
+        },
+        {
+          "url": "/library-assets/l-cam19-source-055.webp",
+          "page": 55
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 54
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 55
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/97e6fbb34e21eeb1ade85ed22223bd99d449815e89ef374dabddd89620c54e2b.mp3",
+        "sha256": "97e6fbb34e21eeb1ade85ed22223bd99d449815e89ef374dabddd89620c54e2b",
+        "duration": 396.199,
+        "start": 44.86,
+        "end": 396.199,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t3-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t3-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t3-p2-q11-16",
+          "type": "matching",
+          "heading": "Questions 11–16",
+          "instructions": "What information is given about each of the following festival workshops? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16. Information",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Superheroes"
+            },
+            {
+              "number": 12,
+              "text": "Just do it"
+            },
+            {
+              "number": 13,
+              "text": "Count on me"
+            },
+            {
+              "number": 14,
+              "text": "Speak up"
+            },
+            {
+              "number": 15,
+              "text": "Jump for joy"
+            },
+            {
+              "number": 16,
+              "text": "Sticks and stones"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-056.webp",
+              "page": 56
+            },
+            {
+              "url": "/library-assets/l-cam19-source-057.webp",
+              "page": 57
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 56
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 57
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "involves painting and drawing"
+            },
+            {
+              "value": "B",
+              "label": "will be led by a prize-winning author"
+            },
+            {
+              "value": "C",
+              "label": "is aimed at children with a disability"
+            },
+            {
+              "value": "D",
+              "label": "involves a drama activity"
+            },
+            {
+              "value": "E",
+              "label": "focuses on new relationships"
+            },
+            {
+              "value": "F",
+              "label": "is aimed at a specific age group"
+            },
+            {
+              "value": "G",
+              "label": "explores an unhappy feeling"
+            },
+            {
+              "value": "H",
+              "label": "raises awareness of a particular culture"
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t3-p2-q17-18",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO reasons does the speaker give for recommending Alive and Kicking?",
+          "questions": [
+            {
+              "number": 17,
+              "text": ""
+            },
+            {
+              "number": 18,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-056.webp",
+              "page": 56
+            },
+            {
+              "url": "/library-assets/l-cam19-source-057.webp",
+              "page": 57
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 56
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 57
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "It will appeal to both boys and girls"
+            },
+            {
+              "value": "B",
+              "label": "The author is well known"
+            },
+            {
+              "value": "C",
+              "label": "It has colourful illustrations"
+            },
+            {
+              "value": "D",
+              "label": "it is funny"
+            },
+            {
+              "value": "E",
+              "label": "It deals with an important topic"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam19-t3-p2-q19-20",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO pieces of advice does the speaker give to parents about reading?",
+          "questions": [
+            {
+              "number": 19,
+              "text": ""
+            },
+            {
+              "number": 20,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-056.webp",
+              "page": 56
+            },
+            {
+              "url": "/library-assets/l-cam19-source-057.webp",
+              "page": 57
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 56
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 57
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Encourage children to write down new vocabulary"
+            },
+            {
+              "value": "B",
+              "label": "Allow children to listen to audio books"
+            },
+            {
+              "value": "C",
+              "label": "Get recommendations from librarians"
+            },
+            {
+              "value": "D",
+              "label": "Give children a choice about what they read"
+            },
+            {
+              "value": "E",
+              "label": "Only read aloud to children until they can read independently"
+            }
+          ],
+          "choose": 2
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-056.webp",
+          "page": 56
+        },
+        {
+          "url": "/library-assets/l-cam19-source-057.webp",
+          "page": 57
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 56
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 57
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/2581e4ed41c646ea980fa703a3cab1bd3617016b96ff5fb5ac52dd19b93d2e49.mp3",
+        "sha256": "2581e4ed41c646ea980fa703a3cab1bd3617016b96ff5fb5ac52dd19b93d2e49",
+        "duration": 371.827,
+        "start": 0,
+        "end": 371.827,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t3-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t3-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t3-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t3-p3-q21-25",
+          "type": "choice",
+          "heading": "Questions 21–25",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "How does Clare feel about the students in her Year 12 science class?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "worried that they are not making progress"
+                },
+                {
+                  "value": "B",
+                  "label": "challenged by their poor behaviour in class"
+                },
+                {
+                  "value": "C",
+                  "label": "frustrated at their lack of interest in the subject"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "How does Jake react to Clare’s suggestion about an experiment based on children's diet?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "He is concerned that the results might not be meaningful"
+                },
+                {
+                  "value": "B",
+                  "label": "He feels some of the data might be difficult to obtain"
+                },
+                {
+                  "value": "C",
+                  "label": "He suspects that the conclusions might be upsetting"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "What problem do they agree may be involved in an experiment involving animals?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Any results may not apply to humans"
+                },
+                {
+                  "value": "B",
+                  "label": "It may be complicated to get permission"
+                },
+                {
+                  "value": "C",
+                  "label": "Students may not be happy about animal experiments"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What question do they decide the experiment should address?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Are mice capable of controlling their food intake?"
+                },
+                {
+                  "value": "B",
+                  "label": "Does an increase in sugar lead to health problems?"
+                },
+                {
+                  "value": "C",
+                  "label": "How much do supplements of different kinds affect health?"
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "Clare might also consider doing another experiment involving",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "other types of food supplement"
+                },
+                {
+                  "value": "B",
+                  "label": "different genetic strains of mice"
+                },
+                {
+                  "value": "C",
+                  "label": "varying amounts of exercise"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-058.webp",
+              "page": 58
+            },
+            {
+              "url": "/library-assets/l-cam19-source-059.webp",
+              "page": 59
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 58
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 59
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t3-p3-q26-30",
+          "type": "matching",
+          "heading": "Questions 26–30",
+          "instructions": "Complete the flowchart below. Choose FIVE answers from the box and write the correct letter, A-H, next to Questions 26-30.",
+          "body": "",
+          "questions": [
+            {
+              "number": 26,
+              "text": ""
+            },
+            {
+              "number": 27,
+              "text": ""
+            },
+            {
+              "number": 28,
+              "text": ""
+            },
+            {
+              "number": 29,
+              "text": ""
+            },
+            {
+              "number": 30,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-058.webp",
+              "page": 58
+            },
+            {
+              "url": "/library-assets/l-cam19-source-059.webp",
+              "page": 59
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 58
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 59
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "size"
+            },
+            {
+              "value": "B",
+              "label": "escape"
+            },
+            {
+              "value": "C",
+              "label": "age"
+            },
+            {
+              "value": "D",
+              "label": "water"
+            },
+            {
+              "value": "E",
+              "label": "cereal"
+            },
+            {
+              "value": "F",
+              "label": "calculations"
+            },
+            {
+              "value": "G",
+              "label": "changes"
+            },
+            {
+              "value": "H",
+              "label": "colour"
+            }
+          ],
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam19-source-059.webp",
+              "page": 59
+            },
+            "labels": [
+              {
+                "number": 26,
+                "x": 0.52,
+                "y": 0.434,
+                "width": 0.18
+              },
+              {
+                "number": 27,
+                "x": 0.67,
+                "y": 0.524,
+                "width": 0.18
+              },
+              {
+                "number": 28,
+                "x": 0.69,
+                "y": 0.653,
+                "width": 0.18
+              },
+              {
+                "number": 29,
+                "x": 0.66,
+                "y": 0.766,
+                "width": 0.18
+              },
+              {
+                "number": 30,
+                "x": 0.35,
+                "y": 0.859,
+                "width": 0.18
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-058.webp",
+          "page": 58
+        },
+        {
+          "url": "/library-assets/l-cam19-source-059.webp",
+          "page": 59
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 58
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 59
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/e55469b89b9ce0f495eac91af275b394658932079701be0ae28f6c5003b8456e.mp3",
+        "sha256": "e55469b89b9ce0f495eac91af275b394658932079701be0ae28f6c5003b8456e",
+        "duration": 422.165,
+        "start": 0,
+        "end": 422.165,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t3-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t3-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t3-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t3-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-060.webp",
+              "page": 60
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 60
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Microplastics"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Where microplastics come from"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "fibres from some ",
+                  {
+                    "number": 31
+                  },
+                  " during washing"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the breakdown of large pieces of plastic"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "waste from industry"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the action of vehicle tyres on roads"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Effects of microplastics"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They cause injuries to the ",
+                  {
+                    "number": 32
+                  },
+                  " of wildlife and affect their digestive systems."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They enter the food chain, e.g., in bottled and tap water, ",
+                  {
+                    "number": 33
+                  },
+                  " and seafood."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They may not affect human health, but they are already banned in skin cleaning products and ",
+                  {
+                    "number": 34
+                  },
+                  " in some countries."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Microplastics enter the soil through the air, rain and ",
+                  {
+                    "number": 35
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Microplastics in the soil - a study by Anglia Ruskin University"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Earthworms are important because they add ",
+                  {
+                    "number": 36
+                  },
+                  " to the soil."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The study aimed to find whether microplastics in earthworms affect the ",
+                  {
+                    "number": 37
+                  },
+                  " of plants."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The study found that microplastics caused:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 38
+                  },
+                  " loss in earthworms"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "fewer seeds to germinate"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a rise in the level of ",
+                  {
+                    "number": 39
+                  },
+                  " in the soil."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The study concluded:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "soil should be seen as an important natural process."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "changes to soil damage both ecosystems and ",
+                  {
+                    "number": 40
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-060.webp",
+          "page": 60
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 60
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/07fdf245403bdae93d23ed0722c265d8823afe87f74d2b583e2e14e22a302615.mp3",
+        "sha256": "07fdf245403bdae93d23ed0722c265d8823afe87f74d2b583e2e14e22a302615",
+        "duration": 410.436,
+        "start": 0,
+        "end": 384,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t3-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds.",
+            "No reliable spoken check cue in source; boundary follows last transcript sentence (timed local ASR evidence)."
+          ]
+        }
+      }
+    }
+  ]
+}

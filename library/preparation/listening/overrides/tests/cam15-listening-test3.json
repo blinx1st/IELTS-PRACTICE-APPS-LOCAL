@@ -1,0 +1,1054 @@
+{
+  "id": "cam15-listening-test3",
+  "skill": "listening",
+  "book": 15,
+  "test": 3,
+  "title": "Cambridge 15 · Listening Test 3",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam15-listening-test3-p1",
+      "number": 1,
+      "title": "Employment Agency: Possible Jobs",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t3-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Administrative assistant in a company that produces … (North London)"
+            },
+            {
+              "number": 2,
+              "text": "go to … and take notes"
+            },
+            {
+              "number": 3,
+              "text": "management of …"
+            },
+            {
+              "number": 4,
+              "text": "attention to …"
+            },
+            {
+              "number": 5,
+              "text": "Need a minimum of … of experience of teleconferencing"
+            },
+            {
+              "number": 6,
+              "text": "managing …"
+            },
+            {
+              "number": 7,
+              "text": "very organised and …"
+            },
+            {
+              "number": 8,
+              "text": "used to working in a …"
+            },
+            {
+              "number": 9,
+              "text": "able to cope with items that are …"
+            },
+            {
+              "number": 10,
+              "text": "… service"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-054.webp",
+              "page": 54
+            },
+            {
+              "url": "/library-assets/l-cam15-page-055.webp",
+              "page": 55
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Employment Agency: Possible Jobs"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "First Job"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Administrative assistant in a company that produces ",
+                  {
+                    "number": 1
+                  },
+                  " (North London)"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Responsibilities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "data entry"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "go to ",
+                  {
+                    "number": 2
+                  },
+                  " and take notes"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "general admin"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "management of ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Requirements"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "good computer skills including spreadsheets"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "good interpersonal skills"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "attention to ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Experience"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Need a minimum of ",
+                  {
+                    "number": 5
+                  },
+                  " of experience of teleconferencing"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Second Job"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Warehouse assistant in South London"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Responsibilities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "stock management"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "managing ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Requirements"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "ability to work with numbers"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "good computer skills"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "very organised and ",
+                  {
+                    "number": 7
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "good communication skills"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "used to working in a ",
+                  {
+                    "number": 8
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "able to cope with items that are ",
+                  {
+                    "number": 9
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Need experience of"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "driving in London"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "warehouse work"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 10
+                  },
+                  " service"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-054.webp",
+          "page": 54
+        },
+        {
+          "url": "/library-assets/l-cam15-page-055.webp",
+          "page": 55
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 54
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 55
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/ef7e14b87ab280ac03e41d0058eed6151ba52a3c84d582c497000316bbc78565.m4a",
+        "sha256": "ef7e14b87ab280ac03e41d0058eed6151ba52a3c84d582c497000316bbc78565",
+        "duration": 470.613,
+        "start": 48.2,
+        "end": 470.613,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio1.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t3-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t3-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "When did the Street Play Scheme first take place?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "two years ago"
+                },
+                {
+                  "value": "B",
+                  "label": "three years ago"
+                },
+                {
+                  "value": "C",
+                  "label": "six years ago"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "How often is Beechwood Road closed to traffic now?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "once a week"
+                },
+                {
+                  "value": "B",
+                  "label": "on Saturdays and Sundays"
+                },
+                {
+                  "value": "C",
+                  "label": "once a month"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "Who is responsible for closing the road?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a council official"
+                },
+                {
+                  "value": "B",
+                  "label": "the police"
+                },
+                {
+                  "value": "C",
+                  "label": "local wardens"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "Residents who want to use their cars",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "have to park in another street."
+                },
+                {
+                  "value": "B",
+                  "label": "must drive very slowly."
+                },
+                {
+                  "value": "C",
+                  "label": "need permission from a warden."
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "Alice says that Street Play Schemes are most needed in",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "wealthy areas."
+                },
+                {
+                  "value": "B",
+                  "label": "quiet suburban areas."
+                },
+                {
+                  "value": "C",
+                  "label": "areas with heavy traffic."
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "text": "What has been the reaction of residents who are not parents?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Many of them were unhappy at first."
+                },
+                {
+                  "value": "B",
+                  "label": "They like seeing children play in the street."
+                },
+                {
+                  "value": "C",
+                  "label": "They are surprised by the lack of noise."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-056.webp",
+              "page": 56
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t3-p2-g17",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO benefits for children does Alice think are the most important?",
+          "questions": [
+            {
+              "number": 17,
+              "text": "Which TWO benefits for children does Alice think are the most important?"
+            },
+            {
+              "number": 18,
+              "text": "Which TWO benefits for children does Alice think are the most important?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-057.webp",
+              "page": 57
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "increased physical activity"
+            },
+            {
+              "value": "B",
+              "label": "increased sense of independence"
+            },
+            {
+              "value": "C",
+              "label": "opportunity to learn new games"
+            },
+            {
+              "value": "D",
+              "label": "opportunity to be part of a community"
+            },
+            {
+              "value": "E",
+              "label": "opportunity to make new friends"
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t3-p2-g19",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO results of the King Street experiment surprised Alice?",
+          "questions": [
+            {
+              "number": 19,
+              "text": "Which TWO results of the King Street experiment surprised Alice?"
+            },
+            {
+              "number": 20,
+              "text": "Which TWO results of the King Street experiment surprised Alice?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-057.webp",
+              "page": 57
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "more shoppers"
+            },
+            {
+              "value": "B",
+              "label": "improved safety"
+            },
+            {
+              "value": "C",
+              "label": "less air pollution"
+            },
+            {
+              "value": "D",
+              "label": "more relaxed atmosphere"
+            },
+            {
+              "value": "E",
+              "label": "less noise pollution"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-056.webp",
+          "page": 56
+        },
+        {
+          "url": "/library-assets/l-cam15-page-057.webp",
+          "page": 57
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 56
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 57
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/dd097156a2bf3f1f9a8c76019e8cbf3fd2edc5e97d14de553b1e652f7dacd173.m4a",
+        "sha256": "dd097156a2bf3f1f9a8c76019e8cbf3fd2edc5e97d14de553b1e652f7dacd173",
+        "duration": 424.533,
+        "start": 0,
+        "end": 424.533,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio2.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t3-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test3-p3",
+      "number": 3,
+      "title": "What Hazel should analyse about items in newspapers:",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t3-p3-g21",
+          "type": "completion",
+          "heading": "Questions 21–26",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "what … the item is on"
+            },
+            {
+              "number": 22,
+              "text": "the … of the item, including the headline"
+            },
+            {
+              "number": 23,
+              "text": "any … accompanying the item"
+            },
+            {
+              "number": 24,
+              "text": "the … of the item, e.g. what’s made prominent"
+            },
+            {
+              "number": 25,
+              "text": "the writer’s main …"
+            },
+            {
+              "number": 26,
+              "text": "the … the writer may make about the reader"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-058.webp",
+              "page": 58
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "What Hazel should analyse about items in newspapers:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "what ",
+                  {
+                    "number": 21
+                  },
+                  " the item is on"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the ",
+                  {
+                    "number": 22
+                  },
+                  " of the item, including the headline"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "any ",
+                  {
+                    "number": 23
+                  },
+                  " accompanying the item"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the ",
+                  {
+                    "number": 24
+                  },
+                  " of the item, e.g. what’s made prominent"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the writer’s main ",
+                  {
+                    "number": 25
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "the ",
+                  {
+                    "number": 26
+                  },
+                  " the writer may make about the reader"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam15-t3-p3-g27",
+          "type": "matching",
+          "heading": "Questions 27–30",
+          "instructions": "What does Hazel decide to do about each of the following types of articles? Write the correct letter, A, B or C, next to .",
+          "body": "",
+          "questions": [
+            {
+              "number": 27,
+              "text": "national news item"
+            },
+            {
+              "number": 28,
+              "text": "editorial"
+            },
+            {
+              "number": 29,
+              "text": "human interest"
+            },
+            {
+              "number": 30,
+              "text": "arts"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-058.webp",
+              "page": 58
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "She will definitely look for a suitable article."
+            },
+            {
+              "value": "B",
+              "label": "She may look for a suitable article."
+            },
+            {
+              "value": "C",
+              "label": "She definitely won’t look for an article."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-058.webp",
+          "page": 58
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 58
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/23269aba3945fe32accf812a1ec3cdd21c1fa9091465583507161cf4e6bfd6c9.m4a",
+        "sha256": "23269aba3945fe32accf812a1ec3cdd21c1fa9091465583507161cf4e6bfd6c9",
+        "duration": 410.069,
+        "start": 0,
+        "end": 410.069,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio3.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t3-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test3-p4",
+      "number": 4,
+      "title": "Early history of keeping clean",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t3-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "water was used to wash off …"
+            },
+            {
+              "number": 32,
+              "text": "soap-like material found in … cylinders"
+            },
+            {
+              "number": 33,
+              "text": "used a strigil – scraper made of …"
+            },
+            {
+              "number": 34,
+              "text": "used soap to colour their …"
+            },
+            {
+              "number": 35,
+              "text": "from about 312 BC, water carried to Roman … by aqueducts"
+            },
+            {
+              "number": 36,
+              "text": "decline in bathing contributed to occurrence of …"
+            },
+            {
+              "number": 37,
+              "text": "… began to be added to soap"
+            },
+            {
+              "number": 38,
+              "text": "1791: Leblanc invented a way of making soda ash from …"
+            },
+            {
+              "number": 39,
+              "text": "early 1800s: Chevreul turned soapmaking into a …"
+            },
+            {
+              "number": 40,
+              "text": "from 1800s, there was no longer a … on soap"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-059.webp",
+              "page": 59
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Early history of keeping clean"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Prehistoric times:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "water was used to wash off ",
+                  {
+                    "number": 31
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Babylon:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "soap-like material found in ",
+                  {
+                    "number": 32
+                  },
+                  " cylinders"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Greece:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "people cleaned themselves with sand and other substances"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "used a strigil – scraper made of ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "washed clothes in streams"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Germany and Gaul:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "used soap to colour their ",
+                  {
+                    "number": 34
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Rome:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "animal fat, ashes and clay mixed through action of rain, used for washing clothes"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "from about 312 BC, water carried to Roman ",
+                  {
+                    "number": 35
+                  },
+                  " by aqueducts"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Europe in Middle Ages:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "decline in bathing contributed to occurrence of ",
+                  {
+                    "number": 36
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 37
+                  },
+                  " began to be added to soap"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Europe from 17th century:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "1600s: cleanliness and bathing started becoming usual"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "1791: Leblanc invented a way of making soda ash from ",
+                  {
+                    "number": 38
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "early 1800s: Chevreul turned soapmaking into a ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "from 1800s, there was no longer a ",
+                  {
+                    "number": 40
+                  },
+                  " on soap"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-059.webp",
+          "page": 59
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 59
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/4e2cee2e3e6ede7716242aebd57f0701dd7ca4bdef0afa861a303ae7dadd1ba4.m4a",
+        "sha256": "4e2cee2e3e6ede7716242aebd57f0701dd7ca4bdef0afa861a303ae7dadd1ba4",
+        "duration": 467.072,
+        "start": 0,
+        "end": 389.73,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio4.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t3-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam15/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

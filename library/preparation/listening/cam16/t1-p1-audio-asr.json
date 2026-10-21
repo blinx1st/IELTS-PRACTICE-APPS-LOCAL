@@ -1,0 +1,187 @@
+{
+  "book": 16,
+  "test": 1,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 1.mp3",
+  "sha256": "0ab5c21d09421649106c432304c5c3b471064a373348d9a6705e95488e6f989d",
+  "duration": 422.04,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      322.5045,
+      422.5045
+    ]
+  ],
+  "text": "IELTS 16, published by Cambridge University Press and Cambridge Assessment English 2021. This recording is copyright. Test 1. This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given ten minutes to transfer your answers to the answer sheet. Now turn to part one. 1. You will hear a man phoning to find out about some children's engineering workshops. First, you have some time to look at questions 1 to 3. Now listen carefully and answer questions one to three. What sorts of activities do they do? All sorts! For example... day too. They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays. The class is a held in the morning from 10 to 11. Okay, that's better for me actually. And what about the location? Where exactly are the workshops held? They're in building 10a. There's a big sign on the door, You can't miss it, and that's in Fredston Industrial Estate. Sorry. Fredston. That's F-R-A-D-S-T-O-N-E. And that's in grass food, isn't it? Yes. Or past the station. And will I have any parking problems there? No, there's always plenty available. So, would you like to enroll Lydia and Carly now? Only now. Okay. So can I have your full name? That is the end of part 1. You now have half a minute to check your answers to part 1.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "text": "IELTS 16, published by Cambridge University Press and Cambridge Assessment English 2021."
+    },
+    {
+      "start": 8.68,
+      "end": 11.76,
+      "text": "This recording is copyright."
+    },
+    {
+      "start": 11.76,
+      "end": 13.52,
+      "text": "Test 1."
+    },
+    {
+      "start": 13.52,
+      "end": 16.64,
+      "text": "This is the IELTS Listening Test."
+    },
+    {
+      "start": 16.64,
+      "end": 21.16,
+      "text": "You will hear a number of different recordings and you will have to answer questions"
+    },
+    {
+      "start": 21.16,
+      "end": 23.32,
+      "text": "on what you hear."
+    },
+    {
+      "start": 23.32,
+      "end": 28.24,
+      "text": "There will be time for you to read the instructions and questions and you will have a chance"
+    },
+    {
+      "start": 28.24,
+      "end": 37.64,
+      "text": "to check your work. All the recordings will be played once only. The test is in four parts."
+    },
+    {
+      "start": 37.64,
+      "end": 42.8,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to the"
+    },
+    {
+      "start": 42.8,
+      "end": 52.28,
+      "text": "answer sheet. Now turn to part one."
+    },
+    {
+      "start": 52.28,
+      "end": 59.88,
+      "text": "1. You will hear a man phoning to find out about some children's engineering workshops."
+    },
+    {
+      "start": 59.88,
+      "end": 79.8,
+      "text": "First, you have some time to look at questions 1 to 3."
+    },
+    {
+      "start": 79.8,
+      "end": 83.72,
+      "text": "Now listen carefully and answer questions one to three."
+    },
+    {
+      "start": 109.8,
+      "end": 112.8,
+      "text": "What sorts of activities do they do?"
+    },
+    {
+      "start": 112.8,
+      "end": 113.8,
+      "text": "All sorts!"
+    },
+    {
+      "start": 113.8,
+      "end": 114.8,
+      "text": "For example..."
+    },
+    {
+      "start": 322.5,
+      "end": 328.18,
+      "text": "day too. They used to be, but we found it didn't give our staff enough time to clear"
+    },
+    {
+      "start": 328.18,
+      "end": 335.22,
+      "text": "up after the first workshop, so we moved them to Wednesdays. The class is a held in the morning"
+    },
+    {
+      "start": 335.22,
+      "end": 342.82,
+      "text": "from 10 to 11. Okay, that's better for me actually. And what about the location? Where"
+    },
+    {
+      "start": 342.82,
+      "end": 349.3,
+      "text": "exactly are the workshops held? They're in building 10a. There's a big sign on the door,"
+    },
+    {
+      "start": 349.3,
+      "end": 353.3,
+      "text": "You can't miss it, and that's in Fredston Industrial Estate."
+    },
+    {
+      "start": 353.3,
+      "end": 354.3,
+      "text": "Sorry."
+    },
+    {
+      "start": 354.3,
+      "end": 364.3,
+      "text": "Fredston. That's F-R-A-D-S-T-O-N-E."
+    },
+    {
+      "start": 364.3,
+      "end": 367.3,
+      "text": "And that's in grass food, isn't it?"
+    },
+    {
+      "start": 367.3,
+      "end": 369.3,
+      "text": "Yes. Or past the station."
+    },
+    {
+      "start": 369.3,
+      "end": 372.3,
+      "text": "And will I have any parking problems there?"
+    },
+    {
+      "start": 372.3,
+      "end": 375.3,
+      "text": "No, there's always plenty available."
+    },
+    {
+      "start": 375.3,
+      "end": 378.3,
+      "text": "So, would you like to enroll Lydia and Carly now?"
+    },
+    {
+      "start": 378.3,
+      "end": 379.3,
+      "text": "Only now."
+    },
+    {
+      "start": 379.3,
+      "end": 380.3,
+      "text": "Okay."
+    },
+    {
+      "start": 380.3,
+      "end": 386.14,
+      "text": "So can I have your full name?"
+    },
+    {
+      "start": 386.14,
+      "end": 388.58,
+      "text": "That is the end of part 1."
+    },
+    {
+      "start": 388.58,
+      "end": 391.98,
+      "text": "You now have half a minute to check your answers to part 1."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

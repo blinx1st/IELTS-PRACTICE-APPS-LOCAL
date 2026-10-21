@@ -1,0 +1,111 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 59,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nREADING PASSAGE 1\nBcom/LouisQuangvo\nYou should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\nThe coconut palm\nFor millennia, the coconut has been central to the lives of Polynesian and Asian peoples.\nIn the western world, on the other hand, coconuts have always been exotic and unusual,\nsometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts\nin South Asia in the late 13th century, and among the mid-14th-century travel writings\nof Sir John Mandeville there is mention of ‘great Notes of Ynde’ (great Nuts of India).\nToday, images of palm-fringed tropical beaches are clichés in the west to sell holidays,\nchocolate bars, fizzy drinks and even romance.\nTypically, we envisage coconuts as brown cannonballs that, when opened, provide\nsweet white flesh. But we see only part of the fruit and none of the plant from which they\ncome. The coconut palm has a smooth, slender, grey trunk, up to 30 metres tall. This\nis an important source of timber for building houses, and is increasingly being used as\na replacement for endangered hardwoods in the furniture construction industry. The\ntrunk is surmounted bya rosette of leaves, each of which may be up to six metres long.\nThe leaves have hard veins in their centres which, in many parts of the world, are used\nas brushes after the green part of the leaf has been stripped away. Immature coconut\nflowers are tightly clustered together among the leaves at the top of the trunk. The flower\nstems may be tapped for their sap to produce a drink, and the sap can also be reduced\nby boiling to produce a type of sugar used for cooking.\nCoconut palms produce as many as seventy fruits per year, weighing more than a\nkilogram each. The wall of the fruit has three layers: a waterproof outer layer, a fibrous\nmiddle layer and a hard, inner layer. The thick fibrous middle layer produces coconut\nfibre, ‘coir’, which has numerous uses and is particularly important in manufacturing\nropes. The woody innermost layer, the shell, with its three prominent ‘eyes’, surrounds\nthe seed. An important product obtained from the shell is charcoal, which is widely used\nin various industries as well as in the home as a cooking fuel. When broken in half, the\nshells are also used as bowls in many parts of Asia.\nInside the shell are the nutrients (endosperm) needed by the developing seed. Initially,\nthe endosperm is a sweetish liquid, coconut water, which is enjoyed asa drink, but also\nprovides the hormones which encourage other plants to grow more rapidly and produce\n|\nhigher yields. As the fruit matures, the coconut water gradually solidifies to form the\n|\nbrilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, ‘copra’, is made into\ncoconut oil and coconut milk, which are widely used in cooking in different parts of the\nworld, as well as in cosmetics. A derivative of coconut fat, glycerine, acquired strategic\n60\n",
+  "blocks": [
+    {
+      "box": [
+        104.76000213623047,
+        56.15997314453125,
+        137.1240234375,
+        65.52938079833984
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        104.76000213623047,
+        130.67999267578125,
+        369.71612548828125,
+        142.93222045898438
+      ],
+      "text": "READING PASSAGE 1\nBcom/LouisQuangvo\n"
+    },
+    {
+      "box": [
+        104.760009765625,
+        161.6400146484375,
+        573.4873657226562,
+        187.57188415527344
+      ],
+      "text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\n"
+    },
+    {
+      "box": [
+        273.239990234375,
+        207.719970703125,
+        415.6560363769531,
+        223.93618774414062
+      ],
+      "text": "The coconut palm\n"
+    },
+    {
+      "box": [
+        103.679931640625,
+        238.67999267578125,
+        584.150634765625,
+        337.3318786621094
+      ],
+      "text": "For millennia, the coconut has been central to the lives of Polynesian and Asian peoples.\nIn the western world, on the other hand, coconuts have always been exotic and unusual,\nsometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts\nin South Asia in the late 13th century, and among the mid-14th-century travel writings\nof Sir John Mandeville there is mention of ‘great Notes of Ynde’ (great Nuts of India).\nToday, images of palm-fringed tropical beaches are clichés in the west to sell holidays,\nchocolate bars, fizzy drinks and even romance.\n"
+    },
+    {
+      "box": [
+        102.95993041992188,
+        354.239990234375,
+        580.7952270507812,
+        396.3729553222656
+      ],
+      "text": "Typically, we envisage coconuts as brown cannonballs that, when opened, provide\nsweet white flesh. But we see only part of the fruit and none of the plant from which they\ncome. The coconut palm has a smooth, slender, grey trunk, up to 30 metres tall. This\n"
+    },
+    {
+      "box": [
+        102.23992919921875,
+        397.79998779296875,
+        583.5274658203125,
+        511.5729675292969
+      ],
+      "text": "is an important source of timber for building houses, and is increasingly being used as\na replacement for endangered hardwoods in the furniture construction industry. The\ntrunk is surmounted bya rosette of leaves, each of which may be up to six metres long.\nThe leaves have hard veins in their centres which, in many parts of the world, are used\nas brushes after the green part of the leaf has been stripped away. Immature coconut\nflowers are tightly clustered together among the leaves at the top of the trunk. The flower\nstems may be tapped for their sap to produce a drink, and the sap can also be reduced\nby boiling to produce a type of sugar used for cooking.\n"
+    },
+    {
+      "box": [
+        101.51992797851562,
+        527.4000244140625,
+        568.6971435546875,
+        584.6536865234375
+      ],
+      "text": "Coconut palms produce as many as seventy fruits per year, weighing more than a\nkilogram each. The wall of the fruit has three layers: a waterproof outer layer, a fibrous\nmiddle layer and a hard, inner layer. The thick fibrous middle layer produces coconut\nfibre, ‘coir’, which has numerous uses and is particularly important in manufacturing\n"
+    },
+    {
+      "box": [
+        101.51992797851562,
+        585.719970703125,
+        575.9710693359375,
+        641.5325927734375
+      ],
+      "text": "ropes. The woody innermost layer, the shell, with its three prominent ‘eyes’, surrounds\nthe seed. An important product obtained from the shell is charcoal, which is widely used\nin various industries as well as in the home as a cooking fuel. When broken in half, the\nshells are also used as bowls in many parts of Asia.\n"
+    },
+    {
+      "box": [
+        100.079833984375,
+        657.7200317382812,
+        595.7728271484375,
+        757.8132934570312
+      ],
+      "text": "Inside the shell are the nutrients (endosperm) needed by the developing seed. Initially,\nthe endosperm is a sweetish liquid, coconut water, which is enjoyed asa drink, but also\nprovides the hormones which encourage other plants to grow more rapidly and produce\n|\nhigher yields. As the fruit matures, the coconut water gradually solidifies to form the\n|\nbrilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, ‘copra’, is made into\ncoconut oil and coconut milk, which are widely used in cooking in different parts of the\nworld, as well as in cosmetics. A derivative of coconut fat, glycerine, acquired strategic\n"
+    },
+    {
+      "box": [
+        100.43988037109375,
+        767.1599731445312,
+        113.39988708496094,
+        776.1689453125
+      ],
+      "text": "60\n"
+    }
+  ]
+}

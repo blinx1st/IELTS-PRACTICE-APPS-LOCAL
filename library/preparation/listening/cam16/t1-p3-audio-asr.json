@@ -1,0 +1,192 @@
+{
+  "book": 16,
+  "test": 1,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 3.mp3",
+  "sha256": "8b19aaa56d6f41e566014d2f408c5f36b4872a41e3d5cb5158f934dc5c01b796",
+  "duration": 401.4,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      301.841625,
+      401.841625
+    ]
+  ],
+  "text": "Part 3. You will hear two students called Jess and Tom discussing their art projects. First you have some time to look at questions 21 to 24. Now, listen carefully and answer questions 21 to 24. How are you getting on with your art project, Tom? OK. Like, they gave us the theme of birds to base our project on, and I'm not really all that interested in wildlife, but I'm starting to get into it. I've pretty well finished the introductory stage. So of I. When they gave us all those handouts with details of books and websites to look at, I was really put off. But the more I read, the more interested I got. Me too. I found I could research so many different aspects of birds in art. The colour, movement, texture. So I was looking forward to the bird park visit. What a letdown! It pulled with rain and we hardly saw a single bird. much less used than the trip to the natural history museum. Yeah. I like all this stuff about evolution there. The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions. I missed those because I was ill. I wish we could have seen the project's last year students did. I suppose they want us to do our own thing, not copy. Have you drafted your proposal yet? Yes, but I haven't handed it in. Sure. Okay. There's a portrait called William Wells. I can't remember the artist, but it's a middle-aged man who's just shot a bird, and his expression, and the way he's holding the bird in his hand, suggests he's not sure about what he's done. To me it's about how ambiguous people are in the way they exploit the natural world. Interesting. There's Gogan's picture, Vairamati. He did it into heatie. It's a woman with a white bird behind her that is eating a lizard. And what I'm interested in is what idea this bird refers to. Apparently it's a reference to the never-ending cycle of existence. Wow. I chose a portrait of a little boy, Giovanni de Medici. He's holding a tiny bird him one fist. I like the way he's holding it carefully so he doesn't hurt it. No, right. That is the end of part 3. You now have half a minute to check your answers to part 3. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Part 3. You will hear two students called Jess and Tom discussing their art projects."
+    },
+    {
+      "start": 8.0,
+      "end": 13.0,
+      "text": "First you have some time to look at questions 21 to 24."
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "Now, listen carefully and answer questions 21 to 24."
+    },
+    {
+      "start": 37.0,
+      "end": 44.0,
+      "text": "How are you getting on with your art project, Tom?"
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": "OK."
+    },
+    {
+      "start": 45.0,
+      "end": 50.0,
+      "text": "Like, they gave us the theme of birds to base our project on, and I'm not really all that"
+    },
+    {
+      "start": 50.0,
+      "end": 54.0,
+      "text": "interested in wildlife, but I'm starting to get into it."
+    },
+    {
+      "start": 54.0,
+      "end": 57.0,
+      "text": "I've pretty well finished the introductory stage."
+    },
+    {
+      "start": 57.0,
+      "end": 65.0,
+      "text": "So of I. When they gave us all those handouts with details of books and websites to look at, I was really put off."
+    },
+    {
+      "start": 65.0,
+      "end": 68.0,
+      "text": "But the more I read, the more interested I got."
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "text": "Me too."
+    },
+    {
+      "start": 69.0,
+      "end": 76.0,
+      "text": "I found I could research so many different aspects of birds in art. The colour, movement, texture."
+    },
+    {
+      "start": 76.0,
+      "end": 79.0,
+      "text": "So I was looking forward to the bird park visit."
+    },
+    {
+      "start": 79.0,
+      "end": 85.0,
+      "text": "What a letdown! It pulled with rain and we hardly saw a single bird."
+    },
+    {
+      "start": 85.0,
+      "end": 89.0,
+      "text": "much less used than the trip to the natural history museum."
+    },
+    {
+      "start": 89.0,
+      "end": 93.0,
+      "text": "Yeah. I like all this stuff about evolution there."
+    },
+    {
+      "start": 93.0,
+      "end": 99.0,
+      "text": "The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions."
+    },
+    {
+      "start": 99.0,
+      "end": 105.0,
+      "text": "I missed those because I was ill. I wish we could have seen the project's last year students did."
+    },
+    {
+      "start": 105.0,
+      "end": 109.0,
+      "text": "I suppose they want us to do our own thing, not copy."
+    },
+    {
+      "start": 109.0,
+      "end": 112.0,
+      "text": "Have you drafted your proposal yet?"
+    },
+    {
+      "start": 112.0,
+      "end": 115.0,
+      "text": "Yes, but I haven't handed it in."
+    },
+    {
+      "start": 301.84,
+      "end": 308.92,
+      "text": "Sure. Okay. There's a portrait called William Wells. I can't remember the artist, but"
+    },
+    {
+      "start": 308.92,
+      "end": 314.8,
+      "text": "it's a middle-aged man who's just shot a bird, and his expression, and the way he's"
+    },
+    {
+      "start": 314.8,
+      "end": 320.76,
+      "text": "holding the bird in his hand, suggests he's not sure about what he's done. To me it's"
+    },
+    {
+      "start": 320.76,
+      "end": 326.6,
+      "text": "about how ambiguous people are in the way they exploit the natural world."
+    },
+    {
+      "start": 326.6,
+      "end": 333.6,
+      "text": "Interesting. There's Gogan's picture, Vairamati. He did it into heatie. It's a woman"
+    },
+    {
+      "start": 333.6,
+      "end": 340.0,
+      "text": "with a white bird behind her that is eating a lizard. And what I'm interested in is"
+    },
+    {
+      "start": 340.0,
+      "end": 346.4,
+      "text": "what idea this bird refers to. Apparently it's a reference to the never-ending cycle of"
+    },
+    {
+      "start": 346.4,
+      "end": 347.4,
+      "text": "existence."
+    },
+    {
+      "start": 347.4,
+      "end": 354.44,
+      "text": "Wow. I chose a portrait of a little boy, Giovanni de Medici. He's holding a tiny bird"
+    },
+    {
+      "start": 354.44,
+      "end": 360.2,
+      "text": "him one fist. I like the way he's holding it carefully so he doesn't hurt it."
+    },
+    {
+      "start": 360.2,
+      "end": 361.16,
+      "text": "No, right."
+    },
+    {
+      "start": 364.76,
+      "end": 372.28,
+      "text": "That is the end of part 3. You now have half a minute to check your answers to part 3."
+    },
+    {
+      "start": 384.44,
+      "end": 386.44,
+      "text": "You"
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

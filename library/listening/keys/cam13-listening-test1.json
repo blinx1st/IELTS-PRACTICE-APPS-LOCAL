@@ -1,0 +1,144 @@
+{
+  "id": "cam13-listening-test1",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "choose"
+    ],
+    "2": [
+      "private"
+    ],
+    "3": [
+      "20",
+      "twenty percent",
+      "20 percent"
+    ],
+    "4": [
+      "healthy"
+    ],
+    "5": [
+      "bones"
+    ],
+    "6": [
+      "lecture"
+    ],
+    "7": [
+      "Arretsa"
+    ],
+    "8": [
+      "vegetarian"
+    ],
+    "9": [
+      "market"
+    ],
+    "10": [
+      "knife"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "D"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "G"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "H"
+    ],
+    "20": [
+      "I"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "G"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "H"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "E"
+    ],
+    "31": [
+      "crow"
+    ],
+    "32": [
+      "cliffs"
+    ],
+    "33": [
+      "speed"
+    ],
+    "34": [
+      "brain",
+      "brains"
+    ],
+    "35": [
+      "food"
+    ],
+    "36": [
+      "behaviour",
+      "behaviours",
+      "behavior",
+      "behaviors"
+    ],
+    "37": [
+      "new"
+    ],
+    "38": [
+      "stress"
+    ],
+    "39": [
+      "tail",
+      "tails"
+    ],
+    "40": [
+      "permanent"
+    ]
+  },
+  "multi": [],
+  "limitExceptions": {
+    "3": [
+      "twenty percent"
+    ]
+  },
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+    "pdfPage": 116,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

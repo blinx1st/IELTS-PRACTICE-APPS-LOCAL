@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/be0b0670d8c0c319f4f3c0b61a31586b67854d944cc713fb99729fd3af46eb84.m4a",
+    "sha256": "be0b0670d8c0c319f4f3c0b61a31586b67854d944cc713fb99729fd3af46eb84",
+    "duration": 472.573,
+    "start": 0,
+    "end": 472.573,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S4.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear part of a presentation by an urban planning student about the role of rivers in cities around the world. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. It's quite hard to think of a city that doesn't have a big river running through it. If you think about the major cities in the world, Shanghai, New York, Mumbai, London, then nearly all built on rivers. When these cities were established, hundreds, or even thousands of years ago, the rivers were a big part of people's lives. In 16th century London, the quickest way to get..."
+    },
+    {
+      "name": "ending",
+      "start": 407.573,
+      "end": 472.573,
+      "text": "You That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the listening answer sheet."
+    }
+  ]
+}

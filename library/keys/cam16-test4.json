@@ -1,0 +1,146 @@
+{
+  "id": "cam16-test4",
+  "version": "1",
+  "answers": {
+    "1": [
+      "posts"
+    ],
+    "2": [
+      "canal"
+    ],
+    "3": [
+      "ventilation"
+    ],
+    "4": [
+      "lid"
+    ],
+    "5": [
+      "weight"
+    ],
+    "6": [
+      "climbing"
+    ],
+    "7": [
+      "FALSE"
+    ],
+    "8": [
+      "NOT GIVEN"
+    ],
+    "9": [
+      "FALSE"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "gold"
+    ],
+    "12": [
+      "architect",
+      "architect’s",
+      "architect's",
+      "architect name",
+      "architect’s name",
+      "architect's name",
+      "the architect",
+      "the architect’s",
+      "the architect's"
+    ],
+    "13": [
+      "harbour",
+      "harbor",
+      "the harbour",
+      "the harbor"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "D"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "H"
+    ],
+    "20": [
+      "F"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "YES"
+    ],
+    "24": [
+      "NO"
+    ],
+    "25": [
+      "NOT GIVEN"
+    ],
+    "26": [
+      "YES"
+    ],
+    "27": [
+      "iii"
+    ],
+    "28": [
+      "vi"
+    ],
+    "29": [
+      "ii"
+    ],
+    "30": [
+      "i"
+    ],
+    "31": [
+      "vii"
+    ],
+    "32": [
+      "v"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "NO"
+    ],
+    "37": [
+      "NOT GIVEN"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NO"
+    ],
+    "40": [
+      "YES"
+    ]
+  },
+  "multi": [],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+    "sha256": "9a2412dfbae5d15711bec7a3272edc7fd6ca0d4e0a72596a0daef7543281dc14",
+    "pdfPage": 129,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": true
+  }
+}

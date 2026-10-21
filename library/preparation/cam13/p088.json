@@ -1,0 +1,111 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 88,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\nREADING PASSAGE 3\nYou should spend about 20 minutes on Questions 27—40, which are based on Reading\nPassage 3 below.\nBook Review\nFB.com/LouisQuang Vo\nThe Happiness Industry: How the Government and Big Business\nSold Us Well-Being\nBy William Davies\n‘Happiness is the ultimate goal because it is self-evidently good. If we are asked why\nhappiness matters we can give no further external reason. It just obviously does matter.’ This\npronouncement by Richard Layard, an economist and advocate of ‘positive psychology’,\nsummarises the beliefs of many people today. For Layard and others like him, it is obvious that\nthe purpose of government is to promote a state of collective well-being. The only question is\nhow to achieve it, and here positive psychology — a supposed science that not only identifies\nwhat makes people happy but also allows their happiness to be measured — can show the way.\nEquipped with this science, they say, governments can secure happiness in society in a way they\nnever could in the past.\nIt is an astonishingly crude and simple-minded way of thinking, and for that very reason\nincreasingly popular. Those who think in this way are oblivious to the vast philosophical\nliterature in which the meaning and value of happiness have been explored and questioned,\nand write as if nothing of any importance had been thought on the subject until it came to their\nattention. It was the philosopher Jeremy Bentham (1748-1832) who was more than anyone else\nresponsible for the development of this way of thinking. For Bentham it was obvious that the\nhuman good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may\nhave identified happiness with self-realisation in the 4th century BC, and thinkers throughout the\nages may have struggled to reconcile the pursuit of happiness with other human values, but for\nBentham all this was mere metaphysics or fiction. Without knowing anything much of him or the\nschool of moral theory he established — since they are by education and intellectual conviction\nilliterate in the history of ideas — our advocates of positive psychology follow in his tracks in\nrejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human\nhappiness to date.\nBut as William Davies notes in his recent book The Happiness Industry, the view that happiness\nis the only self-evident good is actually a way of limiting moral inquiry. One of the virtues of\nthis rich, lucid and arresting book is that it places the current cult of happiness in a well-defined\nhistorical framework. Rightly, Davies begins his story with Bentham, noting that he was far\nmore than a philosopher. Davies writes, ‘Bentham’s activities were those which we might now\nassociate with a public sector management consultant’, In the 1790s, he wrote to the Home Office\nsuggesting that the departments of government be linked together through a set of ‘conversation\ntubes’, and to the Bank of England with a design for a printing device that could produce\n",
+  "blocks": [
+    {
+      "box": [
+        477.3599853515625,
+        54.3599853515625,
+        523.3248291015625,
+        65.89152526855469
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        43.91998291015625,
+        93.96002197265625,
+        220.66197204589844,
+        106.57260131835938
+      ],
+      "text": "READING PASSAGE 3\n"
+    },
+    {
+      "box": [
+        43.91998291015625,
+        124.20001220703125,
+        519.1019287109375,
+        151.57188415527344
+      ],
+      "text": "You should spend about 20 minutes on Questions 27—40, which are based on Reading\nPassage 3 below.\n"
+    },
+    {
+      "box": [
+        234.3599853515625,
+        171.3599853515625,
+        446.9472351074219,
+        188.65728759765625
+      ],
+      "text": "Book Review\nFB.com/LouisQuang Vo\n"
+    },
+    {
+      "box": [
+        110.51998901367188,
+        203.4000244140625,
+        461.08795166015625,
+        216.01260375976562
+      ],
+      "text": "The Happiness Industry: How the Government and Big Business\n"
+    },
+    {
+      "box": [
+        234.36000061035156,
+        218.15997314453125,
+        338.9759521484375,
+        229.69151306152344
+      ],
+      "text": "Sold Us Well-Being\n"
+    },
+    {
+      "box": [
+        237.9600067138672,
+        246.96002197265625,
+        335.8438720703125,
+        259.5726013183594
+      ],
+      "text": "By William Davies\n"
+    },
+    {
+      "box": [
+        44.639984130859375,
+        276.84002685546875,
+        522.64794921875,
+        409.6918640136719
+      ],
+      "text": "‘Happiness is the ultimate goal because it is self-evidently good. If we are asked why\nhappiness matters we can give no further external reason. It just obviously does matter.’ This\npronouncement by Richard Layard, an economist and advocate of ‘positive psychology’,\nsummarises the beliefs of many people today. For Layard and others like him, it is obvious that\nthe purpose of government is to promote a state of collective well-being. The only question is\nhow to achieve it, and here positive psychology — a supposed science that not only identifies\nwhat makes people happy but also allows their happiness to be measured — can show the way.\nEquipped with this science, they say, governments can secure happiness in society in a way they\nnever could in the past.\n"
+    },
+    {
+      "box": [
+        45.719970703125,
+        425.8800048828125,
+        528.6923217773438,
+        560.8955078125
+      ],
+      "text": "It is an astonishingly crude and simple-minded way of thinking, and for that very reason\nincreasingly popular. Those who think in this way are oblivious to the vast philosophical\nliterature in which the meaning and value of happiness have been explored and questioned,\nand write as if nothing of any importance had been thought on the subject until it came to their\nattention. It was the philosopher Jeremy Bentham (1748-1832) who was more than anyone else\nresponsible for the development of this way of thinking. For Bentham it was obvious that the\nhuman good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may\nhave identified happiness with self-realisation in the 4th century BC, and thinkers throughout the\nages may have struggled to reconcile the pursuit of happiness with other human values, but for\n"
+    },
+    {
+      "box": [
+        48.2398681640625,
+        560.52001953125,
+        530.4959106445312,
+        636.8522338867188
+      ],
+      "text": "Bentham all this was mere metaphysics or fiction. Without knowing anything much of him or the\nschool of moral theory he established — since they are by education and intellectual conviction\nilliterate in the history of ideas — our advocates of positive psychology follow in his tracks in\nrejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human\nhappiness to date.\n"
+    },
+    {
+      "box": [
+        49.31988525390625,
+        649.7999877929688,
+        536.983154296875,
+        774.7372436523438
+      ],
+      "text": "But as William Davies notes in his recent book The Happiness Industry, the view that happiness\nis the only self-evident good is actually a way of limiting moral inquiry. One of the virtues of\nthis rich, lucid and arresting book is that it places the current cult of happiness in a well-defined\nhistorical framework. Rightly, Davies begins his story with Bentham, noting that he was far\nmore than a philosopher. Davies writes, ‘Bentham’s activities were those which we might now\nassociate with a public sector management consultant’, In the 1790s, he wrote to the Home Office\nsuggesting that the departments of government be linked together through a set of ‘conversation\ntubes’, and to the Bank of England with a design for a printing device that could produce\n"
+    }
+  ]
+}

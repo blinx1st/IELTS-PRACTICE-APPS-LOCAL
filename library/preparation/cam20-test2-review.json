@@ -1,0 +1,55 @@
+{
+  "testId": "cam20-test2",
+  "reportFile": "cam20-test2-review.json",
+  "status": "verified",
+  "beforeContentSha256": "bc0eea51e51aa7f445642f7ca74d60320b2ae4c64252b5b88dbe8d9117cd84a4",
+  "reviewDate": "2026-10-21",
+  "method": "Visual review of all 15 source PDF pages 29–43; compare normalized passages, question statements/options, instructions, limits. Alternate source images 144-page PDF28/29/33/37/38 inspected.",
+  "coverage": {
+    "passages": 3,
+    "questions": 40,
+    "questionGroups": 9,
+    "multiGroups": 2,
+    "wordLimits": [
+      {
+        "questions": "1-6",
+        "wordLimit": 1,
+        "allowNumber": true
+      },
+      {
+        "questions": "17-22",
+        "wordLimit": 1,
+        "allowNumber": false
+      }
+    ]
+  },
+  "corrections": [
+    "Removed printed pagination artifact 44/130, joined seafloor.Manatees spacing and removed stray full stop after 140,000 using alternate source28/29.",
+    "Assigned source paragraph labels A-F in Procrastination.",
+    "Restored missing question11 and separated questions31/32 after extraction swallowed numbers with no following space.",
+    "Restored full A-H phrase option list for questions33-37.",
+    "Separated A human paragraph5 from merged paragraph4; this restores source-author paragraph structure and Q38 reference.",
+    "Restored missing clause in ProcrastinationD from external excerpt (14 inserted words), corroborated by the original author publication at Durham University.",
+    "Added missing of before summary blank22 as grammatical restoration; removed misplaced comma adjacent to blank.",
+    "Normalized multi prompt/body so checkbox options appear once; corrected It vs lt in question38 optionA."
+  ],
+  "externalCorrections": [
+    {
+      "location": "Procrastination paragraphD",
+      "source": "https://ieltszone.org/practice-tests/reading-test/procrastination/",
+      "corroboration": "https://dur.ac.uk/research/current/thought-leadership/procrastinating-is-linked-to-health-and-career-problems--but-there-are-things-you-can-do-to-stop/",
+      "insertedWords": 13
+    },
+    {
+      "location": "Robot Umpires paragraph boundary before A human",
+      "source": "https://www.newyorker.com/magazine/2021/08/30/invasion-of-the-robot-umpires",
+      "operation": "paragraph boundary only; no new text copied"
+    }
+  ],
+  "sourceLimitations": [
+    "Supplied PDFs are retyped; fidelity review includes documented editorial repairs to omissions, not publisher certification. Source images retain original retyping defects."
+  ],
+  "unresolvedContentIssues": [],
+  "contentSha256": "6c4085b2b28671a0910c25aaa28682761c8ba467ca15a117c261f4e035d29e40",
+  "encodingCheck": "UTF-8 JSON round-trip; replacement-mark and mojibake checks passed"
+}

@@ -1,0 +1,156 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 80,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Test 4\nQuestions 25-30\nWho is going to do research into each topic?\nWrite the correct letter, A, B or C, next to Questions 25-30.\nPeople\nA\nAnnie\nB\nJack\nC\nboth Annie and Jack\nTopics\n25\nthe goods that are refrigerated\nvevcnsensannanns\n26\nthe effects on health\nseeenneerceeneee\n27\n=the impact on food producers\nseseuseeoeneeeet\n28 = the impact on cities\nseoeieeneeeecen\n29\nrefrigerated transport\nsesetseneeenenust\n30\ndomestic fridges\nseotmneeeeneenene\n78\n==> 1 _p. 125 |/B) p. 115\n",
+  "blocks": [
+    {
+      "box": [
+        80.97760755176844,
+        84.9365128098549,
+        112.6488496164601,
+        93.94302373644038
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        120.92656061064088,
+        177.94382605668952,
+        132.09463445249463
+      ],
+      "text": "Questions 25-30\n"
+    },
+    {
+      "box": [
+        79.89790611774487,
+        148.63889741724608,
+        313.6172413895179,
+        161.60827490885572
+      ],
+      "text": "Who is going to do research into each topic?\n"
+    },
+    {
+      "box": [
+        81.3375080297763,
+        175.9913337458434,
+        389.7289874493139,
+        188.2401927064283
+      ],
+      "text": "Write the correct letter, A, B or C, next to Questions 25-30.\n"
+    },
+    {
+      "box": [
+        294.3985910104293,
+        215.58038632670798,
+        332.05862623431517,
+        227.10871211188015
+      ],
+      "text": "People\n"
+    },
+    {
+      "box": [
+        245.8120264793682,
+        237.8942159631953,
+        301.86652592909235,
+        246.9007195675868
+      ],
+      "text": "A\nAnnie\n"
+    },
+    {
+      "box": [
+        246.53182743538392,
+        259.48824464366686,
+        296.4140102562526,
+        268.8550001913768
+      ],
+      "text": "B\nJack\n"
+    },
+    {
+      "box": [
+        246.89172791339178,
+        280.7223728461306,
+        378.7952531032724,
+        290.44940962593483
+      ],
+      "text": "C\nboth Annie and Jack\n"
+    },
+    {
+      "box": [
+        107.2503424463422,
+        326.0698330751209,
+        144.0681789198118,
+        337.2379069169747
+      ],
+      "text": "Topics\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        346.9440607995768,
+        359.5836906079466,
+        359.19291976016166
+      ],
+      "text": "25\nthe goods that are refrigerated\nvevcnsensannanns\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        368.89798995805626,
+        360.4187721858242,
+        378.6250267378605
+      ],
+      "text": "26\nthe effects on health\nseeenneerceeneee\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        390.85191911653567,
+        360.5195255748498,
+        402.7405261338022
+      ],
+      "text": "27\n=the impact on food producers\nseseuseeoeneeeet\n"
+    },
+    {
+      "box": [
+        82.05730898579202,
+        411.0063458849758,
+        360.26029061953994,
+        426.1372789696598
+      ],
+      "text": "28 = the impact on cities\nseoeieeneeeecen\n"
+    },
+    {
+      "box": [
+        82.05730898579202,
+        434.3998769554867,
+        360.70105740775125,
+        446.28848397275317
+      ],
+      "text": "29\nrefrigerated transport\nsesetseneeenenust\n"
+    },
+    {
+      "box": [
+        82.41720946379988,
+        455.9939056359583,
+        360.30372587416934,
+        467.52223142113047
+      ],
+      "text": "30\ndomestic fridges\nseotmneeeeneenene\n"
+    },
+    {
+      "box": [
+        84.21671185383919,
+        769.1073215027963,
+        250.6526703353084,
+        786.7600767682609
+      ],
+      "text": "78\n==> 1 _p. 125 |/B) p. 115\n"
+    }
+  ]
+}

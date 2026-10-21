@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/001757f60d198e0bd900892a4cc7916b06e34656ae8feeff89d493f3e1d5e948.mp3",
+    "sha256": "001757f60d198e0bd900892a4cc7916b06e34656ae8feeff89d493f3e1d5e948",
+    "duration": 429.401,
+    "start": 0,
+    "end": 429.401,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two students called Jane and Karen talking about books. First, you have some time to look at questions 21 to 25. Now listen carefully and answer questions 21 to 25. So Jane, you'll be off to Denmark soon to do your work placement. Yes, I'm really looking forward to it, and I've just started packing up all my books to put in storage. Well, I hope they don't get spoiled. It's okay. My grandfather works in a bookshop, and he told me how to pack them. Oh, that's helpful. He says you have to support the spine, otherwise the paper can come away from the cover. Yeah, that's obvious. He also told me to pack them flat in the box, not on their side. Again, because they can bend, and if you leave them like that for say, a year, it's quite hard to get them back to their normal shape. Well, it's pretty-"
+    },
+    {
+      "name": "ending",
+      "start": 364.401,
+      "end": 429.401,
+      "text": "And there's a storage area out the back as well. Oh, what does he keep there? Books he wants to throw away. He hardly ever throws anything away. He just leaves unwanted books by the front door for customers to take. Well, that's very nice. Yeah. And books people or institutions have requested, they all go at the far end. Oh. He thinks it's best to keep these out of the main shopping area as their box didn't you? Did you get your course books from him? Naturally. He stocks books for a lot of the colleges. He used to keep these books on the first floor. But now there's a new university in my hometown. He's moved them downstairs to attract the students. They're actually part of the coffee shop on low shelves all around it. Pretty central then. You'll have to take me there sometime. That is the end of part three. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

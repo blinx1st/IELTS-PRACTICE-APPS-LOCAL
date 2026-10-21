@@ -1,0 +1,120 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 81,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nQuestions 23 and 24\nChoose TWO letters, A-E.\nWrite the correct letters in boxes 23 and 24 on your answer sheet.\nWhich TWO of the following are stated about zoo staff in the text?\nA\nSome take part in television documentaries about animals.\nB_\nSome travel to overseas locations to join teams in zoos.\nC\nSome get experience with species in the wild before taking up Zoo jobs.\nD\nSome teach people who are involved with conservation projects.\nE\nSome specialise in caring for species which are under threat.\nQuestions 25 and 26\nChoose TWO letters, A-E.\nWrite the correct letters in boxes 25 and 26 on your answer sheet.\nWhich TWO of these beliefs about zoos does the writer mention in the text?\nA\nThey can help children overcome their fears of wild animals.\nB_\nThey can increase public awareness of environmental issues.\nC_\nThey can provide employment for a range of professional people.\nD_\nThey can generate income to support wildlife conservation projects.\nE\nThey can raise animals which can later be released into the wild.\n89\n",
+  "blocks": [
+    {
+      "box": [
+        500.2992248535156,
+        95.02088928222656,
+        541.2156372070312,
+        105.10889434814453
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        109.05801391601562,
+        130.65370178222656,
+        217.7560577392578,
+        140.74169921875
+      ],
+      "text": "Questions 23 and 24\n"
+    },
+    {
+      "box": [
+        109.05801391601562,
+        157.288330078125,
+        236.40042114257812,
+        167.01612854003906
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        109.4179458618164,
+        182.1233367919922,
+        428.8175354003906,
+        192.93194580078125
+      ],
+      "text": "Write the correct letters in boxes 23 and 24 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        108.33818817138672,
+        207.6781463623047,
+        428.4306335449219,
+        218.84703063964844
+      ],
+      "text": "Which TWO of the following are stated about zoo staff in the text?\n"
+    },
+    {
+      "box": [
+        132.4533233642578,
+        227.8341064453125,
+        504.8073425292969,
+        291.5528259277344
+      ],
+      "text": "A\nSome take part in television documentaries about animals.\nB_\nSome travel to overseas locations to join teams in zoos.\nC\nSome get experience with species in the wild before taking up Zoo jobs.\nD\nSome teach people who are involved with conservation projects.\nE\nSome specialise in caring for species which are under threat.\n"
+    },
+    {
+      "box": [
+        109.4179916381836,
+        331.8531494140625,
+        219.18150329589844,
+        341.9411926269531
+      ],
+      "text": "Questions 25 and 26\n"
+    },
+    {
+      "box": [
+        109.4179916381836,
+        358.12786865234375,
+        237.17787170410156,
+        368.2159118652344
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        109.77791595458984,
+        382.9628601074219,
+        429.1415710449219,
+        393.771484375
+      ],
+      "text": "Write the correct letters in boxes 25 and 26 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        108.69813537597656,
+        408.5177307128906,
+        476.8319396972656,
+        418.2454833984375
+      ],
+      "text": "Which TWO of these beliefs about zoos does the writer mention in the text?\n"
+    },
+    {
+      "box": [
+        133.17318725585938,
+        428.6736145019531,
+        484.78277587890625,
+        492.3926696777344
+      ],
+      "text": "A\nThey can help children overcome their fears of wild animals.\nB_\nThey can increase public awareness of environmental issues.\nC_\nThey can provide employment for a range of professional people.\nD_\nThey can generate income to support wildlife conservation projects.\nE\nThey can raise animals which can later be released into the wild.\n"
+    },
+    {
+      "box": [
+        529.453369140625,
+        731.7326049804688,
+        540.960205078125,
+        740.0192260742188
+      ],
+      "text": "89\n"
+    }
+  ]
+}

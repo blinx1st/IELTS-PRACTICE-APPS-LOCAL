@@ -1,0 +1,177 @@
+{
+  "book": 14,
+  "test": 2,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S3.mp3",
+  "sha256": "c21a6775fd56b4b4c28229f1f37404fe7b2fa54fd10abd7c85a37c8127ea1648",
+  "duration": 462.045,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      361.9306875,
+      461.9306875
+    ]
+  ],
+  "text": "Section 3 You will hear two environmental science students called Rosie and Martin discussing their presentation on an extinct animal called the woolly mammoth with their tutor. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. So Rosie and Martin, let's look at what you've got for your presentation on Wooly Mammoths. Okay, we've got a short outline here. Thanks. So, it's about a research project in North America. Yes, but we thought we needed something general about woolly mammoths in our introduction to establish that they were related to our modern elephant and they lived thousands of years ago in the last Ice Age. Maybe we could show a video clip of a cartoon about mammoths, but that would be a bit childish. Or we could have a diagram, it could be a timeline to show when they lived, with illustrations. Or we could just show a drawing of them walking in the ice. No. Let's... long? Yes, that would add a bit of variety. Then the section on further research carried out on the island, analysing the mud in the lake. I wonder if we've actually got too much information here. Should we cut some? I don't think so, but it's all a bit muddled at present. Yes, maybe it would be better if it followed a chronological pattern. I think so. The findings and possible explanation section is just about ready, but we need to practice it so we're sure it won't overrun. I think it should be okay, but yes, let's make sure. In the last section, relevance to the present day, you've got some good ideas, but this is where you need to move away from the ideas of others and give your own viewpoint. Okay, we'll think about that. Now, shall we show you something? That is the end of section 3. You now have half a minute to check your answers. Now, turn to section 4.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.12,
+      "text": "Section 3 You will hear two environmental science students called Rosie and Martin discussing"
+    },
+    {
+      "start": 12.12,
+      "end": 18.28,
+      "text": "their presentation on an extinct animal called the woolly mammoth with their tutor."
+    },
+    {
+      "start": 18.28,
+      "end": 24.58,
+      "text": "First, you have some time to look at questions 21 to 24."
+    },
+    {
+      "start": 48.28,
+      "end": 63.52,
+      "text": "Now listen carefully and answer questions 21 to 24."
+    },
+    {
+      "start": 63.52,
+      "end": 69.08,
+      "text": "So Rosie and Martin, let's look at what you've got for your presentation on Wooly"
+    },
+    {
+      "start": 69.08,
+      "end": 70.08,
+      "text": "Mammoths."
+    },
+    {
+      "start": 70.08,
+      "end": 74.28,
+      "text": "Okay, we've got a short outline here."
+    },
+    {
+      "start": 74.28,
+      "end": 75.28,
+      "text": "Thanks."
+    },
+    {
+      "start": 75.28,
+      "end": 80.28,
+      "text": "So, it's about a research project in North America."
+    },
+    {
+      "start": 80.28,
+      "end": 86.28,
+      "text": "Yes, but we thought we needed something general about woolly mammoths in our introduction"
+    },
+    {
+      "start": 86.28,
+      "end": 90.28,
+      "text": "to establish that they were related to our modern elephant"
+    },
+    {
+      "start": 90.28,
+      "end": 95.28,
+      "text": "and they lived thousands of years ago in the last Ice Age."
+    },
+    {
+      "start": 95.28,
+      "end": 102.28,
+      "text": "Maybe we could show a video clip of a cartoon about mammoths, but that would be a bit childish."
+    },
+    {
+      "start": 102.28,
+      "end": 109.28,
+      "text": "Or we could have a diagram, it could be a timeline to show when they lived, with illustrations."
+    },
+    {
+      "start": 109.28,
+      "end": 113.28,
+      "text": "Or we could just show a drawing of them walking in the ice."
+    },
+    {
+      "start": 113.28,
+      "end": 114.28,
+      "text": "No."
+    },
+    {
+      "start": 114.28,
+      "end": 115.28,
+      "text": "Let's..."
+    },
+    {
+      "start": 361.93,
+      "end": 368.73,
+      "text": "long? Yes, that would add a bit of variety. Then the section on further research carried out on"
+    },
+    {
+      "start": 368.73,
+      "end": 375.37,
+      "text": "the island, analysing the mud in the lake. I wonder if we've actually got too much information"
+    },
+    {
+      "start": 375.37,
+      "end": 382.57,
+      "text": "here. Should we cut some? I don't think so, but it's all a bit muddled at present. Yes,"
+    },
+    {
+      "start": 383.21,
+      "end": 387.45,
+      "text": "maybe it would be better if it followed a chronological pattern. I think so."
+    },
+    {
+      "start": 387.45,
+      "end": 394.13,
+      "text": "The findings and possible explanation section is just about ready, but we need to practice"
+    },
+    {
+      "start": 394.13,
+      "end": 396.53,
+      "text": "it so we're sure it won't overrun."
+    },
+    {
+      "start": 396.53,
+      "end": 401.53,
+      "text": "I think it should be okay, but yes, let's make sure."
+    },
+    {
+      "start": 401.53,
+      "end": 407.65,
+      "text": "In the last section, relevance to the present day, you've got some good ideas, but this"
+    },
+    {
+      "start": 407.65,
+      "end": 412.57,
+      "text": "is where you need to move away from the ideas of others and give your own viewpoint."
+    },
+    {
+      "start": 412.57,
+      "end": 415.25,
+      "text": "Okay, we'll think about that."
+    },
+    {
+      "start": 415.25,
+      "end": 419.81,
+      "text": "Now, shall we show you something?"
+    },
+    {
+      "start": 419.81,
+      "end": 423.49,
+      "text": "That is the end of section 3."
+    },
+    {
+      "start": 423.49,
+      "end": 426.65,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 445.25,
+      "end": 459.25,
+      "text": "Now, turn to section 4."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

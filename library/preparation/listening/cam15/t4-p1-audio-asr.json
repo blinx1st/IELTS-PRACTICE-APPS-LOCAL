@@ -1,0 +1,172 @@
+{
+  "book": 15,
+  "test": 4,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio1.m4a",
+  "sha256": "1ddaea93cfcf0fbe6aaba07be0bed5adbf7a968bb931265a93e6442349ae04fe",
+  "duration": 474.667,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      374.6666875,
+      474.6666875
+    ]
+  ],
+  "text": "This is the IELTS Listening Test. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to the answer sheet. Now turn to Part 1. Part 1 You will hear a representative from a train company talking to a woman about her train journey. First, you have some time to look at questions 1 to 6. Now listen carefully and answer questions one to six. Hello. Do you mind if I ask you some questions about your journey today? We're doing a customer satisfaction survey. Yes, okay. I've got about ten minutes before my train home leaves. I'm on a day trip. Great. Thank you. So, first of all, could you tell me your name? It's so feeble. Can I ask your opinion about some of the other facilities? We'd like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied. Okay. What about the parking station? Well, to be honest, I don't really have an opinion as I never use it. So neither satisfied nor dissatisfied for that then. Yes, I suppose so. Okay, and what about this? That is the end of Part 1. You now have one minute to check your answers to Part 1. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "This is the IELTS Listening Test."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "You will hear a number of different recordings,"
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "and you will have to answer questions on what you hear."
+    },
+    {
+      "start": 13.0,
+      "end": 18.0,
+      "text": "There will be time for you to read the instructions and questions,"
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": "and you will have a chance to check your work."
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "The test is in four parts."
+    },
+    {
+      "start": 29.0,
+      "end": 37.0,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to the answer sheet."
+    },
+    {
+      "start": 37.0,
+      "end": 40.0,
+      "text": "Now turn to Part 1."
+    },
+    {
+      "start": 40.0,
+      "end": 46.0,
+      "text": "Part 1"
+    },
+    {
+      "start": 46.0,
+      "end": 54.0,
+      "text": "You will hear a representative from a train company talking to a woman about her train journey."
+    },
+    {
+      "start": 54.0,
+      "end": 58.84,
+      "text": "First, you have some time to look at questions 1 to 6."
+    },
+    {
+      "start": 84.0,
+      "end": 94.0,
+      "text": "Now listen carefully and answer questions one to six."
+    },
+    {
+      "start": 94.0,
+      "end": 101.0,
+      "text": "Hello. Do you mind if I ask you some questions about your journey today?"
+    },
+    {
+      "start": 101.0,
+      "end": 104.0,
+      "text": "We're doing a customer satisfaction survey."
+    },
+    {
+      "start": 104.0,
+      "end": 108.0,
+      "text": "Yes, okay. I've got about ten minutes before my train home leaves."
+    },
+    {
+      "start": 108.0,
+      "end": 111.0,
+      "text": "I'm on a day trip. Great. Thank you."
+    },
+    {
+      "start": 111.0,
+      "end": 113.8,
+      "text": "So, first of all, could you tell me your name?"
+    },
+    {
+      "start": 113.8,
+      "end": 115.4,
+      "text": "It's so feeble."
+    },
+    {
+      "start": 374.67,
+      "end": 379.47,
+      "text": "Can I ask your opinion about some of the other facilities?"
+    },
+    {
+      "start": 379.47,
+      "end": 386.67,
+      "text": "We'd like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied."
+    },
+    {
+      "start": 386.67,
+      "end": 387.67,
+      "text": "Okay."
+    },
+    {
+      "start": 387.67,
+      "end": 390.67,
+      "text": "What about the parking station?"
+    },
+    {
+      "start": 390.67,
+      "end": 395.67,
+      "text": "Well, to be honest, I don't really have an opinion as I never use it."
+    },
+    {
+      "start": 395.67,
+      "end": 399.67,
+      "text": "So neither satisfied nor dissatisfied for that then."
+    },
+    {
+      "start": 399.67,
+      "end": 401.67,
+      "text": "Yes, I suppose so."
+    },
+    {
+      "start": 401.67,
+      "end": 403.67,
+      "text": "Okay, and what about this?"
+    },
+    {
+      "start": 407.17,
+      "end": 409.67,
+      "text": "That is the end of Part 1."
+    },
+    {
+      "start": 410.67,
+      "end": 414.67,
+      "text": "You now have one minute to check your answers to Part 1."
+    },
+    {
+      "start": 431.67,
+      "end": 433.67,
+      "text": "You"
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

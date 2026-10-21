@@ -1,0 +1,136 @@
+{
+  "id": "cam17-test2",
+  "version": "1",
+  "answers": {
+    "1": [
+      "rock"
+    ],
+    "2": [
+      "cave"
+    ],
+    "3": [
+      "clay"
+    ],
+    "4": [
+      "Essenes"
+    ],
+    "5": [
+      "Hebrew"
+    ],
+    "6": [
+      "NOT GIVEN"
+    ],
+    "7": [
+      "FALSE"
+    ],
+    "8": [
+      "TRUE"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "TRUE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "D"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "flavour",
+      "flavor"
+    ],
+    "25": [
+      "size"
+    ],
+    "26": [
+      "salt"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "A"
+    ],
+    "32": [
+      "NO"
+    ],
+    "33": [
+      "NOT GIVEN"
+    ],
+    "34": [
+      "YES"
+    ],
+    "35": [
+      "NO"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "F"
+    ],
+    "38": [
+      "D"
+    ],
+    "39": [
+      "E"
+    ],
+    "40": [
+      "B"
+    ]
+  },
+  "multi": [],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+    "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+    "pdfPage": 115,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

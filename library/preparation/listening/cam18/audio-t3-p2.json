@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/e363b7e68a0fb4adb8791a9c7c5aa9921d984c207816cf91f279f6fe273ba839.mp3",
+    "sha256": "e363b7e68a0fb4adb8791a9c7c5aa9921d984c207816cf91f279f6fe273ba839",
+    "duration": 467.417,
+    "start": 0,
+    "end": 467.417,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear an expert on picking wild mushrooms called Dan, talking on the radio. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. This evening we're delighted to welcome Dan Beagle, who's just written a book on looking for and finding food in the wild. He's going to tell us everything we need to know about picking wild mushrooms. Thank you very much. Well, I need to start by talking about safety. You really need to know what you're doing because some mushrooms are extremely poisonous. Having said that, once you know what to look for, it's really worth doing for the amazing variety of mushrooms available, which you can't get in the shops. But of course, you have to be very careful, and that's why I always say you should never consume mushrooms picked by friends or neighbours. Always remember that some poisonous mushrooms look very similar to edible ones and it's easy."
+    },
+    {
+      "name": "ending",
+      "start": 402.417,
+      "end": 467.417,
+      "text": "They're great in so many dishes, stir fries, risottos, pasta, but just be aware that some people can react badly to certain varieties, so it's a good idea not to eat huge quantities to begin with. Okay, so now I'm going to show you a few examples of poisonous meat. That is the end of part 2. You now have 30 seconds to check your answers to part 2."
+    }
+  ]
+}

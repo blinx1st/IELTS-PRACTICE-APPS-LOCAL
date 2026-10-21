@@ -1,0 +1,201 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 86,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nWRITING\nWRITING TASK 1\nYou should spend about 20 minutes on this task.\nThe plans below showa public park when it first opened in 1920 and the same\npark today.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\nGRANGE PARK (1920)\nARNOLD AVENUE\n=\n“Entrance\nfo)\ngarden\ngarden\nPond for\n=\nie\nwater plants\nStage for\nz\n(7)\nmusicians\nFountain\n8a\nELDON STREET\nGRANGE PARK (today)\nARNOLD AVENUE\nEntrance\ngarden\nChildren’s\nBA\nplay area\nAmphitheatre\n[©]\nRose\n||P\nil\nforconcerts\n|®|\ngarden\n||®.\nn\nan\n“\naz\nEntrance\nWater feature\nELDON STREET\nEnttance\nunderground\ncar park\n94\n",
+  "blocks": [
+    {
+      "box": [
+        126.6944808959961,
+        91.78157806396484,
+        155.09814453125,
+        100.06815338134766
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        309.53765869140625,
+        127.77430725097656,
+        372.6758117675781,
+        137.8623046875
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        167.0063934326172,
+        245.8070831298828,
+        178.17527770996094
+      ],
+      "text": "WRITING TASK 1\n"
+    },
+    {
+      "box": [
+        124.89483642578125,
+        194.36082458496094,
+        360.4493103027344,
+        205.5297088623047
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        135.6926727294922,
+        226.75433349609375,
+        546.9674072265625,
+        252.31964111328125
+      ],
+      "text": "The plans below showa public park when it first opened in 1920 and the same\npark today.\n"
+    },
+    {
+      "box": [
+        135.6926727294922,
+        267.066162109375,
+        541.5110473632812,
+        291.552490234375
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        123.45513916015625,
+        313.496826171875,
+        243.19227600097656,
+        323.224609375
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        271.025390625,
+        336.1722717285156,
+        393.4331359863281,
+        348.061767578125
+      ],
+      "text": "GRANGE PARK (1920)\n"
+    },
+    {
+      "box": [
+        186.44244384765625,
+        352.00909423828125,
+        373.9214782714844,
+        377.2170104980469
+      ],
+      "text": "ARNOLD AVENUE\n=\n“Entrance\n"
+    },
+    {
+      "box": [
+        185.0027313232422,
+        373.9646911621094,
+        477.8252258300781,
+        405.2884216308594
+      ],
+      "text": "fo)\ngarden\ngarden\nPond for\n=\nie\nwater plants\n"
+    },
+    {
+      "box": [
+        224.23483276367188,
+        401.6790771484375,
+        478.5415954589844,
+        469.71258544921875
+      ],
+      "text": "Stage for\nz\n(7)\nmusicians\nFountain\n8a\n"
+    },
+    {
+      "box": [
+        293.3409118652344,
+        499.9393005371094,
+        369.1343078613281,
+        507.8656005859375
+      ],
+      "text": "ELDON STREET\n"
+    },
+    {
+      "box": [
+        266.7062683105469,
+        528.7334594726562,
+        394.1026916503906,
+        540.6229858398438
+      ],
+      "text": "GRANGE PARK (today)\n"
+    },
+    {
+      "box": [
+        288.3019104003906,
+        544.5703125,
+        371.94903564453125,
+        552.85693359375
+      ],
+      "text": "ARNOLD AVENUE\n"
+    },
+    {
+      "box": [
+        213.43699645996094,
+        561.8468017578125,
+        349.6768493652344,
+        576.9788818359375
+      ],
+      "text": "Entrance\ngarden\n"
+    },
+    {
+      "box": [
+        190.40164184570312,
+        577.32373046875,
+        470.2273864746094,
+        608.668701171875
+      ],
+      "text": "Children’s\nBA\n"
+    },
+    {
+      "box": [
+        429.75341796875,
+        587.4016723632812,
+        469.5469970703125,
+        596.7691040039062
+      ],
+      "text": "play area\n"
+    },
+    {
+      "box": [
+        201.5594024658203,
+        610.4370727539062,
+        365.9886474609375,
+        632.0446166992188
+      ],
+      "text": "Amphitheatre\n[©]\nRose\n||P\nil\nforconcerts\n|®|\ngarden\n||®.\n"
+    },
+    {
+      "box": [
+        190.04171752929688,
+        630.593017578125,
+        465.1163024902344,
+        685.3148803710938
+      ],
+      "text": "n\nan\n“\naz\nEntrance\nWater feature\n"
+    },
+    {
+      "box": [
+        291.5412902832031,
+        692.5005493164062,
+        475.4480285644531,
+        715.5455932617188
+      ],
+      "text": "ELDON STREET\nEnttance\nunderground\n"
+    },
+    {
+      "box": [
+        120.21577453613281,
+        715.8958129882812,
+        466.1060791015625,
+        736.7799072265625
+      ],
+      "text": "car park\n94\n"
+    }
+  ]
+}

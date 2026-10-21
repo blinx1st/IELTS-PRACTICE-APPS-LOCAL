@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/6adef56d3145a0d7d49d1c5e08a9e957104ddcef2a95d2a0bb2d0026a89ca2d6.mp3",
+    "sha256": "6adef56d3145a0d7d49d1c5e08a9e957104ddcef2a95d2a0bb2d0026a89ca2d6",
+    "duration": 405.159,
+    "start": 0,
+    "end": 405.159,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 4. This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to part 1. Part 1. You will hear a supervisor in a supermarket talking to a new worker on her first day. First, you have some time to look at questions 1 to 6. Now listen carefully and answer questions one to six. Hello Charlotte, I'm Caden, one of the supervisors. Welcome to the team. Hi, Aiden."
+    },
+    {
+      "name": "ending",
+      "start": 340.159,
+      "end": 405.159,
+      "text": "But you mustn't wash out knives. You have to do some training before you're allowed to touch sharp objects. What should I do if there are any? Ask someone to put them in a dishwasher. OK, thanks. I don't want to get anything wrong. Don't worry, you'll be fine. And I'll be around to help. Right. Finally, the meat and fish counters. You need to clean the area where staff serve customers, including wiping the weighing scales. OK. Anything else? Erm, the fish is laid on ice, but when that starts to melt, you'll need to get more from the cold room. I know the staff on the food counters wear a hat. Will that be the same for me? You won't be serving customers directly, so no. But make sure you put on thermal gloves when you take anything out of the cold room. The temperature's low enough in there to get frostbite from touching things. Understood. That is the end of Part 1. You now have one minute to check your answers to Part 1."
+    }
+  ]
+}

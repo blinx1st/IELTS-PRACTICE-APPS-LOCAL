@@ -1,0 +1,1168 @@
+{
+  "id": "cam18-listening-test2",
+  "skill": "listening",
+  "book": 18,
+  "test": 2,
+  "title": "Cambridge 18 · Listening Test 2",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam18-t2-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t2-p1-q1-5",
+          "type": "completion",
+          "heading": "Questions 1–5",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-034.webp",
+              "page": 34
+            },
+            {
+              "url": "/library-assets/l-cam18-source-035.webp",
+              "page": 35
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 34
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 35
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Working at Milo's Restaurants"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Benefits"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 1
+                  },
+                  " provided for all staff"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 2
+                  },
+                  " during weekdays at all Milo's Restaurants"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 3
+                  },
+                  " provided after midnight"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Person specification"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "must be prepared to work well in a team"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "must care about maintaining a high standard of ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "must have a qualification in ",
+                  {
+                    "number": 5
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam18-t2-p1-q6-10",
+          "type": "completion",
+          "heading": "Questions 6–10",
+          "instructions": "Complete the table below. Write ONE WORD AND/ORA NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-034.webp",
+              "page": 34
+            },
+            {
+              "url": "/library-assets/l-cam18-source-035.webp",
+              "page": 35
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 34
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 35
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "table",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Location"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Job title"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Responsibilities include"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Pay and conditions"
+                    ],
+                    "header": true
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      {
+                        "number": 6
+                      },
+                      " Street"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Breakfast supervisor"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Checking portions, etc. are correct\n\nMaking sure ",
+                      {
+                        "number": 7
+                      },
+                      " is clean"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Starting salary £ ",
+                      {
+                        "number": 8
+                      },
+                      " per hour\n\nStart work at 5.30 a.m."
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "City Road"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Junior chef"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Supporting senior chefs\n\nMaintaining stock and organising ",
+                      {
+                        "number": 9
+                      }
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Annual salary £23,000\n\nNo work on a ",
+                      {
+                        "number": 10
+                      },
+                      " once a month"
+                    ],
+                    "header": false
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-034.webp",
+          "page": 34
+        },
+        {
+          "url": "/library-assets/l-cam18-source-035.webp",
+          "page": 35
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 34
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 35
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/db4ddc60106225c83d8c8b102dae447b2f546a387b5406de5a8112ade461b262.mp3",
+        "sha256": "db4ddc60106225c83d8c8b102dae447b2f546a387b5406de5a8112ade461b262",
+        "duration": 468.801,
+        "start": 39.52,
+        "end": 468.801,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2-part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t2-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t2-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t2-p2-q11-12",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "What are the TWO main reasons why this site has been chosen for the housing development?",
+          "questions": [
+            {
+              "number": 11,
+              "text": ""
+            },
+            {
+              "number": 12,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-036.webp",
+              "page": 36
+            },
+            {
+              "url": "/library-assets/l-cam18-source-037.webp",
+              "page": 37
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 36
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 37
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "It has suitable geographical features"
+            },
+            {
+              "value": "B",
+              "label": "There is easy access to local facilities"
+            },
+            {
+              "value": "C",
+              "label": "It has good connections with the airport"
+            },
+            {
+              "value": "D",
+              "label": "The land is of little agricultural value"
+            },
+            {
+              "value": "E",
+              "label": "It will be convenient for workers"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t2-p2-q13-14",
+          "type": "multi",
+          "heading": "Questions 13–14",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO aspects of the planned housing development have people given positive feedback about?",
+          "questions": [
+            {
+              "number": 13,
+              "text": ""
+            },
+            {
+              "number": 14,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-036.webp",
+              "page": 36
+            },
+            {
+              "url": "/library-assets/l-cam18-source-037.webp",
+              "page": 37
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 36
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 37
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "the facilities for cyclists"
+            },
+            {
+              "value": "B",
+              "label": "the impact on the environment"
+            },
+            {
+              "value": "C",
+              "label": "the encouragement of good relations between residents"
+            },
+            {
+              "value": "D",
+              "label": "the low cost of all the accommodation"
+            },
+            {
+              "value": "E",
+              "label": "the rural location"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t2-p2-q15-20",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "Label the map below. Write the correct letter, A–I, next to Questions 15–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "School"
+            },
+            {
+              "number": 16,
+              "text": "Sports centre"
+            },
+            {
+              "number": 17,
+              "text": "Clinic"
+            },
+            {
+              "number": 18,
+              "text": "Community centre"
+            },
+            {
+              "number": 19,
+              "text": "Supermarket"
+            },
+            {
+              "number": 20,
+              "text": "Playground"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-036.webp",
+              "page": 36
+            },
+            {
+              "url": "/library-assets/l-cam18-source-037.webp",
+              "page": 37
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 36
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 37
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            },
+            {
+              "value": "I",
+              "label": "I"
+            }
+          ],
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam18-source-037.webp",
+              "page": 37
+            },
+            "labels": [
+              {
+                "number": 15,
+                "x": 0.35,
+                "y": 0.649,
+                "width": 0.15
+              },
+              {
+                "number": 16,
+                "x": 0.35,
+                "y": 0.68,
+                "width": 0.15
+              },
+              {
+                "number": 17,
+                "x": 0.35,
+                "y": 0.712,
+                "width": 0.15
+              },
+              {
+                "number": 18,
+                "x": 0.35,
+                "y": 0.744,
+                "width": 0.15
+              },
+              {
+                "number": 19,
+                "x": 0.35,
+                "y": 0.776,
+                "width": 0.15
+              },
+              {
+                "number": 20,
+                "x": 0.35,
+                "y": 0.807,
+                "width": 0.15
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-036.webp",
+          "page": 36
+        },
+        {
+          "url": "/library-assets/l-cam18-source-037.webp",
+          "page": 37
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 36
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 37
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/34d1cfe240f4e2a06888de1419b82c0a81757e4c52a9b2e2648cb20d6addf31b.mp3",
+        "sha256": "34d1cfe240f4e2a06888de1419b82c0a81757e4c52a9b2e2648cb20d6addf31b",
+        "duration": 437.219,
+        "start": 0,
+        "end": 437.219,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2-part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t2-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t2-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t2-p3-q21-24",
+          "type": "choice",
+          "heading": "Questions 21–24",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Why do the students think the Laki eruption of 1783 is so important?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It was the most severe eruption in modern times"
+                },
+                {
+                  "value": "B",
+                  "label": "It led to the formal study of volcanoes"
+                },
+                {
+                  "value": "C",
+                  "label": "It had a profound effect on society"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "What surprised Adam about observations made at the time?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the number of places producing them"
+                },
+                {
+                  "value": "B",
+                  "label": "the contradictions in them"
+                },
+                {
+                  "value": "C",
+                  "label": "the lack of scientific data to support them"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "According to Michelle, what did the contemporary sources say about the Laki haze?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "People thought it was similar to ordinary fog"
+                },
+                {
+                  "value": "B",
+                  "label": "It was associated with health issues"
+                },
+                {
+                  "value": "C",
+                  "label": "It completely blocked out the sun for weeks"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "Adam corrects Michelle when she claims that Benjamin Franklin",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "came to the wrong conclusion about the cause of the haze"
+                },
+                {
+                  "value": "B",
+                  "label": "was the first to identify the reason for the haze"
+                },
+                {
+                  "value": "C",
+                  "label": "supported the opinions of other observers about the haze"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-038.webp",
+              "page": 38
+            },
+            {
+              "url": "/library-assets/l-cam18-source-039.webp",
+              "page": 39
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 38
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 39
+            }
+          ]
+        },
+        {
+          "id": "l-cam18-t2-p3-q25-26",
+          "type": "multi",
+          "heading": "Questions 25–26",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO issues following the Laki eruption surprised the students?",
+          "questions": [
+            {
+              "number": 25,
+              "text": ""
+            },
+            {
+              "number": 26,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-038.webp",
+              "page": 38
+            },
+            {
+              "url": "/library-assets/l-cam18-source-039.webp",
+              "page": 39
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 38
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 39
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "how widespread the effects were"
+            },
+            {
+              "value": "B",
+              "label": "how long-lasting the effects were"
+            },
+            {
+              "value": "C",
+              "label": "the number of deaths it caused"
+            },
+            {
+              "value": "D",
+              "label": "the speed at which the volcanic ash cloud spread"
+            },
+            {
+              "value": "E",
+              "label": "how people ignored the warning signs"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t2-p3-q27-30",
+          "type": "matching",
+          "heading": "Questions 27–30",
+          "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30. Comments",
+          "body": "",
+          "questions": [
+            {
+              "number": 27,
+              "text": "Iceland"
+            },
+            {
+              "number": 28,
+              "text": "Egypt"
+            },
+            {
+              "number": 29,
+              "text": "UK"
+            },
+            {
+              "number": 30,
+              "text": "USA"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-038.webp",
+              "page": 38
+            },
+            {
+              "url": "/library-assets/l-cam18-source-039.webp",
+              "page": 39
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 38
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 39
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "This country suffered the most severe loss of life"
+            },
+            {
+              "value": "B",
+              "label": "The impact on agriculture was predictable"
+            },
+            {
+              "value": "C",
+              "label": "There was a significant increase in deaths of young people"
+            },
+            {
+              "value": "D",
+              "label": "Animals suffered from a sickness"
+            },
+            {
+              "value": "E",
+              "label": "This country saw the highest rise in food prices in the world"
+            },
+            {
+              "value": "F",
+              "label": "It caused a particularly harsh winter"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-038.webp",
+          "page": 38
+        },
+        {
+          "url": "/library-assets/l-cam18-source-039.webp",
+          "page": 39
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 38
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 39
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/04bddc6ca1a14877e8e1d4e108bf5e6cd1b835bc6d541c9512f258802fe0320e.mp3",
+        "sha256": "04bddc6ca1a14877e8e1d4e108bf5e6cd1b835bc6d541c9512f258802fe0320e",
+        "duration": 428.024,
+        "start": 0,
+        "end": 428.024,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2- part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t2-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t2-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t2-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t2-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-040.webp",
+              "page": 40
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 40
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Pockets"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Reason for choice of subject"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They are ",
+                  {
+                    "number": 31
+                  },
+                  " but can be overlooked by consumers and designers."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Pockets in men's clothes"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Men started to wear ",
+                  {
+                    "number": 32
+                  },
+                  " in the 18th century."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A ",
+                  {
+                    "number": 33
+                  },
+                  " sewed pockets into the lining of the garments."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The wearer could use the pockets for small items."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Bigger pockets might be made for men who belonged to a certain type of ",
+                  {
+                    "number": 34
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Pockets in women's clothes"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Women's pockets were less ",
+                  {
+                    "number": 35
+                  },
+                  " than men's."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Women were very concerned about pickpockets."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Pockets were produced in pairs using ",
+                  {
+                    "number": 36
+                  },
+                  " to link them together."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Pockets hung from the women's ",
+                  {
+                    "number": 37
+                  },
+                  " under skirts and petticoats."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Items such as ",
+                  {
+                    "number": 38
+                  },
+                  " could be reached through a gap in the material."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Pockets, of various sizes, stayed inside clothing for many decades."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "When dresses changed shape, hidden pockets had a negative effect on the ",
+                  {
+                    "number": 39
+                  },
+                  " of women."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Bags called ‘pouches’ became popular, before women carried a ",
+                  {
+                    "number": 40
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-040.webp",
+          "page": 40
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 40
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/9956aada224a2d1e3dd64bdf428aaf4f3da8abda2ac815949574ba571047b1df.mp3",
+        "sha256": "9956aada224a2d1e3dd64bdf428aaf4f3da8abda2ac815949574ba571047b1df",
+        "duration": 425.961,
+        "start": 0,
+        "end": 346.81,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 2\\CAMBRIDGE 18 section2- part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t2-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "id": "cam15-listening-test4",
+  "skill": "listening",
+  "book": 15,
+  "test": 4,
+  "title": "Cambridge 15 · Listening Test 4",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam15-listening-test4-p1",
+      "number": 1,
+      "title": "Customer Satisfaction Survey",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t4-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Occupation: …"
+            },
+            {
+              "number": 2,
+              "text": "Reason for travel today: …"
+            },
+            {
+              "number": 3,
+              "text": "Name of station returning to: …"
+            },
+            {
+              "number": 4,
+              "text": "Type of ticket purchased: Standard … ticket"
+            },
+            {
+              "number": 5,
+              "text": "Cost of ticket: £…"
+            },
+            {
+              "number": 6,
+              "text": "Where ticket was bought: …"
+            },
+            {
+              "number": 7,
+              "text": "Least satisfied with: the … this morning"
+            },
+            {
+              "number": 8,
+              "text": "Most satisfied with: how much … was provided"
+            },
+            {
+              "number": 9,
+              "text": "Least satisfied with: lack of seats, particularly on the …"
+            },
+            {
+              "number": 10,
+              "text": "Neither satisfied nor dissatisfied with: the … available"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-076.webp",
+              "page": 76
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Customer Satisfaction Survey"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Customer details"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Name: Sophie Bird"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Occupation: ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Reason for travel today: ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Journey information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Name of station returning to: ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Type of ticket purchased: Standard ",
+                  {
+                    "number": 4
+                  },
+                  " ticket"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cost of ticket: £",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "When ticket was purchased: yesterday"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Where ticket was bought: ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Satisfaction with journey"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Most satisfied with: the wifi"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Least satisfied with: the ",
+                  {
+                    "number": 7
+                  },
+                  " this morning"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Satisfaction with station facilities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Most satisfied with: how much ",
+                  {
+                    "number": 8
+                  },
+                  " was provided"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Least satisfied with: lack of seats, particularly on the ",
+                  {
+                    "number": 9
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Neither satisfied nor dissatisfied with: the ",
+                  {
+                    "number": 10
+                  },
+                  " available"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-076.webp",
+          "page": 76
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 76
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/1ddaea93cfcf0fbe6aaba07be0bed5adbf7a968bb931265a93e6442349ae04fe.m4a",
+        "sha256": "1ddaea93cfcf0fbe6aaba07be0bed5adbf7a968bb931265a93e6442349ae04fe",
+        "duration": 474.667,
+        "start": 46.0,
+        "end": 474.667,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio1.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t4-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t4-p2-g11",
+          "type": "matching",
+          "heading": "Questions 11–16",
+          "instructions": "Label the map/plan below. Write the correct letter, A–H, next to Questions 11–16.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "café"
+            },
+            {
+              "number": 12,
+              "text": "toilets"
+            },
+            {
+              "number": 13,
+              "text": "formal gardens"
+            },
+            {
+              "number": 14,
+              "text": "outdoor gym"
+            },
+            {
+              "number": 15,
+              "text": "skateboard ramp"
+            },
+            {
+              "number": 16,
+              "text": "wild flowers"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-077.webp",
+              "page": 77
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            }
+          ],
+          "renderMode": "source-map",
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam15-page-077.webp",
+              "page": 77
+            },
+            "labels": [
+              {
+                "number": 11,
+                "x": 0.349,
+                "y": 0.634,
+                "width": 0.1
+              },
+              {
+                "number": 12,
+                "x": 0.349,
+                "y": 0.6599,
+                "width": 0.1
+              },
+              {
+                "number": 13,
+                "x": 0.349,
+                "y": 0.6858,
+                "width": 0.1
+              },
+              {
+                "number": 14,
+                "x": 0.349,
+                "y": 0.7117,
+                "width": 0.1
+              },
+              {
+                "number": 15,
+                "x": 0.349,
+                "y": 0.7376,
+                "width": 0.1
+              },
+              {
+                "number": 16,
+                "x": 0.349,
+                "y": 0.7635,
+                "width": 0.1
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam15-t4-p2-g17",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "What does the speaker say about the adventure playground?",
+          "questions": [
+            {
+              "number": 17,
+              "text": "What does the speaker say about the adventure playground?"
+            },
+            {
+              "number": 18,
+              "text": "What does the speaker say about the adventure playground?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-078.webp",
+              "page": 78
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "Children must be supervised."
+            },
+            {
+              "value": "B",
+              "label": "It costs more in winter."
+            },
+            {
+              "value": "C",
+              "label": "Some activities are only for younger children."
+            },
+            {
+              "value": "D",
+              "label": "No payment is required."
+            },
+            {
+              "value": "E",
+              "label": "It was recently expanded."
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t4-p2-g19",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "What does the speaker say about the glass houses?",
+          "questions": [
+            {
+              "number": 19,
+              "text": "What does the speaker say about the glass houses?"
+            },
+            {
+              "number": 20,
+              "text": "What does the speaker say about the glass houses?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-078.webp",
+              "page": 78
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "They are closed at weekends."
+            },
+            {
+              "value": "B",
+              "label": "Volunteers are needed to work there."
+            },
+            {
+              "value": "C",
+              "label": "They were badly damaged by fire."
+            },
+            {
+              "value": "D",
+              "label": "More money is needed to repair some of the glass."
+            },
+            {
+              "value": "E",
+              "label": "Visitors can see palm trees from tropical regions."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-077.webp",
+          "page": 77
+        },
+        {
+          "url": "/library-assets/l-cam15-page-078.webp",
+          "page": 78
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 77
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 78
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/d7bcb0f88eef2b0c5f579eeca5f85744adbbd6b417a4e7b6d389889e0c697025.m4a",
+        "sha256": "d7bcb0f88eef2b0c5f579eeca5f85744adbbd6b417a4e7b6d389889e0c697025",
+        "duration": 381.184,
+        "start": 0,
+        "end": 381.184,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio2.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t4-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t4-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–24",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "What did Annie discover from reading about icehouses?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "why they were first created"
+                },
+                {
+                  "value": "B",
+                  "label": "how the ice was kept frozen"
+                },
+                {
+                  "value": "C",
+                  "label": "where they were located"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "What point does Annie make about refrigeration in ancient Rome?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It became a commercial business."
+                },
+                {
+                  "value": "B",
+                  "label": "It used snow from nearby."
+                },
+                {
+                  "value": "C",
+                  "label": "It took a long time to become popular."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "In connection with modern refrigerators, both Annie and Jack are worried about",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the complexity of the technology."
+                },
+                {
+                  "value": "B",
+                  "label": "the fact that some are disposed of irresponsibly."
+                },
+                {
+                  "value": "C",
+                  "label": "the large number that quickly break down."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What do Jack and Annie agree regarding domestic fridges?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "They are generally good value for money."
+                },
+                {
+                  "value": "B",
+                  "label": "There are plenty of useful variations."
+                },
+                {
+                  "value": "C",
+                  "label": "They are more useful than other domestic appliances. ‘"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-079.webp",
+              "page": 79
+            }
+          ]
+        },
+        {
+          "id": "l-cam15-t4-p3-g25",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "Who is going to do research into each topic? Write the correct letter, A, B or C, next to . People",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "the goods that are refrigerated"
+            },
+            {
+              "number": 26,
+              "text": "the effects on health"
+            },
+            {
+              "number": 27,
+              "text": "the impact on food producers"
+            },
+            {
+              "number": 28,
+              "text": "the impact on cities"
+            },
+            {
+              "number": 29,
+              "text": "refrigerated transport"
+            },
+            {
+              "number": 30,
+              "text": "domestic fridges"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-080.webp",
+              "page": 80
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Annie"
+            },
+            {
+              "value": "B",
+              "label": "Jack"
+            },
+            {
+              "value": "C",
+              "label": "both Annie and Jack"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-079.webp",
+          "page": 79
+        },
+        {
+          "url": "/library-assets/l-cam15-page-080.webp",
+          "page": 80
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 79
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 80
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/44ce12fd0e77d23a09fa5e0dec3a01b4020c025d61c90e469fed063f48d25303.m4a",
+        "sha256": "44ce12fd0e77d23a09fa5e0dec3a01b4020c025d61c90e469fed063f48d25303",
+        "duration": 418.859,
+        "start": 0,
+        "end": 418.859,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio3.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t4-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam15-listening-test4-p4",
+      "number": 4,
+      "title": "How the Industrial Revolution affected life in Britain",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam15-t4-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "For the first time, people’s possessions were used to measure Britain’s …."
+            },
+            {
+              "number": 32,
+              "text": "Developments in production of goods and in … greatly changed lives."
+            },
+            {
+              "number": 33,
+              "text": "The Industrial Revolution would not have happened without the new types of … that were used then."
+            },
+            {
+              "number": 34,
+              "text": "The leading industry was … (its products became widely available)."
+            },
+            {
+              "number": 35,
+              "text": "New … made factories necessary and so more people moved into towns."
+            },
+            {
+              "number": 36,
+              "text": "– greater access to … made people more aware of what they could buy in shops."
+            },
+            {
+              "number": 37,
+              "text": "– when shopping, people were not limited to buying … goods."
+            },
+            {
+              "number": 38,
+              "text": "– inside stores because of better …."
+            },
+            {
+              "number": 39,
+              "text": "– outside stores, because … were bigger."
+            },
+            {
+              "number": 40,
+              "text": "… that was persuasive became much more common."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam15-page-081.webp",
+              "page": 81
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "How the Industrial Revolution affected life in Britain"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "19th century"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "For the first time, people’s possessions were used to measure Britain’s ",
+                  {
+                    "number": 31
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Developments in production of goods and in ",
+                  {
+                    "number": 32
+                  },
+                  " greatly changed lives."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "MAIN AREAS OF CHANGE"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Manufacturing"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The Industrial Revolution would not have happened without the new types of ",
+                  {
+                    "number": 33
+                  },
+                  " that were used then."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The leading industry was ",
+                  {
+                    "number": 34
+                  },
+                  " (its products became widely available)."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "New ",
+                  {
+                    "number": 35
+                  },
+                  " made factories necessary and so more people moved into towns."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Transport"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The railways took the place of canals."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Because of the new transport:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– greater access to ",
+                  {
+                    "number": 36
+                  },
+                  " made people more aware of what they could buy in shops."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– when shopping, people were not limited to buying ",
+                  {
+                    "number": 37
+                  },
+                  " goods."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Retailing"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The first department stores were opened."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The displays of goods were more visible:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– inside stores because of better ",
+                  {
+                    "number": 38
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– outside stores, because ",
+                  {
+                    "number": 39
+                  },
+                  " were bigger."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 40
+                  },
+                  " that was persuasive became much more common."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam15-page-081.webp",
+          "page": 81
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+          "page": 81
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/26b9c8b6c0e1ec7b25f3baf532e59b463e9aa455a5516c4d945153c295c1f2f5.m4a",
+        "sha256": "26b9c8b6c0e1ec7b25f3baf532e59b463e9aa455a5516c4d945153c295c1f2f5",
+        "duration": 467.797,
+        "start": 0,
+        "end": 390.74,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test4_audio4.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam15/t4-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam15/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

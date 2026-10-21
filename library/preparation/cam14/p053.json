@@ -1,0 +1,156 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 53,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nQuestions 1-3\nReading Passage 1 has ten sections, A—J.\nWhich section contains the following information?\nWrite the correct letter, A-J, in boxes 1-3 on your answer sheet.\n1\ninformation about how non-scientists’ assumptions about intelligence influence their\nbehaviour towards others\n2\nareference to lack of clarity over the definition of intelligence\n3.\nthe point that a researcher’s implicit and explicit theories may be very different\nQuestions 4-6\nDo the following statements agree with the claims ofthe writer in Reading Passage 1?\nIn boxes 4-6 on your answer sheet, write\nYES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n4\nSlow language development in children is likely to prove disappointing to their\nparents.\n5\nPeople’s expectations of what children should gain from education are universal.\n6\nScholars may discuss theories without fully understanding each other.\n61\n",
+  "blocks": [
+    {
+      "box": [
+        499.9393005371094,
+        95.02088928222656,
+        540.8556518554688,
+        105.10889434814453
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        109.05801391601562,
+        130.29371643066406,
+        184.63560485839844,
+        140.38177490234375
+      ],
+      "text": "Questions 1-3\n"
+    },
+    {
+      "box": [
+        108.69808959960938,
+        156.56846618652344,
+        314.9364929199219,
+        167.7373504638672
+      ],
+      "text": "Reading Passage 1 has ten sections, A—J.\n"
+    },
+    {
+      "box": [
+        108.33817291259766,
+        182.48324584960938,
+        347.798095703125,
+        192.93157958984375
+      ],
+      "text": "Which section contains the following information?\n"
+    },
+    {
+      "box": [
+        109.41796112060547,
+        207.67820739746094,
+        421.5469970703125,
+        218.48681640625
+      ],
+      "text": "Write the correct letter, A-J, in boxes 1-3 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        109.05804443359375,
+        232.8730926513672,
+        539.774169921875,
+        255.91708374023438
+      ],
+      "text": "1\ninformation about how non-scientists’ assumptions about intelligence influence their\nbehaviour towards others\n"
+    },
+    {
+      "box": [
+        108.69808959960938,
+        272.46514892578125,
+        427.4715576171875,
+        283.63409423828125
+      ],
+      "text": "2\nareference to lack of clarity over the definition of intelligence\n"
+    },
+    {
+      "box": [
+        108.69810485839844,
+        297.30010986328125,
+        512.6826171875,
+        309.1896057128906
+      ],
+      "text": "3.\nthe point that a researcher’s implicit and explicit theories may be very different\n"
+    },
+    {
+      "box": [
+        109.41796112060547,
+        349.8495178222656,
+        185.67401123046875,
+        359.5772705078125
+      ],
+      "text": "Questions 4-6\n"
+    },
+    {
+      "box": [
+        109.05802917480469,
+        373.24481201171875,
+        528.7335205078125,
+        388.0166015625
+      ],
+      "text": "Do the following statements agree with the claims ofthe writer in Reading Passage 1?\n"
+    },
+    {
+      "box": [
+        109.05804443359375,
+        401.6790771484375,
+        308.9077453613281,
+        412.48773193359375
+      ],
+      "text": "In boxes 4-6 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        145.7706298828125,
+        426.8740234375,
+        487.2410583496094,
+        463.95806884765625
+      ],
+      "text": "YES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n"
+    },
+    {
+      "box": [
+        108.69810485839844,
+        485.1822814941406,
+        511.2769775390625,
+        510.02734375
+      ],
+      "text": "4\nSlow language development in children is likely to prove disappointing to their\nparents.\n"
+    },
+    {
+      "box": [
+        109.05802917480469,
+        518.2955932617188,
+        523.8385009765625,
+        530.1851196289062
+      ],
+      "text": "5\nPeople’s expectations of what children should gain from education are universal.\n"
+    },
+    {
+      "box": [
+        109.05804443359375,
+        538.8114624023438,
+        472.21051025390625,
+        550.3406982421875
+      ],
+      "text": "6\nScholars may discuss theories without fully understanding each other.\n"
+    },
+    {
+      "box": [
+        529.093505859375,
+        731.7326049804688,
+        539.1102294921875,
+        740.0192260742188
+      ],
+      "text": "61\n"
+    }
+  ]
+}

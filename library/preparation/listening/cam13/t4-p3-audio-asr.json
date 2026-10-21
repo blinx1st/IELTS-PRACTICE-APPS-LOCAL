@@ -1,0 +1,167 @@
+{
+  "book": 13,
+  "test": 4,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_07.mp3",
+  "sha256": "aca2f33da1bf81fa94b0726d0f578a05410c82dd8ac0322494dee68116591b3f",
+  "duration": 450.198,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      350.8735,
+      450.8735
+    ]
+  ],
+  "text": "You will hear two students called Jack and Alice discussing food labels that give information on the nutritional value of foods. First, you have some time to look at questions 21 to 26. You Now listen carefully and answer questions 21 to 26. I still got loads to do for our report on nutritional food labels. Me too. What did you learn from doing the project about your own shopping habits? Well, I've always had to check labels for traces of peanuts and everything I eat because of my allergy. But beyond that, I've never really been concerned enough to check how healthy a product is. This project has actually taught me to read the labels much more carefully. I tended to believe claims on packaging, like low in fat. But I now realize that the healthy yoghurt I've bought for years is full of sugar and that it's actually quite high. Yeah, maybe. The participants in the survey were quite positive about the traffic light system. Hmm. But I don't think they targeted the right people. They should have focused on people with low literacy levels because these labels are designed to be accessible to them. Yeah. But it's good to get feedback from all socio-economic groups. And there wasn't much variation in their responses. No. But if they hadn't interviewed participants face-to-face, they could have used a much bigger sample size. I wonder why they chose that method. Do you know? How were they selected? Did they volunteer or were they approached? I think they volunteered. The thing that wasn't stated was how often they bought packaged food. All we know is how frequently they use the supermarket. That is the end of section 3. You now have half a minute to check your answers. Now turn to section 4.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "You will hear two students called Jack and Alice discussing food labels that give information on the nutritional value of foods."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "First, you have some time to look at questions 21 to 26."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 71.76,
+      "text": "Now listen carefully and answer questions 21 to 26."
+    },
+    {
+      "start": 71.76,
+      "end": 76.8,
+      "text": "I still got loads to do for our report on nutritional food labels."
+    },
+    {
+      "start": 76.8,
+      "end": 83.2,
+      "text": "Me too. What did you learn from doing the project about your own shopping habits?"
+    },
+    {
+      "start": 83.2,
+      "end": 88.44,
+      "text": "Well, I've always had to check labels for traces of peanuts and everything I eat because"
+    },
+    {
+      "start": 88.44,
+      "end": 90.22,
+      "text": "of my allergy."
+    },
+    {
+      "start": 90.22,
+      "end": 96.68,
+      "text": "But beyond that, I've never really been concerned enough to check how healthy a product is."
+    },
+    {
+      "start": 96.68,
+      "end": 101.64,
+      "text": "This project has actually taught me to read the labels much more carefully."
+    },
+    {
+      "start": 101.64,
+      "end": 106.96,
+      "text": "I tended to believe claims on packaging, like low in fat."
+    },
+    {
+      "start": 106.96,
+      "end": 113.56,
+      "text": "But I now realize that the healthy yoghurt I've bought for years is full of sugar and that"
+    },
+    {
+      "start": 113.56,
+      "end": 114.96,
+      "text": "it's actually quite high."
+    },
+    {
+      "start": 350.87,
+      "end": 352.51,
+      "text": "Yeah, maybe."
+    },
+    {
+      "start": 352.51,
+      "end": 357.11,
+      "text": "The participants in the survey were quite positive about the traffic light system."
+    },
+    {
+      "start": 357.11,
+      "end": 358.47,
+      "text": "Hmm."
+    },
+    {
+      "start": 358.47,
+      "end": 361.99,
+      "text": "But I don't think they targeted the right people."
+    },
+    {
+      "start": 361.99,
+      "end": 365.59,
+      "text": "They should have focused on people with low literacy levels"
+    },
+    {
+      "start": 365.59,
+      "end": 368.79,
+      "text": "because these labels are designed to be accessible to them."
+    },
+    {
+      "start": 368.79,
+      "end": 369.99,
+      "text": "Yeah."
+    },
+    {
+      "start": 369.99,
+      "end": 373.75,
+      "text": "But it's good to get feedback from all socio-economic groups."
+    },
+    {
+      "start": 373.75,
+      "end": 376.95,
+      "text": "And there wasn't much variation in their responses."
+    },
+    {
+      "start": 376.95,
+      "end": 383.91,
+      "text": "No. But if they hadn't interviewed participants face-to-face, they could have used a much bigger sample"
+    },
+    {
+      "start": 383.91,
+      "end": 391.51,
+      "text": "size. I wonder why they chose that method. Do you know? How were they selected? Did they volunteer"
+    },
+    {
+      "start": 391.51,
+      "end": 398.07,
+      "text": "or were they approached? I think they volunteered. The thing that wasn't stated was how often"
+    },
+    {
+      "start": 398.07,
+      "end": 403.11,
+      "text": "they bought packaged food. All we know is how frequently they use the supermarket."
+    },
+    {
+      "start": 403.11,
+      "end": 410.11,
+      "text": "That is the end of section 3."
+    },
+    {
+      "start": 410.11,
+      "end": 413.11,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 433.11,
+      "end": 445.75,
+      "text": "Now turn to section 4."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "cam13-listening-test4",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "Finance"
+    ],
+    "2": [
+      "Maths",
+      "Math",
+      "Mathematics"
+    ],
+    "3": [
+      "business"
+    ],
+    "4": [
+      "17",
+      "seventeen"
+    ],
+    "5": [
+      "holiday",
+      "holidays",
+      "vacation",
+      "vacations"
+    ],
+    "6": [
+      "college"
+    ],
+    "7": [
+      "location"
+    ],
+    "8": [
+      "jeans"
+    ],
+    "9": [
+      "late"
+    ],
+    "10": [
+      "smile"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "E"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "D"
+    ],
+    "30": [
+      "E"
+    ],
+    "31": [
+      "destruction"
+    ],
+    "32": [
+      "universities",
+      "university"
+    ],
+    "33": [
+      "political"
+    ],
+    "34": [
+      "port",
+      "ports"
+    ],
+    "35": [
+      "slaves",
+      "slavery"
+    ],
+    "36": [
+      "taxation"
+    ],
+    "37": [
+      "sugar"
+    ],
+    "38": [
+      "tea"
+    ],
+    "39": [
+      "transportation"
+    ],
+    "40": [
+      "night"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        27,
+        28
+      ],
+      "answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        29,
+        30
+      ],
+      "answers": [
+        "D",
+        "E"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+    "pdfPage": 122,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

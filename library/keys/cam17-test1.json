@@ -1,0 +1,156 @@
+{
+  "id": "cam17-test1",
+  "version": "1",
+  "answers": {
+    "1": [
+      "population"
+    ],
+    "2": [
+      "suburbs"
+    ],
+    "3": [
+      "businessmen"
+    ],
+    "4": [
+      "funding"
+    ],
+    "5": [
+      "press"
+    ],
+    "6": [
+      "soil"
+    ],
+    "7": [
+      "FALSE"
+    ],
+    "8": [
+      "NOT GIVEN"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "fortress"
+    ],
+    "19": [
+      "bullfights"
+    ],
+    "20": [
+      "opera"
+    ],
+    "21": [
+      "salt"
+    ],
+    "22": [
+      "shops"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "D"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "E"
+    ],
+    "27": [
+      "H"
+    ],
+    "28": [
+      "J"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "NOT GIVEN"
+    ],
+    "33": [
+      "NO"
+    ],
+    "34": [
+      "NO"
+    ],
+    "35": [
+      "YES"
+    ],
+    "36": [
+      "B"
+    ],
+    "37": [
+      "C"
+    ],
+    "38": [
+      "A"
+    ],
+    "39": [
+      "B"
+    ],
+    "40": [
+      "D"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        23,
+        24
+      ],
+      "answers": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        25,
+        26
+      ],
+      "answers": [
+        "B",
+        "E"
+      ]
+    }
+  ],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+    "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+    "pdfPage": 113,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

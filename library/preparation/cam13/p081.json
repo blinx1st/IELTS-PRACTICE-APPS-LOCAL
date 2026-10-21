@@ -1,0 +1,129 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 81,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 4\nREADING\nFB.com/LouisQuangVo\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\nCutty Sark: the fastest sailing ship of all time\nThe nineteenth century was a period of great technological development in Britain, and for\nshipping the major changes were from wind to steam power, and from wood to iron and steel.\nThe fastest commercial sailing vessels of all time were clippers, three-masted ships built to\ntransport goods around the world, although some also took passengers. From the 1840s until\n1869, when the Suez Canal opened and steam propulsion was replacing sail, clippers dominated\nworld trade. Although many were built, only one has survived more or less intact: Cutty Sark,\nnow on display in Greenwich, southeast London.\nCutty Sark’s unusual name comes from the poem Tam O'Shanter by the Scottish poet Robert\nBurns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a ‘cufty sark’ — an\nold Scottish name for a short nightdress. The witch is depicted in Cutty Sark’s figurehead — the\ncarving ofawoman typically at the front of old sailing ships. In legend, and in Burns’s poem,\nwitches cannot cross water, so this was a rather strange choice of name for a ship.\nCutty Sark was built in Dumbarton, Scotland, in 1869, for a shipping company owned by John\nWillis. To carry out construction, Willis chose a new shipbuilding firm, Scott & Linton, and\nensured that the contract with them put him in a very strong position. In the end, the firm was\nforced out of business, and the ship was finished by a competitor.\nWillis’s company was active in the tea trade between China and Britain, where speed could\nbring shipowners both profits and prestige, so Cutty Sark was designed to make the journey\nmore quickly than any other ship. On her maiden voyage, in 1870, she set sail from London,\ncarrying large amounts of goods to China. She returned laden with tea, making the journey back\nto London in four months. However, Cutty Sark never lived up to the high expectations of her\nowner, as a result of bad winds and various misfortunes. On one occasion, in 1872, the ship and\na rival clipper, Thermopylae, left port in China on the same day. Crossing the Indian Ocean,\nCutty Sark gained a lead of over 400 miles, but then her rudder was severely damaged in stormy\nseas, making her impossible to steer. The ship’s crew had the daunting task of repairing the\nrudder at sea, and only succeeded at the second attempt. Cutty Sark reached London a week after\nThermopylae.\n82\n",
+  "blocks": [
+    {
+      "box": [
+        96.4800033569336,
+        50.03997802734375,
+        128.16000366210938,
+        59.04897689819336
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        292.67999267578125,
+        86.760009765625,
+        526.5791015625,
+        108.37690734863281
+      ],
+      "text": "READING\nFB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        95.760009765625,
+        133.91998291015625,
+        264.5820007324219,
+        144.73077392578125
+      ],
+      "text": "READING PASSAGE 1\n"
+    },
+    {
+      "box": [
+        95.04000854492188,
+        163.44000244140625,
+        548.8270263671875,
+        188.6515350341797
+      ],
+      "text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading\nPassage 1 below.\n"
+    },
+    {
+      "box": [
+        141.47999572753906,
+        207.719970703125,
+        514.2096557617188,
+        227.17941284179688
+      ],
+      "text": "Cutty Sark: the fastest sailing ship of all time\n"
+    },
+    {
+      "box": [
+        95.04000854492188,
+        240.1199951171875,
+        539.3951416015625,
+        267.4914855957031
+      ],
+      "text": "The nineteenth century was a period of great technological development in Britain, and for\nshipping the major changes were from wind to steam power, and from wood to iron and steel.\n"
+    },
+    {
+      "box": [
+        95.04000854492188,
+        283.67999267578125,
+        534.1500854492188,
+        309.2518615722656
+      ],
+      "text": "The fastest commercial sailing vessels of all time were clippers, three-masted ships built to\ntransport goods around the world, although some also took passengers. From the 1840s until\n"
+    },
+    {
+      "box": [
+        95.04000854492188,
+        311.3999938964844,
+        551.5580444335938,
+        351.01116943359375
+      ],
+      "text": "1869, when the Suez Canal opened and steam propulsion was replacing sail, clippers dominated\nworld trade. Although many were built, only one has survived more or less intact: Cutty Sark,\nnow on display in Greenwich, southeast London.\n"
+    },
+    {
+      "box": [
+        95.04000854492188,
+        367.55999755859375,
+        544.6367797851562,
+        434.8915100097656
+      ],
+      "text": "Cutty Sark’s unusual name comes from the poem Tam O'Shanter by the Scottish poet Robert\nBurns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a ‘cufty sark’ — an\nold Scottish name for a short nightdress. The witch is depicted in Cutty Sark’s figurehead — the\ncarving ofawoman typically at the front of old sailing ships. In legend, and in Burns’s poem,\nwitches cannot cross water, so this was a rather strange choice of name for a ship.\n"
+    },
+    {
+      "box": [
+        95.04000854492188,
+        451.0799865722656,
+        543.42724609375,
+        504.73150634765625
+      ],
+      "text": "Cutty Sark was built in Dumbarton, Scotland, in 1869, for a shipping company owned by John\nWillis. To carry out construction, Willis chose a new shipbuilding firm, Scott & Linton, and\nensured that the contract with them put him in a very strong position. In the end, the firm was\nforced out of business, and the ship was finished by a competitor.\n"
+    },
+    {
+      "box": [
+        94.679931640625,
+        520.9200439453125,
+        555.8399658203125,
+        658.4515380859375
+      ],
+      "text": "Willis’s company was active in the tea trade between China and Britain, where speed could\nbring shipowners both profits and prestige, so Cutty Sark was designed to make the journey\nmore quickly than any other ship. On her maiden voyage, in 1870, she set sail from London,\ncarrying large amounts of goods to China. She returned laden with tea, making the journey back\nto London in four months. However, Cutty Sark never lived up to the high expectations of her\nowner, as a result of bad winds and various misfortunes. On one occasion, in 1872, the ship and\na rival clipper, Thermopylae, left port in China on the same day. Crossing the Indian Ocean,\nCutty Sark gained a lead of over 400 miles, but then her rudder was severely damaged in stormy\nseas, making her impossible to steer. The ship’s crew had the daunting task of repairing the\nrudder at sea, and only succeeded at the second attempt. Cutty Sark reached London a week after\n"
+    },
+    {
+      "box": [
+        96.11993408203125,
+        661.3199462890625,
+        159.01904296875,
+        672.8515014648438
+      ],
+      "text": "Thermopylae.\n"
+    },
+    {
+      "box": [
+        95.03993225097656,
+        736.2000122070312,
+        107.18992614746094,
+        745.208984375
+      ],
+      "text": "82\n"
+    }
+  ]
+}

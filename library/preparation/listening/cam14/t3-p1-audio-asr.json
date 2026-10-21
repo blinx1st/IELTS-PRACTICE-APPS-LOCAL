@@ -1,0 +1,192 @@
+{
+  "book": 14,
+  "test": 3,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S1.mp3",
+  "sha256": "0c3a789d973e910d192b00ec771727d9e74cd45475f3f8e51e094130ffa7c59a",
+  "duration": 525.533,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      425.42056249999996,
+      525.4205625
+    ]
+  ],
+  "text": "IELTS 14, Tests 1 to 4, Published by Cambridge University Press and Uckles 2019. This recording is copyright, Tests 3. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to Section 1. Section 1. You will hear a man phoning the customer services manager of a hotel to get information about holding a conference there. First, you have some time to look at questions 1 to 5. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played. It's about 12 km from the airport, but there's a complimentary shuttle bus for guests, and it's only about 10 minutes walk from this central railway station. OK. Now, I don't know, Sydney, very well. Can you just give me an idea of the location of the hotel? Ah, well, it's downtown on Wilby Street. That's quite a small street, and it's not very far from the sea. And of course, if the conference attendees want to go out on this Saturday evening, there's a huge choice of places to eat. Then if they want to make a night of it, they can go on to one of the clubs in the area. There are a great many to choose from. Okay. So, if we go ahead with this, can you give me some information about how much we're looking at? This is the end of section 1. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.44,
+      "text": "IELTS 14, Tests 1 to 4, Published by Cambridge University Press and Uckles 2019."
+    },
+    {
+      "start": 14.44,
+      "end": 20.28,
+      "text": "This recording is copyright, Tests 3."
+    },
+    {
+      "start": 20.28,
+      "end": 25.36,
+      "text": "You will hear a number of different recordings, and you will have to answer questions"
+    },
+    {
+      "start": 25.36,
+      "end": 27.44,
+      "text": "on what you hear."
+    },
+    {
+      "start": 27.44,
+      "end": 33.2,
+      "text": "There will be time for you to read the instructions and questions, and you will have"
+    },
+    {
+      "start": 33.2,
+      "end": 37.08,
+      "text": "a chance to check your work."
+    },
+    {
+      "start": 37.08,
+      "end": 42.32,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 42.32,
+      "end": 46.48,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 46.48,
+      "end": 52.12,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an"
+    },
+    {
+      "start": 52.12,
+      "end": 55.32,
+      "text": "answer sheet."
+    },
+    {
+      "start": 55.32,
+      "end": 63.64,
+      "text": "Now turn to Section 1."
+    },
+    {
+      "start": 63.64,
+      "end": 65.6,
+      "text": "Section 1."
+    },
+    {
+      "start": 65.6,
+      "end": 71.28,
+      "text": "You will hear a man phoning the customer services manager of a hotel to get information"
+    },
+    {
+      "start": 71.28,
+      "end": 74.36,
+      "text": "about holding a conference there."
+    },
+    {
+      "start": 74.36,
+      "end": 79.36,
+      "text": "First, you have some time to look at questions 1 to 5."
+    },
+    {
+      "start": 104.36,
+      "end": 109.36,
+      "text": "You will see that there is an example that has been done for you."
+    },
+    {
+      "start": 109.36,
+      "end": 115.36,
+      "text": "On this occasion only, the conversation relating to this will be played."
+    },
+    {
+      "start": 425.42,
+      "end": 432.74,
+      "text": "It's about 12 km from the airport, but there's a complimentary shuttle bus for guests,"
+    },
+    {
+      "start": 432.74,
+      "end": 436.82,
+      "text": "and it's only about 10 minutes walk from this central railway station."
+    },
+    {
+      "start": 436.82,
+      "end": 437.82,
+      "text": "OK."
+    },
+    {
+      "start": 437.82,
+      "end": 440.62,
+      "text": "Now, I don't know, Sydney, very well."
+    },
+    {
+      "start": 440.62,
+      "end": 444.14,
+      "text": "Can you just give me an idea of the location of the hotel?"
+    },
+    {
+      "start": 444.14,
+      "end": 448.98,
+      "text": "Ah, well, it's downtown on Wilby Street."
+    },
+    {
+      "start": 448.98,
+      "end": 453.98,
+      "text": "That's quite a small street, and it's not very far from the sea."
+    },
+    {
+      "start": 453.98,
+      "end": 458.82,
+      "text": "And of course, if the conference attendees want to go out on this Saturday evening, there's"
+    },
+    {
+      "start": 458.82,
+      "end": 462.72,
+      "text": "a huge choice of places to eat."
+    },
+    {
+      "start": 462.72,
+      "end": 468.58,
+      "text": "Then if they want to make a night of it, they can go on to one of the clubs in the area."
+    },
+    {
+      "start": 468.58,
+      "end": 471.18,
+      "text": "There are a great many to choose from."
+    },
+    {
+      "start": 471.18,
+      "end": 472.18,
+      "text": "Okay."
+    },
+    {
+      "start": 472.18,
+      "end": 478.38,
+      "text": "So, if we go ahead with this, can you give me some information about how much we're looking"
+    },
+    {
+      "start": 478.38,
+      "end": 482.1,
+      "text": "at?"
+    },
+    {
+      "start": 482.1,
+      "end": 485.34,
+      "text": "This is the end of section 1."
+    },
+    {
+      "start": 485.34,
+      "end": 488.7,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 512.1,
+      "end": 519.1,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

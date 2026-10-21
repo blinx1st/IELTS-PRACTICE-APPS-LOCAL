@@ -1,0 +1,147 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 84,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\nREADING PASSAGE 2\nFB.com/LouisQuangVo\nyou should spend about 20 minutes on Questions 14-26, which are based on Reading\npassage 2 below.\nSAVING THE SOIL\nFB.com/LouisQuangVo\nMore than a third of the Earth’s top layer is at risk. Is there hope for our planet's\nmost precious resource?\nA\nMore thana third of the world’s soil is endangered, according to a recent UN report.\nlf we don’t slow the decline, all farmable soil could be gone in 60 years. Since soil\ngrows 95% of our food, and sustains human life in other more surprising ways, that\nis\na huge problem.\nB_\nPeter Groffman, from the Cary Institute of Ecosystem Studies in New York, points\nout that soil scientists have been warning about the degradation of the world’s soil\nfor decades. At the same time, our understanding of its importance to humans has\ngrown. A single gram of healthy soil might contain 100 million bacteria, as well as\nother microorganisms such as viruses and fungi, living amid decomposing plants\nand various minerals.\nThat means soils do not just grow our food, but are the source of nearly all our\nexisting antibiotics, and could be our best hope in the fight against antibiotic-\nresistant bacteria. Soil is also an ally against climate change: as microorganisms\nwithin soil digest dead animals and plants, they lock in their carbon content, holding\nthree times the amount of carbon as does the entire atmosphere. Soils also store\nwater, preventing flood damage: in the UK, damage to buildings, roads and bridges\nfrom floods caused by soil degradation costs £233 million every year.\nC\nIfthe soil loses its ability to perform these functions, the human race could be in\nbig trouble. The danger is not that the soil will disappear completely, but that the\nmicroorganisms that give it its special properties will be lost. And once this has\nhappened, it may take the soil thousands of years to recover.\nAgriculture is by far the biggest problem. In the wild, when plants grow they remove\nNutrients from the soil, but then when the plants die and decay these nutrients are\nreturned directly to the soil. Humans tend not to return unused parts of harvested\ncrops directly to the soil to enrich it, meaning that the soil gradually becomes\nless fertile. In the past we developed strategies to get around the problem, such\nas regularly varying the types of crops grown, or leaving fields uncultivated for a\nseason.\nD\nBut these practices became inconvenient as populations grew and agriculture had\nto be run on more commercial lines. A solution came in the early 20th century with\nthe Haber-Bosch process for manufacturing ammonium nitrate. Farmers have been\nPutting this synthetic fertiliser on their fields ever since.\n85\n",
+  "blocks": [
+    {
+      "box": [
+        493.20001220703125,
+        38.15997314453125,
+        541.4327392578125,
+        50.051856994628906
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        42.839996337890625,
+        69.1199951171875,
+        327.4197998046875,
+        90.74156951904297
+      ],
+      "text": "READING PASSAGE 2\nFB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        42.1199951171875,
+        102.239990234375,
+        535.4352416992188,
+        136.45907592773438
+      ],
+      "text": "you should spend about 20 minutes on Questions 14-26, which are based on Reading\npassage 2 below.\n"
+    },
+    {
+      "box": [
+        207.72000122070312,
+        151.55999755859375,
+        370.18072509765625,
+        169.93833923339844
+      ],
+      "text": "SAVING THE SOIL\n"
+    },
+    {
+      "box": [
+        64.08001708984375,
+        173.15997314453125,
+        514.0799560546875,
+        214.93186950683594
+      ],
+      "text": "FB.com/LouisQuangVo\nMore than a third of the Earth’s top layer is at risk. Is there hope for our planet's\nmost precious resource?\n"
+    },
+    {
+      "box": [
+        41.760009765625,
+        231.84002685546875,
+        538.6734619140625,
+        293.7733154296875
+      ],
+      "text": "A\nMore thana third of the world’s soil is endangered, according to a recent UN report.\nlf we don’t slow the decline, all farmable soil could be gone in 60 years. Since soil\ngrows 95% of our food, and sustains human life in other more surprising ways, that\nis\na huge problem.\n"
+    },
+    {
+      "box": [
+        42.480003356933594,
+        304.20001220703125,
+        532.2456665039062,
+        392.77044677734375
+      ],
+      "text": "B_\nPeter Groffman, from the Cary Institute of Ecosystem Studies in New York, points\nout that soil scientists have been warning about the degradation of the world’s soil\nfor decades. At the same time, our understanding of its importance to humans has\ngrown. A single gram of healthy soil might contain 100 million bacteria, as well as\nother microorganisms such as viruses and fungi, living amid decomposing plants\nand various minerals.\n"
+    },
+    {
+      "box": [
+        66.23999786376953,
+        405.7200012207031,
+        539.4835815429688,
+        511.57366943359375
+      ],
+      "text": "That means soils do not just grow our food, but are the source of nearly all our\nexisting antibiotics, and could be our best hope in the fight against antibiotic-\nresistant bacteria. Soil is also an ally against climate change: as microorganisms\nwithin soil digest dead animals and plants, they lock in their carbon content, holding\nthree times the amount of carbon as does the entire atmosphere. Soils also store\nwater, preventing flood damage: in the UK, damage to buildings, roads and bridges\nfrom floods caused by soil degradation costs £233 million every year.\n"
+    },
+    {
+      "box": [
+        43.920074462890625,
+        520.199951171875,
+        520.39990234375,
+        580.3336791992188
+      ],
+      "text": "C\nIfthe soil loses its ability to perform these functions, the human race could be in\nbig trouble. The danger is not that the soil will disappear completely, but that the\nmicroorganisms that give it its special properties will be lost. And once this has\nhappened, it may take the soil thousands of years to recover.\n"
+    },
+    {
+      "box": [
+        68.4000244140625,
+        589.3199462890625,
+        540.5758666992188,
+        603.734375
+      ],
+      "text": "Agriculture is by far the biggest problem. In the wild, when plants grow they remove\n"
+    },
+    {
+      "box": [
+        69.83999633789062,
+        604.4400024414062,
+        531.2627563476562,
+        648.7340087890625
+      ],
+      "text": "Nutrients from the soil, but then when the plants die and decay these nutrients are\nreturned directly to the soil. Humans tend not to return unused parts of harvested\ncrops directly to the soil to enrich it, meaning that the soil gradually becomes\n"
+    },
+    {
+      "box": [
+        70.19998168945312,
+        649.4400024414062,
+        519.0515747070312,
+        690.128662109375
+      ],
+      "text": "less fertile. In the past we developed strategies to get around the problem, such\nas regularly varying the types of crops grown, or leaving fields uncultivated for a\nseason.\n"
+    },
+    {
+      "box": [
+        46.08000183105469,
+        699.4800415039062,
+        538.3439331054688,
+        745.9343872070312
+      ],
+      "text": "D\nBut these practices became inconvenient as populations grew and agriculture had\nto be run on more commercial lines. A solution came in the early 20th century with\nthe Haber-Bosch process for manufacturing ammonium nitrate. Farmers have been\n"
+    },
+    {
+      "box": [
+        71.63998413085938,
+        747.719970703125,
+        376.3728332519531,
+        760.6929321289062
+      ],
+      "text": "Putting this synthetic fertiliser on their fields ever since.\n"
+    },
+    {
+      "box": [
+        527.0399169921875,
+        780.47998046875,
+        539.9998779296875,
+        789.4889526367188
+      ],
+      "text": "85\n"
+    }
+  ]
+}

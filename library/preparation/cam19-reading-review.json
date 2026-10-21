@@ -1,0 +1,348 @@
+{
+  "book": 19,
+  "scope": "Reading titles, subtitles, paragraphs, labels, footnotes and page/column order; question content is reviewed in a separate report.",
+  "status": "visually_reviewed",
+  "passagesReviewed": 12,
+  "sourceReadingPagesReviewed": 24,
+  "method": "Manual comparison of the complete normalised text with locally rendered source pages. Contact sheets retain the full original page edges; no generated replacement prose was used.",
+  "sourcePdf": [
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+      "bytes": 32745680,
+      "pages": 138,
+      "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb"
+    }
+  ],
+  "notes": [
+    "All twelve normalised passages were read and compared with all twenty-four source reading pages.",
+    "Promotional embedded text on scanned pages was excluded from the reading body and did not bypass OCR.",
+    "Test 2 Passage 3 was reconstructed in left-column then right-column order. Paragraph labels, page continuations, footnotes and subtitles were checked.",
+    "WWFN and 1990 in Test 3 Passage 2, and 130 butterfly species in Test 4 Passage 1, are retained as printed in the supplied source.",
+    "The !Kung name and the first-person 'I believe' in Test 4 Passage 3 were restored against the scan."
+  ],
+  "tests": [
+    {
+      "id": "cam19-test1",
+      "version": "2026-10-21.5",
+      "jsonSha256": "c9d5023c7b9b544b3353ee9607f16779864075c13940a8f522635a5f999373d2",
+      "passages": [
+        {
+          "number": 1,
+          "title": "How tennis rackets have changed",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            15,
+            16
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t1-p1-reading-015-4e7fdd56.webp",
+              "page": 15
+            },
+            {
+              "url": "/library-assets/cam19-t1-p1-reading-016-ac55f355.webp",
+              "page": 16
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t1-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "457b40112d58792649a1692bd9b065195d78a2881b98b99327d49c0d88cc151e"
+        },
+        {
+          "number": 2,
+          "title": "The pirates of the ancient Mediterranean",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            19,
+            20
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t1-p2-reading-019-a3ab8b0f.webp",
+              "page": 19
+            },
+            {
+              "url": "/library-assets/cam19-t1-p2-reading-020-59da96c6.webp",
+              "page": 20
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t1-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "readingSha256": "8bb646af057651d78d04a19343f5281dc6616c88a31f474963ed63b2a0f7baa5"
+        },
+        {
+          "number": 3,
+          "title": "The persistence and peril of misinformation",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            24,
+            25
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t1-p3-reading-024-d9d1670c.webp",
+              "page": 24
+            },
+            {
+              "url": "/library-assets/cam19-t1-p3-reading-025-f89b7eb6.webp",
+              "page": 25
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t1-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "d51867e2cb4bd6b305d124c287c3b74f5b5769459edaceccfdacdbff38a4a461"
+        }
+      ]
+    },
+    {
+      "id": "cam19-test2",
+      "version": "2026-10-21.5",
+      "jsonSha256": "024acf631b89971249782fbfed05df863efc2ab19a25ab60066c46000af0096e",
+      "passages": [
+        {
+          "number": 1,
+          "title": "The Industrial Revolution in Britain",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            39,
+            40
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t2-p1-reading-039-54e07934.webp",
+              "page": 39
+            },
+            {
+              "url": "/library-assets/cam19-t2-p1-reading-040-b92bc088.webp",
+              "page": 40
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t2-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "4d17c661b8ed6ddfa957a3e7bf308976cc876195af6f17772a0d4cc7070df2d4"
+        },
+        {
+          "number": 2,
+          "title": "Athletes and stress",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            43,
+            44
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t2-p2-reading-043-98c12e4b.webp",
+              "page": 43
+            },
+            {
+              "url": "/library-assets/cam19-t2-p2-reading-044-e08179bc.webp",
+              "page": 44
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t2-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "readingSha256": "0d96698301336de6d026454105965a868deae96267bd4e150c3d07e5c3f7dce7"
+        },
+        {
+          "number": 3,
+          "title": "An inquiry into the existence of the gifted child",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            47,
+            48
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t2-p3-reading-047-2fac1fd1.webp",
+              "page": 47
+            },
+            {
+              "url": "/library-assets/cam19-t2-p3-reading-048-d3cfb45d.webp",
+              "page": 48
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t2-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "9263034523aa445a6977744a3e7135b1d893e3ab5eb7cbfd4fcd28e4f529107e"
+        }
+      ]
+    },
+    {
+      "id": "cam19-test3",
+      "version": "2026-10-21.5",
+      "jsonSha256": "dea22f9a6510ac8e3d330c819cd60b4707f77921579b6289eaddc08d193fabeb",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Archaeologists discover evidence of prehistoric island settlers",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            61,
+            62
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t3-p1-reading-061-3695ae5f.webp",
+              "page": 61
+            },
+            {
+              "url": "/library-assets/cam19-t3-p1-reading-062-9e6eebe0.webp",
+              "page": 62
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t3-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "d53ea66cce9f80cd7831d7e67eb9eea880efee83762c0bbb9e2e895515a53267"
+        },
+        {
+          "number": 2,
+          "title": "The global importance of wetlands",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            65,
+            66
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t3-p2-reading-065-69c18340.webp",
+              "page": 65
+            },
+            {
+              "url": "/library-assets/cam19-t3-p2-reading-066-3dc4cd4f.webp",
+              "page": 66
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t3-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "readingSha256": "545690c94a6019045e016eb5e69f12f98d78d800da6654536fc380297a6901c8"
+        },
+        {
+          "number": 3,
+          "title": "Is the era of artificial speech translation upon us?",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            69,
+            70
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t3-p3-reading-069-df88bea6.webp",
+              "page": 69
+            },
+            {
+              "url": "/library-assets/cam19-t3-p3-reading-070-56005e9f.webp",
+              "page": 70
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t3-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "7d3d80ab73e377de661f73ee3cdcd35f46b68cc59a4d23d375e38b6ac383ab97"
+        }
+      ]
+    },
+    {
+      "id": "cam19-test4",
+      "version": "2026-10-21.5",
+      "jsonSha256": "2f9eb1b5abc6166cab75df0c6a29dd24b0b7c3e2d386f41c2aa749bd53f45d26",
+      "passages": [
+        {
+          "number": 1,
+          "title": "The impact of climate change on butterflies in Britain",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            83,
+            84
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t4-p1-reading-083-fa84bb3b.webp",
+              "page": 83
+            },
+            {
+              "url": "/library-assets/cam19-t4-p1-reading-084-922a7553.webp",
+              "page": 84
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t4-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "9ea7c7856682d5113a58f1b90ccbf78b422515c824ee88a2756a16207cba00f8"
+        },
+        {
+          "number": 2,
+          "title": "Deep-sea mining",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            87,
+            88
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t4-p2-reading-087-f789e64e.webp",
+              "page": 87
+            },
+            {
+              "url": "/library-assets/cam19-t4-p2-reading-088-294ac89d.webp",
+              "page": 88
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t4-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "readingSha256": "58c179780e1f8ca719cd475fad8999ca1dd53ef5340a9c3936d1525207b11d44"
+        },
+        {
+          "number": 3,
+          "title": "The Unselfish Gene",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "physicalReadingPages": [
+            91,
+            92
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam19-t4-p3-reading-091-7d451f0d.webp",
+              "page": 91
+            },
+            {
+              "url": "/library-assets/cam19-t4-p3-reading-092-bb700f52.webp",
+              "page": 92
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam19-t4-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "4c2d8ecf319ddc9f839bbb7d950d021b1558898890653093ed9f8881fa1775e7"
+        }
+      ]
+    }
+  ]
+}

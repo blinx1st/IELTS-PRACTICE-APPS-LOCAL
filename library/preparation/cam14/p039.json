@@ -1,0 +1,120 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 39,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nWhy companies should welcome disorder\nA\nOrganisation is big business. Whether it is of our lives — all those inboxes and calendars —\nor how companies are structured, a multi-billion dollar industry helps to meet this need.\nWe have more strategies for time management, project management and\nself-organisation than at any other time in human history. We are told that we ought to\norganise our company, our home life, our week, our day and even our sleep, all as\na means\nto becoming more productive. Every week, countless seminars and workshops take place\naround the world to tell\na paying public that they ought to structure their lives in order to\nachieve this.\nThis rhetoric has also crept into the thinking of business leaders and entrepreneurs, much\nto the delight of self-proclaimed perfectionists with the need to get everything right. The\nnumber ofbusiness schools and graduates has massively increased over the past 50 years,\nessentially teaching people how to organise well.\nB\nIronically, however, the number of businesses that fail has also steadily increased.\nWork-related stress has increased. A large proportion of workers from all demographics\nclaim to be dissatisfied with the way their work is structured and the way they are managed.\nThis begs the question: what has gone wrong? Why is it that on paper the drive for\norganisation seems a sure shot for increasing productivity, but in reality falls well short of\nwhat is expected?\nC\nThis has been a problem for a while now. Frederick Taylor was one of the forefathers of\nscientific management. Writing in the first half of the 20th century, he designed a number\nof principles to improve the efficiency of the work process, which have since become\nwidespread in modern companies. So the approach has been around for a while.\nD\nNew research suggests that this obsession with efficiency is misguided. The problem is not\nnecessarily the management theories or strategies we use to organise our work; it’s the basic\nassumptions we hold in approaching how we work. Here it’s the assumption that order is a\nnecessary condition for productivity. This assumption has also fostered the idea that disorder\nmust be detrimental to organisational productivity. The result is that businesses and people\nspend time and money organising themselves for the sake of organising, rather than actually\nlooking at the end goal and usefulness of such an effort.\nE\n_What’s more, recent studies show that order actually has diminishing returns. Order does\nincrease productivity to a certain extent, but eventually the usefulness of the process of\norganisation, and the benefit it yields, reduce until the point where any further increase in\norder reduces productivity. Some argue that in a business, if the cost of formally structuring\nsomething outweighs the benefit of doing it, then that thing ought not to be formally\nstructured. Instead, the resources involved can be better used elsewhere.\n47\n",
+  "blocks": [
+    {
+      "box": [
+        498.8594970703125,
+        95.38082885742188,
+        539.7760009765625,
+        105.82916259765625
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        189.32188415527344,
+        131.0136260986328,
+        455.0201721191406,
+        145.0648193359375
+      ],
+      "text": "Why companies should welcome disorder\n"
+    },
+    {
+      "box": [
+        106.53856658935547,
+        158.72801208496094,
+        526.1708374023438,
+        183.2146453857422
+      ],
+      "text": "A\nOrganisation is big business. Whether it is of our lives — all those inboxes and calendars —\nor how companies are structured, a multi-billion dollar industry helps to meet this need.\n"
+    },
+    {
+      "box": [
+        130.6537322998047,
+        192.2013397216797,
+        529.2733154296875,
+        265.9947204589844
+      ],
+      "text": "We have more strategies for time management, project management and\nself-organisation than at any other time in human history. We are told that we ought to\norganise our company, our home life, our week, our day and even our sleep, all as\na means\nto becoming more productive. Every week, countless seminars and workshops take place\naround the world to tell\na paying public that they ought to structure their lives in order to\nachieve this.\n"
+    },
+    {
+      "box": [
+        130.6537628173828,
+        277.1441650390625,
+        525.5661010742188,
+        327.54486083984375
+      ],
+      "text": "This rhetoric has also crept into the thinking of business leaders and entrepreneurs, much\nto the delight of self-proclaimed perfectionists with the need to get everything right. The\nnumber ofbusiness schools and graduates has massively increased over the past 50 years,\nessentially teaching people how to organise well.\n"
+    },
+    {
+      "box": [
+        107.25851440429688,
+        336.17230224609375,
+        534.6939697265625,
+        373.2560119628906
+      ],
+      "text": "B\nIronically, however, the number of businesses that fail has also steadily increased.\nWork-related stress has increased. A large proportion of workers from all demographics\nclaim to be dissatisfied with the way their work is structured and the way they are managed.\n"
+    },
+    {
+      "box": [
+        131.01373291015625,
+        382.6029357910156,
+        528.3377075195312,
+        419.6858825683594
+      ],
+      "text": "This begs the question: what has gone wrong? Why is it that on paper the drive for\norganisation seems a sure shot for increasing productivity, but in reality falls well short of\nwhat is expected?\n"
+    },
+    {
+      "box": [
+        106.8985824584961,
+        428.313720703125,
+        525.1632080078125,
+        478.7147521972656
+      ],
+      "text": "C\nThis has been a problem for a while now. Frederick Taylor was one of the forefathers of\nscientific management. Writing in the first half of the 20th century, he designed a number\nof principles to improve the efficiency of the work process, which have since become\nwidespread in modern companies. So the approach has been around for a while.\n"
+    },
+    {
+      "box": [
+        107.25848388671875,
+        487.7017822265625,
+        540.1361694335938,
+        576.6143188476562
+      ],
+      "text": "D\nNew research suggests that this obsession with efficiency is misguided. The problem is not\nnecessarily the management theories or strategies we use to organise our work; it’s the basic\nassumptions we hold in approaching how we work. Here it’s the assumption that order is a\nnecessary condition for productivity. This assumption has also fostered the idea that disorder\nmust be detrimental to organisational productivity. The result is that businesses and people\nspend time and money organising themselves for the sake of organising, rather than actually\nlooking at the end goal and usefulness of such an effort.\n"
+    },
+    {
+      "box": [
+        107.25845336914062,
+        584.162353515625,
+        521.794189453125,
+        597.853271484375
+      ],
+      "text": "E\n_What’s more, recent studies show that order actually has diminishing returns. Order does\n"
+    },
+    {
+      "box": [
+        131.37359619140625,
+        598.5593872070312,
+        534.9550170898438,
+        660.8366088867188
+      ],
+      "text": "increase productivity to a certain extent, but eventually the usefulness of the process of\norganisation, and the benefit it yields, reduce until the point where any further increase in\norder reduces productivity. Some argue that in a business, if the cost of formally structuring\nsomething outweighs the benefit of doing it, then that thing ought not to be formally\nstructured. Instead, the resources involved can be better used elsewhere.\n"
+    },
+    {
+      "box": [
+        526.9338989257812,
+        732.4524536132812,
+        538.7322998046875,
+        740.3787841796875
+      ],
+      "text": "47\n"
+    }
+  ]
+}

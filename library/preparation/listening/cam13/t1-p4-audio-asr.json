@@ -1,0 +1,137 @@
+{
+  "book": 13,
+  "test": 1,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_04.mp3",
+  "sha256": "bb349125abe3033124495f03256e2c58d56d421b3b4aadeed087aa113d282578",
+  "duration": 419.107,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      319.7355,
+      419.7355
+    ]
+  ],
+  "text": "You will hear part of a lecture on an environmental studies course about recent research on how animals are adapting to urban environments. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. Hi, today we're going to be looking at animals in urban environments and I'm going to be telling you about some research on how they're affected by these environments. Now in evolutionary terms, urban environments represent huge upheavals. The sorts of massive changes that usually happen over millions of years. And we used to think that only a few species could adapt to this new environment. One species which is well known as being highly adaptable is the crow, and there have been various studies. that a routine part of their communication is carried out by waving their tails. You do also see this in the country, but it's much more prevalent in cities, possibly because it's effective in a noisy environment. So, what are the long-term implications of this? One possibility is that we may see completely new species developing in cities, But on the other hand, it's possible that not all of these adaptations will be permanent. Once the animal's got accustomed to its new environment, it may no longer need the features it's developed. So now we've had a look at adaptation. That is the end of section 4. You now have half a minute to check your answers. That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "You will hear part of a lecture on an environmental studies course about recent research on how animals are adapting to urban environments."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 74.0,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 74.0,
+      "end": 82.72,
+      "text": "Hi, today we're going to be looking at animals in urban environments and I'm going to"
+    },
+    {
+      "start": 82.72,
+      "end": 89.28,
+      "text": "be telling you about some research on how they're affected by these environments."
+    },
+    {
+      "start": 89.28,
+      "end": 95.64,
+      "text": "Now in evolutionary terms, urban environments represent huge upheavals."
+    },
+    {
+      "start": 95.64,
+      "end": 101.32,
+      "text": "The sorts of massive changes that usually happen over millions of years."
+    },
+    {
+      "start": 101.32,
+      "end": 107.28,
+      "text": "And we used to think that only a few species could adapt to this new environment."
+    },
+    {
+      "start": 107.28,
+      "end": 113.84,
+      "text": "One species which is well known as being highly adaptable is the crow, and there have been"
+    },
+    {
+      "start": 113.84,
+      "end": 114.84,
+      "text": "various studies."
+    },
+    {
+      "start": 319.74,
+      "end": 325.74,
+      "text": "that a routine part of their communication is carried out by waving their tails."
+    },
+    {
+      "start": 325.74,
+      "end": 331.74,
+      "text": "You do also see this in the country, but it's much more prevalent in cities,"
+    },
+    {
+      "start": 331.74,
+      "end": 335.74,
+      "text": "possibly because it's effective in a noisy environment."
+    },
+    {
+      "start": 335.74,
+      "end": 339.74,
+      "text": "So, what are the long-term implications of this?"
+    },
+    {
+      "start": 339.74,
+      "end": 346.74,
+      "text": "One possibility is that we may see completely new species developing in cities,"
+    },
+    {
+      "start": 346.74,
+      "end": 353.14,
+      "text": "But on the other hand, it's possible that not all of these adaptations will be permanent."
+    },
+    {
+      "start": 353.14,
+      "end": 360.74,
+      "text": "Once the animal's got accustomed to its new environment, it may no longer need the features it's developed."
+    },
+    {
+      "start": 360.74,
+      "end": 365.74,
+      "text": "So now we've had a look at adaptation."
+    },
+    {
+      "start": 365.74,
+      "end": 369.74,
+      "text": "That is the end of section 4."
+    },
+    {
+      "start": 369.74,
+      "end": 373.74,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 376.74,
+      "end": 406.14,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 406.74,
+      "end": 414.74,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

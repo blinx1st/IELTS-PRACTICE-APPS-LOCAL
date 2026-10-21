@@ -1,0 +1,102 @@
+{
+  "book": 15,
+  "test": 2,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test2_audio4.m4a",
+  "sha256": "db19c5bfaedf9ead311102e78f00501bc14ce4ad6acc1a0e01561691784ec21c",
+  "duration": 524.843,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      424.8426875,
+      524.8426875
+    ]
+  ],
+  "text": "Part 4. You will hear part of a presentation about an agricultural program in the country of Mozambique. First, you have some time to look at questions 31 to 40. You I'm going to report on a case study of a program which has been set up to help rural populations in Mozambique, a largely agricultural country in South East Africa. The programme worked with three communities in Chiquella Quailar district near the Limpopo River. This is a dry and arid region with unpredictable rainfall. Because of this, people in the area were unable to support themselves through agriculture, And instead they use the forest as a means of providing themselves. As mistakes made at this stage may be hard to correct later on. The program demonstrates that sustainable development is possible in areas where there is... That is the end of Part 4. You now have one minute to check your answers to Part 4. You That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.56,
+      "text": "Part 4. You will hear part of a presentation about an agricultural program in the country"
+    },
+    {
+      "start": 7.56,
+      "end": 15.0,
+      "text": "of Mozambique. First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 80.24,
+      "text": "I'm going to report on a case study of a program which has been set up to help rural populations"
+    },
+    {
+      "start": 80.24,
+      "end": 87.44,
+      "text": "in Mozambique, a largely agricultural country in South East Africa."
+    },
+    {
+      "start": 87.44,
+      "end": 95.84,
+      "text": "The programme worked with three communities in Chiquella Quailar district near the Limpopo River."
+    },
+    {
+      "start": 95.84,
+      "end": 102.6,
+      "text": "This is a dry and arid region with unpredictable rainfall."
+    },
+    {
+      "start": 102.6,
+      "end": 109.6,
+      "text": "Because of this, people in the area were unable to support themselves through agriculture,"
+    },
+    {
+      "start": 109.6,
+      "end": 114.96,
+      "text": "And instead they use the forest as a means of providing themselves."
+    },
+    {
+      "start": 424.84,
+      "end": 431.84,
+      "text": "As mistakes made at this stage may be hard to correct later on."
+    },
+    {
+      "start": 431.84,
+      "end": 440.84,
+      "text": "The program demonstrates that sustainable development is possible in areas where there is..."
+    },
+    {
+      "start": 443.84,
+      "end": 446.84,
+      "text": "That is the end of Part 4."
+    },
+    {
+      "start": 446.84,
+      "end": 451.84,
+      "text": "You now have one minute to check your answers to Part 4."
+    },
+    {
+      "start": 454.84,
+      "end": 456.84,
+      "text": "You"
+    },
+    {
+      "start": 484.84,
+      "end": 514.64,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 514.64,
+      "end": 522.64,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

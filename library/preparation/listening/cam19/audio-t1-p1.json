@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/9297b29a5f03fe7a61220ae4efe1998fe7cfcaae1a2d5d4f3e52b4d41db8753c.mp3",
+    "sha256": "9297b29a5f03fe7a61220ae4efe1998fe7cfcaae1a2d5d4f3e52b4d41db8753c",
+    "duration": 472.66,
+    "start": 0,
+    "end": 472.66,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "IELTS 19, published by Cambridge University Press and Assessment, 2024. This recording is copyright. Test 1. This is the IELTS Listening Test. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to part one. Part 1. You will hear a teaching assistant calling a country park about a school visit. First you have some time to look at questions 1 to 6. You"
+    },
+    {
+      "name": "ending",
+      "start": 407.66,
+      "end": 472.66,
+      "text": "You now have one minute to check your answers to part one. You"
+    }
+  ]
+}

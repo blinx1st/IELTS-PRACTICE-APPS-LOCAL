@@ -1,0 +1,1248 @@
+{
+  "id": "cam19-listening-test2",
+  "skill": "listening",
+  "book": 19,
+  "test": 2,
+  "title": "Cambridge 19 · Listening Test 2",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam19-t2-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t2-p1-q1-6",
+          "type": "completion",
+          "heading": "Questions 1–6",
+          "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-032.webp",
+              "page": 32
+            },
+            {
+              "url": "/library-assets/l-cam19-source-033.webp",
+              "page": 33
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 32
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 33
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Guitar Group"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Coordinator: Gary ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Level: ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Place:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 4
+                  },
+                  " Street"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "First floor, Room T347"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Time: Thursday morning at ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Recommended website: ‘The perfect ",
+                  {
+                    "number": 6
+                  },
+                  "’"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam19-t2-p1-q7-10",
+          "type": "completion",
+          "heading": "Questions 7–10",
+          "instructions": "Complete the table below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-032.webp",
+              "page": 32
+            },
+            {
+              "url": "/library-assets/l-cam19-source-033.webp",
+              "page": 33
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 32
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 33
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "table",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Time"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Activity"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Notes"
+                    ],
+                    "header": true
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "5 minutes"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "tuning guitars"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "using an app or by ",
+                      {
+                        "number": 7
+                      }
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "10 minutes"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "strumming chords using our thumbs"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "keeping time while the teacher is ",
+                      {
+                        "number": 8
+                      }
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "15 minutes"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "playing songs"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "often listening to a ",
+                      {
+                        "number": 9
+                      },
+                      " of a song"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "10 minutes"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "playing single notes and simple tunes"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "playing together, then ",
+                      {
+                        "number": 10
+                      }
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "5 minutes"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "noting things to practise at home"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [],
+                    "header": false
+                  }
+                ]
+              }
+            ],
+            "caption": "A typical 45-minute guitar lesson"
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-032.webp",
+          "page": 32
+        },
+        {
+          "url": "/library-assets/l-cam19-source-033.webp",
+          "page": 33
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 32
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 33
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/87bd934522d3f332a3ce71a1fa55c97d1380ef45a3df981e2baa10e427a01f9b.mp3",
+        "sha256": "87bd934522d3f332a3ce71a1fa55c97d1380ef45a3df981e2baa10e427a01f9b",
+        "duration": 481.907,
+        "start": 44.36,
+        "end": 481.907,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t2-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t2-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t2-p2-q11-16",
+          "type": "choice",
+          "heading": "Questions 11–16",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "What made David leave London and move to Northsea?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "He was eager to develop a hobby"
+                },
+                {
+                  "value": "B",
+                  "label": "He wanted to work shorter hours"
+                },
+                {
+                  "value": "C",
+                  "label": "He found his job in website design unsatisfying"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "The Lifeboat Institution in Northsea was built with money provided by",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a local organisation"
+                },
+                {
+                  "value": "B",
+                  "label": "a local resident"
+                },
+                {
+                  "value": "C",
+                  "label": "the local council"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "In his health assessment, the doctor was concerned about the fact that David",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "might be colour blind"
+                },
+                {
+                  "value": "B",
+                  "label": "was rather short-sighted"
+                },
+                {
+                  "value": "C",
+                  "label": "had undergone eye surgery"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "After arriving at the lifeboat station, they aim to launch the boat within",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "five minutes"
+                },
+                {
+                  "value": "B",
+                  "label": "six to eight minutes"
+                },
+                {
+                  "value": "C",
+                  "label": "eight and a half minutes"
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "As a ‘helmsman’, David has the responsibility of deciding",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "who will be the members of his crew"
+                },
+                {
+                  "value": "B",
+                  "label": "what equipment it will be necessary to take"
+                },
+                {
+                  "value": "C",
+                  "label": "if the lifeboat should be launched"
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "text": "As well as going out on the lifeboat, David",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "gives talks on safety at sea"
+                },
+                {
+                  "value": "B",
+                  "label": "helps with fundraising"
+                },
+                {
+                  "value": "C",
+                  "label": "recruits new volunteers"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-034.webp",
+              "page": 34
+            },
+            {
+              "url": "/library-assets/l-cam19-source-035.webp",
+              "page": 35
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 34
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 35
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t2-p2-q17-18",
+          "type": "multi",
+          "heading": "Questions 17–18",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO things does David say about the lifeboat volunteer training?",
+          "questions": [
+            {
+              "number": 17,
+              "text": ""
+            },
+            {
+              "number": 18,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-034.webp",
+              "page": 34
+            },
+            {
+              "url": "/library-assets/l-cam19-source-035.webp",
+              "page": 35
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 34
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 35
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "The residential course developed his leadership skills"
+            },
+            {
+              "value": "B",
+              "label": "The training in use of ropes and knots was quite brief"
+            },
+            {
+              "value": "C",
+              "label": "The training exercises have built up his mental strength"
+            },
+            {
+              "value": "D",
+              "label": "The casualty care activities were particularly challenging for him"
+            },
+            {
+              "value": "E",
+              "label": "The wave tank activities provided practice in survival techniques"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam19-t2-p2-q19-20",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO things does David find most motivating about the work he does?",
+          "questions": [
+            {
+              "number": 19,
+              "text": ""
+            },
+            {
+              "number": 20,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-034.webp",
+              "page": 34
+            },
+            {
+              "url": "/library-assets/l-cam19-source-035.webp",
+              "page": 35
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 34
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 35
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "working as part of a team"
+            },
+            {
+              "value": "B",
+              "label": "experiences when working in winter"
+            },
+            {
+              "value": "C",
+              "label": "being thanked by those he has helped"
+            },
+            {
+              "value": "D",
+              "label": "the fact that it keeps him fit"
+            },
+            {
+              "value": "E",
+              "label": "the chance to develop new equipment"
+            }
+          ],
+          "choose": 2
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-034.webp",
+          "page": 34
+        },
+        {
+          "url": "/library-assets/l-cam19-source-035.webp",
+          "page": 35
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 34
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 35
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/92eebe7728a829eccd8d030b3dd5ebd8acef18b13c93abec21bc732dbe809229.mp3",
+        "sha256": "92eebe7728a829eccd8d030b3dd5ebd8acef18b13c93abec21bc732dbe809229",
+        "duration": 384.157,
+        "start": 0,
+        "end": 384.157,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t2-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t2-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t2-p3-q21-24",
+          "type": "choice",
+          "heading": "Questions 21–24",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "At first, Don thought the topic of recycling footwear might be too",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "limited in scope"
+                },
+                {
+                  "value": "B",
+                  "label": "hard to research"
+                },
+                {
+                  "value": "C",
+                  "label": "boring for listeners"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "When discussing trainers, Bella and Don disagree about",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "how popular they are among young people"
+                },
+                {
+                  "value": "B",
+                  "label": "how suitable they are for school"
+                },
+                {
+                  "value": "C",
+                  "label": "how quickly they wear out"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Bella says that she sometimes recycles shoes because",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "they no longer fit"
+                },
+                {
+                  "value": "B",
+                  "label": "she no longer likes them"
+                },
+                {
+                  "value": "C",
+                  "label": "they are no longer in fashion"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What did the article say that confused Don?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Public consumption of footwear has risen"
+                },
+                {
+                  "value": "B",
+                  "label": "Less footwear is recycled now than in the past"
+                },
+                {
+                  "value": "C",
+                  "label": "People dispose of more footwear than they used to"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-036.webp",
+              "page": 36
+            },
+            {
+              "url": "/library-assets/l-cam19-source-037.webp",
+              "page": 37
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 36
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 37
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t2-p3-q25-28",
+          "type": "matching",
+          "heading": "Questions 25–28",
+          "instructions": "What reasons did the recycling manager give for rejecting footwear, according to the students? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 25-28. Reasons",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "the high-heeled shoes"
+            },
+            {
+              "number": 26,
+              "text": "the ankle boots"
+            },
+            {
+              "number": 27,
+              "text": "the baby shoes"
+            },
+            {
+              "number": 28,
+              "text": "the trainers"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-036.webp",
+              "page": 36
+            },
+            {
+              "url": "/library-assets/l-cam19-source-037.webp",
+              "page": 37
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 36
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 37
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "one shoe was missing"
+            },
+            {
+              "value": "B",
+              "label": "the colour of one shoe had faded"
+            },
+            {
+              "value": "C",
+              "label": "one shoe had a hole in it"
+            },
+            {
+              "value": "D",
+              "label": "the shoes were brand new"
+            },
+            {
+              "value": "E",
+              "label": "the shoes were too dirty"
+            },
+            {
+              "value": "F",
+              "label": "the stitching on the shoes was broken"
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t2-p3-q29-30",
+          "type": "choice",
+          "heading": "Questions 29–30",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 29,
+              "text": "Why did the project to make ‘new’ shoes out of old shoes fail?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "People believed the ‘new’ pairs of shoes were unhygienic"
+                },
+                {
+                  "value": "B",
+                  "label": "There were not enough good parts to use in the old shoes"
+                },
+                {
+                  "value": "C",
+                  "label": "The shoes in the ‘new’ pairs were not completely alike"
+                }
+              ]
+            },
+            {
+              "number": 30,
+              "text": "Bella and Don agree that they can present their topic",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "from a new angle"
+                },
+                {
+                  "value": "B",
+                  "label": "with relevant images"
+                },
+                {
+                  "value": "C",
+                  "label": "in a straightforward way."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-036.webp",
+              "page": 36
+            },
+            {
+              "url": "/library-assets/l-cam19-source-037.webp",
+              "page": 37
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 36
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 37
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-036.webp",
+          "page": 36
+        },
+        {
+          "url": "/library-assets/l-cam19-source-037.webp",
+          "page": 37
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 36
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 37
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/bd5d682d220405fefb553e8d8419319bbffda84a534043c60560aeb0193217a4.mp3",
+        "sha256": "bd5d682d220405fefb553e8d8419319bbffda84a534043c60560aeb0193217a4",
+        "duration": 410.802,
+        "start": 0,
+        "end": 410.802,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t2-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t2-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t2-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t2-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-038.webp",
+              "page": 38
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 38
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Tardigrades"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "more than 1,000 species, 0.05–1.2 millimetres long"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "also known as water ‘bears’ (due to how they ",
+                  {
+                    "number": 31
+                  },
+                  ") and ‘moss piglets’"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Physical appearance"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a ",
+                  {
+                    "number": 32
+                  },
+                  " round body and four pairs of legs"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "claws or ",
+                  {
+                    "number": 33
+                  },
+                  " for gripping"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "absence of respiratory organs"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "body filled with a liquid that carries both ",
+                  {
+                    "number": 34
+                  },
+                  " and blood"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "mouth shaped like a ",
+                  {
+                    "number": 35
+                  },
+                  " with teeth called stylets"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Habitat"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "often found at the bottom of a lake or on plants"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "very resilient and can exist in very low or high ",
+                  {
+                    "number": 36
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Cryptobiosis"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "In dry conditions, they roll into a ball called a ‘tun’."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They stay alive with a much lower metabolism than usual."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A type of ",
+                  {
+                    "number": 37
+                  },
+                  " ensures their DNA is not damaged."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Research is underway to find out how many days they can stay alive in ",
+                  {
+                    "number": 38
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Feeding"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "consume liquids, e.g., those found in moss or ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "may eat other tardigrades"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Conservation status"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They are not considered to be ",
+                  {
+                    "number": 40
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-038.webp",
+          "page": 38
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 38
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c3a5c6e3c89dde95748eddf6e4a81efe86bfb56591211a04f89cb7c8bd4f557a.mp3",
+        "sha256": "c3a5c6e3c89dde95748eddf6e4a81efe86bfb56591211a04f89cb7c8bd4f557a",
+        "duration": 426.971,
+        "start": 0,
+        "end": 414.57,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t2-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

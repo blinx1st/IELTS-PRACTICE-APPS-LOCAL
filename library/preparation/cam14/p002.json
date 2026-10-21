@@ -1,0 +1,183 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 2,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 1\nLISTENING\nSECTION 1\nQuestions 1-10\nComplete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nCRIME REPORT FORM\nType of crime:\ntheft\nPersonal information\nExample\nName\nLouise....... Aylor....\nNationality\nWcccerecontsnssssosntuansbdzsiesnen\nDate of birth\n14 December 1977\nOccupation\ninterior designer\nReason for visit\nbusiness (to buy antique 2 ooccssssnenean)\nLength of stay\ntwo months\nCurrent address\n8 occccntnennteeiennn Apartments (No 15)\nDetails of theft\nItems stolen\n— a wallet containing approximately 4 £osc\na: i:ee\nDate of theft\nG scx asereerrrratecienensenen\nPossible time and place of theft\nLocation\nOUtSIAE the 7occ, at about 4 pm\nDetails of suspect\n— some boys asked for the 8oie then ran off\n— one hada T-shirt with a picture of a tiger\n— he was about 12, slim build With 9 ooo. NIP\nCrime reference number allocated\n10\n",
+  "blocks": [
+    {
+      "box": [
+        124.17498016357422,
+        124.89485931396484,
+        182.4832305908203,
+        142.9092254638672
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        299.8196105957031,
+        172.76519775390625,
+        378.5356140136719,
+        182.49293518066406
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        123.45513916015625,
+        215.2366485595703,
+        328.5706481933594,
+        227.12612915039062
+      ],
+      "text": "SECTION 1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        123.45513916015625,
+        242.5911102294922,
+        246.1183624267578,
+        253.39971923828125
+      ],
+      "text": "Complete the form below.\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        268.5058898925781,
+        404.5297546386719,
+        278.59393310546875
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        262.0271911621094,
+        306.29833984375,
+        414.6292419433594,
+        317.46722412109375
+      ],
+      "text": "CRIME REPORT FORM\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        334.0127258300781,
+        274.4447326660156,
+        344.10076904296875
+      ],
+      "text": "Type of crime:\ntheft\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        351.649169921875,
+        235.75244140625,
+        360.6563720703125
+      ],
+      "text": "Personal information\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        372.1650390625,
+        168.64405822753906,
+        382.97369384765625
+      ],
+      "text": "Example\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        389.4415588378906,
+        346.3401794433594,
+        405.6545104980469
+      ],
+      "text": "Name\nLouise....... Aylor....\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        412.4768981933594,
+        346.7362365722656,
+        439.8410949707031
+      ],
+      "text": "Nationality\nWcccerecontsnssssosntuansbdzsiesnen\nDate of birth\n14 December 1977\n"
+    },
+    {
+      "box": [
+        126.33453369140625,
+        444.8703918457031,
+        473.0309143066406,
+        489.51220703125
+      ],
+      "text": "Occupation\ninterior designer\nReason for visit\nbusiness (to buy antique 2 ooccssssnenean)\nLength of stay\ntwo months\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        494.5403747558594,
+        445.151123046875,
+        508.5915832519531
+      ],
+      "text": "Current address\n8 occccntnennteeiennn Apartments (No 15)\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        518.295654296875,
+        201.78436279296875,
+        527.3027954101562
+      ],
+      "text": "Details of theft\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        534.1323852539062,
+        533.349609375,
+        560.7757568359375
+      ],
+      "text": "Items stolen\n— a wallet containing approximately 4 £osc\na: i:ee\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        566.5258178710938,
+        345.80584716796875,
+        576.9741821289062
+      ],
+      "text": "Date of theft\nG scx asereerrrratecienensenen\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        590.2810668945312,
+        540.1287841796875,
+        666.2359008789062
+      ],
+      "text": "Possible time and place of theft\nLocation\nOUtSIAE the 7occ, at about 4 pm\nDetails of suspect\n— some boys asked for the 8oie then ran off\n— one hada T-shirt with a picture of a tiger\n— he was about 12, slim build With 9 ooo. NIP\n"
+    },
+    {
+      "box": [
+        124.89482116699219,
+        678.1033935546875,
+        301.54376220703125,
+        687.8311157226562
+      ],
+      "text": "Crime reference number allocated\n"
+    },
+    {
+      "box": [
+        120.57568359375,
+        727.4135131835938,
+        131.33750915527344,
+        735.7001342773438
+      ],
+      "text": "10\n"
+    }
+  ]
+}

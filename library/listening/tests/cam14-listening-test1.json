@@ -1,0 +1,977 @@
+{
+  "id": "cam14-listening-test1",
+  "skill": "listening",
+  "book": 14,
+  "test": 1,
+  "title": "Cambridge 14 · Listening Test 1",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam14-listening-test1-p1",
+      "number": 1,
+      "title": "CRIME REPORT FORM",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t1-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the form below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Nationality: …"
+            },
+            {
+              "number": 2,
+              "text": "Reason for visit: business (to buy antique …)"
+            },
+            {
+              "number": 3,
+              "text": "Current address: … Apartments (No 15)"
+            },
+            {
+              "number": 4,
+              "text": "Items stolen: a wallet containing approximately £…; a …"
+            },
+            {
+              "number": 5,
+              "text": "Items stolen: a wallet containing approximately £…; a …"
+            },
+            {
+              "number": 6,
+              "text": "Date of theft: …"
+            },
+            {
+              "number": 7,
+              "text": "Location: outside the … at about 4 pm"
+            },
+            {
+              "number": 8,
+              "text": "– some boys asked for the … then ran off"
+            },
+            {
+              "number": 9,
+              "text": "– he was about 12, slim build with … hair"
+            },
+            {
+              "number": 10,
+              "text": "Crime reference number allocated: …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-002.webp",
+              "page": 2
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "CRIME REPORT FORM"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Type of crime: theft"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Personal information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Example: Name: Louise Taylor"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Nationality: ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Date of birth: 14 December 1977"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Occupation: interior designer"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Reason for visit: business (to buy antique ",
+                  {
+                    "number": 2
+                  },
+                  ")"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Length of stay: two months"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Current address: ",
+                  {
+                    "number": 3
+                  },
+                  " Apartments (No 15)"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Details of theft"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Items stolen: a wallet containing approximately £",
+                  {
+                    "number": 4
+                  },
+                  "; a ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Date of theft: ",
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Possible time and place of theft"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Location: outside the ",
+                  {
+                    "number": 7
+                  },
+                  " at about 4 pm"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Details of suspect:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– some boys asked for the ",
+                  {
+                    "number": 8
+                  },
+                  " then ran off"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– one had a T-shirt with a picture of a tiger"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– he was about 12, slim build with ",
+                  {
+                    "number": 9
+                  },
+                  " hair"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Crime reference number allocated: ",
+                  {
+                    "number": 10
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-002.webp",
+          "page": 2
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 2
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/f8bbb6b49d7cf60554bbd81bfa2c97ec071998431eafc20f9f0e771b6dab3b06.mp3",
+        "sha256": "f8bbb6b49d7cf60554bbd81bfa2c97ec071998431eafc20f9f0e771b6dab3b06",
+        "duration": 523.314,
+        "start": 66.0,
+        "end": 523.314,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t1-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test1-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t1-p2-g11",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO pieces of advice for the first week of an apprenticeship does the manager give?",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Which TWO pieces of advice for the first week of an apprenticeship does the manager give?"
+            },
+            {
+              "number": 12,
+              "text": "Which TWO pieces of advice for the first week of an apprenticeship does the manager give?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-003.webp",
+              "page": 3
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "get to know colleagues"
+            },
+            {
+              "value": "B",
+              "label": "learn from any mistakes"
+            },
+            {
+              "value": "C",
+              "label": "ask lots of questions"
+            },
+            {
+              "value": "D",
+              "label": "react positively to feedback"
+            },
+            {
+              "value": "E",
+              "label": "enjoy new challenges"
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t1-p2-g13",
+          "type": "multi",
+          "heading": "Questions 13–14",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO things does the manager say mentors can help with?",
+          "questions": [
+            {
+              "number": 13,
+              "text": "Which TWO things does the manager say mentors can help with?"
+            },
+            {
+              "number": 14,
+              "text": "Which TWO things does the manager say mentors can help with?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-003.webp",
+              "page": 3
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "confidence-building"
+            },
+            {
+              "value": "B",
+              "label": "making career plans"
+            },
+            {
+              "value": "C",
+              "label": "completing difficult tasks"
+            },
+            {
+              "value": "D",
+              "label": "making a weekly timetable"
+            },
+            {
+              "value": "E",
+              "label": "reviewing progress"
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t1-p2-g15",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "What does the manager say about each of the following aspects of the company policy for apprentices? Write the correct letter, A, B or C, next to .",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "Using the internet"
+            },
+            {
+              "number": 16,
+              "text": "Flexible working"
+            },
+            {
+              "number": 17,
+              "text": "Booking holidays"
+            },
+            {
+              "number": 18,
+              "text": "Working overtime"
+            },
+            {
+              "number": 19,
+              "text": "Wearing trainers"
+            },
+            {
+              "number": 20,
+              "text": "Bringing food to work"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-004.webp",
+              "page": 4
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "It is encouraged."
+            },
+            {
+              "value": "B",
+              "label": "There are some restrictions."
+            },
+            {
+              "value": "C",
+              "label": "It is against the rules."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-003.webp",
+          "page": 3
+        },
+        {
+          "url": "/library-assets/l-cam14-page-004.webp",
+          "page": 4
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 3
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 4
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/25b2436cd4b0ee0a0a412bd3efd798975e44abd4423949c9885624992a0e02d9.mp3",
+        "sha256": "25b2436cd4b0ee0a0a412bd3efd798975e44abd4423949c9885624992a0e02d9",
+        "duration": 404.765,
+        "start": 0,
+        "end": 404.765,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t1-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test1-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t1-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–25",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Carla and Rob were surprised to learn that coastal cities",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "contain nearly half the world’s population."
+                },
+                {
+                  "value": "B",
+                  "label": "include most of the world’s largest cities."
+                },
+                {
+                  "value": "C",
+                  "label": "are growing twice as fast as other cities."
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "According to Rob, building coastal cities near to rivers",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "may bring pollution to the cities."
+                },
+                {
+                  "value": "B",
+                  "label": "may reduce the land available for agriculture."
+                },
+                {
+                  "value": "C",
+                  "label": "may mean the countryside is spoiled by industry."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "What mistake was made when building water drainage channels in Miami in the 1950s?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "There were not enough of them."
+                },
+                {
+                  "value": "B",
+                  "label": "They were made of unsuitable materials."
+                },
+                {
+                  "value": "C",
+                  "label": "They did not allow for the effects of climate change."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What do Rob and Carla think that the authorities in Miami should do immediately?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "take measures to restore ecosystems"
+                },
+                {
+                  "value": "B",
+                  "label": "pay for a new flood prevention system"
+                },
+                {
+                  "value": "C",
+                  "label": "stop disposing of waste materials into the ocean"
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "What do they agree should be the priority for international action?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "greater coordination of activities"
+                },
+                {
+                  "value": "B",
+                  "label": "more sharing of information"
+                },
+                {
+                  "value": "C",
+                  "label": "agreement on shared policies"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-005.webp",
+              "page": 5
+            }
+          ]
+        },
+        {
+          "id": "l-cam14-t1-p3-g26",
+          "type": "matching",
+          "heading": "Questions 26–30",
+          "instructions": "What decision do the students make about each of the following parts of their presentation? Choose FIVE answers from the box and write the correct letter, A-G, next to . Decisions",
+          "body": "",
+          "questions": [
+            {
+              "number": 26,
+              "text": "Historical background"
+            },
+            {
+              "number": 27,
+              "text": "Geographical factors"
+            },
+            {
+              "number": 28,
+              "text": "Past mistakes"
+            },
+            {
+              "number": 29,
+              "text": "Future risks"
+            },
+            {
+              "number": 30,
+              "text": "International implications"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-006.webp",
+              "page": 6
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "use visuals"
+            },
+            {
+              "value": "B",
+              "label": "keep it short"
+            },
+            {
+              "value": "C",
+              "label": "involve other students"
+            },
+            {
+              "value": "D",
+              "label": "check the information is accurate"
+            },
+            {
+              "value": "E",
+              "label": "provide a handout"
+            },
+            {
+              "value": "F",
+              "label": "focus on one example"
+            },
+            {
+              "value": "G",
+              "label": "do online research"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-005.webp",
+          "page": 5
+        },
+        {
+          "url": "/library-assets/l-cam14-page-006.webp",
+          "page": 6
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 5
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 6
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/24d4f7fc940869f313052264349984e6a6aef71cf1a38bf2e69e475bc56acee9.mp3",
+        "sha256": "24d4f7fc940869f313052264349984e6a6aef71cf1a38bf2e69e475bc56acee9",
+        "duration": 431.303,
+        "start": 0,
+        "end": 431.303,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t1-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam14-listening-test1-p4",
+      "number": 4,
+      "title": "Marine renewable energy (ocean energy)",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam14-t1-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "More energy required because of growth in population and …"
+            },
+            {
+              "number": 32,
+              "text": "Advantage: Waves provide a … source of renewable energy"
+            },
+            {
+              "number": 33,
+              "text": "waves can move in any …"
+            },
+            {
+              "number": 34,
+              "text": "movement of sand, etc. on the … of the ocean may be affected"
+            },
+            {
+              "number": 35,
+              "text": "Tides are more … than waves"
+            },
+            {
+              "number": 36,
+              "text": "will be created in a … at Swansea"
+            },
+            {
+              "number": 37,
+              "text": "stored water is released through …, driving the turbines in the reverse direction"
+            },
+            {
+              "number": 38,
+              "text": "no … is required to make it work"
+            },
+            {
+              "number": 39,
+              "text": "likely to create a number of …"
+            },
+            {
+              "number": 40,
+              "text": "Problem: may harm fish and birds, e.g. by affecting … and building up silt"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam14-page-007.webp",
+              "page": 7
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Marine renewable energy (ocean energy)"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Introduction"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "More energy required because of growth in population and ",
+                  {
+                    "number": 31
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "What’s needed:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "renewable energy sources"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "methods that won’t create pollution"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Wave energy"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Advantage: Waves provide a ",
+                  {
+                    "number": 32
+                  },
+                  " source of renewable energy"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Electricity can be generated using offshore or onshore systems"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Onshore systems may use a reservoir"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Problems:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "waves can move in any ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "movement of sand, etc. on the ",
+                  {
+                    "number": 34
+                  },
+                  " of the ocean may be affected"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Tidal energy"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Tides are more ",
+                  {
+                    "number": 35
+                  },
+                  " than waves"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Planned tidal lagoon in Wales:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "will be created in a ",
+                  {
+                    "number": 36
+                  },
+                  " at Swansea"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "breakwater (dam) containing 16 turbines"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "rising tide forces water through turbines, generating electricity"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "stored water is released through ",
+                  {
+                    "number": 37
+                  },
+                  ", driving the turbines in the reverse direction"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Advantages:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "not dependent on weather"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "no ",
+                  {
+                    "number": 38
+                  },
+                  " is required to make it work"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "likely to create a number of ",
+                  {
+                    "number": 39
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Problem: may harm fish and birds, e.g. by affecting ",
+                  {
+                    "number": 40
+                  },
+                  " and building up silt"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ocean thermal energy conversion"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Uses a difference in temperature between the surface and lower levels"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Water brought to the surface in a pipe"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam14-page-007.webp",
+          "page": 7
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+          "page": 7
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/436c4ea5431405b0995df4550f6ca7105d6073d00554a964b63b3183576316ca.mp3",
+        "sha256": "436c4ea5431405b0995df4550f6ca7105d6073d00554a964b63b3183576316ca",
+        "duration": 487.965,
+        "start": 0,
+        "end": 440.61,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam14/t1-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam14/timeline-t1-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

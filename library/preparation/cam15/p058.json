@@ -1,0 +1,228 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 58,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Test 3\nPART 3\nQuestions 21-30\nQuestions 21-26\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.\nWhai Hazel should analyse about items in newspapers:\n©\nWhat 24 on\neeeeeneee the item is on\n©\nTNE 22 oneness Of the item, including the headline\n©\nANY 23 oeeeeeenceennnieinane ACCOMpanying the item\n©\nNe 24anes OF the item, e.g. what’s made prominent\ne\n~~ the writer’s main 25oe\nsseennsnee\n©\nTNE 26 onsets the Writer may make about the reader\nQuestions 27-30\nWhat does Hazel decide to do about each of the following types of articles?\nWrite the correct letter, A,\nB or C, next to Questions 27-30.\nA\nShe will definitely look for a suitable article.\nB\nShe may look for a suitable article.\nC\nShe definitely won't look for an article.\nTypes of articles\n27\nnational news item\nseveessanneaneennee\n28 = editorial\ncevereenstnnseee\n29\nhuman interest\ncesesceeenneenee\n30 = arts\nsesteceesesneeeee\n56\n=} 1D) p. 123\np. 109\n",
+  "blocks": [
+    {
+      "box": [
+        78.09840372770556,
+        84.57661233184704,
+        109.04984483638151,
+        93.58312325843252
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        121.28646108864874,
+        277.26738097705174,
+        132.8147868738209
+      ],
+      "text": "PART 3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        149.71859885126966,
+        174.19184600019207,
+        160.52640610541707
+      ],
+      "text": "Questions 21-26\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        178.51063709189845,
+        214.9613680484938,
+        190.03896287707062
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        78.09840372770556,
+        206.22297389850362,
+        298.42951736840354,
+        215.5897440906015
+      ],
+      "text": "Write ONE WORD ONLY for each answer.\n"
+    },
+    {
+      "box": [
+        89.25531854594922,
+        245.8120264793682,
+        379.4357986317581,
+        257.3403522645404
+      ],
+      "text": "Whai Hazel should analyse about items in newspapers:\n"
+    },
+    {
+      "box": [
+        89.97511950196494,
+        273.52436328597344,
+        355.5096804606535,
+        282.8911188336833
+      ],
+      "text": "©\nWhat 24 on\neeeeeneee the item is on\n"
+    },
+    {
+      "box": [
+        89.97511950196494,
+        301.2367000925786,
+        454.1512901678243,
+        312.76502587775076
+      ],
+      "text": "©\nTNE 22 oneness Of the item, including the headline\n"
+    },
+    {
+      "box": [
+        89.97511950196494,
+        329.3089373771917,
+        401.2458027455654,
+        340.83726316236385
+      ],
+      "text": "©\nANY 23 oeeeeeenceennnieinane ACCOMpanying the item\n"
+    },
+    {
+      "box": [
+        89.97511950196494,
+        357.0212741837969,
+        484.7859438765871,
+        368.54959996896906
+      ],
+      "text": "©\nNe 24anes OF the item, e.g. what’s made prominent\n"
+    },
+    {
+      "box": [
+        89.97511950196494,
+        384.0138100343864,
+        344.7487498923013,
+        398.0639580003392
+      ],
+      "text": "e\n~~ the writer’s main 25oe\nsseennsnee\n"
+    },
+    {
+      "box": [
+        89.97511950196494,
+        412.44594779700725,
+        474.3776501698246,
+        423.9742735821794
+      ],
+      "text": "©\nTNE 26 onsets the Writer may make about the reader\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        467.87062141021767,
+        174.30878143789116,
+        478.3181620766587
+      ],
+      "text": "Questions 27-30\n"
+    },
+    {
+      "box": [
+        77.01870229368198,
+        495.94285869483076,
+        470.67795057827215,
+        507.8314657120972
+      ],
+      "text": "What does Hazel decide to do about each of the following types of articles?\n"
+    },
+    {
+      "box": [
+        78.09840372770556,
+        524.3749964574516,
+        385.7054125740854,
+        534.8225371238927
+      ],
+      "text": "Write the correct letter, A,\nB or C, next to Questions 27-30.\n"
+    },
+    {
+      "box": [
+        171.31262753174124,
+        563.2442480823005,
+        421.96175392516824,
+        574.7726031562486
+      ],
+      "text": "A\nShe will definitely look for a suitable article.\n"
+    },
+    {
+      "box": [
+        172.03242848775696,
+        585.19817724078,
+        377.6939951302015,
+        596.726532314728
+      ],
+      "text": "B\nShe may look for a suitable article.\n"
+    },
+    {
+      "box": [
+        171.6725280097491,
+        606.7922059212516,
+        395.22836516356097,
+        618.3205609951996
+      ],
+      "text": "C\nShe definitely won't look for an article.\n"
+    },
+    {
+      "box": [
+        102.21173575423217,
+        650.7000642382104,
+        194.67733844678665,
+        662.2284193121585
+      ],
+      "text": "Types of articles\n"
+    },
+    {
+      "box": [
+        77.01870229368198,
+        672.6539933966899,
+        277.078380506301,
+        681.6605262898572
+      ],
+      "text": "27\nnational news item\nseveessanneaneennee\n"
+    },
+    {
+      "box": [
+        77.01870229368198,
+        692.80842016513,
+        277.84316902206774,
+        707.2188493631771
+      ],
+      "text": "28 = editorial\ncevereenstnnseee\n"
+    },
+    {
+      "box": [
+        77.01870229368198,
+        715.842050757633,
+        277.84316902206774,
+        724.8485836508005
+      ],
+      "text": "29\nhuman interest\ncesesceeenneenee\n"
+    },
+    {
+      "box": [
+        77.01870229368198,
+        735.9964775260731,
+        276.92889059421185,
+        750.7671586674387
+      ],
+      "text": "30 = arts\nsesteceesesneeeee\n"
+    },
+    {
+      "box": [
+        77.01870229368198,
+        771.9865253268591,
+        243.26574817072813,
+        784.5956362307625
+      ],
+      "text": "56\n=} 1D) p. 123\np. 109\n"
+    }
+  ]
+}

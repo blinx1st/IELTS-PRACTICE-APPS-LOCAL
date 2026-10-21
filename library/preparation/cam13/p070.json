@@ -1,0 +1,93 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 70,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\nQuestions 32-36\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nFB.com/LouisQuangVo\nWrite your answers in boxes 32-36 on your answer sheet.\nLooking at evidence of climate change\nYama Dixit and David Hodell have found the first definitive evidence of climate change\naffecting the plains of north-western India thousands of years ago. By collecting the\nF2 ooronmmmnnnnnnnnnnnn Of SNails and analysing them, they discovered evidence of a\nchange in water levels iN a 33 00.00 iN the region. This occurred when\nMETS WAS I€SS 34... enconsnnnmnnnennnnen than evaporation, and suggests that there was an\nextended period of drought.\nPetrie and Singh's team are using archaeological records to lOOK at 35 -wewmmummsmmnmnnnnnnn\nrom five millennia ago, in order to know whether people had adapted their agricultural\n_ practices to changing climatic conditions. They are also examining objects including\nBB oevconinninnnmunnnnne\ny $0 @S to find out about links between inhabitants of different parts\nof the region and whether these changed over time.\n",
+  "blocks": [
+    {
+      "box": [
+        492.4800109863281,
+        65.15997314453125,
+        539.2261962890625,
+        77.77261352539062
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        48.959991455078125,
+        98.6400146484375,
+        150.75901794433594,
+        110.53189849853516
+      ],
+      "text": "Questions 32-36\n"
+    },
+    {
+      "box": [
+        48.239990234375,
+        128.8800048828125,
+        213.60232543945312,
+        142.5736846923828
+      ],
+      "text": "Complete the summary below.\n"
+    },
+    {
+      "box": [
+        47.87998962402344,
+        158.03997802734375,
+        501.4675598144531,
+        172.8147430419922
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\nFB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        47.879974365234375,
+        187.55999755859375,
+        366.76800537109375,
+        201.97442626953125
+      ],
+      "text": "Write your answers in boxes 32-36 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        135.0,
+        219.96002197265625,
+        447.2459716796875,
+        239.77981567382812
+      ],
+      "text": "Looking at evidence of climate change\n"
+    },
+    {
+      "box": [
+        44.280029296875,
+        256.67999267578125,
+        521.5392456054688,
+        366.8533020019531
+      ],
+      "text": "Yama Dixit and David Hodell have found the first definitive evidence of climate change\naffecting the plains of north-western India thousands of years ago. By collecting the\nF2 ooronmmmnnnnnnnnnnnn Of SNails and analysing them, they discovered evidence of a\nchange in water levels iN a 33 00.00 iN the region. This occurred when\nMETS WAS I€SS 34... enconsnnnmnnnennnnen than evaporation, and suggests that there was an\nextended period of drought.\n"
+    },
+    {
+      "box": [
+        43.9200439453125,
+        386.6400146484375,
+        532.8035278320312,
+        423.37725830078125
+      ],
+      "text": "Petrie and Singh's team are using archaeological records to lOOK at 35 -wewmmummsmmnmnnnnnnn\nrom five millennia ago, in order to know whether people had adapted their agricultural\n"
+    },
+    {
+      "box": [
+        34.920013427734375,
+        425.5199890136719,
+        527.5440673828125,
+        478.45440673828125
+      ],
+      "text": "_ practices to changing climatic conditions. They are also examining objects including\nBB oevconinninnnmunnnnne\ny $0 @S to find out about links between inhabitants of different parts\nof the region and whether these changed over time.\n"
+    }
+  ]
+}

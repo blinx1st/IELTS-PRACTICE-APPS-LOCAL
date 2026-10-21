@@ -1,0 +1,183 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 19,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nQuestions 27-31\nLook at the following statements (Questions 27-31) and the list of researchers below.\nMatch each statement with the correct researcher, A-F.\nWrite the correct letter, A-F, in boxes 27-31 on your answer sheet.\nNB\nYou may use any letter more than once.\n27\nHotel managers need to know what would encourage good staff to remain.\n28\nThe actions of managers may make staff feel they shouldn’t move toa different\nemployer.\n29\nLittle is done in the hospitality industry to help workers improve their skills.\n30\nStaff are less likely to change jobs if cooperation is encouraged.\n31\nDissatisfaction with pay is not the only reason why hospitality workers change jobs.\nList of Researchers\nA\nPfeffer\nB\nLucas\nC\n Maroudas et al.\nD\n Ngand Sorensen\nE\nEnz and Siguaw\nF\n Deery\n27\n",
+  "blocks": [
+    {
+      "box": [
+        499.2194519042969,
+        95.74073791503906,
+        539.783447265625,
+        105.82880401611328
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        107.61833190917969,
+        130.6536865234375,
+        195.95343017578125,
+        140.3814239501953
+      ],
+      "text": "Questions 27-31\n"
+    },
+    {
+      "box": [
+        107.25840759277344,
+        156.20855712890625,
+        522.0963134765625,
+        167.7377166748047
+      ],
+      "text": "Look at the following statements (Questions 27-31) and the list of researchers below.\n"
+    },
+    {
+      "box": [
+        107.61833190917969,
+        182.8431396484375,
+        377.4632873535156,
+        192.57093811035156
+      ],
+      "text": "Match each statement with the correct researcher, A-F.\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        208.39797973632812,
+        433.4606628417969,
+        218.8463134765625
+      ],
+      "text": "Write the correct letter, A-F, in boxes 27-31 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        236.11245727539062,
+        324.4117126464844,
+        246.560791015625
+      ],
+      "text": "NB\nYou may use any letter more than once.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        260.9473876953125,
+        493.9357604980469,
+        272.4765930175781
+      ],
+      "text": "27\nHotel managers need to know what would encourage good staff to remain.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        279.3037414550781,
+        516.8035888671875,
+        305.22857666015625
+      ],
+      "text": "28\nThe actions of managers may make staff feel they shouldn’t move toa different\nemployer.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        313.8568115234375,
+        491.1425476074219,
+        325.3859558105469
+      ],
+      "text": "29\nLittle is done in the hospitality industry to help workers improve their skills.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        334.3726806640625,
+        441.0497131347656,
+        345.5415954589844
+      ],
+      "text": "30\nStaff are less likely to change jobs if cooperation is encouraged.\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        354.1686706542969,
+        535.3561401367188,
+        365.6978454589844
+      ],
+      "text": "31\nDissatisfaction with pay is not the only reason why hospitality workers change jobs.\n"
+    },
+    {
+      "box": [
+        272.465087890625,
+        391.2412109375,
+        373.90704345703125,
+        399.8880920410156
+      ],
+      "text": "List of Researchers\n"
+    },
+    {
+      "box": [
+        266.7062683105469,
+        411.3971252441406,
+        322.98455810546875,
+        420.0440368652344
+      ],
+      "text": "A\nPfeffer\n"
+    },
+    {
+      "box": [
+        267.4261474609375,
+        431.5530700683594,
+        319.8946228027344,
+        439.83966064453125
+      ],
+      "text": "B\nLucas\n"
+    },
+    {
+      "box": [
+        267.0661926269531,
+        451.3490905761719,
+        365.9454345703125,
+        459.9959716796875
+      ],
+      "text": "C\n Maroudas et al.\n"
+    },
+    {
+      "box": [
+        267.7860412597656,
+        471.5050354003906,
+        376.26806640625,
+        482.31365966796875
+      ],
+      "text": "D\n Ngand Sorensen\n"
+    },
+    {
+      "box": [
+        267.7860412597656,
+        491.66094970703125,
+        370.4768981933594,
+        502.1092834472656
+      ],
+      "text": "E\nEnz and Siguaw\n"
+    },
+    {
+      "box": [
+        267.7860412597656,
+        511.8168640136719,
+        319.7236022949219,
+        522.2651977539062
+      ],
+      "text": "F\n Deery\n"
+    },
+    {
+      "box": [
+        527.6536865234375,
+        732.4524536132812,
+        539.1354370117188,
+        740.3787841796875
+      ],
+      "text": "27\n"
+    }
+  ]
+}

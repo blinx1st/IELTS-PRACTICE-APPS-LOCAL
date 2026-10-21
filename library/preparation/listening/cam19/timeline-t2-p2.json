@@ -1,0 +1,1446 @@
+{
+  "audioSha256": "92eebe7728a829eccd8d030b3dd5ebd8acef18b13c93abec21bc732dbe809229",
+  "duration": 384.130625,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 264.130625,
+      "end": 272.030625,
+      "text": " The training we get is a continuous process, focusing on technical competence and safe handling",
+      "words": [
+        {
+          "word": " The",
+          "start": 264.130625,
+          "end": 265.010625
+        },
+        {
+          "word": " training",
+          "start": 265.010625,
+          "end": 265.370625
+        },
+        {
+          "word": " we",
+          "start": 265.370625,
+          "end": 265.67062500000003
+        },
+        {
+          "word": " get",
+          "start": 265.67062500000003,
+          "end": 265.930625
+        },
+        {
+          "word": " is",
+          "start": 265.930625,
+          "end": 266.150625
+        },
+        {
+          "word": " a",
+          "start": 266.150625,
+          "end": 266.470625
+        },
+        {
+          "word": " continuous",
+          "start": 266.470625,
+          "end": 266.910625
+        },
+        {
+          "word": " process,",
+          "start": 266.910625,
+          "end": 267.830625
+        },
+        {
+          "word": " focusing",
+          "start": 268.490625,
+          "end": 268.810625
+        },
+        {
+          "word": " on",
+          "start": 268.810625,
+          "end": 269.410625
+        },
+        {
+          "word": " technical",
+          "start": 269.410625,
+          "end": 269.950625
+        },
+        {
+          "word": " competence",
+          "start": 269.950625,
+          "end": 270.570625
+        },
+        {
+          "word": " and",
+          "start": 270.570625,
+          "end": 271.23062500000003
+        },
+        {
+          "word": " safe",
+          "start": 271.23062500000003,
+          "end": 271.610625
+        },
+        {
+          "word": " handling",
+          "start": 271.610625,
+          "end": 272.030625
+        }
+      ]
+    },
+    {
+      "start": 272.030625,
+      "end": 278.050625,
+      "text": " techniques, and it's given me the confidence to deal with extreme situations without panicking.",
+      "words": [
+        {
+          "word": " techniques,",
+          "start": 272.030625,
+          "end": 272.750625
+        },
+        {
+          "word": " and",
+          "start": 273.410625,
+          "end": 273.610625
+        },
+        {
+          "word": " it's",
+          "start": 273.610625,
+          "end": 273.770625
+        },
+        {
+          "word": " given",
+          "start": 273.770625,
+          "end": 273.990625
+        },
+        {
+          "word": " me",
+          "start": 273.990625,
+          "end": 274.250625
+        },
+        {
+          "word": " the",
+          "start": 274.250625,
+          "end": 274.770625
+        },
+        {
+          "word": " confidence",
+          "start": 274.770625,
+          "end": 274.930625
+        },
+        {
+          "word": " to",
+          "start": 274.930625,
+          "end": 275.210625
+        },
+        {
+          "word": " deal",
+          "start": 275.210625,
+          "end": 275.410625
+        },
+        {
+          "word": " with",
+          "start": 275.410625,
+          "end": 275.690625
+        },
+        {
+          "word": " extreme",
+          "start": 275.690625,
+          "end": 276.190625
+        },
+        {
+          "word": " situations",
+          "start": 276.190625,
+          "end": 276.990625
+        },
+        {
+          "word": " without",
+          "start": 276.990625,
+          "end": 277.470625
+        },
+        {
+          "word": " panicking.",
+          "start": 277.470625,
+          "end": 278.050625
+        }
+      ]
+    },
+    {
+      "start": 279.110625,
+      "end": 284.210625,
+      "text": " I was glad I'd done a first aid course before I started, as that's a big help with the",
+      "words": [
+        {
+          "word": " I",
+          "start": 279.110625,
+          "end": 279.210625
+        },
+        {
+          "word": " was",
+          "start": 279.210625,
+          "end": 279.430625
+        },
+        {
+          "word": " glad",
+          "start": 279.430625,
+          "end": 279.690625
+        },
+        {
+          "word": " I'd",
+          "start": 279.690625,
+          "end": 279.930625
+        },
+        {
+          "word": " done",
+          "start": 279.930625,
+          "end": 280.050625
+        },
+        {
+          "word": " a",
+          "start": 280.050625,
+          "end": 280.250625
+        },
+        {
+          "word": " first",
+          "start": 280.250625,
+          "end": 280.550625
+        },
+        {
+          "word": " aid",
+          "start": 280.550625,
+          "end": 280.85062500000004
+        },
+        {
+          "word": " course",
+          "start": 280.85062500000004,
+          "end": 281.150625
+        },
+        {
+          "word": " before",
+          "start": 281.150625,
+          "end": 281.530625
+        },
+        {
+          "word": " I",
+          "start": 281.530625,
+          "end": 281.770625
+        },
+        {
+          "word": " started,",
+          "start": 281.770625,
+          "end": 282.270625
+        },
+        {
+          "word": " as",
+          "start": 282.710625,
+          "end": 282.910625
+        },
+        {
+          "word": " that's",
+          "start": 282.910625,
+          "end": 283.210625
+        },
+        {
+          "word": " a",
+          "start": 283.210625,
+          "end": 283.330625
+        },
+        {
+          "word": " big",
+          "start": 283.330625,
+          "end": 283.570625
+        },
+        {
+          "word": " help",
+          "start": 283.570625,
+          "end": 283.870625
+        },
+        {
+          "word": " with",
+          "start": 283.870625,
+          "end": 284.070625
+        },
+        {
+          "word": " the",
+          "start": 284.070625,
+          "end": 284.210625
+        }
+      ]
+    },
+    {
+      "start": 284.210625,
+      "end": 286.590625,
+      "text": " casualty care activities we do.",
+      "words": [
+        {
+          "word": " casualty",
+          "start": 284.210625,
+          "end": 284.610625
+        },
+        {
+          "word": " care",
+          "start": 284.610625,
+          "end": 285.130625
+        },
+        {
+          "word": " activities",
+          "start": 285.130625,
+          "end": 285.550625
+        },
+        {
+          "word": " we",
+          "start": 285.550625,
+          "end": 286.590625
+        },
+        {
+          "word": " do.",
+          "start": 286.590625,
+          "end": 286.590625
+        }
+      ]
+    },
+    {
+      "start": 287.630625,
+      "end": 293.070625,
+      "text": " We've done a lot on how to deal with ropes and tie knots, that's an essential skill.",
+      "words": [
+        {
+          "word": " We've",
+          "start": 287.630625,
+          "end": 287.890625
+        },
+        {
+          "word": " done",
+          "start": 287.890625,
+          "end": 288.130625
+        },
+        {
+          "word": " a",
+          "start": 288.130625,
+          "end": 288.270625
+        },
+        {
+          "word": " lot",
+          "start": 288.270625,
+          "end": 288.510625
+        },
+        {
+          "word": " on",
+          "start": 288.510625,
+          "end": 288.710625
+        },
+        {
+          "word": " how",
+          "start": 288.710625,
+          "end": 288.910625
+        },
+        {
+          "word": " to",
+          "start": 288.910625,
+          "end": 289.130625
+        },
+        {
+          "word": " deal",
+          "start": 289.130625,
+          "end": 289.370625
+        },
+        {
+          "word": " with",
+          "start": 289.370625,
+          "end": 289.630625
+        },
+        {
+          "word": " ropes",
+          "start": 289.630625,
+          "end": 290.010625
+        },
+        {
+          "word": " and",
+          "start": 290.010625,
+          "end": 290.330625
+        },
+        {
+          "word": " tie",
+          "start": 290.330625,
+          "end": 290.630625
+        },
+        {
+          "word": " knots,",
+          "start": 290.630625,
+          "end": 291.090625
+        },
+        {
+          "word": " that's",
+          "start": 291.470625,
+          "end": 291.830625
+        },
+        {
+          "word": " an",
+          "start": 291.830625,
+          "end": 292.010625
+        },
+        {
+          "word": " essential",
+          "start": 292.010625,
+          "end": 292.530625
+        },
+        {
+          "word": " skill.",
+          "start": 292.530625,
+          "end": 293.070625
+        }
+      ]
+    },
+    {
+      "start": 293.710625,
+      "end": 299.090625,
+      "text": " After a year, I did a one-week residential course, led by specialists.",
+      "words": [
+        {
+          "word": " After",
+          "start": 293.710625,
+          "end": 294.270625
+        },
+        {
+          "word": " a",
+          "start": 294.270625,
+          "end": 294.550625
+        },
+        {
+          "word": " year,",
+          "start": 294.550625,
+          "end": 294.950625
+        },
+        {
+          "word": " I",
+          "start": 295.23062500000003,
+          "end": 295.330625
+        },
+        {
+          "word": " did",
+          "start": 295.330625,
+          "end": 295.450625
+        },
+        {
+          "word": " a",
+          "start": 295.450625,
+          "end": 295.67062500000003
+        },
+        {
+          "word": " one",
+          "start": 295.67062500000003,
+          "end": 295.910625
+        },
+        {
+          "word": "-week",
+          "start": 295.910625,
+          "end": 296.17062500000003
+        },
+        {
+          "word": " residential",
+          "start": 296.17062500000003,
+          "end": 296.770625
+        },
+        {
+          "word": " course,",
+          "start": 296.770625,
+          "end": 297.630625
+        },
+        {
+          "word": " led",
+          "start": 297.910625,
+          "end": 298.150625
+        },
+        {
+          "word": " by",
+          "start": 298.150625,
+          "end": 298.450625
+        },
+        {
+          "word": " specialists.",
+          "start": 298.450625,
+          "end": 299.090625
+        }
+      ]
+    },
+    {
+      "start": 299.810625,
+      "end": 305.210625,
+      "text": " They had a wave tank where they could create extreme weather conditions, so we could get",
+      "words": [
+        {
+          "word": " They",
+          "start": 299.810625,
+          "end": 299.810625
+        },
+        {
+          "word": " had",
+          "start": 299.810625,
+          "end": 299.990625
+        },
+        {
+          "word": " a",
+          "start": 299.990625,
+          "end": 300.130625
+        },
+        {
+          "word": " wave",
+          "start": 300.130625,
+          "end": 300.430625
+        },
+        {
+          "word": " tank",
+          "start": 300.430625,
+          "end": 300.790625
+        },
+        {
+          "word": " where",
+          "start": 300.790625,
+          "end": 301.270625
+        },
+        {
+          "word": " they",
+          "start": 301.270625,
+          "end": 301.410625
+        },
+        {
+          "word": " could",
+          "start": 301.410625,
+          "end": 301.650625
+        },
+        {
+          "word": " create",
+          "start": 301.650625,
+          "end": 302.070625
+        },
+        {
+          "word": " extreme",
+          "start": 302.070625,
+          "end": 302.810625
+        },
+        {
+          "word": " weather",
+          "start": 302.810625,
+          "end": 303.150625
+        },
+        {
+          "word": " conditions,",
+          "start": 303.150625,
+          "end": 303.870625
+        },
+        {
+          "word": " so",
+          "start": 304.23062500000003,
+          "end": 304.590625
+        },
+        {
+          "word": " we",
+          "start": 304.590625,
+          "end": 304.73062500000003
+        },
+        {
+          "word": " could",
+          "start": 304.73062500000003,
+          "end": 304.890625
+        },
+        {
+          "word": " get",
+          "start": 304.890625,
+          "end": 305.210625
+        }
+      ]
+    },
+    {
+      "start": 305.210625,
+      "end": 310.150625,
+      "text": " experience at what to do if the boat turned over in a storm at night, for example.",
+      "words": [
+        {
+          "word": " experience",
+          "start": 305.210625,
+          "end": 305.750625
+        },
+        {
+          "word": " at",
+          "start": 305.750625,
+          "end": 306.010625
+        },
+        {
+          "word": " what",
+          "start": 306.010625,
+          "end": 306.190625
+        },
+        {
+          "word": " to",
+          "start": 306.190625,
+          "end": 306.35062500000004
+        },
+        {
+          "word": " do",
+          "start": 306.35062500000004,
+          "end": 306.790625
+        },
+        {
+          "word": " if",
+          "start": 306.790625,
+          "end": 307.010625
+        },
+        {
+          "word": " the",
+          "start": 307.010625,
+          "end": 307.210625
+        },
+        {
+          "word": " boat",
+          "start": 307.210625,
+          "end": 307.410625
+        },
+        {
+          "word": " turned",
+          "start": 307.410625,
+          "end": 307.690625
+        },
+        {
+          "word": " over",
+          "start": 307.690625,
+          "end": 308.030625
+        },
+        {
+          "word": " in",
+          "start": 308.030625,
+          "end": 308.310625
+        },
+        {
+          "word": " a",
+          "start": 308.310625,
+          "end": 308.330625
+        },
+        {
+          "word": " storm",
+          "start": 308.330625,
+          "end": 308.610625
+        },
+        {
+          "word": " at",
+          "start": 308.610625,
+          "end": 308.85062500000004
+        },
+        {
+          "word": " night,",
+          "start": 308.85062500000004,
+          "end": 309.17062500000003
+        },
+        {
+          "word": " for",
+          "start": 309.330625,
+          "end": 309.430625
+        },
+        {
+          "word": " example.",
+          "start": 309.430625,
+          "end": 310.150625
+        }
+      ]
+    },
+    {
+      "start": 311.310625,
+      "end": 317.23062500000003,
+      "text": " Since I started, I've had to deal with a range of emergency situations, but the work's",
+      "words": [
+        {
+          "word": " Since",
+          "start": 311.310625,
+          "end": 311.650625
+        },
+        {
+          "word": " I",
+          "start": 311.650625,
+          "end": 311.950625
+        },
+        {
+          "word": " started,",
+          "start": 311.950625,
+          "end": 312.430625
+        },
+        {
+          "word": " I've",
+          "start": 312.710625,
+          "end": 313.190625
+        },
+        {
+          "word": " had",
+          "start": 313.190625,
+          "end": 313.370625
+        },
+        {
+          "word": " to",
+          "start": 313.370625,
+          "end": 313.490625
+        },
+        {
+          "word": " deal",
+          "start": 313.490625,
+          "end": 313.67062500000003
+        },
+        {
+          "word": " with",
+          "start": 313.67062500000003,
+          "end": 313.85062500000004
+        },
+        {
+          "word": " a",
+          "start": 313.85062500000004,
+          "end": 314.010625
+        },
+        {
+          "word": " range",
+          "start": 314.010625,
+          "end": 314.250625
+        },
+        {
+          "word": " of",
+          "start": 314.250625,
+          "end": 314.490625
+        },
+        {
+          "word": " emergency",
+          "start": 314.490625,
+          "end": 315.010625
+        },
+        {
+          "word": " situations,",
+          "start": 315.010625,
+          "end": 315.97062500000004
+        },
+        {
+          "word": " but",
+          "start": 316.610625,
+          "end": 316.85062500000004
+        },
+        {
+          "word": " the",
+          "start": 316.85062500000004,
+          "end": 317.070625
+        },
+        {
+          "word": " work's",
+          "start": 317.070625,
+          "end": 317.35062500000004
+        }
+      ]
+    },
+    {
+      "start": 317.890625,
+      "end": 318.67062500000003,
+      "text": " hugely motivating.",
+      "words": [
+        {
+          "word": " hugely",
+          "start": 317.890625,
+          "end": 318.090625
+        },
+        {
+          "word": " motivating.",
+          "start": 318.090625,
+          "end": 318.67062500000003
+        }
+      ]
+    },
+    {
+      "start": 319.570625,
+      "end": 321.770625,
+      "text": " It's not just about saving lives.",
+      "words": [
+        {
+          "word": " It's",
+          "start": 319.570625,
+          "end": 319.770625
+        },
+        {
+          "word": " not",
+          "start": 319.770625,
+          "end": 320.050625
+        },
+        {
+          "word": " just",
+          "start": 320.050625,
+          "end": 320.390625
+        },
+        {
+          "word": " about",
+          "start": 320.390625,
+          "end": 320.750625
+        },
+        {
+          "word": " saving",
+          "start": 320.750625,
+          "end": 321.150625
+        },
+        {
+          "word": " lives.",
+          "start": 321.150625,
+          "end": 321.770625
+        }
+      ]
+    },
+    {
+      "start": 321.770625,
+      "end": 325.17062500000003,
+      "text": " I've learned a lot about the technology involved.",
+      "words": [
+        {
+          "word": " I've",
+          "start": 321.770625,
+          "end": 322.770625
+        },
+        {
+          "word": " learned",
+          "start": 322.770625,
+          "end": 323.030625
+        },
+        {
+          "word": " a",
+          "start": 323.030625,
+          "end": 323.290625
+        },
+        {
+          "word": " lot",
+          "start": 323.290625,
+          "end": 323.47062500000004
+        },
+        {
+          "word": " about",
+          "start": 323.47062500000004,
+          "end": 323.790625
+        },
+        {
+          "word": " the",
+          "start": 323.790625,
+          "end": 323.990625
+        },
+        {
+          "word": " technology",
+          "start": 323.990625,
+          "end": 324.510625
+        },
+        {
+          "word": " involved.",
+          "start": 324.510625,
+          "end": 325.17062500000003
+        }
+      ]
+    },
+    {
+      "start": 326.050625,
+      "end": 331.830625,
+      "text": " My background in IT's been useful here, and I can use my expertise to help other volunteers.",
+      "words": [
+        {
+          "word": " My",
+          "start": 326.050625,
+          "end": 326.250625
+        },
+        {
+          "word": " background",
+          "start": 326.250625,
+          "end": 326.770625
+        },
+        {
+          "word": " in",
+          "start": 326.770625,
+          "end": 326.990625
+        },
+        {
+          "word": " IT's",
+          "start": 326.990625,
+          "end": 327.47062500000004
+        },
+        {
+          "word": " been",
+          "start": 327.47062500000004,
+          "end": 327.73062500000003
+        },
+        {
+          "word": " useful",
+          "start": 327.73062500000003,
+          "end": 328.110625
+        },
+        {
+          "word": " here,",
+          "start": 328.110625,
+          "end": 328.97062500000004
+        },
+        {
+          "word": " and",
+          "start": 328.97062500000004,
+          "end": 329.110625
+        },
+        {
+          "word": " I",
+          "start": 329.110625,
+          "end": 329.270625
+        },
+        {
+          "word": " can",
+          "start": 329.270625,
+          "end": 329.490625
+        },
+        {
+          "word": " use",
+          "start": 329.490625,
+          "end": 329.73062500000003
+        },
+        {
+          "word": " my",
+          "start": 329.73062500000003,
+          "end": 330.090625
+        },
+        {
+          "word": " expertise",
+          "start": 330.090625,
+          "end": 330.530625
+        },
+        {
+          "word": " to",
+          "start": 330.530625,
+          "end": 330.790625
+        },
+        {
+          "word": " help",
+          "start": 330.790625,
+          "end": 331.010625
+        },
+        {
+          "word": " other",
+          "start": 331.010625,
+          "end": 331.330625
+        },
+        {
+          "word": " volunteers.",
+          "start": 331.330625,
+          "end": 331.830625
+        }
+      ]
+    },
+    {
+      "start": 332.85062500000004,
+      "end": 334.110625,
+      "text": " They're a great group.",
+      "words": [
+        {
+          "word": " They're",
+          "start": 332.85062500000004,
+          "end": 333.110625
+        },
+        {
+          "word": " a",
+          "start": 333.110625,
+          "end": 333.210625
+        },
+        {
+          "word": " great",
+          "start": 333.210625,
+          "end": 333.510625
+        },
+        {
+          "word": " group.",
+          "start": 333.510625,
+          "end": 334.110625
+        }
+      ]
+    },
+    {
+      "start": 334.510625,
+      "end": 339.210625,
+      "text": " We're like a family, really, which helps when you're dragging yourself out of bed on",
+      "words": [
+        {
+          "word": " We're",
+          "start": 334.510625,
+          "end": 334.710625
+        },
+        {
+          "word": " like",
+          "start": 334.710625,
+          "end": 334.870625
+        },
+        {
+          "word": " a",
+          "start": 334.870625,
+          "end": 335.250625
+        },
+        {
+          "word": " family,",
+          "start": 335.250625,
+          "end": 335.510625
+        },
+        {
+          "word": " really,",
+          "start": 336.150625,
+          "end": 336.150625
+        },
+        {
+          "word": " which",
+          "start": 336.330625,
+          "end": 336.73062500000003
+        },
+        {
+          "word": " helps",
+          "start": 336.73062500000003,
+          "end": 337.050625
+        },
+        {
+          "word": " when",
+          "start": 337.050625,
+          "end": 337.290625
+        },
+        {
+          "word": " you're",
+          "start": 337.290625,
+          "end": 337.570625
+        },
+        {
+          "word": " dragging",
+          "start": 337.570625,
+          "end": 337.890625
+        },
+        {
+          "word": " yourself",
+          "start": 337.890625,
+          "end": 338.390625
+        },
+        {
+          "word": " out",
+          "start": 338.390625,
+          "end": 338.610625
+        },
+        {
+          "word": " of",
+          "start": 338.610625,
+          "end": 338.830625
+        },
+        {
+          "word": " bed",
+          "start": 338.830625,
+          "end": 339.030625
+        },
+        {
+          "word": " on",
+          "start": 339.030625,
+          "end": 339.210625
+        }
+      ]
+    },
+    {
+      "start": 339.210625,
+      "end": 340.73062500000003,
+      "text": " a cold stormy night.",
+      "words": [
+        {
+          "word": " a",
+          "start": 339.210625,
+          "end": 339.370625
+        },
+        {
+          "word": " cold",
+          "start": 339.370625,
+          "end": 339.710625
+        },
+        {
+          "word": " stormy",
+          "start": 339.710625,
+          "end": 340.210625
+        },
+        {
+          "word": " night.",
+          "start": 340.210625,
+          "end": 340.73062500000003
+        }
+      ]
+    },
+    {
+      "start": 341.390625,
+      "end": 345.85062500000004,
+      "text": " But actually, it's the colder months that can be the most rewarding time.",
+      "words": [
+        {
+          "word": " But",
+          "start": 341.390625,
+          "end": 341.590625
+        },
+        {
+          "word": " actually,",
+          "start": 341.590625,
+          "end": 342.090625
+        },
+        {
+          "word": " it's",
+          "start": 342.35062500000004,
+          "end": 342.790625
+        },
+        {
+          "word": " the",
+          "start": 342.790625,
+          "end": 343.010625
+        },
+        {
+          "word": " colder",
+          "start": 343.010625,
+          "end": 343.290625
+        },
+        {
+          "word": " months",
+          "start": 343.290625,
+          "end": 343.73062500000003
+        },
+        {
+          "word": " that",
+          "start": 343.73062500000003,
+          "end": 343.910625
+        },
+        {
+          "word": " can",
+          "start": 343.910625,
+          "end": 344.050625
+        },
+        {
+          "word": " be",
+          "start": 344.050625,
+          "end": 344.210625
+        },
+        {
+          "word": " the",
+          "start": 344.210625,
+          "end": 344.390625
+        },
+        {
+          "word": " most",
+          "start": 344.390625,
+          "end": 344.67062500000003
+        },
+        {
+          "word": " rewarding",
+          "start": 344.67062500000003,
+          "end": 345.090625
+        },
+        {
+          "word": " time.",
+          "start": 345.090625,
+          "end": 345.85062500000004
+        }
+      ]
+    },
+    {
+      "start": 345.85062500000004,
+      "end": 351.870625,
+      "text": " That's when the incidents tend to be more serious, and you realise that you can make a huge",
+      "words": [
+        {
+          "word": " That's",
+          "start": 345.85062500000004,
+          "end": 346.890625
+        },
+        {
+          "word": " when",
+          "start": 346.890625,
+          "end": 347.050625
+        },
+        {
+          "word": " the",
+          "start": 347.050625,
+          "end": 347.330625
+        },
+        {
+          "word": " incidents",
+          "start": 347.330625,
+          "end": 347.610625
+        },
+        {
+          "word": " tend",
+          "start": 347.610625,
+          "end": 347.930625
+        },
+        {
+          "word": " to",
+          "start": 347.930625,
+          "end": 348.190625
+        },
+        {
+          "word": " be",
+          "start": 348.190625,
+          "end": 348.250625
+        },
+        {
+          "word": " more",
+          "start": 348.250625,
+          "end": 348.490625
+        },
+        {
+          "word": " serious,",
+          "start": 348.490625,
+          "end": 349.090625
+        },
+        {
+          "word": " and",
+          "start": 349.570625,
+          "end": 349.830625
+        },
+        {
+          "word": " you",
+          "start": 349.830625,
+          "end": 350.090625
+        },
+        {
+          "word": " realise",
+          "start": 350.090625,
+          "end": 350.410625
+        },
+        {
+          "word": " that",
+          "start": 350.410625,
+          "end": 350.67062500000003
+        },
+        {
+          "word": " you",
+          "start": 350.67062500000003,
+          "end": 350.810625
+        },
+        {
+          "word": " can",
+          "start": 350.810625,
+          "end": 350.950625
+        },
+        {
+          "word": " make",
+          "start": 350.950625,
+          "end": 351.190625
+        },
+        {
+          "word": " a",
+          "start": 351.190625,
+          "end": 351.450625
+        },
+        {
+          "word": " huge",
+          "start": 351.450625,
+          "end": 351.870625
+        }
+      ]
+    },
+    {
+      "start": 351.870625,
+      "end": 353.23062500000003,
+      "text": " difference to the outcome.",
+      "words": [
+        {
+          "word": " difference",
+          "start": 351.870625,
+          "end": 352.290625
+        },
+        {
+          "word": " to",
+          "start": 352.290625,
+          "end": 352.550625
+        },
+        {
+          "word": " the",
+          "start": 352.550625,
+          "end": 352.790625
+        },
+        {
+          "word": " outcome.",
+          "start": 352.790625,
+          "end": 353.23062500000003
+        }
+      ]
+    },
+    {
+      "start": 354.150625,
+      "end": 359.250625,
+      "text": " So if any of you listeners are interested, why don't you give us a call?",
+      "words": [
+        {
+          "word": " So",
+          "start": 354.150625,
+          "end": 354.490625
+        },
+        {
+          "word": " if",
+          "start": 354.490625,
+          "end": 355.130625
+        },
+        {
+          "word": " any",
+          "start": 355.130625,
+          "end": 355.370625
+        },
+        {
+          "word": " of",
+          "start": 355.370625,
+          "end": 355.550625
+        },
+        {
+          "word": " you",
+          "start": 355.550625,
+          "end": 355.790625
+        },
+        {
+          "word": " listeners",
+          "start": 355.790625,
+          "end": 356.150625
+        },
+        {
+          "word": " are",
+          "start": 356.150625,
+          "end": 356.47062500000004
+        },
+        {
+          "word": " interested,",
+          "start": 356.47062500000004,
+          "end": 356.930625
+        },
+        {
+          "word": " why",
+          "start": 357.67062500000003,
+          "end": 357.85062500000004
+        },
+        {
+          "word": " don't",
+          "start": 357.85062500000004,
+          "end": 357.990625
+        },
+        {
+          "word": " you",
+          "start": 357.990625,
+          "end": 358.150625
+        },
+        {
+          "word": " give",
+          "start": 358.150625,
+          "end": 358.270625
+        },
+        {
+          "word": " us",
+          "start": 358.270625,
+          "end": 358.47062500000004
+        },
+        {
+          "word": " a",
+          "start": 358.47062500000004,
+          "end": 358.690625
+        },
+        {
+          "word": " call?",
+          "start": 358.690625,
+          "end": 359.250625
+        }
+      ]
+    },
+    {
+      "start": 363.010625,
+      "end": 365.030625,
+      "text": " That is the end of Part 2.",
+      "words": [
+        {
+          "word": " That",
+          "start": 362.810625,
+          "end": 363.130625
+        },
+        {
+          "word": " is",
+          "start": 363.130625,
+          "end": 363.330625
+        },
+        {
+          "word": " the",
+          "start": 363.330625,
+          "end": 363.530625
+        },
+        {
+          "word": " end",
+          "start": 363.530625,
+          "end": 363.810625
+        },
+        {
+          "word": " of",
+          "start": 363.810625,
+          "end": 364.130625
+        },
+        {
+          "word": " Part",
+          "start": 364.130625,
+          "end": 364.370625
+        },
+        {
+          "word": " 2.",
+          "start": 364.370625,
+          "end": 365.030625
+        }
+      ]
+    },
+    {
+      "start": 365.450625,
+      "end": 369.890625,
+      "text": " You now have 30 seconds to check your answers to Part 2.",
+      "words": [
+        {
+          "word": " You",
+          "start": 365.450625,
+          "end": 365.750625
+        },
+        {
+          "word": " now",
+          "start": 365.750625,
+          "end": 366.070625
+        },
+        {
+          "word": " have",
+          "start": 366.070625,
+          "end": 366.47062500000004
+        },
+        {
+          "word": " 30",
+          "start": 366.47062500000004,
+          "end": 366.870625
+        },
+        {
+          "word": " seconds",
+          "start": 366.870625,
+          "end": 367.270625
+        },
+        {
+          "word": " to",
+          "start": 367.270625,
+          "end": 367.710625
+        },
+        {
+          "word": " check",
+          "start": 367.710625,
+          "end": 368.030625
+        },
+        {
+          "word": " your",
+          "start": 368.030625,
+          "end": 368.410625
+        },
+        {
+          "word": " answers",
+          "start": 368.410625,
+          "end": 368.73062500000003
+        },
+        {
+          "word": " to",
+          "start": 368.73062500000003,
+          "end": 369.110625
+        },
+        {
+          "word": " Part",
+          "start": 369.110625,
+          "end": 369.330625
+        },
+        {
+          "word": " 2.",
+          "start": 369.330625,
+          "end": 369.890625
+        }
+      ]
+    }
+  ]
+}

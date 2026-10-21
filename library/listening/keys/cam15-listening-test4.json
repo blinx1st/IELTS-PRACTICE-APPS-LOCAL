@@ -1,0 +1,156 @@
+{
+  "id": "cam15-listening-test4",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "journalist"
+    ],
+    "2": [
+      "shopping"
+    ],
+    "3": [
+      "Staunfirth"
+    ],
+    "4": [
+      "return"
+    ],
+    "5": [
+      "23.70"
+    ],
+    "6": [
+      "online"
+    ],
+    "7": [
+      "delay"
+    ],
+    "8": [
+      "information"
+    ],
+    "9": [
+      "platform",
+      "platforms"
+    ],
+    "10": [
+      "parking"
+    ],
+    "11": [
+      "D"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "G"
+    ],
+    "14": [
+      "H"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "wealth"
+    ],
+    "32": [
+      "technology"
+    ],
+    "33": [
+      "power"
+    ],
+    "34": [
+      "textile",
+      "textiles"
+    ],
+    "35": [
+      "machines"
+    ],
+    "36": [
+      "newspapers"
+    ],
+    "37": [
+      "local"
+    ],
+    "38": [
+      "lighting"
+    ],
+    "39": [
+      "windows"
+    ],
+    "40": [
+      "Advertising"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        17,
+        18
+      ],
+      "answers": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "answers": [
+        "A",
+        "C"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+    "pdfPage": 127,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

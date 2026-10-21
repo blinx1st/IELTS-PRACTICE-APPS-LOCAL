@@ -1,0 +1,137 @@
+{
+  "book": 14,
+  "test": 4,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S4.mp3",
+  "sha256": "42dd2bd3d5a3120246a4898428d31958fc09b2c9f7391603f9ea333196071005",
+  "duration": 558.514,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      458.39987499999995,
+      558.399875
+    ]
+  ],
+  "text": "Section 4 You will hear part of a lecture about a branch of archaeology called marine archaeology. First, you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40. In today's class I'm going to talk about marine archaeology, the branch of archaeology focusing on human interaction with the sea, lakes, and rivers. It's the study of ships, cargoes, shipping facilities, and other physical remains. I'll give you an example. Then go on to show how this type of research is being transformed by the use of the latest technology. Atlet Yam was a village on the coast of the Eastern Mediterranean, which seems to have been thriving until... Its cargo gives us insight into the treatments available all those years ago, including tablets that a thought have been dissolved to form a cleansing liquid for the eyes. Other Roman ships went down nearby, taking their cargoes with them. Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil. others held wine. In many cases, it's only these containers that remain, while the wooden ships have been buried under silt on the seabed. Another project that's about to be. That is the end of section 4. You now have half a minute to check your answers. That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "Section 4"
+    },
+    {
+      "start": 5.64,
+      "end": 12.24,
+      "text": "You will hear part of a lecture about a branch of archaeology called marine archaeology."
+    },
+    {
+      "start": 12.24,
+      "end": 18.44,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 60.0,
+      "end": 77.36,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 77.36,
+      "end": 84.72,
+      "text": "In today's class I'm going to talk about marine archaeology, the branch of archaeology focusing"
+    },
+    {
+      "start": 84.72,
+      "end": 90.04,
+      "text": "on human interaction with the sea, lakes, and rivers."
+    },
+    {
+      "start": 90.04,
+      "end": 94.68,
+      "text": "It's the study of ships, cargoes, shipping facilities,"
+    },
+    {
+      "start": 94.68,
+      "end": 97.56,
+      "text": "and other physical remains."
+    },
+    {
+      "start": 97.56,
+      "end": 99.48,
+      "text": "I'll give you an example."
+    },
+    {
+      "start": 99.48,
+      "end": 102.24,
+      "text": "Then go on to show how this type of research"
+    },
+    {
+      "start": 102.24,
+      "end": 107.72,
+      "text": "is being transformed by the use of the latest technology."
+    },
+    {
+      "start": 107.72,
+      "end": 112.44,
+      "text": "Atlet Yam was a village on the coast of the Eastern Mediterranean,"
+    },
+    {
+      "start": 112.44,
+      "end": 115.24,
+      "text": "which seems to have been thriving until..."
+    },
+    {
+      "start": 458.4,
+      "end": 467.2,
+      "text": "Its cargo gives us insight into the treatments available all those years ago, including"
+    },
+    {
+      "start": 467.2,
+      "end": 474.88,
+      "text": "tablets that a thought have been dissolved to form a cleansing liquid for the eyes."
+    },
+    {
+      "start": 474.88,
+      "end": 480.4,
+      "text": "Other Roman ships went down nearby, taking their cargoes with them."
+    },
+    {
+      "start": 480.4,
+      "end": 484.12,
+      "text": "Some held huge pots made of terracotta."
+    },
+    {
+      "start": 484.12,
+      "end": 487.88,
+      "text": "Some were used for transporting cargoes of olive oil."
+    },
+    {
+      "start": 487.88,
+      "end": 496.04,
+      "text": "others held wine. In many cases, it's only these containers that remain, while the wooden"
+    },
+    {
+      "start": 496.04,
+      "end": 502.68,
+      "text": "ships have been buried under silt on the seabed. Another project that's about to be."
+    },
+    {
+      "start": 505.88,
+      "end": 513.0,
+      "text": "That is the end of section 4. You now have half a minute to check your answers."
+    },
+    {
+      "start": 517.88,
+      "end": 547.4,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 547.4,
+      "end": 554.4,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

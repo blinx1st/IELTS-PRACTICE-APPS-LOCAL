@@ -1,0 +1,120 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 92,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\n—\nQuestions 35-40 — FB.com/LouisQuangVo\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 35-40 on your answer sheet, write\nYES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n35\nOne strength of The Happiness Industry is its discussion of the relationship\nbetween psychology and economics.\n36\nIt is more difficult to measure some emotions than others.\n37\nWatson's ideas on behaviourism were supported by research on humans he carried\nout before 1915.\n38\nWatson's ideas have been most influential on governments outside America.\n39\nThe need for happiness is linked to industrialisation.\n40\nAmain aim of government should be to increase the happiness of the population.\n93\n",
+  "blocks": [
+    {
+      "box": [
+        478.44000244140625,
+        57.96002197265625,
+        523.195068359375,
+        69.49150085449219
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        29.160003662109375,
+        96.1199951171875,
+        266.3135681152344,
+        113.05690002441406
+      ],
+      "text": "—\nQuestions 35-40 — FB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        46.08000183105469,
+        124.91998291015625,
+        509.6556091308594,
+        138.97406005859375
+      ],
+      "text": "Do the following statements agree with the claims of the writer in Reading Passage 3?\n"
+    },
+    {
+      "box": [
+        46.079986572265625,
+        154.79998779296875,
+        281.4659118652344,
+        167.05221557617188
+      ],
+      "text": "In boxes 35-40 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        86.76004028320312,
+        182.52001953125,
+        464.4000549316406,
+        223.93222045898438
+      ],
+      "text": "YES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n"
+    },
+    {
+      "box": [
+        46.080047607421875,
+        247.67999267578125,
+        475.8194274902344,
+        275.4122619628906
+      ],
+      "text": "35\nOne strength of The Happiness Industry is its discussion of the relationship\nbetween psychology and economics.\n"
+    },
+    {
+      "box": [
+        46.08006286621094,
+        284.760009765625,
+        381.15008544921875,
+        295.57080078125
+      ],
+      "text": "36\nIt is more difficult to measure some emotions than others.\n"
+    },
+    {
+      "box": [
+        46.080078125,
+        306.3599853515625,
+        522.8822021484375,
+        332.28973388671875
+      ],
+      "text": "37\nWatson's ideas on behaviourism were supported by research on humans he carried\nout before 1915.\n"
+    },
+    {
+      "box": [
+        46.080108642578125,
+        343.44000244140625,
+        482.9615783691406,
+        355.6922302246094
+      ],
+      "text": "38\nWatson's ideas have been most influential on governments outside America.\n"
+    },
+    {
+      "box": [
+        46.080108642578125,
+        366.1199951171875,
+        351.604736328125,
+        378.3722229003906
+      ],
+      "text": "39\nThe need for happiness is linked to industrialisation.\n"
+    },
+    {
+      "box": [
+        46.08012390136719,
+        387.7200012207031,
+        508.9556579589844,
+        401.0533142089844
+      ],
+      "text": "40\nAmain aim of government should be to increase the happiness of the population.\n"
+    },
+    {
+      "box": [
+        511.20013427734375,
+        762.8400268554688,
+        524.1168823242188,
+        772.2093505859375
+      ],
+      "text": "93\n"
+    }
+  ]
+}

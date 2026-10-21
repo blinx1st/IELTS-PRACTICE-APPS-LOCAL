@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "test": 3,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test3_audio4.m4a",
+  "sha256": "4e2cee2e3e6ede7716242aebd57f0701dd7ca4bdef0afa861a303ae7dadd1ba4",
+  "duration": 467.072,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      367.072,
+      467.072
+    ]
+  ],
+  "text": "Part 4. You will hear part of a lecture on the early history of keeping clean. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. Nowadays we use different products for personal cleanliness, laundry, dishwashing and household cleaning, but this is very much a 20th century development. The origins of cleanliness date back to prehistoric times. Once water is essential for life, the earliest people lived near water and knew something about its cleansing properties, at least that it rinsed mud off their hands. During the excavation of ancient Babylon, evidence was found that soap making was known as early as 2,800 BC. Archaeologists discovered cylinders. something ordinary people could afford, and cleanliness standards improved. With this widespread use came the development of milder soaps for bathing and soaps for use in the washing machines that were available to consumers by the turn of the 20th century. That is the end of Part 4. now have one minute to check your answers to Part 4. You That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Part 4. You will hear part of a lecture on the early history of keeping clean."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 71.2,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 71.2,
+      "end": 78.32,
+      "text": "Nowadays we use different products for personal cleanliness, laundry, dishwashing and household"
+    },
+    {
+      "start": 78.32,
+      "end": 83.64,
+      "text": "cleaning, but this is very much a 20th century development."
+    },
+    {
+      "start": 83.64,
+      "end": 88.72,
+      "text": "The origins of cleanliness date back to prehistoric times."
+    },
+    {
+      "start": 88.72,
+      "end": 95.08,
+      "text": "Once water is essential for life, the earliest people lived near water and knew something"
+    },
+    {
+      "start": 95.08,
+      "end": 101.84,
+      "text": "about its cleansing properties, at least that it rinsed mud off their hands."
+    },
+    {
+      "start": 101.84,
+      "end": 108.56,
+      "text": "During the excavation of ancient Babylon, evidence was found that soap making was known"
+    },
+    {
+      "start": 108.56,
+      "end": 112.32,
+      "text": "as early as 2,800 BC."
+    },
+    {
+      "start": 112.32,
+      "end": 114.92,
+      "text": "Archaeologists discovered cylinders."
+    },
+    {
+      "start": 367.07,
+      "end": 372.55,
+      "text": "something ordinary people could afford, and cleanliness standards improved."
+    },
+    {
+      "start": 372.55,
+      "end": 378.43,
+      "text": "With this widespread use came the development of milder soaps for bathing and soaps for use"
+    },
+    {
+      "start": 378.43,
+      "end": 387.07,
+      "text": "in the washing machines that were available to consumers by the turn of the 20th century."
+    },
+    {
+      "start": 387.07,
+      "end": 390.27,
+      "text": "That is the end of Part 4."
+    },
+    {
+      "start": 390.27,
+      "end": 393.99,
+      "text": "now have one minute to check your answers to Part 4."
+    },
+    {
+      "start": 420.27,
+      "end": 422.27,
+      "text": "You"
+    },
+    {
+      "start": 450.27,
+      "end": 458.47,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 458.47,
+      "end": 464.79,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

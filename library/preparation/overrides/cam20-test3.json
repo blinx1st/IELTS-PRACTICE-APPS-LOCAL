@@ -1,0 +1,780 @@
+{
+  "id": "cam20-test3",
+  "book": 20,
+  "test": 3,
+  "title": "Cambridge 20 · Test 3",
+  "version": "2026-10-21.2.layout1",
+  "verification": {
+    "status": "verified",
+    "note": "All 3 passages and 40 questions, options, instructions and word limits visually reviewed against supplied PDFs; extraction artifacts corrected. The supplied files are retyped documents, not publisher-certified originals.",
+    "reviewReport": "library/preparation/cam20-test3-review.json"
+  },
+  "passages": [
+    {
+      "id": "cam20-test3-p1",
+      "number": 1,
+      "title": "Frozen Food",
+      "paragraphs": [
+        {
+          "id": "p1-para1",
+          "text": "A US perspective on the development of the frozen food industry"
+        },
+        {
+          "id": "p1-para2",
+          "text": "At some point in history, humans discovered that ice preserved food. There is evidence that winter ice was stored to preserve food in the summer as far back as 10,000 years ago. Two thousand years ago, the inhabitants of South America's Andean mountains had a unique means of conserving potatoes for later consumption. They froze them overnight, then trampled them to squeeze out the moisture, then dried them in the sun. This preserved their nutritional value-if not their aesthetic appeal."
+        },
+        {
+          "id": "p1-para3",
+          "text": "Natural ice remained the main form of refrigeration until late in the 19th century. In the early 1800s, ship owners from Boston, USA, had enormous blocks of Arctic ice towed all over the Atlantic for the purpose of food preservation. In 1851, railroads first began putting blocks of ice in insulated rail cars to send butter from Ogdensburg, New York, to Boston."
+        },
+        {
+          "id": "p1-para4",
+          "text": "Finally, in 1870, Australian inventors found a way to make 'mechanical ice'. They used a compressor to force a gas-ammonia at first and later Freon-through a condenser. The compressed gas gave up some of its heat as it moved through the condenser. Then the gas was released quickly into a low-pressure evaporator coil where it became liquid and cold. Air was blown over the evaporator coil and then this cooled air passed into an insulated compartment, lowering its temperature to freezing point."
+        },
+        {
+          "text": "Initially, this process was invented to keep Australian beer cool even in hot weather. But Australian cattlemen were quick to realize that, if they could put this new invention on a ship, they could export meat across the oceans. In 1880, a shipment of Australian beef and mutton was sent, frozen, to England. While the food frozen this way was still palatable, there was some deterioration. During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, this spoilt the flavor and texture of the food.",
+          "id": "p1-para5"
+        },
+        {
+          "text": "The modern frozen food industry began with the indigenous Inuit people of Canada. In 1912, a biology student in Massachusetts, USA, named Clarence Birdseye, ran out of money and went to Labrador in Canada to trap and trade furs. While he was there, he became fascinated with how the Inuit would quickly freeze fish in the Arctic air. The fish looked and tasted fresh even months later.",
+          "id": "p1-para6"
+        },
+        {
+          "id": "p1-para7",
+          "text": "Birdseye returned to the USA in 1917 and began developing mechanical freezers capable of quick-freezing food. Birdseye methodically kept inventing better freezers and gradually built a business selling frozen fish from Gloucester, Massachusetts. In 1929, his business was sold and became General Foods, but he stayed with the company as director of research, and his division continued to innovate."
+        },
+        {
+          "id": "p1-para8",
+          "text": "Birdseye was responsible for several key innovations that made the frozen food industry possible. He developed quick-freezing techniques that reduced the damage that crystals caused, as well as the technique of freezing the product in the package it was to be sold in. He also introduced the use of cellophane, the first transparent material for food packaging, which allowed consumers to see the quality of the product. Birdseye products also came in convenient size packages that could be prepared with a minimum of effort."
+        },
+        {
+          "id": "p1-para9",
+          "text": "But there were still obstacles. In the 1930s, few grocery stores could afford to buy freezers for a market that wasn't established yet. So, Birdseye leased inexpensive freezer cases to them. He also leased insulated railroad cars so that he could ship his products nationwide. However, few consumers had freezers large enough or efficient enough to take advantage of the products."
+        },
+        {
+          "text": "Sales increased in the early 1940s, when World War II gave a boost to the frozen food industry because tin was being used for munitions. Canned foods were rationed to save tin for the war effort, while frozen foods were abundant and cheap. Finally, by the 1950s, refrigerator technology had developed far enough to make these appliances affordable for the average family. By 1953, 33 million US families owned a refrigerator, and manufacturers were gradually increasing the size of the freezer compartments in them.",
+          "id": "p1-para10"
+        },
+        {
+          "text": "1950s families were also looking for convenience at mealtimes, so the moment was right for the arrival of the 'TV Dinner'. Swanson Foods was a large, nationally recognized producer of canned and frozen poultry. In 1954, the company adapted some of Birdseye's freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first 'TV Dinner'. This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that was used by airlines. The product was an instant success. Within a year, Swanson had sold 13 million TV dinners. American consumers couldn't resist the combination of a trusted brand name, a single-serving package and the convenience of a meal that could be ready after only 25 minutes in a hot oven. By 1959, Americans were spending $2.7 billion annually on frozen foods, and half a billion of that was spent on ready-prepared meals such as the TV Dinner.",
+          "id": "p1-para11"
+        },
+        {
+          "id": "p1-para12",
+          "text": "Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of that sold to consumers for home consumption. The remaining $40 billion in frozen food sales come through restaurants, cafeterias, hospitals and schools, and that represents a third of the total food service sales."
+        }
+      ],
+      "groups": [
+        {
+          "id": "cam20-t3-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–7",
+          "instructions": "Complete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.",
+          "body": "The history of frozen food \n \n2,000 years ago, South America \n \n● People conserved the nutritional value of 1 …………………. , using a method \nof freezing then drying. \n \n1851, USA \n \n● 2 …………………. was kept cool by ice during transportation in specially \nadapted trains. \n \n1880, Australia \n \n● Two kinds of 3 …………………. were the first frozen food shipped to England. \n \n1917 onwards, USA \n \n● Clarence Birdseye introduced innovations including: \n- quick-freezing methods, so that 4 …………………. did not spoil the \nfood. \n- packaging products with 5…………………., so the product was visible. \n \nEarly 1940s, USA \n \n● Frozen food became popular because of a shortage of 6 …………………. \n \n1950s, USA \n \n● A large number of homes now had a 7 ………………….",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p1-g1-s1-e812a299.webp",
+              "page": 52
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true
+        },
+        {
+          "id": "cam20-t3-p1-g2",
+          "type": "tfng",
+          "heading": "Questions 8–13",
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1?\nTRUE — if the statement agrees with the information\nFALSE — if the statement contradicts the information\nNOT GIVEN — if there is no information on this",
+          "body": "",
+          "questions": [
+            {
+              "number": 8,
+              "text": "The ice transportation business made some Boston ship owners very wealthy in the early 1800s."
+            },
+            {
+              "number": 9,
+              "text": "A disadvantage of the freezing process invented in Australia was that it affected the taste of food."
+            },
+            {
+              "number": 10,
+              "text": "Clarence Birdseye travelled to Labrador in order to learn how the Inuit people froze fish."
+            },
+            {
+              "number": 11,
+              "text": "Swanson Foods invested a great deal of money in the promotion of the TV Dinner."
+            },
+            {
+              "number": 12,
+              "text": "Swanson Foods developed a new style of container for the launch of the TV Dinner."
+            },
+            {
+              "number": 13,
+              "text": "The US frozen food industry is currently the largest in the world."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p1-g2-s1-350c219e.webp",
+              "page": 53
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 50
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 51
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 52
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 53
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t3-p1-reading-050-747e9541.webp",
+          "page": 50
+        },
+        {
+          "url": "/library-assets/cam20-t3-p1-reading-051-315365b3.webp",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "cam20-test3-p2",
+      "number": 2,
+      "title": "Can the planet’s coral reefs be saved?",
+      "paragraphs": [
+        {
+          "id": "p2-para1",
+          "text": "Conservationists have put the final touches to a giant artificial reef they have been assembling at the world-renowned Zoological Society of London (London Zoo). Samples of the planet's most spectacular corals - vivid green branching coral, yellow scroll, blue ridge and many more species - have been added to the giant tank along with fish that thrive in their presence: blue tang, clownfish and many others. The reef is in the zoo's new gallery, Tiny Giants, which is dedicated to the minuscule invertebrate creatures that sustain life across the planet. The coral reef tank and its seven-metre-wide window form the core of the exhibition. 'Coral reefs are the most diverse ecosystems on Earth and we want to show people how wonderful they are,' said Paul Pearce-Kelly, senior curator of invertebrates and fish at the Zoological Society of London. 'However, we also want to highlight the research and conservation efforts that are now being carried out to try to save them from the threat of global warming.' They want people to see what is being done to try to save these wonders.",
+          "label": "A"
+        },
+        {
+          "id": "p2-para2",
+          "text": "Corals are composed of tiny animals, known as polyps, with tentacles for capturing small marine creatures in the sea water. These polyps are transparent but get their brilliant tones of pink, orange, blue, green, etc. from algae that live within them, which in turn get protection, while their photosynthesising of the sun's rays provides nutrients for the polyps. This comfortable symbiotic relationship has led to the growth of coral reefs that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish.",
+          "label": "B"
+        },
+        {
+          "id": "p2-para3",
+          "text": "As a result, coral reefs are often described as the 'rainforests of the sea', though the comparison is dismissed by some naturalists, including David Attenborough. 'People say you cannot beat the rainforest,' Attenborough has stated. 'But that is simply not true. You go there and the first thing you think is: where ... are the birds? Where are the animals? They are hiding in the trees, of course. No, if you want beauty and wildlife, you want a coral reef. Put on a mask and stick your head under the water. The sight is mind-blowing.'",
+          "label": "C"
+        },
+        {
+          "id": "p2-para4",
+          "text": "Unfortunately, these majestic sights are now under very serious threat, with the most immediate problem coming in the form of thermal stress. Rising ocean temperatures are triggering bleaching events that strip reefs of their colour and eventually kill them. And that is just the start. Other menaces include ocean acidification, sea level increase, pollution by humans, deoxygenation and ocean current changes, while the climate crisis is also increasing habitat destruction. As a result, vast areas - including massive chunks of Australia's Great Barrier Reef - have already been destroyed, and scientists advise that more than 90% of reefs could be lost by 2050 unless urgent action is taken to tackle global heating and greenhouse gas emissions.",
+          "label": "D"
+        },
+        {
+          "id": "p2-para5",
+          "text": "Pearce-Kelly says that coral reefs have to survive really harsh conditions wave erosion and other factors. And 'when things start to go wrong in the oceans, then corals will be the first to react. And that is exactly what we are seeing now. Coral reefs are dying and they are telling us that all is not well with our planet.'"
+        },
+        {
+          "id": "p2-para6",
+          "text": "However, scientists are trying to pinpoint hardy types of coral that could survive our overheated oceans, and some of this research will be carried out at London Zoo. 'Behind our coral reef tank we have built laboratories where scientists will be studying coral species,' said Pearce-Kelly. One aim will be to carry out research on species to find those that can survive best in warm, acidic waters. Another will be to try to increase coral breeding rates. 'Coral spawn just once a year,' he added. 'However, aquarium-based research has enabled some corals to spawn artificially, which can assist coral reef restoration efforts. And if this can be extended for all species, we could consider the launching of coral-spawning programmes several times a year. That would be a big help in restoring blighted reefs.'",
+          "label": "E"
+        },
+        {
+          "id": "p2-para7",
+          "text": "Research in these fields is being conducted in laboratories around the world, with the London Zoo centre linked to this global network. Studies carried out in one centre can then be tested in others. The resulting young coral can then be displayed in the tank in Tiny Giants. 'The crucial point is that the progress we make in making coral better able to survive in a warming world can be shown to the public and encourage them to believe that we can do something to save the planet's reefs,' said Pearce-Kelly. 'Saving our coral reefs is now a critically important ecological goal.'",
+          "label": "F"
+        }
+      ],
+      "groups": [
+        {
+          "id": "cam20-t3-p2-g1",
+          "type": "matching",
+          "heading": "Questions 14–19",
+          "instructions": "Reading Passage 2 has six sections, A–F.\nChoose the correct heading for each section from the list of headings below.\nWrite the correct number, i–vii, in boxes 14–19 on your answer sheet.",
+          "body": "List of headings\n\ni. Tried and tested solutions\nii. Cooperation beneath the waves\niii. Working to lessen the problems\niv. Disagreement about the accuracy of a certain phrase\nv. Two clear educational goals\nvi. Promoting hope\nvii. A warning of further trouble ahead\n\n14. paragraph A ……………….\n15. paragraph B ……………….\n16. Paragraph C ……………….\n17. Paragraph D ……………….\n18. Paragraph E ……………….\n19. Paragraph F ……………….",
+          "questions": [
+            {
+              "number": 14,
+              "text": "paragraph A ………………."
+            },
+            {
+              "number": 15,
+              "text": "paragraph B ………………."
+            },
+            {
+              "number": 16,
+              "text": "Paragraph C ………………."
+            },
+            {
+              "number": 17,
+              "text": "Paragraph D ………………."
+            },
+            {
+              "number": 18,
+              "text": "Paragraph E ………………."
+            },
+            {
+              "number": 19,
+              "text": "Paragraph F ………………."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p2-g1-s1-b66ec3ce.webp",
+              "page": 54
+            }
+          ],
+          "options": [
+            {
+              "value": "i",
+              "label": "Tried and tested solutions"
+            },
+            {
+              "value": "ii",
+              "label": "Cooperation beneath the waves"
+            },
+            {
+              "value": "iii",
+              "label": "Working to lessen the problems"
+            },
+            {
+              "value": "iv",
+              "label": "Disagreement about the accuracy of a certain phrase"
+            },
+            {
+              "value": "v",
+              "label": "Two clear educational goals"
+            },
+            {
+              "value": "vi",
+              "label": "Promoting hope"
+            },
+            {
+              "value": "vii",
+              "label": "A warning of further trouble ahead"
+            }
+          ],
+          "layout": {
+            "kind": "matrix",
+            "matchingKind": "headings",
+            "rows": [
+              {
+                "number": 14,
+                "text": "Paragraph A"
+              },
+              {
+                "number": 15,
+                "text": "Paragraph B"
+              },
+              {
+                "number": 16,
+                "text": "Paragraph C"
+              },
+              {
+                "number": 17,
+                "text": "Paragraph D"
+              },
+              {
+                "number": 18,
+                "text": "Paragraph E"
+              },
+              {
+                "number": 19,
+                "text": "Paragraph F"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cam20-t3-p2-g2",
+          "type": "multi",
+          "heading": "Questions 20–21",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "",
+          "questions": [
+            {
+              "number": 20,
+              "text": "Which TWO of these causes of damage to coral reefs are mentioned by the writer of the text?"
+            },
+            {
+              "number": 21,
+              "text": "Which TWO of these causes of damage to coral reefs are mentioned by the writer of the text?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p2-g2-s1-40817996.webp",
+              "page": 57
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "a rising number of extreme storms"
+            },
+            {
+              "value": "B",
+              "label": "the removal of too many fish from the sea"
+            },
+            {
+              "value": "C",
+              "label": "the contamination of the sea from waste"
+            },
+            {
+              "value": "D",
+              "label": "increased disease among marine species"
+            },
+            {
+              "value": "E",
+              "label": "alterations in the usual flow of water in the seas"
+            }
+          ]
+        },
+        {
+          "id": "cam20-t3-p2-g3",
+          "type": "multi",
+          "heading": "Questions 22–23",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "",
+          "questions": [
+            {
+              "number": 22,
+              "text": "Which TWO of the following statements are true of the researchers at London Zoo?"
+            },
+            {
+              "number": 23,
+              "text": "Which TWO of the following statements are true of the researchers at London Zoo?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p2-g3-s1-29b1ffaa.webp",
+              "page": 57
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "They are hoping to expand the numbers of different corals being bred in laboratories."
+            },
+            {
+              "value": "B",
+              "label": "They want to identify corals that can cope well with the changed sea conditions."
+            },
+            {
+              "value": "C",
+              "label": "They are looking at ways of creating artificial reefs that corals could grow on."
+            },
+            {
+              "value": "D",
+              "label": "They are trying out methods that would speed up reproduction in some corals."
+            },
+            {
+              "value": "E",
+              "label": "They are investigating materials that might protect reefs from higher temperatures."
+            }
+          ]
+        },
+        {
+          "id": "cam20-t3-p2-g4",
+          "type": "completion",
+          "heading": "Questions 24–26",
+          "instructions": "Complete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.",
+          "body": "24 Corals have a number of 24 ………………. which they use to collect their food. \n \n25 Algae gain 25 ………………. from being inside the coral. \n \n26 Increases in the warmth of the sea water can remove the 26 ………………. from \ncoral.",
+          "questions": [
+            {
+              "number": 24,
+              "text": "Corals have a number of 24 ………………. which they use to collect their food."
+            },
+            {
+              "number": 25,
+              "text": "Algae gain 25 ………………. from being inside the coral."
+            },
+            {
+              "number": 26,
+              "text": "Increases in the warmth of the sea water can remove the 26 ………………. from coral."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p2-g4-s1-496e7eff.webp",
+              "page": 57
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 54
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 55
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 56
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 57
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t3-p2-reading-055-fafba040.webp",
+          "page": 55
+        },
+        {
+          "url": "/library-assets/cam20-t3-p2-reading-056-5ad2d396.webp",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "id": "cam20-test3-p3",
+      "number": 3,
+      "title": "Robots and us",
+      "paragraphs": [
+        {
+          "id": "p3-para1",
+          "text": "Three leaders in their fields answer questions about our relationships with robot"
+        },
+        {
+          "id": "p3-para2",
+          "text": "When asked 'Should robots be used to colonise other planets?', cosmology and astrophysics Professor Martin Rees said he believed the solar system would be mapped by robotic craft by the end of the century. 'The next step would be mining of asteroids, enabling fabrication of large structures in space without having to bring all the raw materials from Earth. ... I think this is more realistic and benign than the ... \"terraforming\"* of planets.' He maintains that colonised planets 'should be preserved with a status that is analogous to Antarctica here on Earth.'"
+        },
+        {
+          "id": "p3-para3",
+          "text": "On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied, 'I don't see a pressing need to colonise other planets unless we can bring [these] resources back to Earth. The vast majority of Earth is currently inaccessible to us. Using robots to gather resources nearer to home would seem to be a better use of our robotic tools.'"
+        },
+        {
+          "id": "p3-para4",
+          "text": "Meanwhile, for anthropology Professor Kathleen Richardson, the idea of 'colonisation' of other planets seemed morally dubious: 'I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in \"the Other\", not to impose a particular model, but to meet \"the Other\".\""
+        },
+        {
+          "id": "p3-para5",
+          "text": "In response to the second question, 'How soon will machine intelligence outstrip human intelligence?', Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, 'Robots are still limited in their ability to sense their environment: they can't yet recognise and move the pieces on a real chessboard as cleverly as a child can. Later this century, however, their more advanced successors may relate to their surroundings, and to people, as adeptly as we do. Moral questions then arise. ... Should we feel guilty about exploiting [sophisticated robots]? Should we fret if they are underemployed, frustrated, or bored?'"
+        },
+        {
+          "text": "Wolpert's response to the question about machine intelligence outstripping human intelligence was this: 'In a limited sense it already has. Machines can already navigate, remember and search for items with an ability that far outstrips humans. However, there is no machine that can identify visual objects or speech with the reliability and flexibility of humans.... Expecting a machine close to the creative intelligence of a human within the next 50 years would be highly ambitious.'",
+          "id": "p3-para6"
+        },
+        {
+          "text": "Richardson believes that our fear of machines becoming too advanced has more to do with human nature than anything intrinsic to the machines themselves. In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat. 'One of the consequences of thinking that the problem lies with machines is that we tend to imagine they are greater and more powerful than they really are and subsequently they become so.'",
+          "id": "p3-para7"
+        },
+        {
+          "id": "p3-para8",
+          "text": "This led on to the third question, 'Should we be scared by advances in artificial intelligence?' To this question, Rees replied, 'Those who should be worried are the futurologists who believe in the so-called \"singularity\".** And another worry is that we are increasingly dependent on computer networks, and that these could behave like a single \"brain\" with a mind of its own, and with goals that may be contrary to human welfare. I think we should ensure that robots remain as no more than \"idiot savants\" lacking the capacity to outwit us, even though they may greatly surpass us in the ability to calculate and process information.'"
+        },
+        {
+          "id": "p3-para9",
+          "text": "Wolpert's response was to say that we have already seen the damaging effects of artificial intelligence in the form of computer viruses. 'But in this case,' he says, 'the real intelligence is the malicious designer. Critically, the benefits of computers outweigh the damage that computer viruses cause. Similarly, while there may be misuses of robotics in the near future, the benefits that they will bring are likely to outweigh these negative aspects.'"
+        },
+        {
+          "id": "p3-para10",
+          "text": "Richardson's response to this question was this: 'We need to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.' She believes that as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will. In fact, she went on, 'Not all fear [robots]; many people welcome machine intelligence.'"
+        },
+        {
+          "id": "p3-para11",
+          "text": "In answer to the fourth question, \"What can science fiction tell us about robotics?', Rees replied, 'I sometimes advise students that it's better to read first-rate science fiction than second-rate science more stimulating, and perhaps no more likely to be wrong.' As his response, Wolpert commented, 'Science fiction has often been remarkable at predicting the future.... Science fiction has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies. Interestingly, almost no science fiction envisages a future without robots.'"
+        },
+        {
+          "id": "p3-para12",
+          "text": "Finally, on the question of science fiction, Richardson pointed out that in modern society, people tend to think there is reality on the one hand, and fiction and fantasy on the other. She then explained that the division did not always exist, and that scientists and technologists made this separation because they wanted to carve out the sphere of their work. 'But the divide is not so clear cut, and that is why the worlds seem to collide at times,' she said. 'In some cases, we need to bring these different understandings together to get a whole perspective. Perhaps then, we won't be so frightened that something we create as a copy of ourselves will be a [threat] to us.’"
+        },
+        {
+          "id": "p3-para13",
+          "text": "* terraforming: modifying a planet's atmosphere to suit human needs"
+        },
+        {
+          "id": "p3-para14",
+          "text": "** singularity: the point when robots will be able to start creating ever more sophisticated versions of themselves"
+        }
+      ],
+      "groups": [
+        {
+          "id": "cam20-t3-p3-g1",
+          "type": "matching",
+          "heading": "Questions 27–33",
+          "instructions": "Look at the following statements (Questions 27-33) and the list of experts below.\nMatch each statement with the correct expert, A, B or C.\nNB You may use any letter more than once.",
+          "body": "27. For our own safety, humans will need to restrict the abilities of robots. \n \n28. The risk of robots harming us is less serious than humans believe it to be. \n \n29. It will take many decades for robot intelligence to be as imaginative as human \nintelligence. \n \n30. We may have to start considering whether we are treating robots fairly. \n \n31. Robots are probably of more help to us on Earth than in space. \n \n32. The ideas in high-quality science fiction may prove to be just as accurate as those \nfound in the work of mediocre scientists. \n \n33. There are those who look forward to robots developing greater intelligence. \n \n \nList of Experts \n \nA. Martin Rees \n \nB. Daniel Wolpert \n \nC. Kathleen Richardson",
+          "questions": [
+            {
+              "number": 27,
+              "text": "For our own safety, humans will need to restrict the abilities of robots."
+            },
+            {
+              "number": 28,
+              "text": "The risk of robots harming us is less serious than humans believe it to be."
+            },
+            {
+              "number": 29,
+              "text": "It will take many decades for robot intelligence to be as imaginative as human intelligence."
+            },
+            {
+              "number": 30,
+              "text": "We may have to start considering whether we are treating robots fairly."
+            },
+            {
+              "number": 31,
+              "text": "Robots are probably of more help to us on Earth than in space."
+            },
+            {
+              "number": 32,
+              "text": "The ideas in high-quality science fiction may prove to be just as accurate as those found in the work of mediocre scientists."
+            },
+            {
+              "number": 33,
+              "text": "There are those who look forward to robots developing greater intelligence."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p3-g1-s1-55e2ca3a.webp",
+              "page": 60
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Martin Rees"
+            },
+            {
+              "value": "B",
+              "label": "Daniel Wolpert"
+            },
+            {
+              "value": "C",
+              "label": "Kathleen Richardson"
+            }
+          ]
+        },
+        {
+          "id": "cam20-t3-p3-g2",
+          "type": "matching",
+          "heading": "Questions 34–36",
+          "instructions": "Complete each sentence with the correct ending, A-D, below.",
+          "body": "A. robots to explore outer space. \n \nB. advances made in machine intelligence so far. \n \nC. changes made to other planets for our own \nbenefit. \n \nD. the harm already done by artificial intelligence \n \n \n34. Richardson and Rees express similar views regarding the ethical aspect of \n……………… \n \n35. Rees and Wolpert share an opinion about the extent of ………………... \n \n36. Wolpert disagrees with Richardson on the question of ……………….",
+          "questions": [
+            {
+              "number": 34,
+              "text": "Richardson and Rees express similar views regarding the ethical aspect of ………………"
+            },
+            {
+              "number": 35,
+              "text": "Rees and Wolpert share an opinion about the extent of ………………..."
+            },
+            {
+              "number": 36,
+              "text": "Wolpert disagrees with Richardson on the question of ………………."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p3-g2-s1-24f1c335.webp",
+              "page": 61
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "robots to explore outer space."
+            },
+            {
+              "value": "B",
+              "label": "advances made in machine intelligence so far."
+            },
+            {
+              "value": "C",
+              "label": "changes made to other planets for our own benefit."
+            },
+            {
+              "value": "D",
+              "label": "the harm already done by artificial intelligence"
+            }
+          ]
+        },
+        {
+          "id": "cam20-t3-p3-g3",
+          "type": "choice",
+          "heading": "Questions 37–40",
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "body": "",
+          "questions": [
+            {
+              "number": 37,
+              "text": "What point does Richardson make about fear of machines?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It has grown alongside the development of ever more advanced robots."
+                },
+                {
+                  "value": "B",
+                  "label": "It is the result of our inclination to attribute human characteristics to non-human entities."
+                },
+                {
+                  "value": "C",
+                  "label": "It has its origins in basic misunderstandings about how inanimate objects function."
+                },
+                {
+                  "value": "D",
+                  "label": "It demonstrates a key difference between human intelligence and machine intelligence."
+                }
+              ]
+            },
+            {
+              "number": 38,
+              "text": "What potential advance does Rees see as a cause for concern?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "robots outnumbering people"
+                },
+                {
+                  "value": "B",
+                  "label": "robots having abilities which humans do not"
+                },
+                {
+                  "value": "C",
+                  "label": "artificial intelligence developing independent thought"
+                },
+                {
+                  "value": "D",
+                  "label": "artificial intelligence taking over every aspect of our lives"
+                }
+              ]
+            },
+            {
+              "number": 39,
+              "text": "What does Wolpert emphasise in his response to the question about science fiction?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "how science fiction influences our attitudes to robots"
+                },
+                {
+                  "value": "B",
+                  "label": "how fundamental robots are to the science fiction genre"
+                },
+                {
+                  "value": "C",
+                  "label": "how the image of robots in science fiction has changed over time"
+                },
+                {
+                  "value": "D",
+                  "label": "how reactions to similar portrayals of robots in science fiction may vary"
+                }
+              ]
+            },
+            {
+              "number": 40,
+              "text": "What is Richardson doing in her comment about reality and fantasy?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "warning people not to confuse one with the other"
+                },
+                {
+                  "value": "B",
+                  "label": "outlining ways in which one has impacted on the other"
+                },
+                {
+                  "value": "C",
+                  "label": "recommending a change of approach in how people view them"
+                },
+                {
+                  "value": "D",
+                  "label": "explaining why scientists have a different perspective on them from other people"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam20-t3-p3-g3-s1-bf793546.webp",
+              "page": 62
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 58
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 59
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 60
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 61
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+          "page": 62
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t3-p3-reading-058-4e32ac1c.webp",
+          "page": 58
+        },
+        {
+          "url": "/library-assets/cam20-t3-p3-reading-059-8d80173c.webp",
+          "page": 59
+        },
+        {
+          "url": "/library-assets/cam20-t3-p3-reading-060-63109200.webp",
+          "page": 60
+        }
+      ]
+    }
+  ]
+}

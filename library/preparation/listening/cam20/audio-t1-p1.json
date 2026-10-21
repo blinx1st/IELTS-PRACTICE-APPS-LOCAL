@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/e912ed87c4697597a0108cd96aa52772e10739f4e44baf65bd5438a33df7ff12.m4a",
+    "sha256": "e912ed87c4697597a0108cd96aa52772e10739f4e44baf65bd5438a33df7ff12",
+    "duration": 501.319,
+    "start": 0,
+    "end": 501.319,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S1.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "IELTS 20, published by Cambridge University Press and Assessment 2025. This recording is copyright. Test 1. This is the IELTS Listening Test. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to part 1. Part 1 You will hear a woman asking a friend for restaurant recommendations. First, you have some time to look at questions 1 to 4. Now listen carefully and answer questions one to four. I've been meaning to ask you for some advice about restaurants."
+    },
+    {
+      "name": "ending",
+      "start": 436.319,
+      "end": 501.319,
+      "text": "You You"
+    }
+  ]
+}

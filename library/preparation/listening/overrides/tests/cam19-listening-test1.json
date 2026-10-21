@@ -1,0 +1,1056 @@
+{
+  "id": "cam19-listening-test1",
+  "skill": "listening",
+  "book": 19,
+  "test": 1,
+  "title": "Cambridge 19 · Listening Test 1",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam19-t1-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t1-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-009.webp",
+              "page": 9
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 9
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Hinchingbrooke Country Park"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The park"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Area: ",
+                  {
+                    "number": 1
+                  },
+                  " hectares"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Habitats: wetland, grassland and woodland"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Wetland: lakes, ponds and a ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Wildlife includes birds, insects and animals"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Subjects studied in educational visits include"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Science: Children look at ",
+                  {
+                    "number": 3
+                  },
+                  " about plants, etc."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Geography: includes learning to use a ",
+                  {
+                    "number": 4
+                  },
+                  " and compass"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "History: changes in land use"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Leisure and tourism: mostly concentrates on the park's ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Music: Children make ",
+                  {
+                    "number": 6
+                  },
+                  " with natural materials, and experiment with rhythm and speed."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Benefits of outdoor educational visits"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They give children a feeling of ",
+                  {
+                    "number": 7
+                  },
+                  " that they may not have elsewhere."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Children learn new ",
+                  {
+                    "number": 8
+                  },
+                  " and gain self-confidence."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Practical issues"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Cost per child: £ ",
+                  {
+                    "number": 9
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Adults, such as ",
+                  {
+                    "number": 10
+                  },
+                  ", free"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-009.webp",
+          "page": 9
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 9
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/9297b29a5f03fe7a61220ae4efe1998fe7cfcaae1a2d5d4f3e52b4d41db8753c.mp3",
+        "sha256": "9297b29a5f03fe7a61220ae4efe1998fe7cfcaae1a2d5d4f3e52b4d41db8753c",
+        "duration": 472.66,
+        "start": 54.02,
+        "end": 472.66,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t1-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t1-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ],
+          "additionalProof": "preparation/listening/cam19/timeline-t1-p1.json (115–175 seconds: Hinchingbrooke 69 hectares, wetland and stream)"
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t1-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t1-p2-q11-15",
+          "type": "choice",
+          "heading": "Questions 11–15",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "During the visit to Malatte, in France, members especially enjoyed",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "going to a theme park"
+                },
+                {
+                  "value": "B",
+                  "label": "experiencing a river trip"
+                },
+                {
+                  "value": "C",
+                  "label": "visiting a cheese factory"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "What will happen in Stanthorpe to mark the 25th anniversary of the Twinning Association?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A tree will be planted"
+                },
+                {
+                  "value": "B",
+                  "label": "A garden seat will be bought"
+                },
+                {
+                  "value": "C",
+                  "label": "A footbridge will be built"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "Which event raised most funds this year?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the film show"
+                },
+                {
+                  "value": "B",
+                  "label": "the pancake evening"
+                },
+                {
+                  "value": "C",
+                  "label": "the cookery demonstration"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "For the first evening with the French visitors host families are advised to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "take them for a walk round the town"
+                },
+                {
+                  "value": "B",
+                  "label": "go to a local restaurant"
+                },
+                {
+                  "value": "C",
+                  "label": "have a meal at home"
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "On Saturday evening there will be the chance to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "listen to a concert"
+                },
+                {
+                  "value": "B",
+                  "label": "watch a match"
+                },
+                {
+                  "value": "C",
+                  "label": "take part in a competition"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-010.webp",
+              "page": 10
+            },
+            {
+              "url": "/library-assets/l-cam19-source-011.webp",
+              "page": 11
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 10
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t1-p2-q16-20",
+          "type": "matching",
+          "heading": "Questions 16–20",
+          "instructions": "Label the map below. Write the correct letter, A–H, next to Questions 16–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 16,
+              "text": "Farm shop"
+            },
+            {
+              "number": 17,
+              "text": "Disabled entry"
+            },
+            {
+              "number": 18,
+              "text": "Adventure playground"
+            },
+            {
+              "number": 19,
+              "text": "Kitchen gardens"
+            },
+            {
+              "number": 20,
+              "text": "The Temple of the Four Winds"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-010.webp",
+              "page": 10
+            },
+            {
+              "url": "/library-assets/l-cam19-source-011.webp",
+              "page": 11
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 10
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 11
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            }
+          ],
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam19-source-011.webp",
+              "page": 11
+            },
+            "labels": [
+              {
+                "number": 16,
+                "x": 0.485,
+                "y": 0.758,
+                "width": 0.15
+              },
+              {
+                "number": 17,
+                "x": 0.485,
+                "y": 0.787,
+                "width": 0.15
+              },
+              {
+                "number": 18,
+                "x": 0.485,
+                "y": 0.816,
+                "width": 0.15
+              },
+              {
+                "number": 19,
+                "x": 0.485,
+                "y": 0.846,
+                "width": 0.15
+              },
+              {
+                "number": 20,
+                "x": 0.485,
+                "y": 0.878,
+                "width": 0.15
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-010.webp",
+          "page": 10
+        },
+        {
+          "url": "/library-assets/l-cam19-source-011.webp",
+          "page": 11
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 10
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 11
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/a1d2e490e8fa649ab0dce108c0ee4ccb9e173f34fa8288c8961ce4b05c2d9d6a.mp3",
+        "sha256": "a1d2e490e8fa649ab0dce108c0ee4ccb9e173f34fa8288c8961ce4b05c2d9d6a",
+        "duration": 437.238,
+        "start": 0,
+        "end": 437.238,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t1-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t1-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t1-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t1-p3-q21-22",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO things did Colin find most satisfying about his bread reuse project?",
+          "questions": [
+            {
+              "number": 21,
+              "text": ""
+            },
+            {
+              "number": 22,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-012.webp",
+              "page": 12
+            },
+            {
+              "url": "/library-assets/l-cam19-source-013.webp",
+              "page": 13
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 12
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 13
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "receiving support from local restaurants"
+            },
+            {
+              "value": "B",
+              "label": "finding a good way to prevent waste"
+            },
+            {
+              "value": "C",
+              "label": "overcoming problems in a basic process"
+            },
+            {
+              "value": "D",
+              "label": "experimenting with designs and colours"
+            },
+            {
+              "value": "E",
+              "label": "learning how to apply 3-D printing"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam19-t1-p3-q23-24",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future?",
+          "questions": [
+            {
+              "number": 23,
+              "text": ""
+            },
+            {
+              "number": 24,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-012.webp",
+              "page": 12
+            },
+            {
+              "url": "/library-assets/l-cam19-source-013.webp",
+              "page": 13
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 12
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 13
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "for use on medical products"
+            },
+            {
+              "value": "B",
+              "label": "to show that food is no longer fit to eat"
+            },
+            {
+              "value": "C",
+              "label": "for use with drinks as well as foods"
+            },
+            {
+              "value": "D",
+              "label": "to provide applications for blind people"
+            },
+            {
+              "value": "E",
+              "label": "to indicate the weight of certain foods"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam19-t1-p3-q25-30",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Opinions",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Use of local products"
+            },
+            {
+              "number": 26,
+              "text": "Reduction in unnecessary packaging"
+            },
+            {
+              "number": 27,
+              "text": "Gluten-free and lactose-free food"
+            },
+            {
+              "number": 28,
+              "text": "Use of branded products related to celebrity chefs"
+            },
+            {
+              "number": 29,
+              "text": "Development of ‘ghost kitchens’ for takeaway food"
+            },
+            {
+              "number": 30,
+              "text": "Use of mushrooms for common health concerns"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-012.webp",
+              "page": 12
+            },
+            {
+              "url": "/library-assets/l-cam19-source-013.webp",
+              "page": 13
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 12
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 13
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "This is only relevant to young people"
+            },
+            {
+              "value": "B",
+              "label": "This may have disappointing results"
+            },
+            {
+              "value": "C",
+              "label": "This already seems to be widespread"
+            },
+            {
+              "value": "D",
+              "label": "Retailers should do more to encourage this"
+            },
+            {
+              "value": "E",
+              "label": "More financial support is needed for this"
+            },
+            {
+              "value": "F",
+              "label": "Most people know little about this"
+            },
+            {
+              "value": "G",
+              "label": "There should be stricter regulations about this"
+            },
+            {
+              "value": "H",
+              "label": "This could be dangerous"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-012.webp",
+          "page": 12
+        },
+        {
+          "url": "/library-assets/l-cam19-source-013.webp",
+          "page": 13
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 12
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 13
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/b43379f7c9d26e6e06dc8e52a9ffa66bb4bfae25823ad83cfe0d845efffac47b.mp3",
+        "sha256": "b43379f7c9d26e6e06dc8e52a9ffa66bb4bfae25823ad83cfe0d845efffac47b",
+        "duration": 420.258,
+        "start": 0,
+        "end": 420.258,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t1-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t1-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t1-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t1-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-014.webp",
+              "page": 14
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 14
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Céide Fields"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "an important Neolithic archaeological site in the northwest of Ireland"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Discovery"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "In the 1930s, a local teacher realised that stones beneath the bog surface were once ",
+                  {
+                    "number": 31
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "His ",
+                  {
+                    "number": 32
+                  },
+                  " became an archaeologist and undertook an investigation of the site:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a traditional method used by local people to dig for ",
+                  {
+                    "number": 33
+                  },
+                  " was used to identify where stones were located"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "carbon dating later proved the site was Neolithic."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Items are well preserved in the bog because of a lack of ",
+                  {
+                    "number": 34
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Neolithic farmers"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Houses were ",
+                  {
+                    "number": 35
+                  },
+                  " in shape and had a hole in the roof."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Neolithic innovations include:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "cooking indoors"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "pots used for storage and to make ",
+                  {
+                    "number": 36
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Each field at Céide was large enough to support a big ",
+                  {
+                    "number": 37
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The fields were probably used to restrict the grazing of animals - no evidence of structures to house them during ",
+                  {
+                    "number": 38
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Reasons for the decline in farming"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a decline in ",
+                  {
+                    "number": 39
+                  },
+                  " quality"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "an increase in ",
+                  {
+                    "number": 40
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-014.webp",
+          "page": 14
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 14
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/a125a0b8de00cdbae3f877500bd0234afdaec351e007db8764e4116d09175159.mp3",
+        "sha256": "a125a0b8de00cdbae3f877500bd0234afdaec351e007db8764e4116d09175159",
+        "duration": 414.798,
+        "start": 0,
+        "end": 374.11,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t1-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t1-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

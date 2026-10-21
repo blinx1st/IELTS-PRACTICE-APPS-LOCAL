@@ -1,0 +1,192 @@
+{
+  "book": 14,
+  "test": 4,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T4S3.mp3",
+  "sha256": "f1c07be34b090154afde2aa87d2ffc35c537de367a264c45dfb20dfcee17deab",
+  "duration": 463.303,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      363.1893125,
+      463.1893125
+    ]
+  ],
+  "text": "Section 3 You will hear Stephanie, who is thinking about taking a one-year course in children's literature, talking to Trevor, who is currently taking the course. First, you have some time to look at questions 21 to 25. Now, listen carefully. And answer questions 21 to 25. Hello, Trevor. Hello, Stephanie. You said you wanted to talk about the course I'm taking on literature for children. That's right. I'm thinking of doing it next year, but I'd like to find out more about it first. OK. Well, as you probably know, it's a one-year course. It's divided into six modules, and you have to take all of them. One of the most interesting ones, for me at least, was about the purpose of children's literature. You mean whether it should just entertain children or should be educational as well? Right, and whether the teaching should be factual, giving them information about the world or ethical teaching them values. What's fascinating is that the writer isn't necessarily conscious of the message they're conveying. For instance, a Storyman. read Oscar Wilde's The Happy Prince. It's probably my favourite children's story of all time. Oh, mine too. And it's so surprising because Wilde is best known for his plays, and most of them are very witty, but The Happy Prince is really moving. I struggled with Tolkien's The Lord of the Rings, three long books, and I gave up after one. extremely popular though. Yeah, but where is something like the Happy Prince just carried me along with it? The Lord of the Rings took more effort than I was prepared to give it. I didn't find that. I love it. Hmm. Another one I've read is War Horse. Oh yes, it's about the First World War isn't it? Hardly what you'd expect for a children's story? Exactly, but it's been very successful. How do you read anything? That is the end of section 3. You now have half a minute to check your answers. Now turn to section 4.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "Section 3"
+    },
+    {
+      "start": 5.64,
+      "end": 10.4,
+      "text": "You will hear Stephanie, who is thinking about taking a one-year course in children's"
+    },
+    {
+      "start": 10.4,
+      "end": 15.92,
+      "text": "literature, talking to Trevor, who is currently taking the course."
+    },
+    {
+      "start": 15.92,
+      "end": 22.52,
+      "text": "First, you have some time to look at questions 21 to 25."
+    },
+    {
+      "start": 30.0,
+      "end": 59.76,
+      "text": "Now, listen carefully."
+    },
+    {
+      "start": 59.76,
+      "end": 65.56,
+      "text": "And answer questions 21 to 25."
+    },
+    {
+      "start": 65.56,
+      "end": 67.52,
+      "text": "Hello, Trevor."
+    },
+    {
+      "start": 67.52,
+      "end": 68.92,
+      "text": "Hello, Stephanie."
+    },
+    {
+      "start": 68.92,
+      "end": 73.08,
+      "text": "You said you wanted to talk about the course I'm taking on literature for children."
+    },
+    {
+      "start": 73.08,
+      "end": 74.08,
+      "text": "That's right."
+    },
+    {
+      "start": 74.08,
+      "end": 79.0,
+      "text": "I'm thinking of doing it next year, but I'd like to find out more about it first."
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "text": "OK."
+    },
+    {
+      "start": 80.0,
+      "end": 83.2,
+      "text": "Well, as you probably know, it's a one-year course."
+    },
+    {
+      "start": 83.2,
+      "end": 87.64,
+      "text": "It's divided into six modules, and you have to take all of them."
+    },
+    {
+      "start": 87.64,
+      "end": 92.24,
+      "text": "One of the most interesting ones, for me at least, was about the purpose of children's"
+    },
+    {
+      "start": 92.24,
+      "end": 93.24,
+      "text": "literature."
+    },
+    {
+      "start": 93.24,
+      "end": 98.84,
+      "text": "You mean whether it should just entertain children or should be educational as well?"
+    },
+    {
+      "start": 98.84,
+      "end": 104.2,
+      "text": "Right, and whether the teaching should be factual, giving them information about the world"
+    },
+    {
+      "start": 104.2,
+      "end": 107.32,
+      "text": "or ethical teaching them values."
+    },
+    {
+      "start": 107.32,
+      "end": 112.32,
+      "text": "What's fascinating is that the writer isn't necessarily conscious of the message they're"
+    },
+    {
+      "start": 112.32,
+      "end": 113.32,
+      "text": "conveying."
+    },
+    {
+      "start": 113.32,
+      "end": 115.32,
+      "text": "For instance, a Storyman."
+    },
+    {
+      "start": 363.19,
+      "end": 367.99,
+      "text": "read Oscar Wilde's The Happy Prince. It's probably my favourite children's story of"
+    },
+    {
+      "start": 367.99,
+      "end": 368.99,
+      "text": "all time."
+    },
+    {
+      "start": 368.99,
+      "end": 376.47,
+      "text": "Oh, mine too. And it's so surprising because Wilde is best known for his plays, and most"
+    },
+    {
+      "start": 376.47,
+      "end": 384.31,
+      "text": "of them are very witty, but The Happy Prince is really moving. I struggled with Tolkien's"
+    },
+    {
+      "start": 384.31,
+      "end": 389.67,
+      "text": "The Lord of the Rings, three long books, and I gave up after one."
+    },
+    {
+      "start": 389.67,
+      "end": 394.71,
+      "text": "extremely popular though. Yeah, but where is something like the Happy Prince just"
+    },
+    {
+      "start": 394.71,
+      "end": 400.23,
+      "text": "carried me along with it? The Lord of the Rings took more effort than I was prepared to give it."
+    },
+    {
+      "start": 400.23,
+      "end": 407.83,
+      "text": "I didn't find that. I love it. Hmm. Another one I've read is War Horse. Oh yes, it's about the"
+    },
+    {
+      "start": 407.83,
+      "end": 414.47,
+      "text": "First World War isn't it? Hardly what you'd expect for a children's story? Exactly, but it's been"
+    },
+    {
+      "start": 414.47,
+      "end": 421.47,
+      "text": "very successful. How do you read anything?"
+    },
+    {
+      "start": 421.47,
+      "end": 428.47,
+      "text": "That is the end of section 3. You now have half a minute to check your answers."
+    },
+    {
+      "start": 444.47,
+      "end": 460.47,
+      "text": "Now turn to section 4."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

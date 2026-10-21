@@ -1,0 +1,1145 @@
+{
+  "id": "cam19-listening-test4",
+  "skill": "listening",
+  "book": 19,
+  "test": 4,
+  "title": "Cambridge 19 · Listening Test 4",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam19-t4-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t4-p1-q1-6",
+          "type": "completion",
+          "heading": "Questions 1–6",
+          "instructions": "Complete the notes below. Write ONE WORD AND/ORA NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-077.webp",
+              "page": 77
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 77
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "First day at work"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Name of supervisor: ",
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Where to leave coat and bag: use ",
+                  {
+                    "number": 2
+                  },
+                  " in staffroom"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "See Tiffany in HR:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "to give ",
+                  {
+                    "number": 3
+                  },
+                  " number"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "to collect ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Location of HR office: on ",
+                  {
+                    "number": 5
+                  },
+                  " floor"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Supervisor's mobile number: ",
+                  {
+                    "number": 6
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam19-t4-p1-q7-10",
+          "type": "completion",
+          "heading": "Questions 7–10",
+          "instructions": "Complete the table below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-077.webp",
+              "page": 77
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 77
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "table",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "content": [],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Task 1"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Task 2"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Notes"
+                    ],
+                    "header": true
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Bakery section"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Check sell-by dates"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Change price labels"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Use ",
+                      {
+                        "number": 7
+                      },
+                      " labels"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Sushi takeaway counter"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Re-stock with ",
+                      {
+                        "number": 8
+                      },
+                      " boxes if needed"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Wipe preparation area and clean the sink"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Do not clean any knives"
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Meat and fish counters"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Clean the serving area, including the weighing scales"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Collect ",
+                      {
+                        "number": 9
+                      },
+                      " for the fish from the cold-room"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Must wear special ",
+                      {
+                        "number": 10
+                      }
+                    ],
+                    "header": false
+                  }
+                ]
+              }
+            ],
+            "caption": "Responsibilities"
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-077.webp",
+          "page": 77
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 77
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/6adef56d3145a0d7d49d1c5e08a9e957104ddcef2a95d2a0bb2d0026a89ca2d6.mp3",
+        "sha256": "6adef56d3145a0d7d49d1c5e08a9e957104ddcef2a95d2a0bb2d0026a89ca2d6",
+        "duration": 405.159,
+        "start": 43.62,
+        "end": 405.159,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t4-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t4-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t4-p2-q11-12",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO problems with some training programmes for new runners does Liz mention?",
+          "questions": [
+            {
+              "number": 11,
+              "text": ""
+            },
+            {
+              "number": 12,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-078.webp",
+              "page": 78
+            },
+            {
+              "url": "/library-assets/l-cam19-source-079.webp",
+              "page": 79
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 78
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 79
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "There is a risk of serious injury"
+            },
+            {
+              "value": "B",
+              "label": "They are unsuitable for certain age groups"
+            },
+            {
+              "value": "C",
+              "label": "They are unsuitable for people with health issues"
+            },
+            {
+              "value": "D",
+              "label": "it is difficult to stay motivated"
+            },
+            {
+              "value": "E",
+              "label": "There is a lack of individual support"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam19-t4-p2-q13-14",
+          "type": "multi",
+          "heading": "Questions 13–14",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO tips does Liz recommend for new runners?",
+          "questions": [
+            {
+              "number": 13,
+              "text": ""
+            },
+            {
+              "number": 14,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-078.webp",
+              "page": 78
+            },
+            {
+              "url": "/library-assets/l-cam19-source-079.webp",
+              "page": 79
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 78
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 79
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "doing two runs a week"
+            },
+            {
+              "value": "B",
+              "label": "running in the evening"
+            },
+            {
+              "value": "C",
+              "label": "going on runs with a friend"
+            },
+            {
+              "value": "D",
+              "label": "listening to music during runs"
+            },
+            {
+              "value": "E",
+              "label": "running very slowly"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam19-t4-p2-q15-18",
+          "type": "matching",
+          "heading": "Questions 15–18",
+          "instructions": "What reason prevented each of the following members of the Compton Park Runners Club from joining until recently? Write the correct letter, A, B, or C next to Questions 15-18. Reasons",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "Ceri"
+            },
+            {
+              "number": 16,
+              "text": "James"
+            },
+            {
+              "number": 17,
+              "text": "Leo"
+            },
+            {
+              "number": 18,
+              "text": "Mark"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-078.webp",
+              "page": 78
+            },
+            {
+              "url": "/library-assets/l-cam19-source-079.webp",
+              "page": 79
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 78
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 79
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "a lack of confidence"
+            },
+            {
+              "value": "B",
+              "label": "a dislike of running"
+            },
+            {
+              "value": "C",
+              "label": "a lack of time"
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t4-p2-q19-20",
+          "type": "choice",
+          "heading": "Questions 19–20",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 19,
+              "text": "What does Liz say about running her first marathon?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It had always been her ambition"
+                },
+                {
+                  "value": "B",
+                  "label": "Her husband persuaded her to do it"
+                },
+                {
+                  "value": "C",
+                  "label": "She nearly gave up before the end"
+                }
+              ]
+            },
+            {
+              "number": 20,
+              "text": "Liz says new runners should sign up for a race",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "every six months"
+                },
+                {
+                  "value": "B",
+                  "label": "within a few weeks of taking up running"
+                },
+                {
+                  "value": "C",
+                  "label": "after completing several practice runs."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-078.webp",
+              "page": 78
+            },
+            {
+              "url": "/library-assets/l-cam19-source-079.webp",
+              "page": 79
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 78
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 79
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-078.webp",
+          "page": 78
+        },
+        {
+          "url": "/library-assets/l-cam19-source-079.webp",
+          "page": 79
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 78
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 79
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/fdcdb59c3e3015eb8d522d3f97e5f7928c1364420c72ed35f2e9c56f293fb168.mp3",
+        "sha256": "fdcdb59c3e3015eb8d522d3f97e5f7928c1364420c72ed35f2e9c56f293fb168",
+        "duration": 389.12,
+        "start": 0,
+        "end": 389.12,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t4-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t4-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t4-p3-q21-25",
+          "type": "choice",
+          "heading": "Questions 21–25",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Kieran thinks the packing advice given by Jane’s grandfather is",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "common sense"
+                },
+                {
+                  "value": "B",
+                  "label": "hard to follow"
+                },
+                {
+                  "value": "C",
+                  "label": "over-protective"
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "How does Jane feel about the books her grandfather has given her?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "They are not worth keeping"
+                },
+                {
+                  "value": "B",
+                  "label": "They should go to a collector"
+                },
+                {
+                  "value": "C",
+                  "label": "They have sentimental value for her"
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Jane and Kieran agree that hardback books should be",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "put out on display"
+                },
+                {
+                  "value": "B",
+                  "label": "given as gifts to visitors"
+                },
+                {
+                  "value": "C",
+                  "label": "more attractively designed"
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "While talking about taking a book from a shelf, Jane",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "describes the mistakes other people make doing it"
+                },
+                {
+                  "value": "B",
+                  "label": "reflects on a significant childhood experience"
+                },
+                {
+                  "value": "C",
+                  "label": "explains why some books are easier to remove than others"
+                }
+              ]
+            },
+            {
+              "number": 25,
+              "text": "What do Jane and Kieran suggest about new books?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Their parents liked buying them as presents"
+                },
+                {
+                  "value": "B",
+                  "label": "They would like to buy more of them"
+                },
+                {
+                  "value": "C",
+                  "label": "Not everyone can afford them"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-080.webp",
+              "page": 80
+            },
+            {
+              "url": "/library-assets/l-cam19-source-081.webp",
+              "page": 81
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 80
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 81
+            }
+          ]
+        },
+        {
+          "id": "l-cam19-t4-p3-q26-30",
+          "type": "matching",
+          "heading": "Questions 26–30",
+          "instructions": "Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Location of books",
+          "body": "",
+          "questions": [
+            {
+              "number": 26,
+              "text": "rare books"
+            },
+            {
+              "number": 27,
+              "text": "children’s books"
+            },
+            {
+              "number": 28,
+              "text": "unwanted books"
+            },
+            {
+              "number": 29,
+              "text": "requested books"
+            },
+            {
+              "number": 30,
+              "text": "coursebooks"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-080.webp",
+              "page": 80
+            },
+            {
+              "url": "/library-assets/l-cam19-source-081.webp",
+              "page": 81
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 80
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 81
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "near the entrance"
+            },
+            {
+              "value": "B",
+              "label": "in the attic"
+            },
+            {
+              "value": "C",
+              "label": "at the back of the shop"
+            },
+            {
+              "value": "D",
+              "label": "on a high shelf"
+            },
+            {
+              "value": "E",
+              "label": "near the stairs"
+            },
+            {
+              "value": "F",
+              "label": "in a specially designed space"
+            },
+            {
+              "value": "G",
+              "label": "within the café"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-080.webp",
+          "page": 80
+        },
+        {
+          "url": "/library-assets/l-cam19-source-081.webp",
+          "page": 81
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 80
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 81
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/001757f60d198e0bd900892a4cc7916b06e34656ae8feeff89d493f3e1d5e948.mp3",
+        "sha256": "001757f60d198e0bd900892a4cc7916b06e34656ae8feeff89d493f3e1d5e948",
+        "duration": 429.401,
+        "start": 0,
+        "end": 429.401,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t4-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t4-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam19-t4-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam19-t4-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam19-source-082.webp",
+              "page": 82
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+              "page": 82
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Tree planting"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Reforestation projects should:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "include a range of tree species"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "not include invasive species because of possible ",
+                  {
+                    "number": 31
+                  },
+                  " with native species"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "aim to capture carbon, protect the environment and provide sustainable sources of ",
+                  {
+                    "number": 32
+                  },
+                  " for local people"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "use tree seeds with a high genetic diversity to increase resistance to ",
+                  {
+                    "number": 33
+                  },
+                  " and climate change"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "plant trees on previously forested land which is in a bad condition, not select land which is being used for ",
+                  {
+                    "number": 34
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Large-scale reforestation projects"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Base planning decisions on information from accurate ",
+                  {
+                    "number": 35
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Drones are useful for identifying areas in Brazil which are endangered by keeping ",
+                  {
+                    "number": 36
+                  },
+                  " and illegal logging."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Lampang Province, Northern Thailand"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A forest was restored in an area damaged by mining."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A variety of native fig trees were planted, which are important for"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "supporting many wildlife species"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "increasing the ",
+                  {
+                    "number": 37
+                  },
+                  " of recovery by attracting animals and birds, e.g., ",
+                  {
+                    "number": 38
+                  },
+                  " were soon attracted to the area."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Involving local communities"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Destruction of mangrove forests in Madagascar made it difficult for people to make a living from ",
+                  {
+                    "number": 39
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The mangrove reforestation project:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "provided employment for local people"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "restored a healthy ecosystem"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "protects against the higher risk of ",
+                  {
+                    "number": 40
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam19-source-082.webp",
+          "page": 82
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+          "page": 82
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/bccccad08d978375085d5f2f3793693ba2d13e59ab7b11607da9fc8cb3db2a40.mp3",
+        "sha256": "bccccad08d978375085d5f2f3793693ba2d13e59ab7b11607da9fc8cb3db2a40",
+        "duration": 518.922,
+        "start": 0,
+        "end": 508.22,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam19/audio-t4-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam19/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

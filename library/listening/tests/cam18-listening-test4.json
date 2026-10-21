@@ -1,0 +1,1034 @@
+{
+  "id": "cam18-listening-test4",
+  "skill": "listening",
+  "book": 18,
+  "test": 4,
+  "title": "Cambridge 18 · Listening Test 4",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam18-t4-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t4-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-080.webp",
+              "page": 80
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 80
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Job details from employment agency"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Role"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 1
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Location"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Fordham ",
+                  {
+                    "number": 2
+                  },
+                  " Centre"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 3
+                  },
+                  " Road, Fordham"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Work involves"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "dealing with enquiries"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "making ",
+                  {
+                    "number": 4
+                  },
+                  " and reorganising them"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "maintaining the internal ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "general administration"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Requirements"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 6
+                  },
+                  " (essential)"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a calm and ",
+                  {
+                    "number": 7
+                  },
+                  " manner"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "good IT skills"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Other information"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a ",
+                  {
+                    "number": 8
+                  },
+                  " job - further opportunities may be available"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "hours: 7.45 a.m. to ",
+                  {
+                    "number": 9
+                  },
+                  " p.m. Monday to Friday"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "number": 10
+                  },
+                  " is available onsite"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-080.webp",
+          "page": 80
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 80
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c4ba3cb30b3208acd298cf6a2c31a9fe46414d3fd35472680babd810fdbd5051.mp3",
+        "sha256": "c4ba3cb30b3208acd298cf6a2c31a9fe46414d3fd35472680babd810fdbd5051",
+        "duration": 442.888,
+        "start": 38.48,
+        "end": 442.888,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t4-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t4-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t4-p2-q11-14",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "The museum building was originally",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a factory"
+                },
+                {
+                  "value": "B",
+                  "label": "a private home."
+                },
+                {
+                  "value": "C",
+                  "label": "a hall of residence"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "The university uses part of the museum building as",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "teaching rooms"
+                },
+                {
+                  "value": "B",
+                  "label": "a research library"
+                },
+                {
+                  "value": "C",
+                  "label": "administration offices"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "What does the guide say about the entrance fee?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Visitors decide whether or not they wish to pay"
+                },
+                {
+                  "value": "B",
+                  "label": "Only children and students receive a discount"
+                },
+                {
+                  "value": "C",
+                  "label": "The museum charges extra for special exhibitions"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "What are visitors advised to leave in the cloakroom?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "cameras"
+                },
+                {
+                  "value": "B",
+                  "label": "coats"
+                },
+                {
+                  "value": "C",
+                  "label": "bags"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-081.webp",
+              "page": 81
+            },
+            {
+              "url": "/library-assets/l-cam18-source-082.webp",
+              "page": 82
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 81
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 82
+            }
+          ]
+        },
+        {
+          "id": "l-cam18-t4-p2-q15-20",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "What information does the speaker give about each of the following areas of the museum? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 15-20. Information",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "Four Seasons"
+            },
+            {
+              "number": 16,
+              "text": "Farmhouse Kitchen"
+            },
+            {
+              "number": 17,
+              "text": "A Year on the Farm"
+            },
+            {
+              "number": 18,
+              "text": "Wagon Walk"
+            },
+            {
+              "number": 19,
+              "text": "Bees are Magic"
+            },
+            {
+              "number": 20,
+              "text": "The Pond"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-081.webp",
+              "page": 81
+            },
+            {
+              "url": "/library-assets/l-cam18-source-082.webp",
+              "page": 82
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 81
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 82
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Parents must supervise their children"
+            },
+            {
+              "value": "B",
+              "label": "There are new things to see"
+            },
+            {
+              "value": "C",
+              "label": "it is closed today"
+            },
+            {
+              "value": "D",
+              "label": "This is only for school groups"
+            },
+            {
+              "value": "E",
+              "label": "There is a quiz for visitors"
+            },
+            {
+              "value": "F",
+              "label": "It features something created by students"
+            },
+            {
+              "value": "G",
+              "label": "An expert is here today"
+            },
+            {
+              "value": "H",
+              "label": "There is a one-way system"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-081.webp",
+          "page": 81
+        },
+        {
+          "url": "/library-assets/l-cam18-source-082.webp",
+          "page": 82
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 81
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 82
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/7758d048fb6b0280f89738cd740f80e3311157ee99c16381e3c3305ab50d564b.mp3",
+        "sha256": "7758d048fb6b0280f89738cd740f80e3311157ee99c16381e3c3305ab50d564b",
+        "duration": 436.122,
+        "start": 0,
+        "end": 436.122,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t4-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t4-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t4-p3-q21-22",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO educational skills were shown in the video of children doing origami?",
+          "questions": [
+            {
+              "number": 21,
+              "text": ""
+            },
+            {
+              "number": 22,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-083.webp",
+              "page": 83
+            },
+            {
+              "url": "/library-assets/l-cam18-source-084.webp",
+              "page": 84
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 83
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 84
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "solving problems"
+            },
+            {
+              "value": "B",
+              "label": "following instructions"
+            },
+            {
+              "value": "C",
+              "label": "working cooperatively"
+            },
+            {
+              "value": "D",
+              "label": "learning through play"
+            },
+            {
+              "value": "E",
+              "label": "developing hand-eye coordination"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t4-p3-q23-27",
+          "type": "matching",
+          "heading": "Questions 23–27",
+          "instructions": "Which comment do the students make about each of the following children in the video? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 23-27. Comments",
+          "body": "",
+          "questions": [
+            {
+              "number": 23,
+              "text": "Sid"
+            },
+            {
+              "number": 24,
+              "text": "Jack"
+            },
+            {
+              "number": 25,
+              "text": "Naomi"
+            },
+            {
+              "number": 26,
+              "text": "Anya"
+            },
+            {
+              "number": 27,
+              "text": "Zara"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-083.webp",
+              "page": 83
+            },
+            {
+              "url": "/library-assets/l-cam18-source-084.webp",
+              "page": 84
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 83
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 84
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "demonstrated independence"
+            },
+            {
+              "value": "B",
+              "label": "asked for teacher support"
+            },
+            {
+              "value": "C",
+              "label": "developed a competitive attitude"
+            },
+            {
+              "value": "D",
+              "label": "seemed to find the activity calming"
+            },
+            {
+              "value": "E",
+              "label": "seemed pleased with the results"
+            },
+            {
+              "value": "F",
+              "label": "seemed confused"
+            },
+            {
+              "value": "G",
+              "label": "seemed to find the activity easy"
+            }
+          ]
+        },
+        {
+          "id": "l-cam18-t4-p3-q28-30",
+          "type": "choice",
+          "heading": "Questions 28–30",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 28,
+              "text": "Before starting an origami activity in class, the students think it is important for the teacher to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "make models that demonstrate the different stages"
+                },
+                {
+                  "value": "B",
+                  "label": "check children understand the terminology involved"
+                },
+                {
+                  "value": "C",
+                  "label": "tell children not to worry if they find the activity difficult"
+                }
+              ]
+            },
+            {
+              "number": 29,
+              "text": "The students agree that some teachers might be unwilling to use origami in class because",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "they may not think that crafts are important"
+                },
+                {
+                  "value": "B",
+                  "label": "they may not have the necessary skills"
+                },
+                {
+                  "value": "C",
+                  "label": "they may worry that it will take up too much time"
+                }
+              ]
+            },
+            {
+              "number": 30,
+              "text": "Why do the students decide to use origami in their maths teaching practice?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "to correct a particular misunderstanding"
+                },
+                {
+                  "value": "B",
+                  "label": "to set a challenge"
+                },
+                {
+                  "value": "C",
+                  "label": "to introduce a new concept"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-083.webp",
+              "page": 83
+            },
+            {
+              "url": "/library-assets/l-cam18-source-084.webp",
+              "page": 84
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 83
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 84
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-083.webp",
+          "page": 83
+        },
+        {
+          "url": "/library-assets/l-cam18-source-084.webp",
+          "page": 84
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 83
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 84
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/57096d17d19f60b1db2efa7d10c8d024086a69b8552eb13c02666e184c1eee40.mp3",
+        "sha256": "57096d17d19f60b1db2efa7d10c8d024086a69b8552eb13c02666e184c1eee40",
+        "duration": 418.098,
+        "start": 0,
+        "end": 418.098,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t4-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t4-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t4-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t4-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-085.webp",
+              "page": 85
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 85
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Victor Hugo"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "His novel, Les Misérables"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "It has been adapted for theatre and cinema."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "We know more about its overall ",
+                  {
+                    "number": 31
+                  },
+                  " than about its author."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "His early career"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "In Paris, his career was successful and he led the Romantic movement."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "He spoke publicly about social issues, such as ",
+                  {
+                    "number": 32
+                  },
+                  " and education."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Napoleon III disliked his views and exiled him."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "His exile from France"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Victor Hugo had to live elsewhere in ",
+                  {
+                    "number": 33
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "He used his income from the sale of some ",
+                  {
+                    "number": 34
+                  },
+                  " he had written to buy a house on Guernsey."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "His house on Guernsey"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Victor Hugo lived in this house until the end of the Empire in France."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The ground floor contains portraits, ",
+                  {
+                    "number": 35
+                  },
+                  " and tapestries that he valued."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "He bought cheap ",
+                  {
+                    "number": 36
+                  },
+                  " made of wood and turned this into beautiful wall carvings."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The first floor consists of furnished areas with wallpaper and ",
+                  {
+                    "number": 37
+                  },
+                  " that have a Chinese design."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The library still contains many of his favourite books."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "He wrote in a room at the top of the house that had a view of the ",
+                  {
+                    "number": 38
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "He entertained other writers as well as poor ",
+                  {
+                    "number": 39
+                  },
+                  " in his house."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Victor Hugo's ",
+                  {
+                    "number": 40
+                  },
+                  " gave ownership of the house to the city of Paris in 1927."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-085.webp",
+          "page": 85
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 85
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/f5f5f91b3ed3b542207f2c0516afa73f3757b29dd424292e4c3633a571daef2e.mp3",
+        "sha256": "f5f5f91b3ed3b542207f2c0516afa73f3757b29dd424292e4c3633a571daef2e",
+        "duration": 497.432,
+        "start": 0,
+        "end": 414,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t4-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds.",
+            "No reliable spoken check cue in source; boundary follows last transcript sentence (timed local ASR evidence)."
+          ]
+        }
+      }
+    }
+  ]
+}

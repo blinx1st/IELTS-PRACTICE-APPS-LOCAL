@@ -1,0 +1,137 @@
+{
+  "id": "cam13-test3",
+  "version": "1",
+  "answers": {
+    "1": [
+      "furniture"
+    ],
+    "2": [
+      "sugar"
+    ],
+    "3": [
+      "ropes"
+    ],
+    "4": [
+      "charcoal"
+    ],
+    "5": [
+      "bowls"
+    ],
+    "6": [
+      "hormones"
+    ],
+    "7": [
+      "cosmetics"
+    ],
+    "8": [
+      "dynamite"
+    ],
+    "9": [
+      "FALSE"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "NOT GIVEN"
+    ],
+    "12": [
+      "TRUE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "recording devices"
+    ],
+    "19": [
+      "fathers",
+      "dads"
+    ],
+    "20": [
+      "bridge hypothesis"
+    ],
+    "21": [
+      "repertoire"
+    ],
+    "22": [
+      "vests",
+      "audio-recording vests"
+    ],
+    "23": [
+      "vocabulary"
+    ],
+    "24": [
+      "F"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "E"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "H"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "shells"
+    ],
+    "33": [
+      "lake"
+    ],
+    "34": [
+      "rainfall"
+    ],
+    "35": [
+      "grains"
+    ],
+    "36": [
+      "pottery"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "A"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "A"
+    ]
+  },
+  "multi": [],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+    "sha256": "7e98040d551cd2e4bda85dfd25d787d59607502613d890341c3fa98e255a5589",
+    "pdfPage": 121,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

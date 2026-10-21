@@ -1,0 +1,93 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 22,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 1\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome people believe that it is best to accept a bad situation, such as an\nunsatisfactoryjob or shortage of money. Others argue that it is better to try\nand improve such situations.\nDiscuss both these views and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n30\n",
+  "blocks": [
+    {
+      "box": [
+        125.97462463378906,
+        92.50137329101562,
+        154.39450073242188,
+        101.14828491210938
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        126.69448852539062,
+        247.2629852294922,
+        137.142822265625
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        153.68907165527344,
+        360.6473083496094,
+        164.8579559326172
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        124.17498016357422,
+        179.60382080078125,
+        272.50836181640625,
+        191.13304138183594
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        136.05259704589844,
+        216.31643676757812,
+        532.638671875,
+        253.03948974609375
+      ],
+      "text": "Some people believe that it is best to accept a bad situation, such as an\nunsatisfactoryjob or shortage of money. Others argue that it is better to try\nand improve such situations.\n"
+    },
+    {
+      "box": [
+        135.69268798828125,
+        268.1459655761719,
+        416.0616760253906,
+        280.3957214355469
+      ],
+      "text": "Discuss both these views and give your own opinion.\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        301.61932373046875,
+        513.5877075195312,
+        325.74560546875
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        123.45513153076172,
+        340.4914245605469,
+        243.08058166503906,
+        349.85888671875
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        120.93563842773438,
+        729.213134765625,
+        132.44252014160156,
+        737.499755859375
+      ],
+      "text": "30\n"
+    }
+  ]
+}

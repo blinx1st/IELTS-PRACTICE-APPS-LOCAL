@@ -1,0 +1,219 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 31,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 2\nLISTENING\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nSouth City Cycling Club\nExample\nName of club secretary: Jim...........Humter.\noo.\nMembership\n.\nFull membership costs $260; this covers CYCIING ANG 1 o.ccccccsccsmussnessnenene\nall over Australia\n* — Recreational membership costs $108\n:\nCost of membership includes the Club fee ANd 2 o....ccccsssssseuseneenesen\n*\n— The club kit is made by a company Called 3 -..-ccecscssssssnsutsinsnenee\nTraining rides\n*\nChance to improve cycling skills and fitness\n°\nLevel B: speed Ab0ut 4 o.nccccssusnenen KPA\n¢\nWeekly sessions\n— Tuesdays at 5.30 am, meet at the 5 ounces\n— Thursdays at 5.30 am, meet at the entrance to the 6 oncom\nFurther information\n°\nRides are about an hour and a half\n°\nMembers often have 7 u.....cccccssssnsnmnnnnn together afterwards\ne — There is not alWays a 8B ooeecssssusssnuennenee With the group on these rides\n°\nCheck and print the 9 on. ON the website beforehand\n°\nBikes MUSU NAVE 10 ccsicssssscscsesssstsccsssessisazans\n",
+  "blocks": [
+    {
+      "box": [
+        72.0,
+        99.0,
+        145.0349884033203,
+        120.26123046875
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        278.6400146484375,
+        133.20001220703125,
+        369.359619140625,
+        144.7314910888672
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        71.63999938964844,
+        214.91998291015625,
+        220.9967498779297,
+        227.17221069335938
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        72.0,
+        245.15997314453125,
+        398.94500732421875,
+        256.3311767578125
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        212.75999450683594,
+        288.0,
+        432.3600158691406,
+        306.01800537109375
+      ],
+      "text": "South City Cycling Club\n"
+    },
+    {
+      "box": [
+        87.83999633789062,
+        325.44000244140625,
+        351.27362060546875,
+        354.9772644042969
+      ],
+      "text": "Example\nName of club secretary: Jim...........Humter.\noo.\n"
+    },
+    {
+      "box": [
+        87.48001098632812,
+        376.55999755859375,
+        161.531982421875,
+        388.8122253417969
+      ],
+      "text": "Membership\n"
+    },
+    {
+      "box": [
+        86.760009765625,
+        400.32000732421875,
+        526.9099731445312,
+        426.6097412109375
+      ],
+      "text": ".\nFull membership costs $260; this covers CYCIING ANG 1 o.ccccccsccsmussnessnenene\nall over Australia\n"
+    },
+    {
+      "box": [
+        86.76001739501953,
+        435.239990234375,
+        326.7216491699219,
+        451.0958251953125
+      ],
+      "text": "* — Recreational membership costs $108\n"
+    },
+    {
+      "box": [
+        86.39999389648438,
+        457.20001220703125,
+        489.3839111328125,
+        469.4522399902344
+      ],
+      "text": ":\nCost of membership includes the Club fee ANd 2 o....ccccsssssseuseneenesen\n"
+    },
+    {
+      "box": [
+        86.04000854492188,
+        475.9200134277344,
+        462.7693786621094,
+        492.49658203125
+      ],
+      "text": "*\n— The club kit is made by a company Called 3 -..-ccecscssssssnsutsinsnenee\n"
+    },
+    {
+      "box": [
+        85.67999267578125,
+        511.9200439453125,
+        169.469970703125,
+        524.1723022460938
+      ],
+      "text": "Training rides\n"
+    },
+    {
+      "box": [
+        85.68000030517578,
+        535.6799926757812,
+        361.7279357910156,
+        548.6529541015625
+      ],
+      "text": "*\nChance to improve cycling skills and fitness\n"
+    },
+    {
+      "box": [
+        85.32000732421875,
+        559.0800170898438,
+        372.1409912109375,
+        572.413330078125
+      ],
+      "text": "°\nLevel B: speed Ab0ut 4 o.nccccssusnenen KPA\n"
+    },
+    {
+      "box": [
+        85.32000732421875,
+        582.47998046875,
+        208.43997192382812,
+        594.7322387695312
+      ],
+      "text": "¢\nWeekly sessions\n"
+    },
+    {
+      "box": [
+        113.40001678466797,
+        606.239990234375,
+        429.1954345703125,
+        618.1318969726562
+      ],
+      "text": "— Tuesdays at 5.30 am, meet at the 5 ounces\n"
+    },
+    {
+      "box": [
+        113.04000854492188,
+        629.6400146484375,
+        523.530029296875,
+        641.8922729492188
+      ],
+      "text": "— Thursdays at 5.30 am, meet at the entrance to the 6 oncom\n"
+    },
+    {
+      "box": [
+        85.32000732421875,
+        659.5199584960938,
+        203.2200469970703,
+        669.6100463867188
+      ],
+      "text": "Further information\n"
+    },
+    {
+      "box": [
+        84.60001373291016,
+        683.2799682617188,
+        311.7024230957031,
+        693.7304077148438
+      ],
+      "text": "°\nRides are about an hour and a half\n"
+    },
+    {
+      "box": [
+        84.60003662109375,
+        706.6799926757812,
+        458.1540222167969,
+        720.0133056640625
+      ],
+      "text": "°\nMembers often have 7 u.....cccccssssnsnmnnnnn together afterwards\n"
+    },
+    {
+      "box": [
+        84.24002075195312,
+        728.6400146484375,
+        516.6450805664062,
+        744.856201171875
+      ],
+      "text": "e — There is not alWays a 8B ooeecssssusssnuennenee With the group on these rides\n"
+    },
+    {
+      "box": [
+        84.24002075195312,
+        753.47998046875,
+        492.76806640625,
+        765.7322387695312
+      ],
+      "text": "°\nCheck and print the 9 on. ON the website beforehand\n"
+    },
+    {
+      "box": [
+        83.8800048828125,
+        777.239990234375,
+        326.21734619140625,
+        787.330078125
+      ],
+      "text": "°\nBikes MUSU NAVE 10 ccsicssssscscsesssstsccsssessisazans\n"
+    }
+  ]
+}

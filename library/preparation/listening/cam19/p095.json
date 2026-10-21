@@ -1,0 +1,219 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 95,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 4\nWRITING\nWRITING TASK\n1\nYou should spend about 20 minutes on this task.\nThe charts below give information on the location and types of dance classes\nyoung people in a town in Australia are currently attending.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\nLocation of dance classes\nCommunity\nhalls & other\n18%\ni\nPrivate\n‘gi\nea\nstudios\nf\n“Sy\n48%\nSchool halls\n_\\\n:\n(after-school)\n3\n24%\nJ\nCollege-based studios\n10%\nTypes of dance classes (by age group)\n(J Under 11\nMl 11-16\nBallet\nTap\nModern\n||\n|\naT|\nee\n=>\nT\nT\n7\nod\n)\n100\n200\n300\n400\n500\n600\n700\nNumber of students\n96\n«>|\np. 136\n",
+  "blocks": [
+    {
+      "box": [
+        48.22914505004883,
+        33.1125602722168,
+        77.01185607910156,
+        41.03868103027344
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        230.34814453125,
+        67.30486297607422,
+        293.270751953125,
+        77.03236389160156
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        46.78947067260742,
+        108.33562469482422,
+        168.0389862060547,
+        118.06318664550781
+      ],
+      "text": "WRITING TASK\n1\n"
+    },
+    {
+      "box": [
+        47.149391174316406,
+        135.68942260742188,
+        282.1405029296875,
+        146.13751220703125
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        58.66681671142578,
+        169.52182006835938,
+        462.7027893066406,
+        193.28729248046875
+      ],
+      "text": "The charts below give information on the location and types of dance classes\nyoung people in a town in Australia are currently attending.\n"
+    },
+    {
+      "box": [
+        59.02669143676758,
+        208.39309692382812,
+        461.34771728515625,
+        231.43798828125
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        46.78945541381836,
+        254.82266235351562,
+        166.98080444335938,
+        263.10906982421875
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        176.36029052734375,
+        283.61614990234375,
+        348.4105529785156,
+        294.0642395019531
+      ],
+      "text": "Location of dance classes\n"
+    },
+    {
+      "box": [
+        180.6793212890625,
+        305.5712585449219,
+        230.60000610351562,
+        324.29345703125
+      ],
+      "text": "Community\nhalls & other\n"
+    },
+    {
+      "box": [
+        197.59552001953125,
+        329.32586669921875,
+        214.11582946777344,
+        335.8108825683594
+      ],
+      "text": "18%\n"
+    },
+    {
+      "box": [
+        201.91455078125,
+        364.5979309082031,
+        357.8979797363281,
+        387.2846984863281
+      ],
+      "text": "i\nPrivate\n‘gi\nea\nstudios\n"
+    },
+    {
+      "box": [
+        134.96961975097656,
+        387.2728271484375,
+        352.65765380859375,
+        408.1567687988281
+      ],
+      "text": "f\n“Sy\n48%\nSchool halls\n_\\\n:\n"
+    },
+    {
+      "box": [
+        132.45018005371094,
+        411.3874206542969,
+        241.4912109375,
+        434.0719909667969
+      ],
+      "text": "(after-school)\n3\n24%\nJ\n"
+    },
+    {
+      "box": [
+        163.40321350097656,
+        454.5776672363281,
+        252.04412841796875,
+        463.224365234375
+      ],
+      "text": "College-based studios\n"
+    },
+    {
+      "box": [
+        199.75503540039062,
+        466.4549865722656,
+        216.27529907226562,
+        472.94000244140625
+      ],
+      "text": "10%\n"
+    },
+    {
+      "box": [
+        179.23965454101562,
+        495.9683532714844,
+        344.7915344238281,
+        504.2547607421875
+      ],
+      "text": "Types of dance classes (by age group)\n"
+    },
+    {
+      "box": [
+        213.7918701171875,
+        515.4039916992188,
+        311.56390380859375,
+        524.771240234375
+      ],
+      "text": "(J Under 11\nMl 11-16\n"
+    },
+    {
+      "box": [
+        111.57489013671875,
+        546.3569946289062,
+        133.3428192138672,
+        552.842041015625
+      ],
+      "text": "Ballet\n"
+    },
+    {
+      "box": [
+        119.13319396972656,
+        575.1505126953125,
+        133.77468872070312,
+        583.7972412109375
+      ],
+      "text": "Tap\n"
+    },
+    {
+      "box": [
+        103.2967529296875,
+        603.944091796875,
+        133.454345703125,
+        610.7893676757812
+      ],
+      "text": "Modern\n"
+    },
+    {
+      "box": [
+        140.36839294433594,
+        622.2999267578125,
+        419.9912109375,
+        637.7832641601562
+      ],
+      "text": "||\n|\naT|\nee\n=>\nT\nT\n7\nod\n)\n100\n200\n300\n400\n500\n600\n700\n"
+    },
+    {
+      "box": [
+        241.50563049316406,
+        650.0137329101562,
+        319.7808532714844,
+        656.8590087890625
+      ],
+      "text": "Number of students\n"
+    },
+    {
+      "box": [
+        46.78947067260742,
+        669.8092041015625,
+        142.3587646484375,
+        681.6984252929688
+      ],
+      "text": "96\n«>|\np. 136\n"
+    }
+  ]
+}

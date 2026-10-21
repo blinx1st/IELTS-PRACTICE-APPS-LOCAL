@@ -1,0 +1,905 @@
+{
+  "schemaVersion": 1,
+  "reviewDate": "2026-10-21",
+  "method": "Six table layouts visually transcribed against local original source crops; matrix rows use previously reviewed question text and options. Original groups excluding layout are fingerprinted for safe presentation overlays on historic snapshots.",
+  "counts": {
+    "table": 6,
+    "headings": 5,
+    "paragraphs": 29
+  },
+  "totalGroups": 40,
+  "errors": [],
+  "checks": [
+    "exact question coverage",
+    "part indexes for the two blanks of one question",
+    "rectangular merged-cell grid",
+    "matrix row and option coverage",
+    "source provenance",
+    "original group fingerprints",
+    "matching full overrides"
+  ],
+  "groups": [
+    {
+      "testId": "cam13-test1",
+      "groupId": "cam13-t1-p1-g1",
+      "kind": "table",
+      "questionRefs": [
+        {
+          "number": 1
+        },
+        {
+          "number": 2
+        },
+        {
+          "number": 3
+        },
+        {
+          "number": 4
+        },
+        {
+          "number": 5
+        },
+        {
+          "number": 6
+        },
+        {
+          "number": 7
+        }
+      ],
+      "baseSha256": "26ff9451a48503a2c0ce7ad75c6388e1901aeecdb1a749da0871b968dcc0992b",
+      "layoutSha256": "4a309d25b86a608219ea7ddccb6293683ea71a5c9a51b15478fa976fe7513cc4",
+      "sources": [
+        {
+          "url": "/library-assets/cam13-t1-p1-g1-s1-4846aa85.webp",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "testId": "cam13-test1",
+      "groupId": "cam13-t1-p2-g1",
+      "kind": "headings",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "baseSha256": "8d7be9cf4316096393225d6f80771c2b1b8203a4e9b968353bae3676db733f87",
+      "layoutSha256": "dedf7e27eebe2c9813a583d486ad81a49c95faeb4941bb62e281e61d85b3658e",
+      "sources": [
+        {
+          "url": "/library-assets/cam13-t1-p2-g1-s1-c0ebca3f.webp",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "testId": "cam13-test2",
+      "groupId": "cam13-t2-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "baseSha256": "0bf3d26192456a9de697d62992a07017c2294649af174d482881522148f4b327",
+      "layoutSha256": "31c7cbdd7699a0787abd65762118dce1324f7f77684806d96a1cb2c71cda3f1f",
+      "sources": [
+        {
+          "url": "/library-assets/cam13-t2-p2-g1-s1-53a946bc.webp",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "testId": "cam13-test3",
+      "groupId": "cam13-t3-p1-g1",
+      "kind": "table",
+      "questionRefs": [
+        {
+          "number": 1
+        },
+        {
+          "number": 2
+        },
+        {
+          "number": 3
+        },
+        {
+          "number": 4
+        },
+        {
+          "number": 5
+        },
+        {
+          "number": 6
+        },
+        {
+          "number": 7
+        },
+        {
+          "number": 8
+        }
+      ],
+      "baseSha256": "6be0d5aecf4a7f4b431844ca9c641e88a62214a9f257cc1f881a46f222c2eb44",
+      "layoutSha256": "2991f9c3d6c564c0c8f857be08742d7831d42c67df564df1b8bad8ce7891fc45",
+      "sources": [
+        {
+          "url": "/library-assets/cam13-t3-p1-g1-s1-69996d53.webp",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "testId": "cam13-test3",
+      "groupId": "cam13-t3-p2-g3",
+      "kind": "paragraphs",
+      "questionRefs": [
+        24,
+        25,
+        26
+      ],
+      "baseSha256": "e390cb6b6f56cf9ab6d84a072fc9fd78012f583e8ec635ce59f3369087bec149",
+      "layoutSha256": "e4d9cbe81fbd03bf307462104520b448aa04a956115e9ffeaed5e824c981b272",
+      "sources": [
+        {
+          "url": "/library-assets/cam13-t3-p2-g3-s1-9e9fca6e.webp",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "testId": "cam13-test3",
+      "groupId": "cam13-t3-p3-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "baseSha256": "644f9cf68e3ca618415357b8524b2bc0423ad5e225f9ab5bf3ffdd4e1092203e",
+      "layoutSha256": "24b5c368854aaf556c7c8410bd5fb1fdd441ec6bbb6cb6f9ed48c44d68707f54",
+      "sources": [
+        {
+          "url": "/library-assets/cam13-t3-p3-g1-s1-c1996525.webp",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "testId": "cam13-test4",
+      "groupId": "cam13-t4-p2-g3",
+      "kind": "paragraphs",
+      "questionRefs": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "baseSha256": "a85802e610a946a3c504c4372499cb3dd7048093d949c0ad0e07ea46c35afbee",
+      "layoutSha256": "f4562446f21528b289d5da275570f660631c53c4010931a215c3b4d6be53cbcc",
+      "sources": [
+        {
+          "url": "/library-assets/cam13-t4-p2-g3-s1-f021bdeb.webp",
+          "page": 87
+        }
+      ]
+    },
+    {
+      "testId": "cam14-test1",
+      "groupId": "cam14-t1-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "6ea4891d3f013164330c13f85848b0e7e3318afee5d5e3ecf711daae0b5076f7",
+      "layoutSha256": "232c0cf94a1cd098073c57735b84a98ea50c34e2292d24743928d34606b7ed28",
+      "sources": [
+        {
+          "url": "/library-assets/cam14-t1-p2-g1-s1-1c2a8baf.webp",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "testId": "cam14-test2",
+      "groupId": "cam14-t2-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "b594fb6472c16666b48ec2c20417da4df690bbf4b5eabcc5c37c962fa98b6bc6",
+      "layoutSha256": "6a18a2bbeb521b32573dacf34f64aeb90cfaf84e40167f6910d0e69ecebdf189",
+      "sources": [
+        {
+          "url": "/library-assets/cam14-t2-p2-g1-s1-a7ffbede.webp",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "testId": "cam14-test2",
+      "groupId": "cam14-t2-p3-g1",
+      "kind": "headings",
+      "questionRefs": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "baseSha256": "085c7863424a54219419f8b3b993dc159f647f3eaae3101c9071fab0a69c4cc1",
+      "layoutSha256": "11422e5e0dae15ea2a0c1a5715ea1805cb9c88bf0f335b61fceb0d0870a11fe3",
+      "sources": [
+        {
+          "url": "/library-assets/cam14-t2-p3-g1-s1-68d9e550.webp",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "testId": "cam14-test3",
+      "groupId": "cam14-t3-p1-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        1,
+        2,
+        3
+      ],
+      "baseSha256": "2aefb3ef014ca752b430ea451010a65234f52a9be1bbd4d9aa4ff0aec2f5fef1",
+      "layoutSha256": "fbb8c2a9298506afbb2e9b990198785085af15dff8cdafb75e23e142b4ac9d65",
+      "sources": [
+        {
+          "url": "/library-assets/cam14-t3-p1-g1-s1-573fa7dd.webp",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "testId": "cam14-test3",
+      "groupId": "cam14-t3-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "baseSha256": "500259e431147c25142bb4dee03bb84e99b697fb9a346c2efcbc9a4a05755d47",
+      "layoutSha256": "a968fccf2df7a4403314631e7f2ffbcf09b2caa2f9b3c8e599bb021c15328919",
+      "sources": [
+        {
+          "url": "/library-assets/cam14-t3-p2-g1-s1-1646dd05.webp",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "testId": "cam14-test4",
+      "groupId": "cam14-t4-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "baseSha256": "eb2edcdb282add30eb29abf9fd67aa0d1599a4d882e32fa8f34c90bf872daf3d",
+      "layoutSha256": "1645e27054f405d04267c1cd687a72c22245f4f332a8c79e62cd56c590c1317b",
+      "sources": [
+        {
+          "url": "/library-assets/cam14-t4-p2-g1-s1-f85ae177.webp",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "testId": "cam15-test1",
+      "groupId": "cam15-t1-p1-g3",
+      "kind": "table",
+      "questionRefs": [
+        {
+          "number": 8
+        },
+        {
+          "number": 9
+        },
+        {
+          "number": 10
+        },
+        {
+          "number": 11
+        },
+        {
+          "number": 12
+        },
+        {
+          "number": 13
+        }
+      ],
+      "baseSha256": "d833b65b67c3bdb8771af20da76e64b901c956b8fdb9cfb4fae7572e7d64a3bc",
+      "layoutSha256": "020bb7a6a1edf03dbbce0ded1e8892747c7979a0f58f24336a820ab614cf9650",
+      "sources": [
+        {
+          "url": "/library-assets/cam15-t1-p1-g3-s1-8ef962fa.webp",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "testId": "cam15-test1",
+      "groupId": "cam15-t1-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "ff592800b72af4181c674d4887db7bdca314fe1d21982614b411881cae983b7e",
+      "layoutSha256": "8df4ebe77bcd838150f689017aea0986f4076ef6d63e204ddb730bf0ddb7c09e",
+      "sources": [
+        {
+          "url": "/library-assets/cam15-t1-p2-g1-s1-5d5e3644.webp",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "testId": "cam15-test2",
+      "groupId": "cam15-t2-p1-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "baseSha256": "d202c9d8e8b04d600678ac9d7dd1b1cac03e528bdf285698ee999581ca77e71e",
+      "layoutSha256": "c700ba326b5da1de2005b1cc211f699ac20b8fd703eca5b64238c012a1af8e1f",
+      "sources": [
+        {
+          "url": "/library-assets/cam15-t2-p1-g1-s1-7a083c64.webp",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "testId": "cam15-test2",
+      "groupId": "cam15-t2-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "baseSha256": "3fbd3b1f21cce10c9a4f8798ca15e67de7027741610d404494cdde8dd70730bb",
+      "layoutSha256": "33fd27dcb8c2daabe1564cb8c290229634ba8387f69265f790cb3a069664f1c4",
+      "sources": [
+        {
+          "url": "/library-assets/cam15-t2-p2-g1-s1-d1d115c8.webp",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "testId": "cam15-test3",
+      "groupId": "cam15-t3-p2-g1",
+      "kind": "headings",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "baseSha256": "a53afca0de370e7fdb6ffb5454e24b716cabdc6803d04af7335ca7d4fa4b0644",
+      "layoutSha256": "fe694da7b98b3841226053e19543e747e884dd4397c918a86eaa75e96f8c8cef",
+      "sources": [
+        {
+          "url": "/library-assets/cam15-t3-p2-g1-s1-2f6312c0.webp",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "testId": "cam15-test4",
+      "groupId": "cam15-t4-p1-g2",
+      "kind": "table",
+      "questionRefs": [
+        {
+          "number": 6
+        },
+        {
+          "number": 7,
+          "part": 0
+        },
+        {
+          "number": 7,
+          "part": 1
+        },
+        {
+          "number": 8
+        }
+      ],
+      "baseSha256": "b6f537f661c5589ca5ace8f495eed0a738e64ab2145caa59c37c5fd8b41e54f0",
+      "layoutSha256": "d77a4129972f7681c8cd61049aa04df646a93ddc68053f606d33fef8569e623a",
+      "sources": [
+        {
+          "url": "/library-assets/cam15-t4-p1-g2-s1-74604ef0.webp",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "testId": "cam17-test1",
+      "groupId": "cam17-t1-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "baseSha256": "2a5d8a9769c50e89af6042687651b49d06d1e49f6bff5f103e156bb86ecd46f5",
+      "layoutSha256": "b438f2a717e5fc1d3d3604081bc6e543f4e394628f2b19f5b07e2455545d5125",
+      "sources": [
+        {
+          "url": "/library-assets/cam17-t1-p2-g1-s1-a39ae1d6.webp",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "testId": "cam17-test2",
+      "groupId": "cam17-t2-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "ee6a1a7e4ee8298973c8201fae42979e786b039a5cd0b67eabddc70c0f0ef5a7",
+      "layoutSha256": "ed2f0f69b1b83f1523bd38028621a393188f846fc021d51124e6e9764721a7f8",
+      "sources": [
+        {
+          "url": "/library-assets/cam17-t2-p2-g1-s1-6168bb0d.webp",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "testId": "cam17-test3",
+      "groupId": "cam17-t3-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "baseSha256": "13f4ec7e3f9e9be7cc05ac0bc8d24f9335d916712302c3d5385e36cf8611493f",
+      "layoutSha256": "c620cbbcbb8251be069e2b088b0c91c69aa6608075c9db1640f4d6f7e0f18a09",
+      "sources": [
+        {
+          "url": "/library-assets/cam17-t3-p2-g1-s1-702c9316.webp",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "testId": "cam17-test4",
+      "groupId": "cam17-t4-p1-g2",
+      "kind": "table",
+      "questionRefs": [
+        {
+          "number": 7
+        },
+        {
+          "number": 8
+        },
+        {
+          "number": 9
+        },
+        {
+          "number": 10
+        },
+        {
+          "number": 11
+        },
+        {
+          "number": 12
+        },
+        {
+          "number": 13
+        }
+      ],
+      "baseSha256": "382cc84db04a14e2aa5fb55479449d74bbe0965ea4a95367d5644124c667e04b",
+      "layoutSha256": "1a8c9309c373f9a6db1b53b22095a25f50af3ec583c4ef69d544f8ca2aef8312",
+      "sources": [
+        {
+          "url": "/library-assets/cam17-t4-p1-g2-s1-f4827ba6.webp",
+          "page": 77
+        }
+      ]
+    },
+    {
+      "testId": "cam17-test4",
+      "groupId": "cam17-t4-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "94c476b01edff063542dc12d88f5cf814e9339a61e072356484816392607525b",
+      "layoutSha256": "f4e70a5b32f76bc222874b3bc018536b3b3f5a2971744ff0d6475ea40ee7b84a",
+      "sources": [
+        {
+          "url": "/library-assets/cam17-t4-p2-g1-s1-9b008a60.webp",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "testId": "cam17-test4",
+      "groupId": "cam17-t4-p3-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "baseSha256": "c262f41abbbfd1351cddff51a8a945e91a275b9e062e7f136fd07eb86bae191a",
+      "layoutSha256": "4340e1ca5dbaa9a03cdfde8daa4a8955762bf26757faf4d81c667139c545448a",
+      "sources": [
+        {
+          "url": "/library-assets/cam17-t4-p3-g1-s1-fcb2c7cf.webp",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "testId": "cam18-test1",
+      "groupId": "cam18-t1-p1-g2",
+      "kind": "table",
+      "questionRefs": [
+        {
+          "number": 4
+        },
+        {
+          "number": 5
+        },
+        {
+          "number": 6
+        },
+        {
+          "number": 7
+        }
+      ],
+      "baseSha256": "637935a42227fe85a9d275d26941c75fa012987af2718d2744b32278f2bdf4f4",
+      "layoutSha256": "e23958cfb89c6dfa2719bf6d5df048f55347afea9dc8d0ce5a97fc96eb675b8a",
+      "sources": [
+        {
+          "url": "/library-assets/cam18-t1-p1-g2-s1-b88e4546.webp",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "testId": "cam18-test1",
+      "groupId": "cam18-t1-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "8912ef0670ffbdbf1e7a11778fca7a9e0cce5c2f35cd01982b4e587731cbb16b",
+      "layoutSha256": "0a07d66613d2516f9dc983012559d417d2a9ec68be3d1359ed5cc146ff5efc58",
+      "sources": [
+        {
+          "url": "/library-assets/cam18-t1-p2-g1-s1-9968afcd.webp",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "testId": "cam18-test1",
+      "groupId": "cam18-t1-p3-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "baseSha256": "7253923b6b0499460e7ef219f766aa3f1e2f3d2c320ac51fcf7b85243495182d",
+      "layoutSha256": "5928fb3508db80a5a5a28e98c5cc223562fa0a568d0f6dd82366398fa904f24d",
+      "sources": [
+        {
+          "url": "/library-assets/cam18-t1-p3-g1-s1-5c5e0002.webp",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "testId": "cam18-test3",
+      "groupId": "cam18-t3-p1-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "baseSha256": "5a18acf6bba7a97c73792441b82a335ab5134f5216cccb2449fb068814e41f8a",
+      "layoutSha256": "bb6c8b602ae3d302e379a715670347a92ce897d7b481059f907989f8338ae1dd",
+      "sources": [
+        {
+          "url": "/library-assets/cam18-t3-p1-g1-s1-b5c68ab1.webp",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "testId": "cam18-test3",
+      "groupId": "cam18-t3-p2-g1",
+      "kind": "headings",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "baseSha256": "94eb3e8d4c640c7fe90e27234046c4a4832e47001b991d9b5c6ad1c03d1a4361",
+      "layoutSha256": "183bbbeaa0844f8ab6d68fc242ec5c6f55e7c1d68f31301bda77a46bb7397eff",
+      "sources": [
+        {
+          "url": "/library-assets/cam18-t3-p2-g1-s1-799f277b.webp",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "testId": "cam18-test4",
+      "groupId": "cam18-t4-p1-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "baseSha256": "60ae2315535c04d10b53f40955d94df1908d4bb94f994c1e4d1760fbc9caf956",
+      "layoutSha256": "4ebe478ec4cba4ef94f6847b11020f58d100e2473f75f7f237fe3bbf341a9497",
+      "sources": [
+        {
+          "url": "/library-assets/cam18-t4-p1-g1-s1-f63dab24.webp",
+          "page": 88
+        }
+      ]
+    },
+    {
+      "testId": "cam19-test1",
+      "groupId": "cam19-t1-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "baseSha256": "515f78eee1788c8fc6be0cc58efd46595eaf32c286430ebf8346435b50315748",
+      "layoutSha256": "e64cc799021171e26a8e1964d061f4c9cc6ab2808f55fd78ba1a3d69c7d06ab1",
+      "sources": [
+        {
+          "url": "/library-assets/cam19-t1-p2-g1-s1-e1fd3539.webp",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "testId": "cam19-test2",
+      "groupId": "cam19-t2-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "a5ecc26049002770adee61d70293f24b0ff49b5aca0aee2690b7b4274b8efbfd",
+      "layoutSha256": "8baa0431e3cb849d71931c3356c6f22803b65719002fceb425f4dcd1311f50bd",
+      "sources": [
+        {
+          "url": "/library-assets/cam19-t2-p2-g1-s1-76a8b154.webp",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "testId": "cam19-test3",
+      "groupId": "cam19-t3-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "baseSha256": "533e5d3fbeb153b6f76a575b87ab2a5fc7d571779aeb4227ae93e3bb65af297d",
+      "layoutSha256": "686f8c8e87fc7e71c9afe1d667389e2f971ec423a53aae5b6be0f64f2ae0d103",
+      "sources": [
+        {
+          "url": "/library-assets/cam19-t3-p2-g1-s1-73e943df.webp",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "testId": "cam19-test4",
+      "groupId": "cam19-t4-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "baseSha256": "c0099064db4adac3eb62a2197a8aec66b66f3306a2d331c3711b1d6910e427df",
+      "layoutSha256": "10fea8c1ce56e5a9add964e6ae1b2ac6d883905c8ef386f06337a98c6b4e1361",
+      "sources": [
+        {
+          "url": "/library-assets/cam19-t4-p2-g1-s1-617cf756.webp",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "testId": "cam20-test1",
+      "groupId": "cam20-t1-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "baseSha256": "5637e3a215f622d9a437ed0996e1fc0d1b29a884e466f6d78418286669899075",
+      "layoutSha256": "453daa0dc0093146517497ec7dc9d5e8e45bd24e694f1fa42b6ab855ed3999be",
+      "sources": [
+        {
+          "url": "/library-assets/cam20-t1-p2-g1-s1-0365fef2.webp",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "testId": "cam20-test2",
+      "groupId": "cam20-t2-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16
+      ],
+      "baseSha256": "d5ca0f68e8ae8f7513b7eff38deb6e43a349b58dce9e0d26b371414bebab51f3",
+      "layoutSha256": "c90f28553dd7996c15d079ce2a0b2b711d377361419a918214e9270405935533",
+      "sources": [
+        {
+          "url": "/library-assets/cam20-t2-p2-g1-s1-c7d3d8c5.webp",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "testId": "cam20-test3",
+      "groupId": "cam20-t3-p2-g1",
+      "kind": "headings",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "baseSha256": "c6c8a4b3fa1118a0d3160984cf50bbe76ad5b886c14f24e39a7613ff3f7a9525",
+      "layoutSha256": "dedf7e27eebe2c9813a583d486ad81a49c95faeb4941bb62e281e61d85b3658e",
+      "sources": [
+        {
+          "url": "/library-assets/cam20-t3-p2-g1-s1-b66ec3ce.webp",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "testId": "cam20-test4",
+      "groupId": "cam20-t4-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "baseSha256": "7a719a157dcd6a59331ab2a15312b385ddc0d8e5cca3d2b902489885c2deeb90",
+      "layoutSha256": "8314379a11235bd5d47048bbbe49a63f9984c2df47f29e2660301a5344353431",
+      "sources": [
+        {
+          "url": "/library-assets/cam20-t4-p2-g1-s1-fd229b7d.webp",
+          "page": 75
+        }
+      ]
+    },
+    {
+      "testId": "cam20-test4",
+      "groupId": "cam20-t4-p3-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "baseSha256": "82151d2547ec9f509b146de507d059faef598c6f7f17eafee5eb1625e58c4314",
+      "layoutSha256": "12d3637123593bfc708cc93bbf5caf5d2bdf895281d3845da5c593fb79df6fdd",
+      "sources": [
+        {
+          "url": "/library-assets/cam20-t4-p3-g1-s1-f19fa63e.webp",
+          "page": 79
+        }
+      ]
+    }
+  ]
+}

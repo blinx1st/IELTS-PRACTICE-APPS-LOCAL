@@ -1,0 +1,187 @@
+{
+  "book": 15,
+  "test": 1,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-15/Cambridge IELTS 15 Audio/Cambridge IELTS 15 audio/ielts15_test1_audio3.m4a",
+  "sha256": "191e1abede32e56380b0aa32a7730c98c574e3b89e648f84bf31866719b1442e",
+  "duration": 432.853,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      332.8533125,
+      432.8533125
+    ]
+  ],
+  "text": "Part 3. You will hear two psychology students discussing the effects of the order in which the children in a family are born. First, you have some time to look at questions 21 to 26. Now listen carefully and answer questions 21 to 26. Ed, how are you getting on with the reading for our presentation next week? Well, okay, Ruth, but there's so much of it. I know. I hadn't realised birth order was such a popular area of research. But the stuff on birth order and personality is mostly unreliable. From what I've been reading, a lot of the claims about how your position in the family determine certain personality traits are just stereotypes, with no robust evidence to support them. Okay, but that's an interesting point. We could start by outlining what previous researchers shown. There were studies going back over 100 years. Yeah, so we could just run through some of the typical traits, like the consensus seems to be that oldest children are generally less well-adjusted because they never get over the arrival of a younger sibling. Right, but on a positive note, some studies claim that they were thought to be good at nurturing. Certainly in the past when people had launch family. extra attention at a young age, which is what I would have expected. It's that they benefit from being teachers for their younger siblings by verbalizing processes. Right. And this gives them status and confidence, which again contributes in a small way to better performance. So would you say sibling rivalry has been a useful thing for you? I think so. My younger brother was incredibly annoying and we fought a lot. But I think This has made me a stronger person. I know how to defend myself. We had some terrible arguments, and I would have died rather than apologise to him. But we had to put up with each other, and most of the time we co-existed amicably enough. Yes, my situation was pretty similar. But I don't think having two older brothers made me any less selfish. I was never prepared to let my brothers use any of my stuff. That's perfectly normal, where is something? That is the end of part three. You now have 30 seconds to check your answers to part three.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "Part 3. You will hear two psychology students discussing the effects of the order in which"
+    },
+    {
+      "start": 7.68,
+      "end": 15.92,
+      "text": "the children in a family are born. First, you have some time to look at questions 21 to 26."
+    },
+    {
+      "start": 30.0,
+      "end": 51.12,
+      "text": "Now listen carefully and answer questions 21 to 26."
+    },
+    {
+      "start": 51.12,
+      "end": 59.12,
+      "text": "Ed, how are you getting on with the reading for our presentation next week?"
+    },
+    {
+      "start": 59.12,
+      "end": 62.32,
+      "text": "Well, okay, Ruth, but there's so much of it."
+    },
+    {
+      "start": 62.32,
+      "end": 63.32,
+      "text": "I know."
+    },
+    {
+      "start": 63.32,
+      "end": 67.84,
+      "text": "I hadn't realised birth order was such a popular area of research."
+    },
+    {
+      "start": 67.84,
+      "end": 72.52,
+      "text": "But the stuff on birth order and personality is mostly unreliable."
+    },
+    {
+      "start": 72.52,
+      "end": 76.52,
+      "text": "From what I've been reading, a lot of the claims about how your position in the family"
+    },
+    {
+      "start": 76.52,
+      "end": 82.88,
+      "text": "determine certain personality traits are just stereotypes, with no robust evidence to support"
+    },
+    {
+      "start": 82.88,
+      "end": 83.88,
+      "text": "them."
+    },
+    {
+      "start": 83.88,
+      "end": 86.88,
+      "text": "Okay, but that's an interesting point."
+    },
+    {
+      "start": 86.88,
+      "end": 90.96,
+      "text": "We could start by outlining what previous researchers shown."
+    },
+    {
+      "start": 90.96,
+      "end": 93.52,
+      "text": "There were studies going back over 100 years."
+    },
+    {
+      "start": 93.52,
+      "end": 99.36,
+      "text": "Yeah, so we could just run through some of the typical traits, like the consensus seems"
+    },
+    {
+      "start": 99.36,
+      "end": 104.2,
+      "text": "to be that oldest children are generally less well-adjusted because they never get over"
+    },
+    {
+      "start": 104.2,
+      "end": 109.84,
+      "text": "the arrival of a younger sibling. Right, but on a positive note, some studies claim"
+    },
+    {
+      "start": 109.84,
+      "end": 114.24,
+      "text": "that they were thought to be good at nurturing. Certainly in the past when people had"
+    },
+    {
+      "start": 114.24,
+      "end": 115.24,
+      "text": "launch family."
+    },
+    {
+      "start": 332.85,
+      "end": 338.57,
+      "text": "extra attention at a young age, which is what I would have expected. It's that they benefit"
+    },
+    {
+      "start": 338.57,
+      "end": 344.13,
+      "text": "from being teachers for their younger siblings by verbalizing processes. Right. And this"
+    },
+    {
+      "start": 344.13,
+      "end": 351.45,
+      "text": "gives them status and confidence, which again contributes in a small way to better performance."
+    },
+    {
+      "start": 351.45,
+      "end": 356.05,
+      "text": "So would you say sibling rivalry has been a useful thing for you?"
+    },
+    {
+      "start": 356.05,
+      "end": 362.09,
+      "text": "I think so. My younger brother was incredibly annoying and we fought a lot. But I think"
+    },
+    {
+      "start": 362.09,
+      "end": 366.89,
+      "text": "This has made me a stronger person. I know how to defend myself."
+    },
+    {
+      "start": 366.89,
+      "end": 372.29,
+      "text": "We had some terrible arguments, and I would have died rather than apologise to him."
+    },
+    {
+      "start": 372.29,
+      "end": 377.69,
+      "text": "But we had to put up with each other, and most of the time we co-existed amicably enough."
+    },
+    {
+      "start": 377.69,
+      "end": 380.89,
+      "text": "Yes, my situation was pretty similar."
+    },
+    {
+      "start": 380.89,
+      "end": 385.89,
+      "text": "But I don't think having two older brothers made me any less selfish."
+    },
+    {
+      "start": 385.89,
+      "end": 389.29,
+      "text": "I was never prepared to let my brothers use any of my stuff."
+    },
+    {
+      "start": 389.29,
+      "end": 391.85,
+      "text": "That's perfectly normal, where is something?"
+    },
+    {
+      "start": 394.97,
+      "end": 397.01,
+      "text": "That is the end of part three."
+    },
+    {
+      "start": 398.41,
+      "end": 402.85,
+      "text": "You now have 30 seconds to check your answers to part three."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

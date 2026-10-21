@@ -1,0 +1,137 @@
+{
+  "book": 14,
+  "test": 1,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T1S4.mp3",
+  "sha256": "436c4ea5431405b0995df4550f6ca7105d6073d00554a964b63b3183576316ca",
+  "duration": 487.965,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      387.8506875,
+      487.8506875
+    ]
+  ],
+  "text": "You will hear part of a lecture on renewable energy that uses the power of the sea. First, you have some time to look at questions 31 to 40. you Now listen carefully and answer questions 31 to 40. Producing enough energy to meet our needs has become a serious problem. Demand is rising rapidly because of the world's increasing population and expanding industry. running fossil fuels like gas, coal, and oil seriously damages the environment, and they'll eventually run out. For a number of years now, scientists have been working out how we can derive energy from renewable sources, such as the Sun and Wind, without causing pollution. Today, I'll outline Marine Renewable. and birds, for example by disturbing migration patterns and causing a buildup of silt affecting local ecosystems. There are other forms of tidal energy, but I'll go on to the third category of marine energy, ocean thermal energy conversion. This depends on there being a big difference in temperature between surface water and water a couple of kilometers below the surface, and this occurs in tropical coastal areas. The idea is to bring cold water up to the surface using a submerged pipe. The concept dates back to 1881. That is the end of section 4. You now have half a minute to check your for answers. That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "You will hear part of a lecture on renewable energy that uses the power of the sea."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "you"
+    },
+    {
+      "start": 60.0,
+      "end": 77.2,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 77.2,
+      "end": 82.2,
+      "text": "Producing enough energy to meet our needs has become a serious problem."
+    },
+    {
+      "start": 82.2,
+      "end": 89.96,
+      "text": "Demand is rising rapidly because of the world's increasing population and expanding industry."
+    },
+    {
+      "start": 89.96,
+      "end": 96.44,
+      "text": "running fossil fuels like gas, coal, and oil seriously damages the environment, and"
+    },
+    {
+      "start": 96.44,
+      "end": 99.6,
+      "text": "they'll eventually run out."
+    },
+    {
+      "start": 99.6,
+      "end": 104.92,
+      "text": "For a number of years now, scientists have been working out how we can derive energy from"
+    },
+    {
+      "start": 104.92,
+      "end": 111.88,
+      "text": "renewable sources, such as the Sun and Wind, without causing pollution."
+    },
+    {
+      "start": 111.88,
+      "end": 115.04,
+      "text": "Today, I'll outline Marine Renewable."
+    },
+    {
+      "start": 387.85,
+      "end": 395.81,
+      "text": "and birds, for example by disturbing migration patterns and causing a buildup of silt affecting"
+    },
+    {
+      "start": 395.81,
+      "end": 398.89,
+      "text": "local ecosystems."
+    },
+    {
+      "start": 398.89,
+      "end": 404.41,
+      "text": "There are other forms of tidal energy, but I'll go on to the third category of marine"
+    },
+    {
+      "start": 404.41,
+      "end": 409.09,
+      "text": "energy, ocean thermal energy conversion."
+    },
+    {
+      "start": 409.09,
+      "end": 415.25,
+      "text": "This depends on there being a big difference in temperature between surface water and"
+    },
+    {
+      "start": 415.25,
+      "end": 423.69,
+      "text": "water a couple of kilometers below the surface, and this occurs in tropical coastal areas."
+    },
+    {
+      "start": 423.69,
+      "end": 431.01,
+      "text": "The idea is to bring cold water up to the surface using a submerged pipe. The concept dates"
+    },
+    {
+      "start": 431.01,
+      "end": 443.49,
+      "text": "back to 1881. That is the end of section 4. You now have half a minute to check your"
+    },
+    {
+      "start": 443.49,
+      "end": 444.49,
+      "text": "for answers."
+    },
+    {
+      "start": 473.49,
+      "end": 477.49,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 477.49,
+      "end": 479.49,
+      "text": "In the IELTS test,"
+    },
+    {
+      "start": 479.49,
+      "end": 485.49,
+      "text": "you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

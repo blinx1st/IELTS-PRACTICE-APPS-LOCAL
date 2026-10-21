@@ -1,0 +1,93 @@
+{
+  "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "sourceSha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+  "scope": "Local source fidelity review of all 12 reading passages and 160 question slots, with independent question-image review. This is an editorial review of the supplied edition, not an official IELTS certification.",
+  "tests": [
+    {
+      "id": "cam17-test1",
+      "sha256": "4fc105994c453ce32e806a134869d602358a78e47a5b87f8b8862b6d3bce56ea",
+      "passages": 3,
+      "questions": 40,
+      "sourcePages": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "questionReview": "library/preparation/cam17-questions-review.json"
+    },
+    {
+      "id": "cam17-test2",
+      "sha256": "69a2ae8c8006f42d4e93fad25c4be71209e60071aed5ff3ef8ac8aa52f4d73a3",
+      "passages": 3,
+      "questions": 40,
+      "sourcePages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "questionReview": "library/preparation/cam17-questions-review.json"
+    },
+    {
+      "id": "cam17-test3",
+      "sha256": "f115705455a24d5b09538c2df7de33de524dccc6d2309af63d79337e5b9c51e7",
+      "passages": 3,
+      "questions": 40,
+      "sourcePages": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "questionReview": "library/preparation/cam17-questions-review.json"
+    },
+    {
+      "id": "cam17-test4",
+      "sha256": "cd16199668f11d368be328cce16b83a01341369579a481195f79d56d59a66086",
+      "passages": 3,
+      "questions": 40,
+      "sourcePages": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "questionReview": "library/preparation/cam17-questions-review.json"
+    }
+  ]
+}

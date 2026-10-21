@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/7e8cd0fca97da2e36b1561c017a385520b2a4e43d5a6597cdbe6bb391b67a112.m4a",
+    "sha256": "7e8cd0fca97da2e36b1561c017a385520b2a4e43d5a6597cdbe6bb391b67a112",
+    "duration": 525.421,
+    "start": 0,
+    "end": 525.421,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T3S2.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2 You will hear an archaeologist who is part of a community project to excavate an ancient village talking to members of the public who are visiting the site. First, you have some time to look at questions in 11 to 16. You Now listen carefully and answer questions 11 to 16. Hello, I'm Hayden. I'm one of the archaeologists investigating the site here at Midcaster. This is the third summer for this community project, and most of the people digging here are volunteers. I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA."
+    },
+    {
+      "name": "ending",
+      "start": 460.42100000000005,
+      "end": 525.421,
+      "text": "You You"
+    }
+  ]
+}

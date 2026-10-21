@@ -1,0 +1,2671 @@
+{
+  "audioSha256": "71afa448e10ad21ee5cdefcaad498cc743242c170543ec9f02dcd5782653aa5a",
+  "duration": 383.111875,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": " Test 4. This is the IELTS Listening Test. You will hear a number of different recordings",
+      "words": [
+        {
+          "word": " Test",
+          "start": 0.0,
+          "end": 0.7
+        },
+        {
+          "word": " 4.",
+          "start": 0.7,
+          "end": 1.34
+        },
+        {
+          "word": " This",
+          "start": 1.96,
+          "end": 2.16
+        },
+        {
+          "word": " is",
+          "start": 2.16,
+          "end": 2.42
+        },
+        {
+          "word": " the",
+          "start": 2.42,
+          "end": 2.64
+        },
+        {
+          "word": " IELTS",
+          "start": 2.64,
+          "end": 3.04
+        },
+        {
+          "word": " Listening",
+          "start": 3.04,
+          "end": 3.52
+        },
+        {
+          "word": " Test.",
+          "start": 3.52,
+          "end": 3.94
+        },
+        {
+          "word": " You",
+          "start": 4.62,
+          "end": 4.66
+        },
+        {
+          "word": " will",
+          "start": 4.66,
+          "end": 4.86
+        },
+        {
+          "word": " hear",
+          "start": 4.86,
+          "end": 5.06
+        },
+        {
+          "word": " a",
+          "start": 5.06,
+          "end": 5.3
+        },
+        {
+          "word": " number",
+          "start": 5.3,
+          "end": 5.44
+        },
+        {
+          "word": " of",
+          "start": 5.44,
+          "end": 5.84
+        },
+        {
+          "word": " different",
+          "start": 5.84,
+          "end": 6.1
+        },
+        {
+          "word": " recordings",
+          "start": 6.1,
+          "end": 6.6
+        }
+      ]
+    },
+    {
+      "start": 6.6,
+      "end": 12.38,
+      "text": " and you will have to answer questions on what you hear. There will be time for you to read",
+      "words": [
+        {
+          "word": " and",
+          "start": 6.6,
+          "end": 7.14
+        },
+        {
+          "word": " you",
+          "start": 7.14,
+          "end": 7.28
+        },
+        {
+          "word": " will",
+          "start": 7.28,
+          "end": 7.4
+        },
+        {
+          "word": " have",
+          "start": 7.4,
+          "end": 7.6
+        },
+        {
+          "word": " to",
+          "start": 7.6,
+          "end": 7.8
+        },
+        {
+          "word": " answer",
+          "start": 7.8,
+          "end": 8.1
+        },
+        {
+          "word": " questions",
+          "start": 8.1,
+          "end": 8.72
+        },
+        {
+          "word": " on",
+          "start": 8.72,
+          "end": 9.16
+        },
+        {
+          "word": " what",
+          "start": 9.16,
+          "end": 9.38
+        },
+        {
+          "word": " you",
+          "start": 9.38,
+          "end": 9.58
+        },
+        {
+          "word": " hear.",
+          "start": 9.58,
+          "end": 9.98
+        },
+        {
+          "word": " There",
+          "start": 10.66,
+          "end": 10.88
+        },
+        {
+          "word": " will",
+          "start": 10.88,
+          "end": 11.08
+        },
+        {
+          "word": " be",
+          "start": 11.08,
+          "end": 11.32
+        },
+        {
+          "word": " time",
+          "start": 11.32,
+          "end": 11.58
+        },
+        {
+          "word": " for",
+          "start": 11.58,
+          "end": 11.84
+        },
+        {
+          "word": " you",
+          "start": 11.84,
+          "end": 11.9
+        },
+        {
+          "word": " to",
+          "start": 11.9,
+          "end": 12.12
+        },
+        {
+          "word": " read",
+          "start": 12.12,
+          "end": 12.38
+        }
+      ]
+    },
+    {
+      "start": 12.38,
+      "end": 18.62,
+      "text": " the instructions and questions and you will have a chance to check your work. All the recordings",
+      "words": [
+        {
+          "word": " the",
+          "start": 12.38,
+          "end": 12.68
+        },
+        {
+          "word": " instructions",
+          "start": 12.68,
+          "end": 13.16
+        },
+        {
+          "word": " and",
+          "start": 13.16,
+          "end": 13.58
+        },
+        {
+          "word": " questions",
+          "start": 13.58,
+          "end": 14.1
+        },
+        {
+          "word": " and",
+          "start": 14.1,
+          "end": 14.66
+        },
+        {
+          "word": " you",
+          "start": 14.66,
+          "end": 14.78
+        },
+        {
+          "word": " will",
+          "start": 14.78,
+          "end": 14.9
+        },
+        {
+          "word": " have",
+          "start": 14.9,
+          "end": 15.12
+        },
+        {
+          "word": " a",
+          "start": 15.12,
+          "end": 15.22
+        },
+        {
+          "word": " chance",
+          "start": 15.22,
+          "end": 15.56
+        },
+        {
+          "word": " to",
+          "start": 15.56,
+          "end": 15.82
+        },
+        {
+          "word": " check",
+          "start": 15.82,
+          "end": 16.08
+        },
+        {
+          "word": " your",
+          "start": 16.08,
+          "end": 16.38
+        },
+        {
+          "word": " work.",
+          "start": 16.38,
+          "end": 16.8
+        },
+        {
+          "word": " All",
+          "start": 17.68,
+          "end": 17.94
+        },
+        {
+          "word": " the",
+          "start": 17.94,
+          "end": 18.2
+        },
+        {
+          "word": " recordings",
+          "start": 18.2,
+          "end": 18.62
+        }
+      ]
+    },
+    {
+      "start": 18.62,
+      "end": 25.64,
+      "text": " will be played once only. The test is in four parts. At the end of the test, you will",
+      "words": [
+        {
+          "word": " will",
+          "start": 18.62,
+          "end": 18.98
+        },
+        {
+          "word": " be",
+          "start": 18.98,
+          "end": 19.22
+        },
+        {
+          "word": " played",
+          "start": 19.22,
+          "end": 19.58
+        },
+        {
+          "word": " once",
+          "start": 19.58,
+          "end": 20.06
+        },
+        {
+          "word": " only.",
+          "start": 20.06,
+          "end": 20.46
+        },
+        {
+          "word": " The",
+          "start": 21.26,
+          "end": 21.46
+        },
+        {
+          "word": " test",
+          "start": 21.46,
+          "end": 21.84
+        },
+        {
+          "word": " is",
+          "start": 21.84,
+          "end": 22.16
+        },
+        {
+          "word": " in",
+          "start": 22.16,
+          "end": 22.48
+        },
+        {
+          "word": " four",
+          "start": 22.48,
+          "end": 22.7
+        },
+        {
+          "word": " parts.",
+          "start": 22.7,
+          "end": 23.12
+        },
+        {
+          "word": " At",
+          "start": 23.78,
+          "end": 24.04
+        },
+        {
+          "word": " the",
+          "start": 24.04,
+          "end": 24.16
+        },
+        {
+          "word": " end",
+          "start": 24.16,
+          "end": 24.36
+        },
+        {
+          "word": " of",
+          "start": 24.36,
+          "end": 24.58
+        },
+        {
+          "word": " the",
+          "start": 24.58,
+          "end": 24.72
+        },
+        {
+          "word": " test,",
+          "start": 24.72,
+          "end": 25.12
+        },
+        {
+          "word": " you",
+          "start": 25.2,
+          "end": 25.48
+        },
+        {
+          "word": " will",
+          "start": 25.48,
+          "end": 25.64
+        }
+      ]
+    },
+    {
+      "start": 25.64,
+      "end": 34.36,
+      "text": " given ten minutes to transfer your answers to the answer sheet. Now turn to part one.",
+      "words": [
+        {
+          "word": " given",
+          "start": 25.64,
+          "end": 25.98
+        },
+        {
+          "word": " ten",
+          "start": 25.98,
+          "end": 26.4
+        },
+        {
+          "word": " minutes",
+          "start": 26.4,
+          "end": 26.78
+        },
+        {
+          "word": " to",
+          "start": 26.78,
+          "end": 27.16
+        },
+        {
+          "word": " transfer",
+          "start": 27.16,
+          "end": 27.62
+        },
+        {
+          "word": " your",
+          "start": 27.62,
+          "end": 28.1
+        },
+        {
+          "word": " answers",
+          "start": 28.1,
+          "end": 28.4
+        },
+        {
+          "word": " to",
+          "start": 28.4,
+          "end": 28.88
+        },
+        {
+          "word": " the",
+          "start": 28.88,
+          "end": 29.12
+        },
+        {
+          "word": " answer",
+          "start": 29.12,
+          "end": 29.3
+        },
+        {
+          "word": " sheet.",
+          "start": 29.3,
+          "end": 29.9
+        },
+        {
+          "word": " Now",
+          "start": 30.66,
+          "end": 31.04
+        },
+        {
+          "word": " turn",
+          "start": 31.04,
+          "end": 31.4
+        },
+        {
+          "word": " to",
+          "start": 31.4,
+          "end": 31.72
+        },
+        {
+          "word": " part",
+          "start": 31.72,
+          "end": 31.96
+        },
+        {
+          "word": " one.",
+          "start": 31.96,
+          "end": 34.36
+        }
+      ]
+    },
+    {
+      "start": 37.78,
+      "end": 45.18,
+      "text": " You will hear a man phoning to inquire about a cleaning service for his apartment. First",
+      "words": [
+        {
+          "word": " You",
+          "start": 37.78,
+          "end": 38.54
+        },
+        {
+          "word": " will",
+          "start": 38.54,
+          "end": 39.3
+        },
+        {
+          "word": " hear",
+          "start": 39.3,
+          "end": 39.58
+        },
+        {
+          "word": " a",
+          "start": 39.58,
+          "end": 39.8
+        },
+        {
+          "word": " man",
+          "start": 39.8,
+          "end": 40.2
+        },
+        {
+          "word": " phoning",
+          "start": 40.2,
+          "end": 40.56
+        },
+        {
+          "word": " to",
+          "start": 40.56,
+          "end": 40.96
+        },
+        {
+          "word": " inquire",
+          "start": 40.96,
+          "end": 41.32
+        },
+        {
+          "word": " about",
+          "start": 41.32,
+          "end": 41.76
+        },
+        {
+          "word": " a",
+          "start": 41.76,
+          "end": 42.02
+        },
+        {
+          "word": " cleaning",
+          "start": 42.02,
+          "end": 42.32
+        },
+        {
+          "word": " service",
+          "start": 42.32,
+          "end": 42.96
+        },
+        {
+          "word": " for",
+          "start": 42.96,
+          "end": 43.12
+        },
+        {
+          "word": " his",
+          "start": 43.12,
+          "end": 43.34
+        },
+        {
+          "word": " apartment.",
+          "start": 43.34,
+          "end": 43.92
+        },
+        {
+          "word": " First",
+          "start": 44.7,
+          "end": 45.18
+        }
+      ]
+    },
+    {
+      "start": 45.18,
+      "end": 48.74,
+      "text": " you have some time to look at questions one to five.",
+      "words": [
+        {
+          "word": " you",
+          "start": 45.18,
+          "end": 45.36
+        },
+        {
+          "word": " have",
+          "start": 45.36,
+          "end": 45.64
+        },
+        {
+          "word": " some",
+          "start": 45.64,
+          "end": 45.98
+        },
+        {
+          "word": " time",
+          "start": 45.98,
+          "end": 46.34
+        },
+        {
+          "word": " to",
+          "start": 46.34,
+          "end": 46.56
+        },
+        {
+          "word": " look",
+          "start": 46.56,
+          "end": 46.76
+        },
+        {
+          "word": " at",
+          "start": 46.76,
+          "end": 47.18
+        },
+        {
+          "word": " questions",
+          "start": 47.18,
+          "end": 47.46
+        },
+        {
+          "word": " one",
+          "start": 47.46,
+          "end": 48.02
+        },
+        {
+          "word": " to",
+          "start": 48.02,
+          "end": 48.28
+        },
+        {
+          "word": " five.",
+          "start": 48.28,
+          "end": 48.74
+        }
+      ]
+    },
+    {
+      "start": 73.18,
+      "end": 78.96,
+      "text": " Now listen carefully and answer questions one to five.",
+      "words": [
+        {
+          "word": " Now",
+          "start": 73.18,
+          "end": 74.26
+        },
+        {
+          "word": " listen",
+          "start": 74.26,
+          "end": 74.68
+        },
+        {
+          "word": " carefully",
+          "start": 74.68,
+          "end": 75.1
+        },
+        {
+          "word": " and",
+          "start": 75.1,
+          "end": 75.94
+        },
+        {
+          "word": " answer",
+          "start": 75.94,
+          "end": 76.34
+        },
+        {
+          "word": " questions",
+          "start": 76.34,
+          "end": 77.0
+        },
+        {
+          "word": " one",
+          "start": 77.0,
+          "end": 77.36
+        },
+        {
+          "word": " to",
+          "start": 77.36,
+          "end": 77.62
+        },
+        {
+          "word": " five.",
+          "start": 77.62,
+          "end": 78.96
+        }
+      ]
+    },
+    {
+      "start": 81.1,
+      "end": 85.18,
+      "text": " Hello, easy life cleaning services, just into speaking.",
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 81.1,
+          "end": 81.74
+        },
+        {
+          "word": " easy",
+          "start": 82.12,
+          "end": 82.46
+        },
+        {
+          "word": " life",
+          "start": 82.46,
+          "end": 82.86
+        },
+        {
+          "word": " cleaning",
+          "start": 82.86,
+          "end": 83.22
+        },
+        {
+          "word": " services,",
+          "start": 83.22,
+          "end": 83.88
+        },
+        {
+          "word": " just",
+          "start": 84.04,
+          "end": 84.28
+        },
+        {
+          "word": " into",
+          "start": 84.28,
+          "end": 84.58
+        },
+        {
+          "word": " speaking.",
+          "start": 84.58,
+          "end": 85.18
+        }
+      ]
+    },
+    {
+      "start": 85.5,
+      "end": 90.98,
+      "text": " Oh, hello. I'm looking for a cleaning service for my apartment. Do you do domestic cleaning?",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 85.5,
+          "end": 85.68
+        },
+        {
+          "word": " hello.",
+          "start": 85.72,
+          "end": 86.1
+        },
+        {
+          "word": " I'm",
+          "start": 86.64,
+          "end": 86.68
+        },
+        {
+          "word": " looking",
+          "start": 86.68,
+          "end": 86.98
+        },
+        {
+          "word": " for",
+          "start": 86.98,
+          "end": 87.28
+        },
+        {
+          "word": " a",
+          "start": 87.28,
+          "end": 87.32
+        },
+        {
+          "word": " cleaning",
+          "start": 87.32,
+          "end": 87.64
+        },
+        {
+          "word": " service",
+          "start": 87.64,
+          "end": 88.06
+        },
+        {
+          "word": " for",
+          "start": 88.06,
+          "end": 88.24
+        },
+        {
+          "word": " my",
+          "start": 88.24,
+          "end": 88.42
+        },
+        {
+          "word": " apartment.",
+          "start": 88.42,
+          "end": 89.1
+        },
+        {
+          "word": " Do",
+          "start": 89.6,
+          "end": 89.64
+        },
+        {
+          "word": " you",
+          "start": 89.64,
+          "end": 89.76
+        },
+        {
+          "word": " do",
+          "start": 89.76,
+          "end": 90.1
+        },
+        {
+          "word": " domestic",
+          "start": 90.1,
+          "end": 90.42
+        },
+        {
+          "word": " cleaning?",
+          "start": 90.42,
+          "end": 90.98
+        }
+      ]
+    },
+    {
+      "start": 91.3,
+      "end": 97.28,
+      "text": " Sure. Well, it's just a one bedroom flat. Do you have a basic cleaning package?",
+      "words": [
+        {
+          "word": " Sure.",
+          "start": 91.3,
+          "end": 91.78
+        },
+        {
+          "word": " Well,",
+          "start": 92.24,
+          "end": 92.7
+        },
+        {
+          "word": " it's",
+          "start": 92.7,
+          "end": 93.0
+        },
+        {
+          "word": " just",
+          "start": 93.0,
+          "end": 93.26
+        },
+        {
+          "word": " a",
+          "start": 93.26,
+          "end": 93.4
+        },
+        {
+          "word": " one",
+          "start": 93.4,
+          "end": 93.58
+        },
+        {
+          "word": " bedroom",
+          "start": 93.58,
+          "end": 93.92
+        },
+        {
+          "word": " flat.",
+          "start": 93.92,
+          "end": 94.56
+        },
+        {
+          "word": " Do",
+          "start": 95.28,
+          "end": 95.4
+        },
+        {
+          "word": " you",
+          "start": 95.4,
+          "end": 95.42
+        },
+        {
+          "word": " have",
+          "start": 95.42,
+          "end": 95.68
+        },
+        {
+          "word": " a",
+          "start": 95.68,
+          "end": 95.98
+        },
+        {
+          "word": " basic",
+          "start": 95.98,
+          "end": 96.44
+        },
+        {
+          "word": " cleaning",
+          "start": 96.44,
+          "end": 96.8
+        },
+        {
+          "word": " package?",
+          "start": 96.8,
+          "end": 97.28
+        }
+      ]
+    },
+    {
+      "start": 97.66,
+      "end": 103.56,
+      "text": " Yes. For a one bedroom flat, we're probably looking at about two hours for a clean.",
+      "words": [
+        {
+          "word": " Yes.",
+          "start": 97.66,
+          "end": 98.04
+        },
+        {
+          "word": " For",
+          "start": 98.62,
+          "end": 98.84
+        },
+        {
+          "word": " a",
+          "start": 98.84,
+          "end": 98.94
+        },
+        {
+          "word": " one",
+          "start": 98.94,
+          "end": 99.18
+        },
+        {
+          "word": " bedroom",
+          "start": 99.18,
+          "end": 99.52
+        },
+        {
+          "word": " flat,",
+          "start": 99.52,
+          "end": 100.1
+        },
+        {
+          "word": " we're",
+          "start": 100.36,
+          "end": 100.76
+        },
+        {
+          "word": " probably",
+          "start": 100.76,
+          "end": 101.24
+        },
+        {
+          "word": " looking",
+          "start": 101.24,
+          "end": 101.56
+        },
+        {
+          "word": " at",
+          "start": 101.56,
+          "end": 101.76
+        },
+        {
+          "word": " about",
+          "start": 101.76,
+          "end": 102.12
+        },
+        {
+          "word": " two",
+          "start": 102.12,
+          "end": 102.42
+        },
+        {
+          "word": " hours",
+          "start": 102.42,
+          "end": 102.72
+        },
+        {
+          "word": " for",
+          "start": 102.72,
+          "end": 103.0
+        },
+        {
+          "word": " a",
+          "start": 103.0,
+          "end": 103.08
+        },
+        {
+          "word": " clean.",
+          "start": 103.08,
+          "end": 103.56
+        }
+      ]
+    },
+    {
+      "start": 103.56,
+      "end": 109.06,
+      "text": " So we do a thorough clean of all surfaces in each room and polish them when necessary.",
+      "words": [
+        {
+          "word": " So",
+          "start": 103.56,
+          "end": 104.24
+        },
+        {
+          "word": " we",
+          "start": 104.24,
+          "end": 104.38
+        },
+        {
+          "word": " do",
+          "start": 104.38,
+          "end": 104.66
+        },
+        {
+          "word": " a",
+          "start": 104.66,
+          "end": 104.86
+        },
+        {
+          "word": " thorough",
+          "start": 104.86,
+          "end": 105.1
+        },
+        {
+          "word": " clean",
+          "start": 105.1,
+          "end": 105.32
+        },
+        {
+          "word": " of",
+          "start": 105.32,
+          "end": 105.44
+        },
+        {
+          "word": " all",
+          "start": 105.44,
+          "end": 105.7
+        },
+        {
+          "word": " surfaces",
+          "start": 105.7,
+          "end": 106.12
+        },
+        {
+          "word": " in",
+          "start": 106.12,
+          "end": 106.38
+        },
+        {
+          "word": " each",
+          "start": 106.38,
+          "end": 106.64
+        },
+        {
+          "word": " room",
+          "start": 106.64,
+          "end": 107.06
+        },
+        {
+          "word": " and",
+          "start": 107.06,
+          "end": 107.66
+        },
+        {
+          "word": " polish",
+          "start": 107.66,
+          "end": 107.94
+        },
+        {
+          "word": " them",
+          "start": 107.94,
+          "end": 108.2
+        },
+        {
+          "word": " when",
+          "start": 108.2,
+          "end": 108.46
+        },
+        {
+          "word": " necessary.",
+          "start": 108.46,
+          "end": 109.06
+        }
+      ]
+    },
+    {
+      "start": 109.72,
+      "end": 111.38,
+      "text": " Does your apartment have carpets?",
+      "words": [
+        {
+          "word": " Does",
+          "start": 109.72,
+          "end": 109.78
+        },
+        {
+          "word": " your",
+          "start": 109.78,
+          "end": 109.96
+        },
+        {
+          "word": " apartment",
+          "start": 109.96,
+          "end": 110.32
+        },
+        {
+          "word": " have",
+          "start": 110.32,
+          "end": 110.78
+        },
+        {
+          "word": " carpets?",
+          "start": 110.78,
+          "end": 111.38
+        }
+      ]
+    },
+    {
+      "start": 111.96,
+      "end": 115.06,
+      "text": " No, I don't have any, but the floor would need cleaning.",
+      "words": [
+        {
+          "word": " No,",
+          "start": 111.96,
+          "end": 112.2
+        },
+        {
+          "word": " I",
+          "start": 112.22,
+          "end": 112.3
+        },
+        {
+          "word": " don't",
+          "start": 112.3,
+          "end": 112.54
+        },
+        {
+          "word": " have",
+          "start": 112.54,
+          "end": 112.76
+        },
+        {
+          "word": " any,",
+          "start": 112.76,
+          "end": 113.26
+        },
+        {
+          "word": " but",
+          "start": 113.38,
+          "end": 113.54
+        },
+        {
+          "word": " the",
+          "start": 113.54,
+          "end": 113.9
+        },
+        {
+          "word": " floor",
+          "start": 113.9,
+          "end": 114.16
+        },
+        {
+          "word": " would",
+          "start": 114.16,
+          "end": 114.42
+        },
+        {
+          "word": " need",
+          "start": 114.42,
+          "end": 114.72
+        },
+        {
+          "word": " cleaning.",
+          "start": 114.72,
+          "end": 115.06
+        }
+      ]
+    },
+    {
+      "start": 115.44,
+      "end": 119.98,
+      "text": " Of course, we do that in every room and we do a thorough clean of the...",
+      "words": [
+        {
+          "word": " Of",
+          "start": 115.44,
+          "end": 115.76
+        },
+        {
+          "word": " course,",
+          "start": 115.76,
+          "end": 116.16
+        },
+        {
+          "word": " we",
+          "start": 116.64,
+          "end": 116.72
+        },
+        {
+          "word": " do",
+          "start": 116.72,
+          "end": 116.92
+        },
+        {
+          "word": " that",
+          "start": 116.92,
+          "end": 117.16
+        },
+        {
+          "word": " in",
+          "start": 117.16,
+          "end": 117.3
+        },
+        {
+          "word": " every",
+          "start": 117.3,
+          "end": 117.56
+        },
+        {
+          "word": " room",
+          "start": 117.56,
+          "end": 117.98
+        },
+        {
+          "word": " and",
+          "start": 117.98,
+          "end": 118.66
+        },
+        {
+          "word": " we",
+          "start": 118.66,
+          "end": 118.82
+        },
+        {
+          "word": " do",
+          "start": 118.82,
+          "end": 119.02
+        },
+        {
+          "word": " a",
+          "start": 119.02,
+          "end": 119.24
+        },
+        {
+          "word": " thorough",
+          "start": 119.24,
+          "end": 119.52
+        },
+        {
+          "word": " clean",
+          "start": 119.52,
+          "end": 119.78
+        },
+        {
+          "word": " of",
+          "start": 119.78,
+          "end": 119.9
+        },
+        {
+          "word": " the...",
+          "start": 119.9,
+          "end": 119.98
+        }
+      ]
+    },
+    {
+      "start": 263.111875,
+      "end": 269.091875,
+      "text": " you, but we also offer a special vacuum cleaning system which can improve the indoor air",
+      "words": [
+        {
+          "word": " you,",
+          "start": 263.111875,
+          "end": 263.371875
+        },
+        {
+          "word": " but",
+          "start": 263.511875,
+          "end": 263.931875
+        },
+        {
+          "word": " we",
+          "start": 263.931875,
+          "end": 264.211875
+        },
+        {
+          "word": " also",
+          "start": 264.211875,
+          "end": 264.471875
+        },
+        {
+          "word": " offer",
+          "start": 264.471875,
+          "end": 264.89187499999997
+        },
+        {
+          "word": " a",
+          "start": 264.89187499999997,
+          "end": 265.131875
+        },
+        {
+          "word": " special",
+          "start": 265.131875,
+          "end": 265.551875
+        },
+        {
+          "word": " vacuum",
+          "start": 265.551875,
+          "end": 266.091875
+        },
+        {
+          "word": " cleaning",
+          "start": 266.091875,
+          "end": 266.491875
+        },
+        {
+          "word": " system",
+          "start": 266.491875,
+          "end": 266.991875
+        },
+        {
+          "word": " which",
+          "start": 266.991875,
+          "end": 267.491875
+        },
+        {
+          "word": " can",
+          "start": 267.491875,
+          "end": 267.711875
+        },
+        {
+          "word": " improve",
+          "start": 267.711875,
+          "end": 268.071875
+        },
+        {
+          "word": " the",
+          "start": 268.071875,
+          "end": 268.331875
+        },
+        {
+          "word": " indoor",
+          "start": 268.331875,
+          "end": 268.691875
+        },
+        {
+          "word": " air",
+          "start": 268.691875,
+          "end": 269.091875
+        }
+      ]
+    },
+    {
+      "start": 269.091875,
+      "end": 275.511875,
+      "text": " quality of your home by capturing up to 99% of all the dust in the air. So if you're",
+      "words": [
+        {
+          "word": " quality",
+          "start": 269.091875,
+          "end": 269.411875
+        },
+        {
+          "word": " of",
+          "start": 269.411875,
+          "end": 269.591875
+        },
+        {
+          "word": " your",
+          "start": 269.591875,
+          "end": 269.791875
+        },
+        {
+          "word": " home",
+          "start": 269.791875,
+          "end": 270.211875
+        },
+        {
+          "word": " by",
+          "start": 270.211875,
+          "end": 270.611875
+        },
+        {
+          "word": " capturing",
+          "start": 270.611875,
+          "end": 271.071875
+        },
+        {
+          "word": " up",
+          "start": 271.071875,
+          "end": 271.331875
+        },
+        {
+          "word": " to",
+          "start": 271.331875,
+          "end": 271.731875
+        },
+        {
+          "word": " 99",
+          "start": 271.731875,
+          "end": 272.091875
+        },
+        {
+          "word": "%",
+          "start": 272.091875,
+          "end": 272.631875
+        },
+        {
+          "word": " of",
+          "start": 272.631875,
+          "end": 272.751875
+        },
+        {
+          "word": " all",
+          "start": 272.751875,
+          "end": 272.951875
+        },
+        {
+          "word": " the",
+          "start": 272.951875,
+          "end": 273.171875
+        },
+        {
+          "word": " dust",
+          "start": 273.171875,
+          "end": 273.411875
+        },
+        {
+          "word": " in",
+          "start": 273.411875,
+          "end": 273.571875
+        },
+        {
+          "word": " the",
+          "start": 273.571875,
+          "end": 273.831875
+        },
+        {
+          "word": " air.",
+          "start": 273.831875,
+          "end": 274.151875
+        },
+        {
+          "word": " So",
+          "start": 274.611875,
+          "end": 274.89187499999997
+        },
+        {
+          "word": " if",
+          "start": 274.89187499999997,
+          "end": 275.051875
+        },
+        {
+          "word": " you're",
+          "start": 275.051875,
+          "end": 275.511875
+        }
+      ]
+    },
+    {
+      "start": 275.511875,
+      "end": 278.111875,
+      "text": " troubled by allergies, this can make a big difference.",
+      "words": [
+        {
+          "word": " troubled",
+          "start": 275.511875,
+          "end": 275.671875
+        },
+        {
+          "word": " by",
+          "start": 275.671875,
+          "end": 276.071875
+        },
+        {
+          "word": " allergies,",
+          "start": 276.071875,
+          "end": 276.451875
+        },
+        {
+          "word": " this",
+          "start": 276.771875,
+          "end": 276.771875
+        },
+        {
+          "word": " can",
+          "start": 276.771875,
+          "end": 276.951875
+        },
+        {
+          "word": " make",
+          "start": 276.951875,
+          "end": 277.111875
+        },
+        {
+          "word": " a",
+          "start": 277.111875,
+          "end": 277.211875
+        },
+        {
+          "word": " big",
+          "start": 277.211875,
+          "end": 277.411875
+        },
+        {
+          "word": " difference.",
+          "start": 277.411875,
+          "end": 278.111875
+        }
+      ]
+    },
+    {
+      "start": 278.831875,
+      "end": 283.83187499999997,
+      "text": " Right, in fact, I don't have that sort of problem, but I'll bear it in mind. Now, can",
+      "words": [
+        {
+          "word": " Right,",
+          "start": 278.831875,
+          "end": 278.831875
+        },
+        {
+          "word": " in",
+          "start": 279.311875,
+          "end": 279.371875
+        },
+        {
+          "word": " fact,",
+          "start": 279.371875,
+          "end": 279.611875
+        },
+        {
+          "word": " I",
+          "start": 279.631875,
+          "end": 279.751875
+        },
+        {
+          "word": " don't",
+          "start": 279.751875,
+          "end": 279.971875
+        },
+        {
+          "word": " have",
+          "start": 279.971875,
+          "end": 280.191875
+        },
+        {
+          "word": " that",
+          "start": 280.191875,
+          "end": 280.491875
+        },
+        {
+          "word": " sort",
+          "start": 280.491875,
+          "end": 280.851875
+        },
+        {
+          "word": " of",
+          "start": 280.851875,
+          "end": 280.931875
+        },
+        {
+          "word": " problem,",
+          "start": 280.931875,
+          "end": 281.33187499999997
+        },
+        {
+          "word": " but",
+          "start": 281.33187499999997,
+          "end": 281.571875
+        },
+        {
+          "word": " I'll",
+          "start": 281.571875,
+          "end": 281.811875
+        },
+        {
+          "word": " bear",
+          "start": 281.811875,
+          "end": 281.971875
+        },
+        {
+          "word": " it",
+          "start": 281.971875,
+          "end": 282.091875
+        },
+        {
+          "word": " in",
+          "start": 282.091875,
+          "end": 282.311875
+        },
+        {
+          "word": " mind.",
+          "start": 282.311875,
+          "end": 282.671875
+        },
+        {
+          "word": " Now,",
+          "start": 283.551875,
+          "end": 283.651875
+        },
+        {
+          "word": " can",
+          "start": 283.651875,
+          "end": 283.83187499999997
+        }
+      ]
+    },
+    {
+      "start": 283.83187499999997,
+      "end": 286.271875,
+      "text": " you tell me a bit about your cleaning staff?",
+      "words": [
+        {
+          "word": " you",
+          "start": 283.83187499999997,
+          "end": 284.051875
+        },
+        {
+          "word": " tell",
+          "start": 284.051875,
+          "end": 284.271875
+        },
+        {
+          "word": " me",
+          "start": 284.271875,
+          "end": 284.491875
+        },
+        {
+          "word": " a",
+          "start": 284.491875,
+          "end": 284.591875
+        },
+        {
+          "word": " bit",
+          "start": 284.591875,
+          "end": 284.771875
+        },
+        {
+          "word": " about",
+          "start": 284.771875,
+          "end": 285.111875
+        },
+        {
+          "word": " your",
+          "start": 285.111875,
+          "end": 285.371875
+        },
+        {
+          "word": " cleaning",
+          "start": 285.371875,
+          "end": 285.731875
+        },
+        {
+          "word": " staff?",
+          "start": 285.731875,
+          "end": 286.271875
+        }
+      ]
+    },
+    {
+      "start": 286.571875,
+      "end": 292.651875,
+      "text": " Of course. So all our cleaners are very carefully selected. When they apply to us, they",
+      "words": [
+        {
+          "word": " Of",
+          "start": 286.571875,
+          "end": 286.871875
+        },
+        {
+          "word": " course.",
+          "start": 286.871875,
+          "end": 287.271875
+        },
+        {
+          "word": " So",
+          "start": 287.931875,
+          "end": 288.271875
+        },
+        {
+          "word": " all",
+          "start": 288.271875,
+          "end": 288.571875
+        },
+        {
+          "word": " our",
+          "start": 288.571875,
+          "end": 288.851875
+        },
+        {
+          "word": " cleaners",
+          "start": 288.851875,
+          "end": 289.131875
+        },
+        {
+          "word": " are",
+          "start": 289.131875,
+          "end": 289.631875
+        },
+        {
+          "word": " very",
+          "start": 289.631875,
+          "end": 289.791875
+        },
+        {
+          "word": " carefully",
+          "start": 289.791875,
+          "end": 290.151875
+        },
+        {
+          "word": " selected.",
+          "start": 290.151875,
+          "end": 290.811875
+        },
+        {
+          "word": " When",
+          "start": 291.411875,
+          "end": 291.591875
+        },
+        {
+          "word": " they",
+          "start": 291.591875,
+          "end": 291.83187499999997
+        },
+        {
+          "word": " apply",
+          "start": 291.83187499999997,
+          "end": 292.091875
+        },
+        {
+          "word": " to",
+          "start": 292.091875,
+          "end": 292.311875
+        },
+        {
+          "word": " us,",
+          "start": 292.311875,
+          "end": 292.471875
+        },
+        {
+          "word": " they",
+          "start": 292.591875,
+          "end": 292.651875
+        }
+      ]
+    },
+    {
+      "start": 292.651875,
+      "end": 297.971875,
+      "text": " to undergo a security check with the police to make sure they don't have any sort of criminal",
+      "words": [
+        {
+          "word": " to",
+          "start": 292.651875,
+          "end": 292.911875
+        },
+        {
+          "word": " undergo",
+          "start": 292.911875,
+          "end": 293.391875
+        },
+        {
+          "word": " a",
+          "start": 293.391875,
+          "end": 293.651875
+        },
+        {
+          "word": " security",
+          "start": 293.651875,
+          "end": 294.071875
+        },
+        {
+          "word": " check",
+          "start": 294.071875,
+          "end": 294.471875
+        },
+        {
+          "word": " with",
+          "start": 294.471875,
+          "end": 294.651875
+        },
+        {
+          "word": " the",
+          "start": 294.651875,
+          "end": 294.851875
+        },
+        {
+          "word": " police",
+          "start": 294.851875,
+          "end": 295.391875
+        },
+        {
+          "word": " to",
+          "start": 295.391875,
+          "end": 295.731875
+        },
+        {
+          "word": " make",
+          "start": 295.731875,
+          "end": 296.011875
+        },
+        {
+          "word": " sure",
+          "start": 296.011875,
+          "end": 296.251875
+        },
+        {
+          "word": " they",
+          "start": 296.251875,
+          "end": 296.391875
+        },
+        {
+          "word": " don't",
+          "start": 296.391875,
+          "end": 296.671875
+        },
+        {
+          "word": " have",
+          "start": 296.671875,
+          "end": 296.971875
+        },
+        {
+          "word": " any",
+          "start": 296.971875,
+          "end": 297.271875
+        },
+        {
+          "word": " sort",
+          "start": 297.271875,
+          "end": 297.611875
+        },
+        {
+          "word": " of",
+          "start": 297.611875,
+          "end": 297.931875
+        },
+        {
+          "word": " criminal",
+          "start": 297.931875,
+          "end": 297.971875
+        }
+      ]
+    },
+    {
+      "start": 297.971875,
+      "end": 303.771875,
+      "text": " background. And of course they have to provide references as well. Then if we think they might",
+      "words": [
+        {
+          "word": " background.",
+          "start": 297.971875,
+          "end": 298.611875
+        },
+        {
+          "word": " And",
+          "start": 299.131875,
+          "end": 299.311875
+        },
+        {
+          "word": " of",
+          "start": 299.311875,
+          "end": 299.511875
+        },
+        {
+          "word": " course",
+          "start": 299.511875,
+          "end": 299.83187499999997
+        },
+        {
+          "word": " they",
+          "start": 299.83187499999997,
+          "end": 300.051875
+        },
+        {
+          "word": " have",
+          "start": 300.051875,
+          "end": 300.291875
+        },
+        {
+          "word": " to",
+          "start": 300.291875,
+          "end": 300.431875
+        },
+        {
+          "word": " provide",
+          "start": 300.431875,
+          "end": 300.851875
+        },
+        {
+          "word": " references",
+          "start": 300.851875,
+          "end": 301.311875
+        },
+        {
+          "word": " as",
+          "start": 301.311875,
+          "end": 301.631875
+        },
+        {
+          "word": " well.",
+          "start": 301.631875,
+          "end": 302.151875
+        },
+        {
+          "word": " Then",
+          "start": 302.611875,
+          "end": 302.83187499999997
+        },
+        {
+          "word": " if",
+          "start": 302.83187499999997,
+          "end": 302.991875
+        },
+        {
+          "word": " we",
+          "start": 302.991875,
+          "end": 303.171875
+        },
+        {
+          "word": " think",
+          "start": 303.171875,
+          "end": 303.351875
+        },
+        {
+          "word": " they",
+          "start": 303.351875,
+          "end": 303.571875
+        },
+        {
+          "word": " might",
+          "start": 303.571875,
+          "end": 303.771875
+        }
+      ]
+    },
+    {
+      "start": 303.771875,
+      "end": 309.551875,
+      "text": " be suitable for the job, we give them training for it. That lasts for two weeks, so it's very",
+      "words": [
+        {
+          "word": " be",
+          "start": 303.771875,
+          "end": 304.111875
+        },
+        {
+          "word": " suitable",
+          "start": 304.111875,
+          "end": 304.291875
+        },
+        {
+          "word": " for",
+          "start": 304.291875,
+          "end": 304.551875
+        },
+        {
+          "word": " the",
+          "start": 304.551875,
+          "end": 304.691875
+        },
+        {
+          "word": " job,",
+          "start": 304.691875,
+          "end": 305.091875
+        },
+        {
+          "word": " we",
+          "start": 305.311875,
+          "end": 305.411875
+        },
+        {
+          "word": " give",
+          "start": 305.411875,
+          "end": 305.591875
+        },
+        {
+          "word": " them",
+          "start": 305.591875,
+          "end": 305.83187499999997
+        },
+        {
+          "word": " training",
+          "start": 305.83187499999997,
+          "end": 306.191875
+        },
+        {
+          "word": " for",
+          "start": 306.191875,
+          "end": 306.491875
+        },
+        {
+          "word": " it.",
+          "start": 306.491875,
+          "end": 306.891875
+        },
+        {
+          "word": " That",
+          "start": 307.151875,
+          "end": 307.371875
+        },
+        {
+          "word": " lasts",
+          "start": 307.371875,
+          "end": 307.731875
+        },
+        {
+          "word": " for",
+          "start": 307.731875,
+          "end": 308.031875
+        },
+        {
+          "word": " two",
+          "start": 308.031875,
+          "end": 308.251875
+        },
+        {
+          "word": " weeks,",
+          "start": 308.251875,
+          "end": 308.611875
+        },
+        {
+          "word": " so",
+          "start": 308.811875,
+          "end": 309.031875
+        },
+        {
+          "word": " it's",
+          "start": 309.031875,
+          "end": 309.191875
+        },
+        {
+          "word": " very",
+          "start": 309.191875,
+          "end": 309.551875
+        }
+      ]
+    },
+    {
+      "start": 309.551875,
+      "end": 315.731875,
+      "text": " thorough, and at the end of it they have a test. If they pass that, we take them on, but we monitor",
+      "words": [
+        {
+          "word": " thorough,",
+          "start": 309.551875,
+          "end": 309.931875
+        },
+        {
+          "word": " and",
+          "start": 310.171875,
+          "end": 310.431875
+        },
+        {
+          "word": " at",
+          "start": 310.431875,
+          "end": 310.551875
+        },
+        {
+          "word": " the",
+          "start": 310.551875,
+          "end": 310.751875
+        },
+        {
+          "word": " end",
+          "start": 310.751875,
+          "end": 310.871875
+        },
+        {
+          "word": " of",
+          "start": 310.871875,
+          "end": 310.931875
+        },
+        {
+          "word": " it",
+          "start": 310.931875,
+          "end": 311.151875
+        },
+        {
+          "word": " they",
+          "start": 311.151875,
+          "end": 311.231875
+        },
+        {
+          "word": " have",
+          "start": 311.231875,
+          "end": 311.451875
+        },
+        {
+          "word": " a",
+          "start": 311.451875,
+          "end": 311.591875
+        },
+        {
+          "word": " test.",
+          "start": 311.591875,
+          "end": 311.971875
+        },
+        {
+          "word": " If",
+          "start": 312.471875,
+          "end": 312.671875
+        },
+        {
+          "word": " they",
+          "start": 312.671875,
+          "end": 312.871875
+        },
+        {
+          "word": " pass",
+          "start": 312.871875,
+          "end": 313.211875
+        },
+        {
+          "word": " that,",
+          "start": 313.211875,
+          "end": 313.671875
+        },
+        {
+          "word": " we",
+          "start": 313.851875,
+          "end": 314.011875
+        },
+        {
+          "word": " take",
+          "start": 314.011875,
+          "end": 314.271875
+        },
+        {
+          "word": " them",
+          "start": 314.271875,
+          "end": 314.491875
+        },
+        {
+          "word": " on,",
+          "start": 314.491875,
+          "end": 314.83187499999997
+        },
+        {
+          "word": " but",
+          "start": 314.991875,
+          "end": 315.251875
+        },
+        {
+          "word": " we",
+          "start": 315.251875,
+          "end": 315.731875
+        },
+        {
+          "word": " monitor",
+          "start": 315.731875,
+          "end": 315.731875
+        }
+      ]
+    },
+    {
+      "start": 315.731875,
+      "end": 321.711875,
+      "text": " them very carefully. We ask all our clients to complete a review of their performance after every",
+      "words": [
+        {
+          "word": " them",
+          "start": 315.731875,
+          "end": 316.131875
+        },
+        {
+          "word": " very",
+          "start": 316.131875,
+          "end": 316.431875
+        },
+        {
+          "word": " carefully.",
+          "start": 316.431875,
+          "end": 316.791875
+        },
+        {
+          "word": " We",
+          "start": 317.171875,
+          "end": 317.511875
+        },
+        {
+          "word": " ask",
+          "start": 317.511875,
+          "end": 317.771875
+        },
+        {
+          "word": " all",
+          "start": 317.771875,
+          "end": 318.151875
+        },
+        {
+          "word": " our",
+          "start": 318.151875,
+          "end": 318.371875
+        },
+        {
+          "word": " clients",
+          "start": 318.371875,
+          "end": 318.691875
+        },
+        {
+          "word": " to",
+          "start": 318.691875,
+          "end": 319.011875
+        },
+        {
+          "word": " complete",
+          "start": 319.011875,
+          "end": 319.271875
+        },
+        {
+          "word": " a",
+          "start": 319.271875,
+          "end": 319.531875
+        },
+        {
+          "word": " review",
+          "start": 319.531875,
+          "end": 319.791875
+        },
+        {
+          "word": " of",
+          "start": 319.791875,
+          "end": 319.931875
+        },
+        {
+          "word": " their",
+          "start": 319.931875,
+          "end": 320.191875
+        },
+        {
+          "word": " performance",
+          "start": 320.191875,
+          "end": 320.691875
+        },
+        {
+          "word": " after",
+          "start": 320.691875,
+          "end": 321.251875
+        },
+        {
+          "word": " every",
+          "start": 321.251875,
+          "end": 321.711875
+        }
+      ]
+    },
+    {
+      "start": 321.711875,
+      "end": 327.551875,
+      "text": " it and to email it to us. So we can pick up any problems straight away and deal with them.",
+      "words": [
+        {
+          "word": " it",
+          "start": 321.711875,
+          "end": 321.931875
+        },
+        {
+          "word": " and",
+          "start": 321.931875,
+          "end": 322.531875
+        },
+        {
+          "word": " to",
+          "start": 322.531875,
+          "end": 322.751875
+        },
+        {
+          "word": " email",
+          "start": 322.751875,
+          "end": 322.991875
+        },
+        {
+          "word": " it",
+          "start": 322.991875,
+          "end": 323.311875
+        },
+        {
+          "word": " to",
+          "start": 323.311875,
+          "end": 323.411875
+        },
+        {
+          "word": " us.",
+          "start": 323.411875,
+          "end": 323.911875
+        },
+        {
+          "word": " So",
+          "start": 324.231875,
+          "end": 324.411875
+        },
+        {
+          "word": " we",
+          "start": 324.411875,
+          "end": 324.491875
+        },
+        {
+          "word": " can",
+          "start": 324.491875,
+          "end": 324.671875
+        },
+        {
+          "word": " pick",
+          "start": 324.671875,
+          "end": 324.83187499999997
+        },
+        {
+          "word": " up",
+          "start": 324.83187499999997,
+          "end": 325.011875
+        },
+        {
+          "word": " any",
+          "start": 325.011875,
+          "end": 325.251875
+        },
+        {
+          "word": " problems",
+          "start": 325.251875,
+          "end": 325.751875
+        },
+        {
+          "word": " straight",
+          "start": 325.751875,
+          "end": 326.011875
+        },
+        {
+          "word": " away",
+          "start": 326.011875,
+          "end": 326.411875
+        },
+        {
+          "word": " and",
+          "start": 326.411875,
+          "end": 326.631875
+        },
+        {
+          "word": " deal",
+          "start": 326.631875,
+          "end": 326.851875
+        },
+        {
+          "word": " with",
+          "start": 326.851875,
+          "end": 327.051875
+        },
+        {
+          "word": " them.",
+          "start": 327.051875,
+          "end": 327.551875
+        }
+      ]
+    },
+    {
+      "start": 327.871875,
+      "end": 333.131875,
+      "text": " OK, well, that all sounds good. And will I always have the same cleaner?",
+      "words": [
+        {
+          "word": " OK,",
+          "start": 327.871875,
+          "end": 328.031875
+        },
+        {
+          "word": " well,",
+          "start": 328.351875,
+          "end": 328.971875
+        },
+        {
+          "word": " that",
+          "start": 328.971875,
+          "end": 329.111875
+        },
+        {
+          "word": " all",
+          "start": 329.111875,
+          "end": 329.33187499999997
+        },
+        {
+          "word": " sounds",
+          "start": 329.33187499999997,
+          "end": 329.591875
+        },
+        {
+          "word": " good.",
+          "start": 329.591875,
+          "end": 330.071875
+        },
+        {
+          "word": " And",
+          "start": 330.51187500000003,
+          "end": 331.071875
+        },
+        {
+          "word": " will",
+          "start": 331.071875,
+          "end": 331.231875
+        },
+        {
+          "word": " I",
+          "start": 331.231875,
+          "end": 331.51187500000003
+        },
+        {
+          "word": " always",
+          "start": 331.51187500000003,
+          "end": 331.851875
+        },
+        {
+          "word": " have",
+          "start": 331.851875,
+          "end": 332.131875
+        },
+        {
+          "word": " the",
+          "start": 332.131875,
+          "end": 332.431875
+        },
+        {
+          "word": " same",
+          "start": 332.431875,
+          "end": 332.811875
+        },
+        {
+          "word": " cleaner?",
+          "start": 332.811875,
+          "end": 333.131875
+        }
+      ]
+    },
+    {
+      "start": 333.411875,
+      "end": 338.111875,
+      "text": " Yes, we do our best to organise it that way and we usually manage it.",
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 333.411875,
+          "end": 333.931875
+        },
+        {
+          "word": " we",
+          "start": 334.151875,
+          "end": 334.431875
+        },
+        {
+          "word": " do",
+          "start": 334.431875,
+          "end": 334.691875
+        },
+        {
+          "word": " our",
+          "start": 334.691875,
+          "end": 334.891875
+        },
+        {
+          "word": " best",
+          "start": 334.891875,
+          "end": 335.171875
+        },
+        {
+          "word": " to",
+          "start": 335.171875,
+          "end": 335.411875
+        },
+        {
+          "word": " organise",
+          "start": 335.411875,
+          "end": 335.71187499999996
+        },
+        {
+          "word": " it",
+          "start": 335.71187499999996,
+          "end": 335.951875
+        },
+        {
+          "word": " that",
+          "start": 335.951875,
+          "end": 336.171875
+        },
+        {
+          "word": " way",
+          "start": 336.171875,
+          "end": 336.531875
+        },
+        {
+          "word": " and",
+          "start": 336.531875,
+          "end": 336.731875
+        },
+        {
+          "word": " we",
+          "start": 336.731875,
+          "end": 336.971875
+        },
+        {
+          "word": " usually",
+          "start": 336.971875,
+          "end": 337.431875
+        },
+        {
+          "word": " manage",
+          "start": 337.431875,
+          "end": 337.691875
+        },
+        {
+          "word": " it.",
+          "start": 337.691875,
+          "end": 338.111875
+        }
+      ]
+    },
+    {
+      "start": 338.311875,
+      "end": 345.33187499999997,
+      "text": " Good, that's fine. Right, so I'd like to go ahead and...",
+      "words": [
+        {
+          "word": " Good,",
+          "start": 338.311875,
+          "end": 338.83187499999997
+        },
+        {
+          "word": " that's",
+          "start": 338.851875,
+          "end": 339.151875
+        },
+        {
+          "word": " fine.",
+          "start": 339.151875,
+          "end": 339.731875
+        },
+        {
+          "word": " Right,",
+          "start": 340.251875,
+          "end": 340.771875
+        },
+        {
+          "word": " so",
+          "start": 340.771875,
+          "end": 341.21187499999996
+        },
+        {
+          "word": " I'd",
+          "start": 341.21187499999996,
+          "end": 341.431875
+        },
+        {
+          "word": " like",
+          "start": 341.431875,
+          "end": 341.651875
+        },
+        {
+          "word": " to",
+          "start": 341.651875,
+          "end": 341.791875
+        },
+        {
+          "word": " go",
+          "start": 341.791875,
+          "end": 342.031875
+        },
+        {
+          "word": " ahead",
+          "start": 342.031875,
+          "end": 342.431875
+        },
+        {
+          "word": " and...",
+          "start": 342.431875,
+          "end": 345.33187499999997
+        }
+      ]
+    },
+    {
+      "start": 346.311875,
+      "end": 353.01187500000003,
+      "text": " That is the end of Part 1. You now have half a minute to check your answers to Part 1.",
+      "words": [
+        {
+          "word": " That",
+          "start": 346.311875,
+          "end": 346.891875
+        },
+        {
+          "word": " is",
+          "start": 346.891875,
+          "end": 347.071875
+        },
+        {
+          "word": " the",
+          "start": 347.071875,
+          "end": 347.291875
+        },
+        {
+          "word": " end",
+          "start": 347.291875,
+          "end": 347.571875
+        },
+        {
+          "word": " of",
+          "start": 347.571875,
+          "end": 347.811875
+        },
+        {
+          "word": " Part",
+          "start": 347.811875,
+          "end": 348.091875
+        },
+        {
+          "word": " 1.",
+          "start": 348.091875,
+          "end": 348.651875
+        },
+        {
+          "word": " You",
+          "start": 349.031875,
+          "end": 349.251875
+        },
+        {
+          "word": " now",
+          "start": 349.251875,
+          "end": 349.551875
+        },
+        {
+          "word": " have",
+          "start": 349.551875,
+          "end": 349.811875
+        },
+        {
+          "word": " half",
+          "start": 349.811875,
+          "end": 350.171875
+        },
+        {
+          "word": " a",
+          "start": 350.171875,
+          "end": 350.371875
+        },
+        {
+          "word": " minute",
+          "start": 350.371875,
+          "end": 350.591875
+        },
+        {
+          "word": " to",
+          "start": 350.591875,
+          "end": 350.991875
+        },
+        {
+          "word": " check",
+          "start": 350.991875,
+          "end": 351.291875
+        },
+        {
+          "word": " your",
+          "start": 351.291875,
+          "end": 351.611875
+        },
+        {
+          "word": " answers",
+          "start": 351.611875,
+          "end": 351.931875
+        },
+        {
+          "word": " to",
+          "start": 351.931875,
+          "end": 352.21187499999996
+        },
+        {
+          "word": " Part",
+          "start": 352.21187499999996,
+          "end": 352.411875
+        },
+        {
+          "word": " 1.",
+          "start": 352.411875,
+          "end": 353.01187500000003
+        }
+      ]
+    }
+  ]
+}

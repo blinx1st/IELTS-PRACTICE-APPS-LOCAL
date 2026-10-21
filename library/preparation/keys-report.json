@@ -1,0 +1,361 @@
+{
+  "keys": [
+    {
+      "id": "cam13-test1",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+      "sha256": "7e98040d551cd2e4bda85dfd25d787d59607502613d890341c3fa98e255a5589",
+      "pdfPage": 117,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam13-test2",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+      "sha256": "7e98040d551cd2e4bda85dfd25d787d59607502613d890341c3fa98e255a5589",
+      "pdfPage": 119,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam13-test3",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+      "sha256": "7e98040d551cd2e4bda85dfd25d787d59607502613d890341c3fa98e255a5589",
+      "pdfPage": 121,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam13-test4",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+      "sha256": "7e98040d551cd2e4bda85dfd25d787d59607502613d890341c3fa98e255a5589",
+      "pdfPage": 123,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam14-test1",
+      "answerCount": 40,
+      "multiGroups": 3,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "sha256": "af18169e87db1ba4e69324b1d0c63ffb0e00d24d35d2a463889274444546609c",
+      "pdfPage": 120,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam14-test2",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "sha256": "af18169e87db1ba4e69324b1d0c63ffb0e00d24d35d2a463889274444546609c",
+      "pdfPage": 122,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam14-test3",
+      "answerCount": 40,
+      "multiGroups": 1,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "sha256": "af18169e87db1ba4e69324b1d0c63ffb0e00d24d35d2a463889274444546609c",
+      "pdfPage": 124,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam14-test4",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "sha256": "af18169e87db1ba4e69324b1d0c63ffb0e00d24d35d2a463889274444546609c",
+      "pdfPage": 126,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam15-test1",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+      "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+      "pdfPage": 122,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam15-test2",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+      "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+      "pdfPage": 124,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam15-test3",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+      "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+      "pdfPage": 126,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam15-test4",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+      "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+      "pdfPage": 128,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam17-test1",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+      "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+      "pdfPage": 113,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam17-test2",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+      "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+      "pdfPage": 115,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam17-test3",
+      "answerCount": 40,
+      "multiGroups": 1,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+      "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+      "pdfPage": 117,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam17-test4",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+      "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+      "pdfPage": 119,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam18-test1",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-18/BAN_GOC/Cambridge 18.pdf",
+      "sha256": "c52476d77ad492f8184fc74ca3bef3f273db9c7534520d1b7c3856bf4018a9b3",
+      "pdfPage": 122,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam18-test2",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-18/BAN_GOC/Cambridge 18.pdf",
+      "sha256": "c52476d77ad492f8184fc74ca3bef3f273db9c7534520d1b7c3856bf4018a9b3",
+      "pdfPage": 124,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam18-test3",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-18/BAN_GOC/Cambridge 18.pdf",
+      "sha256": "c52476d77ad492f8184fc74ca3bef3f273db9c7534520d1b7c3856bf4018a9b3",
+      "pdfPage": 126,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam18-test4",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-18/BAN_GOC/Cambridge 18.pdf",
+      "sha256": "c52476d77ad492f8184fc74ca3bef3f273db9c7534520d1b7c3856bf4018a9b3",
+      "pdfPage": 128,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam19-test1",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-19/BAN_GOC/Cambridge 19 - IELTS Fighter.pdf",
+      "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb",
+      "pdfPage": 120,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam19-test2",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-19/BAN_GOC/Cambridge 19 - IELTS Fighter.pdf",
+      "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb",
+      "pdfPage": 122,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam19-test3",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-19/BAN_GOC/Cambridge 19 - IELTS Fighter.pdf",
+      "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb",
+      "pdfPage": 124,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam19-test4",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-19/BAN_GOC/Cambridge 19 - IELTS Fighter.pdf",
+      "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb",
+      "pdfPage": 126,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam20-test1",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-20/BAN_GOC/Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+      "sha256": "dca5862c4a7a5b6e516b2ab51cfc50434e69084d5edb8f6facfebf48df7901d9",
+      "pdfPage": 126,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam20-test2",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-20/BAN_GOC/Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+      "sha256": "dca5862c4a7a5b6e516b2ab51cfc50434e69084d5edb8f6facfebf48df7901d9",
+      "pdfPage": 127,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam20-test3",
+      "answerCount": 40,
+      "multiGroups": 2,
+      "errata": [
+        {
+          "question": 19,
+          "sourcePrinted": "vii",
+          "corrected": "vi",
+          "basis": "Paragraph F promotes public hope; heading vi is Promoting hope. The supplied retyped key repeats vii from paragraph D.",
+          "corroboration": [
+            "https://onthiielts.com.vn/ielts-cambridge-20-test-3-reading-passage-2/",
+            "https://langgo.edu.vn/cambridge-20-test-3-reading-passage-2-can-the-planets-coral-reefs-be-saved"
+          ]
+        },
+        {
+          "question": 26,
+          "sourcePrinted": "colour",
+          "acceptedAdditionalVariant": "color",
+          "corroboration": [
+            "https://onthiielts.com.vn/ielts-cambridge-20-test-3-reading-passage-2/"
+          ]
+        }
+      ],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-20/BAN_GOC/Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+      "sha256": "dca5862c4a7a5b6e516b2ab51cfc50434e69084d5edb8f6facfebf48df7901d9",
+      "pdfPage": 128,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    },
+    {
+      "id": "cam20-test4",
+      "answerCount": 40,
+      "multiGroups": 0,
+      "errata": [],
+      "source": "Tài liệu Cambridge/CAMBRIDGE-20/BAN_GOC/Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+      "sha256": "dca5862c4a7a5b6e516b2ab51cfc50434e69084d5edb8f6facfebf48df7901d9",
+      "pdfPage": 129,
+      "verification": "visual-source-key-review",
+      "scope": "answer-key-only",
+      "questionContentVerified": false
+    }
+  ],
+  "count": 28,
+  "note": "Answer keys visually reviewed against supplied PDFs; this does not certify OCR passage/question text."
+}

@@ -1,0 +1,102 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 91,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Listening and Reading answer keys\nTEST 2\nLISTENING\nSection 1, Questions 1-10\nSection 3, Questions 21-30\n1\n219 442 9785\n21\n8B\n2 — 10(th) October\n22\nCc\n3 > manager\n23\nA\n4\nCawley\n24\nA\n5\nknee\n25\n€£\n6\n 3weeks\n26\nD\n7\ntennis\n27\nA\n8\nrunning\n28\n=H\n9\nshoulder\n29\nG\n10\nvitamins\n30\nCc\nSection 2, Questions 11-20\nSection 4, Questions 31-40\n11\n8B\n31.\ndances\n12\nCc\n32\nsurvival\n13\nCc\n33\nclouds\n14\n8B\n34\nfestivals\n15\nA\n35\ncomets\n16H\n36\nsky\n17\nD\n37\ninstruments\n18\nF\n38\nthermometer\n19\nA\n39\nstorms\n20\nE\n40\ntelegraph\nIf you score...\nyou are unlikely to get an\nyou may get an acceptable\nyou are likely to get an\nacceptable score under\nscore under examination\nacceptable score under\nexamination conditions and we | conditions but we recommend | examination conditions but\nrecommend that you spenda lot | that you think about having\nremember that different\nof time improving your English | more practice or lessons before| institutions will find different\nbefore you take IELTS.\nyou take IELTS.\nscores acceptable.\n121\n",
+  "blocks": [
+    {
+      "box": [
+        366.76611328125,
+        93.22124481201172,
+        541.330810546875,
+        104.39012145996094
+      ],
+      "text": "Listening and Reading answer keys\n"
+    },
+    {
+      "box": [
+        298.73980712890625,
+        128.494140625,
+        348.7247619628906,
+        138.22193908691406
+      ],
+      "text": "TEST 2\n"
+    },
+    {
+      "box": [
+        109.05802917480469,
+        173.12513732910156,
+        186.15460205078125,
+        183.21319580078125
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        108.69810485839844,
+        198.32009887695312,
+        484.3364562988281,
+        210.56985473632812
+      ],
+      "text": "Section 1, Questions 1-10\nSection 3, Questions 21-30\n"
+    },
+    {
+      "box": [
+        108.33814239501953,
+        216.67637634277344,
+        358.84765625,
+        324.6636047363281
+      ],
+      "text": "1\n219 442 9785\n21\n8B\n2 — 10(th) October\n22\nCc\n3 > manager\n23\nA\n4\nCawley\n24\nA\n5\nknee\n25\n€£\n6\n 3weeks\n26\nD\n7\ntennis\n27\nA\n8\nrunning\n28\n=H\n9\nshoulder\n29\nG\n10\nvitamins\n30\nCc\n"
+    },
+    {
+      "box": [
+        109.05799865722656,
+        340.1314697265625,
+        484.24639892578125,
+        352.0209655761719
+      ],
+      "text": "Section 2, Questions 11-20\nSection 4, Questions 31-40\n"
+    },
+    {
+      "box": [
+        109.0579833984375,
+        358.1278381347656,
+        405.95318603515625,
+        467.19598388671875
+      ],
+      "text": "11\n8B\n31.\ndances\n12\nCc\n32\nsurvival\n13\nCc\n33\nclouds\n14\n8B\n34\nfestivals\n15\nA\n35\ncomets\n16H\n36\nsky\n17\nD\n37\ninstruments\n18\nF\n38\nthermometer\n19\nA\n39\nstorms\n20\nE\n40\ntelegraph\n"
+    },
+    {
+      "box": [
+        109.41793060302734,
+        482.6627502441406,
+        187.07595825195312,
+        494.19195556640625
+      ],
+      "text": "If you score...\n"
+    },
+    {
+      "box": [
+        113.01720428466797,
+        519.0154418945312,
+        516.6182861328125,
+        584.5326538085938
+      ],
+      "text": "you are unlikely to get an\nyou may get an acceptable\nyou are likely to get an\nacceptable score under\nscore under examination\nacceptable score under\nexamination conditions and we | conditions but we recommend | examination conditions but\nrecommend that you spenda lot | that you think about having\nremember that different\nof time improving your English | more practice or lessons before| institutions will find different\nbefore you take IELTS.\nyou take IELTS.\nscores acceptable.\n"
+    },
+    {
+      "box": [
+        524.7742309570312,
+        730.2929077148438,
+        539.8587646484375,
+        738.21923828125
+      ],
+      "text": "121\n"
+    }
+  ]
+}

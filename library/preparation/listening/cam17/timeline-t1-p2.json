@@ -1,0 +1,1220 @@
+{
+  "audioSha256": "0b5ea2fc49fcbad55d9e867b880e5e3966b7ebb49b9f15dad7c63be9516694c1",
+  "duration": 413.44,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 293.44,
+      "end": 300.32,
+      "text": " distance, such as seagulls, flying around the cliff edges where they nest. When we get",
+      "words": [
+        {
+          "word": " distance,",
+          "start": 293.44,
+          "end": 293.98
+        },
+        {
+          "word": " such",
+          "start": 294.3,
+          "end": 294.58
+        },
+        {
+          "word": " as",
+          "start": 294.58,
+          "end": 295.04
+        },
+        {
+          "word": " seagulls,",
+          "start": 295.04,
+          "end": 296.21999999999997
+        },
+        {
+          "word": " flying",
+          "start": 296.3,
+          "end": 296.54
+        },
+        {
+          "word": " around",
+          "start": 296.54,
+          "end": 296.92
+        },
+        {
+          "word": " the",
+          "start": 296.92,
+          "end": 297.12
+        },
+        {
+          "word": " cliff",
+          "start": 297.12,
+          "end": 297.34
+        },
+        {
+          "word": " edges",
+          "start": 297.34,
+          "end": 297.71999999999997
+        },
+        {
+          "word": " where",
+          "start": 297.71999999999997,
+          "end": 298.06
+        },
+        {
+          "word": " they",
+          "start": 298.06,
+          "end": 298.32
+        },
+        {
+          "word": " nest.",
+          "start": 298.32,
+          "end": 298.9
+        },
+        {
+          "word": " When",
+          "start": 299.8,
+          "end": 299.96
+        },
+        {
+          "word": " we",
+          "start": 299.96,
+          "end": 300.1
+        },
+        {
+          "word": " get",
+          "start": 300.1,
+          "end": 300.32
+        }
+      ]
+    },
+    {
+      "start": 300.32,
+      "end": 306.71999999999997,
+      "text": " to the rocky area inhabited by fur seals, we'll stop and watch them swimming around",
+      "words": [
+        {
+          "word": " to",
+          "start": 300.32,
+          "end": 300.5
+        },
+        {
+          "word": " the",
+          "start": 300.5,
+          "end": 300.66
+        },
+        {
+          "word": " rocky",
+          "start": 300.66,
+          "end": 301.0
+        },
+        {
+          "word": " area",
+          "start": 301.0,
+          "end": 301.54
+        },
+        {
+          "word": " inhabited",
+          "start": 301.54,
+          "end": 302.04
+        },
+        {
+          "word": " by",
+          "start": 302.04,
+          "end": 302.6
+        },
+        {
+          "word": " fur",
+          "start": 302.6,
+          "end": 303.14
+        },
+        {
+          "word": " seals,",
+          "start": 303.14,
+          "end": 303.74
+        },
+        {
+          "word": " we'll",
+          "start": 303.98,
+          "end": 304.44
+        },
+        {
+          "word": " stop",
+          "start": 304.44,
+          "end": 304.92
+        },
+        {
+          "word": " and",
+          "start": 304.92,
+          "end": 305.28
+        },
+        {
+          "word": " watch",
+          "start": 305.28,
+          "end": 305.6
+        },
+        {
+          "word": " them",
+          "start": 305.6,
+          "end": 306.02
+        },
+        {
+          "word": " swimming",
+          "start": 306.02,
+          "end": 306.3
+        },
+        {
+          "word": " around",
+          "start": 306.3,
+          "end": 306.71999999999997
+        }
+      ]
+    },
+    {
+      "start": 306.71999999999997,
+      "end": 313.14,
+      "text": " the coast. Their inquisitive creatures, so don't be surprised if one pops up right in",
+      "words": [
+        {
+          "word": " the",
+          "start": 306.71999999999997,
+          "end": 307.04
+        },
+        {
+          "word": " coast.",
+          "start": 307.04,
+          "end": 307.46
+        },
+        {
+          "word": " Their",
+          "start": 308.3,
+          "end": 308.74
+        },
+        {
+          "word": " inquisitive",
+          "start": 308.74,
+          "end": 309.32
+        },
+        {
+          "word": " creatures,",
+          "start": 309.32,
+          "end": 309.86
+        },
+        {
+          "word": " so",
+          "start": 310.38,
+          "end": 310.4
+        },
+        {
+          "word": " don't",
+          "start": 310.4,
+          "end": 310.7
+        },
+        {
+          "word": " be",
+          "start": 310.7,
+          "end": 311.34
+        },
+        {
+          "word": " surprised",
+          "start": 311.34,
+          "end": 311.46
+        },
+        {
+          "word": " if",
+          "start": 311.46,
+          "end": 311.72
+        },
+        {
+          "word": " one",
+          "start": 311.72,
+          "end": 312.06
+        },
+        {
+          "word": " pops",
+          "start": 312.06,
+          "end": 312.34
+        },
+        {
+          "word": " up",
+          "start": 312.34,
+          "end": 312.68
+        },
+        {
+          "word": " right",
+          "start": 312.68,
+          "end": 312.96
+        },
+        {
+          "word": " in",
+          "start": 312.96,
+          "end": 313.14
+        }
+      ]
+    },
+    {
+      "start": 313.14,
+      "end": 320.56,
+      "text": " front of you. Their predators, orca whales, hunt along the coastline, too, but spotting",
+      "words": [
+        {
+          "word": " front",
+          "start": 313.14,
+          "end": 313.32
+        },
+        {
+          "word": " of",
+          "start": 313.32,
+          "end": 313.56
+        },
+        {
+          "word": " you.",
+          "start": 313.56,
+          "end": 313.94
+        },
+        {
+          "word": " Their",
+          "start": 314.7,
+          "end": 315.12
+        },
+        {
+          "word": " predators,",
+          "start": 315.12,
+          "end": 315.7
+        },
+        {
+          "word": " orca",
+          "start": 316.1,
+          "end": 316.4
+        },
+        {
+          "word": " whales,",
+          "start": 316.4,
+          "end": 316.98
+        },
+        {
+          "word": " hunt",
+          "start": 317.28,
+          "end": 317.54
+        },
+        {
+          "word": " along",
+          "start": 317.54,
+          "end": 318.04
+        },
+        {
+          "word": " the",
+          "start": 318.04,
+          "end": 318.38
+        },
+        {
+          "word": " coastline,",
+          "start": 318.38,
+          "end": 318.64
+        },
+        {
+          "word": " too,",
+          "start": 319.44,
+          "end": 319.44
+        },
+        {
+          "word": " but",
+          "start": 319.72,
+          "end": 320.24
+        },
+        {
+          "word": " spotting",
+          "start": 320.24,
+          "end": 320.56
+        }
+      ]
+    },
+    {
+      "start": 320.56,
+      "end": 326.6,
+      "text": " one of these is rare. Dolphins, on the other hand, can sometimes approach on their own,",
+      "words": [
+        {
+          "word": " one",
+          "start": 320.56,
+          "end": 320.82
+        },
+        {
+          "word": " of",
+          "start": 320.82,
+          "end": 320.96
+        },
+        {
+          "word": " these",
+          "start": 320.96,
+          "end": 321.22
+        },
+        {
+          "word": " is",
+          "start": 321.22,
+          "end": 321.6
+        },
+        {
+          "word": " rare.",
+          "start": 321.6,
+          "end": 322.32
+        },
+        {
+          "word": " Dolphins,",
+          "start": 323.22,
+          "end": 323.22
+        },
+        {
+          "word": " on",
+          "start": 323.54,
+          "end": 323.54
+        },
+        {
+          "word": " the",
+          "start": 323.54,
+          "end": 323.7
+        },
+        {
+          "word": " other",
+          "start": 323.7,
+          "end": 323.98
+        },
+        {
+          "word": " hand,",
+          "start": 323.98,
+          "end": 324.3
+        },
+        {
+          "word": " can",
+          "start": 324.65999999999997,
+          "end": 324.68
+        },
+        {
+          "word": " sometimes",
+          "start": 324.68,
+          "end": 325.2
+        },
+        {
+          "word": " approach",
+          "start": 325.2,
+          "end": 325.72
+        },
+        {
+          "word": " on",
+          "start": 325.72,
+          "end": 326.0
+        },
+        {
+          "word": " their",
+          "start": 326.0,
+          "end": 326.18
+        },
+        {
+          "word": " own,",
+          "start": 326.18,
+          "end": 326.6
+        }
+      ]
+    },
+    {
+      "start": 326.72,
+      "end": 330.4,
+      "text": " or in groups, as they ride the waves beside us.",
+      "words": [
+        {
+          "word": " or",
+          "start": 326.72,
+          "end": 326.8
+        },
+        {
+          "word": " in",
+          "start": 326.8,
+          "end": 327.06
+        },
+        {
+          "word": " groups,",
+          "start": 327.06,
+          "end": 327.48
+        },
+        {
+          "word": " as",
+          "start": 327.82,
+          "end": 327.92
+        },
+        {
+          "word": " they",
+          "start": 327.92,
+          "end": 328.15999999999997
+        },
+        {
+          "word": " ride",
+          "start": 328.15999999999997,
+          "end": 328.5
+        },
+        {
+          "word": " the",
+          "start": 328.5,
+          "end": 328.74
+        },
+        {
+          "word": " waves",
+          "start": 328.74,
+          "end": 329.12
+        },
+        {
+          "word": " beside",
+          "start": 329.12,
+          "end": 329.5
+        },
+        {
+          "word": " us.",
+          "start": 329.5,
+          "end": 330.4
+        }
+      ]
+    },
+    {
+      "start": 331.6,
+      "end": 337.98,
+      "text": " Lastly, I want to mention the caves. Tasmania is famous for its caves, and the ones",
+      "words": [
+        {
+          "word": " Lastly,",
+          "start": 331.6,
+          "end": 332.06
+        },
+        {
+          "word": " I",
+          "start": 332.14,
+          "end": 332.52
+        },
+        {
+          "word": " want",
+          "start": 332.52,
+          "end": 332.7
+        },
+        {
+          "word": " to",
+          "start": 332.7,
+          "end": 332.84
+        },
+        {
+          "word": " mention",
+          "start": 332.84,
+          "end": 333.08
+        },
+        {
+          "word": " the",
+          "start": 333.08,
+          "end": 334.0
+        },
+        {
+          "word": " caves.",
+          "start": 334.0,
+          "end": 334.0
+        },
+        {
+          "word": " Tasmania",
+          "start": 334.78,
+          "end": 335.08
+        },
+        {
+          "word": " is",
+          "start": 335.08,
+          "end": 335.72
+        },
+        {
+          "word": " famous",
+          "start": 335.72,
+          "end": 336.12
+        },
+        {
+          "word": " for",
+          "start": 336.12,
+          "end": 336.36
+        },
+        {
+          "word": " its",
+          "start": 336.36,
+          "end": 336.64
+        },
+        {
+          "word": " caves,",
+          "start": 336.64,
+          "end": 337.12
+        },
+        {
+          "word": " and",
+          "start": 337.22,
+          "end": 337.64
+        },
+        {
+          "word": " the",
+          "start": 337.64,
+          "end": 337.8
+        },
+        {
+          "word": " ones",
+          "start": 337.8,
+          "end": 337.98
+        }
+      ]
+    },
+    {
+      "start": 337.98,
+      "end": 344.54,
+      "text": " will pass by us so amazing that people are lost for words when they see them. They can only",
+      "words": [
+        {
+          "word": " will",
+          "start": 337.98,
+          "end": 338.38
+        },
+        {
+          "word": " pass",
+          "start": 338.38,
+          "end": 338.76
+        },
+        {
+          "word": " by",
+          "start": 338.76,
+          "end": 339.2
+        },
+        {
+          "word": " us",
+          "start": 339.2,
+          "end": 339.64
+        },
+        {
+          "word": " so",
+          "start": 339.64,
+          "end": 339.84
+        },
+        {
+          "word": " amazing",
+          "start": 339.84,
+          "end": 340.28
+        },
+        {
+          "word": " that",
+          "start": 340.28,
+          "end": 340.68
+        },
+        {
+          "word": " people",
+          "start": 340.68,
+          "end": 340.94
+        },
+        {
+          "word": " are",
+          "start": 340.94,
+          "end": 341.3
+        },
+        {
+          "word": " lost",
+          "start": 341.3,
+          "end": 341.46
+        },
+        {
+          "word": " for",
+          "start": 341.46,
+          "end": 341.78
+        },
+        {
+          "word": " words",
+          "start": 341.78,
+          "end": 342.12
+        },
+        {
+          "word": " when",
+          "start": 342.12,
+          "end": 342.34
+        },
+        {
+          "word": " they",
+          "start": 342.34,
+          "end": 342.56
+        },
+        {
+          "word": " see",
+          "start": 342.56,
+          "end": 342.78
+        },
+        {
+          "word": " them.",
+          "start": 342.78,
+          "end": 343.28
+        },
+        {
+          "word": " They",
+          "start": 343.74,
+          "end": 344.0
+        },
+        {
+          "word": " can",
+          "start": 344.0,
+          "end": 344.3
+        },
+        {
+          "word": " only",
+          "start": 344.3,
+          "end": 344.54
+        }
+      ]
+    },
+    {
+      "start": 344.54,
+      "end": 350.38,
+      "text": " be approached by sea, but if you feel that you want to see more than we're able to show",
+      "words": [
+        {
+          "word": " be",
+          "start": 344.54,
+          "end": 344.76
+        },
+        {
+          "word": " approached",
+          "start": 344.76,
+          "end": 345.14
+        },
+        {
+          "word": " by",
+          "start": 345.14,
+          "end": 345.7
+        },
+        {
+          "word": " sea,",
+          "start": 345.7,
+          "end": 346.22
+        },
+        {
+          "word": " but",
+          "start": 346.24,
+          "end": 346.62
+        },
+        {
+          "word": " if",
+          "start": 346.62,
+          "end": 346.94
+        },
+        {
+          "word": " you",
+          "start": 346.94,
+          "end": 347.36
+        },
+        {
+          "word": " feel",
+          "start": 347.36,
+          "end": 347.76
+        },
+        {
+          "word": " that",
+          "start": 347.76,
+          "end": 348.02
+        },
+        {
+          "word": " you",
+          "start": 348.02,
+          "end": 348.18
+        },
+        {
+          "word": " want",
+          "start": 348.18,
+          "end": 348.38
+        },
+        {
+          "word": " to",
+          "start": 348.38,
+          "end": 348.58
+        },
+        {
+          "word": " see",
+          "start": 348.58,
+          "end": 348.82
+        },
+        {
+          "word": " more",
+          "start": 348.82,
+          "end": 349.12
+        },
+        {
+          "word": " than",
+          "start": 349.12,
+          "end": 349.26
+        },
+        {
+          "word": " we're",
+          "start": 349.26,
+          "end": 349.56
+        },
+        {
+          "word": " able",
+          "start": 349.56,
+          "end": 349.76
+        },
+        {
+          "word": " to",
+          "start": 349.76,
+          "end": 350.04
+        },
+        {
+          "word": " show",
+          "start": 350.04,
+          "end": 350.38
+        }
+      ]
+    },
+    {
+      "start": 350.38,
+      "end": 358.65999999999997,
+      "text": " Then you can take a kayak into the area on another day, and one of our staff will give you more information on that.",
+      "words": [
+        {
+          "word": " Then",
+          "start": 350.38,
+          "end": 351.24
+        },
+        {
+          "word": " you",
+          "start": 351.24,
+          "end": 351.38
+        },
+        {
+          "word": " can",
+          "start": 351.38,
+          "end": 351.65999999999997
+        },
+        {
+          "word": " take",
+          "start": 351.65999999999997,
+          "end": 351.84
+        },
+        {
+          "word": " a",
+          "start": 351.84,
+          "end": 352.18
+        },
+        {
+          "word": " kayak",
+          "start": 352.18,
+          "end": 352.64
+        },
+        {
+          "word": " into",
+          "start": 352.64,
+          "end": 352.96
+        },
+        {
+          "word": " the",
+          "start": 352.96,
+          "end": 353.22
+        },
+        {
+          "word": " area",
+          "start": 353.22,
+          "end": 353.56
+        },
+        {
+          "word": " on",
+          "start": 353.56,
+          "end": 353.78
+        },
+        {
+          "word": " another",
+          "start": 353.78,
+          "end": 354.15999999999997
+        },
+        {
+          "word": " day,",
+          "start": 354.15999999999997,
+          "end": 354.68
+        },
+        {
+          "word": " and",
+          "start": 354.88,
+          "end": 355.2
+        },
+        {
+          "word": " one",
+          "start": 355.2,
+          "end": 355.42
+        },
+        {
+          "word": " of",
+          "start": 355.42,
+          "end": 355.5
+        },
+        {
+          "word": " our",
+          "start": 355.5,
+          "end": 355.84
+        },
+        {
+          "word": " staff",
+          "start": 355.84,
+          "end": 356.22
+        },
+        {
+          "word": " will",
+          "start": 356.22,
+          "end": 356.44
+        },
+        {
+          "word": " give",
+          "start": 356.44,
+          "end": 356.64
+        },
+        {
+          "word": " you",
+          "start": 356.64,
+          "end": 356.88
+        },
+        {
+          "word": " more",
+          "start": 356.88,
+          "end": 357.1
+        },
+        {
+          "word": " information",
+          "start": 357.1,
+          "end": 357.64
+        },
+        {
+          "word": " on",
+          "start": 357.64,
+          "end": 357.92
+        },
+        {
+          "word": " that.",
+          "start": 357.92,
+          "end": 358.65999999999997
+        }
+      ]
+    },
+    {
+      "start": 359.06,
+      "end": 365.18,
+      "text": " What we'll do is to go through a narrow channel, past some incredible rock formations,",
+      "words": [
+        {
+          "word": " What",
+          "start": 359.06,
+          "end": 359.3
+        },
+        {
+          "word": " we'll",
+          "start": 359.3,
+          "end": 359.68
+        },
+        {
+          "word": " do",
+          "start": 359.68,
+          "end": 360.08
+        },
+        {
+          "word": " is",
+          "start": 360.08,
+          "end": 360.52
+        },
+        {
+          "word": " to",
+          "start": 360.52,
+          "end": 360.74
+        },
+        {
+          "word": " go",
+          "start": 360.74,
+          "end": 361.03999999999996
+        },
+        {
+          "word": " through",
+          "start": 361.03999999999996,
+          "end": 361.4
+        },
+        {
+          "word": " a",
+          "start": 361.4,
+          "end": 361.78
+        },
+        {
+          "word": " narrow",
+          "start": 361.78,
+          "end": 362.12
+        },
+        {
+          "word": " channel,",
+          "start": 362.12,
+          "end": 362.78
+        },
+        {
+          "word": " past",
+          "start": 362.98,
+          "end": 363.28
+        },
+        {
+          "word": " some",
+          "start": 363.28,
+          "end": 363.65999999999997
+        },
+        {
+          "word": " incredible",
+          "start": 363.65999999999997,
+          "end": 364.28
+        },
+        {
+          "word": " rock",
+          "start": 364.28,
+          "end": 364.58
+        },
+        {
+          "word": " formations,",
+          "start": 364.58,
+          "end": 365.18
+        }
+      ]
+    },
+    {
+      "start": 365.78,
+      "end": 373.46,
+      "text": " and from there we'll be able to see the openings to the caves, and at that point we'll talk to you about what lies beyond.",
+      "words": [
+        {
+          "word": " and",
+          "start": 365.78,
+          "end": 366.02
+        },
+        {
+          "word": " from",
+          "start": 366.02,
+          "end": 366.22
+        },
+        {
+          "word": " there",
+          "start": 366.22,
+          "end": 366.62
+        },
+        {
+          "word": " we'll",
+          "start": 366.62,
+          "end": 366.86
+        },
+        {
+          "word": " be",
+          "start": 366.86,
+          "end": 367.0
+        },
+        {
+          "word": " able",
+          "start": 367.0,
+          "end": 367.24
+        },
+        {
+          "word": " to",
+          "start": 367.24,
+          "end": 367.52
+        },
+        {
+          "word": " see",
+          "start": 367.52,
+          "end": 367.78
+        },
+        {
+          "word": " the",
+          "start": 367.78,
+          "end": 368.02
+        },
+        {
+          "word": " openings",
+          "start": 368.02,
+          "end": 368.42
+        },
+        {
+          "word": " to",
+          "start": 368.42,
+          "end": 368.76
+        },
+        {
+          "word": " the",
+          "start": 368.76,
+          "end": 369.1
+        },
+        {
+          "word": " caves,",
+          "start": 369.1,
+          "end": 369.34000000000003
+        },
+        {
+          "word": " and",
+          "start": 369.6,
+          "end": 369.94
+        },
+        {
+          "word": " at",
+          "start": 369.94,
+          "end": 370.06
+        },
+        {
+          "word": " that",
+          "start": 370.06,
+          "end": 370.28
+        },
+        {
+          "word": " point",
+          "start": 370.28,
+          "end": 370.84000000000003
+        },
+        {
+          "word": " we'll",
+          "start": 370.84000000000003,
+          "end": 371.15999999999997
+        },
+        {
+          "word": " talk",
+          "start": 371.15999999999997,
+          "end": 371.42
+        },
+        {
+          "word": " to",
+          "start": 371.42,
+          "end": 371.56
+        },
+        {
+          "word": " you",
+          "start": 371.56,
+          "end": 371.72
+        },
+        {
+          "word": " about",
+          "start": 371.72,
+          "end": 372.02
+        },
+        {
+          "word": " what",
+          "start": 372.02,
+          "end": 372.38
+        },
+        {
+          "word": " lies",
+          "start": 372.38,
+          "end": 372.78
+        },
+        {
+          "word": " beyond.",
+          "start": 372.78,
+          "end": 373.46
+        }
+      ]
+    },
+    {
+      "start": 376.46,
+      "end": 378.9,
+      "text": " That is the end of Part 2.",
+      "words": [
+        {
+          "word": " That",
+          "start": 376.46,
+          "end": 377.03999999999996
+        },
+        {
+          "word": " is",
+          "start": 377.03999999999996,
+          "end": 377.22
+        },
+        {
+          "word": " the",
+          "start": 377.22,
+          "end": 377.42
+        },
+        {
+          "word": " end",
+          "start": 377.42,
+          "end": 377.7
+        },
+        {
+          "word": " of",
+          "start": 377.7,
+          "end": 377.98
+        },
+        {
+          "word": " Part",
+          "start": 377.98,
+          "end": 378.24
+        },
+        {
+          "word": " 2.",
+          "start": 378.24,
+          "end": 378.9
+        }
+      ]
+    },
+    {
+      "start": 379.18,
+      "end": 383.22,
+      "text": " You now have half a minute to check your answers to Part 2.",
+      "words": [
+        {
+          "word": " You",
+          "start": 379.18,
+          "end": 379.48
+        },
+        {
+          "word": " now",
+          "start": 379.48,
+          "end": 379.8
+        },
+        {
+          "word": " have",
+          "start": 379.8,
+          "end": 380.12
+        },
+        {
+          "word": " half",
+          "start": 380.12,
+          "end": 380.46
+        },
+        {
+          "word": " a",
+          "start": 380.46,
+          "end": 380.68
+        },
+        {
+          "word": " minute",
+          "start": 380.68,
+          "end": 380.92
+        },
+        {
+          "word": " to",
+          "start": 380.92,
+          "end": 381.28
+        },
+        {
+          "word": " check",
+          "start": 381.28,
+          "end": 381.53999999999996
+        },
+        {
+          "word": " your",
+          "start": 381.53999999999996,
+          "end": 381.78
+        },
+        {
+          "word": " answers",
+          "start": 381.78,
+          "end": 382.14
+        },
+        {
+          "word": " to",
+          "start": 382.14,
+          "end": 382.5
+        },
+        {
+          "word": " Part",
+          "start": 382.5,
+          "end": 382.72
+        },
+        {
+          "word": " 2.",
+          "start": 382.72,
+          "end": 383.22
+        }
+      ]
+    }
+  ]
+}

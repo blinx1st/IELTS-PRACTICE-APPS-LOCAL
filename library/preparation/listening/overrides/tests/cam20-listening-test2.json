@@ -1,0 +1,829 @@
+{
+  "id": "cam20-listening-test2",
+  "skill": "listening",
+  "book": 20,
+  "test": 2,
+  "title": "Cambridge 20 · Listening Test 2",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam20-t2-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t2-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-022.webp",
+              "page": 22
+            },
+            {
+              "url": "/library-assets/l-cam20-source-023.webp",
+              "page": 23
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 22
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 23
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Local councils can arrange practical support to help those caring for elderly\npeople at home.\nThis can give the carer:\n\ntime for other responsibilities\n\na ",
+                  {
+                    "number": 1
+                  },
+                  "\nAssessment of mother’s needs\nThis may include discussion of:\n\nhow much ",
+                  {
+                    "number": 2
+                  },
+                  " the caring involves\n\nwhat types of tasks are involved, e.g.\no help with dressing\no helping her have a ",
+                  {
+                    "number": 3
+                  },
+                  "\no shopping\no helping with meals\no dealing with ",
+                  {
+                    "number": 4
+                  },
+                  "\n\nany aspects of caring that are especially difficult, e.g.\no loss of ",
+                  {
+                    "number": 5
+                  },
+                  "\no ",
+                  {
+                    "number": 6
+                  },
+                  " her\no preventing a ",
+                  {
+                    "number": 7
+                  },
+                  "\nTypes of support that may be offered to carers\n\ntransport costs, e.g. cost of a ",
+                  {
+                    "number": 8
+                  },
+                  "\n\ncar-related costs, e.g. fuel and ",
+                  {
+                    "number": 9
+                  },
+                  "\n\nhelp with housework\n\nhelp to reduce ",
+                  {
+                    "number": 10
+                  },
+                  ""
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-022.webp",
+          "page": 22
+        },
+        {
+          "url": "/library-assets/l-cam20-source-023.webp",
+          "page": 23
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 22
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 23
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/8c0b0821563da09bd9fadd5543f7ef15d091a4a7c13ac0d59b68be246e4893e9.m4a",
+        "sha256": "8c0b0821563da09bd9fadd5543f7ef15d091a4a7c13ac0d59b68be246e4893e9",
+        "duration": 408.253,
+        "start": 46.9,
+        "end": 408.253,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S1.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t2-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t2-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t2-p2-q11-16",
+          "type": "matching",
+          "heading": "Questions 11–16",
+          "instructions": "What is the role of the volunteers in each of the following activities? Choose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "walking around the town centre"
+            },
+            {
+              "number": 12,
+              "text": "helping at concerts"
+            },
+            {
+              "number": 13,
+              "text": "getting involved with community groups"
+            },
+            {
+              "number": 14,
+              "text": "helping with a magazine"
+            },
+            {
+              "number": 15,
+              "text": "participating at lunches for retired people"
+            },
+            {
+              "number": 16,
+              "text": "helping with the website"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-023.webp",
+              "page": 23
+            },
+            {
+              "url": "/library-assets/l-cam20-source-024.webp",
+              "page": 24
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 23
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 24
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "providing entertainment"
+            },
+            {
+              "value": "B",
+              "label": "providing publicity about a council service"
+            },
+            {
+              "value": "C",
+              "label": "contacting local businesses"
+            },
+            {
+              "value": "D",
+              "label": "giving advice to visitors"
+            },
+            {
+              "value": "E",
+              "label": "collecting feedback on events"
+            },
+            {
+              "value": "F",
+              "label": "selling tickets"
+            },
+            {
+              "value": "G",
+              "label": "introducing guest speakers at an event"
+            },
+            {
+              "value": "H",
+              "label": "encouraging cooperation between local organisations"
+            },
+            {
+              "value": "I",
+              "label": "helping people find their seats"
+            }
+          ]
+        },
+        {
+          "id": "l-cam20-t2-p2-q17-20",
+          "type": "choice",
+          "heading": "Questions 17–20",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 17,
+              "text": "Which event requires the largest number of volunteers?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the music festival"
+                },
+                {
+                  "value": "B",
+                  "label": "the science festival"
+                },
+                {
+                  "value": "C",
+                  "label": "the book festival"
+                }
+              ]
+            },
+            {
+              "number": 18,
+              "text": "What is the most important requirement for volunteers at the festivals?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "interpersonal skills"
+                },
+                {
+                  "value": "B",
+                  "label": "personal interest in the event"
+                },
+                {
+                  "value": "C",
+                  "label": "flexibility"
+                }
+              ]
+            },
+            {
+              "number": 19,
+              "text": "New volunteers will start working in the week beginning",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "2 September"
+                },
+                {
+                  "value": "B",
+                  "label": "9 September"
+                },
+                {
+                  "value": "C",
+                  "label": "23 September"
+                }
+              ]
+            },
+            {
+              "number": 20,
+              "text": "What is the next annual event for volunteers?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a boat trip"
+                },
+                {
+                  "value": "B",
+                  "label": "a barbecue"
+                },
+                {
+                  "value": "C",
+                  "label": "a party"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-023.webp",
+              "page": 23
+            },
+            {
+              "url": "/library-assets/l-cam20-source-024.webp",
+              "page": 24
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 23
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 24
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-023.webp",
+          "page": 23
+        },
+        {
+          "url": "/library-assets/l-cam20-source-024.webp",
+          "page": 24
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 23
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 24
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/a6486d18b0e99da395ed969c47ed17eb600a26c0715a0ba73b1a7196e31c0f94.m4a",
+        "sha256": "a6486d18b0e99da395ed969c47ed17eb600a26c0715a0ba73b1a7196e31c0f94",
+        "duration": 428.896,
+        "start": 0,
+        "end": 428.896,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S2.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t2-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t2-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t2-p3-q21-25",
+          "type": "matching",
+          "heading": "Questions 21–25",
+          "instructions": "What is Rosie and Colin’s opinion about each of the following aspects of human geography? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 21-25. Aspects of human geography",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Population"
+            },
+            {
+              "number": 22,
+              "text": "Health"
+            },
+            {
+              "number": 23,
+              "text": "Economies"
+            },
+            {
+              "number": 24,
+              "text": "Culture"
+            },
+            {
+              "number": 25,
+              "text": "Poverty"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-025.webp",
+              "page": 25
+            },
+            {
+              "url": "/library-assets/l-cam20-source-026.webp",
+              "page": 26
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 25
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 26
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "The information given about this was too vague"
+            },
+            {
+              "value": "B",
+              "label": "This may not be relevant to their course"
+            },
+            {
+              "value": "C",
+              "label": "This will involve only a small number of statistics"
+            },
+            {
+              "value": "D",
+              "label": "It will be easy to find facts about this"
+            },
+            {
+              "value": "E",
+              "label": "The facts about this may not be reliable"
+            },
+            {
+              "value": "F",
+              "label": "No useful research has been done on this"
+            },
+            {
+              "value": "G",
+              "label": "The information provided about this was interesting"
+            }
+          ]
+        },
+        {
+          "id": "l-cam20-t2-p3-q26-30",
+          "type": "choice",
+          "heading": "Questions 26–30",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 26,
+              "text": "Rosie says that in her own city the main problem is",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "crime"
+                },
+                {
+                  "value": "B",
+                  "label": "housing"
+                },
+                {
+                  "value": "C",
+                  "label": "unemployment"
+                }
+              ]
+            },
+            {
+              "number": 27,
+              "text": "What recent additions to the outskirts of their cities are both students happy about?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "conference centres"
+                },
+                {
+                  "value": "B",
+                  "label": "sports centres"
+                },
+                {
+                  "value": "C",
+                  "label": "retail centres"
+                }
+              ]
+            },
+            {
+              "number": 28,
+              "text": "The students agree that developing disused industrial sites may",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "have unexpected costs"
+                },
+                {
+                  "value": "B",
+                  "label": "damage the urban environment"
+                },
+                {
+                  "value": "C",
+                  "label": "destroy valuable historical buildings"
+                }
+              ]
+            },
+            {
+              "number": 29,
+              "text": "The students will mention Masdar City as an example of an attempt to achieve",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "daily collections for waste recycling"
+                },
+                {
+                  "value": "B",
+                  "label": "sustainable energy use"
+                },
+                {
+                  "value": "C",
+                  "label": "free transport for everyone"
+                }
+              ]
+            },
+            {
+              "number": 30,
+              "text": "When discussing the ecotown of Greenhill Abbots, Colin is uncertain about",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "what its objectives were"
+                },
+                {
+                  "value": "B",
+                  "label": "why there was opposition to it"
+                },
+                {
+                  "value": "C",
+                  "label": "how much of it has actually been built"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-025.webp",
+              "page": 25
+            },
+            {
+              "url": "/library-assets/l-cam20-source-026.webp",
+              "page": 26
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 25
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 26
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-025.webp",
+          "page": 25
+        },
+        {
+          "url": "/library-assets/l-cam20-source-026.webp",
+          "page": 26
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 25
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 26
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/94195b59fb813a7331e6a0f3f310d2e5898d8f8c847e4261f604e70ca2f1c52c.m4a",
+        "sha256": "94195b59fb813a7331e6a0f3f310d2e5898d8f8c847e4261f604e70ca2f1c52c",
+        "duration": 422.441,
+        "start": 0,
+        "end": 422.441,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S3.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t2-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t2-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam20-t2-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam20-t2-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam20-source-026.webp",
+              "page": 26
+            },
+            {
+              "url": "/library-assets/l-cam20-source-027.webp",
+              "page": 27
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 26
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+              "page": 27
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Developing food trend\n\nThe growth in interest in food fashions started with ",
+                  {
+                    "number": 31
+                  },
+                  " of\nfood being shared on social media.\n\nThe UK food industry is constantly developing products which are new or\ndifferent.\n\nInfluencers on social media become 'ambassadors' for a brand.\no Sales of ",
+                  {
+                    "number": 32
+                  },
+                  " food brands have grown rapidly this\nway.\n\nSupermarkets track demand for ingredients on social media.\no Famous ",
+                  {
+                    "number": 33
+                  },
+                  " are influential.\nMarketing campaigns\n\nThe avocado:\no ",
+                  {
+                    "number": 34
+                  },
+                  " were invited to visit growers in South Africa.\no Advertising focused on its ",
+                  {
+                    "number": 35
+                  },
+                  " benefits.\n\nOat milk:\no A Swedish brand’s media campaign received publicity by upsetting\ncompetitors.\no Promotion in the USA through ",
+                  {
+                    "number": 36
+                  },
+                  " shops reduced\nthe need for advertising.\no It appealed to consumers who are concerned about the ",
+                  {
+                    "number": 37
+                  },
+                  ".\n\nNorwegian skrei:\no has helped strengthen the ",
+                  {
+                    "number": 38
+                  },
+                  " of Norwegian\nseafood.\nEthical concerns\n\nQuinoa:\no Its success led to an increase in its ",
+                  {
+                    "number": 39
+                  },
+                  ".\no Overuse of resources resulted in poor quality ",
+                  {
+                    "number": 40
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam20-source-026.webp",
+          "page": 26
+        },
+        {
+          "url": "/library-assets/l-cam20-source-027.webp",
+          "page": 27
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 26
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+          "page": 27
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/4961bf01e80566290d5826e2b08c1abc7ce1ec2d48989f7d590b04286dca15fa.m4a",
+        "sha256": "4961bf01e80566290d5826e2b08c1abc7ce1ec2d48989f7d590b04286dca15fa",
+        "duration": 571.466,
+        "start": 0,
+        "end": 468.3,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S4.m4a",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam20/audio-t2-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam20/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

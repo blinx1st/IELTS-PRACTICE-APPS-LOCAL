@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/fd994ca01e1f98bf34f7d6c9cf4ef90ebbe32d81db65076c6a98ab5ae86aa0ad.mp3",
+    "sha256": "fd994ca01e1f98bf34f7d6c9cf4ef90ebbe32d81db65076c6a98ab5ae86aa0ad",
+    "duration": 355.247,
+    "start": 0,
+    "end": 355.247,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3 You will hear two business students discussing automation and the future of work. First you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. That seminar yesterday on automation and the future of work was really good wasn't it? Looking at the first industrial revolution in Britain in the 19th century and seeing how people reacted to massive change was a real eye opener. Yes. It was interesting to hear how people felt about automation then, and what challenges they faced. I didn't know that first started with workers in the textile industry. With those protesting workers called the luddites, destroying their knitting machines because they were so worried about losing their jobs. Yes, and ultimately they didn't achieve anything. And anyway, industrialisation created more jobs than it destroyed. Yes, that's true. But it probably didn't seem a positive thing at the time. I can see why the Luddites felt so threatened. I know. I'm sure I would have felt the same. The discussion about the future of work was really optimistic for a change."
+    },
+    {
+      "name": "ending",
+      "start": 290.247,
+      "end": 355.247,
+      "text": "But now, of course, this sector will see huge growth. Yeah, and it's hard enough to meet current demand. The future looks quite bleak for bank clerks. They've been in decline since ATMs were introduced in the 80s. And technology will certainly make most of the jobs they do now redundant, I think. I agree. Although the situation may change, it's very hard to predict what will happen. That is the end of part 3. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

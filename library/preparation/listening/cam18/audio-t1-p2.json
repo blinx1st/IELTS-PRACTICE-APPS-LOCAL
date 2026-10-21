@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/8a06d26cbf606f37da5c6aef2c55f6e13bb8db4e59a5bfb30a60b8d85562ec98.mp3",
+    "sha256": "8a06d26cbf606f37da5c6aef2c55f6e13bb8db4e59a5bfb30a60b8d85562ec98",
+    "duration": 398.088,
+    "start": 0,
+    "end": 398.088,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 1\\CAMBRIDGE 18 section1-part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a woman speaking to a group of people who are interested in becoming volunteers for an organization called ACE. First you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15. Good evening, everyone. Let me start by welcoming you all to this talk and thanking you for taking the time to consider joining ACE Voluntary Organization. ACE offers support to people and services in the local area, and we're now looking for more volunteers to help us do this. By the way, I hope you're all comfortable. We have brought in extra seats so that no one has to stand, but it does mean that the people at the back of the room may be a bit squashed. We'll only be here for about half an hour, so hopefully that's okay. One of the first questions we're often asked is how old you need to be?"
+    },
+    {
+      "name": "ending",
+      "start": 333.088,
+      "end": 398.088,
+      "text": "The last area I'll mention today is First Aid. Volunteers who join this group can end up teaching others in vulnerable groups who may be at risk of injury. Initially though, your priority will be to take in a lot of information and not forget any important steps or details. Right, so does anyone have any questions for me about it? That is the end of part 2. You now have 30 seconds to check your answers to part 2."
+    }
+  ]
+}

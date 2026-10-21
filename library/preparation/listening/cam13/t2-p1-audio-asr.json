@@ -1,0 +1,192 @@
+{
+  "book": 13,
+  "test": 2,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_05.mp3",
+  "sha256": "d03f53f824401f5f3c70216496ca5751b1f5cdd5f821f3623a38a7d42d12daf3",
+  "duration": 520.936,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      421.7175625,
+      521.7175625
+    ]
+  ],
+  "text": "Test 2. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to Section 1. Section 1. You will hear a woman firming the secretary of a cycling club to find out about becoming a member. becoming a member. First, you have some time to look at questions 1 to 6. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Hello, South City Cycling Club. Oh, hi. I want to find out about joining the club. Right, I can help you there. I'm the club secretary and my name's Jim Hunter. always, but you don't really need one, the group members on the right support one another anyway. How would we know where to go? If you check the club website, you'll see that the route for each ride is clearly marked, so you can just print that out and take it along with you. It's similar from one week to another, but it's not always exactly the same. And what do I need to bring? Mmm, well, bring a bottle of water and your phone. You shouldn't use it while you're cycling, but have it with you. Right. And in winter, it's well before sunrise when we set out, so you need to make sure your bike's got lights. That's okay. Well, thanks, Jim. I definitely like to join. So what's the best way of going about it? Ah, you can... That is the end of section 1. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.84,
+      "text": "Test 2. You will hear a number of different recordings, and you will have to answer questions"
+    },
+    {
+      "start": 7.84,
+      "end": 14.0,
+      "text": "on what you hear. There will be time for you to read the instructions and questions,"
+    },
+    {
+      "start": 14.72,
+      "end": 21.84,
+      "text": "and you will have a chance to check your work. All the recordings will be played once only."
+    },
+    {
+      "start": 21.84,
+      "end": 25.84,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 25.84,
+      "end": 33.84,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet."
+    },
+    {
+      "start": 33.84,
+      "end": 37.84,
+      "text": "Now turn to Section 1."
+    },
+    {
+      "start": 37.84,
+      "end": 44.84,
+      "text": "Section 1."
+    },
+    {
+      "start": 44.84,
+      "end": 50.84,
+      "text": "You will hear a woman firming the secretary of a cycling club to find out about becoming a member."
+    },
+    {
+      "start": 50.84,
+      "end": 57.08,
+      "text": "becoming a member. First, you have some time to look at questions 1 to 6."
+    },
+    {
+      "start": 80.84,
+      "end": 92.52,
+      "text": "You will see that there is an example that has been done for you."
+    },
+    {
+      "start": 92.52,
+      "end": 101.4,
+      "text": "On this occasion only, the conversation relating to this will be played first."
+    },
+    {
+      "start": 101.4,
+      "end": 104.0,
+      "text": "Hello, South City Cycling Club."
+    },
+    {
+      "start": 104.0,
+      "end": 106.2,
+      "text": "Oh, hi."
+    },
+    {
+      "start": 106.2,
+      "end": 109.16,
+      "text": "I want to find out about joining the club."
+    },
+    {
+      "start": 109.16,
+      "end": 115.0,
+      "text": "Right, I can help you there. I'm the club secretary and my name's Jim Hunter."
+    },
+    {
+      "start": 421.72,
+      "end": 427.84,
+      "text": "always, but you don't really need one, the group members on the right support one another"
+    },
+    {
+      "start": 427.84,
+      "end": 428.84,
+      "text": "anyway."
+    },
+    {
+      "start": 428.84,
+      "end": 431.44,
+      "text": "How would we know where to go?"
+    },
+    {
+      "start": 431.44,
+      "end": 437.56,
+      "text": "If you check the club website, you'll see that the route for each ride is clearly marked,"
+    },
+    {
+      "start": 437.56,
+      "end": 443.12,
+      "text": "so you can just print that out and take it along with you. It's similar from one week"
+    },
+    {
+      "start": 443.12,
+      "end": 446.96,
+      "text": "to another, but it's not always exactly the same."
+    },
+    {
+      "start": 446.96,
+      "end": 449.16,
+      "text": "And what do I need to bring?"
+    },
+    {
+      "start": 449.16,
+      "end": 453.16,
+      "text": "Mmm, well, bring a bottle of water and your phone."
+    },
+    {
+      "start": 453.16,
+      "end": 457.0,
+      "text": "You shouldn't use it while you're cycling, but have it with you."
+    },
+    {
+      "start": 457.0,
+      "end": 457.96,
+      "text": "Right."
+    },
+    {
+      "start": 457.96,
+      "end": 462.28,
+      "text": "And in winter, it's well before sunrise when we set out,"
+    },
+    {
+      "start": 462.28,
+      "end": 465.72,
+      "text": "so you need to make sure your bike's got lights."
+    },
+    {
+      "start": 465.72,
+      "end": 467.4,
+      "text": "That's okay."
+    },
+    {
+      "start": 467.4,
+      "end": 470.76,
+      "text": "Well, thanks, Jim. I definitely like to join."
+    },
+    {
+      "start": 470.76,
+      "end": 473.08,
+      "text": "So what's the best way of going about it?"
+    },
+    {
+      "start": 473.08,
+      "end": 473.88,
+      "text": "Ah, you can..."
+    },
+    {
+      "start": 473.88,
+      "end": 478.88,
+      "text": "That is the end of section 1."
+    },
+    {
+      "start": 478.88,
+      "end": 483.88,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 503.88,
+      "end": 516.52,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

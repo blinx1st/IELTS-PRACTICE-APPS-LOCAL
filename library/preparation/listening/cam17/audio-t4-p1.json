@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/71afa448e10ad21ee5cdefcaad498cc743242c170543ec9f02dcd5782653aa5a.mp3",
+    "sha256": "71afa448e10ad21ee5cdefcaad498cc743242c170543ec9f02dcd5782653aa5a",
+    "duration": 382.233,
+    "start": 0,
+    "end": 382.233,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T4P1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 4. This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to the answer sheet. Now turn to part 1. Part 1. You will hear a man phoning to inquire about a cleaning service for his apartment. First, you have some time to look at questions 1 to 5. Now listen carefully and answer questions one to five. Hello, easy life cleaning services. Just into speaking. Oh, hello. I'm looking for a cleaning service for my apartment. Do you do domestic cleaning? Sure. Well, it's just a one bedroom flat. Do you have a basic cleaning package? Yes. For a one bedroom flat."
+    },
+    {
+      "name": "ending",
+      "start": 317.233,
+      "end": 382.233,
+      "text": "We ask all our clients to complete a review of their performance after every visit and to email it to us. So we can pick up any problems straight away and deal with them. Okay, well, that all sounds good. And will I always have the same cleaner? Yes, we do our best to organise it that way and we usually manage it. Good, that's fine. Right, so I'd like to go ahead and... That is the end of part 1. You now have half a minute to check your answers to part 1."
+    }
+  ]
+}

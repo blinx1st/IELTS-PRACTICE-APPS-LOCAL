@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/7a6dec6583aeb9b1448cf86945892727a05d767bd1199fe989b5749871c2b908.mp3",
+    "sha256": "7a6dec6583aeb9b1448cf86945892727a05d767bd1199fe989b5749871c2b908",
+    "duration": 414.368,
+    "start": 0,
+    "end": 414.368,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 3. This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be be given ten minutes to transfer your answers to the answer sheet. Now turn to part one. Part one. You will hear a man called Jack giving advice to a friend about surfing holidays. First you have some time to look at questions one to six. Now listen carefully and answer questions 1 to 6. Jack, I'm thinking of taking the kids to the seaside on a surfing holiday this summer, and I wanted to ask your advice. As I know, you're such an expert. Well, I don't know."
+    },
+    {
+      "name": "ending",
+      "start": 349.368,
+      "end": 414.368,
+      "text": "board. But you can save about 40 euros if you hire by the week. That's not too bad. No. It's important to make sure you get good quality wetsuits. You're all get too cold if you don't and make sure you also get boots. They keep your feet warm and it's easier to surf with them on too. Okay well thanks very much for that. That is the end of Part 1. You now have half a minute to check your answers to Part 1."
+    }
+  ]
+}

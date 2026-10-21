@@ -1,0 +1,994 @@
+{
+  "id": "cam16-listening-test1",
+  "skill": "listening",
+  "book": 16,
+  "test": 1,
+  "title": "Cambridge 16 · Listening Test 1",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam16-listening-test1-p1",
+      "number": 1,
+      "title": "Children’s Engineering Workshops",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t1-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Create a cover for an … so they can drop it from a height without breaking it."
+            },
+            {
+              "number": 2,
+              "text": "Take part in a competition to build the tallest …."
+            },
+            {
+              "number": 3,
+              "text": "Make a … powered by a balloon."
+            },
+            {
+              "number": 4,
+              "text": "Build model cars, trucks and … and learn how to program them so they can move."
+            },
+            {
+              "number": 5,
+              "text": "Take part in a competition to build the longest … using card and wood."
+            },
+            {
+              "number": 6,
+              "text": "Create a short … with special software."
+            },
+            {
+              "number": 7,
+              "text": "Build, … and program a humanoid robot."
+            },
+            {
+              "number": 8,
+              "text": "Held on … from 10 am to 11 am"
+            },
+            {
+              "number": 9,
+              "text": "Building 10A, … Industrial Estate, Grasford"
+            },
+            {
+              "number": 10,
+              "text": "Plenty of … is available."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-011.webp",
+              "page": 11
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Children’s Engineering Workshops"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Tiny Engineers (ages 4–5)"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Activities"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Create a cover for an ",
+                  {
+                    "number": 1
+                  },
+                  " so they can drop it from a height without breaking it."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Take part in a competition to build the tallest ",
+                  {
+                    "number": 2
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Make a ",
+                  {
+                    "number": 3
+                  },
+                  " powered by a balloon."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Junior Engineers (ages 6–8)"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Activities:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Build model cars, trucks and ",
+                  {
+                    "number": 4
+                  },
+                  " and learn how to program them so they can move."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Take part in a competition to build the longest ",
+                  {
+                    "number": 5
+                  },
+                  " using card and wood."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Create a short ",
+                  {
+                    "number": 6
+                  },
+                  " with special software."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Build, ",
+                  {
+                    "number": 7
+                  },
+                  " and program a humanoid robot."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cost for a five-week block: £50"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Held on ",
+                  {
+                    "number": 8
+                  },
+                  " from 10 am to 11 am"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Location"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Building 10A, ",
+                  {
+                    "number": 9
+                  },
+                  " Industrial Estate, Grasford"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Plenty of ",
+                  {
+                    "number": 10
+                  },
+                  " is available."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-011.webp",
+          "page": 11
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 11
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/0ab5c21d09421649106c432304c5c3b471064a373348d9a6705e95488e6f989d.mp3",
+        "sha256": "0ab5c21d09421649106c432304c5c3b471064a373348d9a6705e95488e6f989d",
+        "duration": 422.04,
+        "start": 52.28,
+        "end": 422.04,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t1-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test1-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t1-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Stevenson’s was founded in",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "1923."
+                },
+                {
+                  "value": "B",
+                  "label": "1924."
+                },
+                {
+                  "value": "C",
+                  "label": "1926."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "Originally, Stevenson’s manufactured goods for",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the healthcare industry."
+                },
+                {
+                  "value": "B",
+                  "label": "the automotive industry."
+                },
+                {
+                  "value": "C",
+                  "label": "the machine tools industry."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "What does the speaker say about the company premises?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "The company has recently moved."
+                },
+                {
+                  "value": "B",
+                  "label": "The company has no plans to move."
+                },
+                {
+                  "value": "C",
+                  "label": "The company is going to move shortly."
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "The programme for the work experience group includes",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "time to do research."
+                },
+                {
+                  "value": "B",
+                  "label": "meetings with a teacher."
+                },
+                {
+                  "value": "C",
+                  "label": "talks by staff."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-012.webp",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t1-p2-g15",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "Label the map/plan below. Write the correct letter, A–J, next to Questions 15–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "coffee room"
+            },
+            {
+              "number": 16,
+              "text": "warehouse"
+            },
+            {
+              "number": 17,
+              "text": "staff canteen"
+            },
+            {
+              "number": 18,
+              "text": "meeting room"
+            },
+            {
+              "number": 19,
+              "text": "human resources"
+            },
+            {
+              "number": 20,
+              "text": "boardroom"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-013.webp",
+              "page": 13
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            },
+            {
+              "value": "I",
+              "label": "I"
+            },
+            {
+              "value": "J",
+              "label": "J"
+            }
+          ],
+          "renderMode": "source-map",
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam16-page-013.webp",
+              "page": 13
+            },
+            "labels": [
+              {
+                "number": 15,
+                "x": 0.367,
+                "y": 0.713,
+                "width": 0.095
+              },
+              {
+                "number": 16,
+                "x": 0.367,
+                "y": 0.7405,
+                "width": 0.095
+              },
+              {
+                "number": 17,
+                "x": 0.367,
+                "y": 0.768,
+                "width": 0.095
+              },
+              {
+                "number": 18,
+                "x": 0.367,
+                "y": 0.7955,
+                "width": 0.095
+              },
+              {
+                "number": 19,
+                "x": 0.367,
+                "y": 0.823,
+                "width": 0.095
+              },
+              {
+                "number": 20,
+                "x": 0.367,
+                "y": 0.8505,
+                "width": 0.095
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-012.webp",
+          "page": 12
+        },
+        {
+          "url": "/library-assets/l-cam16-page-013.webp",
+          "page": 13
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 12
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 13
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/b0d054228360331ae0d3b03e5a61d1f52e72071bfab1194099dde9e73d9ffaef.mp3",
+        "sha256": "b0d054228360331ae0d3b03e5a61d1f52e72071bfab1194099dde9e73d9ffaef",
+        "duration": 416.9,
+        "start": 0,
+        "end": 416.9,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t1-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test1-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t1-p3-g21",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?"
+            },
+            {
+              "number": 22,
+              "text": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-014.webp",
+              "page": 14
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "the Bird Park visit"
+            },
+            {
+              "value": "B",
+              "label": "the workshop sessions"
+            },
+            {
+              "value": "C",
+              "label": "the Natural History Museum visit"
+            },
+            {
+              "value": "D",
+              "label": "the projects done in previous years"
+            },
+            {
+              "value": "E",
+              "label": "the handouts with research sources"
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t1-p3-g23",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "In which TWO ways do both Jess and Tom decide to change their proposals?",
+          "questions": [
+            {
+              "number": 23,
+              "text": "In which TWO ways do both Jess and Tom decide to change their proposals?"
+            },
+            {
+              "number": 24,
+              "text": "In which TWO ways do both Jess and Tom decide to change their proposals?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-014.webp",
+              "page": 14
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "by giving a rationale for their action plans"
+            },
+            {
+              "value": "B",
+              "label": "by being less specific about the outcome"
+            },
+            {
+              "value": "C",
+              "label": "by adding a video diary presentation"
+            },
+            {
+              "value": "D",
+              "label": "by providing a timeline and a mind map"
+            },
+            {
+              "value": "E",
+              "label": "by making their notes more evaluative"
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t1-p3-g25",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "Which personal meaning do the students decide to give to each of the following pictures? Choose SIX answers from the box and write the correct letter, A-H, next to . Personal meanings",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Falcon (Landseer)"
+            },
+            {
+              "number": 26,
+              "text": "Fish hawk (Audubon)"
+            },
+            {
+              "number": 27,
+              "text": "Kingfisher (van Gogh)"
+            },
+            {
+              "number": 28,
+              "text": "Portrait of William Wells"
+            },
+            {
+              "number": 29,
+              "text": "Vairumati (Gauguin)"
+            },
+            {
+              "number": 30,
+              "text": "Portrait of Giovanni de Medici"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-015.webp",
+              "page": 15
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "a childhood memory"
+            },
+            {
+              "value": "B",
+              "label": "hope for the future"
+            },
+            {
+              "value": "C",
+              "label": "fast movement"
+            },
+            {
+              "value": "D",
+              "label": "a potential threat"
+            },
+            {
+              "value": "E",
+              "label": "the power of colour"
+            },
+            {
+              "value": "F",
+              "label": "the continuity of life"
+            },
+            {
+              "value": "G",
+              "label": "protection of nature"
+            },
+            {
+              "value": "H",
+              "label": "a confused attitude to nature"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-014.webp",
+          "page": 14
+        },
+        {
+          "url": "/library-assets/l-cam16-page-015.webp",
+          "page": 15
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 14
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 15
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/8b19aaa56d6f41e566014d2f408c5f36b4872a41e3d5cb5158f934dc5c01b796.mp3",
+        "sha256": "8b19aaa56d6f41e566014d2f408c5f36b4872a41e3d5cb5158f934dc5c01b796",
+        "duration": 401.4,
+        "start": 0,
+        "end": 401.4,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t1-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test1-p4",
+      "number": 4,
+      "title": "Stoicism",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t1-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "Stoicism is still relevant today because of its … appeal."
+            },
+            {
+              "number": 32,
+              "text": "The Stoics’ ideas are surprisingly well known, despite not being intended for …."
+            },
+            {
+              "number": 33,
+              "text": "Epictetus said that external events cannot be controlled but the … people make in response can be controlled."
+            },
+            {
+              "number": 34,
+              "text": "A Stoic is someone who has a different view on experiences which others would consider as …."
+            },
+            {
+              "number": 35,
+              "text": "George Washington organised a … about Cato to motivate his men."
+            },
+            {
+              "number": 36,
+              "text": "Adam Smith’s ideas on … were influenced by Stoicism."
+            },
+            {
+              "number": 37,
+              "text": "– the treatment for … is based on ideas from Stoicism"
+            },
+            {
+              "number": 38,
+              "text": "– people learn to base their thinking on …."
+            },
+            {
+              "number": 39,
+              "text": "In business, people benefit from Stoicism by identifying obstacles as …."
+            },
+            {
+              "number": 40,
+              "text": "It requires a lot of … but Stoicism can help people to lead a good life."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-016.webp",
+              "page": 16
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Stoicism"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Stoicism is still relevant today because of its ",
+                  {
+                    "number": 31
+                  },
+                  " appeal."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Stoics"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Stoicism was founded over 2,000 years ago in Greece."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The Stoics’ ideas are surprisingly well known, despite not being intended for ",
+                  {
+                    "number": 32
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Stoic principles"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Happiness could be achieved by leading a virtuous life."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Controlling emotions was essential."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Epictetus said that external events cannot be controlled but the ",
+                  {
+                    "number": 33
+                  },
+                  " people make in response can be controlled."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A Stoic is someone who has a different view on experiences which others would consider as ",
+                  {
+                    "number": 34
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The influence of Stoicism"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "George Washington organised a ",
+                  {
+                    "number": 35
+                  },
+                  " about Cato to motivate his men."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The French artist Delacroix was a Stoic."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Adam Smith’s ideas on ",
+                  {
+                    "number": 36
+                  },
+                  " were influenced by Stoicism."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Some of today’s political leaders are inspired by the Stoics."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cognitive Behaviour Therapy (CBT)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– the treatment for ",
+                  {
+                    "number": 37
+                  },
+                  " is based on ideas from Stoicism"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– people learn to base their thinking on ",
+                  {
+                    "number": 38
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "In business, people benefit from Stoicism by identifying obstacles as ",
+                  {
+                    "number": 39
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Relevance of Stoicism"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It requires a lot of ",
+                  {
+                    "number": 40
+                  },
+                  " but Stoicism can help people to lead a good life."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It teaches people that having a strong character is more important than anything else."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-016.webp",
+          "page": 16
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 16
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98.mp3",
+        "sha256": "150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98",
+        "duration": 505.045,
+        "start": 0,
+        "end": 426.68,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t1-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam16/timeline-t1-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

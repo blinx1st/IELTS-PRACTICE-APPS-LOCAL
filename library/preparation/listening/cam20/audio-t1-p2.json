@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/35e7baadbb23a544ec7a5a91c5d91b50ade3d03b83cf88c08844adda619eb467.m4a",
+    "sha256": "35e7baadbb23a544ec7a5a91c5d91b50ade3d03b83cf88c08844adda619eb467",
+    "duration": 514.554,
+    "start": 0,
+    "end": 514.554,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T1S2.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a potter, Heather McAllum, speaking to a group of people who are visiting a pottery, a place where people make pots and other objects from clay. First, you have some time to look at questions 11 to 16. you Now listen carefully and answer questions 11 to 16. Hello and welcome. My name is Heather McCallum and I'm one of the porters who work here at Edelman Pottery. Before we go into the workshop, I just want to say a bit about the craft of pottery. Then we'll have a look at the equipment and you can try making a pot of your own. Like many people, I'm sure you know that pot-"
+    },
+    {
+      "name": "ending",
+      "start": 449.554,
+      "end": 514.554,
+      "text": "names that you may find hard to remember. Rather than go through them all now, I'll just name a few tools as we go along. We can provide these and I wouldn't recommend spending money on them yet. So, let's try making a part of your own. That is the end of Part 2. You now have 30 seconds to check your answers to Part 2."
+    }
+  ]
+}

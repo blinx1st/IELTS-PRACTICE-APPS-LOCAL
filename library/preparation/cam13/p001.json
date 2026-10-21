@@ -1,0 +1,48 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 1,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "SE] CAMBRIDGE\n[Sj CAMBRIDGE ENGLISH\nGg UNIVERSITY PRESS\n—...\nWITH ANSWERS\nAUTHENTIC EXAMINATION PAPERS\nSEMA BREE A SEAOE PY\n(AOE. ATIRTHE RABE) HH.\n",
+  "blocks": [
+    {
+      "box": [
+        63.720001220703125,
+        56.8800048828125,
+        483.8254089355469,
+        91.45980072021484
+      ],
+      "text": "SE] CAMBRIDGE\n[Sj CAMBRIDGE ENGLISH\nGg UNIVERSITY PRESS\n—...\n"
+    },
+    {
+      "box": [
+        63.0,
+        501.1199951171875,
+        233.26206970214844,
+        517.336181640625
+      ],
+      "text": "WITH ANSWERS\n"
+    },
+    {
+      "box": [
+        207.72000122070312,
+        628.56005859375,
+        548.6543579101562,
+        644.4158935546875
+      ],
+      "text": "AUTHENTIC EXAMINATION PAPERS\n"
+    },
+    {
+      "box": [
+        370.0799865722656,
+        714.239990234375,
+        568.425537109375,
+        742.7084350585938
+      ],
+      "text": "SEMA BREE A SEAOE PY\n(AOE. ATIRTHE RABE) HH.\n"
+    }
+  ]
+}

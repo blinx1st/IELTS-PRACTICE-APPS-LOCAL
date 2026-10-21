@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/97e6fbb34e21eeb1ade85ed22223bd99d449815e89ef374dabddd89620c54e2b.mp3",
+    "sha256": "97e6fbb34e21eeb1ade85ed22223bd99d449815e89ef374dabddd89620c54e2b",
+    "duration": 396.199,
+    "start": 0,
+    "end": 396.199,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Test 3. This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to Part 1. Part 1. You will hear two neighbours who live in an apartment block talking about shopping for food. you have some time to look at questions 1 to 6. Now listen carefully and answer questions one to six. Hi Shannon, how are you settling into your new flat? Really well thanks. You look like you're going shop."
+    },
+    {
+      "name": "ending",
+      "start": 331.199,
+      "end": 396.199,
+      "text": "The owner also sells a lot of spices there that you can put in a curry and things like coconut. Oh, that's very helpful. I'll have a look. No problem. I know bread doesn't really go with curry, but I always like to have some in case. As I said, all the bread is homemade and there's lots of variety. I like the brown bread, myself. Mmm, sounds good. There's all other things there, too. Like cakes? I love chocolate cake. Well, not that. But they have a whole range of tarts, and the best at the strawberry ones. Perfect. Hopefully I won't even have to go to the supermarket. That is the end of part one. You now have one minute to check your answers to part one."
+    }
+  ]
+}

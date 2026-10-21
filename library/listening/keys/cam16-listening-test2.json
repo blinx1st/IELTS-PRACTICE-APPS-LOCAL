@@ -1,0 +1,151 @@
+{
+  "id": "cam16-listening-test2",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "frame"
+    ],
+    "2": [
+      "195"
+    ],
+    "3": [
+      "payment"
+    ],
+    "4": [
+      "Grandparents"
+    ],
+    "5": [
+      "colour",
+      "color"
+    ],
+    "6": [
+      "hand"
+    ],
+    "7": [
+      "background"
+    ],
+    "8": [
+      "focus"
+    ],
+    "9": [
+      "ten days",
+      "10 days"
+    ],
+    "10": [
+      "plastic"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "D"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "history"
+    ],
+    "26": [
+      "paper"
+    ],
+    "27": [
+      "humans",
+      "people"
+    ],
+    "28": [
+      "stress"
+    ],
+    "29": [
+      "graph"
+    ],
+    "30": [
+      "evaluate"
+    ],
+    "31": [
+      "creativity"
+    ],
+    "32": [
+      "therapy"
+    ],
+    "33": [
+      "fitness"
+    ],
+    "34": [
+      "balance"
+    ],
+    "35": [
+      "brain"
+    ],
+    "36": [
+      "motivation"
+    ],
+    "37": [
+      "isolation"
+    ],
+    "38": [
+      "calories"
+    ],
+    "39": [
+      "obesity"
+    ],
+    "40": [
+      "habit"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "answers": [
+        "B",
+        "C"
+      ]
+    }
+  ],
+  "limitExceptions": {
+    "9": [
+      "ten days"
+    ]
+  },
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+    "pdfPage": 124,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

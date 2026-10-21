@@ -1,0 +1,158 @@
+{
+  "id": "cam14-listening-test1",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "Canadian"
+    ],
+    "2": [
+      "furniture"
+    ],
+    "3": [
+      "Park"
+    ],
+    "4": [
+      "250",
+      "250 sterling"
+    ],
+    "5": [
+      "phone"
+    ],
+    "6": [
+      "10 September",
+      "10th September"
+    ],
+    "7": [
+      "museum"
+    ],
+    "8": [
+      "time"
+    ],
+    "9": [
+      "blond",
+      "blonde"
+    ],
+    "10": [
+      "8795482361",
+      "87954 82361"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "F"
+    ],
+    "29": [
+      "G"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "industry"
+    ],
+    "32": [
+      "constant"
+    ],
+    "33": [
+      "direction"
+    ],
+    "34": [
+      "floor"
+    ],
+    "35": [
+      "predictable"
+    ],
+    "36": [
+      "bay"
+    ],
+    "37": [
+      "gates"
+    ],
+    "38": [
+      "fuel"
+    ],
+    "39": [
+      "jobs"
+    ],
+    "40": [
+      "migration"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        11,
+        12
+      ],
+      "answers": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        13,
+        14
+      ],
+      "answers": [
+        "B",
+        "E"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+    "pdfPage": 89,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

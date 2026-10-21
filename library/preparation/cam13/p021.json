@@ -1,0 +1,66 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 21,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 1\nif allowed to fester.’ For Eastwood, the central feature of boredom isa failure to\nput our ‘attention system’ into gear. This causes an inability to focus on anything,\nwhich makes time seem to go painfully slowly. What's more, your efforts to improve\nthe situation can end up making you feel worse. ‘People try to connect with the\nworld and if they are not successful there's that frustration and irritability,’ he says.\nPerhaps most worryingly, says Eastwood, repeatedly failing to engage attention\ncan lead to a state where we don’t know what to do any more, and no longer care.\nE\nEastwood's team is now trying to explore why the attention system fails. It's early\ndays but they think that at least some of it comes down to personality. Boredom\nproneness has been linked with a variety of traits. People who are motivated by\npleasure seem to suffer particularly badly. Other personality traits, such as curiosity,\nare associated with a high boredom threshold. More evidence that boredom has\ndetrimental effects comes from studies of people who are more or less prone to\nboredom. It seems those who bore easily face poorer prospects in education,\ntheir career and even life in general. But of course, boredom itself cannot kill —\nit's the things we do to deal with it that may put us in danger. What can we do to\nalleviate it before it comes to that? Goetz’s group has one suggestion. Working with\nteenagers, they found that those who ‘approach’ a boring situation — in other words,\nsee that it's boring and get stuck in anyway — report less boredom than those who\ntry to avoid it by using snacks, TV or social media for distraction.\nF\nPsychologist Francoise Wemelsfelder speculates that our over-connected lifestyles\nmight even be a new source of boredom. ‘In modern human society there is a lot of\noverstimulation but still a lot of problems finding meaning,’ she says. So instead of\nseeking yet more mental stimulation, perhaps we should leave our phones alone,\nand use boredom to motivate us to engage with the world in a more\nmeaningful way.\n",
+  "blocks": [
+    {
+      "box": [
+        90.0,
+        48.239990234375,
+        123.07682037353516,
+        57.96974182128906
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        117.0,
+        82.79998779296875,
+        586.8720092773438,
+        159.49473571777344
+      ],
+      "text": "if allowed to fester.’ For Eastwood, the central feature of boredom isa failure to\nput our ‘attention system’ into gear. This causes an inability to focus on anything,\nwhich makes time seem to go painfully slowly. What's more, your efforts to improve\nthe situation can end up making you feel worse. ‘People try to connect with the\nworld and if they are not successful there's that frustration and irritability,’ he says.\n"
+    },
+    {
+      "box": [
+        117.72000122070312,
+        158.03997802734375,
+        581.534912109375,
+        187.57260131835938
+      ],
+      "text": "Perhaps most worryingly, says Eastwood, repeatedly failing to engage attention\ncan lead to a state where we don’t know what to do any more, and no longer care.\n"
+    },
+    {
+      "box": [
+        90.3599853515625,
+        197.6400146484375,
+        589.320068359375,
+        317.5340270996094
+      ],
+      "text": "E\nEastwood's team is now trying to explore why the attention system fails. It's early\ndays but they think that at least some of it comes down to personality. Boredom\nproneness has been linked with a variety of traits. People who are motivated by\npleasure seem to suffer particularly badly. Other personality traits, such as curiosity,\nare associated with a high boredom threshold. More evidence that boredom has\ndetrimental effects comes from studies of people who are more or less prone to\nboredom. It seems those who bore easily face poorer prospects in education,\ntheir career and even life in general. But of course, boredom itself cannot kill —\n"
+    },
+    {
+      "box": [
+        118.79986572265625,
+        318.239990234375,
+        590.623046875,
+        394.5751037597656
+      ],
+      "text": "it's the things we do to deal with it that may put us in danger. What can we do to\nalleviate it before it comes to that? Goetz’s group has one suggestion. Working with\nteenagers, they found that those who ‘approach’ a boring situation — in other words,\nsee that it's boring and get stuck in anyway — report less boredom than those who\ntry to avoid it by using snacks, TV or social media for distraction.\n"
+    },
+    {
+      "box": [
+        91.43984985351562,
+        402.1199951171875,
+        589.931884765625,
+        493.2122497558594
+      ],
+      "text": "F\nPsychologist Francoise Wemelsfelder speculates that our over-connected lifestyles\nmight even be a new source of boredom. ‘In modern human society there is a lot of\noverstimulation but still a lot of problems finding meaning,’ she says. So instead of\nseeking yet more mental stimulation, perhaps we should leave our phones alone,\nand use boredom to motivate us to engage with the world in a more\nmeaningful way.\n"
+    }
+  ]
+}

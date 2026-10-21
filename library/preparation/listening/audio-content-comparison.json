@@ -1,0 +1,1669 @@
+{
+  "method": "Local tiny.en opening/end sample TF-IDF comparison against all16 sourceaudioscripts perbook; manualsourcecheck required for exceptions.",
+  "tracks": [
+    {
+      "book": 13,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.543,
+      "best": [
+        1,
+        1
+      ],
+      "bestScore": 0.543,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t1-p1-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.595,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.595,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t1-p2-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.68,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.68,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t1-p3-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.536,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.536,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t1-p4-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.526,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.526,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t2-p1-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.582,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.582,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t2-p2-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.612,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.612,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t2-p3-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.532,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.532,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t2-p4-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.386,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.386,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t3-p1-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.732,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.732,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t3-p2-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.692,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.692,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t3-p3-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.569,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.569,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t3-p4-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.569,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.569,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t4-p1-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.606,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.606,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t4-p2-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.517,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.517,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t4-p3-audio-asr.json"
+    },
+    {
+      "book": 13,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.597,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.597,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam13\\t4-p4-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.447,
+      "best": [
+        1,
+        1
+      ],
+      "bestScore": 0.447,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t1-p1-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.683,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.683,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t1-p2-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.6,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.6,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t1-p3-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.537,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.537,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t1-p4-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.603,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.603,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t2-p1-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.61,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.61,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t2-p2-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.672,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.672,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t2-p3-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.374,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.374,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t2-p4-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.476,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.476,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t3-p1-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.681,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.681,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t3-p2-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.684,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.684,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t3-p3-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.552,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.552,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t3-p4-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.45,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.45,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t4-p1-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.568,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.568,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t4-p2-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.607,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.607,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t4-p3-audio-asr.json"
+    },
+    {
+      "book": 14,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.495,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.495,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam14\\t4-p4-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.456,
+      "best": [
+        1,
+        1
+      ],
+      "bestScore": 0.456,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t1-p1-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.664,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.664,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t1-p2-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.679,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.679,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t1-p3-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.427,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.427,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t1-p4-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.445,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.445,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t2-p1-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.689,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.689,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t2-p2-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.7,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.7,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t2-p3-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.455,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.455,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t2-p4-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.546,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.546,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t3-p1-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.683,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.683,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t3-p2-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.697,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.697,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t3-p3-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.425,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.425,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t3-p4-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.515,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.515,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t4-p1-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.725,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.725,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t4-p2-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.702,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.702,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t4-p3-audio-asr.json"
+    },
+    {
+      "book": 15,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.478,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.478,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam15\\t4-p4-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.42,
+      "best": [
+        1,
+        1
+      ],
+      "bestScore": 0.42,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t1-p1-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.748,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.748,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t1-p2-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.704,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.704,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t1-p3-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.427,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.427,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t1-p4-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.652,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.652,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t2-p1-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.636,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.636,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t2-p2-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.742,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.742,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t2-p3-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.466,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.466,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t2-p4-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.592,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.592,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t3-p1-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.7,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.7,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t3-p2-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.693,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.693,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t3-p3-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.467,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.467,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t3-p4-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.606,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.606,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t4-p1-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.755,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.755,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t4-p2-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.712,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.712,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t4-p3-audio-asr.json"
+    },
+    {
+      "book": 16,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.471,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.471,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam16\\t4-p4-audio-asr.json"
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.243,
+      "best": [
+        1,
+        1
+      ],
+      "bestScore": 0.243,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t1-p1.json"
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.493,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.493,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t1-p2.json"
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.457,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.457,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t1-p3.json"
+    },
+    {
+      "book": 17,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.333,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.333,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t1-p4.json"
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.242,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.242,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t2-p1.json"
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.458,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.458,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t2-p2.json"
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.616,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.616,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t2-p3.json"
+    },
+    {
+      "book": 17,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.4,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.4,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t2-p4.json"
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.371,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.371,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t3-p1.json"
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.495,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.495,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t3-p2.json"
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.532,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.532,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t3-p3.json"
+    },
+    {
+      "book": 17,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.329,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.329,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t3-p4.json"
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.404,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.404,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t4-p1.json"
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.546,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.546,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t4-p2.json"
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.546,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.546,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t4-p3.json"
+    },
+    {
+      "book": 17,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.381,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.381,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam17\\audio-t4-p4.json"
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.173,
+      "best": [
+        1,
+        1
+      ],
+      "bestScore": 0.173,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t1-p1.json"
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.537,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.537,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t1-p2.json"
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.51,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.51,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t1-p3.json"
+    },
+    {
+      "book": 18,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.303,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.303,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t1-p4.json"
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.243,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.243,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t2-p1.json"
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.553,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.553,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t2-p2.json"
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.525,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.525,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t2-p3.json"
+    },
+    {
+      "book": 18,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.37,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.37,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t2-p4.json"
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.285,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.285,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t3-p1.json"
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.619,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.619,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t3-p2.json"
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.633,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.633,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t3-p3.json"
+    },
+    {
+      "book": 18,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.444,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.444,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t3-p4.json"
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.27,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.27,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t4-p1.json"
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.525,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.525,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t4-p2.json"
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.549,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.549,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t4-p3.json"
+    },
+    {
+      "book": 18,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.304,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.304,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam18\\audio-t4-p4.json"
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.077,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.083,
+      "matched": false,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t1-p1.json"
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.541,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.541,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t1-p2.json"
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.574,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.574,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t1-p3.json"
+    },
+    {
+      "book": 19,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.381,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.381,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t1-p4.json"
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.407,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.407,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t2-p1.json"
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.52,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.52,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t2-p2.json"
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.663,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.663,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t2-p3.json"
+    },
+    {
+      "book": 19,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.478,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.478,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t2-p4.json"
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.383,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.383,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t3-p1.json"
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.588,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.588,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t3-p2.json"
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.593,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.593,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t3-p3.json"
+    },
+    {
+      "book": 19,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.493,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.493,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t3-p4.json"
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.466,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.466,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t4-p1.json"
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.615,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.615,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t4-p2.json"
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.609,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.609,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t4-p3.json"
+    },
+    {
+      "book": 19,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.472,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.472,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam19\\audio-t4-p4.json"
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 1,
+      "expectedScore": 0.107,
+      "best": [
+        1,
+        1
+      ],
+      "bestScore": 0.107,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t1-p1.json"
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 2,
+      "expectedScore": 0.442,
+      "best": [
+        1,
+        2
+      ],
+      "bestScore": 0.442,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t1-p2.json"
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 3,
+      "expectedScore": 0.54,
+      "best": [
+        1,
+        3
+      ],
+      "bestScore": 0.54,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t1-p3.json"
+    },
+    {
+      "book": 20,
+      "test": 1,
+      "part": 4,
+      "expectedScore": 0.337,
+      "best": [
+        1,
+        4
+      ],
+      "bestScore": 0.337,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t1-p4.json"
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 1,
+      "expectedScore": 0.173,
+      "best": [
+        2,
+        1
+      ],
+      "bestScore": 0.173,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t2-p1.json"
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 2,
+      "expectedScore": 0.568,
+      "best": [
+        2,
+        2
+      ],
+      "bestScore": 0.568,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t2-p2.json"
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 3,
+      "expectedScore": 0.578,
+      "best": [
+        2,
+        3
+      ],
+      "bestScore": 0.578,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t2-p3.json"
+    },
+    {
+      "book": 20,
+      "test": 2,
+      "part": 4,
+      "expectedScore": 0.181,
+      "best": [
+        2,
+        4
+      ],
+      "bestScore": 0.181,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t2-p4.json"
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 1,
+      "expectedScore": 0.281,
+      "best": [
+        3,
+        1
+      ],
+      "bestScore": 0.281,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t3-p1.json"
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 2,
+      "expectedScore": 0.301,
+      "best": [
+        3,
+        2
+      ],
+      "bestScore": 0.301,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t3-p2.json"
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 3,
+      "expectedScore": 0.556,
+      "best": [
+        3,
+        3
+      ],
+      "bestScore": 0.556,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t3-p3.json"
+    },
+    {
+      "book": 20,
+      "test": 3,
+      "part": 4,
+      "expectedScore": 0.315,
+      "best": [
+        3,
+        4
+      ],
+      "bestScore": 0.315,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t3-p4.json"
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 1,
+      "expectedScore": 0.159,
+      "best": [
+        4,
+        1
+      ],
+      "bestScore": 0.159,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t4-p1.json"
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 2,
+      "expectedScore": 0.431,
+      "best": [
+        4,
+        2
+      ],
+      "bestScore": 0.431,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t4-p2.json"
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 3,
+      "expectedScore": 0.594,
+      "best": [
+        4,
+        3
+      ],
+      "bestScore": 0.594,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t4-p3.json"
+    },
+    {
+      "book": 20,
+      "test": 4,
+      "part": 4,
+      "expectedScore": 0.235,
+      "best": [
+        4,
+        4
+      ],
+      "bestScore": 0.235,
+      "matched": true,
+      "proof": "library\\preparation\\listening\\cam20\\audio-t4-p4.json"
+    }
+  ]
+}

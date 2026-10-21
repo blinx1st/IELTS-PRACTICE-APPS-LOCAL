@@ -1,0 +1,1061 @@
+{
+  "id": "cam17-listening-test4",
+  "skill": "listening",
+  "book": 17,
+  "test": 4,
+  "title": "Cambridge 17 · Listening Test 4",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam17-t4-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t4-p1-q1-10",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below. Write ONE WORD for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            },
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-068.webp",
+              "page": 68
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 68
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Easy Life Cleaning Services"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Basic cleaning package offered"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Cleaning all surfaces"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Cleaning the ",
+                  {
+                    "number": 1
+                  },
+                  " throughout the apartment"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Cleaning shower, sinks, toilet etc."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Additional services agreed"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Every week"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Cleaning the ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Ironing clothes - ",
+                  {
+                    "number": 3
+                  },
+                  " only"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Every month"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Cleaning all the ",
+                  {
+                    "number": 4
+                  },
+                  " from the inside"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Washing down the ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Other possibilities"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "They can organise a plumber or an ",
+                  {
+                    "number": 6
+                  },
+                  " if necessary."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A special cleaning service is available for customers who are allergic to ",
+                  {
+                    "number": 7
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Information on the cleaners"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Before being hired, all cleaners have a background check carried out by the ",
+                  {
+                    "number": 8
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "References are required."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "All cleaners are given ",
+                  {
+                    "number": 9
+                  },
+                  " for two weeks."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Customers send a ",
+                  {
+                    "number": 10
+                  },
+                  " after each visit."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Usually, each customer has one regular cleaner."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-068.webp",
+          "page": 68
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 68
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/71afa448e10ad21ee5cdefcaad498cc743242c170543ec9f02dcd5782653aa5a.mp3",
+        "sha256": "71afa448e10ad21ee5cdefcaad498cc743242c170543ec9f02dcd5782653aa5a",
+        "duration": 382.233,
+        "start": 37.58,
+        "end": 382.233,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T4P1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t4-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t4-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t4-p2-q11-14",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Many hotel managers are unaware that their staff often leave because of",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a lack of training"
+                },
+                {
+                  "value": "B",
+                  "label": "long hours"
+                },
+                {
+                  "value": "C",
+                  "label": "low pay"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "What is the impact of high staff turnover on managers?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "an increased workload"
+                },
+                {
+                  "value": "B",
+                  "label": "low morale"
+                },
+                {
+                  "value": "C",
+                  "label": "an inability to meet targets"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "What mistake should managers always avoid?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "failing to treat staff equally"
+                },
+                {
+                  "value": "B",
+                  "label": "reorganising shifts without warning"
+                },
+                {
+                  "value": "C",
+                  "label": "neglecting to have enough staff during busy periods"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "What unexpected benefit did Dunwich Hotel notice after improving staff retention rates?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a fall in customer complaints"
+                },
+                {
+                  "value": "B",
+                  "label": "an increase in loyalty club membership"
+                },
+                {
+                  "value": "C",
+                  "label": "a rise in spending per customer"
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-069.webp",
+              "page": 69
+            },
+            {
+              "url": "/library-assets/l-cam17-source-070.webp",
+              "page": 70
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 69
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 70
+            }
+          ]
+        },
+        {
+          "id": "l-cam17-t4-p2-q15-20",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A, B or C, next to Questions 15–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "The Sun Club"
+            },
+            {
+              "number": 16,
+              "text": "The Portland"
+            },
+            {
+              "number": 17,
+              "text": "Bluewater Hotels"
+            },
+            {
+              "number": 18,
+              "text": "Pentlow Hotels"
+            },
+            {
+              "number": 19,
+              "text": "Green Planet"
+            },
+            {
+              "number": 20,
+              "text": "The Amesbury"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-069.webp",
+              "page": 69
+            },
+            {
+              "url": "/library-assets/l-cam17-source-070.webp",
+              "page": 70
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 69
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 70
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "improving relationships and teamwork"
+            },
+            {
+              "value": "B",
+              "label": "offering incentives and financial benefits"
+            },
+            {
+              "value": "C",
+              "label": "providing career opportunities"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-069.webp",
+          "page": 69
+        },
+        {
+          "url": "/library-assets/l-cam17-source-070.webp",
+          "page": 70
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 69
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 70
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c267eb0ff993342feb039b94f172b10e0721b7f06394883786e9107dced79180.mp3",
+        "sha256": "c267eb0ff993342feb039b94f172b10e0721b7f06394883786e9107dced79180",
+        "duration": 471.549,
+        "start": 0,
+        "end": 471.549,
+        "source": "library\\preparation\\listening\\cam17\\cam17-test4-part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t4-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t4-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t4-p3-q21-22",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO points do Thomas and Jeanne make about Thomas's sporting activities at school?",
+          "questions": [
+            {
+              "number": 21,
+              "text": ""
+            },
+            {
+              "number": 22,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-071.webp",
+              "page": 71
+            },
+            {
+              "url": "/library-assets/l-cam17-source-072.webp",
+              "page": 72
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 71
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 72
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "He should have felt more positive about them"
+            },
+            {
+              "value": "B",
+              "label": "The training was too challenging for him"
+            },
+            {
+              "value": "C",
+              "label": "He could have worked harder at them"
+            },
+            {
+              "value": "D",
+              "label": "His parents were disappointed in him"
+            },
+            {
+              "value": "E",
+              "label": "His fellow students admired him"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam17-t4-p3-q23-24",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO feelings did Thomas experience when he was in Kenya?",
+          "questions": [
+            {
+              "number": 23,
+              "text": ""
+            },
+            {
+              "number": 24,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-071.webp",
+              "page": 71
+            },
+            {
+              "url": "/library-assets/l-cam17-source-072.webp",
+              "page": 72
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 71
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 72
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "disbelief"
+            },
+            {
+              "value": "B",
+              "label": "relief"
+            },
+            {
+              "value": "C",
+              "label": "stress"
+            },
+            {
+              "value": "D",
+              "label": "gratitude"
+            },
+            {
+              "value": "E",
+              "label": "homesickness"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam17-t4-p3-q25-30",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What comment do the students make about the development of each of the following items of sporting equipment? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Comments about the development of the equipment",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "the table tennis bat"
+            },
+            {
+              "number": 26,
+              "text": "the cricket helmet"
+            },
+            {
+              "number": 27,
+              "text": "the cycle helmet"
+            },
+            {
+              "number": 28,
+              "text": "the golf club"
+            },
+            {
+              "number": 29,
+              "text": "the hockey stick"
+            },
+            {
+              "number": 30,
+              "text": "the football"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-071.webp",
+              "page": 71
+            },
+            {
+              "url": "/library-assets/l-cam17-source-072.webp",
+              "page": 72
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 71
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 72
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "It could cause excessive sweating"
+            },
+            {
+              "value": "B",
+              "label": "The material was being mass produced for another purpose"
+            },
+            {
+              "value": "C",
+              "label": "People often needed to make their own"
+            },
+            {
+              "value": "D",
+              "label": "It often had to be replaced"
+            },
+            {
+              "value": "E",
+              "label": "The material was expensive"
+            },
+            {
+              "value": "F",
+              "label": "It was unpopular among spectators"
+            },
+            {
+              "value": "G",
+              "label": "It caused injuries"
+            },
+            {
+              "value": "H",
+              "label": "No one using it liked it at first"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-071.webp",
+          "page": 71
+        },
+        {
+          "url": "/library-assets/l-cam17-source-072.webp",
+          "page": 72
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 71
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 72
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/88d0e50e550c46ab604cdbcfaaa45f31d2b7fe699c71669676e796e9d126acac.mp3",
+        "sha256": "88d0e50e550c46ab604cdbcfaaa45f31d2b7fe699c71669676e796e9d126acac",
+        "duration": 410.667,
+        "start": 0,
+        "end": 410.667,
+        "source": "library\\preparation\\listening\\cam17\\cam17-test4-part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t4-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t4-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam17-t4-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam17-t4-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam17-source-073.webp",
+              "page": 73
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+              "page": 73
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Maple syrup"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "What is maple syrup?"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "made from the sap of the maple tree"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "colour described as ",
+                  {
+                    "number": 31
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "added to food or used in cooking"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "very ",
+                  {
+                    "number": 32
+                  },
+                  " compared to refined sugar"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The maple tree"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "has many species"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "needs sunny days and cool nights"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "maple leaf has been on the Canadian flag since 1964"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "needs moist soil but does not need fertiliser as well"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "best growing conditions and ",
+                  {
+                    "number": 33
+                  },
+                  " are in Canada and North America"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Early maple sugar producers"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "made holes in the tree trunks"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "used hot ",
+                  {
+                    "number": 34
+                  },
+                  " to heat the sap"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "used tree bark to make containers for collection"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "sweetened food and drink with sugar"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Today's maple syrup"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The trees"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Tree trunks may not have the correct ",
+                  {
+                    "number": 35
+                  },
+                  " until they have been growing for 40 years."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The changing temperature and movement of water within the tree produces the sap."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The production"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A tap is drilled into the trunk and a ",
+                  {
+                    "number": 36
+                  },
+                  " carries the sap into a bucket."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Large pans of sap called evaporators are heated by means of a ",
+                  {
+                    "number": 37
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A lot of ",
+                  {
+                    "number": 38
+                  },
+                  " is produced during the evaporation process."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "‘Sugar sand’ is removed because it makes the syrup look ",
+                  {
+                    "number": 39
+                  },
+                  " and affects the taste."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The syrup is ready for use."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A huge quantity of sap is needed to make a ",
+                  {
+                    "number": 40
+                  },
+                  " of maple syrup."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam17-source-073.webp",
+          "page": 73
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+          "page": 73
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/09e20454ed250a3c26c34a2d85fd7fa7829185e266725302e5acdfad76fe3527.mp3",
+        "sha256": "09e20454ed250a3c26c34a2d85fd7fa7829185e266725302e5acdfad76fe3527",
+        "duration": 514.708,
+        "start": 0,
+        "end": 440.93,
+        "source": "library\\preparation\\listening\\cam17\\cam17-test4-part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam17/audio-t4-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam17/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1058 @@
+{
+  "audioSha256": "b84dfe7fc58fe27338e8e425d587f7bf57ad416e1354bfbcc191dbccbe7ae920",
+  "duration": 445.1004375,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 325.1004375,
+      "end": 334.3404375,
+      "text": " so seeds make gates and much more. There's a small barn also made of stone where",
+      "words": [
+        {
+          "word": " so",
+          "start": 325.1004375,
+          "end": 325.8404375
+        },
+        {
+          "word": " seeds",
+          "start": 325.8404375,
+          "end": 326.5804375
+        },
+        {
+          "word": " make",
+          "start": 326.5804375,
+          "end": 327.4404375
+        },
+        {
+          "word": " gates",
+          "start": 327.4404375,
+          "end": 328.0604375
+        },
+        {
+          "word": " and",
+          "start": 328.0604375,
+          "end": 328.5204375
+        },
+        {
+          "word": " much",
+          "start": 328.5204375,
+          "end": 328.8004375
+        },
+        {
+          "word": " more.",
+          "start": 328.8004375,
+          "end": 330.1804375
+        },
+        {
+          "word": " There's",
+          "start": 330.6004375,
+          "end": 331.0404375
+        },
+        {
+          "word": " a",
+          "start": 331.0404375,
+          "end": 331.3404375
+        },
+        {
+          "word": " small",
+          "start": 331.3404375,
+          "end": 331.6604375
+        },
+        {
+          "word": " barn",
+          "start": 331.6604375,
+          "end": 332.2204375
+        },
+        {
+          "word": " also",
+          "start": 332.2204375,
+          "end": 332.88043749999997
+        },
+        {
+          "word": " made",
+          "start": 332.88043749999997,
+          "end": 333.1204375
+        },
+        {
+          "word": " of",
+          "start": 333.1204375,
+          "end": 333.38043749999997
+        },
+        {
+          "word": " stone",
+          "start": 333.38043749999997,
+          "end": 333.7004375
+        },
+        {
+          "word": " where",
+          "start": 333.7004375,
+          "end": 334.3404375
+        }
+      ]
+    },
+    {
+      "start": 334.3404375,
+      "end": 340.1604375,
+      "text": " you can groom the donkeys and horses to keep their coats clean. They really",
+      "words": [
+        {
+          "word": " you",
+          "start": 334.3404375,
+          "end": 334.5204375
+        },
+        {
+          "word": " can",
+          "start": 334.5204375,
+          "end": 334.8004375
+        },
+        {
+          "word": " groom",
+          "start": 334.8004375,
+          "end": 335.1204375
+        },
+        {
+          "word": " the",
+          "start": 335.1204375,
+          "end": 335.3404375
+        },
+        {
+          "word": " donkeys",
+          "start": 335.3404375,
+          "end": 335.8204375
+        },
+        {
+          "word": " and",
+          "start": 335.8204375,
+          "end": 336.1404375
+        },
+        {
+          "word": " horses",
+          "start": 336.1404375,
+          "end": 336.5804375
+        },
+        {
+          "word": " to",
+          "start": 336.5804375,
+          "end": 337.1404375
+        },
+        {
+          "word": " keep",
+          "start": 337.1404375,
+          "end": 337.38043749999997
+        },
+        {
+          "word": " their",
+          "start": 337.38043749999997,
+          "end": 337.7004375
+        },
+        {
+          "word": " coats",
+          "start": 337.7004375,
+          "end": 337.9804375
+        },
+        {
+          "word": " clean.",
+          "start": 337.9804375,
+          "end": 338.6004375
+        },
+        {
+          "word": " They",
+          "start": 339.3004375,
+          "end": 339.7204375
+        },
+        {
+          "word": " really",
+          "start": 339.7204375,
+          "end": 340.1604375
+        }
+      ]
+    },
+    {
+      "start": 340.1604375,
+      "end": 347.3404375,
+      "text": " seem to enjoy having it done and children love grooming them. The horses no longer",
+      "words": [
+        {
+          "word": " seem",
+          "start": 340.1604375,
+          "end": 340.4604375
+        },
+        {
+          "word": " to",
+          "start": 340.4604375,
+          "end": 340.6804375
+        },
+        {
+          "word": " enjoy",
+          "start": 340.6804375,
+          "end": 341.0004375
+        },
+        {
+          "word": " having",
+          "start": 341.0004375,
+          "end": 341.38043749999997
+        },
+        {
+          "word": " it",
+          "start": 341.38043749999997,
+          "end": 341.6604375
+        },
+        {
+          "word": " done",
+          "start": 341.6604375,
+          "end": 342.0204375
+        },
+        {
+          "word": " and",
+          "start": 342.0204375,
+          "end": 342.7004375
+        },
+        {
+          "word": " children",
+          "start": 342.7004375,
+          "end": 343.1404375
+        },
+        {
+          "word": " love",
+          "start": 343.1404375,
+          "end": 343.8604375
+        },
+        {
+          "word": " grooming",
+          "start": 343.8604375,
+          "end": 344.1604375
+        },
+        {
+          "word": " them.",
+          "start": 344.1604375,
+          "end": 345.2404375
+        },
+        {
+          "word": " The",
+          "start": 345.8004375,
+          "end": 345.9804375
+        },
+        {
+          "word": " horses",
+          "start": 345.9804375,
+          "end": 346.4404375
+        },
+        {
+          "word": " no",
+          "start": 346.4404375,
+          "end": 346.9004375
+        },
+        {
+          "word": " longer",
+          "start": 346.9004375,
+          "end": 347.3404375
+        }
+      ]
+    },
+    {
+      "start": 347.3404375,
+      "end": 354.7404375,
+      "text": " live in the stables which instead is the place to go to buy gifts, books, our own",
+      "words": [
+        {
+          "word": " live",
+          "start": 347.3404375,
+          "end": 347.5604375
+        },
+        {
+          "word": " in",
+          "start": 347.5604375,
+          "end": 347.7404375
+        },
+        {
+          "word": " the",
+          "start": 347.7404375,
+          "end": 347.9404375
+        },
+        {
+          "word": " stables",
+          "start": 347.9404375,
+          "end": 348.4004375
+        },
+        {
+          "word": " which",
+          "start": 348.4004375,
+          "end": 349.2004375
+        },
+        {
+          "word": " instead",
+          "start": 349.2004375,
+          "end": 349.7404375
+        },
+        {
+          "word": " is",
+          "start": 349.7404375,
+          "end": 350.1204375
+        },
+        {
+          "word": " the",
+          "start": 350.1204375,
+          "end": 350.3004375
+        },
+        {
+          "word": " place",
+          "start": 350.3004375,
+          "end": 350.5604375
+        },
+        {
+          "word": " to",
+          "start": 350.5604375,
+          "end": 350.8204375
+        },
+        {
+          "word": " go",
+          "start": 350.8204375,
+          "end": 350.9404375
+        },
+        {
+          "word": " to",
+          "start": 350.9404375,
+          "end": 351.2204375
+        },
+        {
+          "word": " buy",
+          "start": 351.2204375,
+          "end": 351.6004375
+        },
+        {
+          "word": " gifts,",
+          "start": 351.6004375,
+          "end": 352.2804375
+        },
+        {
+          "word": " books,",
+          "start": 353.4604375,
+          "end": 353.4604375
+        },
+        {
+          "word": " our",
+          "start": 354.2804375,
+          "end": 354.4004375
+        },
+        {
+          "word": " own",
+          "start": 354.4004375,
+          "end": 354.7404375
+        }
+      ]
+    },
+    {
+      "start": 354.7404375,
+      "end": 362.7404375,
+      "text": " cans and pickles and clothes and blankets made of wool from our sheep. Outside the shed,",
+      "words": [
+        {
+          "word": " cans",
+          "start": 354.7404375,
+          "end": 355.2404375
+        },
+        {
+          "word": " and",
+          "start": 355.2404375,
+          "end": 355.5604375
+        },
+        {
+          "word": " pickles",
+          "start": 355.5604375,
+          "end": 356.1204375
+        },
+        {
+          "word": " and",
+          "start": 356.1204375,
+          "end": 356.6604375
+        },
+        {
+          "word": " clothes",
+          "start": 356.6604375,
+          "end": 357.1804375
+        },
+        {
+          "word": " and",
+          "start": 357.1804375,
+          "end": 357.5204375
+        },
+        {
+          "word": " blankets",
+          "start": 357.5204375,
+          "end": 358.0204375
+        },
+        {
+          "word": " made",
+          "start": 358.0204375,
+          "end": 358.4804375
+        },
+        {
+          "word": " of",
+          "start": 358.4804375,
+          "end": 358.76043749999997
+        },
+        {
+          "word": " wool",
+          "start": 358.76043749999997,
+          "end": 359.0604375
+        },
+        {
+          "word": " from",
+          "start": 359.0604375,
+          "end": 359.3204375
+        },
+        {
+          "word": " our",
+          "start": 359.3204375,
+          "end": 359.6004375
+        },
+        {
+          "word": " sheep.",
+          "start": 359.6004375,
+          "end": 360.2404375
+        },
+        {
+          "word": " Outside",
+          "start": 361.3604375,
+          "end": 361.9204375
+        },
+        {
+          "word": " the",
+          "start": 361.9204375,
+          "end": 362.3404375
+        },
+        {
+          "word": " shed,",
+          "start": 362.3404375,
+          "end": 362.7404375
+        }
+      ]
+    },
+    {
+      "start": 363.0604375,
+      "end": 369.38043749999997,
+      "text": " which is the only brick building, you can climb into a horse-drawn carriage for a lovely",
+      "words": [
+        {
+          "word": " which",
+          "start": 363.0604375,
+          "end": 363.2004375
+        },
+        {
+          "word": " is",
+          "start": 363.2004375,
+          "end": 363.4004375
+        },
+        {
+          "word": " the",
+          "start": 363.4004375,
+          "end": 363.6804375
+        },
+        {
+          "word": " only",
+          "start": 363.6804375,
+          "end": 364.0004375
+        },
+        {
+          "word": " brick",
+          "start": 364.0004375,
+          "end": 364.3604375
+        },
+        {
+          "word": " building,",
+          "start": 364.3604375,
+          "end": 364.7804375
+        },
+        {
+          "word": " you",
+          "start": 365.2204375,
+          "end": 365.4004375
+        },
+        {
+          "word": " can",
+          "start": 365.4004375,
+          "end": 365.6804375
+        },
+        {
+          "word": " climb",
+          "start": 365.6804375,
+          "end": 366.1004375
+        },
+        {
+          "word": " into",
+          "start": 366.1004375,
+          "end": 366.5004375
+        },
+        {
+          "word": " a",
+          "start": 366.5004375,
+          "end": 366.7004375
+        },
+        {
+          "word": " horse",
+          "start": 366.7004375,
+          "end": 367.0804375
+        },
+        {
+          "word": "-drawn",
+          "start": 367.0804375,
+          "end": 367.5404375
+        },
+        {
+          "word": " carriage",
+          "start": 367.5404375,
+          "end": 368.1604375
+        },
+        {
+          "word": " for",
+          "start": 368.1604375,
+          "end": 368.7204375
+        },
+        {
+          "word": " a",
+          "start": 368.7204375,
+          "end": 368.9604375
+        },
+        {
+          "word": " lovely",
+          "start": 368.9604375,
+          "end": 369.38043749999997
+        }
+      ]
+    },
+    {
+      "start": 369.38043749999997,
+      "end": 376.6804375,
+      "text": " relaxing tour of the park and farm. The carriages are well over a hundred years old.",
+      "words": [
+        {
+          "word": " relaxing",
+          "start": 369.38043749999997,
+          "end": 370.1404375
+        },
+        {
+          "word": " tour",
+          "start": 370.1404375,
+          "end": 370.6404375
+        },
+        {
+          "word": " of",
+          "start": 370.6404375,
+          "end": 370.9204375
+        },
+        {
+          "word": " the",
+          "start": 370.9204375,
+          "end": 371.1204375
+        },
+        {
+          "word": " park",
+          "start": 371.1204375,
+          "end": 371.4004375
+        },
+        {
+          "word": " and",
+          "start": 371.4004375,
+          "end": 371.7404375
+        },
+        {
+          "word": " farm.",
+          "start": 371.7404375,
+          "end": 372.1804375
+        },
+        {
+          "word": " The",
+          "start": 372.7804375,
+          "end": 373.0404375
+        },
+        {
+          "word": " carriages",
+          "start": 373.0404375,
+          "end": 373.5604375
+        },
+        {
+          "word": " are",
+          "start": 373.5604375,
+          "end": 374.1004375
+        },
+        {
+          "word": " well",
+          "start": 374.1004375,
+          "end": 374.3204375
+        },
+        {
+          "word": " over",
+          "start": 374.3204375,
+          "end": 374.88043749999997
+        },
+        {
+          "word": " a",
+          "start": 374.88043749999997,
+          "end": 375.2204375
+        },
+        {
+          "word": " hundred",
+          "start": 375.2204375,
+          "end": 375.5004375
+        },
+        {
+          "word": " years",
+          "start": 375.5004375,
+          "end": 375.9604375
+        },
+        {
+          "word": " old.",
+          "start": 375.9604375,
+          "end": 376.6804375
+        }
+      ]
+    },
+    {
+      "start": 377.8404375,
+      "end": 385.0804375,
+      "text": " And finally, the parkland, which was laid out in the 18th century, with a lake and",
+      "words": [
+        {
+          "word": " And",
+          "start": 377.8404375,
+          "end": 378.5604375
+        },
+        {
+          "word": " finally,",
+          "start": 378.5604375,
+          "end": 379.2404375
+        },
+        {
+          "word": " the",
+          "start": 379.6804375,
+          "end": 379.88043749999997
+        },
+        {
+          "word": " parkland,",
+          "start": 379.88043749999997,
+          "end": 380.6004375
+        },
+        {
+          "word": " which",
+          "start": 380.9004375,
+          "end": 381.38043749999997
+        },
+        {
+          "word": " was",
+          "start": 381.38043749999997,
+          "end": 381.7004375
+        },
+        {
+          "word": " laid",
+          "start": 381.7004375,
+          "end": 381.94043750000003
+        },
+        {
+          "word": " out",
+          "start": 381.94043750000003,
+          "end": 382.2404375
+        },
+        {
+          "word": " in",
+          "start": 382.2404375,
+          "end": 382.4204375
+        },
+        {
+          "word": " the",
+          "start": 382.4204375,
+          "end": 382.6604375
+        },
+        {
+          "word": " 18th",
+          "start": 382.6604375,
+          "end": 383.2204375
+        },
+        {
+          "word": " century,",
+          "start": 383.2204375,
+          "end": 383.6004375
+        },
+        {
+          "word": " with",
+          "start": 384.0604375,
+          "end": 384.1604375
+        },
+        {
+          "word": " a",
+          "start": 384.1604375,
+          "end": 384.38043749999997
+        },
+        {
+          "word": " lake",
+          "start": 384.38043749999997,
+          "end": 384.6804375
+        },
+        {
+          "word": " and",
+          "start": 384.6804375,
+          "end": 385.0804375
+        }
+      ]
+    },
+    {
+      "start": 385.0804375,
+      "end": 391.3204375,
+      "text": " trees that are now well established. You'll see types of cattle and sheep that are hardly",
+      "words": [
+        {
+          "word": " trees",
+          "start": 385.0804375,
+          "end": 385.5804375
+        },
+        {
+          "word": " that",
+          "start": 385.5804375,
+          "end": 385.9204375
+        },
+        {
+          "word": " are",
+          "start": 385.9204375,
+          "end": 386.1004375
+        },
+        {
+          "word": " now",
+          "start": 386.1004375,
+          "end": 386.44043750000003
+        },
+        {
+          "word": " well",
+          "start": 386.44043750000003,
+          "end": 386.7804375
+        },
+        {
+          "word": " established.",
+          "start": 386.7804375,
+          "end": 387.3204375
+        },
+        {
+          "word": " You'll",
+          "start": 388.0804375,
+          "end": 388.3404375
+        },
+        {
+          "word": " see",
+          "start": 388.3404375,
+          "end": 388.5404375
+        },
+        {
+          "word": " types",
+          "start": 388.5404375,
+          "end": 388.9004375
+        },
+        {
+          "word": " of",
+          "start": 388.9004375,
+          "end": 389.26043749999997
+        },
+        {
+          "word": " cattle",
+          "start": 389.26043749999997,
+          "end": 389.5604375
+        },
+        {
+          "word": " and",
+          "start": 389.5604375,
+          "end": 389.9204375
+        },
+        {
+          "word": " sheep",
+          "start": 389.9204375,
+          "end": 390.3404375
+        },
+        {
+          "word": " that",
+          "start": 390.3404375,
+          "end": 390.6804375
+        },
+        {
+          "word": " are",
+          "start": 390.6804375,
+          "end": 391.0004375
+        },
+        {
+          "word": " hardly",
+          "start": 391.0004375,
+          "end": 391.3204375
+        }
+      ]
+    },
+    {
+      "start": 391.3204375,
+      "end": 397.7804375,
+      "text": " ever found on farms these days. We're helping to preserve them, to stop their numbers",
+      "words": [
+        {
+          "word": " ever",
+          "start": 391.3204375,
+          "end": 391.6804375
+        },
+        {
+          "word": " found",
+          "start": 391.6804375,
+          "end": 392.0404375
+        },
+        {
+          "word": " on",
+          "start": 392.0404375,
+          "end": 392.4004375
+        },
+        {
+          "word": " farms",
+          "start": 392.4004375,
+          "end": 392.88043749999997
+        },
+        {
+          "word": " these",
+          "start": 392.88043749999997,
+          "end": 393.3004375
+        },
+        {
+          "word": " days.",
+          "start": 393.3004375,
+          "end": 393.94043750000003
+        },
+        {
+          "word": " We're",
+          "start": 394.6004375,
+          "end": 394.88043749999997
+        },
+        {
+          "word": " helping",
+          "start": 394.88043749999997,
+          "end": 395.1804375
+        },
+        {
+          "word": " to",
+          "start": 395.1804375,
+          "end": 395.6004375
+        },
+        {
+          "word": " preserve",
+          "start": 395.6004375,
+          "end": 395.8004375
+        },
+        {
+          "word": " them,",
+          "start": 395.8004375,
+          "end": 396.5004375
+        },
+        {
+          "word": " to",
+          "start": 396.5204375,
+          "end": 396.76043749999997
+        },
+        {
+          "word": " stop",
+          "start": 396.76043749999997,
+          "end": 397.0604375
+        },
+        {
+          "word": " their",
+          "start": 397.0604375,
+          "end": 397.3004375
+        },
+        {
+          "word": " numbers",
+          "start": 397.3004375,
+          "end": 397.7804375
+        }
+      ]
+    },
+    {
+      "start": 397.7804375,
+      "end": 398.8204375,
+      "text": " falling further.",
+      "words": [
+        {
+          "word": " falling",
+          "start": 397.7804375,
+          "end": 398.2804375
+        },
+        {
+          "word": " further.",
+          "start": 398.2804375,
+          "end": 398.8204375
+        }
+      ]
+    },
+    {
+      "start": 399.64043749999996,
+      "end": 405.6404375,
+      "text": " Okay, well, if you'd like to come with me, we will start.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 399.64043749999996,
+          "end": 400.26043749999997
+        },
+        {
+          "word": " well,",
+          "start": 401.0004375,
+          "end": 401.5004375
+        },
+        {
+          "word": " if",
+          "start": 401.8404375,
+          "end": 402.0404375
+        },
+        {
+          "word": " you'd",
+          "start": 402.0404375,
+          "end": 402.2804375
+        },
+        {
+          "word": " like",
+          "start": 402.2804375,
+          "end": 402.44043750000003
+        },
+        {
+          "word": " to",
+          "start": 402.44043750000003,
+          "end": 402.6204375
+        },
+        {
+          "word": " come",
+          "start": 402.6204375,
+          "end": 402.8204375
+        },
+        {
+          "word": " with",
+          "start": 402.8204375,
+          "end": 403.0404375
+        },
+        {
+          "word": " me,",
+          "start": 403.0404375,
+          "end": 403.76043749999997
+        },
+        {
+          "word": " we",
+          "start": 403.88043749999997,
+          "end": 403.9804375
+        },
+        {
+          "word": " will",
+          "start": 403.9804375,
+          "end": 404.3204375
+        },
+        {
+          "word": " start.",
+          "start": 404.3204375,
+          "end": 405.6404375
+        }
+      ]
+    },
+    {
+      "start": 408.3204375,
+      "end": 414.9004375,
+      "text": " That is the end of Part 2. You now have half a minute to check your answers to Part 2.",
+      "words": [
+        {
+          "word": " That",
+          "start": 408.3204375,
+          "end": 408.7004375
+        },
+        {
+          "word": " is",
+          "start": 408.7004375,
+          "end": 408.88043749999997
+        },
+        {
+          "word": " the",
+          "start": 408.88043749999997,
+          "end": 409.0804375
+        },
+        {
+          "word": " end",
+          "start": 409.0804375,
+          "end": 409.3604375
+        },
+        {
+          "word": " of",
+          "start": 409.3604375,
+          "end": 409.6004375
+        },
+        {
+          "word": " Part",
+          "start": 409.6004375,
+          "end": 409.8604375
+        },
+        {
+          "word": " 2.",
+          "start": 409.8604375,
+          "end": 410.44043750000003
+        },
+        {
+          "word": " You",
+          "start": 410.8204375,
+          "end": 411.1404375
+        },
+        {
+          "word": " now",
+          "start": 411.1404375,
+          "end": 411.44043750000003
+        },
+        {
+          "word": " have",
+          "start": 411.44043750000003,
+          "end": 411.8004375
+        },
+        {
+          "word": " half",
+          "start": 411.8004375,
+          "end": 412.1404375
+        },
+        {
+          "word": " a",
+          "start": 412.1404375,
+          "end": 412.3404375
+        },
+        {
+          "word": " minute",
+          "start": 412.3404375,
+          "end": 412.5604375
+        },
+        {
+          "word": " to",
+          "start": 412.5604375,
+          "end": 412.9604375
+        },
+        {
+          "word": " check",
+          "start": 412.9604375,
+          "end": 413.2004375
+        },
+        {
+          "word": " your",
+          "start": 413.2004375,
+          "end": 413.44043750000003
+        },
+        {
+          "word": " answers",
+          "start": 413.44043750000003,
+          "end": 413.7804375
+        },
+        {
+          "word": " to",
+          "start": 413.7804375,
+          "end": 414.1604375
+        },
+        {
+          "word": " Part",
+          "start": 414.1604375,
+          "end": 414.3604375
+        },
+        {
+          "word": " 2.",
+          "start": 414.3604375,
+          "end": 414.9004375
+        }
+      ]
+    }
+  ]
+}

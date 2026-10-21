@@ -1,0 +1,111 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 52,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Test 2\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nIn the future, nobody will buyprinted newspapers or books because they will be\nable to read everything they want online without paying.\nTo what extent do you agree or disagree with this statement?\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n50\n>|S p. 131\n",
+  "blocks": [
+    {
+      "box": [
+        78.81820468372129,
+        84.9365128098549,
+        109.76964579239723,
+        93.94302373644038
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        77.37860277168984,
+        121.28646108864874,
+        209.4440802477964,
+        132.09426834279614
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        149.71859885126966,
+        331.2434317352598,
+        162.32770975517295
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        178.1507366138906,
+        237.836663518592,
+        189.67906239906276
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        90.69492045798066,
+        212.7011825026451,
+        532.9622312351274,
+        226.39107852527954
+      ],
+      "text": "In the future, nobody will buyprinted newspapers or books because they will be\n"
+    },
+    {
+      "box": [
+        91.05482093598852,
+        227.81700257897523,
+        399.2196052302184,
+        240.42611348287852
+      ],
+      "text": "able to read everything they want online without paying.\n"
+    },
+    {
+      "box": [
+        91.77462189200423,
+        255.16943890757256,
+        427.68759245451594,
+        268.4990829868886
+      ],
+      "text": "To what extent do you agree or disagree with this statement?\n"
+    },
+    {
+      "box": [
+        78.81820468372129,
+        291.5193871863664,
+        496.943363278876,
+        304.48875003358813
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\n"
+    },
+    {
+      "box": [
+        79.17810516172915,
+        307.3550082187122,
+        212.13973131342215,
+        318.8833340038844
+      ],
+      "text": "knowledge or experience.\n"
+    },
+    {
+      "box": [
+        78.81820468372129,
+        335.0673450253174,
+        207.93970620790734,
+        344.79438180512165
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        771.9865253268591,
+        180.66283492107922,
+        784.9558881740809
+      ],
+      "text": "50\n>|S p. 131\n"
+    }
+  ]
+}

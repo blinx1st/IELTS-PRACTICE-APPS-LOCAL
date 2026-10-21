@@ -1,0 +1,2532 @@
+{
+  "audioSha256": "87bd934522d3f332a3ce71a1fa55c97d1380ef45a3df981e2baa10e427a01f9b",
+  "duration": 481.8808125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 1.5999999999999956,
+      "end": 9.58,
+      "text": " Test 2. This is the IELTS Listening Test. You will hear a number of different recordings",
+      "words": [
+        {
+          "word": " Test",
+          "start": 1.5999999999999956,
+          "end": 2.159999999999998
+        },
+        {
+          "word": " 2.",
+          "start": 2.159999999999998,
+          "end": 2.72
+        },
+        {
+          "word": " This",
+          "start": 3.52,
+          "end": 3.74
+        },
+        {
+          "word": " is",
+          "start": 3.74,
+          "end": 4.06
+        },
+        {
+          "word": " the",
+          "start": 4.06,
+          "end": 4.26
+        },
+        {
+          "word": " IELTS",
+          "start": 4.26,
+          "end": 4.72
+        },
+        {
+          "word": " Listening",
+          "start": 4.72,
+          "end": 5.22
+        },
+        {
+          "word": " Test.",
+          "start": 5.22,
+          "end": 6.06
+        },
+        {
+          "word": " You",
+          "start": 7.54,
+          "end": 7.6
+        },
+        {
+          "word": " will",
+          "start": 7.6,
+          "end": 7.82
+        },
+        {
+          "word": " hear",
+          "start": 7.82,
+          "end": 8.02
+        },
+        {
+          "word": " a",
+          "start": 8.02,
+          "end": 8.22
+        },
+        {
+          "word": " number",
+          "start": 8.22,
+          "end": 8.4
+        },
+        {
+          "word": " of",
+          "start": 8.4,
+          "end": 8.78
+        },
+        {
+          "word": " different",
+          "start": 8.78,
+          "end": 9.02
+        },
+        {
+          "word": " recordings",
+          "start": 9.02,
+          "end": 9.58
+        }
+      ]
+    },
+    {
+      "start": 9.58,
+      "end": 15.82,
+      "text": " and you will have to answer questions on what you hear. There will be time for you to read",
+      "words": [
+        {
+          "word": " and",
+          "start": 9.58,
+          "end": 10.14
+        },
+        {
+          "word": " you",
+          "start": 10.14,
+          "end": 10.28
+        },
+        {
+          "word": " will",
+          "start": 10.28,
+          "end": 10.42
+        },
+        {
+          "word": " have",
+          "start": 10.42,
+          "end": 10.62
+        },
+        {
+          "word": " to",
+          "start": 10.62,
+          "end": 10.84
+        },
+        {
+          "word": " answer",
+          "start": 10.84,
+          "end": 11.2
+        },
+        {
+          "word": " questions",
+          "start": 11.2,
+          "end": 11.84
+        },
+        {
+          "word": " on",
+          "start": 11.84,
+          "end": 12.34
+        },
+        {
+          "word": " what",
+          "start": 12.34,
+          "end": 12.54
+        },
+        {
+          "word": " you",
+          "start": 12.54,
+          "end": 12.78
+        },
+        {
+          "word": " hear.",
+          "start": 12.78,
+          "end": 13.2
+        },
+        {
+          "word": " There",
+          "start": 13.98,
+          "end": 14.18
+        },
+        {
+          "word": " will",
+          "start": 14.18,
+          "end": 14.36
+        },
+        {
+          "word": " be",
+          "start": 14.36,
+          "end": 14.6
+        },
+        {
+          "word": " time",
+          "start": 14.6,
+          "end": 14.88
+        },
+        {
+          "word": " for",
+          "start": 14.88,
+          "end": 15.14
+        },
+        {
+          "word": " you",
+          "start": 15.14,
+          "end": 15.32
+        },
+        {
+          "word": " to",
+          "start": 15.32,
+          "end": 15.52
+        },
+        {
+          "word": " read",
+          "start": 15.52,
+          "end": 15.82
+        }
+      ]
+    },
+    {
+      "start": 15.82,
+      "end": 22.32,
+      "text": " the instructions and questions and you will have a chance to check your work. All the recordings",
+      "words": [
+        {
+          "word": " the",
+          "start": 15.82,
+          "end": 16.18
+        },
+        {
+          "word": " instructions",
+          "start": 16.18,
+          "end": 16.6
+        },
+        {
+          "word": " and",
+          "start": 16.6,
+          "end": 17.16
+        },
+        {
+          "word": " questions",
+          "start": 17.16,
+          "end": 17.72
+        },
+        {
+          "word": " and",
+          "start": 17.72,
+          "end": 18.32
+        },
+        {
+          "word": " you",
+          "start": 18.32,
+          "end": 18.48
+        },
+        {
+          "word": " will",
+          "start": 18.48,
+          "end": 18.64
+        },
+        {
+          "word": " have",
+          "start": 18.64,
+          "end": 18.88
+        },
+        {
+          "word": " a",
+          "start": 18.88,
+          "end": 19.04
+        },
+        {
+          "word": " chance",
+          "start": 19.04,
+          "end": 19.36
+        },
+        {
+          "word": " to",
+          "start": 19.36,
+          "end": 19.66
+        },
+        {
+          "word": " check",
+          "start": 19.66,
+          "end": 19.94
+        },
+        {
+          "word": " your",
+          "start": 19.94,
+          "end": 20.24
+        },
+        {
+          "word": " work.",
+          "start": 20.24,
+          "end": 20.86
+        },
+        {
+          "word": " All",
+          "start": 21.38,
+          "end": 21.66
+        },
+        {
+          "word": " the",
+          "start": 21.66,
+          "end": 21.88
+        },
+        {
+          "word": " recordings",
+          "start": 21.88,
+          "end": 22.32
+        }
+      ]
+    },
+    {
+      "start": 22.32,
+      "end": 29.86,
+      "text": " will be played once only. The test is in four parts. At the end of the test, you will",
+      "words": [
+        {
+          "word": " will",
+          "start": 22.32,
+          "end": 22.82
+        },
+        {
+          "word": " be",
+          "start": 22.82,
+          "end": 23.06
+        },
+        {
+          "word": " played",
+          "start": 23.06,
+          "end": 23.42
+        },
+        {
+          "word": " once",
+          "start": 23.42,
+          "end": 23.9
+        },
+        {
+          "word": " only.",
+          "start": 23.9,
+          "end": 24.38
+        },
+        {
+          "word": " The",
+          "start": 25.08,
+          "end": 25.3
+        },
+        {
+          "word": " test",
+          "start": 25.3,
+          "end": 25.68
+        },
+        {
+          "word": " is",
+          "start": 25.68,
+          "end": 26.02
+        },
+        {
+          "word": " in",
+          "start": 26.02,
+          "end": 26.28
+        },
+        {
+          "word": " four",
+          "start": 26.28,
+          "end": 26.52
+        },
+        {
+          "word": " parts.",
+          "start": 26.52,
+          "end": 27.0
+        },
+        {
+          "word": " At",
+          "start": 27.88,
+          "end": 28.1
+        },
+        {
+          "word": " the",
+          "start": 28.1,
+          "end": 28.32
+        },
+        {
+          "word": " end",
+          "start": 28.32,
+          "end": 28.54
+        },
+        {
+          "word": " of",
+          "start": 28.54,
+          "end": 28.74
+        },
+        {
+          "word": " the",
+          "start": 28.74,
+          "end": 28.9
+        },
+        {
+          "word": " test,",
+          "start": 28.9,
+          "end": 29.22
+        },
+        {
+          "word": " you",
+          "start": 29.4,
+          "end": 29.68
+        },
+        {
+          "word": " will",
+          "start": 29.68,
+          "end": 29.86
+        }
+      ]
+    },
+    {
+      "start": 29.86,
+      "end": 34.9,
+      "text": " given 10 minutes to transfer your answers to an answer sheet.",
+      "words": [
+        {
+          "word": " given",
+          "start": 29.86,
+          "end": 30.26
+        },
+        {
+          "word": " 10",
+          "start": 30.26,
+          "end": 30.8
+        },
+        {
+          "word": " minutes",
+          "start": 30.8,
+          "end": 31.16
+        },
+        {
+          "word": " to",
+          "start": 31.16,
+          "end": 31.88
+        },
+        {
+          "word": " transfer",
+          "start": 31.88,
+          "end": 32.2
+        },
+        {
+          "word": " your",
+          "start": 32.2,
+          "end": 32.64
+        },
+        {
+          "word": " answers",
+          "start": 32.64,
+          "end": 32.98
+        },
+        {
+          "word": " to",
+          "start": 32.98,
+          "end": 33.44
+        },
+        {
+          "word": " an",
+          "start": 33.44,
+          "end": 33.68
+        },
+        {
+          "word": " answer",
+          "start": 33.68,
+          "end": 33.86
+        },
+        {
+          "word": " sheet.",
+          "start": 33.86,
+          "end": 34.9
+        }
+      ]
+    },
+    {
+      "start": 36.46,
+      "end": 40.04,
+      "text": " Now turn to part 1.",
+      "words": [
+        {
+          "word": " Now",
+          "start": 36.46,
+          "end": 36.72
+        },
+        {
+          "word": " turn",
+          "start": 36.72,
+          "end": 37.06
+        },
+        {
+          "word": " to",
+          "start": 37.06,
+          "end": 37.36
+        },
+        {
+          "word": " part",
+          "start": 37.36,
+          "end": 37.58
+        },
+        {
+          "word": " 1.",
+          "start": 37.58,
+          "end": 40.04
+        }
+      ]
+    },
+    {
+      "start": 42.88,
+      "end": 44.04,
+      "text": " Part 1.",
+      "words": [
+        {
+          "word": " Part",
+          "start": 42.88,
+          "end": 43.32
+        },
+        {
+          "word": " 1.",
+          "start": 43.32,
+          "end": 44.04
+        }
+      ]
+    },
+    {
+      "start": 44.56,
+      "end": 48.66,
+      "text": " You will hear two friends talking about a guitar group.",
+      "words": [
+        {
+          "word": " You",
+          "start": 44.56,
+          "end": 44.7
+        },
+        {
+          "word": " will",
+          "start": 44.7,
+          "end": 44.92
+        },
+        {
+          "word": " hear",
+          "start": 44.92,
+          "end": 45.16
+        },
+        {
+          "word": " two",
+          "start": 45.16,
+          "end": 45.58
+        },
+        {
+          "word": " friends",
+          "start": 45.58,
+          "end": 46.08
+        },
+        {
+          "word": " talking",
+          "start": 46.08,
+          "end": 46.74
+        },
+        {
+          "word": " about",
+          "start": 46.74,
+          "end": 47.22
+        },
+        {
+          "word": " a",
+          "start": 47.22,
+          "end": 47.5
+        },
+        {
+          "word": " guitar",
+          "start": 47.5,
+          "end": 47.86
+        },
+        {
+          "word": " group.",
+          "start": 47.86,
+          "end": 48.66
+        }
+      ]
+    },
+    {
+      "start": 49.720000000000006,
+      "end": 54.24,
+      "text": " First, you have some time to look at questions 1 to 6.",
+      "words": [
+        {
+          "word": " First,",
+          "start": 49.720000000000006,
+          "end": 50.34
+        },
+        {
+          "word": " you",
+          "start": 50.6,
+          "end": 50.78
+        },
+        {
+          "word": " have",
+          "start": 50.78,
+          "end": 51.02
+        },
+        {
+          "word": " some",
+          "start": 51.02,
+          "end": 51.34
+        },
+        {
+          "word": " time",
+          "start": 51.34,
+          "end": 51.66
+        },
+        {
+          "word": " to",
+          "start": 51.66,
+          "end": 51.86
+        },
+        {
+          "word": " look",
+          "start": 51.86,
+          "end": 52.1
+        },
+        {
+          "word": " at",
+          "start": 52.1,
+          "end": 52.5
+        },
+        {
+          "word": " questions",
+          "start": 52.5,
+          "end": 52.8
+        },
+        {
+          "word": " 1",
+          "start": 52.8,
+          "end": 53.3
+        },
+        {
+          "word": " to",
+          "start": 53.3,
+          "end": 53.52
+        },
+        {
+          "word": " 6.",
+          "start": 53.52,
+          "end": 54.24
+        }
+      ]
+    },
+    {
+      "start": 83.82000000000001,
+      "end": 88.66,
+      "text": " Now listen carefully and answer questions one to six.",
+      "words": [
+        {
+          "word": " Now",
+          "start": 83.82000000000001,
+          "end": 84.54
+        },
+        {
+          "word": " listen",
+          "start": 84.54,
+          "end": 85.02
+        },
+        {
+          "word": " carefully",
+          "start": 85.02,
+          "end": 85.48
+        },
+        {
+          "word": " and",
+          "start": 85.48,
+          "end": 86.14
+        },
+        {
+          "word": " answer",
+          "start": 86.14,
+          "end": 86.56
+        },
+        {
+          "word": " questions",
+          "start": 86.56,
+          "end": 87.16
+        },
+        {
+          "word": " one",
+          "start": 87.16,
+          "end": 87.62
+        },
+        {
+          "word": " to",
+          "start": 87.62,
+          "end": 87.86
+        },
+        {
+          "word": " six.",
+          "start": 87.86,
+          "end": 88.66
+        }
+      ]
+    },
+    {
+      "start": 91.96,
+      "end": 94.26,
+      "text": " Hi Coleman, how are you?",
+      "words": [
+        {
+          "word": " Hi",
+          "start": 91.96,
+          "end": 92.4
+        },
+        {
+          "word": " Coleman,",
+          "start": 92.4,
+          "end": 92.84
+        },
+        {
+          "word": " how",
+          "start": 93.28,
+          "end": 93.52
+        },
+        {
+          "word": " are",
+          "start": 93.52,
+          "end": 93.78
+        },
+        {
+          "word": " you?",
+          "start": 93.78,
+          "end": 94.26
+        }
+      ]
+    },
+    {
+      "start": 94.48,
+      "end": 95.26,
+      "text": " Good thanks.",
+      "words": [
+        {
+          "word": " Good",
+          "start": 94.48,
+          "end": 94.76
+        },
+        {
+          "word": " thanks.",
+          "start": 94.76,
+          "end": 95.26
+        }
+      ]
+    },
+    {
+      "start": 95.9,
+      "end": 102.34,
+      "text": " I wanted to have a chat with you because our friend Josh told me that you've joined a guitar group",
+      "words": [
+        {
+          "word": " I",
+          "start": 95.9,
+          "end": 96.04
+        },
+        {
+          "word": " wanted",
+          "start": 96.04,
+          "end": 96.34
+        },
+        {
+          "word": " to",
+          "start": 96.34,
+          "end": 96.54
+        },
+        {
+          "word": " have",
+          "start": 96.54,
+          "end": 96.86
+        },
+        {
+          "word": " a",
+          "start": 96.86,
+          "end": 96.94
+        },
+        {
+          "word": " chat",
+          "start": 96.94,
+          "end": 97.16
+        },
+        {
+          "word": " with",
+          "start": 97.16,
+          "end": 97.42
+        },
+        {
+          "word": " you",
+          "start": 97.42,
+          "end": 97.66
+        },
+        {
+          "word": " because",
+          "start": 97.66,
+          "end": 98.3
+        },
+        {
+          "word": " our",
+          "start": 98.3,
+          "end": 98.64
+        },
+        {
+          "word": " friend",
+          "start": 98.64,
+          "end": 99.08
+        },
+        {
+          "word": " Josh",
+          "start": 99.08,
+          "end": 99.56
+        },
+        {
+          "word": " told",
+          "start": 99.56,
+          "end": 99.96
+        },
+        {
+          "word": " me",
+          "start": 99.96,
+          "end": 100.32
+        },
+        {
+          "word": " that",
+          "start": 100.32,
+          "end": 100.6
+        },
+        {
+          "word": " you've",
+          "start": 100.6,
+          "end": 100.92
+        },
+        {
+          "word": " joined",
+          "start": 100.92,
+          "end": 101.26
+        },
+        {
+          "word": " a",
+          "start": 101.26,
+          "end": 101.52
+        },
+        {
+          "word": " guitar",
+          "start": 101.52,
+          "end": 101.88
+        },
+        {
+          "word": " group",
+          "start": 101.88,
+          "end": 102.34
+        }
+      ]
+    },
+    {
+      "start": 102.34,
+      "end": 104.38,
+      "text": " and it sounds interesting.",
+      "words": [
+        {
+          "word": " and",
+          "start": 102.34,
+          "end": 103.06
+        },
+        {
+          "word": " it",
+          "start": 103.06,
+          "end": 103.4
+        },
+        {
+          "word": " sounds",
+          "start": 103.4,
+          "end": 103.72
+        },
+        {
+          "word": " interesting.",
+          "start": 103.72,
+          "end": 104.38
+        }
+      ]
+    },
+    {
+      "start": 105.08,
+      "end": 107.04,
+      "text": " I'd really like to learn myself.",
+      "words": [
+        {
+          "word": " I'd",
+          "start": 105.08,
+          "end": 105.34
+        },
+        {
+          "word": " really",
+          "start": 105.34,
+          "end": 105.64
+        },
+        {
+          "word": " like",
+          "start": 105.64,
+          "end": 105.92
+        },
+        {
+          "word": " to",
+          "start": 105.92,
+          "end": 106.04
+        },
+        {
+          "word": " learn",
+          "start": 106.04,
+          "end": 106.36
+        },
+        {
+          "word": " myself.",
+          "start": 106.36,
+          "end": 107.04
+        }
+      ]
+    },
+    {
+      "start": 107.04,
+      "end": 109.1,
+      "text": " Why don't you come along?",
+      "words": [
+        {
+          "word": " Why",
+          "start": 107.04,
+          "end": 107.94
+        },
+        {
+          "word": " don't",
+          "start": 107.94,
+          "end": 108.2
+        },
+        {
+          "word": " you",
+          "start": 108.2,
+          "end": 108.4
+        },
+        {
+          "word": " come",
+          "start": 108.4,
+          "end": 108.62
+        },
+        {
+          "word": " along?",
+          "start": 108.62,
+          "end": 109.1
+        }
+      ]
+    },
+    {
+      "start": 109.84,
+      "end": 111.84,
+      "text": " I'm sure there's room for another person.",
+      "words": [
+        {
+          "word": " I'm",
+          "start": 109.84,
+          "end": 109.88
+        },
+        {
+          "word": " sure",
+          "start": 109.88,
+          "end": 110.1
+        },
+        {
+          "word": " there's",
+          "start": 110.1,
+          "end": 110.36
+        },
+        {
+          "word": " room",
+          "start": 110.36,
+          "end": 110.62
+        },
+        {
+          "word": " for",
+          "start": 110.62,
+          "end": 110.84
+        },
+        {
+          "word": " another",
+          "start": 110.84,
+          "end": 111.2
+        },
+        {
+          "word": " person.",
+          "start": 111.2,
+          "end": 111.84
+        }
+      ]
+    },
+    {
+      "start": 112.14,
+      "end": 112.58,
+      "text": " Really?",
+      "words": [
+        {
+          "word": " Really?",
+          "start": 112.14,
+          "end": 112.58
+        }
+      ]
+    },
+    {
+      "start": 113.54,
+      "end": 115.86,
+      "text": " So who runs the classes?",
+      "words": [
+        {
+          "word": " So",
+          "start": 113.54,
+          "end": 114.16
+        },
+        {
+          "word": " who",
+          "start": 114.16,
+          "end": 114.78
+        },
+        {
+          "word": " runs",
+          "start": 114.78,
+          "end": 115.1
+        },
+        {
+          "word": " the",
+          "start": 115.1,
+          "end": 115.38
+        },
+        {
+          "word": " classes?",
+          "start": 115.38,
+          "end": 115.86
+        }
+      ]
+    },
+    {
+      "start": 116.62,
+      "end": 118.48,
+      "text": " He's called a coordinator.",
+      "words": [
+        {
+          "word": " He's",
+          "start": 116.62,
+          "end": 117.06
+        },
+        {
+          "word": " called",
+          "start": 117.06,
+          "end": 117.48
+        },
+        {
+          "word": " a",
+          "start": 117.48,
+          "end": 117.84
+        },
+        {
+          "word": " coordinator.",
+          "start": 117.84,
+          "end": 118.48
+        }
+      ]
+    },
+    {
+      "start": 119.56,
+      "end": 119.98,
+      "text": " His name...",
+      "words": [
+        {
+          "word": " His",
+          "start": 119.56,
+          "end": 119.76
+        },
+        {
+          "word": " name...",
+          "start": 119.76,
+          "end": 119.98
+        }
+      ]
+    },
+    {
+      "start": 362.8008125,
+      "end": 369.28081249999997,
+      "text": " Garry reminds us where to put our fingers for each chord, and then we play them together.",
+      "words": [
+        {
+          "word": " Garry",
+          "start": 362.8008125,
+          "end": 363.5208125
+        },
+        {
+          "word": " reminds",
+          "start": 363.5208125,
+          "end": 363.8608125
+        },
+        {
+          "word": " us",
+          "start": 363.8608125,
+          "end": 364.3208125
+        },
+        {
+          "word": " where",
+          "start": 364.3208125,
+          "end": 364.5608125
+        },
+        {
+          "word": " to",
+          "start": 364.5608125,
+          "end": 364.72081249999997
+        },
+        {
+          "word": " put",
+          "start": 364.72081249999997,
+          "end": 364.9408125
+        },
+        {
+          "word": " our",
+          "start": 364.9408125,
+          "end": 365.1808125
+        },
+        {
+          "word": " fingers",
+          "start": 365.1808125,
+          "end": 365.5608125
+        },
+        {
+          "word": " for",
+          "start": 365.5608125,
+          "end": 365.9408125
+        },
+        {
+          "word": " each",
+          "start": 365.9408125,
+          "end": 366.3208125
+        },
+        {
+          "word": " chord,",
+          "start": 366.3208125,
+          "end": 366.9008125
+        },
+        {
+          "word": " and",
+          "start": 367.2608125,
+          "end": 367.5608125
+        },
+        {
+          "word": " then",
+          "start": 367.5608125,
+          "end": 367.8208125
+        },
+        {
+          "word": " we",
+          "start": 367.8208125,
+          "end": 368.0208125
+        },
+        {
+          "word": " play",
+          "start": 368.0208125,
+          "end": 368.28081249999997
+        },
+        {
+          "word": " them",
+          "start": 368.28081249999997,
+          "end": 368.5208125
+        },
+        {
+          "word": " together.",
+          "start": 368.5208125,
+          "end": 369.28081249999997
+        }
+      ]
+    },
+    {
+      "start": 370.16081249999996,
+      "end": 375.7008125,
+      "text": " Sometimes we all just start laughing, because we're so bad at keeping time.",
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 370.16081249999996,
+          "end": 370.66081249999996
+        },
+        {
+          "word": " we",
+          "start": 370.66081249999996,
+          "end": 371.0008125
+        },
+        {
+          "word": " all",
+          "start": 371.0008125,
+          "end": 371.22081249999997
+        },
+        {
+          "word": " just",
+          "start": 371.22081249999997,
+          "end": 371.5608125
+        },
+        {
+          "word": " start",
+          "start": 371.5608125,
+          "end": 371.8208125
+        },
+        {
+          "word": " laughing,",
+          "start": 371.8208125,
+          "end": 372.34081249999997
+        },
+        {
+          "word": " because",
+          "start": 372.8808125,
+          "end": 373.16081249999996
+        },
+        {
+          "word": " we're",
+          "start": 373.16081249999996,
+          "end": 373.5408125
+        },
+        {
+          "word": " so",
+          "start": 373.5408125,
+          "end": 374.0208125
+        },
+        {
+          "word": " bad",
+          "start": 374.0208125,
+          "end": 374.4008125
+        },
+        {
+          "word": " at",
+          "start": 374.4008125,
+          "end": 374.7608125
+        },
+        {
+          "word": " keeping",
+          "start": 374.7608125,
+          "end": 375.0208125
+        },
+        {
+          "word": " time.",
+          "start": 375.0208125,
+          "end": 375.7008125
+        }
+      ]
+    },
+    {
+      "start": 376.4208125,
+      "end": 379.7608125,
+      "text": " So, Garry starts clapping to help us.",
+      "words": [
+        {
+          "word": " So,",
+          "start": 376.4208125,
+          "end": 376.9408125
+        },
+        {
+          "word": " Garry",
+          "start": 377.16081249999996,
+          "end": 377.3608125
+        },
+        {
+          "word": " starts",
+          "start": 377.3608125,
+          "end": 377.8808125
+        },
+        {
+          "word": " clapping",
+          "start": 377.8808125,
+          "end": 378.34081249999997
+        },
+        {
+          "word": " to",
+          "start": 378.34081249999997,
+          "end": 378.7008125
+        },
+        {
+          "word": " help",
+          "start": 378.7008125,
+          "end": 378.9808125
+        },
+        {
+          "word": " us.",
+          "start": 378.9808125,
+          "end": 379.7608125
+        }
+      ]
+    },
+    {
+      "start": 380.3008125,
+      "end": 382.4808125,
+      "text": " Do you learn to play any songs?",
+      "words": [
+        {
+          "word": " Do",
+          "start": 380.3008125,
+          "end": 380.34081249999997
+        },
+        {
+          "word": " you",
+          "start": 380.34081249999997,
+          "end": 380.6808125
+        },
+        {
+          "word": " learn",
+          "start": 380.6808125,
+          "end": 381.0408125
+        },
+        {
+          "word": " to",
+          "start": 381.0408125,
+          "end": 381.22081249999997
+        },
+        {
+          "word": " play",
+          "start": 381.22081249999997,
+          "end": 381.5808125
+        },
+        {
+          "word": " any",
+          "start": 381.5808125,
+          "end": 381.9008125
+        },
+        {
+          "word": " songs?",
+          "start": 381.9008125,
+          "end": 382.4808125
+        }
+      ]
+    },
+    {
+      "start": 382.78081249999997,
+      "end": 383.3208125,
+      "text": " Yes.",
+      "words": [
+        {
+          "word": " Yes.",
+          "start": 382.78081249999997,
+          "end": 383.3208125
+        }
+      ]
+    },
+    {
+      "start": 384.0608125,
+      "end": 387.8608125,
+      "text": " We do at least one song with words and chords.",
+      "words": [
+        {
+          "word": " We",
+          "start": 384.0608125,
+          "end": 384.3008125
+        },
+        {
+          "word": " do",
+          "start": 384.3008125,
+          "end": 384.5608125
+        },
+        {
+          "word": " at",
+          "start": 384.5608125,
+          "end": 384.72081249999997
+        },
+        {
+          "word": " least",
+          "start": 384.72081249999997,
+          "end": 385.0408125
+        },
+        {
+          "word": " one",
+          "start": 385.0408125,
+          "end": 385.4408125
+        },
+        {
+          "word": " song",
+          "start": 385.4408125,
+          "end": 385.9008125
+        },
+        {
+          "word": " with",
+          "start": 385.9008125,
+          "end": 386.2408125
+        },
+        {
+          "word": " words",
+          "start": 386.2408125,
+          "end": 386.78081249999997
+        },
+        {
+          "word": " and",
+          "start": 386.78081249999997,
+          "end": 387.3008125
+        },
+        {
+          "word": " chords.",
+          "start": 387.3008125,
+          "end": 387.8608125
+        }
+      ]
+    },
+    {
+      "start": 388.6808125,
+      "end": 390.9008125,
+      "text": " I mean, that's harder than you think.",
+      "words": [
+        {
+          "word": " I",
+          "start": 388.6808125,
+          "end": 388.78081249999997
+        },
+        {
+          "word": " mean,",
+          "start": 388.78081249999997,
+          "end": 389.22081249999997
+        },
+        {
+          "word": " that's",
+          "start": 389.28081249999997,
+          "end": 389.78081249999997
+        },
+        {
+          "word": " harder",
+          "start": 389.78081249999997,
+          "end": 390.0608125
+        },
+        {
+          "word": " than",
+          "start": 390.0608125,
+          "end": 390.28081249999997
+        },
+        {
+          "word": " you",
+          "start": 390.28081249999997,
+          "end": 390.5608125
+        },
+        {
+          "word": " think.",
+          "start": 390.5608125,
+          "end": 390.9008125
+        }
+      ]
+    },
+    {
+      "start": 390.9008125,
+      "end": 393.5808125,
+      "text": " Oh, I'm sure it is.",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 390.9008125,
+          "end": 391.6208125
+        },
+        {
+          "word": " I'm",
+          "start": 391.9608125,
+          "end": 392.3208125
+        },
+        {
+          "word": " sure",
+          "start": 392.3208125,
+          "end": 392.5608125
+        },
+        {
+          "word": " it",
+          "start": 392.5608125,
+          "end": 392.8808125
+        },
+        {
+          "word": " is.",
+          "start": 392.8808125,
+          "end": 393.5808125
+        }
+      ]
+    },
+    {
+      "start": 394.1608125,
+      "end": 397.6408125,
+      "text": " That part of the lesson takes about 15 minutes.",
+      "words": [
+        {
+          "word": " That",
+          "start": 394.1608125,
+          "end": 394.1608125
+        },
+        {
+          "word": " part",
+          "start": 394.1608125,
+          "end": 394.5408125
+        },
+        {
+          "word": " of",
+          "start": 394.5408125,
+          "end": 394.6808125
+        },
+        {
+          "word": " the",
+          "start": 394.6808125,
+          "end": 394.84081249999997
+        },
+        {
+          "word": " lesson",
+          "start": 394.84081249999997,
+          "end": 395.34081249999997
+        },
+        {
+          "word": " takes",
+          "start": 395.34081249999997,
+          "end": 395.9408125
+        },
+        {
+          "word": " about",
+          "start": 395.9408125,
+          "end": 396.4608125
+        },
+        {
+          "word": " 15",
+          "start": 396.4608125,
+          "end": 397.0608125
+        },
+        {
+          "word": " minutes.",
+          "start": 397.0608125,
+          "end": 397.6408125
+        }
+      ]
+    },
+    {
+      "start": 398.8608125,
+      "end": 403.9008125,
+      "text": " He often brings a recording of the song and plays it to us first.",
+      "words": [
+        {
+          "word": " He",
+          "start": 398.8608125,
+          "end": 398.9008125
+        },
+        {
+          "word": " often",
+          "start": 398.9008125,
+          "end": 399.3008125
+        },
+        {
+          "word": " brings",
+          "start": 399.3008125,
+          "end": 399.7008125
+        },
+        {
+          "word": " a",
+          "start": 399.7008125,
+          "end": 400.0208125
+        },
+        {
+          "word": " recording",
+          "start": 400.0208125,
+          "end": 400.4808125
+        },
+        {
+          "word": " of",
+          "start": 400.4808125,
+          "end": 400.9208125
+        },
+        {
+          "word": " the",
+          "start": 400.9208125,
+          "end": 401.1408125
+        },
+        {
+          "word": " song",
+          "start": 401.1408125,
+          "end": 401.6208125
+        },
+        {
+          "word": " and",
+          "start": 401.6208125,
+          "end": 402.2608125
+        },
+        {
+          "word": " plays",
+          "start": 402.2608125,
+          "end": 402.60081249999996
+        },
+        {
+          "word": " it",
+          "start": 402.60081249999996,
+          "end": 402.84081249999997
+        },
+        {
+          "word": " to",
+          "start": 402.84081249999997,
+          "end": 402.9608125
+        },
+        {
+          "word": " us",
+          "start": 402.9608125,
+          "end": 403.1808125
+        },
+        {
+          "word": " first.",
+          "start": 403.1808125,
+          "end": 403.9008125
+        }
+      ]
+    },
+    {
+      "start": 404.60081249999996,
+      "end": 410.9808125,
+      "text": " Then, he hands out the song, and if there's a new chord in it, we practice that before",
+      "words": [
+        {
+          "word": " Then,",
+          "start": 404.60081249999996,
+          "end": 404.9808125
+        },
+        {
+          "word": " he",
+          "start": 405.34081249999997,
+          "end": 405.5208125
+        },
+        {
+          "word": " hands",
+          "start": 405.5208125,
+          "end": 405.8208125
+        },
+        {
+          "word": " out",
+          "start": 405.8208125,
+          "end": 406.0608125
+        },
+        {
+          "word": " the",
+          "start": 406.0608125,
+          "end": 406.2608125
+        },
+        {
+          "word": " song,",
+          "start": 406.2608125,
+          "end": 406.8808125
+        },
+        {
+          "word": " and",
+          "start": 406.8808125,
+          "end": 407.1808125
+        },
+        {
+          "word": " if",
+          "start": 407.1808125,
+          "end": 407.3608125
+        },
+        {
+          "word": " there's",
+          "start": 407.3608125,
+          "end": 407.7008125
+        },
+        {
+          "word": " a",
+          "start": 407.7008125,
+          "end": 407.9008125
+        },
+        {
+          "word": " new",
+          "start": 407.9008125,
+          "end": 408.2608125
+        },
+        {
+          "word": " chord",
+          "start": 408.2608125,
+          "end": 408.60081249999996
+        },
+        {
+          "word": " in",
+          "start": 408.60081249999996,
+          "end": 408.78081249999997
+        },
+        {
+          "word": " it,",
+          "start": 408.78081249999997,
+          "end": 409.22081249999997
+        },
+        {
+          "word": " we",
+          "start": 409.5008125,
+          "end": 409.72081249999997
+        },
+        {
+          "word": " practice",
+          "start": 409.72081249999997,
+          "end": 410.0808125
+        },
+        {
+          "word": " that",
+          "start": 410.0808125,
+          "end": 410.5408125
+        },
+        {
+          "word": " before",
+          "start": 410.5408125,
+          "end": 410.9808125
+        }
+      ]
+    },
+    {
+      "start": 410.9808125,
+      "end": 412.1408125,
+      "text": " we play it together.",
+      "words": [
+        {
+          "word": " we",
+          "start": 410.9808125,
+          "end": 411.22081249999997
+        },
+        {
+          "word": " play",
+          "start": 411.22081249999997,
+          "end": 411.4408125
+        },
+        {
+          "word": " it",
+          "start": 411.4408125,
+          "end": 411.6208125
+        },
+        {
+          "word": " together.",
+          "start": 411.6208125,
+          "end": 412.1408125
+        }
+      ]
+    },
+    {
+      "start": 412.6808125,
+      "end": 414.4808125,
+      "text": " But really slowly.",
+      "words": [
+        {
+          "word": " But",
+          "start": 412.6808125,
+          "end": 413.3608125
+        },
+        {
+          "word": " really",
+          "start": 413.3608125,
+          "end": 413.9408125
+        },
+        {
+          "word": " slowly.",
+          "start": 413.9408125,
+          "end": 414.4808125
+        }
+      ]
+    },
+    {
+      "start": 415.60081249999996,
+      "end": 417.60081249999996,
+      "text": " Do you do any finger picking?",
+      "words": [
+        {
+          "word": " Do",
+          "start": 415.60081249999996,
+          "end": 415.84081249999997
+        },
+        {
+          "word": " you",
+          "start": 415.84081249999997,
+          "end": 416.0608125
+        },
+        {
+          "word": " do",
+          "start": 416.0608125,
+          "end": 416.3808125
+        },
+        {
+          "word": " any",
+          "start": 416.3808125,
+          "end": 416.8208125
+        },
+        {
+          "word": " finger",
+          "start": 416.8208125,
+          "end": 417.2008125
+        },
+        {
+          "word": " picking?",
+          "start": 417.2008125,
+          "end": 417.60081249999996
+        }
+      ]
+    },
+    {
+      "start": 417.60081249999996,
+      "end": 424.4808125,
+      "text": " That's the last ten minutes of the lesson, when we pick out the individual notes from",
+      "words": [
+        {
+          "word": " That's",
+          "start": 417.60081249999996,
+          "end": 419.0008125
+        },
+        {
+          "word": " the",
+          "start": 419.0008125,
+          "end": 419.22081249999997
+        },
+        {
+          "word": " last",
+          "start": 419.22081249999997,
+          "end": 419.6608125
+        },
+        {
+          "word": " ten",
+          "start": 419.6608125,
+          "end": 420.0408125
+        },
+        {
+          "word": " minutes",
+          "start": 420.0408125,
+          "end": 420.3208125
+        },
+        {
+          "word": " of",
+          "start": 420.3208125,
+          "end": 420.5808125
+        },
+        {
+          "word": " the",
+          "start": 420.5808125,
+          "end": 420.7008125
+        },
+        {
+          "word": " lesson,",
+          "start": 420.7008125,
+          "end": 421.1608125
+        },
+        {
+          "word": " when",
+          "start": 421.72081249999997,
+          "end": 422.0208125
+        },
+        {
+          "word": " we",
+          "start": 422.0208125,
+          "end": 422.2408125
+        },
+        {
+          "word": " pick",
+          "start": 422.2408125,
+          "end": 422.4808125
+        },
+        {
+          "word": " out",
+          "start": 422.4808125,
+          "end": 422.7408125
+        },
+        {
+          "word": " the",
+          "start": 422.7408125,
+          "end": 423.10081249999996
+        },
+        {
+          "word": " individual",
+          "start": 423.10081249999996,
+          "end": 423.5608125
+        },
+        {
+          "word": " notes",
+          "start": 423.5608125,
+          "end": 424.2008125
+        },
+        {
+          "word": " from",
+          "start": 424.2008125,
+          "end": 424.4808125
+        }
+      ]
+    },
+    {
+      "start": 424.4808125,
+      "end": 426.3208125,
+      "text": " a tune he's made up.",
+      "words": [
+        {
+          "word": " a",
+          "start": 424.4808125,
+          "end": 424.7408125
+        },
+        {
+          "word": " tune",
+          "start": 424.7408125,
+          "end": 425.0008125
+        },
+        {
+          "word": " he's",
+          "start": 425.0008125,
+          "end": 425.34081249999997
+        },
+        {
+          "word": " made",
+          "start": 425.34081249999997,
+          "end": 425.6608125
+        },
+        {
+          "word": " up.",
+          "start": 425.6608125,
+          "end": 426.3208125
+        }
+      ]
+    },
+    {
+      "start": 426.7408125,
+      "end": 428.4608125,
+      "text": " It's always quite simple.",
+      "words": [
+        {
+          "word": " It's",
+          "start": 426.7408125,
+          "end": 427.1208125
+        },
+        {
+          "word": " always",
+          "start": 427.1208125,
+          "end": 427.5208125
+        },
+        {
+          "word": " quite",
+          "start": 427.5208125,
+          "end": 427.9408125
+        },
+        {
+          "word": " simple.",
+          "start": 427.9408125,
+          "end": 428.4608125
+        }
+      ]
+    },
+    {
+      "start": 429.0608125,
+      "end": 430.6608125,
+      "text": " That must be hard though.",
+      "words": [
+        {
+          "word": " That",
+          "start": 429.0608125,
+          "end": 429.1808125
+        },
+        {
+          "word": " must",
+          "start": 429.1808125,
+          "end": 429.4408125
+        },
+        {
+          "word": " be",
+          "start": 429.4408125,
+          "end": 429.7408125
+        },
+        {
+          "word": " hard",
+          "start": 429.7408125,
+          "end": 430.2008125
+        },
+        {
+          "word": " though.",
+          "start": 430.2008125,
+          "end": 430.6608125
+        }
+      ]
+    },
+    {
+      "start": 430.8808125,
+      "end": 432.2408125,
+      "text": " No, it is.",
+      "words": [
+        {
+          "word": " No,",
+          "start": 430.8808125,
+          "end": 431.4208125
+        },
+        {
+          "word": " it",
+          "start": 431.4208125,
+          "end": 431.5608125
+        },
+        {
+          "word": " is.",
+          "start": 431.5608125,
+          "end": 432.2408125
+        }
+      ]
+    },
+    {
+      "start": 432.6408125,
+      "end": 436.10081249999996,
+      "text": " But people like it because they can really concentrate.",
+      "words": [
+        {
+          "word": " But",
+          "start": 432.6408125,
+          "end": 432.9008125
+        },
+        {
+          "word": " people",
+          "start": 432.9008125,
+          "end": 433.2808125
+        },
+        {
+          "word": " like",
+          "start": 433.2808125,
+          "end": 433.6408125
+        },
+        {
+          "word": " it",
+          "start": 433.6408125,
+          "end": 434.0008125
+        },
+        {
+          "word": " because",
+          "start": 434.0008125,
+          "end": 434.4408125
+        },
+        {
+          "word": " they",
+          "start": 434.4408125,
+          "end": 434.7008125
+        },
+        {
+          "word": " can",
+          "start": 434.7008125,
+          "end": 435.0008125
+        },
+        {
+          "word": " really",
+          "start": 435.0008125,
+          "end": 435.4208125
+        },
+        {
+          "word": " concentrate.",
+          "start": 435.4208125,
+          "end": 436.10081249999996
+        }
+      ]
+    },
+    {
+      "start": 436.9608125,
+      "end": 441.2008125,
+      "text": " And if we're all playing well, it sounds quite impressive.",
+      "words": [
+        {
+          "word": " And",
+          "start": 436.9608125,
+          "end": 437.5208125
+        },
+        {
+          "word": " if",
+          "start": 437.5208125,
+          "end": 437.7808125
+        },
+        {
+          "word": " we're",
+          "start": 437.7808125,
+          "end": 438.0208125
+        },
+        {
+          "word": " all",
+          "start": 438.0208125,
+          "end": 438.2608125
+        },
+        {
+          "word": " playing",
+          "start": 438.2608125,
+          "end": 438.60081249999996
+        },
+        {
+          "word": " well,",
+          "start": 438.60081249999996,
+          "end": 439.2808125
+        },
+        {
+          "word": " it",
+          "start": 439.4608125,
+          "end": 439.7808125
+        },
+        {
+          "word": " sounds",
+          "start": 439.7808125,
+          "end": 440.1608125
+        },
+        {
+          "word": " quite",
+          "start": 440.1608125,
+          "end": 440.5608125
+        },
+        {
+          "word": " impressive.",
+          "start": 440.5608125,
+          "end": 441.2008125
+        }
+      ]
+    },
+    {
+      "start": 441.2008125,
+      "end": 449.6208125,
+      "text": " The only trouble is that he sometimes gets us to play one at a time, you know, alone.",
+      "words": [
+        {
+          "word": " The",
+          "start": 441.2008125,
+          "end": 442.5208125
+        },
+        {
+          "word": " only",
+          "start": 442.5208125,
+          "end": 442.8608125
+        },
+        {
+          "word": " trouble",
+          "start": 442.8608125,
+          "end": 443.1608125
+        },
+        {
+          "word": " is",
+          "start": 443.1608125,
+          "end": 443.7808125
+        },
+        {
+          "word": " that",
+          "start": 443.7808125,
+          "end": 444.0008125
+        },
+        {
+          "word": " he",
+          "start": 444.0008125,
+          "end": 444.5008125
+        },
+        {
+          "word": " sometimes",
+          "start": 444.5008125,
+          "end": 444.98081249999996
+        },
+        {
+          "word": " gets",
+          "start": 444.98081249999996,
+          "end": 445.3208125
+        },
+        {
+          "word": " us",
+          "start": 445.3208125,
+          "end": 445.5408125
+        },
+        {
+          "word": " to",
+          "start": 445.5408125,
+          "end": 445.8208125
+        },
+        {
+          "word": " play",
+          "start": 445.8208125,
+          "end": 446.1408125
+        },
+        {
+          "word": " one",
+          "start": 446.1408125,
+          "end": 446.4208125
+        },
+        {
+          "word": " at",
+          "start": 446.4208125,
+          "end": 446.6808125
+        },
+        {
+          "word": " a",
+          "start": 446.6808125,
+          "end": 446.9008125
+        },
+        {
+          "word": " time,",
+          "start": 446.9008125,
+          "end": 447.48081249999996
+        },
+        {
+          "word": " you",
+          "start": 447.48081249999996,
+          "end": 448.1208125
+        },
+        {
+          "word": " know,",
+          "start": 448.1208125,
+          "end": 448.5008125
+        },
+        {
+          "word": " alone.",
+          "start": 449.0008125,
+          "end": 449.6208125
+        }
+      ]
+    },
+    {
+      "start": 450.1208125,
+      "end": 451.6408125,
+      "text": " Oh, that's scary.",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 450.1208125,
+          "end": 450.8008125
+        },
+        {
+          "word": " that's",
+          "start": 450.8008125,
+          "end": 451.4608125
+        },
+        {
+          "word": " scary.",
+          "start": 451.4608125,
+          "end": 451.6408125
+        }
+      ]
+    },
+    {
+      "start": 452.0208125,
+      "end": 453.6608125,
+      "text": " Hmm, it is.",
+      "words": [
+        {
+          "word": " Hmm,",
+          "start": 452.0208125,
+          "end": 452.5608125
+        },
+        {
+          "word": " it",
+          "start": 452.6208125,
+          "end": 452.8008125
+        },
+        {
+          "word": " is.",
+          "start": 452.8008125,
+          "end": 453.6608125
+        }
+      ]
+    },
+    {
+      "start": 453.9608125,
+      "end": 456.3208125,
+      "text": " But I've got used to it now.",
+      "words": [
+        {
+          "word": " But",
+          "start": 453.9608125,
+          "end": 454.34081249999997
+        },
+        {
+          "word": " I've",
+          "start": 454.34081249999997,
+          "end": 454.7608125
+        },
+        {
+          "word": " got",
+          "start": 454.7608125,
+          "end": 454.9608125
+        },
+        {
+          "word": " used",
+          "start": 454.9608125,
+          "end": 455.2408125
+        },
+        {
+          "word": " to",
+          "start": 455.2408125,
+          "end": 455.3608125
+        },
+        {
+          "word": " it",
+          "start": 455.3608125,
+          "end": 455.5208125
+        },
+        {
+          "word": " now.",
+          "start": 455.5208125,
+          "end": 456.3208125
+        }
+      ]
+    },
+    {
+      "start": 456.98081249999996,
+      "end": 463.0808125,
+      "text": " At the end, he spends about five minutes telling us what to practice for the following week.",
+      "words": [
+        {
+          "word": " At",
+          "start": 456.98081249999996,
+          "end": 457.2608125
+        },
+        {
+          "word": " the",
+          "start": 457.2608125,
+          "end": 457.4408125
+        },
+        {
+          "word": " end,",
+          "start": 457.4408125,
+          "end": 457.8008125
+        },
+        {
+          "word": " he",
+          "start": 458.1408125,
+          "end": 458.4008125
+        },
+        {
+          "word": " spends",
+          "start": 458.4008125,
+          "end": 458.7408125
+        },
+        {
+          "word": " about",
+          "start": 458.7408125,
+          "end": 459.2408125
+        },
+        {
+          "word": " five",
+          "start": 459.2408125,
+          "end": 459.72081249999997
+        },
+        {
+          "word": " minutes",
+          "start": 459.72081249999997,
+          "end": 460.0608125
+        },
+        {
+          "word": " telling",
+          "start": 460.0608125,
+          "end": 460.4008125
+        },
+        {
+          "word": " us",
+          "start": 460.4008125,
+          "end": 460.6608125
+        },
+        {
+          "word": " what",
+          "start": 460.6608125,
+          "end": 460.8808125
+        },
+        {
+          "word": " to",
+          "start": 460.8808125,
+          "end": 461.1408125
+        },
+        {
+          "word": " practice",
+          "start": 461.1408125,
+          "end": 461.4608125
+        },
+        {
+          "word": " for",
+          "start": 461.4608125,
+          "end": 461.8008125
+        },
+        {
+          "word": " the",
+          "start": 461.8008125,
+          "end": 462.3008125
+        },
+        {
+          "word": " following",
+          "start": 462.3008125,
+          "end": 462.3008125
+        },
+        {
+          "word": " week.",
+          "start": 462.3008125,
+          "end": 463.0808125
+        }
+      ]
+    },
+    {
+      "start": 463.6208125,
+      "end": 465.4408125,
+      "text": " Well, thanks Coleman.",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 463.6208125,
+          "end": 464.2408125
+        },
+        {
+          "word": " thanks",
+          "start": 464.6408125,
+          "end": 465.0608125
+        },
+        {
+          "word": " Coleman.",
+          "start": 465.0608125,
+          "end": 465.4408125
+        }
+      ]
+    },
+    {
+      "start": 466.2608125,
+      "end": 469.3008125,
+      "text": " I'll go and have a look at that website, I think.",
+      "words": [
+        {
+          "word": " I'll",
+          "start": 466.2608125,
+          "end": 466.6608125
+        },
+        {
+          "word": " go",
+          "start": 466.6608125,
+          "end": 466.98081249999996
+        },
+        {
+          "word": " and",
+          "start": 466.98081249999996,
+          "end": 467.1408125
+        },
+        {
+          "word": " have",
+          "start": 467.1408125,
+          "end": 467.34081249999997
+        },
+        {
+          "word": " a",
+          "start": 467.34081249999997,
+          "end": 467.4408125
+        },
+        {
+          "word": " look",
+          "start": 467.4408125,
+          "end": 467.60081249999996
+        },
+        {
+          "word": " at",
+          "start": 467.60081249999996,
+          "end": 467.7608125
+        },
+        {
+          "word": " that",
+          "start": 467.7608125,
+          "end": 468.0408125
+        },
+        {
+          "word": " website,",
+          "start": 468.0408125,
+          "end": 468.48081249999996
+        },
+        {
+          "word": " I",
+          "start": 468.48081249999996,
+          "end": 468.7608125
+        },
+        {
+          "word": " think.",
+          "start": 468.7608125,
+          "end": 469.3008125
+        }
+      ]
+    },
+    {
+      "start": 472.2808125,
+      "end": 479.0808125,
+      "text": " That is the end of part 1. You now have one minute to check your answers to part 1.",
+      "words": [
+        {
+          "word": " That",
+          "start": 472.2808125,
+          "end": 472.8808125
+        },
+        {
+          "word": " is",
+          "start": 472.8808125,
+          "end": 473.0608125
+        },
+        {
+          "word": " the",
+          "start": 473.0608125,
+          "end": 473.2608125
+        },
+        {
+          "word": " end",
+          "start": 473.2608125,
+          "end": 473.5008125
+        },
+        {
+          "word": " of",
+          "start": 473.5008125,
+          "end": 473.7408125
+        },
+        {
+          "word": " part",
+          "start": 473.7408125,
+          "end": 473.9608125
+        },
+        {
+          "word": " 1.",
+          "start": 473.9608125,
+          "end": 474.6408125
+        },
+        {
+          "word": " You",
+          "start": 474.98081249999996,
+          "end": 475.2008125
+        },
+        {
+          "word": " now",
+          "start": 475.2008125,
+          "end": 475.5008125
+        },
+        {
+          "word": " have",
+          "start": 475.5008125,
+          "end": 475.8208125
+        },
+        {
+          "word": " one",
+          "start": 475.8208125,
+          "end": 476.1408125
+        },
+        {
+          "word": " minute",
+          "start": 476.1408125,
+          "end": 476.3808125
+        },
+        {
+          "word": " to",
+          "start": 476.3808125,
+          "end": 476.8608125
+        },
+        {
+          "word": " check",
+          "start": 476.8608125,
+          "end": 477.1208125
+        },
+        {
+          "word": " your",
+          "start": 477.1208125,
+          "end": 477.4008125
+        },
+        {
+          "word": " answers",
+          "start": 477.4008125,
+          "end": 477.7408125
+        },
+        {
+          "word": " to",
+          "start": 477.7408125,
+          "end": 478.1408125
+        },
+        {
+          "word": " part",
+          "start": 478.1408125,
+          "end": 478.3608125
+        },
+        {
+          "word": " 1.",
+          "start": 478.3608125,
+          "end": 479.0808125
+        }
+      ]
+    }
+  ]
+}

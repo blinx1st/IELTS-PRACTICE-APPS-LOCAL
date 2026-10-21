@@ -1,0 +1,187 @@
+{
+  "book": 14,
+  "test": 3,
+  "part": 2,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T3S2.mp3",
+  "sha256": "f2022e64d4fd7015a9b6616245bfa95fab2a4e021e23449c5652aa80f57eb1ac",
+  "duration": 397.725,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      297.610625,
+      397.610625
+    ]
+  ],
+  "text": "section 2. You will hear a woman talking to a group of college students about volunteering to help other people. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Good morning. My name is Lucy Credenden and I am the Director of Operations for an organisation that arranges volunteering in this part of the country. I'm hoping I can persuade one or two of you to become volunteers yourselves. Let me start by briefly explaining what we mean by volunteering. Volunteers are teenagers and adults who choose to spend some time unpaid helping other people in some way. Most volunteers devote to three hours to this every week, while a few do much more. The people they help may have physical or behavioral difficulties, for example. Volunteers can do all sorts of things, depending on their own abilities and interests. If they're supporting a family that's struggling, for example, they may be able to give them tips on cooking or recommend how to plan their budget or how to shop sensibly on their income. They might even do some painting or wallpapering, perhaps alongside any members of the family who were able to do it. yet, but she gains a lot of pleasure from doing it. Alexei is a volunteer with a family that faces a number of difficulties. By calmly talking over possible solutions with family members, he's helping them to realize that they aren't helpless and that they can do something themselves to improve their situation. This has been great for their self-esteem. And the last volunteer I'll mention, though there are plenty more, is Juba. She volunteers with a teenage girl with learning difficulties, who wasn't very good at talking to other people. Juba's worked very patiently with her, and now the girl is far better at expressing herself and at understanding other people. OK, I hope that's given you an idea of what volunteering is all about. Now I'd like to talk to you about it. That is the end of section two. You now have half a minute to check your answers. Now turn to section 3.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.48,
+      "text": "section 2. You will hear a woman talking to a group of college students about volunteering"
+    },
+    {
+      "start": 10.48,
+      "end": 18.16,
+      "text": "to help other people. First, you have some time to look at questions 11 to 14."
+    },
+    {
+      "start": 30.0,
+      "end": 46.8,
+      "text": "Now listen carefully and answer questions 11 to 14."
+    },
+    {
+      "start": 46.8,
+      "end": 47.8,
+      "text": "Good morning."
+    },
+    {
+      "start": 47.8,
+      "end": 53.48,
+      "text": "My name is Lucy Credenden and I am the Director of Operations for an organisation that"
+    },
+    {
+      "start": 53.48,
+      "end": 57.44,
+      "text": "arranges volunteering in this part of the country."
+    },
+    {
+      "start": 57.44,
+      "end": 63.12,
+      "text": "I'm hoping I can persuade one or two of you to become volunteers yourselves."
+    },
+    {
+      "start": 63.12,
+      "end": 67.44,
+      "text": "Let me start by briefly explaining what we mean by volunteering."
+    },
+    {
+      "start": 67.44,
+      "end": 73.84,
+      "text": "Volunteers are teenagers and adults who choose to spend some time unpaid helping other"
+    },
+    {
+      "start": 73.84,
+      "end": 76.16,
+      "text": "people in some way."
+    },
+    {
+      "start": 76.16,
+      "end": 82.2,
+      "text": "Most volunteers devote to three hours to this every week, while a few do much more."
+    },
+    {
+      "start": 82.2,
+      "end": 87.2,
+      "text": "The people they help may have physical or behavioral difficulties, for example."
+    },
+    {
+      "start": 87.2,
+      "end": 94.52,
+      "text": "Volunteers can do all sorts of things, depending on their own abilities and interests."
+    },
+    {
+      "start": 94.52,
+      "end": 99.04,
+      "text": "If they're supporting a family that's struggling, for example, they may be able to give"
+    },
+    {
+      "start": 99.04,
+      "end": 105.48,
+      "text": "them tips on cooking or recommend how to plan their budget or how to shop sensibly on their"
+    },
+    {
+      "start": 105.48,
+      "end": 107.04,
+      "text": "income."
+    },
+    {
+      "start": 107.04,
+      "end": 113.08,
+      "text": "They might even do some painting or wallpapering, perhaps alongside any members of the family"
+    },
+    {
+      "start": 113.08,
+      "end": 114.4,
+      "text": "who were able to do it."
+    },
+    {
+      "start": 297.61,
+      "end": 301.61,
+      "text": "yet, but she gains a lot of pleasure from doing it."
+    },
+    {
+      "start": 301.61,
+      "end": 307.09,
+      "text": "Alexei is a volunteer with a family that faces a number of difficulties."
+    },
+    {
+      "start": 307.09,
+      "end": 312.89,
+      "text": "By calmly talking over possible solutions with family members, he's helping them to realize"
+    },
+    {
+      "start": 312.89,
+      "end": 319.13,
+      "text": "that they aren't helpless and that they can do something themselves to improve their situation."
+    },
+    {
+      "start": 319.13,
+      "end": 322.57,
+      "text": "This has been great for their self-esteem."
+    },
+    {
+      "start": 322.57,
+      "end": 328.41,
+      "text": "And the last volunteer I'll mention, though there are plenty more, is Juba."
+    },
+    {
+      "start": 328.41,
+      "end": 333.01,
+      "text": "She volunteers with a teenage girl with learning difficulties, who wasn't very good"
+    },
+    {
+      "start": 333.01,
+      "end": 335.37,
+      "text": "at talking to other people."
+    },
+    {
+      "start": 335.37,
+      "end": 341.53,
+      "text": "Juba's worked very patiently with her, and now the girl is far better at expressing herself"
+    },
+    {
+      "start": 341.53,
+      "end": 344.25,
+      "text": "and at understanding other people."
+    },
+    {
+      "start": 344.25,
+      "end": 350.01,
+      "text": "OK, I hope that's given you an idea of what volunteering is all about."
+    },
+    {
+      "start": 350.01,
+      "end": 355.01,
+      "text": "Now I'd like to talk to you about it."
+    },
+    {
+      "start": 355.01,
+      "end": 358.01,
+      "text": "That is the end of section two."
+    },
+    {
+      "start": 358.01,
+      "end": 362.01,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 380.01,
+      "end": 394.01,
+      "text": "Now turn to section 3."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

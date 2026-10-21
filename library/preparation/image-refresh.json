@@ -1,0 +1,11 @@
+{
+  "cropVersion": 3,
+  "reading": "Full original page bounds; no text-edge/footer clipping.",
+  "questions": "Full page width, group heading through the next question group or original page end.",
+  "tests": [
+    "cam20-test1",
+    "cam20-test2",
+    "cam20-test3",
+    "cam20-test4"
+  ]
+}

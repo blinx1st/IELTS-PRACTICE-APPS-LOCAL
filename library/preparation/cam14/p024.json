@@ -1,0 +1,219 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 24,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 2\nLISTENING\nSECTION\n1\nQuestions 1-10\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nTOTAL HEALTH CLINIC\nPATIENT DETAILS\nPersonal information\nExample\nName\nJulie Anne...... Garcia...\nContact phone\nee\nDate of birth\n2 rmmnmnnnnnnnnnnnnnen\n1 1992\nOccupation\nWOFKS AS 83occ\nInsurance company\n4 oooocsmnunnunen Life Insurance\nDetails of the problem\nType of problem\npain in her left 5on.\nWhen it began\n(TeV)\nAction already taken\nhas taken painkillers and applied ice\nOther information\nSports played\nDEIONYS £0 A 7 ecomneeennnnnnnne CLUB\nGOES Bocce FeQUlarly\nMedical history\nInjured Her 9cess Last year\nno allergies\nno regular Medication apart FrOM 10 oneeecsscsssesseeseneen\n32\n",
+  "blocks": [
+    {
+      "box": [
+        125.97462463378906,
+        125.61470794677734,
+        187.88214111328125,
+        143.6290740966797
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        302.3390808105469,
+        173.4850616455078,
+        380.7961730957031,
+        183.5731201171875
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        216.31646728515625,
+        330.7013244628906,
+        227.8456268310547
+      ],
+      "text": "SECTION\n1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        243.67092895507812,
+        252.9498291015625,
+        254.1192626953125
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        269.2257995605469,
+        406.5381164550781,
+        279.67413330078125
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        256.9882507324219,
+        304.1387634277344,
+        423.88653564453125,
+        316.3885192871094
+      ],
+      "text": "TOTAL HEALTH CLINIC\n"
+    },
+    {
+      "box": [
+        136.77244567871094,
+        334.0126953125,
+        229.72372436523438,
+        343.0198974609375
+      ],
+      "text": "PATIENT DETAILS\n"
+    },
+    {
+      "box": [
+        136.4125213623047,
+        354.5285949707031,
+        244.97561645507812,
+        363.5357971191406
+      ],
+      "text": "Personal information\n"
+    },
+    {
+      "box": [
+        136.05259704589844,
+        375.0444641113281,
+        320.4342956542969,
+        408.1739807128906
+      ],
+      "text": "Example\nName\nJulie Anne...... Garcia...\n"
+    },
+    {
+      "box": [
+        164.12693786621094,
+        416.4361267089844,
+        381.4510803222656,
+        428.6858825683594
+      ],
+      "text": "Contact phone\nee\n"
+    },
+    {
+      "box": [
+        164.4868621826172,
+        436.9519958496094,
+        414.5788879394531,
+        450.6429138183594
+      ],
+      "text": "Date of birth\n2 rmmnmnnnnnnnnnnnnnen\n1 1992\n"
+    },
+    {
+      "box": [
+        163.7670135498047,
+        455.668212890625,
+        437.1860046386719,
+        471.16058349609375
+      ],
+      "text": "Occupation\nWOFKS AS 83occ\n"
+    },
+    {
+      "box": [
+        164.12693786621094,
+        477.26385498046875,
+        452.6898193359375,
+        489.8739318847656
+      ],
+      "text": "Insurance company\n4 oooocsmnunnunen Life Insurance\n"
+    },
+    {
+      "box": [
+        135.33274841308594,
+        504.2584228515625,
+        249.6277618408203,
+        515.0670776367188
+      ],
+      "text": "Details of the problem\n"
+    },
+    {
+      "box": [
+        163.04714965820312,
+        522.2548217773438,
+        452.6269836425781,
+        557.1825561523438
+      ],
+      "text": "Type of problem\npain in her left 5on.\nWhen it began\n(TeV)\n"
+    },
+    {
+      "box": [
+        162.68722534179688,
+        562.9266357421875,
+        462.37725830078125,
+        574.8161010742188
+      ],
+      "text": "Action already taken\nhas taken painkillers and applied ice\n"
+    },
+    {
+      "box": [
+        134.61289978027344,
+        587.4016723632812,
+        226.2791748046875,
+        596.048583984375
+      ],
+      "text": "Other information\n"
+    },
+    {
+      "box": [
+        163.0471649169922,
+        605.0381469726562,
+        465.67425537109375,
+        619.4496459960938
+      ],
+      "text": "Sports played\nDEIONYS £0 A 7 ecomneeennnnnnnne CLUB\n"
+    },
+    {
+      "box": [
+        285.42254638671875,
+        629.1533203125,
+        451.4894104003906,
+        640.3222045898438
+      ],
+      "text": "GOES Bocce FeQUlarly\n"
+    },
+    {
+      "box": [
+        162.687255859375,
+        645.7099609375,
+        479.1427307128906,
+        660.4817504882812
+      ],
+      "text": "Medical history\nInjured Her 9cess Last year\n"
+    },
+    {
+      "box": [
+        285.42254638671875,
+        670.1849975585938,
+        340.4483337402344,
+        680.2730102539062
+      ],
+      "text": "no allergies\n"
+    },
+    {
+      "box": [
+        285.42254638671875,
+        690.3409423828125,
+        547.0540161132812,
+        701.1495971679688
+      ],
+      "text": "no regular Medication apart FrOM 10 oneeecsscsssesseeseneen\n"
+    },
+    {
+      "box": [
+        121.655517578125,
+        728.4932861328125,
+        132.74847412109375,
+        736.7799072265625
+      ],
+      "text": "32\n"
+    }
+  ]
+}

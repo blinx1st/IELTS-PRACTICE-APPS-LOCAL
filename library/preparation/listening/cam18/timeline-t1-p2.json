@@ -1,0 +1,1137 @@
+{
+  "audioSha256": "8a06d26cbf606f37da5c6aef2c55f6e13bb8db4e59a5bfb30a60b8d85562ec98",
+  "duration": 398.08,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 278.08,
+      "end": 285.3,
+      "text": " periods, sometimes uphill. Some of our regular collectors are quite elderly, but very",
+      "words": [
+        {
+          "word": " periods,",
+          "start": 278.08,
+          "end": 278.74
+        },
+        {
+          "word": " sometimes",
+          "start": 279.15999999999997,
+          "end": 279.9
+        },
+        {
+          "word": " uphill.",
+          "start": 279.9,
+          "end": 280.68
+        },
+        {
+          "word": " Some",
+          "start": 281.46,
+          "end": 281.65999999999997
+        },
+        {
+          "word": " of",
+          "start": 281.65999999999997,
+          "end": 281.76
+        },
+        {
+          "word": " our",
+          "start": 281.76,
+          "end": 282.02
+        },
+        {
+          "word": " regular",
+          "start": 282.02,
+          "end": 282.32
+        },
+        {
+          "word": " collectors",
+          "start": 282.32,
+          "end": 282.9
+        },
+        {
+          "word": " are",
+          "start": 282.9,
+          "end": 283.4
+        },
+        {
+          "word": " quite",
+          "start": 283.4,
+          "end": 283.8
+        },
+        {
+          "word": " elderly,",
+          "start": 283.8,
+          "end": 284.26
+        },
+        {
+          "word": " but",
+          "start": 284.91999999999996,
+          "end": 285.02
+        },
+        {
+          "word": " very",
+          "start": 285.02,
+          "end": 285.3
+        }
+      ]
+    },
+    {
+      "start": 285.3,
+      "end": 288.02,
+      "text": " active and keen to protect the environment.",
+      "words": [
+        {
+          "word": " active",
+          "start": 285.3,
+          "end": 285.74
+        },
+        {
+          "word": " and",
+          "start": 285.74,
+          "end": 286.3
+        },
+        {
+          "word": " keen",
+          "start": 286.3,
+          "end": 286.64
+        },
+        {
+          "word": " to",
+          "start": 286.64,
+          "end": 286.82
+        },
+        {
+          "word": " protect",
+          "start": 286.82,
+          "end": 287.18
+        },
+        {
+          "word": " the",
+          "start": 287.18,
+          "end": 287.44
+        },
+        {
+          "word": " environment.",
+          "start": 287.44,
+          "end": 288.02
+        }
+      ]
+    },
+    {
+      "start": 289.47999999999996,
+      "end": 295.24,
+      "text": " If you enjoy working with children, we have three vacancies for what are called playmates.",
+      "words": [
+        {
+          "word": " If",
+          "start": 289.47999999999996,
+          "end": 289.76
+        },
+        {
+          "word": " you",
+          "start": 289.76,
+          "end": 290.0
+        },
+        {
+          "word": " enjoy",
+          "start": 290.0,
+          "end": 290.24
+        },
+        {
+          "word": " working",
+          "start": 290.24,
+          "end": 290.53999999999996
+        },
+        {
+          "word": " with",
+          "start": 290.53999999999996,
+          "end": 290.9
+        },
+        {
+          "word": " children,",
+          "start": 290.9,
+          "end": 291.32
+        },
+        {
+          "word": " we",
+          "start": 291.85999999999996,
+          "end": 291.96
+        },
+        {
+          "word": " have",
+          "start": 291.96,
+          "end": 292.24
+        },
+        {
+          "word": " three",
+          "start": 292.24,
+          "end": 292.64
+        },
+        {
+          "word": " vacancies",
+          "start": 292.64,
+          "end": 293.14
+        },
+        {
+          "word": " for",
+          "start": 293.14,
+          "end": 293.7
+        },
+        {
+          "word": " what",
+          "start": 293.7,
+          "end": 293.94
+        },
+        {
+          "word": " are",
+          "start": 293.94,
+          "end": 294.02
+        },
+        {
+          "word": " called",
+          "start": 294.02,
+          "end": 294.53999999999996
+        },
+        {
+          "word": " playmates.",
+          "start": 294.53999999999996,
+          "end": 295.24
+        }
+      ]
+    },
+    {
+      "start": 296.09999999999997,
+      "end": 301.79999999999995,
+      "text": " These volunteers help children learn about staying healthy through a range of out-of-school",
+      "words": [
+        {
+          "word": " These",
+          "start": 296.09999999999997,
+          "end": 296.46
+        },
+        {
+          "word": " volunteers",
+          "start": 296.46,
+          "end": 297.0
+        },
+        {
+          "word": " help",
+          "start": 297.0,
+          "end": 297.59999999999997
+        },
+        {
+          "word": " children",
+          "start": 297.59999999999997,
+          "end": 297.94
+        },
+        {
+          "word": " learn",
+          "start": 297.94,
+          "end": 298.34
+        },
+        {
+          "word": " about",
+          "start": 298.34,
+          "end": 298.86
+        },
+        {
+          "word": " staying",
+          "start": 298.86,
+          "end": 299.18
+        },
+        {
+          "word": " healthy",
+          "start": 299.18,
+          "end": 299.68
+        },
+        {
+          "word": " through",
+          "start": 299.68,
+          "end": 300.4
+        },
+        {
+          "word": " a",
+          "start": 300.4,
+          "end": 300.56
+        },
+        {
+          "word": " range",
+          "start": 300.56,
+          "end": 300.82
+        },
+        {
+          "word": " of",
+          "start": 300.82,
+          "end": 301.14
+        },
+        {
+          "word": " out",
+          "start": 301.14,
+          "end": 301.36
+        },
+        {
+          "word": "-of",
+          "start": 301.36,
+          "end": 301.56
+        },
+        {
+          "word": "-school",
+          "start": 301.56,
+          "end": 301.79999999999995
+        }
+      ]
+    },
+    {
+      "start": 301.79999999999995,
+      "end": 307.82,
+      "text": " activities. You don't need to have children yourself, but it's good if you know something",
+      "words": [
+        {
+          "word": " activities.",
+          "start": 301.79999999999995,
+          "end": 302.52
+        },
+        {
+          "word": " You",
+          "start": 303.29999999999995,
+          "end": 303.58
+        },
+        {
+          "word": " don't",
+          "start": 303.58,
+          "end": 303.91999999999996
+        },
+        {
+          "word": " need",
+          "start": 303.91999999999996,
+          "end": 304.26
+        },
+        {
+          "word": " to",
+          "start": 304.26,
+          "end": 304.38
+        },
+        {
+          "word": " have",
+          "start": 304.38,
+          "end": 304.68
+        },
+        {
+          "word": " children",
+          "start": 304.68,
+          "end": 304.91999999999996
+        },
+        {
+          "word": " yourself,",
+          "start": 304.91999999999996,
+          "end": 305.56
+        },
+        {
+          "word": " but",
+          "start": 305.88,
+          "end": 306.26
+        },
+        {
+          "word": " it's",
+          "start": 306.26,
+          "end": 306.64
+        },
+        {
+          "word": " good",
+          "start": 306.64,
+          "end": 306.86
+        },
+        {
+          "word": " if",
+          "start": 306.86,
+          "end": 307.06
+        },
+        {
+          "word": " you",
+          "start": 307.06,
+          "end": 307.18
+        },
+        {
+          "word": " know",
+          "start": 307.18,
+          "end": 307.41999999999996
+        },
+        {
+          "word": " something",
+          "start": 307.41999999999996,
+          "end": 307.82
+        }
+      ]
+    },
+    {
+      "start": 307.82,
+      "end": 311.4,
+      "text": " about nutrition and can give clear instructions.",
+      "words": [
+        {
+          "word": " about",
+          "start": 307.82,
+          "end": 308.24
+        },
+        {
+          "word": " nutrition",
+          "start": 308.24,
+          "end": 308.88
+        },
+        {
+          "word": " and",
+          "start": 308.88,
+          "end": 309.65999999999997
+        },
+        {
+          "word": " can",
+          "start": 309.65999999999997,
+          "end": 309.9
+        },
+        {
+          "word": " give",
+          "start": 309.9,
+          "end": 310.2
+        },
+        {
+          "word": " clear",
+          "start": 310.2,
+          "end": 310.5
+        },
+        {
+          "word": " instructions.",
+          "start": 310.5,
+          "end": 311.4
+        }
+      ]
+    },
+    {
+      "start": 312.86,
+      "end": 318.0,
+      "text": " If that doesn't appeal to you, maybe you would be interested in helping out at our",
+      "words": [
+        {
+          "word": " If",
+          "start": 312.86,
+          "end": 313.18
+        },
+        {
+          "word": " that",
+          "start": 313.18,
+          "end": 313.52
+        },
+        {
+          "word": " doesn't",
+          "start": 313.52,
+          "end": 313.82
+        },
+        {
+          "word": " appeal",
+          "start": 313.82,
+          "end": 314.15999999999997
+        },
+        {
+          "word": " to",
+          "start": 314.15999999999997,
+          "end": 314.47999999999996
+        },
+        {
+          "word": " you,",
+          "start": 314.47999999999996,
+          "end": 315.12
+        },
+        {
+          "word": " maybe",
+          "start": 315.26,
+          "end": 315.59999999999997
+        },
+        {
+          "word": " you",
+          "start": 315.59999999999997,
+          "end": 315.79999999999995
+        },
+        {
+          "word": " would",
+          "start": 315.79999999999995,
+          "end": 315.97999999999996
+        },
+        {
+          "word": " be",
+          "start": 315.97999999999996,
+          "end": 316.14
+        },
+        {
+          "word": " interested",
+          "start": 316.14,
+          "end": 316.53999999999996
+        },
+        {
+          "word": " in",
+          "start": 316.53999999999996,
+          "end": 316.84
+        },
+        {
+          "word": " helping",
+          "start": 316.84,
+          "end": 317.15999999999997
+        },
+        {
+          "word": " out",
+          "start": 317.15999999999997,
+          "end": 317.52
+        },
+        {
+          "word": " at",
+          "start": 317.52,
+          "end": 317.7
+        },
+        {
+          "word": " our",
+          "start": 317.7,
+          "end": 318.0
+        }
+      ]
+    },
+    {
+      "start": 318.0,
+      "end": 324.78,
+      "text": " story club for disabled children, especially if you have done some acting. We put on three",
+      "words": [
+        {
+          "word": " story",
+          "start": 318.0,
+          "end": 318.38
+        },
+        {
+          "word": " club",
+          "start": 318.38,
+          "end": 318.68
+        },
+        {
+          "word": " for",
+          "start": 318.68,
+          "end": 318.97999999999996
+        },
+        {
+          "word": " disabled",
+          "start": 318.97999999999996,
+          "end": 319.36
+        },
+        {
+          "word": " children,",
+          "start": 319.36,
+          "end": 320.02
+        },
+        {
+          "word": " especially",
+          "start": 320.53999999999996,
+          "end": 321.03999999999996
+        },
+        {
+          "word": " if",
+          "start": 321.03999999999996,
+          "end": 321.52
+        },
+        {
+          "word": " you",
+          "start": 321.52,
+          "end": 321.62
+        },
+        {
+          "word": " have",
+          "start": 321.62,
+          "end": 321.79999999999995
+        },
+        {
+          "word": " done",
+          "start": 321.79999999999995,
+          "end": 322.0
+        },
+        {
+          "word": " some",
+          "start": 322.0,
+          "end": 322.34
+        },
+        {
+          "word": " acting.",
+          "start": 322.34,
+          "end": 322.88
+        },
+        {
+          "word": " We",
+          "start": 323.65999999999997,
+          "end": 323.9
+        },
+        {
+          "word": " put",
+          "start": 323.9,
+          "end": 324.2
+        },
+        {
+          "word": " on",
+          "start": 324.2,
+          "end": 324.47999999999996
+        },
+        {
+          "word": " three",
+          "start": 324.47999999999996,
+          "end": 324.78
+        }
+      ]
+    },
+    {
+      "start": 324.78,
+      "end": 330.18,
+      "text": " performances a year based on books they have read, and we're always looking for support",
+      "words": [
+        {
+          "word": " performances",
+          "start": 324.78,
+          "end": 325.36
+        },
+        {
+          "word": " a",
+          "start": 325.36,
+          "end": 325.78
+        },
+        {
+          "word": " year",
+          "start": 325.78,
+          "end": 326.14
+        },
+        {
+          "word": " based",
+          "start": 326.14,
+          "end": 326.47999999999996
+        },
+        {
+          "word": " on",
+          "start": 326.47999999999996,
+          "end": 326.7
+        },
+        {
+          "word": " books",
+          "start": 326.7,
+          "end": 327.02
+        },
+        {
+          "word": " they",
+          "start": 327.02,
+          "end": 327.24
+        },
+        {
+          "word": " have",
+          "start": 327.24,
+          "end": 327.41999999999996
+        },
+        {
+          "word": " read,",
+          "start": 327.41999999999996,
+          "end": 327.82
+        },
+        {
+          "word": " and",
+          "start": 327.96,
+          "end": 328.4
+        },
+        {
+          "word": " we're",
+          "start": 328.4,
+          "end": 328.7
+        },
+        {
+          "word": " always",
+          "start": 328.7,
+          "end": 329.12
+        },
+        {
+          "word": " looking",
+          "start": 329.12,
+          "end": 329.44
+        },
+        {
+          "word": " for",
+          "start": 329.44,
+          "end": 329.74
+        },
+        {
+          "word": " support",
+          "start": 329.74,
+          "end": 330.18
+        }
+      ]
+    },
+    {
+      "start": 330.18,
+      "end": 332.62,
+      "text": " with the theatrical side of this.",
+      "words": [
+        {
+          "word": " with",
+          "start": 330.18,
+          "end": 330.47999999999996
+        },
+        {
+          "word": " the",
+          "start": 330.47999999999996,
+          "end": 330.79999999999995
+        },
+        {
+          "word": " theatrical",
+          "start": 330.79999999999995,
+          "end": 331.18
+        },
+        {
+          "word": " side",
+          "start": 331.18,
+          "end": 331.62
+        },
+        {
+          "word": " of",
+          "start": 331.62,
+          "end": 331.78
+        },
+        {
+          "word": " this.",
+          "start": 331.78,
+          "end": 332.62
+        }
+      ]
+    },
+    {
+      "start": 332.62,
+      "end": 337.4,
+      "text": " The last area I'll mention today is First Aid.",
+      "words": [
+        {
+          "word": " The",
+          "start": 332.62,
+          "end": 333.94
+        },
+        {
+          "word": " last",
+          "start": 333.94,
+          "end": 334.4
+        },
+        {
+          "word": " area",
+          "start": 334.4,
+          "end": 334.74
+        },
+        {
+          "word": " I'll",
+          "start": 334.74,
+          "end": 335.24
+        },
+        {
+          "word": " mention",
+          "start": 335.24,
+          "end": 335.47999999999996
+        },
+        {
+          "word": " today",
+          "start": 335.47999999999996,
+          "end": 335.96
+        },
+        {
+          "word": " is",
+          "start": 335.96,
+          "end": 336.46
+        },
+        {
+          "word": " First",
+          "start": 336.46,
+          "end": 336.84
+        },
+        {
+          "word": " Aid.",
+          "start": 336.84,
+          "end": 337.4
+        }
+      ]
+    },
+    {
+      "start": 337.84,
+      "end": 344.38,
+      "text": " Volunteers who join this group can end up teaching others in vulnerable groups who may be at risk of injury.",
+      "words": [
+        {
+          "word": " Volunteers",
+          "start": 337.84,
+          "end": 338.29999999999995
+        },
+        {
+          "word": " who",
+          "start": 338.29999999999995,
+          "end": 338.64
+        },
+        {
+          "word": " join",
+          "start": 338.64,
+          "end": 338.91999999999996
+        },
+        {
+          "word": " this",
+          "start": 338.91999999999996,
+          "end": 339.14
+        },
+        {
+          "word": " group",
+          "start": 339.14,
+          "end": 339.71999999999997
+        },
+        {
+          "word": " can",
+          "start": 339.71999999999997,
+          "end": 339.94
+        },
+        {
+          "word": " end",
+          "start": 339.94,
+          "end": 340.12
+        },
+        {
+          "word": " up",
+          "start": 340.12,
+          "end": 340.26
+        },
+        {
+          "word": " teaching",
+          "start": 340.26,
+          "end": 340.59999999999997
+        },
+        {
+          "word": " others",
+          "start": 340.59999999999997,
+          "end": 341.08
+        },
+        {
+          "word": " in",
+          "start": 341.08,
+          "end": 341.41999999999996
+        },
+        {
+          "word": " vulnerable",
+          "start": 341.41999999999996,
+          "end": 341.74
+        },
+        {
+          "word": " groups",
+          "start": 341.74,
+          "end": 342.44
+        },
+        {
+          "word": " who",
+          "start": 342.44,
+          "end": 342.9
+        },
+        {
+          "word": " may",
+          "start": 342.9,
+          "end": 343.08
+        },
+        {
+          "word": " be",
+          "start": 343.08,
+          "end": 343.28
+        },
+        {
+          "word": " at",
+          "start": 343.28,
+          "end": 343.34
+        },
+        {
+          "word": " risk",
+          "start": 343.34,
+          "end": 343.56
+        },
+        {
+          "word": " of",
+          "start": 343.56,
+          "end": 343.79999999999995
+        },
+        {
+          "word": " injury.",
+          "start": 343.79999999999995,
+          "end": 344.38
+        }
+      ]
+    },
+    {
+      "start": 345.44,
+      "end": 353.21999999999997,
+      "text": " Initially though, your priority will be to take in a lot of information and not forget any important steps or details.",
+      "words": [
+        {
+          "word": " Initially",
+          "start": 345.44,
+          "end": 345.59999999999997
+        },
+        {
+          "word": " though,",
+          "start": 345.59999999999997,
+          "end": 346.38
+        },
+        {
+          "word": " your",
+          "start": 346.56,
+          "end": 346.67999999999995
+        },
+        {
+          "word": " priority",
+          "start": 346.67999999999995,
+          "end": 347.08
+        },
+        {
+          "word": " will",
+          "start": 347.08,
+          "end": 347.36
+        },
+        {
+          "word": " be",
+          "start": 347.36,
+          "end": 347.58
+        },
+        {
+          "word": " to",
+          "start": 347.58,
+          "end": 347.67999999999995
+        },
+        {
+          "word": " take",
+          "start": 347.67999999999995,
+          "end": 347.94
+        },
+        {
+          "word": " in",
+          "start": 347.94,
+          "end": 348.24
+        },
+        {
+          "word": " a",
+          "start": 348.24,
+          "end": 348.52
+        },
+        {
+          "word": " lot",
+          "start": 348.52,
+          "end": 348.7
+        },
+        {
+          "word": " of",
+          "start": 348.7,
+          "end": 348.9
+        },
+        {
+          "word": " information",
+          "start": 348.9,
+          "end": 349.36
+        },
+        {
+          "word": " and",
+          "start": 349.36,
+          "end": 350.2
+        },
+        {
+          "word": " not",
+          "start": 350.2,
+          "end": 350.46
+        },
+        {
+          "word": " forget",
+          "start": 350.46,
+          "end": 350.84
+        },
+        {
+          "word": " any",
+          "start": 350.84,
+          "end": 351.44
+        },
+        {
+          "word": " important",
+          "start": 351.44,
+          "end": 351.94
+        },
+        {
+          "word": " steps",
+          "start": 351.94,
+          "end": 352.36
+        },
+        {
+          "word": " or",
+          "start": 352.36,
+          "end": 352.59999999999997
+        },
+        {
+          "word": " details.",
+          "start": 352.59999999999997,
+          "end": 353.21999999999997
+        }
+      ]
+    },
+    {
+      "start": 354.79999999999995,
+      "end": 359.36,
+      "text": " Right, so does anyone have any questions for me about it?",
+      "words": [
+        {
+          "word": " Right,",
+          "start": 354.79999999999995,
+          "end": 355.26
+        },
+        {
+          "word": " so",
+          "start": 355.48,
+          "end": 355.96
+        },
+        {
+          "word": " does",
+          "start": 355.96,
+          "end": 356.24
+        },
+        {
+          "word": " anyone",
+          "start": 356.24,
+          "end": 356.65999999999997
+        },
+        {
+          "word": " have",
+          "start": 356.65999999999997,
+          "end": 356.98
+        },
+        {
+          "word": " any",
+          "start": 356.98,
+          "end": 357.17999999999995
+        },
+        {
+          "word": " questions",
+          "start": 357.17999999999995,
+          "end": 357.59999999999997
+        },
+        {
+          "word": " for",
+          "start": 357.59999999999997,
+          "end": 357.9
+        },
+        {
+          "word": " me",
+          "start": 357.9,
+          "end": 358.08
+        },
+        {
+          "word": " about",
+          "start": 358.08,
+          "end": 358.36
+        },
+        {
+          "word": " it?",
+          "start": 358.36,
+          "end": 359.36
+        }
+      ]
+    },
+    {
+      "start": 361.38,
+      "end": 368.08,
+      "text": " That is the end of part 2. You now have 30 seconds to check your answers to part 2.",
+      "words": [
+        {
+          "word": " That",
+          "start": 361.38,
+          "end": 362.02
+        },
+        {
+          "word": " is",
+          "start": 362.02,
+          "end": 362.17999999999995
+        },
+        {
+          "word": " the",
+          "start": 362.17999999999995,
+          "end": 362.34
+        },
+        {
+          "word": " end",
+          "start": 362.34,
+          "end": 362.58
+        },
+        {
+          "word": " of",
+          "start": 362.58,
+          "end": 362.82
+        },
+        {
+          "word": " part",
+          "start": 362.82,
+          "end": 363.08
+        },
+        {
+          "word": " 2.",
+          "start": 363.08,
+          "end": 363.67999999999995
+        },
+        {
+          "word": " You",
+          "start": 364.02,
+          "end": 364.24
+        },
+        {
+          "word": " now",
+          "start": 364.24,
+          "end": 364.52
+        },
+        {
+          "word": " have",
+          "start": 364.52,
+          "end": 364.84
+        },
+        {
+          "word": " 30",
+          "start": 364.84,
+          "end": 365.2
+        },
+        {
+          "word": " seconds",
+          "start": 365.2,
+          "end": 365.62
+        },
+        {
+          "word": " to",
+          "start": 365.62,
+          "end": 366.0
+        },
+        {
+          "word": " check",
+          "start": 366.0,
+          "end": 366.28
+        },
+        {
+          "word": " your",
+          "start": 366.28,
+          "end": 366.56
+        },
+        {
+          "word": " answers",
+          "start": 366.56,
+          "end": 366.91999999999996
+        },
+        {
+          "word": " to",
+          "start": 366.91999999999996,
+          "end": 367.24
+        },
+        {
+          "word": " part",
+          "start": 367.24,
+          "end": 367.46
+        },
+        {
+          "word": " 2.",
+          "start": 367.46,
+          "end": 368.08
+        }
+      ]
+    }
+  ]
+}

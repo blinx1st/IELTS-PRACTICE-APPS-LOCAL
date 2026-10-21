@@ -1,0 +1,237 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 29,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nreps\nBy\nTest 2\nRee a\na 1718867188\nPART 4\nQuestions 31-40\nOb\naol of)\nComplete the notes below.\nfe\n1\nWrite ONE WORD AND/OR A NUMBER for each answer.\nListacinig fest Sitclio\nThe impact of digital technology on the Icelandic language\nThe Icelandic language\ne\nhas approximately 31 oo... Speakers\ne\nAAS A 32 oon that is still growing\ne\nhas not changeda\nlot over the last thousand years\ne\nhas its own words for computer-based concepts, such as web browser\nAN 33\noe cccsecsecsssseseensseesenesee\nYoung speakers\ne\nare big users of digital technology, SUCH AS 34 oes\n©\nALTE DECOMING 35©oes VEY Quickly\ne\nare having discussions using only English while they are in the\nSG nisin: at School\ne\nare better able to identify the content Of a 37 ooo. IN English than\nIcelandic\nTechnology and internet companies\ne\nwrite very little in Icelandic because of the small number of speakers and\nbecause of how complicated its 38 0...eee IS\nThe Icelandic government\ne\nhas set up a fund to support the production of more digital content in the language\ne\nbelieves that Icelandic has a secure future\ne\nis worried that young Icelanders may lose their 39 ooo... AS Icelanders\ne\nis worried about the consequences of children not being 40 oo...\nin either Icelandic or English\n36\n=> |\np. 121\np. 105\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        64.45471954345703
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nreps\nBy\nTest 2\nRee a\na 1718867188\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        72.34542846679688,
+        516.4598999023438,
+        124.54859161376953
+      ],
+      "text": "PART 4\nQuestions 31-40\nOb\naol of)\nComplete the notes below.\nfe\n1\n"
+    },
+    {
+      "box": [
+        71.62554931640625,
+        133.5330810546875,
+        512.6176147460938,
+        146.8637237548828
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\nListacinig fest Sitclio\n"
+    },
+    {
+      "box": [
+        82.06341552734375,
+        179.24383544921875,
+        521.2325439453125,
+        194.3759002685547
+      ],
+      "text": "The impact of digital technology on the Icelandic language\n"
+    },
+    {
+      "box": [
+        79.90387725830078,
+        209.1178436279297,
+        209.62167358398438,
+        219.92645263671875
+      ],
+      "text": "The Icelandic language\n"
+    },
+    {
+      "box": [
+        80.26380157470703,
+        236.4723358154297,
+        354.4566955566406,
+        247.281005859375
+      ],
+      "text": "e\nhas approximately 31 oo... Speakers\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        258.0679626464844,
+        335.5603332519531,
+        268.8765869140625
+      ],
+      "text": "e\nAAS A 32 oon that is still growing\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        278.58380126953125,
+        370.6894226074219,
+        292.2747802734375
+      ],
+      "text": "e\nhas not changeda\nlot over the last thousand years\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        301.25927734375,
+        473.997314453125,
+        323.9429626464844
+      ],
+      "text": "e\nhas its own words for computer-based concepts, such as web browser\nAN 33\noe cccsecsecsssseseensseesenesee\n"
+    },
+    {
+      "box": [
+        79.90387725830078,
+        343.0108642578125,
+        169.5977325439453,
+        353.8194885253906
+      ],
+      "text": "Young speakers\n"
+    },
+    {
+      "box": [
+        80.26380157470703,
+        370.72528076171875,
+        430.4444580078125,
+        381.8941955566406
+      ],
+      "text": "e\nare big users of digital technology, SUCH AS 34 oes\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        391.2411193847656,
+        343.88177490234375,
+        404.9320373535156
+      ],
+      "text": "©\nALTE DECOMING 35©oes VEY Quickly\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        413.9165344238281,
+        432.1828918457031,
+        436.9605407714844
+      ],
+      "text": "e\nare having discussions using only English while they are in the\nSG nisin: at School\n"
+    },
+    {
+      "box": [
+        80.26383209228516,
+        449.54937744140625,
+        502.6745910644531,
+        460.3580017089844
+      ],
+      "text": "e\nare better able to identify the content Of a 37 ooo. IN English than\n"
+    },
+    {
+      "box": [
+        106.89846801757812,
+        463.5865478515625,
+        151.9900665283203,
+        472.2334289550781
+      ],
+      "text": "Icelandic\n"
+    },
+    {
+      "box": [
+        79.9039077758789,
+        491.3009338378906,
+        281.01348876953125,
+        502.1095886230469
+      ],
+      "text": "Technology and internet companies\n"
+    },
+    {
+      "box": [
+        80.26383209228516,
+        519.3753051757812,
+        485.1282043457031,
+        530.1838989257812
+      ],
+      "text": "e\nwrite very little in Icelandic because of the small number of speakers and\n"
+    },
+    {
+      "box": [
+        106.53852081298828,
+        533.052490234375,
+        383.2507629394531,
+        543.8611450195312
+      ],
+      "text": "because of how complicated its 38 0...eee IS\n"
+    },
+    {
+      "box": [
+        79.90387725830078,
+        560.7669677734375,
+        225.13473510742188,
+        571.5756225585938
+      ],
+      "text": "The Icelandic government\n"
+    },
+    {
+      "box": [
+        80.26380157470703,
+        588.4813842773438,
+        514.8689575195312,
+        599.6503295898438
+      ],
+      "text": "e\nhas set up a fund to support the production of more digital content in the language\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        610.4369506835938,
+        326.22381591796875,
+        619.0838623046875
+      ],
+      "text": "e\nbelieves that Icelandic has a secure future\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        631.672607421875,
+        517.2156982421875,
+        642.4812622070312
+      ],
+      "text": "e\nis worried that young Icelanders may lose their 39 ooo... AS Icelanders\n"
+    },
+    {
+      "box": [
+        80.2638168334961,
+        653.268310546875,
+        500.6051330566406,
+        664.437255859375
+      ],
+      "text": "e\nis worried about the consequences of children not being 40 oo...\n"
+    },
+    {
+      "box": [
+        106.53852081298828,
+        667.305419921875,
+        252.99305725097656,
+        678.1140747070312
+      ],
+      "text": "in either Icelandic or English\n"
+    },
+    {
+      "box": [
+        70.90570831298828,
+        727.7733154296875,
+        236.7296905517578,
+        745.4273681640625
+      ],
+      "text": "36\n=> |\np. 121\np. 105\n"
+    }
+  ]
+}

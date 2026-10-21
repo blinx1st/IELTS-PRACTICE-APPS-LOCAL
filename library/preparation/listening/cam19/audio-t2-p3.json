@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/bd5d682d220405fefb553e8d8419319bbffda84a534043c60560aeb0193217a4.mp3",
+    "sha256": "bd5d682d220405fefb553e8d8419319bbffda84a534043c60560aeb0193217a4",
+    "duration": 410.802,
+    "start": 0,
+    "end": 410.802,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test2 Part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two students called Bella and Don discussing a presentation they plan to do on recycling footwear. First, you have some time to look at questions 21 to 24. Now, listen carefully and answer questions 21 to 24. Hi, Don. Did you get the copy of the article on recycling footwear that I emailed you? Yeah, it's here. I've had a look at it. So, do you think it's a good topic for our presentation? Well, before I started reading it, I thought recycling footwear... Well, although it's quite interesting, perhaps there isn't enough to say about it, because we put shoes in recycling bins. They go to charity shops, and that's about it. But there's much more to it than that. I realise that now, and I'm keen to research the topic more. That's great! One of the things I didn't realise until I read the article was just how many pairs of trainers get recycled. Well, a lot of young people wear them all the time now. They've become more popular than ordinary shoes."
+    },
+    {
+      "name": "ending",
+      "start": 345.802,
+      "end": 410.802,
+      "text": "so many shoes, they should be able to match parts. I wasn't surprised that it failed though. I mean, who wants to buy secondhand shoes, really? Think of all the germs you could catch. Well, people didn't refuse them for that reason, did they? It was because the pairs of shoes weren't identical. They still managed to ship them overseas, though. That's another area we need to discuss. You know, I used to consider this topic just from my own perspective by thinking about my own recycling behaviour without looking at the bigger picture. So much happens once shoes leave the recycling area. It's not as simple as you first think. And we can show that by taking a very different approach to it. Absolutely. So let's discuss how we're going to split up the presence. That is the end of part 3. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

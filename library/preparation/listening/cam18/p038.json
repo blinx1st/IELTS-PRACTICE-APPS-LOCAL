@@ -1,0 +1,156 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 38,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Test 2\n.\nielts-fighter.com\nPART 3\nQuestions 21-30\nQuestions 21-24\nChoose the correct letter, A, B or C.\n21\nWhy do the students think the Laki eruption of 1783 is so important?\nA __\nIt was the most severe eruption in modern times.\nB _\nIt led to the formal study of volcanoes.\nC_iIthad a profound effect on society.\n22\nWhat surprised Adam about observations made at the time?\nA__\nthe number of places producing them\nB __ the contradictions in them\nC\nthe lack of scientific data to support them\n23\nAccording to Michelle, what did the contemporary sources say about the Laki haze?\nA\nPeople thought it was similar to ordinary fog.\nB_\nIt was associated with health issues.\nC\nIt completely blocked out the sun for weeks.\n24\nAdam corrects Michelle when she claims that Benjamin Franklin\nA\ncame to the wrong conclusion about the cause of the haze.\nB_\nwas the first to identify the reason for the haze.\nC\nsupported the opinions of other observers about the haze.\nQuestions 25 and 26\nChoose TWO letters, A-E.\nWhich TWO issues following the Laki eruption surprised the students?\nA\nhow widespread the effects were\nB\nhow long-lasting the effects were\nC_\nthe number of deaths it caused\nD\nthe speed at which the volcanic ash cloud spread\nE\nhow people ignored the warning signs\n36\n",
+  "blocks": [
+    {
+      "box": [
+        43.54549789428711,
+        30.949657440185547,
+        73.05028533935547,
+        39.235206604003906
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        43.18562698364258,
+        53.622188568115234,
+        471.7992248535156,
+        75.22576141357422
+      ],
+      "text": ".\nielts-fighter.com\nPART 3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        43.18562698364258,
+        92.84912109375,
+        133.155517578125,
+        102.93579864501953
+      ],
+      "text": "Questions 21-24\n"
+    },
+    {
+      "box": [
+        43.185630798339844,
+        120.559814453125,
+        216.59031677246094,
+        130.2863311767578
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        42.46586608886719,
+        141.0730438232422,
+        398.1175231933594,
+        198.66464233398438
+      ],
+      "text": "21\nWhy do the students think the Laki eruption of 1783 is so important?\nA __\nIt was the most severe eruption in modern times.\nB _\nIt led to the formal study of volcanoes.\nC_iIthad a profound effect on society.\n"
+    },
+    {
+      "box": [
+        42.825748443603516,
+        208.73049926757812,
+        359.1064453125,
+        219.89793395996094
+      ],
+      "text": "22\nWhat surprised Adam about observations made at the time?\n"
+    },
+    {
+      "box": [
+        66.93769836425781,
+        229.24365234375,
+        290.31524658203125,
+        265.60198974609375
+      ],
+      "text": "A__\nthe number of places producing them\nB __ the contradictions in them\nC\nthe lack of scientific data to support them\n"
+    },
+    {
+      "box": [
+        43.18558120727539,
+        275.6681823730469,
+        474.3939514160156,
+        287.55609130859375
+      ],
+      "text": "23\nAccording to Michelle, what did the contemporary sources say about the Laki haze?\n"
+    },
+    {
+      "box": [
+        66.93766784667969,
+        296.5412292480469,
+        307.193603515625,
+        333.2597961425781
+      ],
+      "text": "A\nPeople thought it was similar to ordinary fog.\nB_\nIt was associated with health issues.\nC\nIt completely blocked out the sun for weeks.\n"
+    },
+    {
+      "box": [
+        42.8256721496582,
+        343.685546875,
+        378.3779296875,
+        354.13250732421875
+      ],
+      "text": "24\nAdam corrects Michelle when she claims that Benjamin Franklin\n"
+    },
+    {
+      "box": [
+        66.93763732910156,
+        363.8388366699219,
+        378.4228210449219,
+        400.9176330566406
+      ],
+      "text": "A\ncame to the wrong conclusion about the cause of the haze.\nB_\nwas the first to identify the reason for the haze.\nC\nsupported the opinions of other observers about the haze.\n"
+    },
+    {
+      "box": [
+        43.905269622802734,
+        428.6172180175781,
+        154.35609436035156,
+        438.34368896484375
+      ],
+      "text": "Questions 25 and 26\n"
+    },
+    {
+      "box": [
+        43.905269622802734,
+        454.8885192871094,
+        172.67037963867188,
+        464.614990234375
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        43.545387268066406,
+        479.7202453613281,
+        384.9761962890625,
+        490.8876953125
+      ],
+      "text": "Which TWO issues following the Laki eruption surprised the students?\n"
+    },
+    {
+      "box": [
+        67.65733337402344,
+        500.2333984375,
+        331.49993896484375,
+        562.5031127929688
+      ],
+      "text": "A\nhow widespread the effects were\nB\nhow long-lasting the effects were\nC_\nthe number of deaths it caused\nD\nthe speed at which the volcanic ash cloud spread\nE\nhow people ignored the warning signs\n"
+    },
+    {
+      "box": [
+        44.26511764526367,
+        667.2177734375,
+        55.356624603271484,
+        675.5032958984375
+      ],
+      "text": "36\n"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/94195b59fb813a7331e6a0f3f310d2e5898d8f8c847e4261f604e70ca2f1c52c.m4a",
+    "sha256": "94195b59fb813a7331e6a0f3f310d2e5898d8f8c847e4261f604e70ca2f1c52c",
+    "duration": 422.441,
+    "start": 0,
+    "end": 422.441,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-20\\AUDIO\\AUDIO 20\\T2S3.m4a",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two students called Rosie and Colin, discussing their human geography assignment. First, you have some time to look at questions 21 to 25. Now listen carefully and answer questions 21 to 25. Colin, I'm really struggling to think of a topic for our human geography assignment. Me too Rosie. I'll tell you what, let's think about the different aspects of human geography and see if we can narrow the topic down a bit to help us decide. Okay, so when our spectres population, that would be all about population density and migration and so on. Lots of facts and statistics. Maybe a bit boring? Yeah, but quite straightforward to find on the internet. Suppose so. How about health? I'd never thought about the links between that and geography until Professor Lee gave us that lecture on cholera. How in the 19th century, a physician used streetplans and plans of water supplies to find the source of a cholera epidemic? Yes, fascinating, wasn't it? Or we could do something more general, like..."
+    },
+    {
+      "name": "ending",
+      "start": 357.441,
+      "end": 422.441,
+      "text": "You now have 30 seconds to check your answers to Part 3. you"
+    }
+  ]
+}

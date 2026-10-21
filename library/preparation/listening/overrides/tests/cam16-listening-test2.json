@@ -1,0 +1,1005 @@
+{
+  "id": "cam16-listening-test2",
+  "skill": "listening",
+  "book": 16,
+  "test": 2,
+  "title": "Cambridge 16 · Listening Test 2",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam16-listening-test2-p1",
+      "number": 1,
+      "title": "Copying photos to digital format",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t2-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Photos must not be in a … or an album."
+            },
+            {
+              "number": 2,
+              "text": "The cost for 360 photos is £… (including one disk)."
+            },
+            {
+              "number": 3,
+              "text": "Before the completed order is sent, … is required."
+            },
+            {
+              "number": 4,
+              "text": "Photos can be placed in a folder, e.g. with the name …."
+            },
+            {
+              "number": 5,
+              "text": "The … and contrast can be improved if necessary."
+            },
+            {
+              "number": 6,
+              "text": "Photos which are very fragile will be scanned by …."
+            },
+            {
+              "number": 7,
+              "text": "It may be possible to remove an object from a photo, or change the …."
+            },
+            {
+              "number": 8,
+              "text": "A photo which is not correctly in … cannot be fixed."
+            },
+            {
+              "number": 9,
+              "text": "Orders are completed within …."
+            },
+            {
+              "number": 10,
+              "text": "Send the photos in a box (not …)"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-033.webp",
+              "page": 33
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Copying photos to digital format"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Name of company: Picturerep"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Requirements"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Maximum size of photos is 30 cm, minimum size 4 cm."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Photos must not be in a ",
+                  {
+                    "number": 1
+                  },
+                  " or an album."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Cost"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The cost for 360 photos is £",
+                  {
+                    "number": 2
+                  },
+                  " (including one disk)."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Before the completed order is sent, ",
+                  {
+                    "number": 3
+                  },
+                  " is required."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Services included in the price"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Photos can be placed in a folder, e.g. with the name ",
+                  {
+                    "number": 4
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The ",
+                  {
+                    "number": 5
+                  },
+                  " and contrast can be improved if necessary."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Photos which are very fragile will be scanned by ",
+                  {
+                    "number": 6
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Special restore service (costs extra)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It may be possible to remove an object from a photo, or change the ",
+                  {
+                    "number": 7
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A photo which is not correctly in ",
+                  {
+                    "number": 8
+                  },
+                  " cannot be fixed."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Other information"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Orders are completed within ",
+                  {
+                    "number": 9
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Send the photos in a box (not ",
+                  {
+                    "number": 10
+                  },
+                  ")"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-033.webp",
+          "page": 33
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 33
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/618e129c35d8ac7c6c0c831c22fc59e613043b85d1b39c0e0c3d5073dbf53f11.mp3",
+        "sha256": "618e129c35d8ac7c6c0c831c22fc59e613043b85d1b39c0e0c3d5073dbf53f11",
+        "duration": 397.538,
+        "start": 43.44,
+        "end": 397.538,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t2-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test2-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t2-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–15",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "Dartfield House school used to be",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a tourist information centre."
+                },
+                {
+                  "value": "B",
+                  "label": "a private home."
+                },
+                {
+                  "value": "C",
+                  "label": "a local council building."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "What is planned with regard to the lower school?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "All buildings on the main site will be improved."
+                },
+                {
+                  "value": "B",
+                  "label": "The lower school site will be used for new homes."
+                },
+                {
+                  "value": "C",
+                  "label": "Additional school buildings will be constructed on the lower school site."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "The catering has been changed because of",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "long queuing times."
+                },
+                {
+                  "value": "B",
+                  "label": "changes to the school timetable."
+                },
+                {
+                  "value": "C",
+                  "label": "dissatisfaction with the menus."
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "Parents are asked to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "help their children to decide in advance which serving point to use."
+                },
+                {
+                  "value": "B",
+                  "label": "make sure their children have enough money for food."
+                },
+                {
+                  "value": "C",
+                  "label": "advise their children on healthy food to eat."
+                }
+              ]
+            },
+            {
+              "number": 15,
+              "text": "What does the speaker say about the existing canteen?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Food will still be served there."
+                },
+                {
+                  "value": "B",
+                  "label": "Only staff will have access to it."
+                },
+                {
+                  "value": "C",
+                  "label": "Pupils can take their food into it."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-034.webp",
+              "page": 34
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t2-p2-g16",
+          "type": "matching",
+          "heading": "Questions 16–18",
+          "instructions": "What comment does the speaker make about each of the following serving points in the Food Hall? Choose THREE answers from the box and write the correct letter, A-D, next to . Comments",
+          "body": "",
+          "questions": [
+            {
+              "number": 16,
+              "text": "World Adventures"
+            },
+            {
+              "number": 17,
+              "text": "Street Life"
+            },
+            {
+              "number": 18,
+              "text": "Speedy Italian"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-035.webp",
+              "page": 35
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "pupils help to plan menus"
+            },
+            {
+              "value": "B",
+              "label": "only vegetarian food"
+            },
+            {
+              "value": "C",
+              "label": "different food every week"
+            },
+            {
+              "value": "D",
+              "label": "daily change in menu"
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t2-p2-g19",
+          "type": "multi",
+          "heading": "Questions 19–20",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO optional after-school lessons are new?",
+          "questions": [
+            {
+              "number": 19,
+              "text": "Which TWO optional after-school lessons are new?"
+            },
+            {
+              "number": 20,
+              "text": "Which TWO optional after-school lessons are new?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-035.webp",
+              "page": 35
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "swimming"
+            },
+            {
+              "value": "B",
+              "label": "piano"
+            },
+            {
+              "value": "C",
+              "label": "acting"
+            },
+            {
+              "value": "D",
+              "label": "cycling"
+            },
+            {
+              "value": "E",
+              "label": "theatre sound and lighting"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-034.webp",
+          "page": 34
+        },
+        {
+          "url": "/library-assets/l-cam16-page-035.webp",
+          "page": 35
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 34
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 35
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/d62d55bb0bd766dc7998db3a0abbbac0e8b41f272216efb464214623add5bfa4.mp3",
+        "sha256": "d62d55bb0bd766dc7998db3a0abbbac0e8b41f272216efb464214623add5bfa4",
+        "duration": 463.686,
+        "start": 0,
+        "end": 463.686,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t2-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test2-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t2-p3-g21",
+          "type": "choice",
+          "heading": "Questions 21–24",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Luke read that one reason why we often forget dreams is that",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "our memories cannot cope with too much information."
+                },
+                {
+                  "value": "B",
+                  "label": "we might otherwise be confused about what is real."
+                },
+                {
+                  "value": "C",
+                  "label": "we do not think they are important."
+                }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "What do Luke and Susie agree about dreams predicting the future?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It may just be due to chance."
+                },
+                {
+                  "value": "B",
+                  "label": "It only happens with certain types of event."
+                },
+                {
+                  "value": "C",
+                  "label": "It happens more often than some people think."
+                }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Susie says that a study on pre-school children having a short nap in the day",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "had controversial results."
+                },
+                {
+                  "value": "B",
+                  "label": "used faulty research methodology."
+                },
+                {
+                  "value": "C",
+                  "label": "failed to reach any clear conclusions."
+                }
+              ]
+            },
+            {
+              "number": 24,
+              "text": "In their last assignment, both students had problems with",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "statistical analysis."
+                },
+                {
+                  "value": "B",
+                  "label": "making an action plan."
+                },
+                {
+                  "value": "C",
+                  "label": "self-assessment."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-036.webp",
+              "page": 36
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t2-p3-g25",
+          "type": "completion",
+          "heading": "Questions 25–30",
+          "instructions": "Complete the flow chart below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Decide on sample: Twelve students from the … department"
+            },
+            {
+              "number": 26,
+              "text": "Decide on procedure: Answers on …"
+            },
+            {
+              "number": 27,
+              "text": "Check ethical guidelines for working with …"
+            },
+            {
+              "number": 28,
+              "text": "Ensure that risk is assessed and … is kept to a minimum"
+            },
+            {
+              "number": 29,
+              "text": "Analyse the results: Calculate the correlation and make a …"
+            },
+            {
+              "number": 30,
+              "text": "… the research"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-037.webp",
+              "page": 37
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Assignment plan"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Decide on research question: Is there a relationship between hours of sleep and number of dreams?"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Decide on sample: Twelve students from the ",
+                  {
+                    "number": 25
+                  },
+                  " department"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Decide on methodology: Self-reporting"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Decide on procedure: Answers on ",
+                  {
+                    "number": 26
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Check ethical guidelines for working with ",
+                  {
+                    "number": 27
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Ensure that risk is assessed and ",
+                  {
+                    "number": 28
+                  },
+                  " is kept to a minimum"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Analyse the results: Calculate the correlation and make a ",
+                  {
+                    "number": 29
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 30
+                  },
+                  " the research"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-036.webp",
+          "page": 36
+        },
+        {
+          "url": "/library-assets/l-cam16-page-037.webp",
+          "page": 37
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 36
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 37
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/fe9f06395f5b77d8d063c2e7cada196ee557aebcedfb6c2f9f2958f122196ed8.mp3",
+        "sha256": "fe9f06395f5b77d8d063c2e7cada196ee557aebcedfb6c2f9f2958f122196ed8",
+        "duration": 416.221,
+        "start": 0,
+        "end": 416.221,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t2-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test2-p4",
+      "number": 4,
+      "title": "Health benefits of dance",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t2-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "An experiment on university students suggested that dance increases …."
+            },
+            {
+              "number": 32,
+              "text": "For those with mental illness, dance could be used as a form of …."
+            },
+            {
+              "number": 33,
+              "text": "accessible for people with low levels of …"
+            },
+            {
+              "number": 34,
+              "text": "better … reduces the risk of accidents"
+            },
+            {
+              "number": 35,
+              "text": "improves … function by making it work faster"
+            },
+            {
+              "number": 36,
+              "text": "gives people more … to take exercise"
+            },
+            {
+              "number": 37,
+              "text": "can lessen the feeling of …, very common in older people"
+            },
+            {
+              "number": 38,
+              "text": "A study at The University of Wisconsin showed that doing Zumba for 40 minutes uses up as many … as other quite intense forms of exercise."
+            },
+            {
+              "number": 39,
+              "text": "– women suffering from … benefited from doing Zumba."
+            },
+            {
+              "number": 40,
+              "text": "– Zumba became a … for the participants."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-038.webp",
+              "page": 38
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Health benefits of dance"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Recent findings:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "All forms of dance produce various hormones associated with feelings of happiness."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Dancing with others has a more positive impact than dancing alone."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "An experiment on university students suggested that dance increases ",
+                  {
+                    "number": 31
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "For those with mental illness, dance could be used as a form of ",
+                  {
+                    "number": 32
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Benefits of dance for older people:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "accessible for people with low levels of ",
+                  {
+                    "number": 33
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "reduces the risk of heart disease"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "better ",
+                  {
+                    "number": 34
+                  },
+                  " reduces the risk of accidents"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "improves ",
+                  {
+                    "number": 35
+                  },
+                  " function by making it work faster"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "improves participants’ general well-being"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "gives people more ",
+                  {
+                    "number": 36
+                  },
+                  " to take exercise"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "can lessen the feeling of ",
+                  {
+                    "number": 37
+                  },
+                  ", very common in older people"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Benefits of Zumba:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A study at The University of Wisconsin showed that doing Zumba for 40 minutes uses up as many ",
+                  {
+                    "number": 38
+                  },
+                  " as other quite intense forms of exercise."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The American Journal of Health Behavior study showed that:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– women suffering from ",
+                  {
+                    "number": 39
+                  },
+                  " benefited from doing Zumba."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– Zumba became a ",
+                  {
+                    "number": 40
+                  },
+                  " for the participants."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-038.webp",
+          "page": 38
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 38
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/ac61a42880345db1d81bc6931e0b3b31ff750da22fc10ede9be39eb3dfbab185.mp3",
+        "sha256": "ac61a42880345db1d81bc6931e0b3b31ff750da22fc10ede9be39eb3dfbab185",
+        "duration": 525.711,
+        "start": 0,
+        "end": 448.03,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t2-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam16/timeline-t2-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/e55469b89b9ce0f495eac91af275b394658932079701be0ae28f6c5003b8456e.mp3",
+    "sha256": "e55469b89b9ce0f495eac91af275b394658932079701be0ae28f6c5003b8456e",
+    "duration": 422.165,
+    "start": 0,
+    "end": 422.165,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test3 Part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear a trainee science teacher called Claire talking about her practical teaching work to another trainee called Jake. First, you have some time to look at questions 21 to 25. Now, listen carefully and answer questions 21 to 25. Hi, Jake. How are you getting on with the practical teaching? It's harder than I expected, but I've got some great classes. How about you? Not brilliant. I'm really struggling with my year 12 science class. They're hard to control. Well, I don't have discipline problems as such. It's just that they don't seem to think that science has anything to do with their lives. It's depressing. They listened to what I say, and I gave them a test last week, and the results weren't too bad. But there's no real engagement. Right. And as part of my teaching practice, I have to design an experiment for them to do."
+    },
+    {
+      "name": "ending",
+      "start": 357.165,
+      "end": 422.165,
+      "text": "would have the same as the first group, but they'd also have the extra sugar. Would you just give them straight sugar? It might be better to give them something like cereal with it. Hmm. Then you'd need to weigh the mice. I should think once a week. And you'd need an electronic balance. But we can't hold them on the balance, or it'd affect the reading. Exactly. So you need something called a weighing chamber to stop the mice from running away. it sounds complicated but actually you can just use a plastic box with holes in the top. Okay so once we've measured the weight gain of each mouse we can work out the average for each group as well as the standard deviation and then see where we go from there. That sounds cool. I think the students will enjoy it. Yes one thing you must remember That is the end of part 3. You now have 30 seconds to check your answers to part 3."
+    }
+  ]
+}

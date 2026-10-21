@@ -1,0 +1,162 @@
+{
+  "book": 13,
+  "test": 3,
+  "part": 1,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_01.mp3",
+  "sha256": "3e8652f1537f6aee3e27e686457e1fa21c0e912d7b89fd0036da2a46de6a0585",
+  "duration": 548.35,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      449.17224999999996,
+      549.17225
+    ]
+  ],
+  "text": "Cambridge English, IELTS 13, tests 1 to 4. Published by Cambridge University Press and Uckles 2018. This recording is copyright. CD2. Test 3. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section 1. You will hear a man phoning a woman who lives in an English city called Banford to get some advice about moving to that city. First, you have some time to look at questions one to five. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played for... some appointments with the state agents. I could meet you if you like and show you around. Are you sure? We'd really appreciate that. Either a Tuesday or Thursday is good for me after five-thirty. Thursday is preferable. Tuesday I need to get home before six p.m. OK. Great. Let me know which train you're catching and I'll meet you in the cafe outside. You can't miss it. It's opposite the station and next to the museum. Brilliant. I'll text you next week then. Thanks so much for all the advice. No problem. I'll see you next week. That is the end of section 1. You now have half a minute to check your answers. Now turn to section 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Cambridge English, IELTS 13, tests 1 to 4."
+    },
+    {
+      "start": 6.8,
+      "end": 12.2,
+      "text": "Published by Cambridge University Press and Uckles 2018."
+    },
+    {
+      "start": 13.6,
+      "end": 16.2,
+      "text": "This recording is copyright."
+    },
+    {
+      "start": 17.6,
+      "end": 19.2,
+      "text": "CD2."
+    },
+    {
+      "start": 20.4,
+      "end": 21.8,
+      "text": "Test 3."
+    },
+    {
+      "start": 23.4,
+      "end": 26.4,
+      "text": "You will hear a number of different recordings,"
+    },
+    {
+      "start": 26.4,
+      "end": 29.8,
+      "text": "and you will have to answer questions on what you hear."
+    },
+    {
+      "start": 30.0,
+      "end": 36.12,
+      "text": "There will be time for you to read the instructions and questions and you will have"
+    },
+    {
+      "start": 36.12,
+      "end": 39.6,
+      "text": "a chance to check your work."
+    },
+    {
+      "start": 39.6,
+      "end": 44.48,
+      "text": "All the recordings will be played once only."
+    },
+    {
+      "start": 44.48,
+      "end": 48.48,
+      "text": "The test is in four sections."
+    },
+    {
+      "start": 48.48,
+      "end": 53.92,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer"
+    },
+    {
+      "start": 53.92,
+      "end": 54.92,
+      "text": "sheet."
+    },
+    {
+      "start": 54.92,
+      "end": 64.92,
+      "text": "Now turn to section 1."
+    },
+    {
+      "start": 64.92,
+      "end": 74.92,
+      "text": "You will hear a man phoning a woman who lives in an English city called Banford to get some advice about moving to that city."
+    },
+    {
+      "start": 74.92,
+      "end": 79.92,
+      "text": "First, you have some time to look at questions one to five."
+    },
+    {
+      "start": 104.92,
+      "end": 109.92,
+      "text": "You will see that there is an example that has been done for you."
+    },
+    {
+      "start": 109.92,
+      "end": 114.92,
+      "text": "On this occasion only, the conversation relating to this will be played for..."
+    },
+    {
+      "start": 449.17,
+      "end": 455.01,
+      "text": "some appointments with the state agents. I could meet you if you like and show you around."
+    },
+    {
+      "start": 455.97,
+      "end": 465.33,
+      "text": "Are you sure? We'd really appreciate that. Either a Tuesday or Thursday is good for me after"
+    },
+    {
+      "start": 465.33,
+      "end": 472.61,
+      "text": "five-thirty. Thursday is preferable. Tuesday I need to get home before six p.m."
+    },
+    {
+      "start": 472.61,
+      "end": 483.61,
+      "text": "OK. Great. Let me know which train you're catching and I'll meet you in the cafe outside."
+    },
+    {
+      "start": 483.61,
+      "end": 490.61,
+      "text": "You can't miss it. It's opposite the station and next to the museum."
+    },
+    {
+      "start": 490.61,
+      "end": 498.61,
+      "text": "Brilliant. I'll text you next week then. Thanks so much for all the advice."
+    },
+    {
+      "start": 498.61,
+      "end": 501.97,
+      "text": "No problem. I'll see you next week."
+    },
+    {
+      "start": 505.29,
+      "end": 507.13,
+      "text": "That is the end of section 1."
+    },
+    {
+      "start": 508.25,
+      "end": 511.53,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 528.61,
+      "end": 544.61,
+      "text": "Now turn to section 2."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

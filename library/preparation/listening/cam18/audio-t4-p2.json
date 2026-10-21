@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/7758d048fb6b0280f89738cd740f80e3311157ee99c16381e3c3305ab50d564b.mp3",
+    "sha256": "7758d048fb6b0280f89738cd740f80e3311157ee99c16381e3c3305ab50d564b",
+    "duration": 436.122,
+    "start": 0,
+    "end": 436.122,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 4\\CAMBRIDGE 18 section4 part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a guide at a farming museum talking to a group of visitors. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Good morning everyone and welcome to the Museum of Farming Life. I understand it's your first visit here so I'd like to give you some background information about the museum and then explain a little about what you can see during your visit. So where we're standing at the moment is the entrance to a large building that was constructed in 1880 as the home of a local businessman Alfred Palmer of the Palmer Biscuit Factory. It was later sold and became a hall of residence for students in 1911 and a museum in 1951. In 2005, a modern extension was built to accommodate the museum's collections."
+    },
+    {
+      "name": "ending",
+      "start": 371.122,
+      "end": 436.122,
+      "text": "developing this area, so you can't visit that at the moment. You can still buy our honey in the shop though. Finally, there's the pond, which contains all kinds of interesting wildlife. There are baby ducks that are only a few days old, as well as tiny frogs. The pond isn't deep, and there is a fence around it, so it's perfectly safe for children. That is the end of part 2. You now have 30 seconds to check your answers to part 2."
+    }
+  ]
+}

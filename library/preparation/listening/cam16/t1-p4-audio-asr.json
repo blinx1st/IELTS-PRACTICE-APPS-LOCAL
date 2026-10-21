@@ -1,0 +1,112 @@
+{
+  "book": 16,
+  "test": 1,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 4.mp3",
+  "sha256": "150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98",
+  "duration": 505.045,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      405.6,
+      505.6
+    ]
+  ],
+  "text": "Part 4. You will hear a professor of philosophy giving a talk on the ancient philosophy of stoicism. First, you have some time to look at questions 31 to 40. You Now, listen carefully and answer questions 31 to 40. Ancient philosophy is not just about talking or lecturing or even reading long, dense books. In fact, it is something people have used throughout history to solve their problems and achieve their greatest triumphs. Specifically, I am referring to Stoicism, which in my opinion is the most practical of all philosophies, and therefore the most appealing. Stoicism was founded in ancient Greece by Zeno of Sittium in the early 3rd century BC, but was practiced by the likes of Epictetus, Cato, Seneca, and Marcus O'Rays. also believed the most important foundation for a good and happy life is not money, fame, power or pleasure, but having a disciplined and principled character, something which seems to resonate with many people today. That is the end of Part 4. You now have one minute to check your answers to Part 4. you That is the end of the listing test. the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": "Part 4. You will hear a professor of philosophy giving a talk on the ancient philosophy"
+    },
+    {
+      "start": 6.6,
+      "end": 13.62,
+      "text": "of stoicism. First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 72.24,
+      "text": "Now, listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 72.24,
+      "end": 80.08,
+      "text": "Ancient philosophy is not just about talking or lecturing or even reading long, dense books."
+    },
+    {
+      "start": 80.08,
+      "end": 86.8,
+      "text": "In fact, it is something people have used throughout history to solve their problems and"
+    },
+    {
+      "start": 86.8,
+      "end": 95.52,
+      "text": "achieve their greatest triumphs. Specifically, I am referring to Stoicism, which in my opinion"
+    },
+    {
+      "start": 95.52,
+      "end": 102.88,
+      "text": "is the most practical of all philosophies, and therefore the most appealing. Stoicism was"
+    },
+    {
+      "start": 102.88,
+      "end": 109.92,
+      "text": "founded in ancient Greece by Zeno of Sittium in the early 3rd century BC, but was practiced"
+    },
+    {
+      "start": 109.92,
+      "end": 114.92,
+      "text": "by the likes of Epictetus, Cato, Seneca, and Marcus O'Rays."
+    },
+    {
+      "start": 405.6,
+      "end": 412.6,
+      "text": "also believed the most important foundation for a good and happy life is not money, fame,"
+    },
+    {
+      "start": 412.6,
+      "end": 420.04,
+      "text": "power or pleasure, but having a disciplined and principled character, something which"
+    },
+    {
+      "start": 420.04,
+      "end": 424.8,
+      "text": "seems to resonate with many people today."
+    },
+    {
+      "start": 424.8,
+      "end": 427.24,
+      "text": "That is the end of Part 4."
+    },
+    {
+      "start": 427.24,
+      "end": 430.72,
+      "text": "You now have one minute to check your answers to Part 4."
+    },
+    {
+      "start": 435.6,
+      "end": 437.6,
+      "text": "you"
+    },
+    {
+      "start": 465.6,
+      "end": 494.52,
+      "text": "That is the end of the listing test."
+    },
+    {
+      "start": 494.52,
+      "end": 501.52,
+      "text": "the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

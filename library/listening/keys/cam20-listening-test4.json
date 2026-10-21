@@ -1,0 +1,182 @@
+{
+  "answers": {
+    "1": [
+      "Kings",
+      "King's"
+    ],
+    "2": [
+      "125"
+    ],
+    "3": [
+      "walking"
+    ],
+    "4": [
+      "boat"
+    ],
+    "5": [
+      "Tuesday"
+    ],
+    "6": [
+      "space"
+    ],
+    "7": [
+      "vegetarian"
+    ],
+    "8": [
+      "2.30",
+      "two thirty"
+    ],
+    "9": [
+      "75",
+      "seventy-five"
+    ],
+    "10": [
+      "port"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "D"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "H"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "G"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "E"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "rats"
+    ],
+    "32": [
+      "snakes"
+    ],
+    "33": [
+      "tourism"
+    ],
+    "34": [
+      "traffic"
+    ],
+    "35": [
+      "rain"
+    ],
+    "36": [
+      "poison"
+    ],
+    "37": [
+      "building"
+    ],
+    "38": [
+      "dog"
+    ],
+    "39": [
+      "noise"
+    ],
+    "40": [
+      "combination"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        11,
+        12
+      ],
+      "answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        13,
+        14
+      ],
+      "answers": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        21,
+        22
+      ],
+      "answers": [
+        "C",
+        "E"
+      ]
+    },
+    {
+      "numbers": [
+        23,
+        24
+      ],
+      "answers": [
+        "A",
+        "C"
+      ]
+    }
+  ],
+  "errata": [
+    {
+      "question": 12,
+      "issue": "Supplied retyped answer-key cell12 is blank.",
+      "correction": "C",
+      "evidence": "Provided Part2 recording/transcript explicitly requires parents to stay with children; B is drawing competition. This is an unordered B/C pair."
+    }
+  ],
+  "limitExceptions": {
+    "8": [
+      "two thirty"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 58,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": ".\nListening\nECTION 4\nQuestions 31-40\ncomplete the notes below.\nte ONE WORD ONLY for each answer.\n FB.com/LoulsQuangVo\nThe sleepy lizard (tiliqua rugosa)\nDescription\n=\nThey are common in Western and South Australia\n:\n*\nThey are brown, but recognisable by their DIUC 314...\ni}\n+\nThey are relatively large\n*\n— Their diet consists Mainly OF 32 o.com\n*\nTheir main predators are large birds ANA 33wc\nNavigation study\n+\nOne study found that lizards can USe the 34cnn tO help\nthem navigate\nObservations in the wild\n+\nObservations show that these lizards keep the SAME 35rns\nfor several years\nWhat people want\n+\nPossible reasons:\n—\nto improve the survival of their young\n(but little 36 ..nusnnnnnnnnenn aS been noted between parents and\nchildren)\n=\ntO PFOVIdE 37 wnvennicnnnennnennunanen for female lizards\nTracking study\n—\n Astudy was carried out using GPS systems attached to\nTG 88 iisssiniciscinesisnnncionace OF 1\nIZAras\n-\nThis provided information on the lizards’ location and even the number\n—\nIt appeared that the lizards were trying to avoid one another\n-—\nThis may be in order to reduce Chances Of 40 ..--..--nnnnnnnnennnnnn\n59\n",
+  "blocks": [
+    {
+      "box": [
+        42.47999954223633,
+        50.4000244140625,
+        529.0919799804688,
+        62.65225601196289
+      ],
+      "text": ".\nListening\n"
+    },
+    {
+      "box": [
+        53.639984130859375,
+        91.79998779296875,
+        281.92510986328125,
+        105.85406494140625
+      ],
+      "text": "ECTION 4\nQuestions 31-40\n"
+    },
+    {
+      "box": [
+        47.87998962402344,
+        123.84002685546875,
+        187.1566925048828,
+        136.8129425048828
+      ],
+      "text": "complete the notes below.\n"
+    },
+    {
+      "box": [
+        60.47998046875,
+        153.719970703125,
+        382.4644775390625,
+        164.8911590576172
+      ],
+      "text": "te ONE WORD ONLY for each answer.\n FB.com/LoulsQuangVo\n"
+    },
+    {
+      "box": [
+        152.6399688720703,
+        197.6400146484375,
+        398.4910583496094,
+        214.57691955566406
+      ],
+      "text": "The sleepy lizard (tiliqua rugosa)\n"
+    },
+    {
+      "box": [
+        41.75996780395508,
+        226.08001708984375,
+        354.1823425292969,
+        256.69476318359375
+      ],
+      "text": "Description\n=\nThey are common in Western and South Australia\n"
+    },
+    {
+      "box": [
+        39.9599609375,
+        264.96002197265625,
+        453.1174621582031,
+        284.41943359375
+      ],
+      "text": ":\n*\nThey are brown, but recognisable by their DIUC 314...\n"
+    },
+    {
+      "box": [
+        41.39996337890625,
+        282.9599914550781,
+        42.07316589355469,
+        289.08612060546875
+      ],
+      "text": "i}\n"
+    },
+    {
+      "box": [
+        54.359962463378906,
+        291.239990234375,
+        213.37196350097656,
+        304.2129821777344
+      ],
+      "text": "+\nThey are relatively large\n"
+    },
+    {
+      "box": [
+        54.359954833984375,
+        312.8399963378906,
+        351.6300354003906,
+        329.05621337890625
+      ],
+      "text": "*\n— Their diet consists Mainly OF 32 o.com\n"
+    },
+    {
+      "box": [
+        54.71995544433594,
+        337.32000732421875,
+        420.4439392089844,
+        351.013671875
+      ],
+      "text": "*\nTheir main predators are large birds ANA 33wc\n"
+    },
+    {
+      "box": [
+        55.439971923828125,
+        369.7200012207031,
+        153.81002807617188,
+        382.3326110839844
+      ],
+      "text": "Navigation study\n"
+    },
+    {
+      "box": [
+        55.439971923828125,
+        384.1199951171875,
+        462.21124267578125,
+        414.3718566894531
+      ],
+      "text": "+\nOne study found that lizards can USe the 34cnn tO help\nthem navigate\n"
+    },
+    {
+      "box": [
+        55.79995346069336,
+        427.67999267578125,
+        198.14402770996094,
+        438.4908142089844
+      ],
+      "text": "Observations in the wild\n"
+    },
+    {
+      "box": [
+        56.15995788574219,
+        443.1600036621094,
+        488.1022644042969,
+        456.1329650878906
+      ],
+      "text": "+\nObservations show that these lizards keep the SAME 35rns\n"
+    },
+    {
+      "box": [
+        82.43994140625,
+        460.79998779296875,
+        173.99696350097656,
+        472.6918640136719
+      ],
+      "text": "for several years\n"
+    },
+    {
+      "box": [
+        55.79994201660156,
+        483.4800109863281,
+        161.23672485351562,
+        495.73223876953125
+      ],
+      "text": "What people want\n"
+    },
+    {
+      "box": [
+        56.51994323730469,
+        501.4800109863281,
+        311.6070251464844,
+        531.7332763671875
+      ],
+      "text": "+\nPossible reasons:\n—\nto improve the survival of their young\n"
+    },
+    {
+      "box": [
+        109.43994140625,
+        532.0799560546875,
+        481.60076904296875,
+        563.4119262695312
+      ],
+      "text": "(but little 36 ..nusnnnnnnnnenn aS been noted between parents and\nchildren)\n"
+    },
+    {
+      "box": [
+        83.15994262695312,
+        572.760009765625,
+        378.7919006347656,
+        587.1744384765625
+      ],
+      "text": "=\ntO PFOVIdE 37 wnvennicnnnennnennunanen for female lizards\n"
+    },
+    {
+      "box": [
+        56.87994384765625,
+        605.8800048828125,
+        143.98193359375,
+        618.1322631835938
+      ],
+      "text": "Tracking study\n"
+    },
+    {
+      "box": [
+        83.51994323730469,
+        622.0799560546875,
+        406.7279357910156,
+        650.1715698242188
+      ],
+      "text": "—\n Astudy was carried out using GPS systems attached to\nTG 88 iisssiniciscinesisnnncionace OF 1\nIZAras\n"
+    },
+    {
+      "box": [
+        83.87994384765625,
+        660.6000366210938,
+        498.5316467285156,
+        676.0955200195312
+      ],
+      "text": "-\nThis provided information on the lizards’ location and even the number\n"
+    },
+    {
+      "box": [
+        84.23995971679688,
+        700.5599975585938,
+        440.157470703125,
+        715.6951293945312
+      ],
+      "text": "—\nIt appeared that the lizards were trying to avoid one another\n"
+    },
+    {
+      "box": [
+        84.59994506835938,
+        724.6799926757812,
+        461.44781494140625,
+        739.0944213867188
+      ],
+      "text": "-—\nThis may be in order to reduce Chances Of 40 ..--..--nnnnnnnnennnnnn\n"
+    },
+    {
+      "box": [
+        522.3599243164062,
+        768.6000366210938,
+        535.2766723632812,
+        777.9693603515625
+      ],
+      "text": "59\n"
+    }
+  ]
+}

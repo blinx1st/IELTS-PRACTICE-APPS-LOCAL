@@ -1,0 +1,156 @@
+{
+  "id": "cam13-listening-test2",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "races"
+    ],
+    "2": [
+      "insurance"
+    ],
+    "3": [
+      "Jerriz"
+    ],
+    "4": [
+      "25",
+      "twenty-five"
+    ],
+    "5": [
+      "stadium"
+    ],
+    "6": [
+      "park"
+    ],
+    "7": [
+      "coffee"
+    ],
+    "8": [
+      "leader"
+    ],
+    "9": [
+      "route"
+    ],
+    "10": [
+      "lights"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "E"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "D"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "G"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "location"
+    ],
+    "32": [
+      "world"
+    ],
+    "33": [
+      "personal"
+    ],
+    "34": [
+      "attention"
+    ],
+    "35": [
+      "name"
+    ],
+    "36": [
+      "network"
+    ],
+    "37": [
+      "frequency"
+    ],
+    "38": [
+      "colour",
+      "color"
+    ],
+    "39": [
+      "brain"
+    ],
+    "40": [
+      "self"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        17,
+        18
+      ],
+      "answers": [
+        "C",
+        "E"
+      ]
+    },
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+    "pdfPage": 118,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

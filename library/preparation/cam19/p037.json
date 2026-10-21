@@ -1,0 +1,237 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 37,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 2\nQuestions 25-28\nWhat reasons did the recycling manager give for rejecting footwear, according to\nthe students?\nChoose FOUR answers from the box and write the correct letter, A-F, next to\nQuestions 25-28.\nReasons\nA__\none shoe was missing\nB\nthe colour of one shoe had faded\nC_\none shoe hada hole in it\nD\nthe shoes were brand new\nE\nthe shoes were too dirty\nF _ the stitching on the shoes was broken\nFootwear\n25\nthe high-heeled shoes\nsidecases\n26\nthe ankle boots\nsian\ni ass\n27\nthe baby shoes\nseiceomencaset\n28\nthe trainers\ngates\nrss\nQuestions 29-30\nChoose the correct letter, A, B or C.\n29\nWhy did the project to make ‘new’ shoes out of old shoes fail?\nA_\nPeople believed the ‘new’ pairs of shoes were unhygienic.\nB_\nThere were not enough good parts to use in the old shoes.\nC_\nThe shoes in the ‘new’ pairs were not completely alike.\n30\nBella and Don agree that they can present their topic\nA\nfrom anew angle.\nB_\nwith relevant images.\nC\nina straightforward way.\n38\n= =} |@ p. 122]\n|ia p. 106\n",
+  "blocks": [
+    {
+      "box": [
+        44.62995147705078,
+        36.71174240112305,
+        74.1253433227539,
+        44.63792419433594
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        44.2700309753418,
+        70.54412078857422,
+        135.26666259765625,
+        80.27168273925781
+      ],
+      "text": "Questions 25-28\n"
+    },
+    {
+      "box": [
+        43.190277099609375,
+        97.17815399169922,
+        434.0262756347656,
+        118.4216079711914
+      ],
+      "text": "What reasons did the recycling manager give for rejecting footwear, according to\nthe students?\n"
+    },
+    {
+      "box": [
+        43.91012954711914,
+        136.04940795898438,
+        418.9169006347656,
+        157.65316772460938
+      ],
+      "text": "Choose FOUR answers from the box and write the correct letter, A-F, next to\nQuestions 25-28.\n"
+    },
+    {
+      "box": [
+        236.46678161621094,
+        182.47897338867188,
+        281.0858154296875,
+        190.76536560058594
+      ],
+      "text": "Reasons\n"
+    },
+    {
+      "box": [
+        127.41133880615234,
+        202.63436889648438,
+        258.2310791015625,
+        213.08245849609375
+      ],
+      "text": "A__\none shoe was missing\n"
+    },
+    {
+      "box": [
+        127.77125549316406,
+        222.7898712158203,
+        310.8620300292969,
+        230.7160186767578
+      ],
+      "text": "B\nthe colour of one shoe had faded\n"
+    },
+    {
+      "box": [
+        127.77127075195312,
+        241.14572143554688,
+        270.2811584472656,
+        254.4760284423828
+      ],
+      "text": "C_\none shoe hada hole in it\n"
+    },
+    {
+      "box": [
+        127.77127075195312,
+        262.7408447265625,
+        279.59228515625,
+        271.0272521972656
+      ],
+      "text": "D\nthe shoes were brand new\n"
+    },
+    {
+      "box": [
+        127.77127075195312,
+        282.8963317871094,
+        267.25787353515625,
+        293.34442138671875
+      ],
+      "text": "E\nthe shoes were too dirty\n"
+    },
+    {
+      "box": [
+        127.77127075195312,
+        301.61212158203125,
+        334.0263977050781,
+        315.3027038574219
+      ],
+      "text": "F _ the stitching on the shoes was broken\n"
+    },
+    {
+      "box": [
+        68.02472686767578,
+        343.3627014160156,
+        116.48410034179688,
+        351.288818359375
+      ],
+      "text": "Footwear\n"
+    },
+    {
+      "box": [
+        43.550235748291016,
+        364.9578552246094,
+        265.3250427246094,
+        375.045654296875
+      ],
+      "text": "25\nthe high-heeled shoes\nsidecases\n"
+    },
+    {
+      "box": [
+        43.1903190612793,
+        385.1133117675781,
+        265.1308288574219,
+        398.443603515625
+      ],
+      "text": "26\nthe ankle boots\nsian\ni ass\n"
+    },
+    {
+      "box": [
+        43.1903190612793,
+        407.7882080078125,
+        264.79608154296875,
+        418.2362976074219
+      ],
+      "text": "27\nthe baby shoes\nseiceomencaset\n"
+    },
+    {
+      "box": [
+        43.1903190612793,
+        427.9436950683594,
+        265.2063293457031,
+        436.2301025390625
+      ],
+      "text": "28\nthe trainers\ngates\nrss\n"
+    },
+    {
+      "box": [
+        43.910160064697266,
+        461.4161376953125,
+        134.1239013671875,
+        470.7834167480469
+      ],
+      "text": "Questions 29-30\n"
+    },
+    {
+      "box": [
+        43.55024337768555,
+        489.1299133300781,
+        216.6136932373047,
+        498.857421875
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        43.1903190612793,
+        509.2853698730469,
+        366.6315002441406,
+        519.7334594726562
+      ],
+      "text": "29\nWhy did the project to make ‘new’ shoes out of old shoes fail?\n"
+    },
+    {
+      "box": [
+        67.30491638183594,
+        529.4408569335938,
+        374.40936279296875,
+        552.8460083007812
+      ],
+      "text": "A_\nPeople believed the ‘new’ pairs of shoes were unhygienic.\nB_\nThere were not enough good parts to use in the old shoes.\n"
+    },
+    {
+      "box": [
+        67.30491638183594,
+        555.3550415039062,
+        355.09613037109375,
+        566.1633911132812
+      ],
+      "text": "C_\nThe shoes in the ‘new’ pairs were not completely alike.\n"
+    },
+    {
+      "box": [
+        43.19034957885742,
+        575.510498046875,
+        322.9733581542969,
+        585.9585571289062
+      ],
+      "text": "30\nBella and Don agree that they can present their topic\n"
+    },
+    {
+      "box": [
+        66.94498443603516,
+        595.6659545898438,
+        177.18814086914062,
+        606.114013671875
+      ],
+      "text": "A\nfrom anew angle.\n"
+    },
+    {
+      "box": [
+        67.30489349365234,
+        608.623046875,
+        208.3931427001953,
+        633.4678344726562
+      ],
+      "text": "B_\nwith relevant images.\nC\nina straightforward way.\n"
+    },
+    {
+      "box": [
+        43.1903190612793,
+        669.8092651367188,
+        197.3939971923828,
+        685.30126953125
+      ],
+      "text": "38\n= =} |@ p. 122]\n|ia p. 106\n"
+    }
+  ]
+}

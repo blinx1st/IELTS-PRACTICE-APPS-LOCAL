@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/a125a0b8de00cdbae3f877500bd0234afdaec351e007db8764e4116d09175159.mp3",
+    "sha256": "a125a0b8de00cdbae3f877500bd0234afdaec351e007db8764e4116d09175159",
+    "duration": 414.798,
+    "start": 0,
+    "end": 414.798,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part4.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear an archaeology student giving a presentation on an important site in Ireland called the KG Fields. First you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. For my presentation today, I'm going to talk about the KG fields in the northwest of Ireland, one of the largest Neolithic sites in the world."
+    },
+    {
+      "name": "ending",
+      "start": 349.798,
+      "end": 414.798,
+      "text": "would have enjoyed a relatively dry period, but this began to change, and the conditions became wetter as there was a lot more rain. It was these conditions that encouraged the bog to form over the area which survives today. So now I'd like to show you some. That is the end of Part 4. You now have one minute to check your answers to Part 4. You"
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "id": "cam16-listening-test4",
+  "skill": "listening",
+  "book": 16,
+  "test": 4,
+  "title": "Cambridge 16 · Listening Test 4",
+  "version": "2.0-listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "cam16-listening-test4-p1",
+      "number": 1,
+      "title": "Holiday rental",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t4-p1-g1",
+          "type": "completion",
+          "heading": "Questions 1–10",
+          "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": "available for week beginning … May"
+            },
+            {
+              "number": 2,
+              "text": "cost for the week: £…"
+            },
+            {
+              "number": 3,
+              "text": "… Cottage"
+            },
+            {
+              "number": 4,
+              "text": "building was originally a …"
+            },
+            {
+              "number": 5,
+              "text": "walk through doors from living room into a …"
+            },
+            {
+              "number": 6,
+              "text": "several … spaces at the front"
+            },
+            {
+              "number": 7,
+              "text": "central heating and stove that burns …"
+            },
+            {
+              "number": 8,
+              "text": "views of old … from living room"
+            },
+            {
+              "number": 9,
+              "text": "view of hilltop … from the bedroom"
+            },
+            {
+              "number": 10,
+              "text": "deadline for final payment: end of …"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-077.webp",
+              "page": 77
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Holiday rental"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Owners’ names: Jack Fitzgerald and Shirley Fitzgerald"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Granary Cottage"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "available for week beginning ",
+                  {
+                    "number": 1
+                  },
+                  " May"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "cost for the week: £",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  {
+                    "number": 3
+                  },
+                  " Cottage"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "cost for the week: £480"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "building was originally a ",
+                  {
+                    "number": 4
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "walk through doors from living room into a ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "several ",
+                  {
+                    "number": 6
+                  },
+                  " spaces at the front"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "bathroom has a shower"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "central heating and stove that burns ",
+                  {
+                    "number": 7
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "views of old ",
+                  {
+                    "number": 8
+                  },
+                  " from living room"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "view of hilltop ",
+                  {
+                    "number": 9
+                  },
+                  " from the bedroom"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Payment"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "deposit: £144"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "deadline for final payment: end of ",
+                  {
+                    "number": 10
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-077.webp",
+          "page": 77
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 77
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/eb518572fd3231ade6ba8957b46ff171d21f10fefd36ca308a65ed2806dda199.mp3",
+        "sha256": "eb518572fd3231ade6ba8957b46ff171d21f10fefd36ca308a65ed2806dda199",
+        "duration": 425.824,
+        "start": 43.6,
+        "end": 425.824,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t4-p1-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test4-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t4-p2-g11",
+          "type": "choice",
+          "heading": "Questions 11–14",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 11,
+              "text": "A survey found people’s main concern about traffic in the area was",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "cuts to public transport."
+                },
+                {
+                  "value": "B",
+                  "label": "poor maintenance of roads."
+                },
+                {
+                  "value": "C",
+                  "label": "changes in the type of traffic."
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "Which change will shortly be made to the cycle path next to the river?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "It will be widened."
+                },
+                {
+                  "value": "B",
+                  "label": "It will be extended."
+                },
+                {
+                  "value": "C",
+                  "label": "It will be resurfaced."
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "text": "Plans for a pedestrian crossing have been postponed because",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "the Post Office has moved."
+                },
+                {
+                  "value": "B",
+                  "label": "the proposed location is unsafe."
+                },
+                {
+                  "value": "C",
+                  "label": "funding is not available at present."
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "text": "On Station Road, notices have been erected",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "telling cyclists not to leave their bikes outside the station ticket office."
+                },
+                {
+                  "value": "B",
+                  "label": "asking motorists to switch off engines when waiting at the level crossing."
+                },
+                {
+                  "value": "C",
+                  "label": "warning pedestrians to leave enough time when crossing the railway line."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-078.webp",
+              "page": 78
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t4-p2-g15",
+          "type": "matching",
+          "heading": "Questions 15–20",
+          "instructions": "Label the map/plan below. Write the correct letter, A–I, next to Questions 15–20.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "New car park"
+            },
+            {
+              "number": 16,
+              "text": "New cricket pitch"
+            },
+            {
+              "number": 17,
+              "text": "Children’s playground"
+            },
+            {
+              "number": 18,
+              "text": "Skateboard ramp"
+            },
+            {
+              "number": 19,
+              "text": "Pavilion"
+            },
+            {
+              "number": 20,
+              "text": "Notice board"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-079.webp",
+              "page": 79
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "A"
+            },
+            {
+              "value": "B",
+              "label": "B"
+            },
+            {
+              "value": "C",
+              "label": "C"
+            },
+            {
+              "value": "D",
+              "label": "D"
+            },
+            {
+              "value": "E",
+              "label": "E"
+            },
+            {
+              "value": "F",
+              "label": "F"
+            },
+            {
+              "value": "G",
+              "label": "G"
+            },
+            {
+              "value": "H",
+              "label": "H"
+            },
+            {
+              "value": "I",
+              "label": "I"
+            }
+          ],
+          "renderMode": "source-map",
+          "layout": {
+            "kind": "diagram",
+            "image": {
+              "url": "/library-assets/l-cam16-page-079.webp",
+              "page": 79
+            },
+            "labels": [
+              {
+                "number": 15,
+                "x": 0.443,
+                "y": 0.65,
+                "width": 0.095
+              },
+              {
+                "number": 16,
+                "x": 0.443,
+                "y": 0.6775,
+                "width": 0.095
+              },
+              {
+                "number": 17,
+                "x": 0.443,
+                "y": 0.705,
+                "width": 0.095
+              },
+              {
+                "number": 18,
+                "x": 0.443,
+                "y": 0.7325,
+                "width": 0.095
+              },
+              {
+                "number": 19,
+                "x": 0.443,
+                "y": 0.76,
+                "width": 0.095
+              },
+              {
+                "number": 20,
+                "x": 0.443,
+                "y": 0.7875,
+                "width": 0.095
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-078.webp",
+          "page": 78
+        },
+        {
+          "url": "/library-assets/l-cam16-page-079.webp",
+          "page": 79
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 78
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 79
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/b4da010e07807223d6df4cb8ee10de2544bc045b531e3e42d6b82aaf0873e2aa.mp3",
+        "sha256": "b4da010e07807223d6df4cb8ee10de2544bc045b531e3e42d6b82aaf0873e2aa",
+        "duration": 384.674,
+        "start": 0,
+        "end": 384.674,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t4-p2-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test4-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t4-p3-g21",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO benefits of city bike-sharing schemes do the students agree are the most important?",
+          "questions": [
+            {
+              "number": 21,
+              "text": "Which TWO benefits of city bike-sharing schemes do the students agree are the most important?"
+            },
+            {
+              "number": 22,
+              "text": "Which TWO benefits of city bike-sharing schemes do the students agree are the most important?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-080.webp",
+              "page": 80
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "reducing noise pollution"
+            },
+            {
+              "value": "B",
+              "label": "reducing traffic congestion"
+            },
+            {
+              "value": "C",
+              "label": "improving air quality"
+            },
+            {
+              "value": "D",
+              "label": "encouraging health and fitness"
+            },
+            {
+              "value": "E",
+              "label": "making cycling affordable"
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t4-p3-g23",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A–E.",
+          "body": "Which TWO things do the students think are necessary for successful bike-sharing schemes?",
+          "questions": [
+            {
+              "number": 23,
+              "text": "Which TWO things do the students think are necessary for successful bike-sharing schemes?"
+            },
+            {
+              "number": 24,
+              "text": "Which TWO things do the students think are necessary for successful bike-sharing schemes?"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-080.webp",
+              "page": 80
+            }
+          ],
+          "choose": 2,
+          "options": [
+            {
+              "value": "A",
+              "label": "Bikes should have a GPS system."
+            },
+            {
+              "value": "B",
+              "label": "The app should be easy to use."
+            },
+            {
+              "value": "C",
+              "label": "Public awareness should be raised."
+            },
+            {
+              "value": "D",
+              "label": "Only one scheme should be available."
+            },
+            {
+              "value": "E",
+              "label": "There should be a large network of cycle lanes."
+            }
+          ]
+        },
+        {
+          "id": "l-cam16-t4-p3-g25",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to . Opinion of bike-sharing scheme",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Amsterdam"
+            },
+            {
+              "number": 26,
+              "text": "Dublin"
+            },
+            {
+              "number": 27,
+              "text": "London"
+            },
+            {
+              "number": 28,
+              "text": "Buenos Aires"
+            },
+            {
+              "number": 29,
+              "text": "New York"
+            },
+            {
+              "number": 30,
+              "text": "Sydney"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-081.webp",
+              "page": 81
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "They agree it has been disappointing."
+            },
+            {
+              "value": "B",
+              "label": "They think it should be cheaper."
+            },
+            {
+              "value": "C",
+              "label": "They are surprised it has been so successful."
+            },
+            {
+              "value": "D",
+              "label": "They agree that more investment is required."
+            },
+            {
+              "value": "E",
+              "label": "They think the system has been well designed."
+            },
+            {
+              "value": "F",
+              "label": "They disagree about the reasons for its success."
+            },
+            {
+              "value": "G",
+              "label": "They think it has expanded too quickly."
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-080.webp",
+          "page": 80
+        },
+        {
+          "url": "/library-assets/l-cam16-page-081.webp",
+          "page": 81
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 80
+        },
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 81
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c9b8b98d40ddb2e5168e8531ef1f59556325becfc3b9cc911d0bce33a24f25a8.mp3",
+        "sha256": "c9b8b98d40ddb2e5168e8531ef1f59556325becfc3b9cc911d0bce33a24f25a8",
+        "duration": 407.897,
+        "start": 0,
+        "end": 407.897,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t4-p3-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": null,
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "cam16-listening-test4-p4",
+      "number": 4,
+      "title": "THE EXTINCTION OF THE DODO BIRD",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam16-t4-p4-g31",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below.\nWrite ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": "1507 – Portuguese ships transporting … stopped at the island to collect food and water."
+            },
+            {
+              "number": 32,
+              "text": "1638 – The Dutch established a … on the island."
+            },
+            {
+              "number": 33,
+              "text": "A Dutch painting suggests the dodo was very …."
+            },
+            {
+              "number": 34,
+              "text": "The only remaining soft tissue is a dried …."
+            },
+            {
+              "number": 35,
+              "text": "Recent studies of a dodo skeleton suggest the birds were capable of rapid …."
+            },
+            {
+              "number": 36,
+              "text": "It’s thought they were able to use their small wings to maintain …."
+            },
+            {
+              "number": 37,
+              "text": "The … was of average size."
+            },
+            {
+              "number": 38,
+              "text": "Their sense of … enabled them to find food."
+            },
+            {
+              "number": 39,
+              "text": "… also escaped onto the island and ate the birds’ eggs."
+            },
+            {
+              "number": 40,
+              "text": "The arrival of farming meant the … was destroyed."
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam16-page-082.webp",
+              "page": 82
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "THE EXTINCTION OF THE DODO BIRD"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The dodo was a large flightless bird which used to inhabit the island of Mauritius."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "History"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "1507 – Portuguese ships transporting ",
+                  {
+                    "number": 31
+                  },
+                  " stopped at the island to collect food and water."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "1638 – The Dutch established a ",
+                  {
+                    "number": 32
+                  },
+                  " on the island."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "They killed the dodo birds for their meat."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The last one was killed in 1681."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Description"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The only record we have is written descriptions and pictures (possibly unreliable)."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A Dutch painting suggests the dodo was very ",
+                  {
+                    "number": 33
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The only remaining soft tissue is a dried ",
+                  {
+                    "number": 34
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Recent studies of a dodo skeleton suggest the birds were capable of rapid ",
+                  {
+                    "number": 35
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It’s thought they were able to use their small wings to maintain ",
+                  {
+                    "number": 36
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The ",
+                  {
+                    "number": 37
+                  },
+                  " was of average size."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Their sense of ",
+                  {
+                    "number": 38
+                  },
+                  " enabled them to find food."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Reasons for extinction"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Hunting was probably not the main cause."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Sailors brought dogs and monkeys."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  {
+                    "number": 39
+                  },
+                  " also escaped onto the island and ate the birds’ eggs."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The arrival of farming meant the ",
+                  {
+                    "number": 40
+                  },
+                  " was destroyed."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam16-page-082.webp",
+          "page": 82
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+          "page": 82
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/2a6aa104b6369a58fd28ab052ed42381b8073349534a6a7815da3728f78a411b.mp3",
+        "sha256": "2a6aa104b6369a58fd28ab052ed42381b8073349534a6a7815da3728f78a411b",
+        "duration": 553.344,
+        "start": 0,
+        "end": 475.69,
+        "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam16/t4-p4-audio-asr.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam16/timeline-t4-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

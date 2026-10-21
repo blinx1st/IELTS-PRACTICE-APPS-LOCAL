@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+      "bytes": 22265390,
+      "pages": 140,
+      "sha256": "7e98040d551cd2e4bda85dfd25d787d59607502613d890341c3fa98e255a5589"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+      "bytes": 46270387,
+      "pages": 140,
+      "sha256": "af18169e87db1ba4e69324b1d0c63ffb0e00d24d35d2a463889274444546609c"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+      "bytes": 29236035,
+      "pages": 147,
+      "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+      "bytes": 36729978,
+      "pages": 135,
+      "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+      "bytes": 53600553,
+      "pages": 147,
+      "sha256": "c52476d77ad492f8184fc74ca3bef3f273db9c7534520d1b7c3856bf4018a9b3"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+      "bytes": 32745680,
+      "pages": 138,
+      "sha256": "7f4a287221769e2d07c50a84e67e4333bd84452d0a515d8080543053626380eb"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+      "bytes": 1738895,
+      "pages": 80,
+      "sha256": "e7b85d0d91c9f9784e5cd5de87df3f7a156dd893f927c416cca7c312c0c70d83"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+      "bytes": 1413243,
+      "pages": 144,
+      "sha256": "dca5862c4a7a5b6e516b2ab51cfc50434e69084d5edb8f6facfebf48df7901d9"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-16\\BAN_GOC\\Cambridge ielts 16 - IELTS Fighter.pdf",
+      "bytes": 37152833,
+      "pages": 143,
+      "sha256": "9a2412dfbae5d15711bec7a3272edc7fd6ca0d4e0a72596a0daef7543281dc14"
+    }
+  ],
+  "ocr": {
+    "engine": "PyMuPDF / Tesseract",
+    "pymupdfVersion": "1.28.0",
+    "language": "eng",
+    "dpi": 200,
+    "model": "tessdata_fast",
+    "modelUrl": "https://github.com/tesseract-ocr/tessdata_fast/blob/main/eng.traineddata",
+    "modelSha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+  },
+  "sourcePolicy": "Original PDFs are only read. Editorial corrections and complete source references are stored separately."
+}

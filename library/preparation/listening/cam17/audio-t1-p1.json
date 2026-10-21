@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/fe5f292cd6d2772a58df7eda1c99f3422a12b17961edf21b0ddb01b792f0d142.mp3",
+    "sha256": "fe5f292cd6d2772a58df7eda1c99f3422a12b17961edf21b0ddb01b792f0d142",
+    "duration": 414.211,
+    "start": 0,
+    "end": 414.211,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T1P1.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "IELTS 17, published by Cambridge University Press and Assessment, 2022. This recording is copyright. Test 1 This is the IELTS Listening Test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. At the end of the test, you will be given ten minutes to transfer your answers to the answer sheet. Now turn to part one. Part one. You will hear a woman called Jan, phoning a man about their local conservation group. First, you have some time to look at questions 1 to 5. Now listen carefully and answer questions one to five. Hello? Oh, hello. My name's John. Are you the right person to talk to about the Buckworth Conservation Group?"
+    },
+    {
+      "name": "ending",
+      "start": 349.211,
+      "end": 414.211,
+      "text": "And anything you make is yours to take home with you. That sounds like fun. When is it? It's on the 17th from 10am until 3. There's a charge of £35, including lunch or £40 if you want to camp in the wood. I should think I'll come home the same day. Well, I'd certainly like to join the group. It sounds like you. That is the end of Part 1. You now have half a minute to check your answers to Part 1."
+    }
+  ]
+}

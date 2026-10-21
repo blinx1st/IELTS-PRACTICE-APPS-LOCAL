@@ -1,0 +1,1714 @@
+{
+  "schemaVersion": 1,
+  "groups": {
+    "cam13-t1-p1-g1": {
+      "baseSha256": "26ff9451a48503a2c0ce7ad75c6388e1901aeecdb1a749da0871b968dcc0992b",
+      "layout": {
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "content": [
+                  "Section of website"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "Comments"
+                ],
+                "header": true
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Database of tourism services"
+                ]
+              },
+              {
+                "content": [
+                  "• easy for tourism-related businesses to get on the list\n\n• allowed businesses to ",
+                  {
+                    "number": 1
+                  },
+                  " information regularly\n\n• provided a country-wide evaluation of businesses, including their impact on the ",
+                  {
+                    "number": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Special features on local topics"
+                ]
+              },
+              {
+                "content": [
+                  "• e.g. an interview with a former sports ",
+                  {
+                    "number": 3
+                  },
+                  ", and an interactive tour of various locations used in ",
+                  {
+                    "number": 4
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Information on driving routes"
+                ]
+              },
+              {
+                "content": [
+                  "• varied depending on the ",
+                  {
+                    "number": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Travel Planner"
+                ]
+              },
+              {
+                "content": [
+                  "• included a map showing selected places, details of public transport and local ",
+                  {
+                    "number": 6
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "‘Your Words’"
+                ]
+              },
+              {
+                "content": [
+                  "• travellers could send a link to their ",
+                  {
+                    "number": 7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "cam13-t1-p2-g1": {
+      "baseSha256": "8d7be9cf4316096393225d6f80771c2b1b8203a4e9b968353bae3676db733f87",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "headings",
+        "rows": [
+          {
+            "number": 14,
+            "text": "Paragraph A"
+          },
+          {
+            "number": 15,
+            "text": "Paragraph B"
+          },
+          {
+            "number": 16,
+            "text": "Paragraph C"
+          },
+          {
+            "number": 17,
+            "text": "Paragraph D"
+          },
+          {
+            "number": 18,
+            "text": "Paragraph E"
+          },
+          {
+            "number": 19,
+            "text": "Paragraph F"
+          }
+        ]
+      }
+    },
+    "cam13-t2-p2-g1": {
+      "baseSha256": "0bf3d26192456a9de697d62992a07017c2294649af174d482881522148f4b327",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "reference to research showing the beneficial effects of oxytocin on people"
+          },
+          {
+            "number": 15,
+            "text": "reasons why the effects of oxytocin are complex"
+          },
+          {
+            "number": 16,
+            "text": "mention of a period in which oxytocin attracted little scientific attention"
+          },
+          {
+            "number": 17,
+            "text": "reference to people ignoring certain aspects of their research data"
+          }
+        ]
+      }
+    },
+    "cam13-t3-p1-g1": {
+      "baseSha256": "6be0d5aecf4a7f4b431844ca9c641e88a62214a9f257cc1f881a46f222c2eb44",
+      "layout": {
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "content": [
+                  "THE COCONUT PALM"
+                ],
+                "header": true,
+                "colSpan": 3
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Part"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "Description"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "Uses"
+                ],
+                "header": true
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "trunk"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "up to 30 metres"
+                ]
+              },
+              {
+                "content": [
+                  "timber for houses and the making of ",
+                  {
+                    "number": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "leaves"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "up to 6 metres long"
+                ]
+              },
+              {
+                "content": [
+                  "to make brushes"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "flowers"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "at the top of the trunk"
+                ]
+              },
+              {
+                "content": [
+                  "stems provide sap, used as a drink or a source of ",
+                  {
+                    "number": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "fruits"
+                ],
+                "header": true,
+                "rowSpan": 5
+              },
+              {
+                "content": [
+                  "outer layer"
+                ]
+              },
+              {
+                "content": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "middle layer (coir fibres)"
+                ]
+              },
+              {
+                "content": [
+                  "used for ",
+                  {
+                    "number": 3
+                  },
+                  ", etc."
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "inner layer (shell)"
+                ]
+              },
+              {
+                "content": [
+                  "a source of ",
+                  {
+                    "number": 4
+                  },
+                  "\n\n(when halved) for ",
+                  {
+                    "number": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "coconut water"
+                ]
+              },
+              {
+                "content": [
+                  "a drink\n\na source of ",
+                  {
+                    "number": 6
+                  },
+                  " for other plants"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "coconut flesh"
+                ]
+              },
+              {
+                "content": [
+                  "oil and milk for cooking and ",
+                  {
+                    "number": 7
+                  },
+                  "\n\nglycerine (an ingredient in ",
+                  {
+                    "number": 8
+                  },
+                  ")"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "cam13-t3-p2-g3": {
+      "baseSha256": "e390cb6b6f56cf9ab6d84a072fc9fd78012f583e8ec635ce59f3369087bec149",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 24,
+            "text": "a reference to a change which occurs in babies’ brain activity before the end of their first year"
+          },
+          {
+            "number": 25,
+            "text": "an example of what some parents do for their baby’s benefit before birth"
+          },
+          {
+            "number": 26,
+            "text": "a mention of babies’ preference for the sounds that other babies make"
+          }
+        ]
+      }
+    },
+    "cam13-t3-p3-g1": {
+      "baseSha256": "644f9cf68e3ca618415357b8524b2bc0423ad5e225f9ab5bf3ffdd4e1092203e",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 27,
+            "text": "proposed explanations for the decline of the Harappan Civilisation"
+          },
+          {
+            "number": 28,
+            "text": "reference to a present-day application of some archaeological research findings"
+          },
+          {
+            "number": 29,
+            "text": "a difference between the Harappan Civilisation and another culture of the same period"
+          },
+          {
+            "number": 30,
+            "text": "a description of some features of Harappan urban design"
+          },
+          {
+            "number": 31,
+            "text": "reference to the discovery of errors made by previous archaeologists"
+          }
+        ]
+      }
+    },
+    "cam13-t4-p2-g3": {
+      "baseSha256": "a85802e610a946a3c504c4372499cb3dd7048093d949c0ad0e07ea46c35afbee",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 22,
+            "text": "a reference to one person's motivation for a soil-improvement project"
+          },
+          {
+            "number": 23,
+            "text": "an explanation of how soil stayed healthy before the development of farming"
+          },
+          {
+            "number": 24,
+            "text": "examples of different ways of collecting information on soil degradation"
+          },
+          {
+            "number": 25,
+            "text": "a suggestion for a way of keeping some types of soil safe in the near future"
+          },
+          {
+            "number": 26,
+            "text": "a reason why it is difficult to provide an overview of soil degradation"
+          }
+        ]
+      }
+    },
+    "cam14-t1-p2-g1": {
+      "baseSha256": "6ea4891d3f013164330c13f85848b0e7e3318afee5d5e3ecf711daae0b5076f7",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "a description of how people misused a bike-sharing scheme"
+          },
+          {
+            "number": 15,
+            "text": "an explanation of why a proposed bike-sharing scheme was turned down"
+          },
+          {
+            "number": 16,
+            "text": "a reference to a person being unable to profit from their work"
+          },
+          {
+            "number": 17,
+            "text": "an explanation of the potential savings a bike-sharing scheme would bring"
+          },
+          {
+            "number": 18,
+            "text": "a reference to the problems a bike-sharing scheme was intended to solve"
+          }
+        ]
+      }
+    },
+    "cam14-t2-p2-g1": {
+      "baseSha256": "b594fb6472c16666b48ec2c20417da4df690bbf4b5eabcc5c37c962fa98b6bc6",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "why some people avoided hospitals in the 19th century"
+          },
+          {
+            "number": 15,
+            "text": "a suggestion that the popularity of tall buildings is linked to prestige"
+          },
+          {
+            "number": 16,
+            "text": "a comparison between the circulation of air in a 19th-century building and modern standards"
+          },
+          {
+            "number": 17,
+            "text": "how Short tested the circulation of air in a 19th-century building"
+          },
+          {
+            "number": 18,
+            "text": "an implication that advertising led to the large increase in the use of air conditioning"
+          }
+        ]
+      }
+    },
+    "cam14-t2-p3-g1": {
+      "baseSha256": "085c7863424a54219419f8b3b993dc159f647f3eaae3101c9071fab0a69c4cc1",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "headings",
+        "rows": [
+          {
+            "number": 27,
+            "text": "Section A"
+          },
+          {
+            "number": 28,
+            "text": "Section B"
+          },
+          {
+            "number": 29,
+            "text": "Section C"
+          },
+          {
+            "number": 30,
+            "text": "Section D"
+          },
+          {
+            "number": 31,
+            "text": "Section E"
+          },
+          {
+            "number": 32,
+            "text": "Section F"
+          },
+          {
+            "number": 33,
+            "text": "Section G"
+          },
+          {
+            "number": 34,
+            "text": "Section H"
+          }
+        ]
+      }
+    },
+    "cam14-t3-p1-g1": {
+      "baseSha256": "2aefb3ef014ca752b430ea451010a65234f52a9be1bbd4d9aa4ff0aec2f5fef1",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 1,
+            "text": "information about how non-scientists’ assumptions about intelligence influence their behaviour towards others"
+          },
+          {
+            "number": 2,
+            "text": "a reference to lack of clarity over the definition of intelligence"
+          },
+          {
+            "number": 3,
+            "text": "the point that a researcher’s implicit and explicit theories may be very different"
+          }
+        ]
+      }
+    },
+    "cam14-t3-p2-g1": {
+      "baseSha256": "500259e431147c25142bb4dee03bb84e99b697fb9a346c2efcbc9a4a05755d47",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "mention of factors driving a renewed interest in natural medicinal compounds"
+          },
+          {
+            "number": 15,
+            "text": "how recent technological advances have made insect research easier"
+          },
+          {
+            "number": 16,
+            "text": "examples of animals which use medicinal substances from nature"
+          },
+          {
+            "number": 17,
+            "text": "reasons why it is challenging to use insects in drug research"
+          },
+          {
+            "number": 18,
+            "text": "reference to how interest in drug research may benefit wildlife"
+          },
+          {
+            "number": 19,
+            "text": "a reason why nature-based medicines fell out of favour for a period"
+          },
+          {
+            "number": 20,
+            "text": "an example of an insect-derived medicine in use at the moment"
+          }
+        ]
+      }
+    },
+    "cam14-t4-p2-g1": {
+      "baseSha256": "eb2edcdb282add30eb29abf9fd67aa0d1599a4d882e32fa8f34c90bf872daf3d",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "a reference to how quickly animal species can die out"
+          },
+          {
+            "number": 15,
+            "text": "reasons why it is preferable to study animals in captivity rather than in the wild"
+          },
+          {
+            "number": 16,
+            "text": "mention of two ways of learning about animals other than visiting them in zoos"
+          },
+          {
+            "number": 17,
+            "text": "reasons why animals in zoos may be healthier than those in the wild"
+          }
+        ]
+      }
+    },
+    "cam15-t1-p1-g3": {
+      "baseSha256": "d833b65b67c3bdb8771af20da76e64b901c956b8fdb9cfb4fae7572e7d64a3bc",
+      "layout": {
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "content": [
+                  "Middle Ages"
+                ]
+              },
+              {
+                "content": [
+                  "Nutmeg was brought to Europe by the ",
+                  {
+                    "number": 8
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "16th century"
+                ]
+              },
+              {
+                "content": [
+                  "European nations took control of the nutmeg trade"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "17th century"
+                ]
+              },
+              {
+                "content": [
+                  "Demand for nutmeg grew, as it was believed to be effective against the disease known as the ",
+                  {
+                    "number": 9
+                  },
+                  "\n\nThe Dutch\n– took control of the Banda Islands\n– restricted nutmeg production to a few areas\n– put ",
+                  {
+                    "number": 10
+                  },
+                  " on nutmeg to avoid it being cultivated outside the islands\n– finally obtained the island of ",
+                  {
+                    "number": 11
+                  },
+                  " from the British"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Late 18th century"
+                ]
+              },
+              {
+                "content": [
+                  "1770 – nutmeg plants were secretly taken to ",
+                  {
+                    "number": 12
+                  },
+                  "\n\n1778 – half the Banda Islands’ nutmeg plantations were destroyed by a ",
+                  {
+                    "number": 13
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "cam15-t1-p2-g1": {
+      "baseSha256": "ff592800b72af4181c674d4887db7bdca314fe1d21982614b411881cae983b7e",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "reference to the amount of time when a car is not in use"
+          },
+          {
+            "number": 15,
+            "text": "mention of several advantages of driverless vehicles for individual road-users"
+          },
+          {
+            "number": 16,
+            "text": "reference to the opportunity of choosing the most appropriate vehicle for each trip"
+          },
+          {
+            "number": 17,
+            "text": "an estimate of how long it will take to overcome a number of problems"
+          },
+          {
+            "number": 18,
+            "text": "a suggestion that the use of driverless cars may have no effect on the number of vehicles manufactured"
+          }
+        ]
+      }
+    },
+    "cam15-t2-p1-g1": {
+      "baseSha256": "d202c9d8e8b04d600678ac9d7dd1b1cac03e528bdf285698ee999581ca77e71e",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 1,
+            "text": "reference to an appealing way of using dance that the writer is not proposing"
+          },
+          {
+            "number": 2,
+            "text": "an example of a contrast between past and present approaches to building"
+          },
+          {
+            "number": 3,
+            "text": "mention of an objective of both dance and engineering"
+          },
+          {
+            "number": 4,
+            "text": "reference to an unforeseen problem arising from ignoring the climate"
+          },
+          {
+            "number": 5,
+            "text": "why some measures intended to help people are being reversed"
+          },
+          {
+            "number": 6,
+            "text": "reference to how transport has an impact on human lives"
+          }
+        ]
+      }
+    },
+    "cam15-t2-p2-g1": {
+      "baseSha256": "3fbd3b1f21cce10c9a4f8798ca15e67de7027741610d404494cdde8dd70730bb",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "a reference to how further disappearance of multiple species could be avoided"
+          },
+          {
+            "number": 15,
+            "text": "explanation of a way of reproducing an extinct animal using the DNA of only that species"
+          },
+          {
+            "number": 16,
+            "text": "reference to a habitat which has suffered following the extinction of a species"
+          },
+          {
+            "number": 17,
+            "text": "mention of the exact point at which a particular species became extinct"
+          }
+        ]
+      }
+    },
+    "cam15-t3-p2-g1": {
+      "baseSha256": "a53afca0de370e7fdb6ffb5454e24b716cabdc6803d04af7335ca7d4fa4b0644",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "headings",
+        "rows": [
+          {
+            "number": 14,
+            "text": "Section A"
+          },
+          {
+            "number": 15,
+            "text": "Section B"
+          },
+          {
+            "number": 16,
+            "text": "Section C"
+          },
+          {
+            "number": 17,
+            "text": "Section D"
+          },
+          {
+            "number": 18,
+            "text": "Section E"
+          },
+          {
+            "number": 19,
+            "text": "Section F"
+          },
+          {
+            "number": 20,
+            "text": "Section G"
+          }
+        ]
+      }
+    },
+    "cam15-t4-p1-g2": {
+      "baseSha256": "b6f537f661c5589ca5ace8f495eed0a738e64ab2145caa59c37c5fd8b41e54f0",
+      "layout": {
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "content": [
+                  "Traditional uses of the huarango tree"
+                ],
+                "header": true,
+                "colSpan": 2
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Part of tree"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "Traditional use"
+                ],
+                "header": true
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  {
+                    "number": 6
+                  }
+                ]
+              },
+              {
+                "content": [
+                  "fuel"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  {
+                    "number": 7,
+                    "part": 0
+                  },
+                  " and ",
+                  {
+                    "number": 7,
+                    "part": 1
+                  }
+                ]
+              },
+              {
+                "content": [
+                  "medicine"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  {
+                    "number": 8
+                  }
+                ]
+              },
+              {
+                "content": [
+                  "construction"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "cam17-t1-p2-g1": {
+      "baseSha256": "2a5d8a9769c50e89af6042687651b49d06d1e49f6bff5f103e156bb86ecd46f5",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "a mention of negative attitudes towards stadium building projects"
+          },
+          {
+            "number": 15,
+            "text": "figures demonstrating the environmental benefits of a certain stadium"
+          },
+          {
+            "number": 16,
+            "text": "examples of the wide range of facilities available at some new stadiums"
+          },
+          {
+            "number": 17,
+            "text": "reference to the disadvantages of the stadiums built during a certain era"
+          }
+        ]
+      }
+    },
+    "cam17-t2-p2-g1": {
+      "baseSha256": "ee6a1a7e4ee8298973c8201fae42979e786b039a5cd0b67eabddc70c0f0ef5a7",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "a reference to a type of tomato that can resist a dangerous infection"
+          },
+          {
+            "number": 15,
+            "text": "an explanation of how problems can arise from focusing only on a certain type of tomato plant."
+          },
+          {
+            "number": 16,
+            "text": "a number of examples of plants that are not cultivated at present but could be useful as food sources"
+          },
+          {
+            "number": 17,
+            "text": "a comparison between the early domestication of the tomato and more recent research"
+          },
+          {
+            "number": 18,
+            "text": "a personal reaction to the flavour of a tomato that has been genetically edited"
+          }
+        ]
+      }
+    },
+    "cam17-t3-p2-g1": {
+      "baseSha256": "13f4ec7e3f9e9be7cc05ac0bc8d24f9335d916712302c3d5385e36cf8611493f",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "examples of a range of potential environmental advantages of oil palm tree cultivation"
+          },
+          {
+            "number": 15,
+            "text": "description of an organisation which controls the environmental impact of palm oil production"
+          },
+          {
+            "number": 16,
+            "text": "examples of the widespread global use of palm oil"
+          },
+          {
+            "number": 17,
+            "text": "reference to a particular species which could benefit the ecosystem of oil palm plantations"
+          },
+          {
+            "number": 18,
+            "text": "figures illustrating the rapid expansion of the palm oil industry"
+          },
+          {
+            "number": 19,
+            "text": "an economic justification for not opposing the palm oil industry"
+          },
+          {
+            "number": 20,
+            "text": "examples of creatures badly affected by the establishment of oil palm plantations"
+          }
+        ]
+      }
+    },
+    "cam17-t4-p1-g2": {
+      "baseSha256": "382cc84db04a14e2aa5fb55479449d74bbe0965ea4a95367d5644124c667e04b",
+      "layout": {
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "content": [
+                  "The study carried out by Rocha’s team"
+                ],
+                "header": true,
+                "colSpan": 2
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Aim"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "• to investigate the feeding habits of bats in farmland near the Ranomafana National Park"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Method"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "• ultrasonic recording to identify favourite feeding spots\n\n• DNA analysis of bat ",
+                  {
+                    "number": 7
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Findings"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "• the bats\n\n  – were most active in rice fields located on hills\n\n  – ate pests of rice, ",
+                  {
+                    "number": 8
+                  },
+                  ", sugarcane, nuts and fruit\n\n  – prevent the spread of disease by eating ",
+                  {
+                    "number": 9
+                  },
+                  " and blackflies\n\n• local attitudes to bats are mixed:\n\n  – they provide food rich in ",
+                  {
+                    "number": 10
+                  },
+                  "\n\n  – the buildings where they roost become ",
+                  {
+                    "number": 11
+                  },
+                  "\n\n  – they play an important role in local ",
+                  {
+                    "number": 12
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Recommendation"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "• farmers should provide special ",
+                  {
+                    "number": 13
+                  },
+                  " to support the bat population"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "cam17-t4-p2-g1": {
+      "baseSha256": "94c476b01edff063542dc12d88f5cf814e9339a61e072356484816392607525b",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "an explanation of the need for research to focus on individuals with a fairly consistent income"
+          },
+          {
+            "number": 15,
+            "text": "examples of the sources the database has been compiled from"
+          },
+          {
+            "number": 16,
+            "text": "an account of one individual's refusal to obey an order"
+          },
+          {
+            "number": 17,
+            "text": "a reference to a region being particularly suited to research into the link between education and economic growth"
+          },
+          {
+            "number": 18,
+            "text": "examples of the items included in a list of personal possessions"
+          }
+        ]
+      }
+    },
+    "cam17-t4-p3-g1": {
+      "baseSha256": "c262f41abbbfd1351cddff51a8a945e91a275b9e062e7f136fd07eb86bae191a",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 27,
+            "text": "a reference to earlier examples of blindfold chess"
+          },
+          {
+            "number": 28,
+            "text": "an outline of what blindfold chess involves"
+          },
+          {
+            "number": 29,
+            "text": "a claim that Gareyev’s skill is limited to chess"
+          },
+          {
+            "number": 30,
+            "text": "why Gareyev’s skill is of interest to scientists"
+          },
+          {
+            "number": 31,
+            "text": "an outline of Gareyev’s priorities"
+          },
+          {
+            "number": 32,
+            "text": "a reason why the last part of a game may be difficult"
+          }
+        ]
+      }
+    },
+    "cam18-t1-p1-g2": {
+      "baseSha256": "637935a42227fe85a9d275d26941c75fa012987af2718d2744b32278f2bdf4f4",
+      "layout": {
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "content": [
+                  "Intensive farming versus aeroponic urban farming"
+                ],
+                "header": true,
+                "colSpan": 4
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  ""
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "Growth"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "Selection"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "Sale"
+                ],
+                "header": true
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Intensive farming"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "• wide range of ",
+                  {
+                    "number": 4
+                  },
+                  " used\n\n• techniques pollute air"
+                ]
+              },
+              {
+                "content": [
+                  "• quality not good\n\n• varieties of fruit and vegetables chosen that can survive long ",
+                  {
+                    "number": 5
+                  }
+                ]
+              },
+              {
+                "content": [
+                  "• ",
+                  {
+                    "number": 6
+                  },
+                  " receive very little of overall income"
+                ]
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": [
+                  "Aeroponic urban farming"
+                ],
+                "header": true
+              },
+              {
+                "content": [
+                  "• no soil used\n\n• nutrients added to water, which is recycled"
+                ]
+              },
+              {
+                "content": [
+                  "• produce chosen because of its ",
+                  {
+                    "number": 7
+                  }
+                ]
+              },
+              {
+                "content": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "cam18-t1-p2-g1": {
+      "baseSha256": "8912ef0670ffbdbf1e7a11778fca7a9e0cce5c2f35cd01982b4e587731cbb16b",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "bad outcomes for a forest when people focus only on its financial reward"
+          },
+          {
+            "number": 15,
+            "text": "reference to the aspects of any tree that contribute to its worth"
+          },
+          {
+            "number": 16,
+            "text": "mention of the potential use of wood to help run vehicles"
+          },
+          {
+            "number": 17,
+            "text": "examples of insects that attack trees"
+          },
+          {
+            "number": 18,
+            "text": "an alternative name for trees that produce low-use wood"
+          }
+        ]
+      }
+    },
+    "cam18-t1-p3-g1": {
+      "baseSha256": "7253923b6b0499460e7ef219f766aa3f1e2f3d2c320ac51fcf7b85243495182d",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 27,
+            "text": "a reference to the cooperation that takes place to try and minimise risk"
+          },
+          {
+            "number": 28,
+            "text": "an explanation of a person’s aims"
+          },
+          {
+            "number": 29,
+            "text": "a description of a major collision that occurred in space"
+          },
+          {
+            "number": 30,
+            "text": "a comparison between tracking objects in space and the efficiency of a transportation system"
+          },
+          {
+            "number": 31,
+            "text": "a reference to efforts to classify space junk"
+          }
+        ]
+      }
+    },
+    "cam18-t3-p1-g1": {
+      "baseSha256": "5a18acf6bba7a97c73792441b82a335ab5134f5216cccb2449fb068814e41f8a",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 1,
+            "text": "an explanation of the industrial processes that create potential raw materials for concrete"
+          },
+          {
+            "number": 2,
+            "text": "a reference to the various locations where high-rise wooden buildings can be found"
+          },
+          {
+            "number": 3,
+            "text": "an indication of how widely available the raw materials of concrete are"
+          },
+          {
+            "number": 4,
+            "text": "the belief that more high-rise wooden buildings are needed before wood can be regarded as a viable construction material"
+          }
+        ]
+      }
+    },
+    "cam18-t3-p2-g1": {
+      "baseSha256": "94eb3e8d4c640c7fe90e27234046c4a4832e47001b991d9b5c6ad1c03d1a4361",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "headings",
+        "rows": [
+          {
+            "number": 14,
+            "text": "Paragraph A"
+          },
+          {
+            "number": 15,
+            "text": "Paragraph B"
+          },
+          {
+            "number": 16,
+            "text": "Paragraph C"
+          },
+          {
+            "number": 17,
+            "text": "Paragraph D"
+          },
+          {
+            "number": 18,
+            "text": "Paragraph E"
+          },
+          {
+            "number": 19,
+            "text": "Paragraph F"
+          },
+          {
+            "number": 20,
+            "text": "Paragraph G"
+          }
+        ]
+      }
+    },
+    "cam18-t4-p1-g1": {
+      "baseSha256": "60ae2315535c04d10b53f40955d94df1908d4bb94f994c1e4d1760fbc9caf956",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 1,
+            "text": "mention of several challenges to be overcome before a green roof can be installed"
+          },
+          {
+            "number": 2,
+            "text": "reference to a city where green roofs have been promoted for many years"
+          },
+          {
+            "number": 3,
+            "text": "a belief that existing green roofs should be used as a model for new ones"
+          },
+          {
+            "number": 4,
+            "text": "examples of how green roofs can work in combination with other green urban initiatives"
+          },
+          {
+            "number": 5,
+            "text": "the need to make a persuasive argument for the financial benefits of green roofs"
+          }
+        ]
+      }
+    },
+    "cam19-t1-p2-g1": {
+      "baseSha256": "515f78eee1788c8fc6be0cc58efd46595eaf32c286430ebf8346435b50315748",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "a reference to a denial of involvement in piracy"
+          },
+          {
+            "number": 15,
+            "text": "details of how a campaign to eradicate piracy was carried out"
+          },
+          {
+            "number": 16,
+            "text": "a mention of the circumstances in which states in the ancient world would make use of pirates"
+          },
+          {
+            "number": 17,
+            "text": "a reference to how people today commonly view pirates"
+          },
+          {
+            "number": 18,
+            "text": "an explanation of how some people were encouraged not to return to piracy"
+          },
+          {
+            "number": 19,
+            "text": "a mention of the need for many sailing vessels to stay relatively close to land"
+          }
+        ]
+      }
+    },
+    "cam19-t2-p2-g1": {
+      "baseSha256": "a5ecc26049002770adee61d70293f24b0ff49b5aca0aee2690b7b4274b8efbfd",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "reference to two chemical compounds which impact on performance"
+          },
+          {
+            "number": 15,
+            "text": "examples of strategies for minimising the effects of stress"
+          },
+          {
+            "number": 16,
+            "text": "how a sportsperson accounted for their own experience of stress"
+          },
+          {
+            "number": 17,
+            "text": "study results indicating links between stress responses and performance"
+          },
+          {
+            "number": 18,
+            "text": "mention of people who can influence how athletes perceive their stress responses"
+          }
+        ]
+      }
+    },
+    "cam19-t3-p2-g1": {
+      "baseSha256": "533e5d3fbeb153b6f76a575b87ab2a5fc7d571779aeb4227ae93e3bb65af297d",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "reference to the need to ensure that inhabitants of wetland regions continue to benefit from them"
+          },
+          {
+            "number": 15,
+            "text": "the proportion of wetlands which have already been lost"
+          },
+          {
+            "number": 16,
+            "text": "reference to the idea that people are beginning to appreciate the value of wetlands"
+          },
+          {
+            "number": 17,
+            "text": "mention of the cultural significance of wetlands"
+          }
+        ]
+      }
+    },
+    "cam19-t4-p2-g1": {
+      "baseSha256": "c0099064db4adac3eb62a2197a8aec66b66f3306a2d331c3711b1d6910e427df",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "reference to the rapidly increasing need for one raw material in the transport industry"
+          },
+          {
+            "number": 15,
+            "text": "a rough estimate of the area of the Earth covered by the oceans"
+          },
+          {
+            "number": 16,
+            "text": "how a particular underwater habitat, where minerals and organisms co-exist, is formed"
+          },
+          {
+            "number": 17,
+            "text": "reference to the fact that the countries of the world have yet to agree on rules for the exploration of the seabed"
+          }
+        ]
+      }
+    },
+    "cam20-t1-p2-g1": {
+      "baseSha256": "5637e3a215f622d9a437ed0996e1fc0d1b29a884e466f6d78418286669899075",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "reference to the research problems that arise from there being only a few surviving large elms"
+          },
+          {
+            "number": 15,
+            "text": "details of a difference of opinion about the value of reintroducing elms to Britain"
+          },
+          {
+            "number": 16,
+            "text": "reference to how Dutch elm disease was brought into Britain"
+          },
+          {
+            "number": 17,
+            "text": "a description of the conditions that have enabled a location in Britain to escape Dutch elm disease"
+          },
+          {
+            "number": 18,
+            "text": "reference to the stage at which young elms become vulnerable to Dutch elm disease"
+          }
+        ]
+      }
+    },
+    "cam20-t2-p2-g1": {
+      "baseSha256": "d5ca0f68e8ae8f7513b7eff38deb6e43a349b58dce9e0d26b371414bebab51f3",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "mention of false assumptions about why people procrastinate"
+          },
+          {
+            "number": 15,
+            "text": "reference to the realisation that others also procrastinate"
+          },
+          {
+            "number": 16,
+            "text": "neurological evidence of a link between procrastination and emotion"
+          }
+        ]
+      }
+    },
+    "cam20-t3-p2-g1": {
+      "baseSha256": "c6c8a4b3fa1118a0d3160984cf50bbe76ad5b886c14f24e39a7613ff3f7a9525",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "headings",
+        "rows": [
+          {
+            "number": 14,
+            "text": "Paragraph A"
+          },
+          {
+            "number": 15,
+            "text": "Paragraph B"
+          },
+          {
+            "number": 16,
+            "text": "Paragraph C"
+          },
+          {
+            "number": 17,
+            "text": "Paragraph D"
+          },
+          {
+            "number": 18,
+            "text": "Paragraph E"
+          },
+          {
+            "number": 19,
+            "text": "Paragraph F"
+          }
+        ]
+      }
+    },
+    "cam20-t4-p2-g1": {
+      "baseSha256": "7a719a157dcd6a59331ab2a15312b385ddc0d8e5cca3d2b902489885c2deeb90",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 14,
+            "text": "how a type of plant functions as a natural protection for coastlines"
+          },
+          {
+            "number": 15,
+            "text": "a prediction about how long it could take to stop noticing the effects of climate change"
+          },
+          {
+            "number": 16,
+            "text": "a reference to the fact that a solution is particularly cost-effective"
+          },
+          {
+            "number": 17,
+            "text": "a mention of a technology used to locate areas most in need of intervention"
+          }
+        ]
+      }
+    },
+    "cam20-t4-p3-g1": {
+      "baseSha256": "82151d2547ec9f509b146de507d059faef598c6f7f17eafee5eb1625e58c4314",
+      "layout": {
+        "kind": "matrix",
+        "matchingKind": "paragraphs",
+        "rows": [
+          {
+            "number": 27,
+            "text": "an example of how one predator has been protected by the introduction of livestock guard dogs"
+          },
+          {
+            "number": 28,
+            "text": "an optimistic suggestion about the possible positive developments in the use of livestock guard dogs"
+          },
+          {
+            "number": 29,
+            "text": "a description of how the methods used by livestock guard dogs help to keep predators away"
+          },
+          {
+            "number": 30,
+            "text": "claims by different academics that the use of livestock guard dogs is a successful way of protecting farmers' herds"
+          },
+          {
+            "number": 31,
+            "text": "a reference to how livestock guard dogs gain their skills"
+          }
+        ]
+      }
+    }
+  }
+}

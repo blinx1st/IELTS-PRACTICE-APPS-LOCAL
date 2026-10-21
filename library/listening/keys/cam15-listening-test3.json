@@ -1,0 +1,164 @@
+{
+  "id": "cam15-listening-test3",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "furniture"
+    ],
+    "2": [
+      "meetings"
+    ],
+    "3": [
+      "diary"
+    ],
+    "4": [
+      "detail",
+      "details"
+    ],
+    "5": [
+      "1 year",
+      "one year"
+    ],
+    "6": [
+      "deliveries"
+    ],
+    "7": [
+      "tidy"
+    ],
+    "8": [
+      "team"
+    ],
+    "9": [
+      "heavy"
+    ],
+    "10": [
+      "customer"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "E"
+    ],
+    "21": [
+      "page"
+    ],
+    "22": [
+      "size"
+    ],
+    "23": [
+      "graphic",
+      "graphics"
+    ],
+    "24": [
+      "structure"
+    ],
+    "25": [
+      "purpose"
+    ],
+    "26": [
+      "assumption",
+      "assumptions"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "mud"
+    ],
+    "32": [
+      "clay"
+    ],
+    "33": [
+      "metal"
+    ],
+    "34": [
+      "hair"
+    ],
+    "35": [
+      "bath",
+      "baths"
+    ],
+    "36": [
+      "disease",
+      "diseases"
+    ],
+    "37": [
+      "perfume"
+    ],
+    "38": [
+      "salt"
+    ],
+    "39": [
+      "science"
+    ],
+    "40": [
+      "tax"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        17,
+        18
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "answers": [
+        "A",
+        "E"
+      ]
+    }
+  ],
+  "limitExceptions": {
+    "5": [
+      "one year"
+    ]
+  },
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+    "pdfPage": 125,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

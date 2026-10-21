@@ -1,0 +1,102 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 73,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome people say History is one of the most important school subjects. Other\npeople think that, in today’s world, subjects like Science and Technology are\nmore important than History.\nDiscuss both these views and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n74\n",
+  "blocks": [
+    {
+      "box": [
+        107.63999938964844,
+        58.32000732421875,
+        140.0039825439453,
+        67.6893539428711
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        105.83999633789062,
+        95.760009765625,
+        241.51681518554688,
+        107.29154968261719
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        105.83999633789062,
+        126.0,
+        366.0570068359375,
+        137.8918914794922
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        105.48001098632812,
+        154.08001708984375,
+        270.1871337890625,
+        166.33224487304688
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        118.08001708984375,
+        191.52001953125,
+        557.5680541992188,
+        219.25331115722656
+      ],
+      "text": "Some people say History is one of the most important school subjects. Other\npeople think that, in today’s world, subjects like Science and Technology are\n"
+    },
+    {
+      "box": [
+        118.800048828125,
+        220.32000732421875,
+        280.4255676269531,
+        232.57223510742188
+      ],
+      "text": "more important than History.\n"
+    },
+    {
+      "box": [
+        118.44004821777344,
+        248.760009765625,
+        420.0335388183594,
+        261.0122375488281
+      ],
+      "text": "Discuss both these views and give your own opinion.\n"
+    },
+    {
+      "box": [
+        105.1199951171875,
+        285.1199951171875,
+        534.8988647460938,
+        311.411865234375
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        104.4000015258789,
+        327.9599914550781,
+        237.02041625976562,
+        337.6897277832031
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        102.5999984741211,
+        760.6799926757812,
+        115.10999298095703,
+        769.68896484375
+      ],
+      "text": "74\n"
+    }
+  ]
+}

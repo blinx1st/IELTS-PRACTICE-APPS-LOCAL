@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/b43379f7c9d26e6e06dc8e52a9ffa66bb4bfae25823ad83cfe0d845efffac47b.mp3",
+    "sha256": "b43379f7c9d26e6e06dc8e52a9ffa66bb4bfae25823ad83cfe0d845efffac47b",
+    "duration": 420.258,
+    "start": 0,
+    "end": 420.258,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test1 Part3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two food science students called Marie and Colin discussing their final year projects. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. I haven't seen you for a bit, Marie. No, I've been busy with my project. You're making a vegan alternative to eggs, aren't you? Something that doesn't use animal products. Yes, I'm using chickpeas. I had two main aims when I first started looking for an alternative to eggs. But actually, I've found chickpeas have got more advantages. Right. But how about your project on reusing waste food? You were looking at bread, weren't you? Yes, it's been hard work, but I've enjoyed it. The basic process was quite straightforward, breaking the stale bread down to a paste, then reforming it. But you were using 3D printing, weren't you? To make the paste into biscuits. Yeah, I'd used that before, but in this project..."
+    },
+    {
+      "name": "ending",
+      "start": 355.258,
+      "end": 420.258,
+      "text": "People aren't aware of that. It's all kept very quiet. So people don't realise the food's not actually from the restaurant? Right. Did you know more and more people are using all sorts of different mushrooms now to treat different health concerns? Things like heart problems. They might be taking a big risk there. Yes, it's hard to know which varieties are safe to eat. Anyways, maybe now we- That is the end of Part 3. You now have 30 seconds to check your answers to Part 3."
+    }
+  ]
+}

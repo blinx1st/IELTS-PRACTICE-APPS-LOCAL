@@ -1,0 +1,165 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 48,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\nQuestions 32-37\n20k at the following statements (Questions 32-37) and the list of companies below.\nWetch each statement with the correct company, A, B, C or D.\nWerte the correct letter, A, B,\nC or D, in boxes 32-37 on your answer sheet.\nMWB\nYou may use any letter more than once.\n32\nIt turned the notion that its products could have harmful effects to its own\nadvantage.\n33\nsit extended its offering by collaborating with another manufacturer.\n34\nIt implemented an incentive scheme to demonstrate its corporate social\nresponsibility.\n35\nIt discovered that customers had a positive attitude towards dealing with difficult\ncircumstances.\n36\nIt responded to a growing lifestyle trend in an unrelated product sector.\n37\nIt successfully avoided having to charge its customers less for its core products.\nList of companies\nA\nCoach\nB_\nTesco\nC_\nNike\nD_iToys\n",
+  "blocks": [
+    {
+      "box": [
+        482.0400085449219,
+        49.67999267578125,
+        529.025390625,
+        61.571876525878906
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        28.79998779296875,
+        90.719970703125,
+        133.5421142578125,
+        101.89116668701172
+      ],
+      "text": "Questions 32-37\n"
+    },
+    {
+      "box": [
+        28.43999481201172,
+        120.239990234375,
+        503.0856018066406,
+        133.5733184814453
+      ],
+      "text": "20k at the following statements (Questions 32-37) and the list of companies below.\n"
+    },
+    {
+      "box": [
+        28.79998779296875,
+        150.1199951171875,
+        377.5499572753906,
+        162.73257446289062
+      ],
+      "text": "Wetch each statement with the correct company, A, B, C or D.\n"
+    },
+    {
+      "box": [
+        29.519989013671875,
+        180.0,
+        451.7208251953125,
+        192.25222778320312
+      ],
+      "text": "Werte the correct letter, A, B,\nC or D, in boxes 32-37 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        28.799957275390625,
+        210.5999755859375,
+        280.2600402832031,
+        223.21261596679688
+      ],
+      "text": "MWB\nYou may use any letter more than once.\n"
+    },
+    {
+      "box": [
+        28.799957275390625,
+        239.760009765625,
+        466.18194580078125,
+        268.2118835449219
+      ],
+      "text": "32\nIt turned the notion that its products could have harmful effects to its own\nadvantage.\n"
+    },
+    {
+      "box": [
+        28.799957275390625,
+        278.280029296875,
+        428.2555847167969,
+        291.2529602050781
+      ],
+      "text": "33\nsit extended its offering by collaborating with another manufacturer.\n"
+    },
+    {
+      "box": [
+        28.799957275390625,
+        301.67999267578125,
+        458.5284118652344,
+        329.7718811035156
+      ],
+      "text": "34\nIt implemented an incentive scheme to demonstrate its corporate social\nresponsibility.\n"
+    },
+    {
+      "box": [
+        28.799942016601562,
+        339.8399963378906,
+        506.7630920410156,
+        365.7693786621094
+      ],
+      "text": "35\nIt discovered that customers had a positive attitude towards dealing with difficult\ncircumstances.\n"
+    },
+    {
+      "box": [
+        29.159927368164062,
+        378.3599853515625,
+        454.2173767089844,
+        391.69329833984375
+      ],
+      "text": "36\nIt responded to a growing lifestyle trend in an unrelated product sector.\n"
+    },
+    {
+      "box": [
+        29.159942626953125,
+        401.760009765625,
+        505.98876953125,
+        415.0932922363281
+      ],
+      "text": "37\nIt successfully avoided having to charge its customers less for its core products.\n"
+    },
+    {
+      "box": [
+        224.99993896484375,
+        459.3599853515625,
+        332.515869140625,
+        471.2518615722656
+      ],
+      "text": "List of companies\n"
+    },
+    {
+      "box": [
+        248.39993286132812,
+        482.760009765625,
+        313.39801025390625,
+        492.48974609375
+      ],
+      "text": "A\nCoach\n"
+    },
+    {
+      "box": [
+        249.11993408203125,
+        505.8000183105469,
+        310.6078796386719,
+        515.5297241210938
+      ],
+      "text": "B_\nTesco\n"
+    },
+    {
+      "box": [
+        248.7599334716797,
+        529.2000122070312,
+        302.5798645019531,
+        538.9296875
+      ],
+      "text": "C_\nNike\n"
+    },
+    {
+      "box": [
+        249.11993408203125,
+        552.5999755859375,
+        306.0844421386719,
+        564.4918823242188
+      ],
+      "text": "D_iToys\n"
+    }
+  ]
+}

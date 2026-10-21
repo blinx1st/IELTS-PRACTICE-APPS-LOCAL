@@ -1,0 +1,165 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 91,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 4\nQuestions 30-34\nComplete the summary using the list of words A-G below.\nWrite the correct letter, A-G, in boxes 30-34 on your answer sheet.\nJeremy Bentham\nJeremy Bentham was active in other areas besides philosophy. In the 1790s he\nsuggested a type of technology to IMProve 30... for different Government\ndepartments. He developed a new way of printing banknotes to increase\nBA eseessscssssserensseoneeenseee ANG AISO designed a Method for the 32 ...-...c-cssessssssseenseene of food. He\nalso drew up plans for a prison which allowed the 33 ....-..--.-m0ssenene Of prisoners at all\ntimes, and believed the same design could be used for other institutions as well. When\nresearching happiness, he investigated possibilities fOr its 34 0... » ANd\nsuggested some methods of doing this.\nFB.com/LouisQuangVo\nA\nmeasurement\nB _ security\nC\nimplementation\nD\nprofits\nE\nobservation\nF\ncommunication\nG\npreservation\n92\n",
+  "blocks": [
+    {
+      "box": [
+        85.68000030517578,
+        63.3599853515625,
+        117.71639251708984,
+        72.72933197021484
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        84.95999908447266,
+        100.79998779296875,
+        184.49996948242188,
+        111.61077880859375
+      ],
+      "text": "Questions 30-34\n"
+    },
+    {
+      "box": [
+        84.95999908447266,
+        129.5999755859375,
+        396.2808532714844,
+        141.85226440429688
+      ],
+      "text": "Complete the summary using the list of words A-G below.\n"
+    },
+    {
+      "box": [
+        85.32000732421875,
+        158.03997802734375,
+        446.806884765625,
+        169.93186950683594
+      ],
+      "text": "Write the correct letter, A-G, in boxes 30-34 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        256.67999267578125,
+        189.0,
+        389.7810974121094,
+        205.21621704101562
+      ],
+      "text": "Jeremy Bentham\n"
+    },
+    {
+      "box": [
+        84.239990234375,
+        225.719970703125,
+        504.25201416015625,
+        238.33261108398438
+      ],
+      "text": "Jeremy Bentham was active in other areas besides philosophy. In the 1790s he\n"
+    },
+    {
+      "box": [
+        84.23995971679688,
+        244.44000244140625,
+        546.3358764648438,
+        259.9354553222656
+      ],
+      "text": "suggested a type of technology to IMProve 30... for different Government\n"
+    },
+    {
+      "box": [
+        84.23995971679688,
+        266.03997802734375,
+        467.5535583496094,
+        277.9318542480469
+      ],
+      "text": "departments. He developed a new way of printing banknotes to increase\n"
+    },
+    {
+      "box": [
+        84.5999755859375,
+        285.1199951171875,
+        542.4659423828125,
+        297.73260498046875
+      ],
+      "text": "BA eseessscssssserensseoneeenseee ANG AISO designed a Method for the 32 ...-...c-cssessssssseenseene of food. He\n"
+    },
+    {
+      "box": [
+        84.239990234375,
+        305.2799987792969,
+        543.8159790039062,
+        317.5322265625
+      ],
+      "text": "also drew up plans for a prison which allowed the 33 ....-..--.-m0ssenene Of prisoners at all\n"
+    },
+    {
+      "box": [
+        83.8800048828125,
+        325.0799865722656,
+        542.0519409179688,
+        337.6925964355469
+      ],
+      "text": "times, and believed the same design could be used for other institutions as well. When\n"
+    },
+    {
+      "box": [
+        84.60000610351562,
+        345.239990234375,
+        523.278076171875,
+        357.85260009765625
+      ],
+      "text": "researching happiness, he investigated possibilities fOr its 34 0... » ANd\n"
+    },
+    {
+      "box": [
+        84.60003662109375,
+        365.760009765625,
+        396.7939453125,
+        377.6518859863281
+      ],
+      "text": "suggested some methods of doing this.\nFB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        128.88003540039062,
+        404.2799987792969,
+        518.3497314453125,
+        419.0547790527344
+      ],
+      "text": "A\nmeasurement\nB _ security\nC\nimplementation\n"
+    },
+    {
+      "box": [
+        129.60003662109375,
+        427.67999267578125,
+        518.1912841796875,
+        439.9322509765625
+      ],
+      "text": "D\nprofits\nE\nobservation\nF\ncommunication\n"
+    },
+    {
+      "box": [
+        129.24005126953125,
+        450.3599853515625,
+        222.8976287841797,
+        462.2518615722656
+      ],
+      "text": "G\npreservation\n"
+    },
+    {
+      "box": [
+        84.60004425048828,
+        767.8800048828125,
+        97.51683807373047,
+        777.2493286132812
+      ],
+      "text": "92\n"
+    }
+  ]
+}

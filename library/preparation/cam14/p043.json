@@ -1,0 +1,93 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 43,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Writing\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome people say that the main environmental problem of our time is the loss\nofparticular species ofplants and animals. Others say that there are more\nimportant environmental problems.\nDiscuss both these views and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n51\n",
+  "blocks": [
+    {
+      "box": [
+        506.0580749511719,
+        94.30097961425781,
+        539.214599609375,
+        104.38904571533203
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        106.53853607177734,
+        129.21400451660156,
+        228.52513122558594,
+        139.302001953125
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        106.53853607177734,
+        156.56851196289062,
+        342.0570983886719,
+        167.016845703125
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        106.53853607177734,
+        182.48324584960938,
+        254.68466186523438,
+        192.93157958984375
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        118.77606201171875,
+        215.23663330078125,
+        514.883544921875,
+        252.6795654296875
+      ],
+      "text": "Some people say that the main environmental problem of our time is the loss\nofparticular species ofplants and animals. Others say that there are more\nimportant environmental problems.\n"
+    },
+    {
+      "box": [
+        118.77606201171875,
+        267.4261169433594,
+        392.680908203125,
+        278.2347412109375
+      ],
+      "text": "Discuss both these views and give your own opinion.\n"
+    },
+    {
+      "box": [
+        106.89842987060547,
+        300.8994140625,
+        496.5361022949219,
+        325.02496337890625
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        106.53850555419922,
+        340.4914245605469,
+        226.26116943359375,
+        348.77801513671875
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        527.6536254882812,
+        730.65283203125,
+        537.33935546875,
+        738.939453125
+      ],
+      "text": "51\n"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "book": 13,
+  "test": 2,
+  "part": 2,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_06.mp3",
+  "sha256": "266ac1fed6b17c588e38861116ba895b2b0cdccdf0dc1af66449c8b4867a038b",
+  "duration": 439.843,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      340.502875,
+      440.502875
+    ]
+  ],
+  "text": "You will hear a manager in a company talking to employees about volunteering for charity work. First, you have some time to look at questions 11 to 16. You Now listen carefully and answer questions 11 to 16. Thanks for coming everyone. Okay, so this meeting is for new staff and staff who haven't been involved with our volunteering projects yet. So basically, the idea is that we allow staff to give up some of their work time to help on various charity projects to benefit the local community. We've been doing this for the last five years and it's been very successful. Participating doesn't necessarily involve a huge time commitment. The company will pay for eight hours of your time. That can be used over one or two days all at once or spread over several months throughout the year. There are some staff who enjoy volunteering so much, they all s- But that soon changed. The feedback was very positive. The really encouraging thing was that participants all said they felt much more confident about using social media to keep in touch with their grandchildren who prefer this form of communication to phoning or sending emails. A lot of them also said playing online games would help them make new friends and keep their brains active. They weren't that impressed with being able to order their groceries online as they liked going out to the shops, but some said it would come in handy if they were ill or the weather was really bad. One thing they asked about was using tablets for things like reading newspapers. Some people had been given tablets as presents, but had never used them. So that's something we'll make sure we include this time. That is the end of section 2. You now have half a minute to check your answers. Now turn to section 3.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "You will hear a manager in a company talking to employees about volunteering for charity work."
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": "First, you have some time to look at questions 11 to 16."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 67.0,
+      "text": "Now listen carefully and answer questions 11 to 16."
+    },
+    {
+      "start": 67.0,
+      "end": 75.34,
+      "text": "Thanks for coming everyone. Okay, so this meeting is for new staff and staff who haven't"
+    },
+    {
+      "start": 75.34,
+      "end": 81.4,
+      "text": "been involved with our volunteering projects yet. So basically, the idea is that we"
+    },
+    {
+      "start": 81.4,
+      "end": 86.88,
+      "text": "allow staff to give up some of their work time to help on various charity projects to"
+    },
+    {
+      "start": 86.88,
+      "end": 92.36,
+      "text": "benefit the local community. We've been doing this for the last five years and it's been"
+    },
+    {
+      "start": 92.36,
+      "end": 99.4,
+      "text": "very successful. Participating doesn't necessarily involve a huge time commitment. The company"
+    },
+    {
+      "start": 99.4,
+      "end": 106.88,
+      "text": "will pay for eight hours of your time. That can be used over one or two days all at once"
+    },
+    {
+      "start": 106.88,
+      "end": 113.48,
+      "text": "or spread over several months throughout the year. There are some staff who enjoy volunteering"
+    },
+    {
+      "start": 113.48,
+      "end": 115.48,
+      "text": "so much, they all s-"
+    },
+    {
+      "start": 340.5,
+      "end": 342.9,
+      "text": "But that soon changed."
+    },
+    {
+      "start": 342.9,
+      "end": 345.34,
+      "text": "The feedback was very positive."
+    },
+    {
+      "start": 345.34,
+      "end": 350.7,
+      "text": "The really encouraging thing was that participants all said they felt much more confident"
+    },
+    {
+      "start": 350.7,
+      "end": 355.86,
+      "text": "about using social media to keep in touch with their grandchildren who prefer this form"
+    },
+    {
+      "start": 355.86,
+      "end": 359.78,
+      "text": "of communication to phoning or sending emails."
+    },
+    {
+      "start": 359.78,
+      "end": 364.9,
+      "text": "A lot of them also said playing online games would help them make new friends and keep"
+    },
+    {
+      "start": 364.9,
+      "end": 367.1,
+      "text": "their brains active."
+    },
+    {
+      "start": 367.1,
+      "end": 372.5,
+      "text": "They weren't that impressed with being able to order their groceries online as they liked"
+    },
+    {
+      "start": 372.5,
+      "end": 378.0,
+      "text": "going out to the shops, but some said it would come in handy if they were ill or the"
+    },
+    {
+      "start": 378.0,
+      "end": 380.78,
+      "text": "weather was really bad."
+    },
+    {
+      "start": 380.78,
+      "end": 385.94,
+      "text": "One thing they asked about was using tablets for things like reading newspapers."
+    },
+    {
+      "start": 385.94,
+      "end": 390.58,
+      "text": "Some people had been given tablets as presents, but had never used them."
+    },
+    {
+      "start": 390.58,
+      "end": 396.38,
+      "text": "So that's something we'll make sure we include this time."
+    },
+    {
+      "start": 396.38,
+      "end": 399.38,
+      "text": "That is the end of section 2."
+    },
+    {
+      "start": 399.38,
+      "end": 403.38,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 426.38,
+      "end": 433.38,
+      "text": "Now turn to section 3."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

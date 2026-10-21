@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/bccccad08d978375085d5f2f3793693ba2d13e59ab7b11607da9fc8cb3db2a40.mp3",
+    "sha256": "bccccad08d978375085d5f2f3793693ba2d13e59ab7b11607da9fc8cb3db2a40",
+    "duration": 518.922,
+    "start": 0,
+    "end": 518.922,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part4.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear part of an environmental studies lecture on tree planting. First, you have some time to look at questions 31 to 40. You Now, listen carefully and answer questions 31 to 40. Tree planting now dominates political and popular agendas and is often presented as an easy answer to the climate crisis, as well as a way for business corporations to offset their carbon emissions. But unfortunately, tree planting isn't as straightforward as some people think. When the wrong trees are planted in the wrong place, it can do considerably more damaged and good. Failing to help, I-"
+    },
+    {
+      "name": "ending",
+      "start": 453.922,
+      "end": 518.922,
+      "text": "the fishing industry, which was a major source of employment for local people living in coastal areas. The reef forest station project involved hiring local people to plant and care for the new mangrove trees. Millions of mangrove trees have now been planted, which has resulted in the return of a healthy aquatic ecosystem. The mangroves also act as a defence against the increased threat of flooding caused by climate change. What's more, the local economy is more stable, and thousands more Madagascarans are now able to send their children to school. One other important point to consider... That is the end of Part 4. You now have one minute to check your answers to Part 4."
+    }
+  ]
+}

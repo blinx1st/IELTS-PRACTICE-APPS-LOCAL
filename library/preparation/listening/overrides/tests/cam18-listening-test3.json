@@ -1,0 +1,1124 @@
+{
+  "id": "cam18-listening-test3",
+  "skill": "listening",
+  "book": 18,
+  "test": 3,
+  "title": "Cambridge 18 · Listening Test 3",
+  "version": "2026-10-21.listening1",
+  "verification": {
+    "status": "verified",
+    "method": "Source question pages and key pages reviewed; native layouts corrected; local recording samples compared with source scripts.",
+    "reviewReport": "preparation/listening/final-review.json"
+  },
+  "parts": [
+    {
+      "id": "l-cam18-t3-p1",
+      "number": 1,
+      "title": "Part 1",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t3-p1-q1-4",
+          "type": "completion",
+          "heading": "Questions 1–4",
+          "instructions": "Complete the form below. Write ONE WORD ANDIOR A NUMBER for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 1,
+              "text": ""
+            },
+            {
+              "number": 2,
+              "text": ""
+            },
+            {
+              "number": 3,
+              "text": ""
+            },
+            {
+              "number": 4,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-057.webp",
+              "page": 57
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 57
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Wayside Camera Club membership form"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Name: Dan Green"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Email address: dan1068@market.com"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Home address: 52 ",
+                  {
+                    "number": 1
+                  },
+                  " Street, Peacetown"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Heard about us: from a ",
+                  {
+                    "number": 2
+                  }
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Reasons for joining:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "to enter competitions"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "to ",
+                  {
+                    "number": 3
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Type of membership: ",
+                  {
+                    "number": 4
+                  },
+                  " membership (£30)"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "l-cam18-t3-p1-q5-10",
+          "type": "completion",
+          "heading": "Questions 5–10",
+          "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 5,
+              "text": ""
+            },
+            {
+              "number": 6,
+              "text": ""
+            },
+            {
+              "number": 7,
+              "text": ""
+            },
+            {
+              "number": 8,
+              "text": ""
+            },
+            {
+              "number": 9,
+              "text": ""
+            },
+            {
+              "number": 10,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-057.webp",
+              "page": 57
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 57
+            }
+          ],
+          "wordLimit": 2,
+          "allowNumber": false,
+          "layout": {
+            "kind": "table",
+            "rows": [
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "Title of competition"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Instructions"
+                    ],
+                    "header": true
+                  },
+                  {
+                    "content": [
+                      "Feedback to Dan"
+                    ],
+                    "header": true
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "‘",
+                      {
+                        "number": 5
+                      },
+                      "’"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "A scene in the home"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "The picture's composition was not good."
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "‘Beautiful Sunsets’"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Scene must show some ",
+                      {
+                        "number": 6
+                      }
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "The ",
+                      {
+                        "number": 7
+                      },
+                      " was wrong."
+                    ],
+                    "header": false
+                  }
+                ]
+              },
+              {
+                "cells": [
+                  {
+                    "content": [
+                      "‘",
+                      {
+                        "number": 8
+                      },
+                      "’"
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "Scene must show ",
+                      {
+                        "number": 9
+                      }
+                    ],
+                    "header": false
+                  },
+                  {
+                    "content": [
+                      "The photograph was too ",
+                      {
+                        "number": 10
+                      },
+                      "."
+                    ],
+                    "header": false
+                  }
+                ]
+              }
+            ],
+            "caption": "Photography competitions"
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-057.webp",
+          "page": 57
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 57
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/db7734781e43877228e9b5e682e2b8f7175ef08221ac5f955441860104d2661e.mp3",
+        "sha256": "db7734781e43877228e9b5e682e2b8f7175ef08221ac5f955441860104d2661e",
+        "duration": 470.578,
+        "start": 39.34,
+        "end": 470.578,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part1.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t3-p1.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t3-p1.json",
+          "timelineNotes": [
+            "Specific Part 1 introduction retained; publisher and paper instructions excluded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t3-p2",
+      "number": 2,
+      "title": "Part 2",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t3-p2-q11-12",
+          "type": "multi",
+          "heading": "Questions 11–12",
+          "instructions": "Choose TWO letters, A--E.",
+          "body": "Which TWO warnings does Dan give about picking mushrooms?",
+          "questions": [
+            {
+              "number": 11,
+              "text": ""
+            },
+            {
+              "number": 12,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-058.webp",
+              "page": 58
+            },
+            {
+              "url": "/library-assets/l-cam18-source-059.webp",
+              "page": 59
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 58
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 59
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Don’t pick more than one variety of mushroom at a time"
+            },
+            {
+              "value": "B",
+              "label": "Don’t pick mushrooms near busy roads"
+            },
+            {
+              "value": "C",
+              "label": "Don’t eat mushrooms given to you"
+            },
+            {
+              "value": "D",
+              "label": "Don’t eat mushrooms while picking them"
+            },
+            {
+              "value": "E",
+              "label": "Don’t pick old mushrooms"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t3-p2-q13-14",
+          "type": "multi",
+          "heading": "Questions 13–14",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO ideas about wild mushrooms does Dan say are correct?",
+          "questions": [
+            {
+              "number": 13,
+              "text": ""
+            },
+            {
+              "number": 14,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-058.webp",
+              "page": 58
+            },
+            {
+              "url": "/library-assets/l-cam18-source-059.webp",
+              "page": 59
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 58
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 59
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Mushrooms should always be peeled before eating"
+            },
+            {
+              "value": "B",
+              "label": "Mushrooms eaten by animals may be unsafe"
+            },
+            {
+              "value": "C",
+              "label": "Cooking destroys toxins in mushrooms"
+            },
+            {
+              "value": "D",
+              "label": "Brightly coloured mushrooms can be edible"
+            },
+            {
+              "value": "E",
+              "label": "All poisonous mushrooms have a bad smell"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t3-p2-q15-20",
+          "type": "choice",
+          "heading": "Questions 15–20",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "body": "",
+          "questions": [
+            {
+              "number": 15,
+              "text": "What advice does Dan give about picking mushrooms in parks?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Choose wooded areas"
+                },
+                {
+                  "value": "B",
+                  "label": "Don’t disturb wildlife"
+                },
+                {
+                  "value": "C",
+                  "label": "Get there early"
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "text": "Dan says it is a good idea for beginners to",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "use a mushroom app"
+                },
+                {
+                  "value": "B",
+                  "label": "join a group"
+                },
+                {
+                  "value": "C",
+                  "label": "take a reference book"
+                }
+              ]
+            },
+            {
+              "number": 17,
+              "text": "What does Dan say is important for conservation?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "selecting only fully grown mushrooms"
+                },
+                {
+                  "value": "B",
+                  "label": "picking a limited amount of mushrooms"
+                },
+                {
+                  "value": "C",
+                  "label": "avoiding areas where rare mushroom species grow"
+                }
+              ]
+            },
+            {
+              "number": 18,
+              "text": "According to Dan, some varieties of wild mushrooms are in decline because there is",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "a huge demand for them from restaurants"
+                },
+                {
+                  "value": "B",
+                  "label": "a lack of rain in this part of the country"
+                },
+                {
+                  "value": "C",
+                  "label": "a rise in building developments locally"
+                }
+              ]
+            },
+            {
+              "number": 19,
+              "text": "Dan says that when storing mushrooms, people should",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "keep them in the fridge for no more than two days"
+                },
+                {
+                  "value": "B",
+                  "label": "keep them in a brown bag in a dark room"
+                },
+                {
+                  "value": "C",
+                  "label": "leave them for a period after washing them"
+                }
+              ]
+            },
+            {
+              "number": 20,
+              "text": "What does Dan say about trying new varieties of mushrooms?",
+              "options": [
+                {
+                  "value": "A",
+                  "label": "Experiment with different recipes"
+                },
+                {
+                  "value": "B",
+                  "label": "Expect some to have a strong taste"
+                },
+                {
+                  "value": "C",
+                  "label": "Cook them for a long time."
+                }
+              ]
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-058.webp",
+              "page": 58
+            },
+            {
+              "url": "/library-assets/l-cam18-source-059.webp",
+              "page": 59
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 58
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 59
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-058.webp",
+          "page": 58
+        },
+        {
+          "url": "/library-assets/l-cam18-source-059.webp",
+          "page": 59
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 58
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 59
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/e363b7e68a0fb4adb8791a9c7c5aa9921d984c207816cf91f279f6fe273ba839.mp3",
+        "sha256": "e363b7e68a0fb4adb8791a9c7c5aa9921d984c207816cf91f279f6fe273ba839",
+        "duration": 467.417,
+        "start": 0,
+        "end": 467.417,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part2.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t3-p2.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t3-p2.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t3-p3",
+      "number": 3,
+      "title": "Part 3",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t3-p3-q21-22",
+          "type": "multi",
+          "heading": "Questions 21–22",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO opinions about the Luddites do the students express?",
+          "questions": [
+            {
+              "number": 21,
+              "text": ""
+            },
+            {
+              "number": 22,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-060.webp",
+              "page": 60
+            },
+            {
+              "url": "/library-assets/l-cam18-source-061.webp",
+              "page": 61
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 60
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 61
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Their actions were ineffective"
+            },
+            {
+              "value": "B",
+              "label": "They are still influential today"
+            },
+            {
+              "value": "C",
+              "label": "They have received unfair criticism"
+            },
+            {
+              "value": "D",
+              "label": "They were proved right"
+            },
+            {
+              "value": "E",
+              "label": "Their attitude is understandable"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t3-p3-q23-24",
+          "type": "multi",
+          "heading": "Questions 23–24",
+          "instructions": "Choose TWO letters, A-E.",
+          "body": "Which TWO predictions about the future of work are the students doubtful about?",
+          "questions": [
+            {
+              "number": 23,
+              "text": ""
+            },
+            {
+              "number": 24,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-060.webp",
+              "page": 60
+            },
+            {
+              "url": "/library-assets/l-cam18-source-061.webp",
+              "page": 61
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 60
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 61
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "Work will be more rewarding"
+            },
+            {
+              "value": "B",
+              "label": "Unemployment will fall"
+            },
+            {
+              "value": "C",
+              "label": "People will want to delay retiring"
+            },
+            {
+              "value": "D",
+              "label": "Working hours will be shorter"
+            },
+            {
+              "value": "E",
+              "label": "People will change jobs more frequently"
+            }
+          ],
+          "choose": 2
+        },
+        {
+          "id": "l-cam18-t3-p3-q25-30",
+          "type": "matching",
+          "heading": "Questions 25–30",
+          "instructions": "What comment do the students make about each of the following jobs? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30. Comments",
+          "body": "",
+          "questions": [
+            {
+              "number": 25,
+              "text": "Accountants"
+            },
+            {
+              "number": 26,
+              "text": "Hairdressers"
+            },
+            {
+              "number": 27,
+              "text": "Administrative staff"
+            },
+            {
+              "number": 28,
+              "text": "Agricultural workers"
+            },
+            {
+              "number": 29,
+              "text": "Care workers"
+            },
+            {
+              "number": 30,
+              "text": "Bank clerks"
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-060.webp",
+              "page": 60
+            },
+            {
+              "url": "/library-assets/l-cam18-source-061.webp",
+              "page": 61
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 60
+            },
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 61
+            }
+          ],
+          "options": [
+            {
+              "value": "A",
+              "label": "These jobs are likely to be at risk"
+            },
+            {
+              "value": "B",
+              "label": "Their role has become more interesting in recent years"
+            },
+            {
+              "value": "C",
+              "label": "The number of people working in this sector has fallen dramatically"
+            },
+            {
+              "value": "D",
+              "label": "This job will require more qualifications"
+            },
+            {
+              "value": "E",
+              "label": "Higher disposable income has led to a huge increase in jobs"
+            },
+            {
+              "value": "F",
+              "label": "There is likely to be a significant rise in demand for this service"
+            },
+            {
+              "value": "G",
+              "label": "Both employment and productivity have risen"
+            }
+          ]
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-060.webp",
+          "page": 60
+        },
+        {
+          "url": "/library-assets/l-cam18-source-061.webp",
+          "page": 61
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 60
+        },
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 61
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/fd994ca01e1f98bf34f7d6c9cf4ef90ebbe32d81db65076c6a98ab5ae86aa0ad.mp3",
+        "sha256": "fd994ca01e1f98bf34f7d6c9cf4ef90ebbe32d81db65076c6a98ab5ae86aa0ad",
+        "duration": 355.247,
+        "start": 0,
+        "end": 355.247,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part3.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t3-p3.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t3-p3.json",
+          "timelineNotes": []
+        }
+      }
+    },
+    {
+      "id": "l-cam18-t3-p4",
+      "number": 4,
+      "title": "Part 4",
+      "paragraphs": [],
+      "groups": [
+        {
+          "id": "l-cam18-t3-p4-q31-40",
+          "type": "completion",
+          "heading": "Questions 31–40",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "body": "",
+          "questions": [
+            {
+              "number": 31,
+              "text": ""
+            },
+            {
+              "number": 32,
+              "text": ""
+            },
+            {
+              "number": 33,
+              "text": ""
+            },
+            {
+              "number": 34,
+              "text": ""
+            },
+            {
+              "number": 35,
+              "text": ""
+            },
+            {
+              "number": 36,
+              "text": ""
+            },
+            {
+              "number": 37,
+              "text": ""
+            },
+            {
+              "number": 38,
+              "text": ""
+            },
+            {
+              "number": 39,
+              "text": ""
+            },
+            {
+              "number": 40,
+              "text": ""
+            }
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/l-cam18-source-062.webp",
+              "page": 62
+            }
+          ],
+          "sourcePages": [
+            {
+              "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+              "page": 62
+            }
+          ],
+          "wordLimit": 1,
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Space Traffic Management"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "A Space Traffic Management system"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "is a concept similar to Air Traffic Control, but for satellites rather than planes."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "would aim to set up legal and ",
+                  {
+                    "number": 31
+                  },
+                  " ways of improving safety."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "does not actually exist at present."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Problems in developing effective Space Traffic Management"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Satellites are now quite ",
+                  {
+                    "number": 32
+                  },
+                  " and therefore more widespread (e.g. there are constellations made up of ",
+                  {
+                    "number": 33
+                  },
+                  " of satellites)."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "At present, satellites are not required to transmit information to help with their ",
+                  {
+                    "number": 34
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "There are few systems for ",
+                  {
+                    "number": 35
+                  },
+                  " satellites."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Small pieces of debris may be difficult to identify."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Operators may be unwilling to share details of satellites used for ",
+                  {
+                    "number": 36
+                  },
+                  " or commercial reasons."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "It may be hard to collect details of the object's ",
+                  {
+                    "number": 37
+                  },
+                  " at a given time."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Scientists can only make a ",
+                  {
+                    "number": 38
+                  },
+                  " about where the satellite will go."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Solutions"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Common standards should be agreed on for the presentation of information."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The information should be combined in one ",
+                  {
+                    "number": 39
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A coordinated system must be designed to create ",
+                  {
+                    "number": 40
+                  },
+                  " in its users."
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/l-cam18-source-062.webp",
+          "page": 62
+        }
+      ],
+      "sourcePages": [
+        {
+          "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "page": 62
+        }
+      ],
+      "audio": {
+        "url": "/library-audio/c92a622f8c8988f5a7d45d466dbecb9ff7bf9960db4b0083b9a09bf0a287bb34.mp3",
+        "sha256": "c92a622f8c8988f5a7d45d466dbecb9ff7bf9960db4b0083b9a09bf0a287bb34",
+        "duration": 459.711,
+        "start": 0,
+        "end": 380.5,
+        "source": "Tài liệu Cambridge\\CAMBRIDGE-18\\Cambridge IELTS 18 Audio\\Test 3\\CAMBRIDGE 18 section3 part4.mp3",
+        "verification": {
+          "status": "verified",
+          "method": "Local recording opening/ending compared against supplied audioscript and questions; all 16 candidates per book compared.",
+          "proof": "preparation/listening/cam18/audio-t3-p4.json",
+          "contentComparison": "preparation/listening/audio-content-comparison.json",
+          "timelineProof": "preparation/listening/cam18/timeline-t3-p4.json",
+          "timelineNotes": [
+            "Final embedded check pause and paper-transfer directions removed; app supplies exactly 120 seconds."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1325 @@
+{
+  "audioSha256": "c3a5c6e3c89dde95748eddf6e4a81efe86bfb56591211a04f89cb7c8bd4f557a",
+  "duration": 426.9453125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 306.9453125,
+      "end": 314.5453125,
+      "text": " In 2016, scientists revived two tardigrades that had been tons for more than 30 years.",
+      "words": [
+        {
+          "word": " In",
+          "start": 306.9453125,
+          "end": 307.4853125
+        },
+        {
+          "word": " 2016,",
+          "start": 307.4853125,
+          "end": 308.5653125
+        },
+        {
+          "word": " scientists",
+          "start": 309.3053125,
+          "end": 309.6653125
+        },
+        {
+          "word": " revived",
+          "start": 309.6653125,
+          "end": 310.4053125
+        },
+        {
+          "word": " two",
+          "start": 310.4053125,
+          "end": 311.0453125
+        },
+        {
+          "word": " tardigrades",
+          "start": 311.0453125,
+          "end": 311.6853125
+        },
+        {
+          "word": " that",
+          "start": 311.6853125,
+          "end": 311.9253125
+        },
+        {
+          "word": " had",
+          "start": 311.9253125,
+          "end": 312.1253125
+        },
+        {
+          "word": " been",
+          "start": 312.1253125,
+          "end": 312.4253125
+        },
+        {
+          "word": " tons",
+          "start": 312.4253125,
+          "end": 312.7053125
+        },
+        {
+          "word": " for",
+          "start": 312.7053125,
+          "end": 313.0653125
+        },
+        {
+          "word": " more",
+          "start": 313.0653125,
+          "end": 313.2453125
+        },
+        {
+          "word": " than",
+          "start": 313.2453125,
+          "end": 313.5653125
+        },
+        {
+          "word": " 30",
+          "start": 313.5653125,
+          "end": 313.8253125
+        },
+        {
+          "word": " years.",
+          "start": 313.8253125,
+          "end": 314.5453125
+        }
+      ]
+    },
+    {
+      "start": 315.1453125,
+      "end": 324.6653125,
+      "text": " There was a report that, in 1948, a 120-year-old ton was revived, but this experiment has never been repeated.",
+      "words": [
+        {
+          "word": " There",
+          "start": 315.1453125,
+          "end": 315.2853125
+        },
+        {
+          "word": " was",
+          "start": 315.2853125,
+          "end": 315.4253125
+        },
+        {
+          "word": " a",
+          "start": 315.4253125,
+          "end": 315.6253125
+        },
+        {
+          "word": " report",
+          "start": 315.6253125,
+          "end": 315.9853125
+        },
+        {
+          "word": " that,",
+          "start": 315.9853125,
+          "end": 316.4453125
+        },
+        {
+          "word": " in",
+          "start": 316.6653125,
+          "end": 316.7253125
+        },
+        {
+          "word": " 1948,",
+          "start": 316.7253125,
+          "end": 317.6053125
+        },
+        {
+          "word": " a",
+          "start": 317.7853125,
+          "end": 318.5253125
+        },
+        {
+          "word": " 120",
+          "start": 318.5253125,
+          "end": 319.6453125
+        },
+        {
+          "word": "-year",
+          "start": 319.6453125,
+          "end": 320.2053125
+        },
+        {
+          "word": "-old",
+          "start": 320.2053125,
+          "end": 320.5253125
+        },
+        {
+          "word": " ton",
+          "start": 320.5253125,
+          "end": 320.8053125
+        },
+        {
+          "word": " was",
+          "start": 320.8053125,
+          "end": 321.2053125
+        },
+        {
+          "word": " revived,",
+          "start": 321.2053125,
+          "end": 321.7653125
+        },
+        {
+          "word": " but",
+          "start": 321.9853125,
+          "end": 322.5453125
+        },
+        {
+          "word": " this",
+          "start": 322.5453125,
+          "end": 322.9253125
+        },
+        {
+          "word": " experiment",
+          "start": 322.9253125,
+          "end": 323.2853125
+        },
+        {
+          "word": " has",
+          "start": 323.2853125,
+          "end": 323.7653125
+        },
+        {
+          "word": " never",
+          "start": 323.7653125,
+          "end": 323.9653125
+        },
+        {
+          "word": " been",
+          "start": 323.9653125,
+          "end": 324.2853125
+        },
+        {
+          "word": " repeated.",
+          "start": 324.2853125,
+          "end": 324.6653125
+        }
+      ]
+    },
+    {
+      "start": 325.5653125,
+      "end": 334.0253125,
+      "text": " There are currently several tests taking place in space to determine how long tardigrades might be able to survive there.",
+      "words": [
+        {
+          "word": " There",
+          "start": 325.5653125,
+          "end": 325.7253125
+        },
+        {
+          "word": " are",
+          "start": 325.7253125,
+          "end": 325.9453125
+        },
+        {
+          "word": " currently",
+          "start": 325.9453125,
+          "end": 326.4453125
+        },
+        {
+          "word": " several",
+          "start": 326.4453125,
+          "end": 326.9053125
+        },
+        {
+          "word": " tests",
+          "start": 326.9053125,
+          "end": 327.4653125
+        },
+        {
+          "word": " taking",
+          "start": 327.4653125,
+          "end": 327.8453125
+        },
+        {
+          "word": " place",
+          "start": 327.8453125,
+          "end": 328.3453125
+        },
+        {
+          "word": " in",
+          "start": 328.3453125,
+          "end": 328.9453125
+        },
+        {
+          "word": " space",
+          "start": 328.9453125,
+          "end": 329.4853125
+        },
+        {
+          "word": " to",
+          "start": 329.4853125,
+          "end": 330.0053125
+        },
+        {
+          "word": " determine",
+          "start": 330.0053125,
+          "end": 330.4853125
+        },
+        {
+          "word": " how",
+          "start": 330.4853125,
+          "end": 331.0053125
+        },
+        {
+          "word": " long",
+          "start": 331.0053125,
+          "end": 331.4653125
+        },
+        {
+          "word": " tardigrades",
+          "start": 331.4653125,
+          "end": 332.0453125
+        },
+        {
+          "word": " might",
+          "start": 332.0453125,
+          "end": 332.3853125
+        },
+        {
+          "word": " be",
+          "start": 332.3853125,
+          "end": 332.5653125
+        },
+        {
+          "word": " able",
+          "start": 332.5653125,
+          "end": 332.8253125
+        },
+        {
+          "word": " to",
+          "start": 332.8253125,
+          "end": 333.0453125
+        },
+        {
+          "word": " survive",
+          "start": 333.0453125,
+          "end": 333.3853125
+        },
+        {
+          "word": " there.",
+          "start": 333.3853125,
+          "end": 334.0253125
+        }
+      ]
+    },
+    {
+      "start": 334.0253125,
+      "end": 337.6853125,
+      "text": " I believe the record so far is ten days.",
+      "words": [
+        {
+          "word": " I",
+          "start": 334.0253125,
+          "end": 334.9253125
+        },
+        {
+          "word": " believe",
+          "start": 334.9253125,
+          "end": 335.3253125
+        },
+        {
+          "word": " the",
+          "start": 335.3253125,
+          "end": 335.5853125
+        },
+        {
+          "word": " record",
+          "start": 335.5853125,
+          "end": 335.8453125
+        },
+        {
+          "word": " so",
+          "start": 335.8453125,
+          "end": 336.2253125
+        },
+        {
+          "word": " far",
+          "start": 336.2253125,
+          "end": 336.4853125
+        },
+        {
+          "word": " is",
+          "start": 336.4853125,
+          "end": 336.7053125
+        },
+        {
+          "word": " ten",
+          "start": 336.7053125,
+          "end": 337.0053125
+        },
+        {
+          "word": " days.",
+          "start": 337.0053125,
+          "end": 337.6853125
+        }
+      ]
+    },
+    {
+      "start": 338.7653125,
+      "end": 346.7653125,
+      "text": " So moving on, in terms of their diet, tardigrades consume liquids in order to survive.",
+      "words": [
+        {
+          "word": " So",
+          "start": 338.7653125,
+          "end": 338.9853125
+        },
+        {
+          "word": " moving",
+          "start": 338.9853125,
+          "end": 339.6253125
+        },
+        {
+          "word": " on,",
+          "start": 339.6253125,
+          "end": 340.4453125
+        },
+        {
+          "word": " in",
+          "start": 341.0453125,
+          "end": 341.1453125
+        },
+        {
+          "word": " terms",
+          "start": 341.1453125,
+          "end": 341.60531249999997
+        },
+        {
+          "word": " of",
+          "start": 341.60531249999997,
+          "end": 341.8853125
+        },
+        {
+          "word": " their",
+          "start": 341.8853125,
+          "end": 342.2053125
+        },
+        {
+          "word": " diet,",
+          "start": 342.2053125,
+          "end": 342.9053125
+        },
+        {
+          "word": " tardigrades",
+          "start": 343.10531249999997,
+          "end": 343.6653125
+        },
+        {
+          "word": " consume",
+          "start": 343.6653125,
+          "end": 344.5653125
+        },
+        {
+          "word": " liquids",
+          "start": 344.5653125,
+          "end": 345.2253125
+        },
+        {
+          "word": " in",
+          "start": 345.2253125,
+          "end": 345.8053125
+        },
+        {
+          "word": " order",
+          "start": 345.8053125,
+          "end": 346.0453125
+        },
+        {
+          "word": " to",
+          "start": 346.0453125,
+          "end": 346.28531250000003
+        },
+        {
+          "word": " survive.",
+          "start": 346.28531250000003,
+          "end": 346.7653125
+        }
+      ]
+    },
+    {
+      "start": 347.2653125,
+      "end": 350.7453125,
+      "text": " Although they have teeth, they don't use these for chewing.",
+      "words": [
+        {
+          "word": " Although",
+          "start": 347.2653125,
+          "end": 347.5653125
+        },
+        {
+          "word": " they",
+          "start": 347.5653125,
+          "end": 347.9653125
+        },
+        {
+          "word": " have",
+          "start": 347.9653125,
+          "end": 348.3053125
+        },
+        {
+          "word": " teeth,",
+          "start": 348.3053125,
+          "end": 348.7653125
+        },
+        {
+          "word": " they",
+          "start": 348.9653125,
+          "end": 349.0053125
+        },
+        {
+          "word": " don't",
+          "start": 349.0053125,
+          "end": 349.4053125
+        },
+        {
+          "word": " use",
+          "start": 349.4053125,
+          "end": 349.7253125
+        },
+        {
+          "word": " these",
+          "start": 349.7253125,
+          "end": 350.1453125
+        },
+        {
+          "word": " for",
+          "start": 350.1453125,
+          "end": 350.3853125
+        },
+        {
+          "word": " chewing.",
+          "start": 350.3853125,
+          "end": 350.7453125
+        }
+      ]
+    },
+    {
+      "start": 351.4253125,
+      "end": 356.5453125,
+      "text": " They suck the juices from moss or extract fluid from seaweed.",
+      "words": [
+        {
+          "word": " They",
+          "start": 351.4253125,
+          "end": 351.78531250000003
+        },
+        {
+          "word": " suck",
+          "start": 351.78531250000003,
+          "end": 352.10531249999997
+        },
+        {
+          "word": " the",
+          "start": 352.10531249999997,
+          "end": 352.3453125
+        },
+        {
+          "word": " juices",
+          "start": 352.3453125,
+          "end": 352.6853125
+        },
+        {
+          "word": " from",
+          "start": 352.6853125,
+          "end": 353.1453125
+        },
+        {
+          "word": " moss",
+          "start": 353.1453125,
+          "end": 353.5653125
+        },
+        {
+          "word": " or",
+          "start": 353.5653125,
+          "end": 354.0853125
+        },
+        {
+          "word": " extract",
+          "start": 354.0853125,
+          "end": 354.8453125
+        },
+        {
+          "word": " fluid",
+          "start": 354.8453125,
+          "end": 355.28531250000003
+        },
+        {
+          "word": " from",
+          "start": 355.28531250000003,
+          "end": 355.9453125
+        },
+        {
+          "word": " seaweed.",
+          "start": 355.9453125,
+          "end": 356.5453125
+        }
+      ]
+    },
+    {
+      "start": 357.1453125,
+      "end": 362.9253125,
+      "text": " But some species prey on other tardigrades, from other species or within their own.",
+      "words": [
+        {
+          "word": " But",
+          "start": 357.1453125,
+          "end": 357.5053125
+        },
+        {
+          "word": " some",
+          "start": 357.5053125,
+          "end": 357.8853125
+        },
+        {
+          "word": " species",
+          "start": 357.8853125,
+          "end": 358.3453125
+        },
+        {
+          "word": " prey",
+          "start": 358.3453125,
+          "end": 358.7653125
+        },
+        {
+          "word": " on",
+          "start": 358.7653125,
+          "end": 359.0653125
+        },
+        {
+          "word": " other",
+          "start": 359.0653125,
+          "end": 359.3653125
+        },
+        {
+          "word": " tardigrades,",
+          "start": 359.3653125,
+          "end": 359.9853125
+        },
+        {
+          "word": " from",
+          "start": 360.4453125,
+          "end": 360.6853125
+        },
+        {
+          "word": " other",
+          "start": 360.6853125,
+          "end": 360.9653125
+        },
+        {
+          "word": " species",
+          "start": 360.9653125,
+          "end": 361.4453125
+        },
+        {
+          "word": " or",
+          "start": 361.4453125,
+          "end": 361.9653125
+        },
+        {
+          "word": " within",
+          "start": 361.9653125,
+          "end": 362.28531250000003
+        },
+        {
+          "word": " their",
+          "start": 362.28531250000003,
+          "end": 362.5053125
+        },
+        {
+          "word": " own.",
+          "start": 362.5053125,
+          "end": 362.9253125
+        }
+      ]
+    },
+    {
+      "start": 362.9253125,
+      "end": 369.0253125,
+      "text": " I suppose this isn't surprising given that tardigrades are mainly comprised of liquid",
+      "words": [
+        {
+          "word": " I",
+          "start": 362.9253125,
+          "end": 363.78531250000003
+        },
+        {
+          "word": " suppose",
+          "start": 363.78531250000003,
+          "end": 364.2453125
+        },
+        {
+          "word": " this",
+          "start": 364.2453125,
+          "end": 364.6653125
+        },
+        {
+          "word": " isn't",
+          "start": 364.6653125,
+          "end": 365.0453125
+        },
+        {
+          "word": " surprising",
+          "start": 365.0453125,
+          "end": 365.5653125
+        },
+        {
+          "word": " given",
+          "start": 365.5653125,
+          "end": 366.1853125
+        },
+        {
+          "word": " that",
+          "start": 366.1853125,
+          "end": 366.5053125
+        },
+        {
+          "word": " tardigrades",
+          "start": 366.5053125,
+          "end": 366.9653125
+        },
+        {
+          "word": " are",
+          "start": 366.9653125,
+          "end": 367.3453125
+        },
+        {
+          "word": " mainly",
+          "start": 367.3453125,
+          "end": 367.6853125
+        },
+        {
+          "word": " comprised",
+          "start": 367.6853125,
+          "end": 368.28531250000003
+        },
+        {
+          "word": " of",
+          "start": 368.28531250000003,
+          "end": 368.5453125
+        },
+        {
+          "word": " liquid",
+          "start": 368.5453125,
+          "end": 369.0253125
+        }
+      ]
+    },
+    {
+      "start": 369.0253125,
+      "end": 371.4853125,
+      "text": " and are coated with a type of gel.",
+      "words": [
+        {
+          "word": " and",
+          "start": 369.0253125,
+          "end": 369.5653125
+        },
+        {
+          "word": " are",
+          "start": 369.5653125,
+          "end": 369.8453125
+        },
+        {
+          "word": " coated",
+          "start": 369.8453125,
+          "end": 370.1253125
+        },
+        {
+          "word": " with",
+          "start": 370.1253125,
+          "end": 370.4253125
+        },
+        {
+          "word": " a",
+          "start": 370.4253125,
+          "end": 370.5653125
+        },
+        {
+          "word": " type",
+          "start": 370.5653125,
+          "end": 370.7253125
+        },
+        {
+          "word": " of",
+          "start": 370.7253125,
+          "end": 370.9853125
+        },
+        {
+          "word": " gel.",
+          "start": 370.9853125,
+          "end": 371.4853125
+        }
+      ]
+    },
+    {
+      "start": 372.7053125,
+      "end": 376.7053125,
+      "text": " Finally, I'd like to mention the conservation status of tardigrades.",
+      "words": [
+        {
+          "word": " Finally,",
+          "start": 372.7053125,
+          "end": 372.9253125
+        },
+        {
+          "word": " I'd",
+          "start": 372.9253125,
+          "end": 373.4853125
+        },
+        {
+          "word": " like",
+          "start": 373.4853125,
+          "end": 373.6853125
+        },
+        {
+          "word": " to",
+          "start": 373.6853125,
+          "end": 373.8453125
+        },
+        {
+          "word": " mention",
+          "start": 373.8453125,
+          "end": 374.1853125
+        },
+        {
+          "word": " the",
+          "start": 374.1853125,
+          "end": 374.9853125
+        },
+        {
+          "word": " conservation",
+          "start": 374.9853125,
+          "end": 375.0253125
+        },
+        {
+          "word": " status",
+          "start": 375.0253125,
+          "end": 375.7253125
+        },
+        {
+          "word": " of",
+          "start": 375.7253125,
+          "end": 376.0253125
+        },
+        {
+          "word": " tardigrades.",
+          "start": 376.0253125,
+          "end": 376.7053125
+        }
+      ]
+    },
+    {
+      "start": 377.4053125,
+      "end": 382.4453125,
+      "text": " It is estimated that they have been in existence for approximately half a billion years,",
+      "words": [
+        {
+          "word": " It",
+          "start": 377.4053125,
+          "end": 377.6253125
+        },
+        {
+          "word": " is",
+          "start": 377.6253125,
+          "end": 377.8253125
+        },
+        {
+          "word": " estimated",
+          "start": 377.8253125,
+          "end": 378.3053125
+        },
+        {
+          "word": " that",
+          "start": 378.3053125,
+          "end": 378.7653125
+        },
+        {
+          "word": " they",
+          "start": 378.7653125,
+          "end": 378.8853125
+        },
+        {
+          "word": " have",
+          "start": 378.8853125,
+          "end": 379.0653125
+        },
+        {
+          "word": " been",
+          "start": 379.0653125,
+          "end": 379.2253125
+        },
+        {
+          "word": " in",
+          "start": 379.2253125,
+          "end": 379.3653125
+        },
+        {
+          "word": " existence",
+          "start": 379.3653125,
+          "end": 379.9653125
+        },
+        {
+          "word": " for",
+          "start": 379.9653125,
+          "end": 380.3453125
+        },
+        {
+          "word": " approximately",
+          "start": 380.3453125,
+          "end": 380.9053125
+        },
+        {
+          "word": " half",
+          "start": 380.9053125,
+          "end": 381.3653125
+        },
+        {
+          "word": " a",
+          "start": 381.3653125,
+          "end": 381.5053125
+        },
+        {
+          "word": " billion",
+          "start": 381.5053125,
+          "end": 381.7253125
+        },
+        {
+          "word": " years,",
+          "start": 381.7253125,
+          "end": 382.4453125
+        }
+      ]
+    },
+    {
+      "start": 382.4653125,
+      "end": 389.7453125,
+      "text": " and in that time they have survived five mass extinctions, so it will probably come",
+      "words": [
+        {
+          "word": " and",
+          "start": 382.4653125,
+          "end": 383.0853125
+        },
+        {
+          "word": " in",
+          "start": 383.0853125,
+          "end": 383.4053125
+        },
+        {
+          "word": " that",
+          "start": 383.4053125,
+          "end": 383.7053125
+        },
+        {
+          "word": " time",
+          "start": 383.7053125,
+          "end": 384.2053125
+        },
+        {
+          "word": " they",
+          "start": 384.2053125,
+          "end": 384.6453125
+        },
+        {
+          "word": " have",
+          "start": 384.6453125,
+          "end": 384.9653125
+        },
+        {
+          "word": " survived",
+          "start": 384.9653125,
+          "end": 385.4853125
+        },
+        {
+          "word": " five",
+          "start": 385.4853125,
+          "end": 386.3053125
+        },
+        {
+          "word": " mass",
+          "start": 386.3053125,
+          "end": 386.78531250000003
+        },
+        {
+          "word": " extinctions,",
+          "start": 386.78531250000003,
+          "end": 387.6653125
+        },
+        {
+          "word": " so",
+          "start": 388.28531250000003,
+          "end": 388.6853125
+        },
+        {
+          "word": " it",
+          "start": 388.6853125,
+          "end": 388.8453125
+        },
+        {
+          "word": " will",
+          "start": 388.8453125,
+          "end": 389.1853125
+        },
+        {
+          "word": " probably",
+          "start": 389.1853125,
+          "end": 389.5053125
+        },
+        {
+          "word": " come",
+          "start": 389.5053125,
+          "end": 389.7453125
+        }
+      ]
+    },
+    {
+      "start": 389.7453125,
+      "end": 395.6253125,
+      "text": " There's no surprise to you that tardigrades have not been evaluated by the International Union",
+      "words": [
+        {
+          "word": " There's",
+          "start": 389.7453125,
+          "end": 389.9053125
+        },
+        {
+          "word": " no",
+          "start": 389.9053125,
+          "end": 390.1653125
+        },
+        {
+          "word": " surprise",
+          "start": 390.1653125,
+          "end": 390.7453125
+        },
+        {
+          "word": " to",
+          "start": 390.7453125,
+          "end": 391.0453125
+        },
+        {
+          "word": " you",
+          "start": 391.0453125,
+          "end": 391.3853125
+        },
+        {
+          "word": " that",
+          "start": 391.3853125,
+          "end": 391.8653125
+        },
+        {
+          "word": " tardigrades",
+          "start": 391.8653125,
+          "end": 392.4453125
+        },
+        {
+          "word": " have",
+          "start": 392.4453125,
+          "end": 393.0053125
+        },
+        {
+          "word": " not",
+          "start": 393.0053125,
+          "end": 393.3053125
+        },
+        {
+          "word": " been",
+          "start": 393.3053125,
+          "end": 393.4653125
+        },
+        {
+          "word": " evaluated",
+          "start": 393.4653125,
+          "end": 394.0053125
+        },
+        {
+          "word": " by",
+          "start": 394.0053125,
+          "end": 394.4853125
+        },
+        {
+          "word": " the",
+          "start": 394.4853125,
+          "end": 394.6853125
+        },
+        {
+          "word": " International",
+          "start": 394.6853125,
+          "end": 395.2053125
+        },
+        {
+          "word": " Union",
+          "start": 395.2053125,
+          "end": 395.6253125
+        }
+      ]
+    },
+    {
+      "start": 395.6253125,
+      "end": 400.7453125,
+      "text": " for Conservation of Nature and are not on any endangered list.",
+      "words": [
+        {
+          "word": " for",
+          "start": 395.6253125,
+          "end": 395.8853125
+        },
+        {
+          "word": " Conservation",
+          "start": 395.8853125,
+          "end": 396.4053125
+        },
+        {
+          "word": " of",
+          "start": 396.4053125,
+          "end": 396.6653125
+        },
+        {
+          "word": " Nature",
+          "start": 396.6653125,
+          "end": 397.2653125
+        },
+        {
+          "word": " and",
+          "start": 397.2653125,
+          "end": 398.1253125
+        },
+        {
+          "word": " are",
+          "start": 398.1253125,
+          "end": 398.3853125
+        },
+        {
+          "word": " not",
+          "start": 398.3853125,
+          "end": 398.7453125
+        },
+        {
+          "word": " on",
+          "start": 398.7453125,
+          "end": 399.0253125
+        },
+        {
+          "word": " any",
+          "start": 399.0253125,
+          "end": 399.5253125
+        },
+        {
+          "word": " endangered",
+          "start": 399.5253125,
+          "end": 400.1853125
+        },
+        {
+          "word": " list.",
+          "start": 400.1853125,
+          "end": 400.7453125
+        }
+      ]
+    },
+    {
+      "start": 401.5453125,
+      "end": 405.0853125,
+      "text": " Some researchers have described them as thriving.",
+      "words": [
+        {
+          "word": " Some",
+          "start": 401.5453125,
+          "end": 401.9653125
+        },
+        {
+          "word": " researchers",
+          "start": 401.9653125,
+          "end": 402.5653125
+        },
+        {
+          "word": " have",
+          "start": 402.5653125,
+          "end": 403.2053125
+        },
+        {
+          "word": " described",
+          "start": 403.2053125,
+          "end": 403.6653125
+        },
+        {
+          "word": " them",
+          "start": 403.6653125,
+          "end": 404.10531249999997
+        },
+        {
+          "word": " as",
+          "start": 404.10531249999997,
+          "end": 404.6253125
+        },
+        {
+          "word": " thriving.",
+          "start": 404.6253125,
+          "end": 405.0853125
+        }
+      ]
+    },
+    {
+      "start": 406.1453125,
+      "end": 409.5453125,
+      "text": " Does anyone have any questions they'd like to ask?",
+      "words": [
+        {
+          "word": " Does",
+          "start": 406.1453125,
+          "end": 406.6253125
+        },
+        {
+          "word": " anyone",
+          "start": 406.6253125,
+          "end": 406.9853125
+        },
+        {
+          "word": " have",
+          "start": 406.9853125,
+          "end": 407.4653125
+        },
+        {
+          "word": " any",
+          "start": 407.4653125,
+          "end": 407.7453125
+        },
+        {
+          "word": " questions",
+          "start": 407.7453125,
+          "end": 408.2453125
+        },
+        {
+          "word": " they'd",
+          "start": 408.2453125,
+          "end": 408.7053125
+        },
+        {
+          "word": " like",
+          "start": 408.7053125,
+          "end": 408.9053125
+        },
+        {
+          "word": " to",
+          "start": 408.9053125,
+          "end": 409.0653125
+        },
+        {
+          "word": " ask?",
+          "start": 409.0653125,
+          "end": 409.5453125
+        }
+      ]
+    },
+    {
+      "start": 412.3653125,
+      "end": 414.5653125,
+      "text": " That is the end of Part 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 412.3653125,
+          "end": 412.8053125
+        },
+        {
+          "word": " is",
+          "start": 412.8053125,
+          "end": 412.9653125
+        },
+        {
+          "word": " the",
+          "start": 412.9653125,
+          "end": 413.1653125
+        },
+        {
+          "word": " end",
+          "start": 413.1653125,
+          "end": 413.4253125
+        },
+        {
+          "word": " of",
+          "start": 413.4253125,
+          "end": 413.7253125
+        },
+        {
+          "word": " Part",
+          "start": 413.7253125,
+          "end": 413.9253125
+        },
+        {
+          "word": " 4.",
+          "start": 413.9253125,
+          "end": 414.5653125
+        }
+      ]
+    },
+    {
+      "start": 414.5653125,
+      "end": 418.9453125,
+      "text": " You now have one minute to check your answers to part 4.",
+      "words": [
+        {
+          "word": " You",
+          "start": 414.5653125,
+          "end": 415.2253125
+        },
+        {
+          "word": " now",
+          "start": 415.2253125,
+          "end": 415.5053125
+        },
+        {
+          "word": " have",
+          "start": 415.5053125,
+          "end": 415.7653125
+        },
+        {
+          "word": " one",
+          "start": 415.7653125,
+          "end": 416.0853125
+        },
+        {
+          "word": " minute",
+          "start": 416.0853125,
+          "end": 416.3253125
+        },
+        {
+          "word": " to",
+          "start": 416.3253125,
+          "end": 416.7253125
+        },
+        {
+          "word": " check",
+          "start": 416.7253125,
+          "end": 417.0053125
+        },
+        {
+          "word": " your",
+          "start": 417.0053125,
+          "end": 417.2253125
+        },
+        {
+          "word": " answers",
+          "start": 417.2253125,
+          "end": 417.6253125
+        },
+        {
+          "word": " to",
+          "start": 417.6253125,
+          "end": 417.9453125
+        },
+        {
+          "word": " part",
+          "start": 417.9453125,
+          "end": 418.1653125
+        },
+        {
+          "word": " 4.",
+          "start": 418.1653125,
+          "end": 418.9453125
+        }
+      ]
+    }
+  ]
+}

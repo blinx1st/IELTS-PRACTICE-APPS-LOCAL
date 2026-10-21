@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/4f2179d4be363797c34d231627ea01bebdbfeb70231125d17f4d781773590478.mp3",
+    "sha256": "4f2179d4be363797c34d231627ea01bebdbfeb70231125d17f4d781773590478",
+    "duration": 449.344,
+    "start": 0,
+    "end": 449.344,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear the manager of a child care service at a primary school, talking to parents at an open day about the school's child care service offered before and after school. First you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15. Good afternoon. My name is Mrs Carter and I run the before and after school extended hours childcare service. I hope you've had a chance to have a good look around the school and talk to staff and pupils. I know that many of you are interested in using our childcare service when your child joins the school and perhaps you already know something about it but for those that don't I'll go through the main details now. We offer child care for children from the ages of 4 to 11, both before and after school. I know that many parents who work find this service in"
+    },
+    {
+      "name": "ending",
+      "start": 384.344,
+      "end": 449.344,
+      "text": "hopefully children will benefit in all sorts of ways from this. Cooking is another popular activity. They make a different sort of cake or pizza or bread each week. Although the younger children love doing it, we found that the mess was just too much. So we've decided to restrict this to the overlaids as they better able to clean up after themselves. That is the end of Part 2. You now have half a minute to check your answers to Part 2."
+    }
+  ]
+}

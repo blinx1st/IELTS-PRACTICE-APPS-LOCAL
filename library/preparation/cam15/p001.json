@@ -1,0 +1,57 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 1,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.8901977539062,
+  "text": "*CAMBRIDGE\n&}\n|\naA\nt\n1\n=|\nwiTER BhAms\nAUTHENTIC PRACTICE TESFS\nProduced by Cambridge Exams Publishing\nWITH\nNes\nBANK\n//\na\n",
+  "blocks": [
+    {
+      "box": [
+        31.3113415866838,
+        56.14447456922612,
+        575.8065555223483,
+        121.35160664839881
+      ],
+      "text": "*CAMBRIDGE\n&}\n|\n"
+    },
+    {
+      "box": [
+        65.86178747543833,
+        386.17321290243353,
+        295.98214725590867,
+        412.1112356662558
+      ],
+      "text": "aA\nt\n1\n=|\nwiTER BhAms\n"
+    },
+    {
+      "box": [
+        65.50188699743047,
+        497.3824606068622,
+        291.987304669818,
+        509.63131956744706
+      ],
+      "text": "AUTHENTIC PRACTICE TESFS\n"
+    },
+    {
+      "box": [
+        65.50188699743047,
+        520.4160911993652,
+        290.6196945688985,
+        532.3046982166317
+      ],
+      "text": "Produced by Cambridge Exams Publishing\n"
+    },
+    {
+      "box": [
+        447.7161946417775,
+        689.2094153850514,
+        530.0686173333319,
+        743.6044127934405
+      ],
+      "text": "WITH\nNes\nBANK\n//\na\n"
+    }
+  ]
+}

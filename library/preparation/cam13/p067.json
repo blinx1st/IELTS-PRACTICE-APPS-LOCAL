@@ -1,0 +1,120 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 67,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nREADING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on Reading\nPassage 3 below.\nWhatever happened to the Harappan Civilisation?\nNew research sheds light on the disappearance of an ancient society\nA\nThe Harappan Civilisation of ancient Pakistan and India flourished 5,000 years\nago, but a thousand years later their cities were abandoned. The Harappan\nCivilisation was a sophisticated Bronze Age society who built ‘megacities’ and\ntraded internationally in luxury craft products, and yet seemed to have left almost\nno depictions of themselves. But their lack of self-imagery — at a time when the\nEgyptians were carving and painting representations of themselves all over their\ntemples — is only part of the mystery.\nB\n‘There is plenty of archaeological evidence to tell us about the rise of the Harappan\nCivilisation, but relatively little about its fall,’ explains archaeologist Dr Cameron\nPetrie of the University of Cambridge. ‘As populations increased, cities were\nbuilt that had great baths, craft workshops, palaces and halls laid out in distinct\nsectors. Houses were arranged in blocks, with wide main streets and narrow\nalleyways, and many had their own wells and drainage systems. It was very much\na ‘thriving’ civilisation.’ Then around 2100 BC, a transformation began. Streets\nwent uncleaned, buildings started to be abandoned, and ritual structures fell out of\nuse. After their final demise, a millennium passed before really large-scale cities\nappeared once more in South Asia.\nC\nSome have claimed that major glacier-fed rivers changed their course, dramatically\naffecting the water supply and agriculture; or that the cities could not cope with an\nincreasing population, they exhausted their resource base, the trading economy\nbroke down or they succumbed to invasion and conflict; and yet others that climate\nchange caused an environmental change that affected food and water provision.\n‘It is unlikely that there was a single cause for the decline of the civilisation. But the\nfact is, until now, we have had little solid evidence from the area for most of the key\nelements,’ said Petrie. ‘A lot of the archaeological debate has really only been well-\nargued speculation.’\nD_\nAresearch team led by Petrie, together with Dr Ravindanath Singh of Banaras\nHindu University in India, found early in their investigations that many of the\narchaeological sites were not where they were supposed to be, completely altering\nunderstanding of the way that this region was inhabited in the past. When they\ncarried out a survey of how the larger area was settled in relation to sources of\nwater, they found inaccuracies in the published geographic locations of ancient\nsettlements ranging from several hundred metres to many kilometres. They realised\n68\n",
+  "blocks": [
+    {
+      "box": [
+        92.16000366210938,
+        54.0,
+        125.25839233398438,
+        63.369346618652344
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        91.44000244140625,
+        92.15997314453125,
+        268.8840026855469,
+        104.77261352539062
+      ],
+      "text": "READING PASSAGE 3\n"
+    },
+    {
+      "box": [
+        90.3599853515625,
+        122.760009765625,
+        571.3198852539062,
+        149.4119110107422
+      ],
+      "text": "You should spend about 20 minutes on Questions 27-40, which are based on Reading\nPassage 3 below.\n"
+    },
+    {
+      "box": [
+        135.3599853515625,
+        169.20001220703125,
+        534.68994140625,
+        187.218017578125
+      ],
+      "text": "Whatever happened to the Harappan Civilisation?\n"
+    },
+    {
+      "box": [
+        143.63998413085938,
+        201.5999755859375,
+        522.4284057617188,
+        216.37474060058594
+      ],
+      "text": "New research sheds light on the disappearance of an ancient society\n"
+    },
+    {
+      "box": [
+        88.91995239257812,
+        230.03997802734375,
+        558.835205078125,
+        331.57330322265625
+      ],
+      "text": "A\nThe Harappan Civilisation of ancient Pakistan and India flourished 5,000 years\nago, but a thousand years later their cities were abandoned. The Harappan\nCivilisation was a sophisticated Bronze Age society who built ‘megacities’ and\ntraded internationally in luxury craft products, and yet seemed to have left almost\nno depictions of themselves. But their lack of self-imagery — at a time when the\nEgyptians were carving and painting representations of themselves all over their\ntemples — is only part of the mystery.\n"
+    },
+    {
+      "box": [
+        88.19990539550781,
+        346.67999267578125,
+        569.591796875,
+        489.9711608886719
+      ],
+      "text": "B\n‘There is plenty of archaeological evidence to tell us about the rise of the Harappan\nCivilisation, but relatively little about its fall,’ explains archaeologist Dr Cameron\nPetrie of the University of Cambridge. ‘As populations increased, cities were\nbuilt that had great baths, craft workshops, palaces and halls laid out in distinct\nsectors. Houses were arranged in blocks, with wide main streets and narrow\nalleyways, and many had their own wells and drainage systems. It was very much\na ‘thriving’ civilisation.’ Then around 2100 BC, a transformation began. Streets\nwent uncleaned, buildings started to be abandoned, and ritual structures fell out of\nuse. After their final demise, a millennium passed before really large-scale cities\nappeared once more in South Asia.\n"
+    },
+    {
+      "box": [
+        86.04000854492188,
+        506.8800354003906,
+        568.2381591796875,
+        580.6943969726562
+      ],
+      "text": "C\nSome have claimed that major glacier-fed rivers changed their course, dramatically\naffecting the water supply and agriculture; or that the cities could not cope with an\nincreasing population, they exhausted their resource base, the trading economy\nbroke down or they succumbed to invasion and conflict; and yet others that climate\nchange caused an environmental change that affected food and water provision.\n"
+    },
+    {
+      "box": [
+        111.95993041992188,
+        581.0399780273438,
+        567.7037963867188,
+        636.4915161132812
+      ],
+      "text": "‘It is unlikely that there was a single cause for the decline of the civilisation. But the\nfact is, until now, we have had little solid evidence from the area for most of the key\nelements,’ said Petrie. ‘A lot of the archaeological debate has really only been well-\nargued speculation.’\n"
+    },
+    {
+      "box": [
+        84.9599380493164,
+        653.4000244140625,
+        540.6641235351562,
+        668.1748046875
+      ],
+      "text": "D_\nAresearch team led by Petrie, together with Dr Ravindanath Singh of Banaras\n"
+    },
+    {
+      "box": [
+        110.87982177734375,
+        668.52001953125,
+        569.44775390625,
+        756.3743896484375
+      ],
+      "text": "Hindu University in India, found early in their investigations that many of the\narchaeological sites were not where they were supposed to be, completely altering\nunderstanding of the way that this region was inhabited in the past. When they\ncarried out a survey of how the larger area was settled in relation to sources of\nwater, they found inaccuracies in the published geographic locations of ancient\nsettlements ranging from several hundred metres to many kilometres. They realised\n"
+    },
+    {
+      "box": [
+        83.15988159179688,
+        770.4000244140625,
+        96.07667541503906,
+        779.7693481445312
+      ],
+      "text": "68\n"
+    }
+  ]
+}

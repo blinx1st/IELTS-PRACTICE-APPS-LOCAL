@@ -1,0 +1,174 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 69,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 4\nRe J}\na 1718867188\nPART 2\nQuestions 11-20\npe\nQuestions 11-14\nCoenen”\nChoose the correct letter, A, B or C.\nListening test audio\n11.\nMany hotel managers are unaware that their staff often leave because of\nA _ alack of training.\nB\nlong hours.\nC\niow pay.\n12\nWhat is the impact of high staff turnover on managers?\nA\nanincreased workload\nBlow morale\nC_aninability to meet targets\n13.\nWhat mistake should managers always avoid?\nA\nfailing to treat staff equally\nB__\nreorganising shifts without warning\nC\nneglecting to have enough staff during busy periods\n14\nWhat unexpected benefit did Dunwich Hotel notice after improving staff\nretention rates?\nA a fall in customer complaints\nB_anincrease in loyalty club membership\nC_\narise in spending per customer\n76\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        63.013580322265625
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 4\nRe J}\na 1718867188\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        74.14505004882812,
+        455.5169982910156,
+        103.68862915039062
+      ],
+      "text": "PART 2\nQuestions 11-20\npe\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        110.4977035522461,
+        453.7857666015625,
+        124.5489501953125
+      ],
+      "text": "Questions 11-14\nCoenen”\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        133.5330810546875,
+        512.5186767578125,
+        149.02542114257812
+      ],
+      "text": "Choose the correct letter, A, B or C.\nListening test audio\n"
+    },
+    {
+      "box": [
+        70.90569305419922,
+        160.88755798339844,
+        476.5439147949219,
+        171.6961669921875
+      ],
+      "text": "11.\nMany hotel managers are unaware that their staff often leave because of\n"
+    },
+    {
+      "box": [
+        96.10059356689453,
+        180.6835479736328,
+        210.14724731445312,
+        194.37445068359375
+      ],
+      "text": "A _ alack of training.\n"
+    },
+    {
+      "box": [
+        96.46053314208984,
+        196.1604461669922,
+        179.38795471191406,
+        221.3665008544922
+      ],
+      "text": "B\nlong hours.\nC\niow pay.\n"
+    },
+    {
+      "box": [
+        70.90567779541016,
+        231.7932586669922,
+        382.3507080078125,
+        242.60186767578125
+      ],
+      "text": "12\nWhat is the impact of high staff turnover on managers?\n"
+    },
+    {
+      "box": [
+        96.10059356689453,
+        253.38894653320312,
+        259.4123840332031,
+        292.27227783203125
+      ],
+      "text": "A\nanincreased workload\nBlow morale\nC_aninability to meet targets\n"
+    },
+    {
+      "box": [
+        70.9056625366211,
+        303.0589294433594,
+        338.5476989746094,
+        313.8675537109375
+      ],
+      "text": "13.\nWhat mistake should managers always avoid?\n"
+    },
+    {
+      "box": [
+        96.1005630493164,
+        324.654541015625,
+        258.7842102050781,
+        335.8234558105469
+      ],
+      "text": "A\nfailing to treat staff equally\n"
+    },
+    {
+      "box": [
+        96.46047973632812,
+        338.69171142578125,
+        392.3028564453125,
+        363.5375061035156
+      ],
+      "text": "B__\nreorganising shifts without warning\nC\nneglecting to have enough staff during busy periods\n"
+    },
+    {
+      "box": [
+        70.90563201904297,
+        374.32452392578125,
+        467.8156433105469,
+        385.1331787109375
+      ],
+      "text": "14\nWhat unexpected benefit did Dunwich Hotel notice after improving staff\n"
+    },
+    {
+      "box": [
+        96.82041931152344,
+        388.3616943359375,
+        177.74661254882812,
+        397.00860595703125
+      ],
+      "text": "retention rates?\n"
+    },
+    {
+      "box": [
+        96.10057067871094,
+        408.51763916015625,
+        270.6293029785156,
+        422.20855712890625
+      ],
+      "text": "A a fall in customer complaints\n"
+    },
+    {
+      "box": [
+        96.82041931152344,
+        423.9945373535156,
+        325.3741455078125,
+        434.80316162109375
+      ],
+      "text": "B_anincrease in loyalty club membership\n"
+    },
+    {
+      "box": [
+        96.46051025390625,
+        437.6717834472656,
+        286.83331298828125,
+        448.8406982421875
+      ],
+      "text": "C_\narise in spending per customer\n"
+    },
+    {
+      "box": [
+        70.54573059082031,
+        731.0126342773438,
+        82.71487426757812,
+        739.2992553710938
+      ],
+      "text": "76\n"
+    }
+  ]
+}

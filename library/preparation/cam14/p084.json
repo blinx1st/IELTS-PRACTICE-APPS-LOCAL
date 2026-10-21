@@ -1,0 +1,129 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 84,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nQuestions 27-33\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-33 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n27\nRochman and her colleagues were the first people to research the problem of\nmarine debris.\n28\nThe creatures most in danger from ocean trash are certain seabirds.\n29\nThe studies Rochman has reviewed have already proved that populations of some\nbirds will soon become extinct.\n30\nRochman analysed papers on the different kinds of danger caused by ocean trash.\n31\nMost of the research analysed by Rochman and her colleagues was badly\ndesigned.\n32\nOne study examined by Rochman was expecting to find that mussels were harmed\nby eating plastic.\n33\nSome mussels choose to eat plastic in preference to their natural diet.\n92\n",
+  "blocks": [
+    {
+      "box": [
+        128.13418579101562,
+        91.42159271240234,
+        156.5378875732422,
+        99.7082290649414
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        127.41433715820312,
+        125.61469268798828,
+        216.9644012451172,
+        135.3424835205078
+      ],
+      "text": "Questions 27-33\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        152.2493133544922,
+        539.0562133789062,
+        165.2196807861328
+      ],
+      "text": "Do the following statements agree with the information given in Reading Passage 3?\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        177.80418395996094,
+        339.0516357421875,
+        188.9730682373047
+      ],
+      "text": "In boxes 27-33 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        162.68722534179688,
+        203.7189483642578,
+        445.1025695800781,
+        240.0816650390625
+      ],
+      "text": "TRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        262.7471008300781,
+        528.3375854492188,
+        284.7112731933594
+      ],
+      "text": "27\nRochman and her colleagues were the first people to research the problem of\nmarine debris.\n"
+    },
+    {
+      "box": [
+        125.61470794677734,
+        295.86041259765625,
+        481.56842041015625,
+        307.3895568847656
+      ],
+      "text": "28\nThe creatures most in danger from ocean trash are certain seabirds.\n"
+    },
+    {
+      "box": [
+        125.61473846435547,
+        316.0163269042969,
+        550.9771118164062,
+        338.3412170410156
+      ],
+      "text": "29\nThe studies Rochman has reviewed have already proved that populations of some\nbirds will soon become extinct.\n"
+    },
+    {
+      "box": [
+        125.25482940673828,
+        348.769775390625,
+        551.5671997070312,
+        361.7401123046875
+      ],
+      "text": "30\nRochman analysed papers on the different kinds of danger caused by ocean trash.\n"
+    },
+    {
+      "box": [
+        124.89488220214844,
+        368.9256896972656,
+        509.7654113769531,
+        392.6913146972656
+      ],
+      "text": "31\nMost of the research analysed by Rochman and her colleagues was badly\ndesigned.\n"
+    },
+    {
+      "box": [
+        124.8948974609375,
+        402.3989562988281,
+        552.8416748046875,
+        426.1649475097656
+      ],
+      "text": "32\nOne study examined by Rochman was expecting to find that mussels were harmed\nby eating plastic.\n"
+    },
+    {
+      "box": [
+        124.53497314453125,
+        435.15234375,
+        487.8997497558594,
+        447.402099609375
+      ],
+      "text": "33\nSome mussels choose to eat plastic in preference to their natural diet.\n"
+    },
+    {
+      "box": [
+        122.01548767089844,
+        728.4932861328125,
+        133.10845947265625,
+        736.7799072265625
+      ],
+      "text": "92\n"
+    }
+  ]
+}

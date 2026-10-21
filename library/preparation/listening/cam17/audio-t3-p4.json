@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/4002bdf50c2bccfad57240f722e3940e5e1eafb98416a13689edfd91a456b928.mp3",
+    "sha256": "4002bdf50c2bccfad57240f722e3940e5e1eafb98416a13689edfd91a456b928",
+    "duration": 485.701,
+    "start": 0,
+    "end": 485.701,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T3P4.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 4. You will hear a zoology student giving a presentation on bird migration. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. Scientists believe that a majority of the Earth's bird population migrate in some fashion or other. Some travel seasonally for relatively short distances, such as birds that move from their winter habitats in lowlands to mountain tops for the summers. Others, like With the Arctic turn, travel more than 25,000 miles seasonally between the northern and southern poles."
+    },
+    {
+      "name": "ending",
+      "start": 420.701,
+      "end": 485.701,
+      "text": "You That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ]
+}

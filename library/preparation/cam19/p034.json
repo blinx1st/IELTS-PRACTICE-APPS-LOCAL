@@ -1,0 +1,183 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 34,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Listening\nPART 2\nQuestions 11-20\nQuestions 11-16\nChoose the correct letter, A, B or C.\nWorking as a lifeboat volunteer\n11.\nWhat made David leave London and move to Northsea?\nA\nHe was eager to develop a hobby.\nB\nHe wanted to work shorter hours.\nC\nHe found his job in website design unsatisfying.\n12\nThe Lifeboat Institution in Northsea was built with money provided by\nA a local organisation.\nB a local resident.\nC\nthe local council.\n13\nInhis health assessment, the doctor was concerned about the fact that David\nA\nmight be colour blind.\nB_\nwas rather short-sighted.\nC\nhad undergone eye surgery.\n14\nAfter arriving at the lifeboat station, they aim to launch the boat within\nA _\nfive minutes.\nB _\nsix to eight minutes.\nC _ eight and a half minutes.\n15\nAsa ‘helmsman’, David has the responsibility of deciding\nA\nwhowill be the members of his crew.\nB_\nwhat equipment it will be necessary to take.\nC _\nif the lifeboat should be launched.\n16\nAs well as going out on the lifeboat, David\nA\ngives talks on safety at sea.\nB\nhelps with fundraising.\nC _\nrecruits new volunteers.\n35\n",
+  "blocks": [
+    {
+      "box": [
+        429.0234069824219,
+        32.392730712890625,
+        472.23529052734375,
+        42.8408203125
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        44.2700309753418,
+        67.30487823486328,
+        227.74765014648438,
+        78.47349548339844
+      ],
+      "text": "PART 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        44.989871978759766,
+        94.29877471923828,
+        133.06210327148438,
+        104.38660430908203
+      ],
+      "text": "Questions 11-16\n"
+    },
+    {
+      "box": [
+        44.62995147705078,
+        120.21294403076172,
+        216.22494506835938,
+        129.9405059814453
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        154.76516723632812,
+        148.64651489257812,
+        360.89422607421875,
+        162.33709716796875
+      ],
+      "text": "Working as a lifeboat volunteer\n"
+    },
+    {
+      "box": [
+        44.62995147705078,
+        170.6016082763672,
+        338.9949951171875,
+        180.32911682128906
+      ],
+      "text": "11.\nWhat made David leave London and move to Northsea?\n"
+    },
+    {
+      "box": [
+        68.02469635009766,
+        191.47689819335938,
+        320.04541015625,
+        228.1997833251953
+      ],
+      "text": "A\nHe was eager to develop a hobby.\nB\nHe wanted to work shorter hours.\nC\nHe found his job in website design unsatisfying.\n"
+    },
+    {
+      "box": [
+        44.989871978759766,
+        236.8267059326172,
+        400.5898132324219,
+        247.63507080078125
+      ],
+      "text": "12\nThe Lifeboat Institution in Northsea was built with money provided by\n"
+    },
+    {
+      "box": [
+        68.02469635009766,
+        256.2623291015625,
+        188.03253173828125,
+        269.9529113769531
+      ],
+      "text": "A a local organisation.\n"
+    },
+    {
+      "box": [
+        68.38461303710938,
+        269.579345703125,
+        171.6380615234375,
+        292.6227722167969
+      ],
+      "text": "B a local resident.\nC\nthe local council.\n"
+    },
+    {
+      "box": [
+        44.98988723754883,
+        303.0517883300781,
+        440.78375244140625,
+        313.4998779296875
+      ],
+      "text": "13\nInhis health assessment, the doctor was concerned about the fact that David\n"
+    },
+    {
+      "box": [
+        68.38462829589844,
+        324.2870178222656,
+        226.83523559570312,
+        361.0091552734375
+      ],
+      "text": "A\nmight be colour blind.\nB_\nwas rather short-sighted.\nC\nhad undergone eye surgery.\n"
+    },
+    {
+      "box": [
+        44.98990249633789,
+        369.6368103027344,
+        401.97186279296875,
+        429.0374755859375
+      ],
+      "text": "14\nAfter arriving at the lifeboat station, they aim to launch the boat within\nA _\nfive minutes.\nB _\nsix to eight minutes.\nC _ eight and a half minutes.\n"
+    },
+    {
+      "box": [
+        45.349822998046875,
+        435.8619079589844,
+        343.14691162109375,
+        446.6702880859375
+      ],
+      "text": "15\nAsa ‘helmsman’, David has the responsibility of deciding\n"
+    },
+    {
+      "box": [
+        68.74456787109375,
+        456.7371826171875,
+        269.7593078613281,
+        465.7441711425781
+      ],
+      "text": "A\nwhowill be the members of his crew.\n"
+    },
+    {
+      "box": [
+        69.1044692993164,
+        469.3343505859375,
+        302.69183349609375,
+        494.90228271484375
+      ],
+      "text": "B_\nwhat equipment it will be necessary to take.\nC _\nif the lifeboat should be launched.\n"
+    },
+    {
+      "box": [
+        45.7097282409668,
+        502.8067932128906,
+        271.2439270019531,
+        513.9754638671875
+      ],
+      "text": "16\nAs well as going out on the lifeboat, David\n"
+    },
+    {
+      "box": [
+        68.74453735351562,
+        522.9622802734375,
+        226.36746215820312,
+        561.4873046875
+      ],
+      "text": "A\ngives talks on safety at sea.\nB\nhelps with fundraising.\nC _\nrecruits new volunteers.\n"
+    },
+    {
+      "box": [
+        463.2157897949219,
+        670.1691284179688,
+        474.3085021972656,
+        678.45556640625
+      ],
+      "text": "35\n"
+    }
+  ]
+}

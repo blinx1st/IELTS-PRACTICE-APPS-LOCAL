@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/2a1ee1874269370525776237f8e0df93512bc0f407d0728752d9b969e9aa9f05.mp3",
+    "sha256": "2a1ee1874269370525776237f8e0df93512bc0f407d0728752d9b969e9aa9f05",
+    "duration": 401.519,
+    "start": 0,
+    "end": 401.519,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-17\\Cambridge IELTS 17 Audio\\READY\\C17T2P3.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 3. You will hear two theatre studies students discussing stage and screen performances of Shakespeare's play Romeo and Juliet. First you have some time to look at questions 21 and 22. Now listen carefully and answer questions 21 and 22. Did you make notes while you were watching the performances of Romeo and Juliet, Gemma? Yes, I did. I found it quite hard though. I kept getting too involved in the play. Me too. I ended up not taking notes. I wrote down my impressions when I got home. Do you mind if I check a few things with you? In case I've missed anything. And I've also got some questions about our assignment. No, it's good to talk things through. I may have missed things too. Okay, great. So first of all, I'm not sure how much information we should include in our reviews. Right. Well, I don't think we need to describe what happens, especially as Romeo and Juliet is one of Shakespeare's most well-known plays. Yeah, everyone knows the story. In an essay, we'd focus on the poetry and Shakespeare's use of imagery, etc. But that isn't really relevant in a review. We're supposed to focus on how effective this particular production is. Hmm. We should say what made it a success or a..."
+    },
+    {
+      "name": "ending",
+      "start": 336.519,
+      "end": 401.519,
+      "text": "than any other writer. What's the reason for his international appeal, do you think? I was reading that it's because his plays are about basic themes that people everywhere are familiar with. Yeah. And they can also be understood on different levels, the characters have such depth. Right. Which allows directors to experiment and find new angles. That's really important. That is the end of Part 3. You now have half a minute to check your answers to Part 3."
+    }
+  ]
+}

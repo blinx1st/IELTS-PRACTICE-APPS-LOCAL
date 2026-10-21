@@ -1,0 +1,84 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 60,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nplay, the means are more important than the ends. It is freely chosen, spontaneous and\nvoluntary. If a child is pressured, they will likely not think ofthe activity as play. Play is\nactively engaged: Players must be physically and/or mentally involved in the activity. Play\nis non-literal. It involves make-believe.\nAccording to this view, children’s playful behaviors can range in degree from 0% to 100%\nplayful. Rubin and colleagues did not assign greater weight to any one dimension in determining\nplayfulness; however, other researchers have suggested that process orientation and a lack of\nobvious functional purpose may be the most important aspects of play (e.g. Pellegrini 2009).\nFrom the perspective of a continuum, play can thus blend with other motives and attitudes that\nare less playful, such as work. Unlike play, work is typically not viewed as enjoyable and it is\nextrinsically motivated (i.e. it is goal oriented). Researcher Joan Goodman (1994) suggested that\nhybrid forms of work and play are not a detriment to learning; rather, they can provide optimal\ncontexts for learning. For example, a child may be engaged in a difficult, goal-directed activity\nset up by their teacher, but they may still be actively engaged and intrinsically motivated. At this\nmid-point between play and work, the child’s motivation, coupled with guidance from an adult,\ncan create robust opportunities for playful learning.\nCritically, recent research supports the idea that adults can facilitate children’s learning while\nmaintaining a playful approach in interactions known as ‘guided play’ (Fisher et al. 2011). The\nadult’s role in play varies as a function of their educational goals and the child’s developmental\nlevel (Hirsch-Pasek et al. 2009).\nGuided play takes two forms. At a very basic level, adults can enrich the child’s environment by\nproviding objects or experiences that promote aspects of a curriculum. In the more direct form\nof guided play, parents or other adults can support children’s play by joining in the fun as a\nco-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging\nfurther exploration or new facets to the child’s activity. Although playful learning can be\nsomewhat structured, it must also be child-centered (Nicolopolou et al. 2006). Play should stem\nfrom the child’s own desire.\nBoth free and guided play are essential elements in a child-centered approach to playful learning.\nIntrinsically motivated free play provides the child with true autonomy, while guided play is an\navenue through which parents and educators can provide more targeted learning experiences.\nIn either case, play should be actively engaged, it should be predominantly child-directed, and it\nmust be fun.\n68\n",
+  "blocks": [
+    {
+      "box": [
+        127.77426147460938,
+        91.0616683959961,
+        156.92300415039062,
+        99.34830474853516
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        150.0897674560547,
+        125.25480651855469,
+        547.3777465820312,
+        173.8543243408203
+      ],
+      "text": "play, the means are more important than the ends. It is freely chosen, spontaneous and\nvoluntary. If a child is pressured, they will likely not think ofthe activity as play. Play is\nactively engaged: Players must be physically and/or mentally involved in the activity. Play\nis non-literal. It involves make-believe.\n"
+    },
+    {
+      "box": [
+        125.6146469116211,
+        190.04171752929688,
+        552.6760864257812,
+        242.24452209472656
+      ],
+      "text": "According to this view, children’s playful behaviors can range in degree from 0% to 100%\nplayful. Rubin and colleagues did not assign greater weight to any one dimension in determining\nplayfulness; however, other researchers have suggested that process orientation and a lack of\nobvious functional purpose may be the most important aspects of play (e.g. Pellegrini 2009).\n"
+    },
+    {
+      "box": [
+        124.53485107421875,
+        254.82862854003906,
+        551.178466796875,
+        358.1397399902344
+      ],
+      "text": "From the perspective of a continuum, play can thus blend with other motives and attitudes that\nare less playful, such as work. Unlike play, work is typically not viewed as enjoyable and it is\nextrinsically motivated (i.e. it is goal oriented). Researcher Joan Goodman (1994) suggested that\nhybrid forms of work and play are not a detriment to learning; rather, they can provide optimal\ncontexts for learning. For example, a child may be engaged in a difficult, goal-directed activity\nset up by their teacher, but they may still be actively engaged and intrinsically motivated. At this\nmid-point between play and work, the child’s motivation, coupled with guidance from an adult,\ncan create robust opportunities for playful learning.\n"
+    },
+    {
+      "box": [
+        124.17484283447266,
+        371.4451599121094,
+        541.4927978515625,
+        421.84619140625
+      ],
+      "text": "Critically, recent research supports the idea that adults can facilitate children’s learning while\nmaintaining a playful approach in interactions known as ‘guided play’ (Fisher et al. 2011). The\nadult’s role in play varies as a function of their educational goals and the child’s developmental\nlevel (Hirsch-Pasek et al. 2009).\n"
+    },
+    {
+      "box": [
+        123.09507751464844,
+        436.5920715332031,
+        545.5995483398438,
+        523.3435668945312
+      ],
+      "text": "Guided play takes two forms. At a very basic level, adults can enrich the child’s environment by\nproviding objects or experiences that promote aspects of a curriculum. In the more direct form\nof guided play, parents or other adults can support children’s play by joining in the fun as a\nco-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging\nfurther exploration or new facets to the child’s activity. Although playful learning can be\nsomewhat structured, it must also be child-centered (Nicolopolou et al. 2006). Play should stem\nfrom the child’s own desire.\n"
+    },
+    {
+      "box": [
+        122.37516021728516,
+        540.251220703125,
+        549.9512939453125,
+        600.3670043945312
+      ],
+      "text": "Both free and guided play are essential elements in a child-centered approach to playful learning.\nIntrinsically motivated free play provides the child with true autonomy, while guided play is an\navenue through which parents and educators can provide more targeted learning experiences.\nIn either case, play should be actively engaged, it should be predominantly child-directed, and it\nmust be fun.\n"
+    },
+    {
+      "box": [
+        121.29536437988281,
+        727.7734375,
+        132.3883514404297,
+        736.06005859375
+      ],
+      "text": "68\n"
+    }
+  ]
+}

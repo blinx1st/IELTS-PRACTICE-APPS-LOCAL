@@ -1,0 +1,162 @@
+{
+  "id": "cam13-listening-test3",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "850"
+    ],
+    "2": [
+      "bike",
+      "bicycle"
+    ],
+    "3": [
+      "parking"
+    ],
+    "4": [
+      "30",
+      "thirty"
+    ],
+    "5": [
+      "weekend",
+      "weekends"
+    ],
+    "6": [
+      "cinema"
+    ],
+    "7": [
+      "hospital"
+    ],
+    "8": [
+      "dentist"
+    ],
+    "9": [
+      "Thursday"
+    ],
+    "10": [
+      "café",
+      "cafe"
+    ],
+    "11": [
+      "F"
+    ],
+    "12": [
+      "D"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "G"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "D"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "H"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "E"
+    ],
+    "31": [
+      "tongue",
+      "tongues"
+    ],
+    "32": [
+      "plants"
+    ],
+    "33": [
+      "snakes"
+    ],
+    "34": [
+      "sky"
+    ],
+    "35": [
+      "partner",
+      "partners"
+    ],
+    "36": [
+      "contact"
+    ],
+    "37": [
+      "protection"
+    ],
+    "38": [
+      "tail",
+      "tails"
+    ],
+    "39": [
+      "steps"
+    ],
+    "40": [
+      "injury",
+      "injuries"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        17,
+        18
+      ],
+      "answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-13/BAN_GOC/Cam 13.pdf",
+    "pdfPage": 120,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

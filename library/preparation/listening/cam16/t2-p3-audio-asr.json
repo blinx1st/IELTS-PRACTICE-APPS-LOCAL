@@ -1,0 +1,207 @@
+{
+  "book": 16,
+  "test": 2,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 2 Part 3.mp3",
+  "sha256": "fe9f06395f5b77d8d063c2e7cada196ee557aebcedfb6c2f9f2958f122196ed8",
+  "duration": 416.221,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      316.6791875,
+      416.6791875
+    ]
+  ],
+  "text": "Part 3. You will hear two psychology students called Luke and Susie discussing their assignment on sleep and dreams. First you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. So Luke, for our next psychology assignment we have to do something on sleep and dreams. rights. I've just read an article suggesting why we tend to forget most of our dreams soon after we wake up. I mean most of my dreams aren't that interesting anyway. But what it said was that if we remembered everything, we might get mixed up about what actually happened and what we dreamed. So it's a sort of protection. I hadn't heard that idea before. I'd always assumed that it was just that we didn't have room in our memories for all that stuff. Me too. What do you think about the idea that our dreams may predict the future? It's a belief that you get all over the world. Yeah, lots of people have a story of it happening to them. But the explanation I've read is that for each dream that comes true, we have thousands that don't, but we don't notice those. We don't even remember them. We just remembered the In fact, while they're still half asleep. Right. And we'll have to check the ethical guidelines for this sort of research. Mmm. Because our experiment involves humans, so there are special regulations. Yes. I had a look at those for another assignment I did. There's a whole section on risk assessment. And another section on making sure they aren't put under any unnecessary stress. Let's hope they don't have any bad dreams. Yeah. Then when we've collected all our data, we have to analyze it and calculate the correlation between our two variables. That's time sleeping and number of dreams. And then present our results visually in a graph. Right. And the final thing is to think about our research and evaluate it. So that seems quite straightforward. Yeah, so now let's get started. That is the end of part three. You now have half a minute to check your answers to part three.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Part 3. You will hear two psychology students called Luke and Susie discussing their assignment on sleep and dreams."
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": "First you have some time to look at questions 21 to 24."
+    },
+    {
+      "start": 30.0,
+      "end": 53.2,
+      "text": "Now listen carefully and answer questions 21 to 24."
+    },
+    {
+      "start": 53.2,
+      "end": 59.6,
+      "text": "So Luke, for our next psychology assignment we have to do something on sleep and dreams."
+    },
+    {
+      "start": 59.6,
+      "end": 65.8,
+      "text": "rights. I've just read an article suggesting why we tend to forget most of our dreams"
+    },
+    {
+      "start": 65.8,
+      "end": 71.68,
+      "text": "soon after we wake up. I mean most of my dreams aren't that interesting anyway. But what"
+    },
+    {
+      "start": 71.68,
+      "end": 77.32,
+      "text": "it said was that if we remembered everything, we might get mixed up about what actually"
+    },
+    {
+      "start": 77.32,
+      "end": 85.12,
+      "text": "happened and what we dreamed. So it's a sort of protection. I hadn't heard that idea before."
+    },
+    {
+      "start": 85.12,
+      "end": 90.04,
+      "text": "I'd always assumed that it was just that we didn't have room in our memories for all that stuff."
+    },
+    {
+      "start": 90.04,
+      "end": 91.04,
+      "text": "Me too."
+    },
+    {
+      "start": 91.76,
+      "end": 96.2,
+      "text": "What do you think about the idea that our dreams may predict the future?"
+    },
+    {
+      "start": 96.2,
+      "end": 98.84,
+      "text": "It's a belief that you get all over the world."
+    },
+    {
+      "start": 98.84,
+      "end": 103.08,
+      "text": "Yeah, lots of people have a story of it happening to them."
+    },
+    {
+      "start": 103.08,
+      "end": 107.92,
+      "text": "But the explanation I've read is that for each dream that comes true,"
+    },
+    {
+      "start": 107.92,
+      "end": 111.96,
+      "text": "we have thousands that don't, but we don't notice those."
+    },
+    {
+      "start": 111.96,
+      "end": 113.88,
+      "text": "We don't even remember them."
+    },
+    {
+      "start": 113.88,
+      "end": 115.0,
+      "text": "We just remembered the"
+    },
+    {
+      "start": 316.68,
+      "end": 319.98,
+      "text": "In fact, while they're still half asleep."
+    },
+    {
+      "start": 319.98,
+      "end": 320.98,
+      "text": "Right."
+    },
+    {
+      "start": 320.98,
+      "end": 325.48,
+      "text": "And we'll have to check the ethical guidelines for this sort of research."
+    },
+    {
+      "start": 325.48,
+      "end": 326.48,
+      "text": "Mmm."
+    },
+    {
+      "start": 326.48,
+      "end": 331.78,
+      "text": "Because our experiment involves humans, so there are special regulations."
+    },
+    {
+      "start": 331.78,
+      "end": 332.78,
+      "text": "Yes."
+    },
+    {
+      "start": 332.78,
+      "end": 336.38,
+      "text": "I had a look at those for another assignment I did."
+    },
+    {
+      "start": 336.38,
+      "end": 339.48,
+      "text": "There's a whole section on risk assessment."
+    },
+    {
+      "start": 339.48,
+      "end": 344.88,
+      "text": "And another section on making sure they aren't put under any unnecessary stress."
+    },
+    {
+      "start": 344.88,
+      "end": 347.88,
+      "text": "Let's hope they don't have any bad dreams."
+    },
+    {
+      "start": 347.88,
+      "end": 348.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 348.88,
+      "end": 352.88,
+      "text": "Then when we've collected all our data,"
+    },
+    {
+      "start": 352.88,
+      "end": 357.88,
+      "text": "we have to analyze it and calculate the correlation between our two variables."
+    },
+    {
+      "start": 357.88,
+      "end": 361.88,
+      "text": "That's time sleeping and number of dreams."
+    },
+    {
+      "start": 361.88,
+      "end": 365.88,
+      "text": "And then present our results visually in a graph."
+    },
+    {
+      "start": 365.88,
+      "end": 370.88,
+      "text": "Right. And the final thing is to think about our research and evaluate it."
+    },
+    {
+      "start": 370.88,
+      "end": 373.88,
+      "text": "So that seems quite straightforward."
+    },
+    {
+      "start": 373.88,
+      "end": 376.36,
+      "text": "Yeah, so now let's get started."
+    },
+    {
+      "start": 379.64,
+      "end": 381.4,
+      "text": "That is the end of part three."
+    },
+    {
+      "start": 382.28,
+      "end": 386.12,
+      "text": "You now have half a minute to check your answers to part three."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

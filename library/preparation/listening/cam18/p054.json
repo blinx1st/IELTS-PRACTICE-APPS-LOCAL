@@ -1,0 +1,120 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 54,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Test 2\nielts-fighter.com\nWRITING\nWRITING TASK\n1\nYou should spend about 20 minutes on this task.\nThe chart below shows the number of households in the US by their annual\nincome in 2007, 2011 and 2015.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\noS-\nNumber of US households (in millions), by annual income\n8\n= 30\n=\nw 25\nBR)\n2£ 20\na\nFs 15\n=\n‘5 10\nB85\n£\n30\n2007\n2011\n2015\nYear\nHi Less than $25,000 [_]$25,000-$49,999\n[_]$50,000-$74,999\n$75,000-$99,999\n[$100,000 or more\n52\n>| ® p. 130\n",
+  "blocks": [
+    {
+      "box": [
+        49.66345977783203,
+        29.870067596435547,
+        79.15562438964844,
+        37.79533004760742
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        232.48255920410156,
+        50.743099212646484,
+        469.6399230957031,
+        73.42494201660156
+      ],
+      "text": "ielts-fighter.com\nWRITING\n"
+    },
+    {
+      "box": [
+        48.22394561767578,
+        105.44488525390625,
+        169.4801788330078,
+        115.17140197753906
+      ],
+      "text": "WRITING TASK\n1\n"
+    },
+    {
+      "box": [
+        48.22394561767578,
+        132.7957763671875,
+        284.1703796386719,
+        143.24273681640625
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        60.459842681884766,
+        166.62451171875,
+        456.0689697265625,
+        189.30665588378906
+      ],
+      "text": "The chart below shows the number of households in the US by their annual\nincome in 2007, 2011 and 2015.\n"
+    },
+    {
+      "box": [
+        60.459842681884766,
+        205.13168334960938,
+        465.2098693847656,
+        228.5343017578125
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        48.22393035888672,
+        251.5562286376953,
+        168.40231323242188,
+        259.84173583984375
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        74.13531494140625,
+        274.58856201171875,
+        433.5980224609375,
+        329.6628112792969
+      ],
+      "text": "oS-\nNumber of US households (in millions), by annual income\n8\n= 30\n=\n"
+    },
+    {
+      "box": [
+        74.13531494140625,
+        330.01007080078125,
+        99.6760025024414,
+        427.5494689941406
+      ],
+      "text": "w 25\nBR)\n2£ 20\na\nFs 15\n=\n‘5 10\nB85\n"
+    },
+    {
+      "box": [
+        74.13531494140625,
+        428.6172180175781,
+        410.9759216308594,
+        473.2506408691406
+      ],
+      "text": "£\n30\n2007\n2011\n2015\nYear\n"
+    },
+    {
+      "box": [
+        122.35923767089844,
+        487.2776794433594,
+        439.30584716796875,
+        513.9196166992188
+      ],
+      "text": "Hi Less than $25,000 [_]$25,000-$49,999\n[_]$50,000-$74,999\n$75,000-$99,999\n[$100,000 or more\n"
+    },
+    {
+      "box": [
+        48.22393035888672,
+        665.4183349609375,
+        143.9142608642578,
+        676.5858154296875
+      ],
+      "text": "52\n>| ® p. 130\n"
+    }
+  ]
+}

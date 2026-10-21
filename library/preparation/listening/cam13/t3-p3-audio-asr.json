@@ -1,0 +1,187 @@
+{
+  "book": 13,
+  "test": 3,
+  "part": 3,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD2Track_03.mp3",
+  "sha256": "0482877e09035af01eec435116240ca7b69c82d92b0a46c5f7ee1e203432e5bb",
+  "duration": 397.953,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      298.5501875,
+      398.5501875
+    ]
+  ],
+  "text": "You will hear a textile design student called Jim discussing his project on using natural dyes for coloring fabrics with his tutor. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. OK, Jim, you wanted to see me about your textile design project. That's right. I've been looking at how a range of natural dyes can be used to colour fabrics like cotton and wool. Why did you choose that topic? Well, I got a lot of useful ideas from the museum, you know, at that exhibition of textiles, but I've always been interested in anything to do with colour. Years ago, I went to a carpet shop with my parents when we were on holiday in Turkey, and I remember all the amazing colours. They might not all have been natural days, maybe not, but for the project I decided to follow it up. And I found a great book about a Botanic Garden in California that specialises implants used for dyes. Okay, so in your project you had to include a practical investigation. Yeah, at first I couldn't decide on my variables. I was going to just look at one type of fiber, for example, like cotton. And see how different types of dyes affected it? Yes. Then I decided to include others as well. So I looked at cotton and wool and nylon. With just one style like cotchineal for example. Yes I didn't actually make that. I didn't have time to start crushing up insects to get the red colour and anyway they're not available here. But I managed to get the dye quite easily from a website but it cost a fortune. I can see why it's generally just used in cooking and in small quantities. Yes it's very effective but that's precisely why it's not used as a dye. I also read about using metal oxide. Apparently you can allow Now ions are rust while it's in contact with the fabric and that colours it. Yes, that works well for dying cotton, but you have to be careful as the metal can actually affect the fabric and so you can't expect to get a lot of wear out of fabrics treated in this way. And the colours are quite subtle, not everyone likes them. Anyway, it looks as if you've done a lot of work. That is the end of section 3. You now have half a minute to check your answers. Now turn to section 4.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.4,
+      "text": "You will hear a textile design student called Jim discussing his project on using natural"
+    },
+    {
+      "start": 8.4,
+      "end": 12.0,
+      "text": "dyes for coloring fabrics with his tutor."
+    },
+    {
+      "start": 12.0,
+      "end": 16.8,
+      "text": "First, you have some time to look at questions 21 to 24."
+    },
+    {
+      "start": 30.0,
+      "end": 42.0,
+      "text": "Now listen carefully and answer questions 21 to 24."
+    },
+    {
+      "start": 42.0,
+      "end": 50.0,
+      "text": "OK, Jim, you wanted to see me about your textile design project."
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "text": "That's right."
+    },
+    {
+      "start": 51.0,
+      "end": 56.0,
+      "text": "I've been looking at how a range of natural dyes can be used to colour fabrics like cotton"
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "text": "and wool."
+    },
+    {
+      "start": 57.0,
+      "end": 59.0,
+      "text": "Why did you choose that topic?"
+    },
+    {
+      "start": 59.0,
+      "end": 65.52,
+      "text": "Well, I got a lot of useful ideas from the museum, you know, at that exhibition of textiles,"
+    },
+    {
+      "start": 65.52,
+      "end": 70.56,
+      "text": "but I've always been interested in anything to do with colour. Years ago, I went to a carpet"
+    },
+    {
+      "start": 70.56,
+      "end": 75.36,
+      "text": "shop with my parents when we were on holiday in Turkey, and I remember all the amazing"
+    },
+    {
+      "start": 75.36,
+      "end": 82.04,
+      "text": "colours. They might not all have been natural days, maybe not, but for the project I decided"
+    },
+    {
+      "start": 82.04,
+      "end": 88.32,
+      "text": "to follow it up. And I found a great book about a Botanic Garden in California that specialises"
+    },
+    {
+      "start": 88.32,
+      "end": 95.84,
+      "text": "implants used for dyes. Okay, so in your project you had to include a practical investigation."
+    },
+    {
+      "start": 95.84,
+      "end": 102.16,
+      "text": "Yeah, at first I couldn't decide on my variables. I was going to just look at one type of fiber,"
+    },
+    {
+      "start": 102.16,
+      "end": 108.88,
+      "text": "for example, like cotton. And see how different types of dyes affected it? Yes. Then I decided"
+    },
+    {
+      "start": 108.88,
+      "end": 114.96,
+      "text": "to include others as well. So I looked at cotton and wool and nylon. With just one"
+    },
+    {
+      "start": 298.55,
+      "end": 304.07,
+      "text": "style like cotchineal for example. Yes I didn't actually make that. I didn't have"
+    },
+    {
+      "start": 304.07,
+      "end": 308.31,
+      "text": "time to start crushing up insects to get the red colour and anyway they're not"
+    },
+    {
+      "start": 308.31,
+      "end": 313.35,
+      "text": "available here. But I managed to get the dye quite easily from a website but"
+    },
+    {
+      "start": 313.35,
+      "end": 318.15,
+      "text": "it cost a fortune. I can see why it's generally just used in cooking and in"
+    },
+    {
+      "start": 318.15,
+      "end": 322.67,
+      "text": "small quantities. Yes it's very effective but that's precisely why it's not"
+    },
+    {
+      "start": 322.67,
+      "end": 328.07,
+      "text": "used as a dye. I also read about using metal oxide. Apparently you can allow"
+    },
+    {
+      "start": 328.07,
+      "end": 332.71,
+      "text": "Now ions are rust while it's in contact with the fabric and that colours it."
+    },
+    {
+      "start": 332.71,
+      "end": 337.39,
+      "text": "Yes, that works well for dying cotton, but you have to be careful as the metal can actually"
+    },
+    {
+      "start": 337.39,
+      "end": 341.83,
+      "text": "affect the fabric and so you can't expect to get a lot of wear out of fabrics treated"
+    },
+    {
+      "start": 341.83,
+      "end": 343.35,
+      "text": "in this way."
+    },
+    {
+      "start": 343.35,
+      "end": 347.35,
+      "text": "And the colours are quite subtle, not everyone likes them."
+    },
+    {
+      "start": 347.35,
+      "end": 354.35,
+      "text": "Anyway, it looks as if you've done a lot of work."
+    },
+    {
+      "start": 354.35,
+      "end": 357.75,
+      "text": "That is the end of section 3."
+    },
+    {
+      "start": 357.75,
+      "end": 360.83,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 387.75,
+      "end": 394.75,
+      "text": "Now turn to section 4."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

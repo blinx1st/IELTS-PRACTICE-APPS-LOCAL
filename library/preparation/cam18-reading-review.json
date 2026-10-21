@@ -1,0 +1,355 @@
+{
+  "book": 18,
+  "scope": "Reading titles, subtitles, paragraphs, labels, footnotes and page/column order; question content is reviewed in a separate report.",
+  "status": "visually_reviewed",
+  "passagesReviewed": 12,
+  "sourceReadingPagesReviewed": 24,
+  "method": "Manual comparison of the complete normalised text with locally rendered source pages. Contact sheets retain the full original page edges; no generated replacement prose was used.",
+  "sourcePdf": [
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+      "bytes": 53600553,
+      "pages": 147,
+      "sha256": "c52476d77ad492f8184fc74ca3bef3f273db9c7534520d1b7c3856bf4018a9b3"
+    }
+  ],
+  "notes": [
+    "All twelve normalised passages were read and compared with all twenty-four source reading pages.",
+    "Rotated source pages were rendered in their displayed orientation. Paragraph A-H labels, page continuations, footnotes and introductory subtitles were checked.",
+    "Test 3 Passage 3 was reconstructed in left-column then right-column order from word coordinates. OCR fragments within the hiking analogy were repaired against pages 72-73.",
+    "First-person I omitted by OCR in Test 4 Passage 3 was restored against the original. Château du Clos Lucé retains the source diacritics.",
+    "The awkward printed wording 'all home to constructed tall, wooden buildings' in Test 3 Passage 1 was retained as supplied."
+  ],
+  "tests": [
+    {
+      "id": "cam18-test1",
+      "version": "2026-10-21.5",
+      "jsonSha256": "ccd595611660b3365352e3b5d7bf90170afab143b6c4128c49c31893feacc64c",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Urban farming",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            18,
+            19
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t1-p1-reading-018-7742a000.webp",
+              "page": 18
+            },
+            {
+              "url": "/library-assets/cam18-t1-p1-reading-019-8c5bbf25.webp",
+              "page": 19
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t1-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "18a348e17f2aaa7f83527e0ce8033ea13ee50cb1161a9351109543eb6a2e7900"
+        },
+        {
+          "number": 2,
+          "title": "Forest management in Pennsylvania, USA",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            22,
+            23
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t1-p2-reading-022-502e79d0.webp",
+              "page": 22
+            },
+            {
+              "url": "/library-assets/cam18-t1-p2-reading-023-f3dc5805.webp",
+              "page": 23
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t1-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "readingSha256": "5dc5ae9e3c4a50ad3e5506f4719bcf51e29cfadd92127483cd917df74c168080"
+        },
+        {
+          "number": 3,
+          "title": "Conquering Earth’s space junk problem",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            27,
+            28
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t1-p3-reading-027-12c71508.webp",
+              "page": 27
+            },
+            {
+              "url": "/library-assets/cam18-t1-p3-reading-028-8d50baf1.webp",
+              "page": 28
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t1-p3.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "readingSha256": "1b0cf501d92c4142ed8374878a3953a42fb30532d6c93ee1076b23fb2c4da83a"
+        }
+      ]
+    },
+    {
+      "id": "cam18-test2",
+      "version": "2026-10-21.5",
+      "jsonSha256": "6f07d24d07a339fc8bab182fa325cd0354e6fe297a97a8bd29dec9cc5bb4da3d",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Stonehenge",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            41,
+            42
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t2-p1-reading-041-f87b4608.webp",
+              "page": 41
+            },
+            {
+              "url": "/library-assets/cam18-t2-p1-reading-042-10cc224c.webp",
+              "page": 42
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t2-p1.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "d02003163e074a50b82efd7635da7051af63d2d0cdc4a7eb483444b72fee71b9"
+        },
+        {
+          "number": 2,
+          "title": "Living with artificial intelligence",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            45,
+            46
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t2-p2-reading-045-9efe3fd4.webp",
+              "page": 45
+            },
+            {
+              "url": "/library-assets/cam18-t2-p2-reading-046-f0ec7ab3.webp",
+              "page": 46
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t2-p2.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "a5113ff5ff8c431feebb6878aad66bca146644f3da1389403c9ba82fdd9f6772"
+        },
+        {
+          "number": 3,
+          "title": "An ideal city",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            50,
+            51
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t2-p3-reading-050-52b6f9c8.webp",
+              "page": 50
+            },
+            {
+              "url": "/library-assets/cam18-t2-p3-reading-051-993797ba.webp",
+              "page": 51
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t2-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "23e5aebb83b89f289b07d9c77909e45254147a4ecc1caa64447ad1dc5eb007ce"
+        }
+      ]
+    },
+    {
+      "id": "cam18-test3",
+      "version": "2026-10-21.5",
+      "jsonSha256": "a933d12f737eaff4a014f88b4f38aaf4bba9ad15a6fd0ea9ad4f1898b2880d3a",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Materials to take us beyond concrete",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            63,
+            64
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t3-p1-reading-063-439a4a16.webp",
+              "page": 63
+            },
+            {
+              "url": "/library-assets/cam18-t3-p1-reading-064-b079c7ba.webp",
+              "page": 64
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t3-p1.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "readingSha256": "5b224704c1654f67b3701d7685c2ff670456b40d7910419f967a4625a9708b95"
+        },
+        {
+          "number": 2,
+          "title": "The steam car",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            68,
+            69
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t3-p2-reading-068-0dce5306.webp",
+              "page": 68
+            },
+            {
+              "url": "/library-assets/cam18-t3-p2-reading-069-d9bd94e7.webp",
+              "page": 69
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t3-p2.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "readingSha256": "f69d330727522088426904ab3b789af59702e4ee1f93659ecef8f1ec29602b76"
+        },
+        {
+          "number": 3,
+          "title": "The case for mixed-ability classes",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            72,
+            73
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t3-p3-reading-072-917dc7fc.webp",
+              "page": 72
+            },
+            {
+              "url": "/library-assets/cam18-t3-p3-reading-073-1cbfcc0d.webp",
+              "page": 73
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t3-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "3d4b721e32956dec892a1d4647b58d3fb0f64b7b5aae5c5bdd1ae322e3bfa0a1"
+        }
+      ]
+    },
+    {
+      "id": "cam18-test4",
+      "version": "2026-10-21.5",
+      "jsonSha256": "7782498c7cde99e488e3f1833d4247bd7379fe7b1531ccba824a19f43db7344e",
+      "passages": [
+        {
+          "number": 1,
+          "title": "Green roofs",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            86,
+            87
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t4-p1-reading-086-55f22b8d.webp",
+              "page": 86
+            },
+            {
+              "url": "/library-assets/cam18-t4-p1-reading-087-5b54e3db.webp",
+              "page": 87
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t4-p1.jpg",
+          "paragraphLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "readingSha256": "b8a9a50013d7eec4fb9295bd66189729c60501a8bb169aae87b04a42ae3f3468"
+        },
+        {
+          "number": 2,
+          "title": "The growth mindset",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            90,
+            91
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t4-p2-reading-090-83528105.webp",
+              "page": 90
+            },
+            {
+              "url": "/library-assets/cam18-t4-p2-reading-091-0bbc21e2.webp",
+              "page": 91
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t4-p2.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "d224db5e695b2650788d70da2d33880627fd3d9521e384781a0a91d4976c29fd"
+        },
+        {
+          "number": 3,
+          "title": "Alfred Wegener: science, exploration and the theory of continental drift",
+          "sourceFile": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+          "physicalReadingPages": [
+            94,
+            95
+          ],
+          "sourceImages": [
+            {
+              "url": "/library-assets/cam18-t4-p3-reading-094-e79f01a0.webp",
+              "page": 94
+            },
+            {
+              "url": "/library-assets/cam18-t4-p3-reading-095-aa6422b6.webp",
+              "page": 95
+            }
+          ],
+          "reviewContact": "library/preparation/reading-review/cam18-t4-p3.jpg",
+          "paragraphLabels": [],
+          "readingSha256": "4c225b2032f3e383e13e2b5e5e6bc480c32af4491c9cac65abb8eadfbad1884b"
+        }
+      ]
+    }
+  ]
+}

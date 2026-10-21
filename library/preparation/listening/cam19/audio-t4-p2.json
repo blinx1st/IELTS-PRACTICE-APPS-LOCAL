@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "url": "/library-audio/fdcdb59c3e3015eb8d522d3f97e5f7928c1364420c72ed35f2e9c56f293fb168.mp3",
+    "sha256": "fdcdb59c3e3015eb8d522d3f97e5f7928c1364420c72ed35f2e9c56f293fb168",
+    "duration": 389.12,
+    "start": 0,
+    "end": 389.12,
+    "source": "Tài liệu Cambridge\\CAMBRIDGE-19\\Cambridge IELTS 19 Audio\\Test4 Part2.mp3",
+    "verification": {
+      "status": "pending_audio_comparison",
+      "sourceTranscript": true
+    }
+  },
+  "model": "faster-whisper tiny.en int8",
+  "samples": [
+    {
+      "name": "opening",
+      "start": 0,
+      "end": 100,
+      "text": "Part 2. You will hear a podcast by a running coach giving advice about taking up running and giving information about her club. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. My name's Liz Fuller and I'm a running coach with Compton Park Runners Club. Welcome to my podcast. If you're thinking about taking up running, I'm here to help. There are many training programs available online, which aim to help people build up to running 5 km. Some of them are great, and thousands of people of all ages are taking part in 5 km races across the country as a result. People like them because they're easy to follow and don't push them too hard. However, they don't work for everyone, especially if you suffer from something like a heart condition or asthma, because they're aimed at people with average fitness and running ability. Another thing is that everyone is different, and if you have any specific questions related to your needs, there's no one to provide any answer."
+    },
+    {
+      "name": "ending",
+      "start": 324.12,
+      "end": 389.12,
+      "text": "felt like giving up halfway through, it was only the support of the spectators that kept me going. I do think signing up for a race of whatever length is motivating, whether it's 5k or 25k, because it's good to have something to work towards, and it gives you a sense of achievement. I did my first 10k after only six months, which was certainly very challenging, and not something I'd necessarily recommend. But, after you've been training for a few weeks, it's worth putting a name down for a 5K. Some people find they only need a few practice runs before taking part in a race, but I'd give yourself a couple of months at least. Well, I hope that's given you a really good idea of what you... is the end of part two. You now have 30 seconds to check your answers to part two."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "testId": "cam20-test1",
+  "status": "verified",
+  "contentSha256": "bc763c65dccd6b40660458f7af6311b828a19a4e49f90016de29b6fba6aa90ce",
+  "beforeContentSha256": "c2517ae3f7a6aa14eeed695df75c996a87f4ebd6ecef2e14a23035176600fb68",
+  "reviewDate": "2026-10-21",
+  "method": "Independent visual review of all listed rendered PDF pages against normalized JSON; no automatic confidence score used as proof.",
+  "sources": [
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\CAM 20 Reading - Listening đẹp.pdf",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "role": "full passage/question fidelity review"
+    },
+    {
+      "file": "Tài liệu Cambridge\\CAMBRIDGE-20\\BAN_GOC\\Cam 20 - bản gõ lại - IELTS Fighter.pdf",
+      "pdfPages": [
+        9,
+        10,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "role": "cross-check notes, paragraph structure, and restore clause missing from 80-page version"
+    }
+  ],
+  "coverage": {
+    "passages": 3,
+    "questions": 40,
+    "questionGroups": 8,
+    "individualChoiceOptions": 16,
+    "matchingOptions": 17,
+    "wordLimits": [
+      {
+        "questions": "7-13",
+        "wordLimit": 1,
+        "allowNumber": true
+      },
+      {
+        "questions": "24-26",
+        "wordLimit": 1,
+        "allowNumber": false
+      }
+    ],
+    "answerKeyReview": "library/preparation/keys-report.json"
+  },
+  "corrections": [
+    "Normalized corrupted kākāpō diacritics and predator-free spacing.",
+    "Joined passage 1 paragraph split across source pages 7/8.",
+    "Separated passage 2 byline from section A, assigned source section labels A-G, joined D across pages 12/13.",
+    "Split passage 3 Back in our lab into paragraph 6 and joined its page continuation; paragraph 7 now begins When we experience stressful events, matching question 30.",
+    "Joined passage 3 sentence/page continuation in paragraph 11.",
+    "Verified final paragraph restored clause (close relationship between emotional state and information processing) against 144-page source p17.",
+    "Rebuilt matching option sets 14-18 A-G; 19-23 A-C; 31-35 A-G, removing extraction false positives from Britain, visible, Complete.",
+    "Separated instructions from body/questions, retaining all source question wording and notes/summary context.",
+    "Moved in before blank 8 in the kakapo notes: nests are created in 8 [blank] where eggs are laid. This repairs a shared source-retyping error; the answer key is unchanged."
+  ],
+  "sourceLimitations": [
+    "Supplied PDFs are retyped versions. Verification certifies fidelity to those files, not to a Cambridge publisher edition.",
+    "Q8 preposition in is misplaced after its blank in both supplied retyped PDFs. The normalized task moves in before blank 8, corroborated by two independent full-question/explanation sources. Original source images remain unchanged.",
+    "Source button for passage 3 includes the 80-page version with omitted final clause; normalized text includes clause confirmed from alternate144-page source."
+  ],
+  "unresolvedContentIssues": [],
+  "reportFile": "pilot20-review.json",
+  "encodingCorrection": "Repaired authored Unicode that an earlier Windows PowerShell ASCII stdin pipeline replaced with question marks; saved through this UTF-8 Python source.",
+  "encodingCheck": "UTF-8 JSON round-trip; replacement-mark and mojibake checks passed",
+  "q8FollowUpReview": {
+    "date": "2026-10-21",
+    "sourcePagesVisuallyChecked": [
+      {
+        "source": "80-page Reading-Listening PDF",
+        "pdfPage": 11
+      },
+      {
+        "source": "144-page retyped PDF",
+        "pdfPage": 9
+      },
+      {
+        "source": "144-page retyped PDF continuation",
+        "pdfPage": 10
+      }
+    ],
+    "scope": "Rechecked the whole questions 7-13 note group, every blank and instruction. Only Q8 requires this follow-up repair; all other wording and the ONE WORD AND/OR A NUMBER instruction match the supplied sources.",
+    "corroboration": [
+      "https://ieltszone.org/practice-tests/reading-test/ielts-20-reading-test-1-online-practice/",
+      "https://langgo.edu.vn/cam-20-test-1-reading-passage-1-the-kakapo"
+    ],
+    "beforeContentSha256": "3b2d6cf645a8a1f53964adaefccf315729831edb40ffc823a5934f33675083f0",
+    "answerKeysChanged": false
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "cam17-test4",
+  "version": "1",
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "TRUE"
+    ],
+    "5": [
+      "NOT GIVEN"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "droppings"
+    ],
+    "8": [
+      "coffee"
+    ],
+    "9": [
+      "mosquitoes"
+    ],
+    "10": [
+      "protein"
+    ],
+    "11": [
+      "unclean"
+    ],
+    "12": [
+      "culture"
+    ],
+    "13": [
+      "houses"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "D"
+    ],
+    "17": [
+      "F"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "descendants"
+    ],
+    "20": [
+      "sermon"
+    ],
+    "21": [
+      "fine"
+    ],
+    "22": [
+      "innovation"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "E"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "D"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "E"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "H"
+    ],
+    "32": [
+      "E"
+    ],
+    "33": [
+      "FALSE"
+    ],
+    "34": [
+      "NOT GIVEN"
+    ],
+    "35": [
+      "NOT GIVEN"
+    ],
+    "36": [
+      "TRUE"
+    ],
+    "37": [
+      "memory"
+    ],
+    "38": [
+      "numbers"
+    ],
+    "39": [
+      "communication"
+    ],
+    "40": [
+      "visual"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        23,
+        24
+      ],
+      "answers": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "numbers": [
+        25,
+        26
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    }
+  ],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-17/BAN_GOC/Cambridge 17 Bản Đẹp.pdf",
+    "sha256": "7a829d31365f036b0f99b6b68ec23c6e80b59006bf5106b84ed9e36d1f3d32b4",
+    "pdfPage": 119,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "cam15-test1",
+  "version": "1",
+  "answers": {
+    "1": [
+      "oval"
+    ],
+    "2": [
+      "husk"
+    ],
+    "3": [
+      "seed"
+    ],
+    "4": [
+      "mace"
+    ],
+    "5": [
+      "FALSE"
+    ],
+    "6": [
+      "NOT GIVEN"
+    ],
+    "7": [
+      "TRUE"
+    ],
+    "8": [
+      "Arabs"
+    ],
+    "9": [
+      "plague"
+    ],
+    "10": [
+      "lime"
+    ],
+    "11": [
+      "Run"
+    ],
+    "12": [
+      "Mauritius"
+    ],
+    "13": [
+      "tsunami"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "G"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "human error"
+    ],
+    "20": [
+      "car sharing",
+      "car-sharing"
+    ],
+    "21": [
+      "ownership"
+    ],
+    "22": [
+      "mileage"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "D"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "E"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "A"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "E"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "D"
+    ],
+    "36": [
+      "E"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "expeditions",
+      "unique expeditions"
+    ],
+    "39": [
+      "uncontacted",
+      "isolated"
+    ],
+    "40": [
+      "surface",
+      "land surface"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        23,
+        24
+      ],
+      "answers": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "numbers": [
+        25,
+        26
+      ],
+      "answers": [
+        "A",
+        "E"
+      ]
+    }
+  ],
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+    "sha256": "a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298",
+    "pdfPage": 122,
+    "verification": "visual-source-key-review",
+    "scope": "answer-key-only",
+    "questionContentVerified": false
+  }
+}

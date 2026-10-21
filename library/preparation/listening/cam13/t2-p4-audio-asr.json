@@ -1,0 +1,127 @@
+{
+  "book": 13,
+  "test": 2,
+  "part": 4,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-13/Cambridge IELTS 13 Audio/IELTS13-Tests1-4CD1Track_08.mp3",
+  "sha256": "4cd8d0cf514a462876eaa5dc65be99191ebf42094c8e15a96f50a734556fdc87",
+  "duration": 543.394,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      444.20899999999995,
+      544.209
+    ]
+  ],
+  "text": "You will hear a lecturer in psychology talking about a type of memory. First, you have some time to look at questions 31 to 40. You Now listen carefully and answer questions 31 to 40. Today we'll be continuing the series of lectures on memory by focusing on what is called episodic memory and what can happen if this is not working properly. Episodic memory refers to the memory of an event or episode. Episodic memories allow us to mentally travel back in time to an event from the past. Episodic memories include various details about these events. For example, when an event happened and other information such as the location. connect with others, for instance by sharing intimate details about their past. Something individuals with autism often have problems with. This may be caused by an absence of the sense of self. This is essential for the storage of episodic memory and has been found to be impaired in children with autism. Research has shown that treatments that improve memory may also have a positive impact on children's social development. One study, that is the end of section four. You now have half a minute to check your answers. That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "You will hear a lecturer in psychology talking about a type of memory."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "First, you have some time to look at questions 31 to 40."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    },
+    {
+      "start": 60.0,
+      "end": 71.76,
+      "text": "Now listen carefully and answer questions 31 to 40."
+    },
+    {
+      "start": 71.76,
+      "end": 78.72,
+      "text": "Today we'll be continuing the series of lectures on memory by focusing on what is called"
+    },
+    {
+      "start": 78.72,
+      "end": 85.84,
+      "text": "episodic memory and what can happen if this is not working properly."
+    },
+    {
+      "start": 85.84,
+      "end": 92.84,
+      "text": "Episodic memory refers to the memory of an event or episode."
+    },
+    {
+      "start": 92.84,
+      "end": 100.84,
+      "text": "Episodic memories allow us to mentally travel back in time to an event from the past."
+    },
+    {
+      "start": 100.84,
+      "end": 105.84,
+      "text": "Episodic memories include various details about these events."
+    },
+    {
+      "start": 105.84,
+      "end": 114.84,
+      "text": "For example, when an event happened and other information such as the location."
+    },
+    {
+      "start": 444.21,
+      "end": 452.21,
+      "text": "connect with others, for instance by sharing intimate details about their past."
+    },
+    {
+      "start": 452.21,
+      "end": 458.21,
+      "text": "Something individuals with autism often have problems with."
+    },
+    {
+      "start": 458.21,
+      "end": 465.21,
+      "text": "This may be caused by an absence of the sense of self."
+    },
+    {
+      "start": 465.21,
+      "end": 470.21,
+      "text": "This is essential for the storage of episodic memory"
+    },
+    {
+      "start": 470.21,
+      "end": 476.21,
+      "text": "and has been found to be impaired in children with autism."
+    },
+    {
+      "start": 476.21,
+      "end": 481.21,
+      "text": "Research has shown that treatments that improve memory"
+    },
+    {
+      "start": 481.21,
+      "end": 488.21,
+      "text": "may also have a positive impact on children's social development."
+    },
+    {
+      "start": 488.21,
+      "end": 497.21,
+      "text": "One study, that is the end of section four."
+    },
+    {
+      "start": 497.21,
+      "end": 500.81,
+      "text": "You now have half a minute to check your answers."
+    },
+    {
+      "start": 527.21,
+      "end": 535.89,
+      "text": "That is the end of the listening test."
+    },
+    {
+      "start": 535.89,
+      "end": 542.05,
+      "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

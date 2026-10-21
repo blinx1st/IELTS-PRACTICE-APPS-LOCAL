@@ -1,0 +1,111 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 87,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 4\nQuestions 22-26\nReading Passage 2 has seven paragraphs, A-G.\nWhich section contains the following information?\nWrite the correct letter, A-G, in boxes 22-26 on your answer sheet.\nNB You may use any letter more than once.\n22\nareference to one person's motivation for a soil-improvement project\n23\nan explanation of how soil stayed healthy before the development of farming\n24\nexamples of different ways of collecting information on soil degradation\n25\nasuggestion for a way of keeping some types of soil safe in the near future\n26\nareason why it is difficult to provide an overview of soil degradation\n",
+  "blocks": [
+    {
+      "box": [
+        74.87999725341797,
+        57.5999755859375,
+        108.34381866455078,
+        67.32972717285156
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        74.16000366210938,
+        96.47998046875,
+        177.98410034179688,
+        107.65117645263672
+      ],
+      "text": "Questions 22-26\n"
+    },
+    {
+      "box": [
+        73.44000244140625,
+        126.719970703125,
+        347.90411376953125,
+        139.33261108398438
+      ],
+      "text": "Reading Passage 2 has seven paragraphs, A-G.\n"
+    },
+    {
+      "box": [
+        73.08000183105469,
+        156.239990234375,
+        348.84014892578125,
+        168.85263061523438
+      ],
+      "text": "Which section contains the following information?\n"
+    },
+    {
+      "box": [
+        74.16000366210938,
+        185.760009765625,
+        449.92083740234375,
+        198.01223754882812
+      ],
+      "text": "Write the correct letter, A-G, in boxes 22-26 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        73.08001708984375,
+        214.91998291015625,
+        317.2950744628906,
+        227.53262329101562
+      ],
+      "text": "NB You may use any letter more than once.\n"
+    },
+    {
+      "box": [
+        73.08003234863281,
+        245.15997314453125,
+        486.115234375,
+        258.1329650878906
+      ],
+      "text": "22\nareference to one person's motivation for a soil-improvement project\n"
+    },
+    {
+      "box": [
+        73.08001708984375,
+        274.67999267578125,
+        527.4539794921875,
+        287.2926025390625
+      ],
+      "text": "23\nan explanation of how soil stayed healthy before the development of farming\n"
+    },
+    {
+      "box": [
+        73.08001708984375,
+        304.20001220703125,
+        496.7548828125,
+        316.8125915527344
+      ],
+      "text": "24\nexamples of different ways of collecting information on soil degradation\n"
+    },
+    {
+      "box": [
+        72.72003173828125,
+        333.7200012207031,
+        520.6320190429688,
+        346.3326110839844
+      ],
+      "text": "25\nasuggestion for a way of keeping some types of soil safe in the near future\n"
+    },
+    {
+      "box": [
+        72.72003173828125,
+        363.239990234375,
+        477.6752014160156,
+        375.85260009765625
+      ],
+      "text": "26\nareason why it is difficult to provide an overview of soil degradation\n"
+    }
+  ]
+}

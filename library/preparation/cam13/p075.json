@@ -1,0 +1,210 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 75,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 4\nLISTENING\nSECTION\n1\nQuestions 1-10\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nAlex’s Training\n= ®com/LouisQuangvo\nExample\nAlex completed his training in...\nFIO TF occ\nAbout the applicant:\n*\n— At first, Alex did his training in the 1uo department.\n* — Alex didn’t have a qualification fromm SCHOOL iM 2 o.rrcvcsssssssnsnnsenneensenee «\n*\nAlex thinks he should have done the diploma in 3... SKINS,\n}\n* — Age of other trainees: the youngest WAS 4 -rvsrscsssseneesensenennenes\n«\nBenefits of doing training at JPNW:\n.\nLots of opportunities because of the size of the organisation.\n*\nTrainees receive the SAME AMOUNE OF H ovvseemoorneesinennnrnnene AS permanent staff.\n*\nThe training experience increases people's confidencea\nlot.\n°\nTPAINCES GO tO 6 eeesorersensiisinrinnineenneenee ONE Gay per month.\n* — The company is iN\na CONVENIENE 7 -..escvsonsorreenenerneeneneenee «\nAdvice for interview:\n© — Make SUre YOU 10 onnncnccntcntsnannensnsunie 4\n76\n",
+  "blocks": [
+    {
+      "box": [
+        85.68000030517578,
+        94.67999267578125,
+        153.71640014648438,
+        114.13943481445312
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        277.55999755859375,
+        145.08001708984375,
+        361.9292297363281,
+        155.17005920410156
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        85.32000732421875,
+        192.5999755859375,
+        308.4624938964844,
+        204.1315155029297
+      ],
+      "text": "SECTION\n1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        86.04000854492188,
+        222.1199951171875,
+        224.39527893066406,
+        233.6515350341797
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        86.0400161743164,
+        249.84002685546875,
+        390.4433288574219,
+        259.5697326660156
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        254.52000427246094,
+        290.8800048828125,
+        501.7068786621094,
+        310.3394470214844
+      ],
+      "text": "Alex’s Training\n= ®com/LouisQuangvo\n"
+    },
+    {
+      "box": [
+        101.16000366210938,
+        332.6400146484375,
+        147.12474060058594,
+        344.1715087890625
+      ],
+      "text": "Example\n"
+    },
+    {
+      "box": [
+        100.44000244140625,
+        356.760009765625,
+        352.99798583984375,
+        373.3365783691406
+      ],
+      "text": "Alex completed his training in...\nFIO TF occ\n"
+    },
+    {
+      "box": [
+        100.44000244140625,
+        393.8399963378906,
+        214.8839874267578,
+        405.01116943359375
+      ],
+      "text": "About the applicant:\n"
+    },
+    {
+      "box": [
+        100.80000305175781,
+        413.6400146484375,
+        475.0684509277344,
+        428.4147644042969
+      ],
+      "text": "*\n— At first, Alex did his training in the 1uo department.\n"
+    },
+    {
+      "box": [
+        100.79998779296875,
+        435.6000061035156,
+        477.3312072753906,
+        450.374755859375
+      ],
+      "text": "* — Alex didn’t have a qualification fromm SCHOOL iM 2 o.rrcvcsssssssnsnnsenneensenee «\n"
+    },
+    {
+      "box": [
+        100.79998779296875,
+        458.6400146484375,
+        594.3455810546875,
+        470.5318603515625
+      ],
+      "text": "*\nAlex thinks he should have done the diploma in 3... SKINS,\n}\n"
+    },
+    {
+      "box": [
+        100.79998779296875,
+        478.79998779296875,
+        449.2763671875,
+        493.93511962890625
+      ],
+      "text": "* — Age of other trainees: the youngest WAS 4 -rvsrscsssseneesensenennenes\n«\n"
+    },
+    {
+      "box": [
+        101.15997314453125,
+        509.0400085449219,
+        300.239990234375,
+        520.571533203125
+      ],
+      "text": "Benefits of doing training at JPNW:\n"
+    },
+    {
+      "box": [
+        100.43997192382812,
+        530.6400146484375,
+        444.6432189941406,
+        542.1715698242188
+      ],
+      "text": ".\nLots of opportunities because of the size of the organisation.\n"
+    },
+    {
+      "box": [
+        100.43997192382812,
+        550.0800170898438,
+        534.16064453125,
+        565.2151489257812
+      ],
+      "text": "*\nTrainees receive the SAME AMOUNE OF H ovvseemoorneesinennnrnnene AS permanent staff.\n"
+    },
+    {
+      "box": [
+        100.43997192382812,
+        572.4000244140625,
+        443.2895202636719,
+        587.1748046875
+      ],
+      "text": "*\nThe training experience increases people's confidencea\nlot.\n"
+    },
+    {
+      "box": [
+        100.43997192382812,
+        595.7999877929688,
+        413.650634765625,
+        607.69189453125
+      ],
+      "text": "°\nTPAINCES GO tO 6 eeesorersensiisinrinnineenneenee ONE Gay per month.\n"
+    },
+    {
+      "box": [
+        100.43997192382812,
+        615.9600219726562,
+        400.6763610839844,
+        631.0951538085938
+      ],
+      "text": "* — The company is iN\na CONVENIENE 7 -..escvsonsorreenenerneeneneenee «\n"
+    },
+    {
+      "box": [
+        100.43997192382812,
+        645.8400268554688,
+        216.90000915527344,
+        655.2093505859375
+      ],
+      "text": "Advice for interview:\n"
+    },
+    {
+      "box": [
+        100.43997192382812,
+        708.8399658203125,
+        323.26556396484375,
+        724.6958618164062
+      ],
+      "text": "© — Make SUre YOU 10 onnncnccntcntsnannensnsunie 4\n"
+    },
+    {
+      "box": [
+        84.9599609375,
+        748.7999877929688,
+        97.14236450195312,
+        757.4486694335938
+      ],
+      "text": "76\n"
+    }
+  ]
+}

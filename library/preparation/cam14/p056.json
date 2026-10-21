@@ -1,0 +1,93 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 56,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nE\nFrom the tiny proportion of insects that have been investigated, several promising\ncompounds have been identified. For example, alloferon, an antimicrobial\ncompound produced by blow fly larvae, is used as an antiviral and antitumor agent\nin South Korea and Russia. The larvae of a few other insect species are being\ninvestigated for the potent antimicrobial compounds they produce. Meanwhile, a\ncompound from the venom of the wasp Polybia paulista has potential in cancer\ntreatment.\nF\nWhy is it that insects have received relatively little attention in bioprospecting?\nFirstly, there are so many insects that, without some manner of targeted approach,\ninvestigating this huge variety of species is a daunting task. Secondly, insects are\ngenerally very small, and the glands inside them that secrete potentially useful\ncompounds are smaller still. This can make it difficult to obtain sufficient quantities\nof the compound for subsequent testing. Thirdly, although we consider insects to be\neverywhere, the reality of this ubiquity is vast numbers of a few extremely common\nspecies. Many insect species are infrequently encountered and very difficult to rear\nin captivity, which, again, can leave us with insufficient material to work with.\nG_\nMy colleagues and\n| at Aberystwyth University in the UK have developed an\napproach in which we use our knowledge of ecology as a guide to target our\nefforts. The creatures that particularly interest us are the many insects that secrete\npowerful poison for subduing prey and keeping it fresh for future consumption.\nThere are even more insects that are masters of exploiting filthy habitats, such as\nfaeces and carcasses, where they are regularly challenged by thousands of micro-\norganisms. These insects have many antimicrobial compounds for dealing with\npathogenic bacteria and fungi, suggesting that there is certainly potential to find\nmany compounds that can serve as or inspire new antibiotics.\nH = Although natural history knowledge points us in the right direction, it doesn’t\nsolve the problems associated with obtaining useful compounds from insects.\nFortunately, it is now possible to snip out the stretches of the insect’s DNA that\ncarry the codes for the interesting compounds and insert them into cell lines that\nallow larger quantities to be produced. And although the road from isolating and\ncharacterising compounds with desirable qualities to developing\na commercial\nproduct is very long and full of pitfalls, the variety of successful animal-derived\npharmaceuticals on the market demonstrates there is a precedent here that is\nworth exploring.\nI\nWith every bit of wilderness that disappears, we deprive ourselves of potential\nmedicines. As much as I’d love to help develop a groundbreaking insect-derived\nmedicine, my main motivation for looking at insects in this way is conservation.\n|\nsincerely believe that all species, however small and seemingly insignificant, have\na right to exist for their own sake. If we can shine a light on the darker recesses\nof nature’s medicine cabinet, exploring the useful chemistry of the most diverse\nanimals on the planet,\n| believe we can make people think differently about the\nvalue of nature.\n64\n",
+  "blocks": [
+    {
+      "box": [
+        128.13418579101562,
+        91.78157806396484,
+        157.28289794921875,
+        100.06815338134766
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        125.61469268798828,
+        553.2987060546875,
+        212.72544860839844
+      ],
+      "text": "E\nFrom the tiny proportion of insects that have been investigated, several promising\ncompounds have been identified. For example, alloferon, an antimicrobial\ncompound produced by blow fly larvae, is used as an antiviral and antitumor agent\nin South Korea and Russia. The larvae of a few other insect species are being\ninvestigated for the potent antimicrobial compounds they produce. Meanwhile, a\ncompound from the venom of the wasp Polybia paulista has potential in cancer\ntreatment.\n"
+    },
+    {
+      "box": [
+        126.33453369140625,
+        224.23484802246094,
+        529.1563720703125,
+        239.0066375732422
+      ],
+      "text": "F\nWhy is it that insects have received relatively little attention in bioprospecting?\n"
+    },
+    {
+      "box": [
+        149.36984252929688,
+        237.19224548339844,
+        557.4556274414062,
+        339.7827453613281
+      ],
+      "text": "Firstly, there are so many insects that, without some manner of targeted approach,\ninvestigating this huge variety of species is a daunting task. Secondly, insects are\ngenerally very small, and the glands inside them that secrete potentially useful\ncompounds are smaller still. This can make it difficult to obtain sufficient quantities\nof the compound for subsequent testing. Thirdly, although we consider insects to be\neverywhere, the reality of this ubiquity is vast numbers of a few extremely common\nspecies. Many insect species are infrequently encountered and very difficult to rear\nin captivity, which, again, can leave us with insufficient material to work with.\n"
+    },
+    {
+      "box": [
+        124.89476013183594,
+        348.0498962402344,
+        551.1065673828125,
+        464.6778869628906
+      ],
+      "text": "G_\nMy colleagues and\n| at Aberystwyth University in the UK have developed an\napproach in which we use our knowledge of ecology as a guide to target our\nefforts. The creatures that particularly interest us are the many insects that secrete\npowerful poison for subduing prey and keeping it fresh for future consumption.\nThere are even more insects that are masters of exploiting filthy habitats, such as\nfaeces and carcasses, where they are regularly challenged by thousands of micro-\norganisms. These insects have many antimicrobial compounds for dealing with\npathogenic bacteria and fungi, suggesting that there is certainly potential to find\nmany compounds that can serve as or inspire new antibiotics.\n"
+    },
+    {
+      "box": [
+        124.53472900390625,
+        471.14508056640625,
+        516.4328002929688,
+        486.637451171875
+      ],
+      "text": "H = Although natural history knowledge points us in the right direction, it doesn’t\n"
+    },
+    {
+      "box": [
+        146.8502960205078,
+        485.9021301269531,
+        538.3865966796875,
+        587.7723999023438
+      ],
+      "text": "solve the problems associated with obtaining useful compounds from insects.\nFortunately, it is now possible to snip out the stretches of the insect’s DNA that\ncarry the codes for the interesting compounds and insert them into cell lines that\nallow larger quantities to be produced. And although the road from isolating and\ncharacterising compounds with desirable qualities to developing\na commercial\nproduct is very long and full of pitfalls, the variety of successful animal-derived\npharmaceuticals on the market demonstrates there is a precedent here that is\nworth exploring.\n"
+    },
+    {
+      "box": [
+        123.09508514404297,
+        596.3998413085938,
+        545.5780639648438,
+        696.4683837890625
+      ],
+      "text": "I\nWith every bit of wilderness that disappears, we deprive ourselves of potential\nmedicines. As much as I’d love to help develop a groundbreaking insect-derived\nmedicine, my main motivation for looking at insects in this way is conservation.\n|\nsincerely believe that all species, however small and seemingly insignificant, have\na right to exist for their own sake. If we can shine a light on the darker recesses\nof nature’s medicine cabinet, exploring the useful chemistry of the most diverse\nanimals on the planet,\n| believe we can make people think differently about the\nvalue of nature.\n"
+    },
+    {
+      "box": [
+        121.6553726196289,
+        728.8532104492188,
+        133.13705444335938,
+        736.779541015625
+      ],
+      "text": "64\n"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "cam15-listening-test1",
+  "version": "2.0-listening1",
+  "answers": {
+    "1": [
+      "Jamieson"
+    ],
+    "2": [
+      "afternoon"
+    ],
+    "3": [
+      "communication"
+    ],
+    "4": [
+      "week"
+    ],
+    "5": [
+      "10",
+      "ten"
+    ],
+    "6": [
+      "suit"
+    ],
+    "7": [
+      "passport"
+    ],
+    "8": [
+      "personality"
+    ],
+    "9": [
+      "feedback"
+    ],
+    "10": [
+      "time"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "river"
+    ],
+    "16": [
+      "1422"
+    ],
+    "17": [
+      "top"
+    ],
+    "18": [
+      "pass"
+    ],
+    "19": [
+      "steam"
+    ],
+    "20": [
+      "capital"
+    ],
+    "21": [
+      "G"
+    ],
+    "22": [
+      "F"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "E"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "shelter"
+    ],
+    "32": [
+      "oil"
+    ],
+    "33": [
+      "roads"
+    ],
+    "34": [
+      "insects"
+    ],
+    "35": [
+      "grass",
+      "grasses"
+    ],
+    "36": [
+      "water"
+    ],
+    "37": [
+      "soil"
+    ],
+    "38": [
+      "dry"
+    ],
+    "39": [
+      "simple"
+    ],
+    "40": [
+      "nest",
+      "nests"
+    ]
+  },
+  "multi": [
+    {
+      "numbers": [
+        29,
+        30
+      ],
+      "answers": [
+        "B",
+        "D"
+      ]
+    }
+  ],
+  "limitExceptions": {},
+  "provenance": {
+    "source": "Tài liệu Cambridge/CAMBRIDGE-15/BAN_GOC/Cambridge 15 - IELTS Fighter.pdf",
+    "pdfPage": 121,
+    "verification": "visual-review-all-16-original-key-pages"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "book": 16,
+  "test": 4,
+  "part": 2,
+  "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 4 Part 2.mp3",
+  "sha256": "b4da010e07807223d6df4cb8ee10de2544bc045b531e3e42d6b82aaf0873e2aa",
+  "duration": 384.674,
+  "samples": [
+    [
+      0,
+      115
+    ],
+    [
+      285.097125,
+      385.097125
+    ]
+  ],
+  "text": "Part 2. You will hear a town counselor reporting on the local transport network and a recreation facility. First you have some time to look at questions 11 to 14. Now, listen carefully and answer questions 11 to 14. Right, next on the agenda we have traffic and highways, Councillor Thornton. Thank you. we now have the results of the survey carried out last month about traffic and road transport in the town. People were generally satisfied with the state of the roads. There were one or two complaints about potholes which will be addressed, but a significant number of people complained about the increasing number of heavy vehicles using our local roads to avoid traffic elsewhere. We'd expected more complaints by commuters about the reduction in the train service, but it doesn't seem to have affected people too much. The cycle path that runs alongside the river is very well used by both cyclists and pedestrians since the surface was improved last year but overtaking can be a problem so we're going to add a bit on the side to make it wider. At some stage we'd like to extend the path so that it goes all the way through the town but that won't be happening in the immediate future. on the line of trees. This means there's less danger of stray balls hitting cars or pedestrians. We've got plans for a children's playground which will be accessible by a footpath from the community hall and will be alongside the river. We'd originally thought of having it close to the road but we think this will be a more attractive location. The skateboard ramp is very popular with both younger and older children. We had considered moving this up towards the river, but in the end we decided to have it in the southeast corner near the road. The pavilion is very well used at present by both football players and cricketers. It will stay where it is now, to the left of the line of trees and near to the river, handy for both the football and cricket pitches. And finally, we'll be getting a new notice for local information and that will be directly on people's rights as they go from the road into the recreation ground. That is the end of part two. You now have half a minute to check your answers to part two.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Part 2. You will hear a town counselor reporting on the local transport network and a recreation facility."
+    },
+    {
+      "start": 8.0,
+      "end": 13.0,
+      "text": "First you have some time to look at questions 11 to 14."
+    },
+    {
+      "start": 30.0,
+      "end": 50.68,
+      "text": "Now, listen carefully and answer questions 11 to 14."
+    },
+    {
+      "start": 50.68,
+      "end": 56.28,
+      "text": "Right, next on the agenda we have traffic and highways, Councillor Thornton."
+    },
+    {
+      "start": 56.28,
+      "end": 58.08,
+      "text": "Thank you."
+    },
+    {
+      "start": 58.08,
+      "end": 63.84,
+      "text": "we now have the results of the survey carried out last month about traffic and road transport in"
+    },
+    {
+      "start": 63.84,
+      "end": 69.68,
+      "text": "the town. People were generally satisfied with the state of the roads. There were one or two"
+    },
+    {
+      "start": 69.68,
+      "end": 75.12,
+      "text": "complaints about potholes which will be addressed, but a significant number of people complained"
+    },
+    {
+      "start": 75.12,
+      "end": 80.8,
+      "text": "about the increasing number of heavy vehicles using our local roads to avoid traffic elsewhere."
+    },
+    {
+      "start": 81.76,
+      "end": 87.04,
+      "text": "We'd expected more complaints by commuters about the reduction in the train service,"
+    },
+    {
+      "start": 87.04,
+      "end": 91.12,
+      "text": "but it doesn't seem to have affected people too much."
+    },
+    {
+      "start": 91.12,
+      "end": 93.92,
+      "text": "The cycle path that runs alongside the river"
+    },
+    {
+      "start": 93.92,
+      "end": 97.92,
+      "text": "is very well used by both cyclists and pedestrians"
+    },
+    {
+      "start": 97.92,
+      "end": 100.72,
+      "text": "since the surface was improved last year"
+    },
+    {
+      "start": 100.72,
+      "end": 102.96,
+      "text": "but overtaking can be a problem"
+    },
+    {
+      "start": 102.96,
+      "end": 106.8,
+      "text": "so we're going to add a bit on the side to make it wider."
+    },
+    {
+      "start": 106.8,
+      "end": 109.68,
+      "text": "At some stage we'd like to extend the path"
+    },
+    {
+      "start": 109.68,
+      "end": 112.56,
+      "text": "so that it goes all the way through the town"
+    },
+    {
+      "start": 112.56,
+      "end": 116.88,
+      "text": "but that won't be happening in the immediate future."
+    },
+    {
+      "start": 285.1,
+      "end": 291.26,
+      "text": "on the line of trees. This means there's less danger of stray balls hitting cars or pedestrians."
+    },
+    {
+      "start": 292.46,
+      "end": 297.18,
+      "text": "We've got plans for a children's playground which will be accessible by a footpath from the"
+    },
+    {
+      "start": 297.18,
+      "end": 302.94,
+      "text": "community hall and will be alongside the river. We'd originally thought of having it close to the"
+    },
+    {
+      "start": 302.94,
+      "end": 310.3,
+      "text": "road but we think this will be a more attractive location. The skateboard ramp is very popular with"
+    },
+    {
+      "start": 310.3,
+      "end": 316.26,
+      "text": "both younger and older children. We had considered moving this up towards the river, but"
+    },
+    {
+      "start": 316.26,
+      "end": 321.38,
+      "text": "in the end we decided to have it in the southeast corner near the road."
+    },
+    {
+      "start": 321.38,
+      "end": 326.62,
+      "text": "The pavilion is very well used at present by both football players and cricketers. It"
+    },
+    {
+      "start": 326.62,
+      "end": 331.74,
+      "text": "will stay where it is now, to the left of the line of trees and near to the river, handy"
+    },
+    {
+      "start": 331.74,
+      "end": 337.3,
+      "text": "for both the football and cricket pitches. And finally, we'll be getting a new notice"
+    },
+    {
+      "start": 337.3,
+      "end": 342.3,
+      "text": "for local information and that will be directly on people's rights as they go"
+    },
+    {
+      "start": 342.3,
+      "end": 345.3,
+      "text": "from the road into the recreation ground."
+    },
+    {
+      "start": 347.3,
+      "end": 350.3,
+      "text": "That is the end of part two."
+    },
+    {
+      "start": 350.3,
+      "end": 354.3,
+      "text": "You now have half a minute to check your answers to part two."
+    }
+  ],
+  "method": "local-faster-whisper-tiny.en-int8-samples"
+}

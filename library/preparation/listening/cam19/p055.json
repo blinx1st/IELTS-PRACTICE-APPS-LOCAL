@@ -1,0 +1,111 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 55,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 3\nQuestions 7-10\nComplete the table below.\nWrite ONE WORD ONLY for each answer.\nShopping\nFish market\na dozen prawns\nA NANAPUL OF 7 wccecccscseseseeensesne\n(type of seaweed)\nOrganic shop\nDEANS AN AB voces\nSPICES ANM Y oecscsssssnmeeneon\nfor dessert\na\n56\n(Op. 124] {3 p.108]\nTham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\nhttps://www.facebook.com/groups/ieltsfighter.support\n",
+  "blocks": [
+    {
+      "box": [
+        45.709712982177734,
+        35.99189376831055,
+        74.84873962402344,
+        43.91801452636719
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        44.989871978759766,
+        69.82433319091797,
+        128.39739990234375,
+        79.55183410644531
+      ],
+      "text": "Questions 7-10\n"
+    },
+    {
+      "box": [
+        44.989871978759766,
+        97.89795684814453,
+        169.03240966796875,
+        107.98578643798828
+      ],
+      "text": "Complete the table below.\n"
+    },
+    {
+      "box": [
+        44.989871978759766,
+        123.45220184326172,
+        250.01414489746094,
+        132.09890747070312
+      ],
+      "text": "Write ONE WORD ONLY for each answer.\n"
+    },
+    {
+      "box": [
+        246.9044189453125,
+        155.8449249267578,
+        296.08380126953125,
+        165.9327392578125
+      ],
+      "text": "Shopping\n"
+    },
+    {
+      "box": [
+        48.589054107666016,
+        197.59555053710938,
+        445.694580078125,
+        223.88006591796875
+      ],
+      "text": "Fish market\na dozen prawns\nA NANAPUL OF 7 wccecccscseseseeensesne\n(type of seaweed)\n"
+    },
+    {
+      "box": [
+        48.58906936645508,
+        251.22344970703125,
+        440.4761047363281,
+        274.98602294921875
+      ],
+      "text": "Organic shop\nDEANS AN AB voces\nSPICES ANM Y oecscsssssnmeeneon\nfor dessert\n"
+    },
+    {
+      "box": [
+        311.32989501953125,
+        308.0906677246094,
+        419.6509094238281,
+        316.7373352050781
+      ],
+      "text": "a\n"
+    },
+    {
+      "box": [
+        43.550193786621094,
+        667.289794921875,
+        200.33091735839844,
+        686.3845825195312
+      ],
+      "text": "56\n(Op. 124] {3 p.108]\n"
+    },
+    {
+      "box": [
+        139.2886505126953,
+        689.2448120117188,
+        408.7671813964844,
+        699.3326416015625
+      ],
+      "text": "Tham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\n"
+    },
+    {
+      "box": [
+        150.08621215820312,
+        702.9217529296875,
+        395.8248291015625,
+        712.2890014648438
+      ],
+      "text": "https://www.facebook.com/groups/ieltsfighter.support\n"
+    }
+  ]
+}
