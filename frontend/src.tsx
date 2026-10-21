@@ -49,7 +49,13 @@ import { Annotated } from "./Annotated";
 import { highlightSelection } from "./annotations";
 import { SelectionTools } from "./SelectionTools";
 import type { HighlightColor } from "./types";
-import {ListeningColumnsPicker,QuestionColumns,canSplitQuestions,useListeningColumns,useQuestionPaneWidth} from './ListeningColumns';
+import {
+  ListeningColumnsPicker,
+  QuestionColumns,
+  canSplitQuestions,
+  useListeningColumns,
+  useQuestionPaneWidth,
+} from "./ListeningColumns";
 import {
   InteractiveTable,
   MatchingMatrix,
@@ -110,7 +116,7 @@ function Brand() {
         <img src="/app-logo.png" alt="" />
       </span>
       <span>
-        Tu Luyện - IELTS
+        Tu Luyện IELTS
         <small>ĐỘT PHÁ TU VI</small>
       </span>
     </div>
@@ -1177,8 +1183,8 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
   const expiryRequested = useRef(false),
     panels = useRef<HTMLDivElement>(null),
     reading = useRef<HTMLDivElement>(null);
-  const {ref:questions,wide:questionPaneWide}=useQuestionPaneWidth();
-  const columnPreference=useListeningColumns();
+  const { ref: questions, wide: questionPaneWide } = useQuestionPaneWidth();
+  const columnPreference = useListeningColumns();
   const offset = useRef(0);
   useEffect(() => {
     if (a) offset.current = a.serverNow - Date.now() / 1000;
@@ -1332,8 +1338,8 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
         if (end > start)
           ranges.push({
             anchor: el.dataset.textId!,
-            start: start + Number(el.dataset.textStart||0),
-            end: end + Number(el.dataset.textStart||0),
+            start: start + Number(el.dataset.textStart || 0),
+            end: end + Number(el.dataset.textStart || 0),
             text: el.textContent.slice(start, end),
           });
       });
@@ -1672,7 +1678,12 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
           ))}
         </div>
         <div className="reading-tools">
-          {listening&&<ListeningColumnsPicker mode={columnPreference.mode} onChange={columnPreference.set}/>}
+          {listening && (
+            <ListeningColumnsPicker
+              mode={columnPreference.mode}
+              onChange={columnPreference.set}
+            />
+          )}
           <button onClick={() => setSupport("display")}>
             <Settings2 size={16} />
             Display
@@ -1818,7 +1829,11 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
             <QuestionGroup
               key={g.id}
               group={g}
-              twoColumns={listening&&questionPaneWide&&canSplitQuestions(g,columnPreference.mode)}
+              twoColumns={
+                listening &&
+                questionPaneWide &&
+                canSplitQuestions(g, columnPreference.mode)
+              }
               attempt={a}
               editable={!!editable}
               onAnswer={(n, value) =>
@@ -1950,7 +1965,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
       )}
 
       {selection && (
-        <SelectionTools x={selection.x} y={selection.y} onAction={annotate}/>
+        <SelectionTools x={selection.x} y={selection.y} onAction={annotate} />
       )}
       {submitOpen && (
         <Modal title="Finish your test?" onClose={() => setSubmitOpen(false)}>
@@ -2212,7 +2227,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
 
 function QuestionGroup({
   group: g,
-  twoColumns=false,
+  twoColumns = false,
   attempt: a,
   editable,
   onAnswer,
@@ -2226,7 +2241,7 @@ function QuestionGroup({
   onAnnotation,
 }: {
   group: Group;
-  twoColumns?:boolean;
+  twoColumns?: boolean;
   attempt: Attempt;
   editable: boolean;
   onAnswer: (n: number, v: string) => void;
@@ -2540,136 +2555,142 @@ function QuestionGroup({
           )}
         </div>
       ) : (
-        <QuestionColumns items={g.questions} split={twoColumns} render={(q) => {
-          const opts =
-            g.type === "tfng"
-              ? [
-                  { value: "TRUE", label: "TRUE" },
-                  { value: "FALSE", label: "FALSE" },
-                  { value: "NOT GIVEN", label: "NOT GIVEN" },
-                ]
-              : g.type === "ynng"
-              ? [
-                  { value: "YES", label: "YES" },
-                  { value: "NO", label: "NO" },
-                  { value: "NOT GIVEN", label: "NOT GIVEN" },
-                ]
-              : optsFor(q);
-          const isChoice = g.type === "choice" && opts.length > 0;
-          const showStem =
-            !showBody ||
-            (g.type === "matching" &&
-              !imageMode &&
-              !!q.text?.trim() &&
-              !textBody?.includes(q.text));
-          return (
-            <div
-              data-question={q.number}
-              key={q.number}
-              onFocus={() => onFocus(q.number)}
-              className={
-                "question-item " +
-                (focused === q.number ? "question-focused" : "") +
-                " " +
-                (results[q.number]?.status || "")
-              }
-            >
-              <div className="question-label">
-                <span className="question-index">{q.number}</span>
-                {showStem && (
-                  <span className="question-text">
-                    <Annotated
-                      id={g.id + "-q" + q.number}
-                      text={q.text}
-                      annotations={a.annotations}
-                      onEdit={onAnnotation}
-                    />
-                  </span>
-                )}
-                {!showStem && (
-                  <label
-                    htmlFor={"answer-" + q.number}
-                    className="answer-label"
-                  >
-                    Answer {q.number}
-                  </label>
-                )}
-                {flag(q.number)}
-              </div>
-              {isChoice ? (
-                <div className="question-options">
-                  {opts.map((o) => (
-                    <label
-                      key={o.value}
-                      className={
-                        "option " +
-                        (a.answers[q.number] === o.value ? "chosen" : "")
-                      }
-                    >
-                      <input
-                        type="radio"
-                        name={"q-" + q.number}
-                        value={o.value}
-                        checked={a.answers[q.number] === o.value}
-                        disabled={!editable}
-                        onChange={() => onAnswer(q.number, o.value)}
+        <QuestionColumns
+          items={g.questions}
+          split={twoColumns}
+          render={(q) => {
+            const opts =
+              g.type === "tfng"
+                ? [
+                    { value: "TRUE", label: "TRUE" },
+                    { value: "FALSE", label: "FALSE" },
+                    { value: "NOT GIVEN", label: "NOT GIVEN" },
+                  ]
+                : g.type === "ynng"
+                ? [
+                    { value: "YES", label: "YES" },
+                    { value: "NO", label: "NO" },
+                    { value: "NOT GIVEN", label: "NOT GIVEN" },
+                  ]
+                : optsFor(q);
+            const isChoice = g.type === "choice" && opts.length > 0;
+            const showStem =
+              !showBody ||
+              (g.type === "matching" &&
+                !imageMode &&
+                !!q.text?.trim() &&
+                !textBody?.includes(q.text));
+            return (
+              <div
+                data-question={q.number}
+                key={q.number}
+                onFocus={() => onFocus(q.number)}
+                className={
+                  "question-item " +
+                  (focused === q.number ? "question-focused" : "") +
+                  " " +
+                  (results[q.number]?.status || "")
+                }
+              >
+                <div className="question-label">
+                  <span className="question-index">{q.number}</span>
+                  {showStem && (
+                    <span className="question-text">
+                      <Annotated
+                        id={g.id + "-q" + q.number}
+                        text={q.text}
+                        annotations={a.annotations}
+                        onEdit={onAnnotation}
                       />
-                      <span>{optionLabel(o)}</span>
-                    </label>
-                  ))}
-                  {editable && a.answers[q.number] && (
-                    <button
-                      className="text-button clear-answer"
-                      onClick={() => onAnswer(q.number, "")}
-                    >
-                      Clear answer
-                    </button>
+                    </span>
                   )}
+                  {!showStem && (
+                    <label
+                      htmlFor={"answer-" + q.number}
+                      className="answer-label"
+                    >
+                      Answer {q.number}
+                    </label>
+                  )}
+                  {flag(q.number)}
                 </div>
-              ) : opts.length > 0 ? (
-                <select
-                  id={"answer-" + q.number}
-                  aria-label={"Answer " + q.number}
-                  value={a.answers[q.number] || ""}
-                  disabled={!editable}
-                  onChange={(e) => onAnswer(q.number, e.target.value)}
-                >
-                  <option value="">Select an answer</option>
-                  {opts.map((o) => (
-                    <option key={o.value} value={o.value}>
-                      {g.type === "tfng" || g.type === "ynng"
-                        ? o.label
-                        : optionLabel(o)}
-                    </option>
-                  ))}
-                </select>
-              ) : (
-                <input
-                  id={"answer-" + q.number}
-                  className="answer-input"
-                  type="text"
-                  aria-label={"Answer " + q.number}
-                  placeholder="Type your answer"
-                  autoComplete="off"
-                  spellCheck={false}
-                  maxLength={1000}
-                  value={a.answers[q.number] || ""}
-                  disabled={!editable}
-                  onChange={(e) => onAnswer(q.number, e.target.value)}
-                />
-              )}
-              {g.wordLimit && (
-                <small className="word-limit">
-                  {g.wordLimit === 1
-                    ? "ONE WORD"
-                    : `NO MORE THAN ${g.wordLimit} WORDS`}
-                  {g.allowNumber ? " AND/OR A NUMBER" : ""}
-                </small>
-              )}
-              {results[q.number] && <AnswerFeedback row={results[q.number]} />}
-            </div>
-          );
-        }}/>
+                {isChoice ? (
+                  <div className="question-options">
+                    {opts.map((o) => (
+                      <label
+                        key={o.value}
+                        className={
+                          "option " +
+                          (a.answers[q.number] === o.value ? "chosen" : "")
+                        }
+                      >
+                        <input
+                          type="radio"
+                          name={"q-" + q.number}
+                          value={o.value}
+                          checked={a.answers[q.number] === o.value}
+                          disabled={!editable}
+                          onChange={() => onAnswer(q.number, o.value)}
+                        />
+                        <span>{optionLabel(o)}</span>
+                      </label>
+                    ))}
+                    {editable && a.answers[q.number] && (
+                      <button
+                        className="text-button clear-answer"
+                        onClick={() => onAnswer(q.number, "")}
+                      >
+                        Clear answer
+                      </button>
+                    )}
+                  </div>
+                ) : opts.length > 0 ? (
+                  <select
+                    id={"answer-" + q.number}
+                    aria-label={"Answer " + q.number}
+                    value={a.answers[q.number] || ""}
+                    disabled={!editable}
+                    onChange={(e) => onAnswer(q.number, e.target.value)}
+                  >
+                    <option value="">Select an answer</option>
+                    {opts.map((o) => (
+                      <option key={o.value} value={o.value}>
+                        {g.type === "tfng" || g.type === "ynng"
+                          ? o.label
+                          : optionLabel(o)}
+                      </option>
+                    ))}
+                  </select>
+                ) : (
+                  <input
+                    id={"answer-" + q.number}
+                    className="answer-input"
+                    type="text"
+                    aria-label={"Answer " + q.number}
+                    placeholder="Type your answer"
+                    autoComplete="off"
+                    spellCheck={false}
+                    maxLength={1000}
+                    value={a.answers[q.number] || ""}
+                    disabled={!editable}
+                    onChange={(e) => onAnswer(q.number, e.target.value)}
+                  />
+                )}
+                {g.wordLimit && (
+                  <small className="word-limit">
+                    {g.wordLimit === 1
+                      ? "ONE WORD"
+                      : `NO MORE THAN ${g.wordLimit} WORDS`}
+                    {g.allowNumber ? " AND/OR A NUMBER" : ""}
+                  </small>
+                )}
+                {results[q.number] && (
+                  <AnswerFeedback row={results[q.number]} />
+                )}
+              </div>
+            );
+          }}
+        />
       )}
     </div>
   );
