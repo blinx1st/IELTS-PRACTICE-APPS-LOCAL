@@ -77,176 +77,400 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "JUNIOR CYCLE CAMP"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "The course focuses on skills and safety."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Charlie would be placed in Level 5."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "First of all, children at this level are taken to practise in a ",
                   {
                     "number": 1
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-3-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Instructors"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Instructors wear ",
                   {
                     "number": 2
                   },
                   " shirts."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-5-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "A ",
                   {
                     "number": 3
                   },
                   " is required and training is given."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-6-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Classes"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "The size of the classes is limited."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "There are quiet times during the morning for a ",
                   {
                     "number": 4
                   },
                   " or a game."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-9-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Classes are held even if there is ",
                   {
                     "number": 5
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-10-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "What to bring"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "a change of clothing"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "a ",
                   {
                     "number": 6
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-13-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "shoes (not sandals)"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Charlie’s ",
                   {
                     "number": 7
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-15-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Day 1"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Charlie should arrive at 9.20 am on the first day."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Before the class, his ",
                   {
                     "number": 8
                   },
                   " will be checked."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-18-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-18-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "He should then go to the ",
                   {
                     "number": 9
                   },
                   " to meet his class instructor."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-19-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-19-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Cost"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-20-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "The course costs $",
                   {
                     "number": 10
                   },
                   " per week."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p1-g1-flow-21-0",
+                  "",
+                  "l-cam16-t3-p1-g1-flow-21-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -813,160 +1037,367 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Hand knitting"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Interest in knitting"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Knitting has a long history around the world."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "We imagine someone like a ",
                   {
                     "number": 31
                   },
                   " knitting."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-3-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "A ",
                   {
                     "number": 32
                   },
                   " ago, knitting was expected to disappear."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-4-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The number of knitting classes is now increasing."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "People are buying more ",
                   {
                     "number": 33
                   },
                   " for knitting nowadays."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-6-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Benefits of knitting"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "gives support in times of ",
                   {
                     "number": 34
                   },
                   " difficulty"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-8-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "requires only ",
                   {
                     "number": 35
                   },
                   " skills and little money to start"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-9-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "reduces stress in a busy life"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Early knitting"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "The origins are not known."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Findings show early knitted items to be ",
                   {
                     "number": 36
                   },
                   " in shape."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-13-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The first needles were made of natural materials such as wood and ",
                   {
                     "number": 37
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-14-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-14-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Early yarns felt ",
                   {
                     "number": 38
                   },
                   " to touch."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-15-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-15-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Wool became the most popular yarn for spinning."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Geographical areas had their own ",
                   {
                     "number": 39
                   },
                   " of knitting."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-17-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-17-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Everyday tasks like looking after ",
                   {
                     "number": 40
                   },
                   " were done while knitting."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t3-p4-g31-flow-18-0",
+                  "",
+                  "l-cam16-t3-p4-g31-flow-18-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

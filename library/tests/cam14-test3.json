@@ -525,13 +525,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Research at Aberystwyth University"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t3-p2-g3-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Ross Piper and fellow zoologists at Aberystwyth University are using their expertise in ",
                   {
@@ -550,9 +556,37 @@
                     "number": 26
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t3-p2-g3-flow-1-0",
+                  "",
+                  "cam14-t3-p2-g3-flow-1-2",
+                  "",
+                  "cam14-t3-p2-g3-flow-1-4",
+                  "",
+                  "cam14-t3-p2-g3-flow-1-6",
+                  "",
+                  "cam14-t3-p2-g3-flow-1-8"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -773,13 +807,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Guided play"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t3-p3-g3-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "In the simplest form of guided play, an adult contributes to the environment in which the child is playing. Alternatively, an adult can play with a child and develop the play, for instance by ",
                   {
@@ -790,10 +830,25 @@
                     "number": 38
                   },
                   " to play."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t3-p3-g3-flow-1-0",
+                  "",
+                  "cam14-t3-p3-g3-flow-1-2",
+                  "",
+                  "cam14-t3-p3-g3-flow-1-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Play without the intervention of adults gives children real ",
                   {
@@ -804,9 +859,29 @@
                     "number": 40
                   },
                   " at particular goals. However, all forms of play should be an opportunity for children to have fun."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t3-p3-g3-flow-2-0",
+                  "",
+                  "cam14-t3-p3-g3-flow-2-2",
+                  "",
+                  "cam14-t3-p3-g3-flow-2-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

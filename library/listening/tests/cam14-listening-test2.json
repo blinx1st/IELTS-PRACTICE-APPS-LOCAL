@@ -77,106 +77,214 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "TOTAL HEALTH CLINIC"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "PATIENT DETAILS"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Personal information"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Example: Name: Julie Anne Garcia"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Contact phone: ",
                   {
                     "number": 1
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Date of birth: ",
                   {
                     "number": 2
                   },
                   ", 1992"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-5-0",
+                  "",
+                  "l-cam14-t2-p1-g1-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Occupation: works as a ",
                   {
                     "number": 3
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-6-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Insurance company: ",
                   {
                     "number": 4
                   },
                   " Life Insurance"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-7-0",
+                  "",
+                  "l-cam14-t2-p1-g1-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Details of the problem"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Type of problem: pain in her left ",
                   {
                     "number": 5
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-9-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "When it began: ",
                   {
                     "number": 6
                   },
                   " ago"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-10-0",
+                  "",
+                  "l-cam14-t2-p1-g1-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Action already taken: has taken painkillers and applied ice"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Other information"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Sports played: belongs to a ",
                   {
@@ -187,10 +295,25 @@
                     "number": 8
                   },
                   " regularly"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-13-0",
+                  "",
+                  "l-cam14-t2-p1-g1-flow-13-2",
+                  "",
+                  "l-cam14-t2-p1-g1-flow-13-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Medical history: injured her ",
                   {
@@ -200,9 +323,27 @@
                   {
                     "number": 10
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p1-g1-flow-14-0",
+                  "",
+                  "l-cam14-t2-p1-g1-flow-14-2",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -763,166 +904,377 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "The history of weather forecasting"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Ancient cultures"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "many cultures believed that floods and other disasters were involved in the creation of the world"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "many cultures invented ",
                   {
                     "number": 31
                   },
                   " and other ceremonies to make the weather gods friendly"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-3-0",
+                  "",
+                  "l-cam14-t2-p4-g31-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "people needed to observe and interpret the sky to ensure their ",
                   {
                     "number": 32
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "around 650 BC, Babylonians started forecasting, using weather phenomena such as ",
                   {
                     "number": 33
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-5-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "by 300 BC, the Chinese had a calendar made up of a number of ",
                   {
                     "number": 34
                   },
                   " connected with the weather"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-6-0",
+                  "",
+                  "l-cam14-t2-p4-g31-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Ancient Greeks"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "a more scientific approach"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Aristotle tried to explain the formation of various weather phenomena"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Aristotle also described haloes and ",
                   {
                     "number": 35
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-10-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Middle Ages"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Aristotle’s work considered accurate"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "many proverbs, e.g. about the significance of the colour of the ",
                   {
                     "number": 36
                   },
                   ", passed on accurate information."
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-13-0",
+                  "",
+                  "l-cam14-t2-p4-g31-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "15th–19th centuries"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "15th century: scientists recognised value of ",
                   {
                     "number": 37
                   },
                   " for the first time"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-15-0",
+                  "",
+                  "l-cam14-t2-p4-g31-flow-15-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Galileo invented the ",
                   {
                     "number": 38
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-16-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Pascal showed relationship between atmospheric pressure and altitude"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "from the 17th century, scientists could measure atmospheric pressure and temperature"
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-18-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "18th century: Franklin identified the movement of ",
                   {
                     "number": 39
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-19-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "19th century: data from different locations could be sent to the same place by ",
                   {
                     "number": 40
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam14-t2-p4-g31-flow-20-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

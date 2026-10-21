@@ -59,19 +59,67 @@
                     "header": true,
                     "content": [
                       "Date"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Date"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "header": true,
                     "content": [
                       "Type of event"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Type of event"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "header": true,
                     "content": [
                       "Details"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Details"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -81,18 +129,63 @@
                     "header": false,
                     "content": [
                       "17th"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "17th"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "a concert"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "a concert"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "performers from Canada"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "performers from Canada"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-1-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -103,12 +196,42 @@
                     "header": false,
                     "content": [
                       "18th"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "18th"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "a ballet"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "a ballet"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-2-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -117,6 +240,26 @@
                       "company called ",
                       {
                         "number": 1
+                      }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "company called ",
+                          {
+                            "number": 1
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-2-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
                       }
                     ]
                   }
@@ -128,12 +271,42 @@
                     "header": false,
                     "content": [
                       "19th–20th (afternoon)"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "19th–20th (afternoon)"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-3-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "a play"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "a play"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-3-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -142,6 +315,26 @@
                       "type of play: a comedy called Jemima\nhas had a good ",
                       {
                         "number": 2
+                      }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "type of play: a comedy called Jemima\nhas had a good ",
+                          {
+                            "number": 2
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-3-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
                       }
                     ]
                   }
@@ -153,6 +346,21 @@
                     "header": false,
                     "content": [
                       "20th (evening)"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "20th (evening)"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-4-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -163,6 +371,29 @@
                         "number": 3
                       },
                       " show"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "a ",
+                          {
+                            "number": 3
+                          },
+                          " show"
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-4-1-0",
+                          "",
+                          "l-cam15-t2-p1-g1-cell-4-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -172,11 +403,39 @@
                       {
                         "number": 4
                       }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "show is called ",
+                          {
+                            "number": 4
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam15-t2-p1-g1-cell-4-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              21,
+              34,
+              45
+            ],
+            "variant": "grid",
+            "minWidthCh": 59
           }
         },
         {
@@ -223,75 +482,165 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Workshops"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Making ",
                   {
                     "number": 5
                   },
                   " food"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-1-0",
+                  "",
+                  "l-cam15-t2-p1-g5-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "(children only) Making ",
                   {
                     "number": 6
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-2-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "(adults only) Making toys from ",
                   {
                     "number": 7
                   },
                   " using various tools"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-3-0",
+                  "",
+                  "l-cam15-t2-p1-g5-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Outdoor activities"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Swimming in the ",
                   {
                     "number": 8
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-5-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Walking in the woods, led by an expert on ",
                   {
                     "number": 9
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-6-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "See the festival organiser’s ",
                   {
                     "number": 10
                   },
                   " for more information"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p1-g5-flow-7-0",
+                  "",
+                  "l-cam15-t2-p1-g5-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -853,177 +1202,400 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Agricultural programme in Mozambique"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "How the programme was organised"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "It focused on a dry and arid region in Chicualacuala district, near the Limpopo River."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "People depended on the forest to provide charcoal as a source of income."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   {
                     "number": 31
                   },
                   " was seen as the main priority to ensure the supply of water."
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam15-t2-p4-g31-flow-4-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Most of the work organised by farmers’ associations was done by ",
                   {
                     "number": 32
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-5-0",
+                  "",
+                  "l-cam15-t2-p4-g31-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Fenced areas were created to keep animals away from crops."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The programme provided"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– ",
                   {
                     "number": 33
                   },
                   " for the fences"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam15-t2-p4-g31-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– ",
                   {
                     "number": 34
                   },
                   " for suitable crops"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam15-t2-p4-g31-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– water pumps."
-                ]
+                  "water pumps."
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-10-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "The farmers provided"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– labour"
-                ]
+                  "labour"
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-12-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– ",
                   {
                     "number": 35
                   },
                   " for the fences on their land."
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam15-t2-p4-g31-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "h3",
                 "content": [
                   "Further developments"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "The marketing of produce was sometimes difficult due to lack of ",
                   {
                     "number": 36
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-15-0",
+                  "",
+                  "l-cam15-t2-p4-g31-flow-15-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Training was therefore provided in methods of food ",
                   {
                     "number": 37
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-16-0",
+                  "",
+                  "l-cam15-t2-p4-g31-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Farmers made special places where ",
                   {
                     "number": 38
                   },
                   " could be kept."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-17-0",
+                  "",
+                  "l-cam15-t2-p4-g31-flow-17-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Local people later suggested keeping ",
                   {
                     "number": 39
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-18-0",
+                  "",
+                  "l-cam15-t2-p4-g31-flow-18-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Evaluation and lessons learned"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-19-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Agricultural production increased, improving incomes and food security."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-20-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Enough time must be allowed, particularly for the ",
                   {
                     "number": 40
                   },
                   " phase of the programme."
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t2-p4-g31-flow-21-0",
+                  "",
+                  "l-cam15-t2-p4-g31-flow-21-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

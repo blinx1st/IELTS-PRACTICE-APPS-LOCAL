@@ -62,6 +62,7 @@ import "./exam-upgrade.css";
 import "./listening.css";
 import "./experience.css";
 import "./ux-upgrade.css";
+import "./book-layout.css";
 import { Modal } from "./Dialog";
 import { ExamNavigation } from "./ExamNavigation";
 import {

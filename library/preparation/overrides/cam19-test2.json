@@ -109,136 +109,309 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Britain’s Industrial Revolution"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Steam power"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Newcomen’s steam engine was used in mines to remove water."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "In Watt and Boulton’s steam engine, the movement of the ",
                   {
                     "number": 1
                   },
                   " was linked to a gear system."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-3-0",
+                  "",
+                  "cam19-t2-p1-g1-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "A greater supply of ",
                   {
                     "number": 2
                   },
                   " was required to power steam engines."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-4-0",
+                  "",
+                  "cam19-t2-p1-g1-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Textile industry"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Before the Industrial Revolution, spinners and weavers worked at home and in ",
                   {
                     "number": 3
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-6-0",
+                  "",
+                  "cam19-t2-p1-g1-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Not as much ",
                   {
                     "number": 4
                   },
                   " was needed to produce cloth once the spinning jenny and power loom were invented."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-7-0",
+                  "",
+                  "cam19-t2-p1-g1-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Iron industry"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Smelting of iron ore with coke resulted in material that was better ",
                   {
                     "number": 5
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-9-0",
+                  "",
+                  "cam19-t2-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Demand for iron increased with the growth of the ",
                   {
                     "number": 6
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-10-0",
+                  "",
+                  "cam19-t2-p1-g1-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Communications"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Cooke and Wheatstone patented the first telegraphy system."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "The telegraphy system was used to prevent locomotives colliding."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-13-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Urbanisation"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Small towns turned into cities very quickly."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "The new cities were dirty, crowded and lacked sufficient ",
                   {
                     "number": 7
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p1-g1-flow-16-0",
+                  "",
+                  "cam19-t2-p1-g1-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -471,46 +644,91 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
                   "Performance stress involves many demands on the athlete, for example, coping with the possible risk of ",
                   {
                     "number": 19
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p2-g2-flow-0-0",
+                  "",
+                  "cam19-t2-p2-g2-flow-0-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Cortisol can cause tennis players to produce fewer good ",
                   {
                     "number": 20
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p2-g2-flow-1-0",
+                  "",
+                  "cam19-t2-p2-g2-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Psychologists can help athletes to view their physiological responses as the effect of a positive feeling such as ",
                   {
                     "number": 21
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p2-g2-flow-2-0",
+                  "",
+                  "cam19-t2-p2-g2-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
-                  "",
                   {
                     "number": 22
                   },
                   " is an example of a psychological technique which can reduce an athlete’s stress responses."
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "cam19-t2-p2-g2-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "sentences",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         },
         {
@@ -771,13 +989,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Maryam Mirzakhani"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p3-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Maryam Mirzakhani is regarded as ",
                   {
@@ -792,10 +1016,29 @@
                     "number": 29
                   },
                   " by a difficult puzzle that one of her siblings showed her."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p3-g1-flow-1-0",
+                  "",
+                  "cam19-t2-p3-g1-flow-1-2",
+                  "",
+                  "cam19-t2-p3-g1-flow-1-4",
+                  "",
+                  "cam19-t2-p3-g1-flow-1-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Later, as a professional mathematician, she had an inquiring mind and proved herself to be ",
                   {
@@ -810,9 +1053,33 @@
                     "number": 32
                   },
                   " mathematical studies."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t2-p3-g1-flow-2-0",
+                  "",
+                  "cam19-t2-p3-g1-flow-2-2",
+                  "",
+                  "cam19-t2-p3-g1-flow-2-4",
+                  "",
+                  "cam19-t2-p3-g1-flow-2-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "after"
           }
         },
         {

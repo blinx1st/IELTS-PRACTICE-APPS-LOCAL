@@ -71,75 +71,164 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Working at Milo's Restaurants"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p1-q1-5-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Benefits"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p1-q1-5-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   {
                     "number": 1
                   },
                   " provided for all staff"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam18-t2-p1-q1-5-flow-2-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   {
                     "number": 2
                   },
                   " during weekdays at all Milo's Restaurants"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam18-t2-p1-q1-5-flow-3-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   {
                     "number": 3
                   },
                   " provided after midnight"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam18-t2-p1-q1-5-flow-4-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Person specification"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p1-q1-5-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "must be prepared to work well in a team"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p1-q1-5-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "must care about maintaining a high standard of ",
                   {
                     "number": 4
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p1-q1-5-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "must have a qualification in ",
                   {
                     "number": 5
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p1-q1-5-flow-8-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -201,25 +290,89 @@
                     "content": [
                       "Location"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Location"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Job title"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Job title"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Responsibilities include"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Responsibilities include"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Pay and conditions"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Pay and conditions"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-0-3-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -232,13 +385,48 @@
                       },
                       " Street"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          {
+                            "number": 6
+                          },
+                          " Street"
+                        ],
+                        "anchors": [
+                          "",
+                          "l-cam18-t2-p1-q6-10-cell-1-0-1"
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "Breakfast supervisor"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Breakfast supervisor"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -248,7 +436,43 @@
                       },
                       " is clean"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Checking portions, etc. are correct"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-1-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "Making sure ",
+                          {
+                            "number": 7
+                          },
+                          " is clean"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-1-2-0",
+                          "",
+                          "l-cam18-t2-p1-q6-10-cell-1-2-2"
+                        ],
+                        "offsets": [
+                          37,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -258,7 +482,43 @@
                       },
                       " per hour\n\nStart work at 5.30 a.m."
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Starting salary £ ",
+                          {
+                            "number": 8
+                          },
+                          " per hour"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-1-3-0",
+                          "",
+                          "l-cam18-t2-p1-q6-10-cell-1-3-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "Start work at 5.30 a.m."
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-1-3-2"
+                        ],
+                        "offsets": [
+                          11
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -268,13 +528,43 @@
                     "content": [
                       "City Road"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "City Road"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "Junior chef"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Junior chef"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-2-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -283,7 +573,40 @@
                         "number": 9
                       }
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Supporting senior chefs"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-2-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "Maintaining stock and organising ",
+                          {
+                            "number": 9
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-2-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          25,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -293,11 +616,56 @@
                       },
                       " once a month"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Annual salary £23,000"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-2-3-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "No work on a ",
+                          {
+                            "number": 10
+                          },
+                          " once a month"
+                        ],
+                        "anchors": [
+                          "l-cam18-t2-p1-q6-10-cell-2-3-0",
+                          "",
+                          "l-cam18-t2-p1-q6-10-cell-2-3-2"
+                        ],
+                        "offsets": [
+                          23,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              24,
+              25,
+              23,
+              28
+            ],
+            "variant": "grid",
+            "minWidthCh": 87
           }
         }
       ],
@@ -988,148 +1356,337 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Pockets"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Reason for choice of subject"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "They are ",
                   {
                     "number": 31
                   },
                   " but can be overlooked by consumers and designers."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-2-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Pockets in men's clothes"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Men started to wear ",
                   {
                     "number": 32
                   },
                   " in the 18th century."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-4-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "A ",
                   {
                     "number": 33
                   },
                   " sewed pockets into the lining of the garments."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-5-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "The wearer could use the pockets for small items."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Bigger pockets might be made for men who belonged to a certain type of ",
                   {
                     "number": 34
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-7-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Pockets in women's clothes"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Women's pockets were less ",
                   {
                     "number": 35
                   },
                   " than men's."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-9-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Women were very concerned about pickpockets."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Pockets were produced in pairs using ",
                   {
                     "number": 36
                   },
                   " to link them together."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-11-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Pockets hung from the women's ",
                   {
                     "number": 37
                   },
                   " under skirts and petticoats."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-12-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Items such as ",
                   {
                     "number": 38
                   },
                   " could be reached through a gap in the material."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-13-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Pockets, of various sizes, stayed inside clothing for many decades."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "When dresses changed shape, hidden pockets had a negative effect on the ",
                   {
                     "number": 39
                   },
                   " of women."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-15-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-15-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Bags called ‘pouches’ became popular, before women carried a ",
                   {
                     "number": 40
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t2-p4-q31-40-flow-16-0",
+                  "",
+                  "l-cam18-t2-p4-q31-40-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

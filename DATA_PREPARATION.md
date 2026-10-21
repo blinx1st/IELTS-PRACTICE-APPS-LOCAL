@@ -125,7 +125,7 @@ Khi chuyển app sang máy khác hoặc phục hồi dữ liệu học, giữ k�
 
 Table chứa hàng, ô, `rowSpan`/`colSpan`, chuỗi chữ và tham chiếu số câu; riêng Cambridge 15 Test 4 câu 7 có `part: 0` và `part: 1`. Không đánh số hai phần thành hai câu. Matrix giữ danh sách lựa chọn gốc và thêm các hàng câu dẫn phục vụ radio grid.
 
-`library/presentation.json` chứa layout cùng SHA-256 của nhóm gốc (không gồm field layout). Khi mở lượt làm cũ, backend chỉ thêm layout vào dữ liệu trả cho giao diện nếu fingerprint khớp; không sửa snapshot/khóa/kết quả trên SQLite. Giữ registry này khi chuyển máy. Bài mới lưu metadata ngay trong snapshot nên backup mang theo bố cục của nó.
+`library/presentation.json` chứa layout cùng SHA-256 của nhóm gốc (không gồm field layout). Khi mở lượt làm cũ, backend chỉ thêm layout nếu chưa có, hoặc nâng cấp layout đã có khi cả fingerprint nội dung và hash layout cũ nằm trong danh sách đã kiểm tra. Layout tự sửa hoặc nội dung khác được giữ nguyên. Backend không sửa snapshot/khóa/kết quả trên SQLite. Giữ registry này khi chuyển máy. Bài mới lưu metadata ngay trong snapshot nên backup mang theo bố cục của nó.
 
 Mỗi lượt làm có thể lưu `answerParts` để giữ vị trí các ô còn trống; đáp án ghép trong `answers` vẫn là chuỗi dùng để chấm. Annotation mới phân biệt `kind: highlight` (level 1–3) và `kind: note`. Giao diện đọc được annotation cũ thiếu kind và ZIP cũ, không cần di trú phá hủy dữ liệu.
 
@@ -158,3 +158,12 @@ Audit kiểm tra 32 đề/128 Parts/1.280 câu, SHA-256, ảnh/audio, native bla
 
 
 Lưu ý transcript: Cambridge 13 có nhiều dòng gạch chân bị OCR bỏ sót, nên bản chép dùng hỗ trợ nhận dạng audio local và có thể còn sai khác nhỏ về từ ngữ/tên riêng. Cambridge 20 Test 1 Part 1 có đoạn cuối thiếu trong PDF được khôi phục từ audio. App hiển thị thông báo tại các transcript này; khóa chấm và nội dung câu hỏi được giữ riêng.
+
+
+## Metadata trình bày theo sách (presentationVersion 3)
+
+Sau các importer và công cụ inline/matrix, chạy `scripts/prepare_book_layouts.py`; thêm `--check` để kiểm tra mà không ghi file. Công cụ giữ nguyên layout v3 đã duyệt, ghi đồng thời thư viện chạy app, full overrides và registry. Chạy lại `prepare_reading_inline.py --check`, `prepare_question_layouts.py --check`, `verify_rebuild.py` và `rebuild_listening.py --check` để kiểm tra khả năng dựng lại.
+
+Field tùy chọn: table có `columnWidths`, `minWidthCh`, `variant` (`grid`, `boxed-notes`, `plain`), `cell.blocks`, `scope`; flow có `variant`, `frame`, `optionsPosition`; block có `role`, `depth`, `marker`, `align`, `labelEnd`, `anchors`, `offsets`; table/flow có `answerWidths`. `cell.content` vẫn được giữ cho importer và bản cũ. Khi tách block, anchor trỏ tới chuỗi cũ và offset cộng vị trí cắt, không đặt lại bằng 0. Không sửa chữ hoặc chèn lại số câu trong metadata mới.
+
+Registry ghi `previousLayoutSha256`: chỉ thêm hash của layout cũ đã đối chiếu, cùng fingerprint nội dung gốc. Không tự đưa mọi snapshot hoặc layout tùy chỉnh vào danh sách. Không sửa snapshot SQLite để áp bố cục. Xem [biên bản](docs/BOOK_LAYOUT_REVIEW.md) và `library/preparation/book-layout-review.json`.

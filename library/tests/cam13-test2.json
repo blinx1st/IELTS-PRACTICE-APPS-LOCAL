@@ -97,126 +97,249 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "The Early History of Cinnamon"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Biblical times:"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "added to ",
                   {
                     "number": 1
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-2-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "used to show ",
                   {
                     "number": 2
                   },
                   " between people"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-3-0",
+                  "",
+                  "cam13-t2-p1-g1-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Ancient Rome:"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "used for its sweet smell at ",
                   {
                     "number": 3
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-5-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Middle Ages:"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "added to food, especially meat"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "was an indication of a person’s ",
                   {
                     "number": 4
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-8-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "known as a treatment for ",
                   {
                     "number": 5
                   },
                   " and other health problems"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-9-0",
+                  "",
+                  "cam13-t2-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "grown in ",
                   {
                     "number": 6
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-10-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "merchants used ",
                   {
                     "number": 7
                   },
                   " to bring it to the Mediterranean"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-11-0",
+                  "",
+                  "cam13-t2-p1-g1-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "arrived in the Mediterranean at ",
                   {
                     "number": 8
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-12-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "traders took it to ",
                   {
                     "number": 9
                   },
                   " and sold it to destinations around Europe"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p1-g1-flow-13-0",
+                  "",
+                  "cam13-t2-p1-g1-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         },
         {
@@ -498,13 +621,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Oxytocin research"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p2-g3-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "The earliest findings about oxytocin and bonding came from research involving ",
                   {
@@ -519,10 +648,29 @@
                     "number": 23
                   },
                   ", reinforced the belief that the hormone had a positive effect."
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p2-g3-flow-1-0",
+                  "",
+                  "cam13-t2-p2-g3-flow-1-2",
+                  "",
+                  "cam13-t2-p2-g3-flow-1-4",
+                  "",
+                  "cam13-t2-p2-g3-flow-1-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "However, later research suggests that this is not always the case. A study at the University of Haifa where participants took part in a ",
                   {
@@ -537,9 +685,33 @@
                     "number": 26
                   },
                   " that are familiar to them in their own country to have more positive associations than those from other cultures."
-                ]
+                ],
+                "anchors": [
+                  "cam13-t2-p2-g3-flow-2-0",
+                  "",
+                  "cam13-t2-p2-g3-flow-2-2",
+                  "",
+                  "cam13-t2-p2-g3-flow-2-4",
+                  "",
+                  "cam13-t2-p2-g3-flow-2-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

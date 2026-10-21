@@ -93,58 +93,147 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The importance of the huarango tree\n\n• its roots can extend as far as 80 metres into the soil\n• can access ",
+                  "The importance of the huarango tree"
+                ],
+                "anchors": [
+                  "cam15-t4-p1-g1-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "its roots can extend as far as 80 metres into the soil"
+                ],
+                "anchors": [
+                  "cam15-t4-p1-g1-body-0"
+                ],
+                "offsets": [
+                  39
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "can access ",
                   {
                     "number": 1
                   },
-                  " deep below the surface\n• was a crucial part of local inhabitants' ",
-                  {
-                    "number": 2
-                  },
-                  " a long time ago\n• helped people to survive periods of ",
-                  {
-                    "number": 3
-                  },
-                  "\n• prevents ",
-                  {
-                    "number": 4
-                  },
-                  " of the soil\n• prevents land from becoming a ",
-                  {
-                    "number": 5
-                  },
-                  ""
+                  " deep below the surface"
                 ],
                 "anchors": [
                   "cam15-t4-p1-g1-body-0",
                   "",
-                  "cam15-t4-p1-g1-body-119",
-                  "",
-                  "cam15-t4-p1-g1-body-198",
-                  "",
-                  "cam15-t4-p1-g1-body-265",
-                  "",
-                  "cam15-t4-p1-g1-body-289",
-                  "",
-                  "cam15-t4-p1-g1-body-end"
+                  "cam15-t4-p1-g1-body-119"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  96,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "was a crucial part of local inhabitants' ",
+                  {
+                    "number": 2
+                  },
+                  " a long time ago"
+                ],
+                "anchors": [
+                  "cam15-t4-p1-g1-body-119",
+                  "",
+                  "cam15-t4-p1-g1-body-198"
+                ],
+                "offsets": [
+                  26,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "helped people to survive periods of ",
+                  {
+                    "number": 3
+                  }
+                ],
+                "anchors": [
+                  "cam15-t4-p1-g1-body-198",
+                  ""
+                ],
+                "offsets": [
+                  19,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "prevents ",
+                  {
+                    "number": 4
+                  },
+                  " of the soil"
+                ],
+                "anchors": [
+                  "cam15-t4-p1-g1-body-265",
+                  "",
+                  "cam15-t4-p1-g1-body-289"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "prevents land from becoming a ",
+                  {
+                    "number": 5
+                  }
+                ],
+                "anchors": [
+                  "cam15-t4-p1-g1-body-289",
+                  ""
+                ],
+                "offsets": [
+                  15,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -186,7 +275,23 @@
                       "Traditional uses of the huarango tree"
                     ],
                     "header": true,
-                    "colSpan": 2
+                    "colSpan": 2,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Traditional uses of the huarango tree"
+                        ],
+                        "anchors": [
+                          "cam15-t4-p1-g2-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -196,13 +301,45 @@
                     "content": [
                       "Part of tree"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Part of tree"
+                        ],
+                        "anchors": [
+                          "cam15-t4-p1-g2-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "Traditional use"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Traditional use"
+                        ],
+                        "anchors": [
+                          "cam15-t4-p1-g2-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -213,11 +350,43 @@
                       {
                         "number": 6
                       }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          {
+                            "number": 6
+                          }
+                        ],
+                        "anchors": [
+                          ""
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "content": [
                       "fuel"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "fuel"
+                        ],
+                        "anchors": [
+                          "cam15-t4-p1-g2-cell-2-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -235,11 +404,53 @@
                         "number": 7,
                         "part": 1
                       }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          {
+                            "number": 7,
+                            "part": 0
+                          },
+                          " and ",
+                          {
+                            "number": 7,
+                            "part": 1
+                          }
+                        ],
+                        "anchors": [
+                          "",
+                          "cam15-t4-p1-g2-cell-3-0-1",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "content": [
                       "medicine"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "medicine"
+                        ],
+                        "anchors": [
+                          "cam15-t4-p1-g2-cell-3-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -251,16 +462,58 @@
                       {
                         "number": 8
                       }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          {
+                            "number": 8
+                          }
+                        ],
+                        "anchors": [
+                          ""
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "content": [
                       "construction"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "construction"
+                        ],
+                        "anchors": [
+                          "cam15-t4-p1-g2-cell-4-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              53,
+              47
+            ],
+            "variant": "grid",
+            "answerWidths": {
+              "7": 10
+            },
+            "minWidthCh": 68
           }
         },
         {
@@ -462,74 +715,220 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Silbo Gomero\n\nHow Silbo is produced\n• high- and low-frequency tones represent different sounds in Spanish ",
+                  "Silbo Gomero"
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "How Silbo is produced"
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-0"
+                ],
+                "offsets": [
+                  14
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "high- and low-frequency tones represent different sounds in Spanish ",
                   {
                     "number": 20
-                  },
-                  "\n• pitch of whistle is controlled using silbador's ",
+                  }
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-0",
+                  ""
+                ],
+                "offsets": [
+                  38,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "pitch of whistle is controlled using silbador's ",
                   {
                     "number": 21
-                  },
-                  "\n• ",
+                  }
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-119",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
                   {
                     "number": 22
                   },
-                  " is changed with a cupped hand\n\nHow Silbo is used\n• has long been used by shepherds and people living in secluded locations\n• in everyday use for the transmission of brief ",
+                  " is changed with a cupped hand"
+                ],
+                "anchors": [
+                  "",
+                  "cam15-t4-p2-g2-body-199"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "How Silbo is used"
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-199"
+                ],
+                "offsets": [
+                  32
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "has long been used by shepherds and people living in secluded locations"
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-199"
+                ],
+                "offsets": [
+                  52
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "in everyday use for the transmission of brief ",
                   {
                     "number": 23
-                  },
-                  "\n• can relay essential information quickly, e.g. to inform people about ",
+                  }
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-199",
+                  ""
+                ],
+                "offsets": [
+                  126,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "can relay essential information quickly, e.g. to inform people about ",
                   {
                     "number": 24
-                  },
-                  "\n\nThe future of Silbo\n• future under threat because of new ",
+                  }
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-384",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The future of Silbo"
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-469"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "future under threat because of new ",
                   {
                     "number": 25
-                  },
-                  "\n• Canaries' authorities hoping to receive a UNESCO ",
+                  }
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-469",
+                  ""
+                ],
+                "offsets": [
+                  24,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Canaries' authorities hoping to receive a UNESCO ",
                   {
                     "number": 26
                   },
                   " to help preserve it"
                 ],
                 "anchors": [
-                  "cam15-t4-p2-g2-body-0",
-                  "",
-                  "cam15-t4-p2-g2-body-119",
-                  "",
-                  "cam15-t4-p2-g2-body-183",
-                  "",
-                  "cam15-t4-p2-g2-body-199",
-                  "",
-                  "cam15-t4-p2-g2-body-384",
-                  "",
-                  "cam15-t4-p2-g2-body-469",
-                  "",
                   "cam15-t4-p2-g2-body-541",
                   "",
                   "cam15-t4-p2-g2-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  3,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -673,9 +1072,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Big businesses\n\nMany big businesses today are prepared to harm people and the environment in order to make money, and they appear to have no ",
+                  "Big businesses"
+                ],
+                "anchors": [
+                  "cam15-t4-p3-g1-body"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "Many big businesses today are prepared to harm people and the environment in order to make money, and they appear to have no ",
                   {
                     "number": 27
                   },
@@ -711,7 +1122,7 @@
                   "cam15-t4-p3-g1-body"
                 ],
                 "offsets": [
-                  0,
+                  16,
                   0,
                   154,
                   0,
@@ -722,9 +1133,15 @@
                   282,
                   0,
                   318
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "after"
           }
         },
         {

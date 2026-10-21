@@ -85,58 +85,198 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The Dead Sea Scrolls\n\nDiscovery\nQumran, 1946/7\n• three Bedouin shepherds in their teens were near an opening on side of cliff\n• heard a noise of breaking when one teenager threw a ",
+                  "The Dead Sea Scrolls"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "Discovery"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-0"
+                ],
+                "offsets": [
+                  22
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Qumran, 1946/7"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-0"
+                ],
+                "offsets": [
+                  32
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "three Bedouin shepherds in their teens were near an opening on side of cliff"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-0"
+                ],
+                "offsets": [
+                  49
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "heard a noise of breaking when one teenager threw a ",
                   {
                     "number": 1
-                  },
-                  "\n• teenagers went into the ",
+                  }
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-0",
+                  ""
+                ],
+                "offsets": [
+                  128,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "teenagers went into the ",
                   {
                     "number": 2
                   },
                   " and found a number of containers made of ",
                   {
                     "number": 3
-                  },
-                  "\n\nThe scrolls\n• date from between 150 BCE and 70 CE\n• thought to have been written by group of people known as the ",
-                  {
-                    "number": 4
-                  },
-                  "\n• written mainly in the ",
-                  {
-                    "number": 5
-                  },
-                  " language\n• most are on religious topics, written using ink on parchment or papyrus"
+                  }
                 ],
                 "anchors": [
-                  "cam17-t2-p1-g1-body-0",
-                  "",
                   "cam17-t2-p1-g1-body-192",
                   "",
                   "cam17-t2-p1-g1-body-231",
-                  "",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The scrolls"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-285"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "date from between 150 BCE and 70 CE"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-285"
+                ],
+                "offsets": [
+                  16
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "thought to have been written by group of people known as the ",
+                  {
+                    "number": 4
+                  }
+                ],
+                "anchors": [
                   "cam17-t2-p1-g1-body-285",
-                  "",
+                  ""
+                ],
+                "offsets": [
+                  54,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "written mainly in the ",
+                  {
+                    "number": 5
+                  },
+                  " language"
+                ],
+                "anchors": [
                   "cam17-t2-p1-g1-body-412",
                   "",
                   "cam17-t2-p1-g1-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  3,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "most are on religious topics, written using ink on parchment or papyrus"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-end"
+                ],
+                "offsets": [
+                  12
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -469,36 +609,73 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
                   "An undesirable trait such as loss of ",
                   {
                     "number": 24
                   },
                   " may be caused by a mutation in a tomato gene."
-                ]
+                ],
+                "anchors": [
+                  "cam17-t2-p2-g3-flow-0-0",
+                  "",
+                  "cam17-t2-p2-g3-flow-0-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "By modifying one gene in a tomato plant, researchers made the tomato three times its original ",
                   {
                     "number": 25
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam17-t2-p2-g3-flow-1-0",
+                  "",
+                  "cam17-t2-p2-g3-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "A type of tomato which was not badly affected by ",
                   {
                     "number": 26
                   },
                   ", and was rich in vitamin C, was produced by a team of researchers in China."
-                ]
+                ],
+                "anchors": [
+                  "cam17-t2-p2-g3-flow-2-0",
+                  "",
+                  "cam17-t2-p2-g3-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "sentences",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -811,9 +988,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The origins of creative behaviour\n\nThe traditional view of scientific discovery is that breakthroughs happen when a single great mind has sudden ",
+                  "The origins of creative behaviour"
+                ],
+                "anchors": [
+                  "cam17-t2-p3-g3-body"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "The traditional view of scientific discovery is that breakthroughs happen when a single great mind has sudden ",
                   {
                     "number": 37
                   },
@@ -843,7 +1032,7 @@
                   "cam17-t2-p3-g3-body"
                 ],
                 "offsets": [
-                  0,
+                  35,
                   0,
                   158,
                   0,
@@ -852,9 +1041,15 @@
                   549,
                   0,
                   733
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "after"
           }
         }
       ],

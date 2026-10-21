@@ -76,3 +76,8 @@ ZIP thực tế đã được khôi phục vào một kho kiểm thử riêng: *
 Bốn lượt làm do quá trình kiểm thử tạo đã chuyển vào `data/qa-archive-2026-10-21.zip` để không lẫn với tiến độ học. Có thể khôi phục ZIP này qua chức năng Sao lưu nếu cần xem lại dữ liệu kiểm thử. Các lượt này giữ nguyên nội dung đề/khóa tại thời điểm tạo.
 
 Cambridge 16 chưa có nguồn, đúng phạm vi bản đầu. Band là tham khảo; một số bảng/sơ đồ dùng ảnh nguồn với ô đáp án riêng. Các lỗi trong bản gõ lại Cambridge 20 và typo A–J ở Cambridge 15 Test 4 được ghi trong báo cáo chuẩn bị dữ liệu.
+
+
+## Bố cục theo sách — 22/10/2026
+
+Đã bổ sung kiểm thử đủ 18 bảng và 146 nhóm văn bản: thứ tự ô, độ rộng theo giới hạn từ, hai ô/một câu, phân cấp Stonehenge, ngân hàng từ sau summary, khóa sau nộp và highlight/Note trên anchor cũ. Backend kiểm tra nâng cấp layout cũ chỉ khi khớp cả nội dung và hash layout. Kết quả: 45 backend, 30 frontend; build, npm audit và audit thư viện đạt. Xem [phạm vi kiểm tra trực tiếp và ảnh trước/sau](docs/BOOK_LAYOUT_REVIEW.md).

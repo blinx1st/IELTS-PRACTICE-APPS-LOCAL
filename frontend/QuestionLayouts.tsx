@@ -1,15 +1,11 @@
 import type { Annotation, Attempt, Group, ResultRow } from './types';
 import { Annotated } from './Annotated';
 import { Flag, X } from 'lucide-react';
+import { AnswerField, LayoutFeedback } from './AnswerField';
+import { BookBlocks } from './BookBlocks';
+export { answerPartsFor } from './AnswerField';
 
 export type LayoutProps={group:Group;attempt:Attempt;editable:boolean;results:Record<number,ResultRow>;onAnswer:(n:number,v:string)=>void;onAnswerPart:(n:number,part:number,count:number,v:string)=>void;onFlag:(n:number)=>void;onFocus:(n:number)=>void;onAnnotation:(a:Annotation)=>void};
-
-export function answerPartsFor(a:Pick<Attempt,'answers'|'answerParts'>,number:number,count:number){
-  const stored=a.answerParts?.[number];
-  if(stored)return Array.from({length:count},(_,i)=>stored[i]||'');
-  const words=(a.answers[number]||'').trim().split(/\s+/);
-  return Array.from({length:count},(_,i)=>i===count-1?words.slice(i).join(' '):words[i]||'');
-}
 
 const norm=(s:string)=>s.normalize('NFKC').trim().toUpperCase();
 function FlagButton({n,props}:{n:number;props:LayoutProps}){
@@ -17,25 +13,22 @@ function FlagButton({n,props}:{n:number;props:LayoutProps}){
 }
 
 export function InteractiveTable(props:LayoutProps){
-  const {group:g,attempt:a,editable,onAnswer,onAnswerPart,onFocus,onAnnotation,results}=props;
+  const {group:g,attempt:a,onAnnotation}=props;
   if(g.layout?.kind!=='table')return null;
-  const {rows,caption}=g.layout;
+  const {rows,caption,columnWidths,variant='grid',minWidthCh}=g.layout;
   const counts:Record<number,number>={};
   rows.forEach(r=>r.cells.forEach(c=>c.content.forEach(item=>{if(typeof item!=='string')counts[item.number]=Math.max(counts[item.number]||0,(item.part||0)+1);})));
   const columns=Math.max(...rows.map(r=>r.cells.reduce((sum,c)=>sum+(c.colSpan||1),0)));
-  const widths=columns===2?[32,68]:columns===3?[19,31,50]:Array(columns).fill(100/columns);
-  return <div className="table-scroll" tabIndex={0} aria-label={'Answer table for '+g.heading}><table className="completion-table">
+  const widths=columnWidths||Array(columns).fill(100/columns);
+  return <div className="table-scroll book-table-scroll" tabIndex={0} aria-label={'Answer table for '+g.heading}><table className={'completion-table book-table '+variant} style={{minWidth:minWidthCh?minWidthCh+'ch':undefined}}>
     {caption&&<caption>{caption}</caption>}<colgroup>{widths.map((w,i)=><col key={i} style={{width:w+'%'}}/>)}</colgroup>
     <tbody>{rows.map((row,ri)=><tr key={ri}>{row.cells.map((cell,ci)=>{
       const Cell=cell.header?'th':'td';
-      return <Cell key={ci} rowSpan={cell.rowSpan} colSpan={cell.colSpan}>{cell.content.map((item,ti)=>{
-        if(typeof item==='string')return <Annotated key={ti} id={`${g.id}-cell-${ri}-${ci}-${ti}`} text={item} annotations={a.annotations} onEdit={onAnnotation}/>;
-        const n=item.number,part=item.part||0,count=counts[n],first=part===0,row=results[n],id=`answer-${n}${count>1?'-part-'+part:''}`;
-        const value=count>1?answerPartsFor(a,n,count)[part]:a.answers[n]||'';
-        return <span key={ti} className={'table-answer '+(row?.status||'')} data-question={n} onFocus={()=>onFocus(n)}><span className="table-blank">{first&&<label htmlFor={id}>{n}</label>}<input id={id} aria-label={`Answer ${n}${count>1?', part '+(part+1):''}`} value={value} disabled={!editable} maxLength={1000} autoComplete="off" spellCheck={false} onChange={e=>count>1?onAnswerPart(n,part,count,e.target.value):onAnswer(n,e.target.value)}/>{first&&<FlagButton n={n} props={props}/>}</span>{first&&row&&<span className="table-feedback">{row.status==='correct'?'Đúng':row.status==='blank'?'Bỏ trống':'Sai'} · {row.accepted.join(' / ')}</span>}</span>;
-      })}</Cell>;
+      return <Cell key={ci} rowSpan={cell.rowSpan} colSpan={cell.colSpan} scope={cell.header?(cell.scope||'col'):undefined} style={{textAlign:cell.align}}>
+        {cell.blocks?<BookBlocks blocks={cell.blocks} props={props} counts={counts} anchor={`${g.id}-cell-${ri}-${ci}`}/>:cell.content.map((item,ti)=>typeof item==='string'?<Annotated key={ti} id={`${g.id}-cell-${ri}-${ci}-${ti}`} text={item} annotations={a.annotations} onEdit={onAnnotation}/>:<AnswerField key={ti} number={item.number} part={item.part} count={counts[item.number]} props={props}/>)}
+      </Cell>;
     })}</tr>)}</tbody>
-  </table></div>;
+  </table><LayoutFeedback props={props}/></div>;
 }
 
 export function MatchingMatrix(props:LayoutProps){

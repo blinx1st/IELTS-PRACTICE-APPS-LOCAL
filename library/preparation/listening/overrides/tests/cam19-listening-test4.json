@@ -67,75 +67,165 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "First day at work"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "li",
                 "content": [
                   "Name of supervisor: ",
                   {
                     "number": 1
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-1-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Where to leave coat and bag: use ",
                   {
                     "number": 2
                   },
                   " in staffroom"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-2-0",
+                  "",
+                  "l-cam19-t4-p1-q1-6-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "See Tiffany in HR:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "to give ",
                   {
                     "number": 3
                   },
                   " number"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-4-0",
+                  "",
+                  "l-cam19-t4-p1-q1-6-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "to collect ",
                   {
                     "number": 4
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-5-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Location of HR office: on ",
                   {
                     "number": 5
                   },
                   " floor"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-6-0",
+                  "",
+                  "l-cam19-t4-p1-q1-6-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Supervisor's mobile number: ",
                   {
                     "number": 6
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p1-q1-6-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -183,25 +273,75 @@
                 "cells": [
                   {
                     "content": [],
-                    "header": true
+                    "header": true,
+                    "blocks": [],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Task 1"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Task 1"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Task 2"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Task 2"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Notes"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Notes"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-0-3-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -211,19 +351,65 @@
                     "content": [
                       "Bakery section"
                     ],
-                    "header": false
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Bakery section"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "Check sell-by dates"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Check sell-by dates"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "Change price labels"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Change price labels"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-1-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -233,7 +419,30 @@
                       },
                       " labels"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Use ",
+                          {
+                            "number": 7
+                          },
+                          " labels"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-1-3-0",
+                          "",
+                          "l-cam19-t4-p1-q7-10-cell-1-3-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -243,7 +452,23 @@
                     "content": [
                       "Sushi takeaway counter"
                     ],
-                    "header": false
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Sushi takeaway counter"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
@@ -253,19 +478,72 @@
                       },
                       " boxes if needed"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Re-stock with ",
+                          {
+                            "number": 8
+                          },
+                          " boxes if needed"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-2-1-0",
+                          "",
+                          "l-cam19-t4-p1-q7-10-cell-2-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "Wipe preparation area and clean the sink"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Wipe preparation area and clean the sink"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-2-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "Do not clean any knives"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Do not clean any knives"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-2-3-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -275,13 +553,44 @@
                     "content": [
                       "Meat and fish counters"
                     ],
-                    "header": false
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Meat and fish counters"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-3-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "Clean the serving area, including the weighing scales"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Clean the serving area, including the weighing scales"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-3-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -291,7 +600,30 @@
                       },
                       " for the fish from the cold-room"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Collect ",
+                          {
+                            "number": 9
+                          },
+                          " for the fish from the cold-room"
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-3-2-0",
+                          "",
+                          "l-cam19-t4-p1-q7-10-cell-3-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -300,12 +632,41 @@
                         "number": 10
                       }
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Must wear special ",
+                          {
+                            "number": 10
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam19-t4-p1-q7-10-cell-3-3-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               }
             ],
-            "caption": "Responsibilities"
+            "caption": "Responsibilities",
+            "presentationVersion": 3,
+            "columnWidths": [
+              22,
+              25,
+              27,
+              26
+            ],
+            "variant": "grid",
+            "minWidthCh": 80
           }
         }
       ],
@@ -942,114 +1303,253 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Tree planting"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Reforestation projects should:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "include a range of tree species"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "not include invasive species because of possible ",
                   {
                     "number": 31
                   },
                   " with native species"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-3-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "aim to capture carbon, protect the environment and provide sustainable sources of ",
                   {
                     "number": 32
                   },
                   " for local people"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-4-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "use tree seeds with a high genetic diversity to increase resistance to ",
                   {
                     "number": 33
                   },
                   " and climate change"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-5-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "plant trees on previously forested land which is in a bad condition, not select land which is being used for ",
                   {
                     "number": 34
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-6-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Large-scale reforestation projects"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Base planning decisions on information from accurate ",
                   {
                     "number": 35
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-8-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Drones are useful for identifying areas in Brazil which are endangered by keeping ",
                   {
                     "number": 36
                   },
                   " and illegal logging."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-9-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Lampang Province, Northern Thailand"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "A forest was restored in an area damaged by mining."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "A variety of native fig trees were planted, which are important for"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "supporting many wildlife species"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-13-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "increasing the ",
                   {
@@ -1060,53 +1560,133 @@
                     "number": 38
                   },
                   " were soon attracted to the area."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-14-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-14-2",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-14-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "h3",
                 "content": [
                   "Involving local communities"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Destruction of mangrove forests in Madagascar made it difficult for people to make a living from ",
                   {
                     "number": 39
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-16-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "The mangrove reforestation project:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "provided employment for local people"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-18-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "restored a healthy ecosystem"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-19-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "protects against the higher risk of ",
                   {
                     "number": 40
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t4-p4-q31-40-flow-20-0",
+                  "",
+                  "l-cam19-t4-p4-q31-40-flow-20-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

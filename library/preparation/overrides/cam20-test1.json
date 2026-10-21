@@ -148,74 +148,239 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "New Zealand's kākāpō\n\nA type of parrot:\n• diet consists of fern fronds, various parts of a tree and ",
+                  "New Zealand's kākāpō"
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "A type of parrot:"
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-0"
+                ],
+                "offsets": [
+                  22
+                ],
+                "tag": "p",
+                "role": "label"
+              },
+              {
+                "content": [
+                  "diet consists of fern fronds, various parts of a tree and ",
                   {
                     "number": 7
-                  },
-                  "\n• nests are created in ",
+                  }
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-0",
+                  ""
+                ],
+                "offsets": [
+                  42,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "nests are created in ",
                   {
                     "number": 8
                   },
-                  " where eggs are laid.\n\nArrival of Polynesian settlers\n• the ",
+                  " where eggs are laid."
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-109",
+                  "",
+                  "cam20-t1-p1-g2-body-142"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Arrival of Polynesian settlers"
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-142"
+                ],
+                "offsets": [
+                  23
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "the ",
                   {
                     "number": 9
                   },
-                  " of the kākāpō were used to make clothes.\n\nArrival of European colonisers\n• ",
+                  " of the kākāpō were used to make clothes."
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-142",
+                  "",
+                  "cam20-t1-p1-g2-body-211"
+                ],
+                "offsets": [
+                  56,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Arrival of European colonisers"
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-211"
+                ],
+                "offsets": [
+                  43
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
                   {
                     "number": 10
                   },
-                  " were an animal which they introduced that ate the kākāpō's food sources.\n\nProtecting kākāpō\n• Richard Henry, a conservationist, tried to protect the kākāpō.\n• a definite sighting of female kākāpō on Rakiura Island was reported in the year ",
+                  " were an animal which they introduced that ate the kākāpō's food sources."
+                ],
+                "anchors": [
+                  "",
+                  "cam20-t1-p1-g2-body-297"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Protecting kākāpō"
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-297"
+                ],
+                "offsets": [
+                  75
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Richard Henry, a conservationist, tried to protect the kākāpō."
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-297"
+                ],
+                "offsets": [
+                  95
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "a definite sighting of female kākāpō on Rakiura Island was reported in the year ",
                   {
                     "number": 11
-                  },
-                  "\n• the Recovery Plan included an increase in ",
+                  }
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-297",
+                  ""
+                ],
+                "offsets": [
+                  160,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "the Recovery Plan included an increase in ",
                   {
                     "number": 12
-                  },
-                  "\n• a current goal of the Recovery Plan is to maintain the involvement of ",
+                  }
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-547",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "a current goal of the Recovery Plan is to maintain the involvement of ",
                   {
                     "number": 13
                   },
                   " in kākāpō protection."
                 ],
                 "anchors": [
-                  "cam20-t1-p1-g2-body-0",
-                  "",
-                  "cam20-t1-p1-g2-body-109",
-                  "",
-                  "cam20-t1-p1-g2-body-142",
-                  "",
-                  "cam20-t1-p1-g2-body-211",
-                  "",
-                  "cam20-t1-p1-g2-body-297",
-                  "",
-                  "cam20-t1-p1-g2-body-547",
-                  "",
                   "cam20-t1-p1-g2-body-602",
                   "",
                   "cam20-t1-p1-g2-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  3,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -482,9 +647,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Uses of a popular tree\n\nFor hundreds of years, the only tree that was more popular in Britain than elm was ",
+                  "Uses of a popular tree"
+                ],
+                "anchors": [
+                  "cam20-t1-p2-g3-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "For hundreds of years, the only tree that was more popular in Britain than elm was ",
                   {
                     "number": 24
                   },
@@ -508,16 +685,22 @@
                   "cam20-t1-p2-g3-body-end"
                 ],
                 "offsets": [
-                  0,
+                  24,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

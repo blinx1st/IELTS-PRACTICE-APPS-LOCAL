@@ -39,3 +39,6 @@ Một trang transcript Cambridge 13 Test 3 bị thiếu trong PDF nguồn đã �
 
 
 Lưu ý transcript: Cambridge 13 có nhiều dòng gạch chân bị OCR bỏ sót, nên bản chép dùng hỗ trợ nhận dạng audio local và có thể còn sai khác nhỏ về từ ngữ/tên riêng. Cambridge 20 Test 1 Part 1 có đoạn cuối thiếu trong PDF được khôi phục từ audio. App hiển thị thông báo tại các transcript này; khóa chấm và nội dung câu hỏi được giữ riêng.
+
+
+Bản cập nhật bố cục: 18 bảng có tỷ lệ cột riêng và 146 nhóm điền văn bản giữ tiêu đề, đoạn, cấp bullet theo sách; ô đáp án nằm ngay trong nội dung và theo cỡ chữ Display. Xem [biên bản và ảnh trước/sau](docs/BOOK_LAYOUT_REVIEW.md).

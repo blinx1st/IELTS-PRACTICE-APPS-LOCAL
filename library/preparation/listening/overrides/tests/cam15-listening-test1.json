@@ -77,150 +77,340 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Bankside Recruitment Agency"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Address of agency: 497 Eastside, Docklands"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Name of agent: Becky ",
                   {
                     "number": 1
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-2-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Phone number: 07866 510333"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Best to call her in the ",
                   {
                     "number": 2
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Typical jobs"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Clerical and admin roles, mainly in the finance industry"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Must have good ",
                   {
                     "number": 3
                   },
                   " skills"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-7-0",
+                  "",
+                  "l-cam15-t1-p1-g1-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Jobs are usually for at least one ",
                   {
                     "number": 4
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-8-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Pay is usually £",
                   {
                     "number": 5
                   },
                   " per hour"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-9-0",
+                  "",
+                  "l-cam15-t1-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Registration process"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Wear a ",
                   {
                     "number": 6
                   },
                   " to the interview"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-11-0",
+                  "",
+                  "l-cam15-t1-p1-g1-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Must bring your ",
                   {
                     "number": 7
                   },
                   " to the interview"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-12-0",
+                  "",
+                  "l-cam15-t1-p1-g1-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "They will ask questions about each applicant’s ",
                   {
                     "number": 8
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-13-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Advantages of using an agency"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "The ",
                   {
                     "number": 9
                   },
                   " you receive at interview will benefit you"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-15-0",
+                  "",
+                  "l-cam15-t1-p1-g1-flow-15-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Will get access to vacancies which are not advertised"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Less ",
                   {
                     "number": 10
                   },
                   " is involved in applying for jobs"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p1-g1-flow-17-0",
+                  "",
+                  "l-cam15-t1-p1-g1-flow-17-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -394,19 +584,53 @@
                 "cells": [
                   {
                     "header": true,
-                    "content": []
+                    "content": [],
+                    "blocks": [],
+                    "scope": "col"
                   },
                   {
                     "header": true,
                     "content": [
                       "Activity"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Activity"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "header": true,
                     "content": [
                       "Notes"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Notes"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -416,12 +640,42 @@
                     "header": false,
                     "content": [
                       "Day 1"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Day 1"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "Arrive"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Arrive"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -430,6 +684,26 @@
                       "Introduction by manager\nHotel dining room has view of the ",
                       {
                         "number": 15
+                      }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Introduction by manager\nHotel dining room has view of the ",
+                          {
+                            "number": 15
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-1-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
                       }
                     ]
                   }
@@ -441,12 +715,42 @@
                     "header": false,
                     "content": [
                       "Day 2"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Day 2"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "Tynwald Exhibition and Peel"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Tynwald Exhibition and Peel"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-2-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -457,6 +761,29 @@
                         "number": 16
                       },
                       " not 979."
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Tynwald may have been founded in ",
+                          {
+                            "number": 16
+                          },
+                          " not 979."
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-2-2-0",
+                          "",
+                          "l-cam15-t1-p2-g15-cell-2-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -467,12 +794,42 @@
                     "header": false,
                     "content": [
                       "Day 3"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Day 3"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-3-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "Trip to Snaefell"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Trip to Snaefell"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-3-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -483,6 +840,29 @@
                         "number": 17
                       },
                       " of Snaefell"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Travel along promenade in a tram; train to Laxey; train to the ",
+                          {
+                            "number": 17
+                          },
+                          " of Snaefell"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-3-2-0",
+                          "",
+                          "l-cam15-t1-p2-g15-cell-3-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -493,12 +873,42 @@
                     "header": false,
                     "content": [
                       "Day 4"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Day 4"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-4-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "Free day"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Free day"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-4-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -509,6 +919,29 @@
                         "number": 18
                       },
                       " for local transport and heritage sites."
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Company provides a ",
+                          {
+                            "number": 18
+                          },
+                          " for local transport and heritage sites."
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-4-2-0",
+                          "",
+                          "l-cam15-t1-p2-g15-cell-4-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -519,6 +952,21 @@
                     "header": false,
                     "content": [
                       "Day 5"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Day 5"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-5-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -529,6 +977,29 @@
                         "number": 19
                       },
                       " railway train from Douglas to Port Erin"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Take the ",
+                          {
+                            "number": 19
+                          },
+                          " railway train from Douglas to Port Erin"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-5-1-0",
+                          "",
+                          "l-cam15-t1-p2-g15-cell-5-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -539,6 +1010,29 @@
                         "number": 20
                       },
                       " has old castle."
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Free time, then coach to Castletown – former ",
+                          {
+                            "number": 20
+                          },
+                          " has old castle."
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-5-2-0",
+                          "",
+                          "l-cam15-t1-p2-g15-cell-5-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -549,23 +1043,76 @@
                     "header": false,
                     "content": [
                       "Day 6"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Day 6"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-6-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "Leave"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Leave"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-6-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "header": false,
                     "content": [
                       "Leave the island by ferry or plane"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Leave the island by ferry or plane"
+                        ],
+                        "anchors": [
+                          "l-cam15-t1-p2-g15-cell-6-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              10,
+              45,
+              45
+            ],
+            "variant": "grid",
+            "minWidthCh": 45
           }
         }
       ],
@@ -886,176 +1433,400 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "The Eucalyptus Tree in Australia"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Importance"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "it provides ",
                   {
                     "number": 31
                   },
                   " and food for a wide range of species"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-2-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "its leaves provide ",
                   {
                     "number": 32
                   },
                   " which is used to make a disinfectant"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-3-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Reasons for present decline in number"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "h3",
                 "content": [
                   "A) Diseases"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "(i) ‘Mundulla Yellows’"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Cause – lime used for making ",
                   {
                     "number": 33
                   },
                   " was absorbed"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-7-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– trees were unable to take in necessary iron through their roots"
-                ]
+                  "trees were unable to take in necessary iron through their roots"
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-8-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "(ii) ‘Bell-miner Associated Die-back’"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Cause – ",
                   {
                     "number": 34
                   },
                   " feed on eucalyptus leaves"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-10-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– they secrete a substance containing sugar"
-                ]
+                  "they secrete a substance containing sugar"
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-11-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– bell-miner birds are attracted by this and keep away other species"
-                ]
+                  "bell-miner birds are attracted by this and keep away other species"
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-12-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "h3",
                 "content": [
                   "B) Bushfires"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-13-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "William Jackson’s theory:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "label"
               },
               {
-                "tag": "p",
                 "content": [
                   "high-frequency bushfires have impact on vegetation, resulting in the growth of ",
                   {
                     "number": 35
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-15-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "mid-frequency bushfires result in the growth of eucalyptus forests, because they:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "label"
               },
               {
-                "tag": "p",
                 "content": [
-                  "– make more ",
+                  "make more ",
                   {
                     "number": 36
                   },
                   " available to the trees"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-17-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-17-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– maintain the quality of the ",
+                  "maintain the quality of the ",
                   {
                     "number": 37
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-18-0",
+                  ""
+                ],
+                "offsets": [
+                  2,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "low-frequency bushfires result in the growth of ",
                   {
                     "number": 38
                   },
                   " ‘rainforest’, which is:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-19-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-19-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– a ",
+                  "a ",
                   {
                     "number": 39
                   },
                   " ecosystem"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-20-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-20-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– an ideal environment for the ",
+                  "an ideal environment for the ",
                   {
                     "number": 40
                   },
                   " of the bell-miner"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t1-p4-g31-flow-21-0",
+                  "",
+                  "l-cam15-t1-p4-g31-flow-21-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

@@ -93,66 +93,251 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The London underground railway\n\nThe problem\n• The ",
+                  "The London underground railway"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "The problem"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-0"
+                ],
+                "offsets": [
+                  32
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "The ",
                   {
                     "number": 1
                   },
-                  " of London increased rapidly between 1800 and 1850\n• The streets were full of horse-drawn vehicles\n\nThe proposed solution\n• Charles Pearson, a solicitor, suggested building an underground railway\n• Building the railway would make it possible to move people to better housing in the ",
-                  {
-                    "number": 2
-                  },
-                  "\n• A number of ",
-                  {
-                    "number": 3
-                  },
-                  " agreed with Pearson's idea\n• The company initially had problems getting the ",
-                  {
-                    "number": 4
-                  },
-                  " needed for the project\n• Negative articles about the project appeared in the ",
-                  {
-                    "number": 5
-                  },
-                  "\n\nThe construction\n• The chosen route did not require many buildings to be pulled down\n• The 'cut and cover' method was used to construct the tunnels\n• With the completion of the brick arch, the tunnel was covered with ",
-                  {
-                    "number": 6
-                  },
-                  ""
+                  " of London increased rapidly between 1800 and 1850"
                 ],
                 "anchors": [
                   "cam17-t1-p1-g1-body-0",
                   "",
-                  "cam17-t1-p1-g1-body-62",
-                  "",
-                  "cam17-t1-p1-g1-body-356",
-                  "",
-                  "cam17-t1-p1-g1-body-383",
-                  "",
-                  "cam17-t1-p1-g1-body-472",
-                  "",
-                  "cam17-t1-p1-g1-body-562",
-                  "",
-                  "cam17-t1-p1-g1-body-end"
+                  "cam17-t1-p1-g1-body-62"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  46,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The streets were full of horse-drawn vehicles"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-62"
+                ],
+                "offsets": [
+                  53
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The proposed solution"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-62"
+                ],
+                "offsets": [
+                  100
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Charles Pearson, a solicitor, suggested building an underground railway"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-62"
+                ],
+                "offsets": [
+                  124
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Building the railway would make it possible to move people to better housing in the ",
+                  {
+                    "number": 2
+                  }
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-62",
+                  ""
+                ],
+                "offsets": [
+                  198,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "A number of ",
+                  {
+                    "number": 3
+                  },
+                  " agreed with Pearson's idea"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-356",
+                  "",
+                  "cam17-t1-p1-g1-body-383"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The company initially had problems getting the ",
+                  {
+                    "number": 4
+                  },
+                  " needed for the project"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-383",
+                  "",
+                  "cam17-t1-p1-g1-body-472"
+                ],
+                "offsets": [
+                  30,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Negative articles about the project appeared in the ",
+                  {
+                    "number": 5
+                  }
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-472",
+                  ""
+                ],
+                "offsets": [
+                  26,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The construction"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-562"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "The chosen route did not require many buildings to be pulled down"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-562"
+                ],
+                "offsets": [
+                  21
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The 'cut and cover' method was used to construct the tunnels"
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-562"
+                ],
+                "offsets": [
+                  89
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "With the completion of the brick arch, the tunnel was covered with ",
+                  {
+                    "number": 6
+                  }
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-562",
+                  ""
+                ],
+                "offsets": [
+                  152,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -426,9 +611,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Roman amphitheatres\n\nThe Roman stadiums of Europe have proved very versatile. The amphitheatre of Arles, for example, was converted first into a ",
+                  "Roman amphitheatres"
+                ],
+                "anchors": [
+                  "cam17-t1-p2-g2-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "The Roman stadiums of Europe have proved very versatile. The amphitheatre of Arles, for example, was converted first into a ",
                   {
                     "number": 18
                   },
@@ -464,7 +661,7 @@
                   "cam17-t1-p2-g2-body-end"
                 ],
                 "offsets": [
-                  0,
+                  21,
                   0,
                   0,
                   0,
@@ -475,9 +672,15 @@
                   0,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -728,9 +931,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The story behind the hunt for Charles II\n\nCharles II's father was executed by the Parliamentarian forces in 1649. Charles II then formed a ",
+                  "The story behind the hunt for Charles II"
+                ],
+                "anchors": [
+                  "cam17-t1-p3-g1-body"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "Charles II's father was executed by the Parliamentarian forces in 1649. Charles II then formed a ",
                   {
                     "number": 27
                   },
@@ -766,7 +981,7 @@
                   "cam17-t1-p3-g1-body"
                 ],
                 "offsets": [
-                  0,
+                  42,
                   0,
                   152,
                   0,
@@ -777,9 +992,15 @@
                   485,
                   0,
                   606
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "after"
           }
         },
         {

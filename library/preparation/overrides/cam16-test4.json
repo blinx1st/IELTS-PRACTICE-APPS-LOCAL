@@ -396,9 +396,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Studies on digital screen use\nThere have been many studies on digital screen use, showing some ",
+                  "Studies on digital screen use"
+                ],
+                "anchors": [
+                  "cam16-t4-p2-g2-body"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "There have been many studies on digital screen use, showing some ",
                   {
                     "number": 18
                   },
@@ -434,7 +446,7 @@
                   "cam16-t4-p2-g2-body"
                 ],
                 "offsets": [
-                  0,
+                  30,
                   0,
                   108,
                   0,
@@ -445,9 +457,15 @@
                   579,
                   0,
                   712
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "after"
           }
         },
         {

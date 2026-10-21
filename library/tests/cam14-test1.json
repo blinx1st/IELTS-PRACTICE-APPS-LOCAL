@@ -137,116 +137,249 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Children’s play"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Uses of children’s play"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "building a ‘magical kingdom’ may help develop ",
                   {
                     "number": 1
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-2-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "board games involve ",
                   {
                     "number": 2
                   },
                   " and turn-taking"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-3-0",
+                  "",
+                  "cam14-t1-p1-g1-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Recent changes affecting children’s play"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "populations of ",
                   {
                     "number": 3
                   },
                   " have grown"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-5-0",
+                  "",
+                  "cam14-t1-p1-g1-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "opportunities for free play are limited due to"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– fear of ",
+                  "fear of ",
                   {
                     "number": 4
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-7-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  2,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– fear of ",
+                  "fear of ",
                   {
                     "number": 5
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-8-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  2,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– increased ",
+                  "increased ",
                   {
                     "number": 6
                   },
                   " in schools"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-9-0",
+                  "",
+                  "cam14-t1-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "h3",
                 "content": [
                   "International policies on children’s play"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "it is difficult to find ",
                   {
                     "number": 7
                   },
                   " to support new policies"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-11-0",
+                  "",
+                  "cam14-t1-p1-g1-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "research needs to study the impact of play on the rest of the child’s ",
                   {
                     "number": 8
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam14-t1-p1-g1-flow-12-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -580,13 +713,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "The first urban bike-sharing scheme"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p2-g4-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "The first bike-sharing scheme was the idea of the Dutch group Provo. The people who belonged to this group were ",
                   {
@@ -601,19 +740,54 @@
                     "number": 25
                   },
                   " that condemned the use of cars."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p2-g4-flow-1-0",
+                  "",
+                  "cam14-t1-p2-g4-flow-1-2",
+                  "",
+                  "cam14-t1-p2-g4-flow-1-4",
+                  "",
+                  "cam14-t1-p2-g4-flow-1-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "However, the scheme was not a great success: almost as quickly as Provo left the bikes around the city, the ",
                   {
                     "number": 26
                   },
                   " took them away. According to Schimmelpennink, the scheme was intended to be symbolic. The idea was to get people thinking about the issues."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p2-g4-flow-2-0",
+                  "",
+                  "cam14-t1-p2-g4-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -838,13 +1012,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Fun at work"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p3-g3-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Tews, Michel and Stafford carried out research on staff in an American chain of ",
                   {
@@ -867,9 +1047,41 @@
                     "number": 40
                   },
                   " of the staff. A balance was required between a degree of freedom and maintaining work standards."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t1-p3-g3-flow-1-0",
+                  "",
+                  "cam14-t1-p3-g3-flow-1-2",
+                  "",
+                  "cam14-t1-p3-g3-flow-1-4",
+                  "",
+                  "cam14-t1-p3-g3-flow-1-6",
+                  "",
+                  "cam14-t1-p3-g3-flow-1-8",
+                  "",
+                  "cam14-t1-p3-g3-flow-1-10"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

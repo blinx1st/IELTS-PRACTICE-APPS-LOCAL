@@ -129,6 +129,8 @@ def signature(group):
 
 
 def layout_for(group):
+    if group.get('layout', {}).get('presentationVersion', 0) >= 3:
+        return group['layout'] if group['layout']['kind'] == 'table' else None
     if group["id"] in TABLES:
         return TABLES[group["id"]]
     if group.get("layout", {}).get("kind") in ("table", "matrix"):
@@ -220,7 +222,7 @@ def main():
                 base_hash = signature(group)
                 group["layout"] = layout
                 changed = True
-                presentation["groups"][group["id"]] = {"baseSha256": base_hash, "layout": layout}
+                presentation["groups"][group["id"]] = {**presentation["groups"].get(group["id"], {}), "baseSha256": base_hash, "layout": layout}
                 category = layout.get("matchingKind", "table")
                 counts[category] += 1
                 reviewed.append({

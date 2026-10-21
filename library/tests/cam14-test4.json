@@ -101,104 +101,228 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Ysabel Giraldo’s research"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Focused on a total of ",
                   {
                     "number": 1
                   },
                   " different age groups of ants, analysing"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-1-0",
+                  "",
+                  "cam14-t4-p1-g1-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Behaviour:"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "how well ants looked after their ",
                   {
                     "number": 2
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-3-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "their ability to locate ",
                   {
                     "number": 3
                   },
                   " using a scent trail"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-4-0",
+                  "",
+                  "cam14-t4-p1-g1-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "the effect that ",
                   {
                     "number": 4
                   },
                   " had on them"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-5-0",
+                  "",
+                  "cam14-t4-p1-g1-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "how ",
                   {
                     "number": 5
                   },
                   " they attacked prey"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-6-0",
+                  "",
+                  "cam14-t4-p1-g1-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Brains:"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "comparison between age and the ",
                   {
                     "number": 6
                   },
                   " of dying cells in the brains of ants"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-8-0",
+                  "",
+                  "cam14-t4-p1-g1-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "condition of synaptic complexes (areas in which ",
                   {
                     "number": 7
                   },
                   " meet) in the brain’s ‘mushroom bodies’"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-9-0",
+                  "",
+                  "cam14-t4-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "level of two ",
                   {
                     "number": 8
                   },
                   " in the brain associated with ageing"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p1-g1-flow-10-0",
+                  "",
+                  "cam14-t4-p1-g1-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -690,108 +814,240 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Findings related to marine debris"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Studies of marine debris found the biggest threats were"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "plastic (not metal or wood)"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "bits of debris that were ",
                   {
                     "number": 34
                   },
                   " (harmful to animals)"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-3-0",
+                  "",
+                  "cam14-t4-p3-g2-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "There was little research into ",
                   {
                     "number": 35
                   },
                   " e.g. from synthetic fibres."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-4-0",
+                  "",
+                  "cam14-t4-p3-g2-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Drawbacks of the studies examined"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "most of them focused on individual animals, not entire ",
                   {
                     "number": 36
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-6-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "the ",
                   {
                     "number": 37
                   },
                   " of plastic used in the lab did not always reflect those in the ocean"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-7-0",
+                  "",
+                  "cam14-t4-p3-g2-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "there was insufficient information on"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– numbers of animals which could be affected"
-                ]
+                  "numbers of animals which could be affected"
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-9-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– the impact of a reduction in numbers on the ",
+                  "the impact of a reduction in numbers on the ",
                   {
                     "number": 38
                   },
                   " of that species"
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-10-0",
+                  "",
+                  "cam14-t4-p3-g2-flow-10-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– the impact on the ecosystem"
-                ]
+                  "the impact on the ecosystem"
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-11-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "Rochman says more information is needed on the possible impact of future ",
                   {
                     "number": 39
                   },
                   " (e.g. involving oil)."
-                ]
+                ],
+                "anchors": [
+                  "cam14-t4-p3-g2-flow-12-0",
+                  "",
+                  "cam14-t4-p3-g2-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {

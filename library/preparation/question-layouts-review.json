@@ -47,7 +47,7 @@
         }
       ],
       "baseSha256": "26ff9451a48503a2c0ce7ad75c6388e1901aeecdb1a749da0871b968dcc0992b",
-      "layoutSha256": "4a309d25b86a608219ea7ddccb6293683ea71a5c9a51b15478fa976fe7513cc4",
+      "layoutSha256": "dee6449a513daff7f55423ddcf05056f522fffbc2f6cc6a06e0819e75df41a5f",
       "sources": [
         {
           "url": "/library-assets/cam13-t1-p1-g1-s1-4846aa85.webp",
@@ -126,7 +126,7 @@
         }
       ],
       "baseSha256": "6be0d5aecf4a7f4b431844ca9c641e88a62214a9f257cc1f881a46f222c2eb44",
-      "layoutSha256": "2991f9c3d6c564c0c8f857be08742d7831d42c67df564df1b8bad8ce7891fc45",
+      "layoutSha256": "a0ccdae6c6ff4a87b4a14e0057e685a655d46eb610df7b92aebf36a62e3b030c",
       "sources": [
         {
           "url": "/library-assets/cam13-t3-p1-g1-s1-69996d53.webp",
@@ -339,7 +339,7 @@
         }
       ],
       "baseSha256": "d833b65b67c3bdb8771af20da76e64b901c956b8fdb9cfb4fae7572e7d64a3bc",
-      "layoutSha256": "020bb7a6a1edf03dbbce0ded1e8892747c7979a0f58f24336a820ab614cf9650",
+      "layoutSha256": "bf94eb6ae225aab15744873005634a740e2f6dd5a0056755dc877b9627f58a23",
       "sources": [
         {
           "url": "/library-assets/cam15-t1-p1-g3-s1-8ef962fa.webp",
@@ -450,7 +450,7 @@
         }
       ],
       "baseSha256": "b6f537f661c5589ca5ace8f495eed0a738e64ab2145caa59c37c5fd8b41e54f0",
-      "layoutSha256": "d77a4129972f7681c8cd61049aa04df646a93ddc68053f606d33fef8569e623a",
+      "layoutSha256": "0456b37803f603bb2cd9e5b24163cafa7a5801251607ae15e7b2bc6a409c950f",
       "sources": [
         {
           "url": "/library-assets/cam15-t4-p1-g2-s1-74604ef0.webp",
@@ -483,7 +483,7 @@
         }
       ],
       "baseSha256": "90592fdd73c57f435fcd231b52496eafeb38a5e37f38bbd213d1d5fe2743203f",
-      "layoutSha256": "187dcd6eb4fcb32985636c7e5ab19bffe567f4aa4a7448fe3c39cfc06a7ad072",
+      "layoutSha256": "b6d42d46fffd75fcac363e5c632d0f481caa8141e38ed11ea8f875b9c9f525b4",
       "sources": [
         {
           "url": "/library-assets/cam16-r-t1-p1-g2-source.webp",
@@ -664,7 +664,7 @@
         }
       ],
       "baseSha256": "382cc84db04a14e2aa5fb55479449d74bbe0965ea4a95367d5644124c667e04b",
-      "layoutSha256": "1a8c9309c373f9a6db1b53b22095a25f50af3ec583c4ef69d544f8ca2aef8312",
+      "layoutSha256": "1ee7a83f5b4d70aeb382fa68e84b8b638095eb83131f4a8c33dd248fb36211d8",
       "sources": [
         {
           "url": "/library-assets/cam17-t4-p1-g2-s1-f4827ba6.webp",
@@ -732,7 +732,7 @@
         }
       ],
       "baseSha256": "637935a42227fe85a9d275d26941c75fa012987af2718d2744b32278f2bdf4f4",
-      "layoutSha256": "e23958cfb89c6dfa2719bf6d5df048f55347afea9dc8d0ce5a97fc96eb675b8a",
+      "layoutSha256": "d7ef0dca86dc10f28f77e9d31930f35b18d40a30c05af7adc70dfdd40af1de38",
       "sources": [
         {
           "url": "/library-assets/cam18-t1-p1-g2-s1-b88e4546.webp",

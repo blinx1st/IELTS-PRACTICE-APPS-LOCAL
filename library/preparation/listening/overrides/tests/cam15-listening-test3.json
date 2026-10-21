@@ -81,219 +81,497 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Employment Agency: Possible Jobs"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "First Job"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Administrative assistant in a company that produces ",
                   {
                     "number": 1
                   },
                   " (North London)"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-2-0",
+                  "",
+                  "l-cam15-t3-p1-g1-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Responsibilities"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "data entry"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "go to ",
                   {
                     "number": 2
                   },
                   " and take notes"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-5-0",
+                  "",
+                  "l-cam15-t3-p1-g1-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "general admin"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "management of ",
                   {
                     "number": 3
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Requirements"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "good computer skills including spreadsheets"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "good interpersonal skills"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "attention to ",
                   {
                     "number": 4
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-11-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Experience"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Need a minimum of ",
                   {
                     "number": 5
                   },
                   " of experience of teleconferencing"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-13-0",
+                  "",
+                  "l-cam15-t3-p1-g1-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Second Job"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Warehouse assistant in South London"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Responsibilities"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "stock management"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "managing ",
                   {
                     "number": 6
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-18-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Requirements"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-19-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "ability to work with numbers"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-20-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "good computer skills"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-21-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "very organised and ",
                   {
                     "number": 7
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-22-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "good communication skills"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-23-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "used to working in a ",
                   {
                     "number": 8
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-24-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "able to cope with items that are ",
                   {
                     "number": 9
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-25-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Need experience of"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-26-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "driving in London"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-27-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "warehouse work"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p1-g1-flow-28-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   {
                     "number": 10
                   },
                   " service"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam15-t3-p1-g1-flow-29-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -643,71 +921,158 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "What Hazel should analyse about items in newspapers:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p3-g21-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "what ",
                   {
                     "number": 21
                   },
                   " the item is on"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p3-g21-flow-1-0",
+                  "",
+                  "l-cam15-t3-p3-g21-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "the ",
                   {
                     "number": 22
                   },
                   " of the item, including the headline"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p3-g21-flow-2-0",
+                  "",
+                  "l-cam15-t3-p3-g21-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "any ",
                   {
                     "number": 23
                   },
                   " accompanying the item"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p3-g21-flow-3-0",
+                  "",
+                  "l-cam15-t3-p3-g21-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "the ",
                   {
                     "number": 24
                   },
                   " of the item, e.g. what’s made prominent"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p3-g21-flow-4-0",
+                  "",
+                  "l-cam15-t3-p3-g21-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "the writer’s main ",
                   {
                     "number": 25
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p3-g21-flow-5-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "the ",
                   {
                     "number": 26
                   },
                   " the writer may make about the reader"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p3-g21-flow-6-0",
+                  "",
+                  "l-cam15-t3-p3-g21-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -851,171 +1216,383 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Early history of keeping clean"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Prehistoric times:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "water was used to wash off ",
                   {
                     "number": 31
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-2-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Ancient Babylon:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "soap-like material found in ",
                   {
                     "number": 32
                   },
                   " cylinders"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-4-0",
+                  "",
+                  "l-cam15-t3-p4-g31-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Ancient Greece:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "people cleaned themselves with sand and other substances"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "used a strigil – scraper made of ",
                   {
                     "number": 33
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "washed clothes in streams"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Ancient Germany and Gaul:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "used soap to colour their ",
                   {
                     "number": 34
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-10-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Ancient Rome:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "animal fat, ashes and clay mixed through action of rain, used for washing clothes"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "from about 312 BC, water carried to Roman ",
                   {
                     "number": 35
                   },
                   " by aqueducts"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-13-0",
+                  "",
+                  "l-cam15-t3-p4-g31-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Europe in Middle Ages:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "decline in bathing contributed to occurrence of ",
                   {
                     "number": 36
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-15-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   {
                     "number": 37
                   },
                   " began to be added to soap"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam15-t3-p4-g31-flow-16-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Europe from 17th century:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "1600s: cleanliness and bathing started becoming usual"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-18-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "1791: Leblanc invented a way of making soda ash from ",
                   {
                     "number": 38
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-19-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "early 1800s: Chevreul turned soapmaking into a ",
                   {
                     "number": 39
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-20-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "from 1800s, there was no longer a ",
                   {
                     "number": 40
                   },
                   " on soap"
-                ]
+                ],
+                "anchors": [
+                  "l-cam15-t3-p4-g31-flow-21-0",
+                  "",
+                  "l-cam15-t3-p4-g31-flow-21-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

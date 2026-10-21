@@ -83,172 +83,388 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Buckworth Conservation Group"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Regular activities"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Beach"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "making sure the beach does not have ",
                   {
                     "number": 1
                   },
                   " on it"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-3-0",
+                  "",
+                  "l-cam17-t1-p1-q1-10-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "no ",
                   {
                     "number": 2
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Nature reserve"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "maintaining paths"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "nesting boxes for birds installed"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "next task is taking action to attract ",
                   {
                     "number": 3
                   },
                   " to the place"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-8-0",
+                  "",
+                  "l-cam17-t1-p1-q1-10-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "identifying types of ",
                   {
                     "number": 4
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-9-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "building a new ",
                   {
                     "number": 5
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-10-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Forthcoming events"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Saturday"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "meet at Dunsmore Beach car park"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-13-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "walk across the sands and reach the ",
                   {
                     "number": 6
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-14-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "take a picnic"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "wear appropriate ",
                   {
                     "number": 7
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-16-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Woodwork session"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "suitable for ",
                   {
                     "number": 8
                   },
                   " to participate in"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-18-0",
+                  "",
+                  "l-cam17-t1-p1-q1-10-flow-18-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "making ",
                   {
                     "number": 9
                   },
                   " out of wood"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-19-0",
+                  "",
+                  "l-cam17-t1-p1-q1-10-flow-19-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "17th, from 10 a.m. to 3 p.m."
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-20-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "cost of session (no camping): £ ",
                   {
                     "number": 10
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p1-q1-10-flow-21-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -932,166 +1148,375 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Labyrinths"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Definition"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "a winding spiral path leading to a central area"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Labyrinths compared with mazes"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Mazes are a type of ",
                   {
                     "number": 31
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   {
                     "number": 32
                   },
                   " is needed to navigate through a maze"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam17-t1-p4-q31-40-flow-5-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "the word ‘maze’ is derived from a word meaning a feeling of ",
                   {
                     "number": 33
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-6-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "Labyrinths represent a journey through life"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "they have frequently been used in ",
                   {
                     "number": 34
                   },
                   " and prayer"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-8-0",
+                  "",
+                  "l-cam17-t1-p4-q31-40-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "h3",
                 "content": [
                   "Early examples of the labyrinth spiral"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Ancient carvings on ",
                   {
                     "number": 35
                   },
                   " have been found across many cultures"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-10-0",
+                  "",
+                  "l-cam17-t1-p4-q31-40-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "The Pima, a Native American tribe, wove the symbol on baskets"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Ancient Greeks used the symbol on ",
                   {
                     "number": 36
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-12-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Walking labyrinths"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-13-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "The largest surviving example of a turf labyrinth once had a big ",
                   {
                     "number": 37
                   },
                   " at its centre"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-14-0",
+                  "",
+                  "l-cam17-t1-p4-q31-40-flow-14-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Labyrinths nowadays"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Believed to have a beneficial impact on mental and physical health, e.g., walking a maze can reduce a person's ",
                   {
                     "number": 38
                   },
                   " rate"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-16-0",
+                  "",
+                  "l-cam17-t1-p4-q31-40-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Used in medical and health and fitness settings and also prisons"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Popular with patients, visitors and staff in hospitals"
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-18-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "patients who can't walk can use ‘finger labyrinths’ made from ",
                   {
                     "number": 39
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-19-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "research has shown that Alzheimer's sufferers experience less ",
                   {
                     "number": 40
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam17-t1-p4-q31-40-flow-20-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

@@ -1,8 +1,11 @@
 export type Option = { value: string; label: string };
 export type SourceImage = { url: string; page: number };
 export type Question = { number: number; text: string; options?: Option[] };
-export type TableCell = { header?: boolean; rowSpan?: number; colSpan?: number; content: (string | {number:number;part?:number})[] };
-export type QuestionLayout = {kind:'table';caption?:string;rows:{cells:TableCell[]}[]} | {kind:'matrix';matchingKind:'headings'|'paragraphs';rows:{number:number;text:string}[]} | {kind:'flow';blocks:{tag:'p'|'h3'|'li';content:TableCell['content'];anchors?:string[];offsets?:number[]}[]} | {kind:'diagram';image:SourceImage;labels:{number:number;x:number;y:number;width?:number}[]};
+export type AnswerToken = {number:number;part?:number};
+export type TextBlock = {tag:'p'|'h3'|'li';content:(string|AnswerToken)[];anchors?:string[];offsets?:number[];role?:'title'|'section'|'label'|'body';depth?:number;marker?:'bullet'|'dash'|'circle';align?:'left'|'center';labelEnd?:number};
+export type TableCell = { header?: boolean; rowSpan?: number; colSpan?: number; content: (string | AnswerToken)[]; blocks?:TextBlock[];scope?:'row'|'col';align?:'left'|'center' };
+type Presentation = {presentationVersion?:number;answerWidths?:Record<string,number>;frame?:'box'|'none'};
+export type QuestionLayout = ({kind:'table';caption?:string;rows:{cells:TableCell[]}[];columnWidths?:number[];minWidthCh?:number;variant?:'grid'|'boxed-notes'|'plain'} & Presentation) | {kind:'matrix';matchingKind:'headings'|'paragraphs';rows:{number:number;text:string}[]} | ({kind:'flow';blocks:TextBlock[];variant?:'notes'|'summary'|'sentences'|'form';optionsPosition?:'before'|'after'} & Presentation) | {kind:'diagram';image:SourceImage;labels:{number:number;x:number;y:number;width?:number}[]};
 export type Group = { id: string; type: string; heading: string; instructions: string; body: string; questions: Question[]; options?: Option[]; choose?: number; wordLimit?: number; allowNumber?: boolean; sourceImages?: SourceImage[]; renderMode?: string; layout?:QuestionLayout };
 export type AudioAsset = {url:string;sha256:string;duration:number;start?:number;end?:number};
 export type Passage = { id: string; number: number; title: string; paragraphs: { id: string; label?: string; text: string; kind?: string }[]; groups: Group[]; sourceImages?: SourceImage[];audio?:AudioAsset };

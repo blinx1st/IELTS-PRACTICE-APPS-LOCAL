@@ -99,58 +99,203 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The thylacine\n\nAppearance and behaviour\n• looked rather like a dog\n• had a series of stripes along its body and tail\n• ate an entirely ",
+                  "The thylacine"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "Appearance and behaviour"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-0"
+                ],
+                "offsets": [
+                  15
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "looked rather like a dog"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-0"
+                ],
+                "offsets": [
+                  42
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "had a series of stripes along its body and tail"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-0"
+                ],
+                "offsets": [
+                  69
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "ate an entirely ",
                   {
                     "number": 1
                   },
-                  " diet\n• probably depended mainly on ",
+                  " diet"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-0",
+                  "",
+                  "cam17-t3-p1-g1-body-147"
+                ],
+                "offsets": [
+                  119,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "probably depended mainly on ",
                   {
                     "number": 2
                   },
-                  " when hunting\n• young spent first months of life inside its mother's ",
+                  " when hunting"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-147",
+                  "",
+                  "cam17-t3-p1-g1-body-195"
+                ],
+                "offsets": [
+                  8,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "young spent first months of life inside its mother's ",
                   {
                     "number": 3
-                  },
-                  "\n\nDecline and extinction\n• last evidence in mainland Australia is a 3,100-year-old ",
+                  }
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-195",
+                  ""
+                ],
+                "offsets": [
+                  16,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Decline and extinction"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-276"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "last evidence in mainland Australia is a 3,100-year-old ",
                   {
                     "number": 4
-                  },
-                  "\n• probably went extinct in mainland Australia due to animals known as dingoes\n• reduction in ",
+                  }
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-276",
+                  ""
+                ],
+                "offsets": [
+                  27,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "probably went extinct in mainland Australia due to animals known as dingoes"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-371"
+                ],
+                "offsets": [
+                  3
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "reduction in ",
                   {
                     "number": 5
                   },
                   " and available sources of food were partly responsible for decline in Tasmania"
                 ],
                 "anchors": [
-                  "cam17-t3-p1-g1-body-0",
-                  "",
-                  "cam17-t3-p1-g1-body-147",
-                  "",
-                  "cam17-t3-p1-g1-body-195",
-                  "",
-                  "cam17-t3-p1-g1-body-276",
-                  "",
                   "cam17-t3-p1-g1-body-371",
                   "",
                   "cam17-t3-p1-g1-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  81,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -478,46 +623,94 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
                   "One advantage of palm oil for manufacturers is that it stays ",
                   {
                     "number": 23
                   },
                   " even when not refrigerated."
-                ]
+                ],
+                "anchors": [
+                  "cam17-t3-p2-g3-flow-0-0",
+                  "",
+                  "cam17-t3-p2-g3-flow-0-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "The ",
                   {
                     "number": 24
                   },
                   " is the best known of the animals suffering habitat loss as a result of the spread of oil palm plantations."
-                ]
+                ],
+                "anchors": [
+                  "cam17-t3-p2-g3-flow-1-0",
+                  "",
+                  "cam17-t3-p2-g3-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "As one of its criteria for the certification of sustainable palm oil, the RSPO insists that growers check ",
                   {
                     "number": 25
                   },
                   " on a routine basis."
-                ]
+                ],
+                "anchors": [
+                  "cam17-t3-p2-g3-flow-2-0",
+                  "",
+                  "cam17-t3-p2-g3-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Ellwood and his researchers are looking into whether the bird's nest fern could restore ",
                   {
                     "number": 26
                   },
                   " in areas where oil palm trees are grown."
-                ]
+                ],
+                "anchors": [
+                  "cam17-t3-p2-g3-flow-3-0",
+                  "",
+                  "cam17-t3-p2-g3-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "sentences",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -839,9 +1032,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The bedrock myth\n\nIn chapter seven, Barr indicates how the lack of bedrock close to the surface does not explain why skyscrapers are absent from ",
+                  "The bedrock myth"
+                ],
+                "anchors": [
+                  "cam17-t3-p3-g3-body"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "In chapter seven, Barr indicates how the lack of bedrock close to the surface does not explain why skyscrapers are absent from ",
                   {
                     "number": 36
                   },
@@ -853,7 +1058,32 @@
                   {
                     "number": 38
                   },
-                  ".\n\nA particularly enjoyable part of the chapter was Barr's account of how foundations are built. He describes not only how ",
+                  "."
+                ],
+                "anchors": [
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body"
+                ],
+                "offsets": [
+                  18,
+                  0,
+                  158,
+                  0,
+                  302,
+                  0,
+                  345
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "A particularly enjoyable part of the chapter was Barr's account of how foundations are built. He describes not only how ",
                   {
                     "number": 39
                   },
@@ -868,29 +1098,23 @@
                   "",
                   "cam17-t3-p3-g3-body",
                   "",
-                  "cam17-t3-p3-g3-body",
-                  "",
-                  "cam17-t3-p3-g3-body",
-                  "",
-                  "cam17-t3-p3-g3-body",
-                  "",
                   "cam17-t3-p3-g3-body"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  158,
-                  0,
-                  302,
-                  0,
-                  345,
+                  348,
                   0,
                   481,
                   0,
                   565
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "after"
           }
         }
       ],

@@ -83,19 +83,67 @@
                     "header": true,
                     "content": [
                       "Cookery Class"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Cookery Class"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "header": true,
                     "content": [
                       "Focus"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Focus"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "header": true,
                     "content": [
                       "Other Information"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Other Information"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -105,6 +153,21 @@
                     "header": false,
                     "content": [
                       "Example: The Food Studio"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Example: The Food Studio"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -115,6 +178,29 @@
                         "number": 1
                       },
                       " and cook with seasonal products"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "how to ",
+                          {
+                            "number": 1
+                          },
+                          " and cook with seasonal products"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-1-1-0",
+                          "",
+                          "l-cam13-t1-p1-g1-cell-1-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -129,6 +215,69 @@
                         "number": 3
                       },
                       " discount"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "small classes"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-1-2-0"
+                        ],
+                        "offsets": [
+                          2
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "also offers ",
+                          {
+                            "number": 2
+                          },
+                          " classes"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-1-2-0",
+                          "",
+                          "l-cam13-t1-p1-g1-cell-1-2-2"
+                        ],
+                        "offsets": [
+                          18,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "clients who return get a ",
+                          {
+                            "number": 3
+                          },
+                          " discount"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-1-2-2",
+                          "",
+                          "l-cam13-t1-p1-g1-cell-1-2-4"
+                        ],
+                        "offsets": [
+                          11,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      }
                     ]
                   }
                 ]
@@ -139,6 +288,21 @@
                     "header": false,
                     "content": [
                       "Bond’s Cookery School"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Bond’s Cookery School"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -147,6 +311,26 @@
                       "food that is ",
                       {
                         "number": 4
+                      }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "food that is ",
+                          {
+                            "number": 4
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-2-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
                       }
                     ]
                   },
@@ -162,6 +346,51 @@
                         "number": 6
                       },
                       " every Thursday"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "includes recipes to strengthen your ",
+                          {
+                            "number": 5
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-2-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          2,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "they have a free ",
+                          {
+                            "number": 6
+                          },
+                          " every Thursday"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-2-2-2",
+                          "",
+                          "l-cam13-t1-p1-g1-cell-2-2-4"
+                        ],
+                        "offsets": [
+                          3,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      }
                     ]
                   }
                 ]
@@ -176,6 +405,29 @@
                         "number": 7
                       },
                       " Centre"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "The ",
+                          {
+                            "number": 7
+                          },
+                          " Centre"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-3-0-0",
+                          "",
+                          "l-cam13-t1-p1-g1-cell-3-0-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -186,6 +438,29 @@
                         "number": 8
                       },
                       " food"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "mainly ",
+                          {
+                            "number": 8
+                          },
+                          " food"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-3-1-0",
+                          "",
+                          "l-cam13-t1-p1-g1-cell-3-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -200,11 +475,64 @@
                         "number": 10
                       },
                       " is sometimes available"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "located near the ",
+                          {
+                            "number": 9
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-3-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          2,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "a special course in skills with a ",
+                          {
+                            "number": 10
+                          },
+                          " is sometimes available"
+                        ],
+                        "anchors": [
+                          "l-cam13-t1-p1-g1-cell-3-2-2",
+                          "",
+                          "l-cam13-t1-p1-g1-cell-3-2-4"
+                        ],
+                        "offsets": [
+                          3,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      }
                     ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              27,
+              32,
+              41
+            ],
+            "variant": "grid",
+            "minWidthCh": 75
           }
         }
       ],
@@ -767,147 +1095,328 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Effects of urban environments on animals"
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Introduction"
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life, e.g."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "the ",
                   {
                     "number": 31
                   },
                   " – because of its general adaptability"
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-3-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "the pigeon – because walls of city buildings are similar to ",
                   {
                     "number": 32
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "In fact, many urban animals are adapting with unusual ",
                   {
                     "number": 33
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-5-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Recent research"
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Emilie Snell-Rood studied small urbanised mammal specimens from museums in Minnesota."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– She found the size of their ",
+                  "She found the size of their ",
                   {
                     "number": 34
                   },
                   " had increased."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-8-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-8-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– She suggests this may be due to the need to locate new sources of ",
+                  "She suggests this may be due to the need to locate new sources of ",
                   {
                     "number": 35
                   },
                   " and to deal with new dangers."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-9-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-9-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "Catarina Miranda focused on the ",
                   {
                     "number": 36
                   },
                   " of urban and rural blackbirds."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-10-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– She found urban birds were often braver, but were afraid of situations that were ",
+                  "She found urban birds were often braver, but were afraid of situations that were ",
                   {
                     "number": 37
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-11-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-11-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "Jonathan Atwell studies how animals respond to urban environments."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– He found that some animals respond to ",
+                  "He found that some animals respond to ",
                   {
                     "number": 38
                   },
                   " by producing lower levels of hormones."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-13-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-13-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "Sarah Partan’s team found urban squirrels use their ",
                   {
                     "number": 39
                   },
                   " to help them communicate."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-14-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-14-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Long-term possibilities"
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Species of animals may develop which are unique to cities. However, some changes may not be ",
                   {
                     "number": 40
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam13-t1-p4-g31-flow-16-0",
+                  "",
+                  "l-cam13-t1-p4-g31-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

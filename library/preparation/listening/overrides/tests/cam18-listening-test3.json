@@ -59,74 +59,167 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Wayside Camera Club membership form"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "li",
                 "content": [
                   "Name: Dan Green"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Email address: dan1068@market.com"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Home address: 52 ",
                   {
                     "number": 1
                   },
                   " Street, Peacetown"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-3-0",
+                  "",
+                  "l-cam18-t3-p1-q1-4-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Heard about us: from a ",
                   {
                     "number": 2
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Reasons for joining:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "to enter competitions"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "to ",
                   {
                     "number": 3
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Type of membership: ",
                   {
                     "number": 4
                   },
                   " membership (£30)"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p1-q1-4-flow-8-0",
+                  "",
+                  "l-cam18-t3-p1-q1-4-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "form",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -184,19 +277,67 @@
                     "content": [
                       "Title of competition"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Title of competition"
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Instructions"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Instructions"
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Feedback to Dan"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Feedback to Dan"
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -210,19 +351,72 @@
                       },
                       "’"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "‘",
+                          {
+                            "number": 5
+                          },
+                          "’"
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-1-0-0",
+                          "",
+                          "l-cam18-t3-p1-q5-10-cell-1-0-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "A scene in the home"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "A scene in the home"
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "The picture's composition was not good."
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "The picture's composition was not good."
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-1-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -232,7 +426,22 @@
                     "content": [
                       "‘Beautiful Sunsets’"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "‘Beautiful Sunsets’"
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -241,7 +450,27 @@
                         "number": 6
                       }
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Scene must show some ",
+                          {
+                            "number": 6
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-2-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -251,7 +480,30 @@
                       },
                       " was wrong."
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "The ",
+                          {
+                            "number": 7
+                          },
+                          " was wrong."
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-2-2-0",
+                          "",
+                          "l-cam18-t3-p1-q5-10-cell-2-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -265,7 +517,30 @@
                       },
                       "’"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "‘",
+                          {
+                            "number": 8
+                          },
+                          "’"
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-3-0-0",
+                          "",
+                          "l-cam18-t3-p1-q5-10-cell-3-0-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -274,7 +549,27 @@
                         "number": 9
                       }
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Scene must show ",
+                          {
+                            "number": 9
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-3-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -284,12 +579,43 @@
                       },
                       "."
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "The photograph was too ",
+                          {
+                            "number": 10
+                          },
+                          "."
+                        ],
+                        "anchors": [
+                          "l-cam18-t3-p1-q5-10-cell-3-2-0",
+                          "",
+                          "l-cam18-t3-p1-q5-10-cell-3-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               }
             ],
-            "caption": "Photography competitions"
+            "caption": "Photography competitions",
+            "presentationVersion": 3,
+            "columnWidths": [
+              34,
+              28,
+              38
+            ],
+            "variant": "grid",
+            "minWidthCh": 86
           }
         }
       ],
@@ -944,47 +1270,98 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Space Traffic Management"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "A Space Traffic Management system"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "is a concept similar to Air Traffic Control, but for satellites rather than planes."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "would aim to set up legal and ",
                   {
                     "number": 31
                   },
                   " ways of improving safety."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-3-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "does not actually exist at present."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Problems in developing effective Space Traffic Management"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Satellites are now quite ",
                   {
@@ -995,97 +1372,235 @@
                     "number": 33
                   },
                   " of satellites)."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-6-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-6-2",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-6-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "At present, satellites are not required to transmit information to help with their ",
                   {
                     "number": 34
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-7-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "There are few systems for ",
                   {
                     "number": 35
                   },
                   " satellites."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-8-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Small pieces of debris may be difficult to identify."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Operators may be unwilling to share details of satellites used for ",
                   {
                     "number": 36
                   },
                   " or commercial reasons."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-10-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "It may be hard to collect details of the object's ",
                   {
                     "number": 37
                   },
                   " at a given time."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-11-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Scientists can only make a ",
                   {
                     "number": 38
                   },
                   " about where the satellite will go."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-12-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Solutions"
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-13-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Common standards should be agreed on for the presentation of information."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "The information should be combined in one ",
                   {
                     "number": 39
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-15-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-15-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "A coordinated system must be designed to create ",
                   {
                     "number": 40
                   },
                   " in its users."
-                ]
+                ],
+                "anchors": [
+                  "l-cam18-t3-p4-q31-40-flow-16-0",
+                  "",
+                  "l-cam18-t3-p4-q31-40-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

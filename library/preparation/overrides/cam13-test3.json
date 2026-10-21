@@ -99,7 +99,23 @@
                       "THE COCONUT PALM"
                     ],
                     "header": true,
-                    "colSpan": 3
+                    "colSpan": 3,
+                    "blocks": [
+                      {
+                        "content": [
+                          "THE COCONUT PALM"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -109,19 +125,67 @@
                     "content": [
                       "Part"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Part"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "Description"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Description"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Uses"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Uses"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-1-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -131,11 +195,42 @@
                     "content": [
                       "trunk"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "trunk"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "up to 30 metres"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "up to 30 metres"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-2-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -143,6 +238,26 @@
                       "timber for houses and the making of ",
                       {
                         "number": 1
+                      }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "timber for houses and the making of ",
+                          {
+                            "number": 1
+                          }
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-2-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
                       }
                     ]
                   }
@@ -154,16 +269,62 @@
                     "content": [
                       "leaves"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "leaves"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-3-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "up to 6 metres long"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "up to 6 metres long"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-3-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "content": [
                       "to make brushes"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "to make brushes"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-3-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -174,11 +335,42 @@
                     "content": [
                       "flowers"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "flowers"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-4-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "at the top of the trunk"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "at the top of the trunk"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-4-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -186,6 +378,26 @@
                       "stems provide sap, used as a drink or a source of ",
                       {
                         "number": 2
+                      }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "stems provide sap, used as a drink or a source of ",
+                          {
+                            "number": 2
+                          }
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-4-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
                       }
                     ]
                   }
@@ -198,17 +410,49 @@
                       "fruits"
                     ],
                     "header": true,
-                    "rowSpan": 5
+                    "rowSpan": 5,
+                    "blocks": [
+                      {
+                        "content": [
+                          "fruits"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-5-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "row"
                   },
                   {
                     "content": [
                       "outer layer"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "outer layer"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-5-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "content": [
                       ""
-                    ]
+                    ],
+                    "blocks": []
                   }
                 ]
               },
@@ -217,6 +461,21 @@
                   {
                     "content": [
                       "middle layer (coir fibres)"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "middle layer (coir fibres)"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-6-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -226,6 +485,29 @@
                         "number": 3
                       },
                       ", etc."
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "used for ",
+                          {
+                            "number": 3
+                          },
+                          ", etc."
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-6-1-0",
+                          "",
+                          "cam13-t3-p1-g1-cell-6-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -235,6 +517,21 @@
                   {
                     "content": [
                       "inner layer (shell)"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "inner layer (shell)"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-7-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -247,6 +544,44 @@
                       {
                         "number": 5
                       }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "a source of ",
+                          {
+                            "number": 4
+                          }
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-7-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "(when halved) for ",
+                          {
+                            "number": 5
+                          }
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-7-1-2",
+                          ""
+                        ],
+                        "offsets": [
+                          2,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -256,6 +591,21 @@
                   {
                     "content": [
                       "coconut water"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "coconut water"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-8-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -265,6 +615,42 @@
                         "number": 6
                       },
                       " for other plants"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "a drink"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-8-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "a source of ",
+                          {
+                            "number": 6
+                          },
+                          " for other plants"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-8-1-0",
+                          "",
+                          "cam13-t3-p1-g1-cell-8-1-2"
+                        ],
+                        "offsets": [
+                          9,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -274,6 +660,21 @@
                   {
                     "content": [
                       "coconut flesh"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "coconut flesh"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-9-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -287,11 +688,60 @@
                         "number": 8
                       },
                       ")"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "oil and milk for cooking and ",
+                          {
+                            "number": 7
+                          }
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-9-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "glycerine (an ingredient in ",
+                          {
+                            "number": 8
+                          },
+                          ")"
+                        ],
+                        "anchors": [
+                          "cam13-t3-p1-g1-cell-9-1-2",
+                          "",
+                          "cam13-t3-p1-g1-cell-9-1-4"
+                        ],
+                        "offsets": [
+                          2,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              13,
+              32,
+              55
+            ],
+            "variant": "grid",
+            "minWidthCh": 37
           }
         },
         {
@@ -486,13 +936,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Research into how parents talk to babies"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t3-p2-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Researchers at Washington State University used ",
                   {
@@ -511,10 +967,33 @@
                     "number": 21
                   },
                   " of types of speech which they can practise."
-                ]
+                ],
+                "anchors": [
+                  "cam13-t3-p2-g2-flow-1-0",
+                  "",
+                  "cam13-t3-p2-g2-flow-1-2",
+                  "",
+                  "cam13-t3-p2-g2-flow-1-4",
+                  "",
+                  "cam13-t3-p2-g2-flow-1-6",
+                  "",
+                  "cam13-t3-p2-g2-flow-1-8"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Meanwhile, another study carried out by scientists from the University of Washington and the University of Connecticut recorded speech and sound using special ",
                   {
@@ -525,9 +1004,29 @@
                     "number": 23
                   },
                   " than those who had not."
-                ]
+                ],
+                "anchors": [
+                  "cam13-t3-p2-g2-flow-2-0",
+                  "",
+                  "cam13-t3-p2-g2-flow-2-2",
+                  "",
+                  "cam13-t3-p2-g2-flow-2-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         },
         {
@@ -818,13 +1317,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Looking at evidence of climate change"
-                ]
+                ],
+                "anchors": [
+                  "cam13-t3-p3-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Yama Dixit and David Hodell have found the first definitive evidence of climate change affecting the plains of north-western India thousands of years ago. By collecting the ",
                   {
@@ -839,10 +1344,29 @@
                     "number": 34
                   },
                   " than evaporation, and suggests that there was an extended period of drought."
-                ]
+                ],
+                "anchors": [
+                  "cam13-t3-p3-g2-flow-1-0",
+                  "",
+                  "cam13-t3-p3-g2-flow-1-2",
+                  "",
+                  "cam13-t3-p3-g2-flow-1-4",
+                  "",
+                  "cam13-t3-p3-g2-flow-1-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Petrie and Singh’s team are using archaeological records to look at ",
                   {
@@ -853,9 +1377,29 @@
                     "number": 36
                   },
                   ", so as to find out about links between inhabitants of different parts of the region and whether these changed over time."
-                ]
+                ],
+                "anchors": [
+                  "cam13-t3-p3-g2-flow-2-0",
+                  "",
+                  "cam13-t3-p3-g2-flow-2-2",
+                  "",
+                  "cam13-t3-p3-g2-flow-2-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         },
         {

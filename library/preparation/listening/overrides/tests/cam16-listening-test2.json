@@ -77,154 +77,346 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Copying photos to digital format"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Name of company: Picturerep"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Requirements"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Maximum size of photos is 30 cm, minimum size 4 cm."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Photos must not be in a ",
                   {
                     "number": 1
                   },
                   " or an album."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-4-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Cost"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "The cost for 360 photos is £",
                   {
                     "number": 2
                   },
                   " (including one disk)."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-6-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Before the completed order is sent, ",
                   {
                     "number": 3
                   },
                   " is required."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-7-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Services included in the price"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Photos can be placed in a folder, e.g. with the name ",
                   {
                     "number": 4
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-9-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The ",
                   {
                     "number": 5
                   },
                   " and contrast can be improved if necessary."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-10-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Photos which are very fragile will be scanned by ",
                   {
                     "number": 6
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-11-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Special restore service (costs extra)"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-12-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "It may be possible to remove an object from a photo, or change the ",
                   {
                     "number": 7
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-13-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "A photo which is not correctly in ",
                   {
                     "number": 8
                   },
                   " cannot be fixed."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-14-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-14-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Other information"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Orders are completed within ",
                   {
                     "number": 9
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-16-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-16-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Send the photos in a box (not ",
                   {
                     "number": 10
                   },
                   ")"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p1-g1-flow-17-0",
+                  "",
+                  "l-cam16-t2-p1-g1-flow-17-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -634,80 +826,163 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Assignment plan"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Decide on research question: Is there a relationship between hours of sleep and number of dreams?"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Decide on sample: Twelve students from the ",
                   {
                     "number": 25
                   },
                   " department"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-2-0",
+                  "",
+                  "l-cam16-t2-p3-g25-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Decide on methodology: Self-reporting"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Decide on procedure: Answers on ",
                   {
                     "number": 26
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Check ethical guidelines for working with ",
                   {
                     "number": 27
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-5-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Ensure that risk is assessed and ",
                   {
                     "number": 28
                   },
                   " is kept to a minimum"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-6-0",
+                  "",
+                  "l-cam16-t2-p3-g25-flow-6-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Analyse the results: Calculate the correlation and make a ",
                   {
                     "number": 29
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p3-g25-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   {
                     "number": 30
                   },
                   " the research"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam16-t2-p3-g25-flow-8-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -814,159 +1089,362 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Health benefits of dance"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Recent findings:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "All forms of dance produce various hormones associated with feelings of happiness."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Dancing with others has a more positive impact than dancing alone."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "An experiment on university students suggested that dance increases ",
                   {
                     "number": 31
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-4-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "For those with mental illness, dance could be used as a form of ",
                   {
                     "number": 32
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-5-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Benefits of dance for older people:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "accessible for people with low levels of ",
                   {
                     "number": 33
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "reduces the risk of heart disease"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "better ",
                   {
                     "number": 34
                   },
                   " reduces the risk of accidents"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-9-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "improves ",
                   {
                     "number": 35
                   },
                   " function by making it work faster"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-10-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "improves participants’ general well-being"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "gives people more ",
                   {
                     "number": 36
                   },
                   " to take exercise"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-12-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "can lessen the feeling of ",
                   {
                     "number": 37
                   },
                   ", very common in older people"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-13-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Benefits of Zumba:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "A study at The University of Wisconsin showed that doing Zumba for 40 minutes uses up as many ",
                   {
                     "number": 38
                   },
                   " as other quite intense forms of exercise."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-15-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-15-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The American Journal of Health Behavior study showed that:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "label"
               },
               {
-                "tag": "p",
                 "content": [
-                  "– women suffering from ",
+                  "women suffering from ",
                   {
                     "number": 39
                   },
                   " benefited from doing Zumba."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-17-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-17-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– Zumba became a ",
+                  "Zumba became a ",
                   {
                     "number": 40
                   },
                   " for the participants."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t2-p4-g31-flow-18-0",
+                  "",
+                  "l-cam16-t2-p4-g31-flow-18-2"
+                ],
+                "offsets": [
+                  2,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

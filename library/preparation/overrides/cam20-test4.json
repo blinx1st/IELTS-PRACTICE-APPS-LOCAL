@@ -113,74 +113,178 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The life and work of Georgia O'Keeffe\n\n• studied art, then worked as a ",
+                  "The life and work of Georgia O'Keeffe"
+                ],
+                "anchors": [
+                  "cam20-t4-p1-g1-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "studied art, then worked as a ",
                   {
                     "number": 1
                   },
-                  " in various places in the USA\n• created drawings using ",
+                  " in various places in the USA"
+                ],
+                "anchors": [
+                  "cam20-t4-p1-g1-body-0",
+                  "",
+                  "cam20-t4-p1-g1-body-79"
+                ],
+                "offsets": [
+                  41,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "created drawings using ",
                   {
                     "number": 2
                   },
-                  " which were exhibited in New York City\n• moved to New York and became famous for her paintings of the city's ",
+                  " which were exhibited in New York City"
+                ],
+                "anchors": [
+                  "cam20-t4-p1-g1-body-79",
+                  "",
+                  "cam20-t4-p1-g1-body-142"
+                ],
+                "offsets": [
+                  32,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "moved to New York and became famous for her paintings of the city's ",
                   {
                     "number": 3
-                  },
-                  "\n• produced a series of innovative close-up paintings of ",
+                  }
+                ],
+                "anchors": [
+                  "cam20-t4-p1-g1-body-142",
+                  ""
+                ],
+                "offsets": [
+                  41,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "produced a series of innovative close-up paintings of ",
                   {
                     "number": 4
-                  },
-                  "\n• went to New Mexico and was initially inspired to paint the many ",
+                  }
+                ],
+                "anchors": [
+                  "cam20-t4-p1-g1-body-259",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "went to New Mexico and was initially inspired to paint the many ",
                   {
                     "number": 5
                   },
-                  " that could be found there\n• continued to paint various features that together formed the dramatic ",
+                  " that could be found there"
+                ],
+                "anchors": [
+                  "cam20-t4-p1-g1-body-324",
+                  "",
+                  "cam20-t4-p1-g1-body-399"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "continued to paint various features that together formed the dramatic ",
                   {
                     "number": 6
                   },
-                  " of New Mexico for over forty years\n• travelled widely by plane in later years, and painted pictures of clouds and ",
+                  " of New Mexico for over forty years"
+                ],
+                "anchors": [
+                  "cam20-t4-p1-g1-body-399",
+                  "",
+                  "cam20-t4-p1-g1-body-506"
+                ],
+                "offsets": [
+                  29,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "travelled widely by plane in later years, and painted pictures of clouds and ",
                   {
                     "number": 7
                   },
                   " seen from above"
                 ],
                 "anchors": [
-                  "cam20-t4-p1-g1-body-0",
-                  "",
-                  "cam20-t4-p1-g1-body-79",
-                  "",
-                  "cam20-t4-p1-g1-body-142",
-                  "",
-                  "cam20-t4-p1-g1-body-259",
-                  "",
-                  "cam20-t4-p1-g1-body-324",
-                  "",
-                  "cam20-t4-p1-g1-body-399",
-                  "",
                   "cam20-t4-p1-g1-body-506",
                   "",
                   "cam20-t4-p1-g1-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  38,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -416,58 +520,109 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "18 The stormwater-management programme in Miami Beach has involved the \ninstallation of efficient ",
+                  "The stormwater-management programme in Miami Beach has involved the \ninstallation of efficient ",
                   {
                     "number": 18
-                  },
-                  " \n \n19 The construction of ",
+                  }
+                ],
+                "anchors": [
+                  "cam20-t4-p2-g2-body-0",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "The construction of ",
                   {
                     "number": 19
                   },
-                  " was the first stage of a project to ensure the \nsuccess of mangroves in Indonesia.  \n \n20 As a response to rising floodwaters in the Mekong Delta, a not-for-profit \norganisation has been building houses that can ",
+                  " was the first stage of a project to ensure the \nsuccess of mangroves in Indonesia."
+                ],
+                "anchors": [
+                  "cam20-t4-p2-g2-body-108",
+                  "",
+                  "cam20-t4-p2-g2-body-145"
+                ],
+                "offsets": [
+                  7,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "As a response to rising floodwaters in the Mekong Delta, a not-for-profit \norganisation has been building houses that can ",
                   {
                     "number": 20
-                  },
-                  " \n \n21 Rising sea levels in Bangladesh have made it necessary to introduce various ",
+                  }
+                ],
+                "anchors": [
+                  "cam20-t4-p2-g2-body-145",
+                  ""
+                ],
+                "offsets": [
+                  91,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "Rising sea levels in Bangladesh have made it necessary to introduce various ",
                   {
                     "number": 21
                   },
-                  " that are suitable for areas of high salt content. \n \n22 A project in LA has increased the number of ",
+                  " that are suitable for areas of high salt content."
+                ],
+                "anchors": [
+                  "cam20-t4-p2-g2-body-367",
+                  "",
+                  "cam20-t4-p2-g2-body-459"
+                ],
+                "offsets": [
+                  7,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "A project in LA has increased the number of ",
                   {
                     "number": 22
                   },
                   " on the city’s streets."
                 ],
                 "anchors": [
-                  "cam20-t4-p2-g2-body-0",
-                  "",
-                  "cam20-t4-p2-g2-body-108",
-                  "",
-                  "cam20-t4-p2-g2-body-145",
-                  "",
-                  "cam20-t4-p2-g2-body-367",
-                  "",
                   "cam20-t4-p2-g2-body-459",
                   "",
                   "cam20-t4-p2-g2-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  57,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "sentences",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         },
         {
@@ -787,9 +942,34 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Unintended ecological effects of using guard dogs \n \nIn Namibia, livestock guard dogs have been used to protect domestic animals \nfrom attacks by cheetahs. \n \nThis has led to a rise in the deaths of other predators, particularly ",
+                  "Unintended ecological effects of using guard dogs"
+                ],
+                "anchors": [
+                  "cam20-t4-p3-g3-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "In Namibia, livestock guard dogs have been used to protect domestic animals \nfrom attacks by cheetahs."
+                ],
+                "anchors": [
+                  "cam20-t4-p3-g3-body-0"
+                ],
+                "offsets": [
+                  53
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "This has led to a rise in the deaths of other predators, particularly ",
                   {
                     "number": 37
                   },
@@ -801,11 +981,7 @@
                   {
                     "number": 39
                   },
-                  " \navailable to certain wild animals.  \n \nOn the other hand, these dogs may help birds by protecting their nests. These \nmight otherwise be threatened by predators such as ",
-                  {
-                    "number": 40
-                  },
-                  ""
+                  " \navailable to certain wild animals."
                 ],
                 "anchors": [
                   "cam20-t4-p3-g3-body-0",
@@ -814,23 +990,43 @@
                   "",
                   "cam20-t4-p3-g3-body-308",
                   "",
-                  "cam20-t4-p3-g3-body-390",
-                  "",
-                  "cam20-t4-p3-g3-body-end"
+                  "cam20-t4-p3-g3-body-390"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
+                  159,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "On the other hand, these dogs may help birds by protecting their nests. These \nmight otherwise be threatened by predators such as ",
+                  {
+                    "number": 40
+                  }
+                ],
+                "anchors": [
+                  "cam20-t4-p3-g3-body-390",
+                  ""
+                ],
+                "offsets": [
+                  41,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

@@ -91,52 +91,365 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Advice on family visit\nAccommodation\n\n",
+                  "Advice on family visit"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title",
+                "align": "left"
+              },
+              {
+                "content": [
+                  "Accommodation"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-0"
+                ],
+                "offsets": [
+                  23
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
                   {
                     "number": 1
                   },
-                  " Hotel on George Street\n\ncost of a family room per night: ",
+                  " Hotel on George Street"
+                ],
+                "anchors": [
+                  "",
+                  "l-cam20-t4-p1-q1-10-flow-0-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "cost of a family room per night: ",
                   {
                     "number": 2
                   },
-                  " £ (approx.)\nRecommended trips\n\na ",
+                  " £ (approx.)"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-2",
+                  "",
+                  "l-cam20-t4-p1-q1-10-flow-0-4"
+                ],
+                "offsets": [
+                  26,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Recommended trips"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-4"
+                ],
+                "offsets": [
+                  13
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "a ",
                   {
                     "number": 3
                   },
-                  " tour of the city centre (starts in Carlton Square)\n\na trip by ",
+                  " tour of the city centre (starts in Carlton Square)"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-4",
+                  "",
+                  "l-cam20-t4-p1-q1-10-flow-0-6"
+                ],
+                "offsets": [
+                  33,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "a trip by ",
                   {
                     "number": 4
                   },
-                  " to the old fort\nScience Museum\n\nbest day to visit: ",
+                  " to the old fort"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-6",
+                  "",
+                  "l-cam20-t4-p1-q1-10-flow-0-8"
+                ],
+                "offsets": [
+                  54,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Science Museum"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-8"
+                ],
+                "offsets": [
+                  17
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "best day to visit: ",
                   {
                     "number": 5
-                  },
-                  "\n\nsee the exhibition about ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-8",
+                  ""
+                ],
+                "offsets": [
+                  34,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "see the exhibition about ",
                   {
                     "number": 6
                   },
-                  ", which opens soon\nFood\n\nClacton Market:\no good for ",
+                  ", which opens soon"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-10",
+                  "",
+                  "l-cam20-t4-p1-q1-10-flow-0-12"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Food"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-12"
+                ],
+                "offsets": [
+                  19
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Clacton Market:"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-12"
+                ],
+                "offsets": [
+                  26
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "good for ",
                   {
                     "number": 7
-                  },
-                  "\no need to have lunch before ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-12",
+                  ""
+                ],
+                "offsets": [
+                  44,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "need to have lunch before ",
                   {
                     "number": 8
                   },
-                  " p.m.\nTheatre tickets\n\nsave up to ",
+                  " p.m."
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-14",
+                  "",
+                  "l-cam20-t4-p1-q1-10-flow-0-16"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Theatre tickets"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-16"
+                ],
+                "offsets": [
+                  6
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "save up to ",
                   {
                     "number": 9
                   },
-                  " % on ticket prices at bargaingtickets.com\nFree activities\n\nBlakewell Gardens:\no Roots Music Festival\no climb Telegraph Hill to see a view of the ",
+                  " % on ticket prices at bargaingtickets.com"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-16",
+                  "",
+                  "l-cam20-t4-p1-q1-10-flow-0-18"
+                ],
+                "offsets": [
+                  24,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Free activities"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-18"
+                ],
+                "offsets": [
+                  43
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Blakewell Gardens:"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-18"
+                ],
+                "offsets": [
+                  61
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Roots Music Festival"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-18"
+                ],
+                "offsets": [
+                  82
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "climb Telegraph Hill to see a view of the ",
                   {
                     "number": 10
-                  },
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t4-p1-q1-10-flow-0-18",
                   ""
-                ]
+                ],
+                "offsets": [
+                  105,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -843,52 +1156,332 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Research in the area around Chembe Bird Sanctuary\nThe importance of birds of prey to the local communities\n\nThey destroy ",
+                  "Research in the area around Chembe Bird Sanctuary"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title",
+                "align": "left"
+              },
+              {
+                "content": [
+                  "The importance of birds of prey to the local communities"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  50
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "They destroy ",
                   {
                     "number": 31
                   },
-                  " and other rodents.\n\nThey help to prevent farmers from being bitten by ",
+                  " and other rodents."
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-0",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-2"
+                ],
+                "offsets": [
+                  109,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "They help to prevent farmers from being bitten by ",
                   {
                     "number": 32
                   },
-                  ".\n\nThey have been an important part of the local culture for many years.\n\nThey now support the economy by encouraging ",
+                  "."
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-2",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-4"
+                ],
+                "offsets": [
+                  22,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "They have been an important part of the local culture for many years."
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-4"
+                ],
+                "offsets": [
+                  4
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "They now support the economy by encouraging ",
                   {
                     "number": 33
                   },
-                  " in the\narea.\nFalling numbers of birds of prey\n\nThe birds may be accidentally killed by ",
+                  " in the\narea."
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-4",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-6"
+                ],
+                "offsets": [
+                  76,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Falling numbers of birds of prey"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-6"
+                ],
+                "offsets": [
+                  14
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "The birds may be accidentally killed by ",
                   {
                     "number": 34
                   },
-                  " when they are\nhunting or sleeping\n\nby electrocution from contact with power lines, especially at times when\nthere are a lot of ",
+                  " when they are\nhunting or sleeping"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-6",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-8"
+                ],
+                "offsets": [
+                  49,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "by electrocution from contact with power lines, especially at times when\nthere are a lot of ",
                   {
                     "number": 35
-                  },
-                  "\n\nLocal farmers may illegally shoot them or ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-8",
+                  ""
+                ],
+                "offsets": [
+                  37,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Local farmers may illegally shoot them or ",
                   {
                     "number": 36
                   },
-                  " them.\nWays of protecting chickens from birds of prey\n\nclearing away vegetation from the area (unhelpful)\n\nproviding a ",
+                  " them."
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-10",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Ways of protecting chickens from birds of prey"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  7
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "clearing away vegetation from the area (unhelpful)"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  56
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "providing a ",
                   {
                     "number": 37
                   },
-                  " for chickens (expensive)\n\nfrightening birds of prey by\no keeping a ",
+                  " for chickens (expensive)"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-12",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-14"
+                ],
+                "offsets": [
+                  109,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "frightening birds of prey by"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-14"
+                ],
+                "offsets": [
+                  28
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "keeping a ",
                   {
                     "number": 38
-                  },
-                  "\no making a ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-14",
+                  ""
+                ],
+                "offsets": [
+                  59,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "making a ",
                   {
                     "number": 39
                   },
-                  " - e.g. with metal objects\n\nA ",
+                  " - e.g. with metal objects"
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-16",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-18"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "A ",
                   {
                     "number": 40
                   },
                   " of methods is usually most effective."
-                ]
+                ],
+                "anchors": [
+                  "l-cam20-t4-p4-q31-40-flow-0-18",
+                  "",
+                  "l-cam20-t4-p4-q31-40-flow-0-20"
+                ],
+                "offsets": [
+                  29,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

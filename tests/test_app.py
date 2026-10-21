@@ -375,3 +375,42 @@ def test_backup_restores_paused_countup_and_new_annotations(fixture_data, monkey
     assert restored['status'] == 'paused' and restored['annotations'] == annotations
     resumed = c.post(f"/api/attempts/{a['id']}/resume").json()
     assert resumed['elapsedSeconds'] == 45 and resumed['elapsedStartedAt'] == a['startedAt'] + 3600
+
+
+def test_reviewed_existing_layout_upgrade_keeps_snapshot_and_zip_history(fixture_data, monkeypatch, tmp_path):
+    from backend.presentation import signature, layout_signature
+    from scripts.prepare_book_layouts import blocks_for
+    t, _, c = fixture_data
+    group = t['passages'][0]['groups'][0]
+    old = {'kind': 'flow', 'blocks': [{'tag': 'p', 'content': ['A title\n\nBody ', {'number': 1}]}]}
+    group['layout'] = old
+    (server.LIBRARY/'tests/cam20-test1.json').write_text(json.dumps(t), encoding='utf-8')
+    a = start(c, examTiming='untimed')
+    annotations = [
+        {'id': 'h', 'kind': 'highlight', 'color': 'green', 'anchor': 'g1-flow-0-0', 'start': 9, 'end': 13, 'text': 'Body'},
+        {'id': 'n', 'kind': 'note', 'note': 'Old note', 'anchor': 'g1-flow-0-0', 'start': 9, 'end': 13, 'text': 'Body'},
+    ]
+    a = draft(c, a, answers={'1': 'bulbs'}, flags=[1], annotations=annotations).json()
+    a = c.post(f"/api/attempts/{a['id']}/pause").json()
+    new = {'kind': 'flow', 'presentationVersion': 3, 'blocks': blocks_for(old['blocks'][0], 'g1-flow-0', title=True)}
+    (server.LIBRARY/'presentation.json').write_text(json.dumps({'groups': {'g1': {
+        'baseSha256': signature(group), 'previousLayoutSha256': [layout_signature(old)], 'layout': new,
+    }}}), encoding='utf-8')
+    with server.connect() as db:
+        frozen = db.execute('SELECT payload FROM attempts WHERE id=?', (a['id'],)).fetchone()[0]
+    shown = c.get(f"/api/attempts/{a['id']}").json()
+    assert shown['test']['passages'][0]['groups'][0]['layout'] == new
+    for field in ('answers', 'flags', 'annotations', 'contentVersion', 'elapsedSeconds', 'status'):
+        assert shown[field] == a[field]
+    assert 'keySnapshot' not in shown and shown['result'] is None
+    with server.connect() as db:
+        assert db.execute('SELECT payload FROM attempts WHERE id=?', (a['id'],)).fetchone()[0] == frozen
+    raw = c.get('/api/backup').content
+    monkeypatch.setattr(server, 'DB', tmp_path/'restored-layout.sqlite3')
+    assert c.post('/api/restore', files={'file': ('history.zip', raw)}).json()['restored'] == 1
+    restored = c.get(f"/api/attempts/{a['id']}").json()
+    assert restored['test']['passages'][0]['groups'][0]['layout'] == new
+    assert restored['annotations'] == annotations and restored['answers'] == {'1': 'bulbs'}
+    with server.connect() as db:
+        snapshot = json.loads(db.execute('SELECT payload FROM attempts WHERE id=?', (a['id'],)).fetchone()[0])
+    assert snapshot['testSnapshot']['passages'][0]['groups'][0]['layout'] == old

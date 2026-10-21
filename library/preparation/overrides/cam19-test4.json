@@ -143,118 +143,254 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Butterflies in the UK"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "The Small Blue"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "lives in large ",
                   {
                     "number": 7
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-2-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "first appears at the start of ",
                   {
                     "number": 8
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-3-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "completes more than one reproductive cycle per year"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "The High Brown Fritillary"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "has one reproductive cycle"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "is considered to be more ",
                   {
                     "number": 9
                   },
                   " than other species"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-7-0",
+                  "",
+                  "cam19-t4-p1-g2-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "its caterpillars occupy a limited range of ",
                   {
                     "number": 10
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-8-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "The Silver-studded Blue"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "is already able to reproduce twice a year in warm areas of ",
                   {
                     "number": 11
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-10-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "The White Admiral"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "is found in ",
                   {
                     "number": 12
                   },
                   " areas of England"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-12-0",
+                  "",
+                  "cam19-t4-p1-g2-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "both climate change and the ",
                   {
                     "number": 13
                   },
                   " of the caterpillar are possible reasons for decline"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p1-g2-flow-13-0",
+                  "",
+                  "cam19-t4-p1-g2-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -502,23 +638,40 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Mining the sea floor"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p2-g3-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Mining corporations believe that the mineral resources lying under the sea may be superior to those found in the earth. They also say that these can be removed without producing much ",
                   {
                     "number": 24
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p2-g3-flow-1-0",
+                  "",
+                  "cam19-t4-p2-g3-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "The extraction is often done by adapting the ",
                   {
@@ -529,9 +682,29 @@
                     "number": 26
                   },
                   " is necessary due to the possible number of unidentified consequences."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p2-g3-flow-2-0",
+                  "",
+                  "cam19-t4-p2-g3-flow-2-2",
+                  "",
+                  "cam19-t4-p2-g3-flow-2-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -760,13 +933,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Contemporary hunter-gatherer societies"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p3-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Bruce Knauft’s research shows that contemporary hunter-gatherer societies tend to exhibit a high level of ",
                   {
@@ -789,9 +968,41 @@
                     "number": 35
                   },
                   " in choices regarding work and marriage."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t4-p3-g2-flow-1-0",
+                  "",
+                  "cam19-t4-p3-g2-flow-1-2",
+                  "",
+                  "cam19-t4-p3-g2-flow-1-4",
+                  "",
+                  "cam19-t4-p3-g2-flow-1-6",
+                  "",
+                  "cam19-t4-p3-g2-flow-1-8",
+                  "",
+                  "cam19-t4-p3-g2-flow-1-10"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {

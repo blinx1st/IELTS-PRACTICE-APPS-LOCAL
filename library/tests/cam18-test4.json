@@ -164,13 +164,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Advantages of green roofs"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t4-p1-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "City rooftops covered with greenery have many advantages. These include lessening the likelihood that floods will occur, reducing how much money is spent on ",
                   {
@@ -181,10 +187,25 @@
                     "number": 7
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam18-t4-p1-g2-flow-1-0",
+                  "",
+                  "cam18-t4-p1-g2-flow-1-2",
+                  "",
+                  "cam18-t4-p1-g2-flow-1-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "There are also social benefits of green roofs. For example, the medical profession recommends ",
                   {
@@ -195,9 +216,29 @@
                     "number": 9
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam18-t4-p1-g2-flow-2-0",
+                  "",
+                  "cam18-t4-p1-g2-flow-2-2",
+                  "",
+                  "cam18-t4-p1-g2-flow-2-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -742,13 +783,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Wegener’s life and work"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t4-p3-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "One of the remarkable things about Wegener from a ",
                   {
@@ -775,9 +822,45 @@
                     "number": 36
                   },
                   " of German scientists."
-                ]
+                ],
+                "anchors": [
+                  "cam18-t4-p3-g2-flow-1-0",
+                  "",
+                  "cam18-t4-p3-g2-flow-1-2",
+                  "",
+                  "cam18-t4-p3-g2-flow-1-4",
+                  "",
+                  "cam18-t4-p3-g2-flow-1-6",
+                  "",
+                  "cam18-t4-p3-g2-flow-1-8",
+                  "",
+                  "cam18-t4-p3-g2-flow-1-10",
+                  "",
+                  "cam18-t4-p3-g2-flow-1-12"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "after"
           }
         },
         {

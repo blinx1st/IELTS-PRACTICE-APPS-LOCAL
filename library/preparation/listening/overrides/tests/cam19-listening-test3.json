@@ -75,100 +75,222 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Local food shops"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Where to go"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Kite Place - near the ",
                   {
                     "number": 1
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-2-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Fish market"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "cross the ",
                   {
                     "number": 2
                   },
                   " and turn right"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-4-0",
+                  "",
+                  "l-cam19-t3-p1-q1-6-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "best to go before ",
                   {
                     "number": 3
                   },
                   " pm, earlier than closing time"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-5-0",
+                  "",
+                  "l-cam19-t3-p1-q1-6-flow-5-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Organic shop"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "called ",
                   {
                     "number": 4
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "below a restaurant in the large, grey building"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "look for the large ",
                   {
                     "number": 5
                   },
                   " outside"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-9-0",
+                  "",
+                  "l-cam19-t3-p1-q1-6-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Supermarket"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "take a ",
                   {
                     "number": 6
                   },
                   " minibus, number 289"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p1-q1-6-flow-11-0",
+                  "",
+                  "l-cam19-t3-p1-q1-6-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -224,19 +346,53 @@
                 "cells": [
                   {
                     "content": [],
-                    "header": true
+                    "header": true,
+                    "blocks": [],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "To buy"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "To buy"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Other ideas"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Other ideas"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -246,13 +402,43 @@
                     "content": [
                       "Fish market"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Fish market"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "a dozen prawns"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "a dozen prawns"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -262,7 +448,30 @@
                       },
                       " (type of seaweed)"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "a handful of ",
+                          {
+                            "number": 7
+                          },
+                          " (type of seaweed)"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-1-2-0",
+                          "",
+                          "l-cam19-t3-p1-q7-10-cell-1-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -272,7 +481,22 @@
                     "content": [
                       "Organic shop"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Organic shop"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -282,7 +506,30 @@
                       },
                       " for dessert"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "beans and a ",
+                          {
+                            "number": 8
+                          },
+                          " for dessert"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-2-1-0",
+                          "",
+                          "l-cam19-t3-p1-q7-10-cell-2-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -291,7 +538,27 @@
                         "number": 9
                       }
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "spices and ",
+                          {
+                            "number": 9
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-2-2-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -301,13 +568,43 @@
                     "content": [
                       "Bakery"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Bakery"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-3-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "a brown loaf"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "a brown loaf"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-3-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -317,12 +614,43 @@
                       },
                       " tart"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "a ",
+                          {
+                            "number": 10
+                          },
+                          " tart"
+                        ],
+                        "anchors": [
+                          "l-cam19-t3-p1-q7-10-cell-3-2-0",
+                          "",
+                          "l-cam19-t3-p1-q7-10-cell-3-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               }
             ],
-            "caption": "Shopping"
+            "caption": "Shopping",
+            "presentationVersion": 3,
+            "columnWidths": [
+              22,
+              39,
+              39
+            ],
+            "variant": "grid",
+            "minWidthCh": 52
           }
         }
       ],
@@ -973,171 +1301,390 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Microplastics"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Where microplastics come from"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "fibres from some ",
                   {
                     "number": 31
                   },
                   " during washing"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-2-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "the breakdown of large pieces of plastic"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-3-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "waste from industry"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-4-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "the action of vehicle tyres on roads"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Effects of microplastics"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "They cause injuries to the ",
                   {
                     "number": 32
                   },
                   " of wildlife and affect their digestive systems."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-7-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "They enter the food chain, e.g., in bottled and tap water, ",
                   {
                     "number": 33
                   },
                   " and seafood."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-8-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-8-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "They may not affect human health, but they are already banned in skin cleaning products and ",
                   {
                     "number": 34
                   },
                   " in some countries."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-9-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "Microplastics enter the soil through the air, rain and ",
                   {
                     "number": 35
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-10-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Microplastics in the soil - a study by Anglia Ruskin University"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-11-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "Earthworms are important because they add ",
                   {
                     "number": 36
                   },
                   " to the soil."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-12-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "The study aimed to find whether microplastics in earthworms affect the ",
                   {
                     "number": 37
                   },
                   " of plants."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-13-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "The study found that microplastics caused:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   {
                     "number": 38
                   },
                   " loss in earthworms"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-15-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "fewer seeds to germinate"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "a rise in the level of ",
                   {
                     "number": 39
                   },
                   " in the soil."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-17-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-17-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "h3",
                 "content": [
                   "The study concluded:"
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-18-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "soil should be seen as an important natural process."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-19-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "li",
                 "content": [
                   "changes to soil damage both ecosystems and ",
                   {
                     "number": 40
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam19-t3-p4-q31-40-flow-20-0",
+                  "",
+                  "l-cam19-t3-p4-q31-40-flow-20-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

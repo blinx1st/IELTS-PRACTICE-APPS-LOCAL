@@ -117,3 +117,12 @@ Nút **Source** dùng ảnh đã lưu local, số trang là thứ tự trang tro
 
 
 Lưu ý transcript: Cambridge 13 có nhiều dòng gạch chân bị OCR bỏ sót, nên bản chép dùng hỗ trợ nhận dạng audio local và có thể còn sai khác nhỏ về từ ngữ/tên riêng. Cambridge 20 Test 1 Part 1 có đoạn cuối thiếu trong PDF được khôi phục từ audio. App hiển thị thông báo tại các transcript này; khóa chấm và nội dung câu hỏi được giữ riêng.
+
+
+## Bảng và ô điền trong đoạn văn
+
+Điền trực tiếp vào ô có số câu, không cần tìm dãy đáp án phía dưới. Ô giữ nguyên độ rộng khi gõ. Với bài dùng ngân hàng từ, chọn chữ cái kèm nội dung ngay tại chỗ trống; danh sách từ vẫn có ở vị trí theo nguồn.
+
+Trong **Display**, cỡ chữ 14–24 px áp dụng cả đề và ô trả lời. Khi bảng rộng hơn cột câu hỏi, cuộn ngang ngay trong khung bảng hoặc kéo rộng cột Reading; footer luôn dùng để chuyển tới câu cần làm. Dùng Tab/Shift+Tab để di chuyển qua ô và cờ. Câu 7 Cambridge 15 Test 4 có hai ô quanh chữ “and”, vẫn là một câu.
+
+Nút **Source** mở ảnh để đối chiếu. Bài đang dở giữ nguyên đáp án, cờ, ghi chú và đồng hồ; layout chỉ được nâng cấp nếu nội dung và bố cục cũ khớp phiên bản đã kiểm tra. Xem [ảnh bố cục mới](docs/BOOK_LAYOUT_REVIEW.md).

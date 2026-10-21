@@ -113,74 +113,268 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The history of frozen food \n \n2,000 years ago, South America \n \n● People conserved the nutritional value of ",
+                  "The history of frozen food"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "2,000 years ago, South America"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-0"
+                ],
+                "offsets": [
+                  30
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "People conserved the nutritional value of ",
                   {
                     "number": 1
                   },
-                  " , using a method \nof freezing then drying. \n \n1851, USA \n \n● ",
-                  {
-                    "number": 2
-                  },
-                  " was kept cool by ice during transportation in specially \nadapted trains. \n \n1880, Australia \n \n● Two kinds of ",
-                  {
-                    "number": 3
-                  },
-                  " were the first frozen food shipped to England. \n \n1917 onwards, USA \n \n● Clarence Birdseye introduced innovations including: \n- quick-freezing methods, so that ",
-                  {
-                    "number": 4
-                  },
-                  " did not spoil the \nfood. \n- packaging products with ",
-                  {
-                    "number": 5
-                  },
-                  ", so the product was visible. \n \nEarly 1940s, USA \n \n● Frozen food became popular because of a shortage of ",
-                  {
-                    "number": 6
-                  },
-                  " \n \n1950s, USA \n \n● A large number of homes now had a ",
-                  {
-                    "number": 7
-                  },
-                  ""
+                  " , using a method \nof freezing then drying."
                 ],
                 "anchors": [
                   "cam20-t3-p1-g1-body-0",
                   "",
-                  "cam20-t3-p1-g1-body-118",
+                  "cam20-t3-p1-g1-body-118"
+                ],
+                "offsets": [
+                  66,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "1851, USA"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-118"
+                ],
+                "offsets": [
+                  47
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  {
+                    "number": 2
+                  },
+                  " was kept cool by ice during transportation in specially \nadapted trains."
+                ],
+                "anchors": [
                   "",
-                  "cam20-t3-p1-g1-body-190",
-                  "",
-                  "cam20-t3-p1-g1-body-311",
-                  "",
-                  "cam20-t3-p1-g1-body-482",
-                  "",
-                  "cam20-t3-p1-g1-body-544",
-                  "",
-                  "cam20-t3-p1-g1-body-661",
-                  "",
-                  "cam20-t3-p1-g1-body-end"
+                  "cam20-t3-p1-g1-body-190"
                 ],
                 "offsets": [
                   0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "1880, Australia"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-190"
+                ],
+                "offsets": [
+                  77
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Two kinds of ",
+                  {
+                    "number": 3
+                  },
+                  " were the first frozen food shipped to England."
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-190",
+                  "",
+                  "cam20-t3-p1-g1-body-311"
+                ],
+                "offsets": [
+                  98,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "1917 onwards, USA"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-311"
+                ],
+                "offsets": [
+                  51
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "Clarence Birdseye introduced innovations including:"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-311"
+                ],
+                "offsets": [
+                  74
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "quick-freezing methods, so that ",
+                  {
+                    "number": 4
+                  },
+                  " did not spoil the \nfood."
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-311",
+                  "",
+                  "cam20-t3-p1-g1-body-482"
+                ],
+                "offsets": [
+                  129,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
+              },
+              {
+                "content": [
+                  "packaging products with ",
+                  {
+                    "number": 5
+                  },
+                  ", so the product was visible."
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-482",
+                  "",
+                  "cam20-t3-p1-g1-body-544"
+                ],
+                "offsets": [
+                  29,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
+              },
+              {
+                "content": [
+                  "Early 1940s, USA"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-544"
+                ],
+                "offsets": [
+                  33
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Frozen food became popular because of a shortage of ",
+                  {
+                    "number": 6
+                  }
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-544",
+                  ""
+                ],
+                "offsets": [
+                  55,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "1950s, USA"
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-661"
+                ],
+                "offsets": [
+                  4
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "A large number of homes now had a ",
+                  {
+                    "number": 7
+                  }
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-661",
+                  ""
+                ],
+                "offsets": [
+                  20,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -516,42 +710,73 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "24 Corals have a number of ",
+                  "Corals have a number of ",
                   {
                     "number": 24
                   },
-                  " which they use to collect their food. \n \n25 Algae gain ",
+                  " which they use to collect their food."
+                ],
+                "anchors": [
+                  "cam20-t3-p2-g4-body-0",
+                  "",
+                  "cam20-t3-p2-g4-body-37"
+                ],
+                "offsets": [
+                  3,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "Algae gain ",
                   {
                     "number": 25
                   },
-                  " from being inside the coral. \n \n26 Increases in the warmth of the sea water can remove the ",
+                  " from being inside the coral."
+                ],
+                "anchors": [
+                  "cam20-t3-p2-g4-body-37",
+                  "",
+                  "cam20-t3-p2-g4-body-103"
+                ],
+                "offsets": [
+                  45,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "Increases in the warmth of the sea water can remove the ",
                   {
                     "number": 26
                   },
                   " from \ncoral."
                 ],
                 "anchors": [
-                  "cam20-t3-p2-g4-body-0",
-                  "",
-                  "cam20-t3-p2-g4-body-37",
-                  "",
                   "cam20-t3-p2-g4-body-103",
                   "",
                   "cam20-t3-p2-g4-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  36,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "sentences",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

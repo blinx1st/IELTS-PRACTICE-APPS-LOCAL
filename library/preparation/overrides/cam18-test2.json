@@ -126,158 +126,342 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Stonehenge"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Construction"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Stage 1:"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "li",
                 "content": [
                   "the ditch and henge were dug, possibly using tools made from ",
                   {
                     "number": 1
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-3-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
-                  "",
                   {
                     "number": 2
                   },
                   " may have been arranged in deep pits inside the circle"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "cam18-t2-p1-g1-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Stage 2:"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "li",
                 "content": [
                   "bluestones from the Preseli Hills were placed in standing position"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "theories about the transportation of the bluestones:"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– archaeological:"
-                ]
+                  "archaeological:"
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-8-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "  ○ builders used ",
+                  "builders used ",
                   {
                     "number": 3
                   },
                   " to make sledges and rollers"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-9-0",
+                  "",
+                  "cam18-t2-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  4,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
               },
               {
-                "tag": "p",
                 "content": [
-                  "  ○ ",
                   {
                     "number": 4
                   },
                   " pulled them on giant baskets"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "cam18-t2-p1-g1-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
               },
               {
-                "tag": "p",
                 "content": [
-                  "– geological:"
-                ]
+                  "geological:"
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-11-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "  ○ they were brought from Wales by ",
+                  "they were brought from Wales by ",
                   {
                     "number": 5
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-12-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  4,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
               },
               {
-                "tag": "p",
                 "content": [
                   "Stage 3:"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-13-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "li",
                 "content": [
                   "sandstone slabs were arranged into an outer crescent or ring"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Builders"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "a theory arose in the 17th century that its builders were Celtic ",
                   {
                     "number": 6
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-16-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Purpose"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "li",
                 "content": [
                   "many experts agree it has been used as a ",
                   {
                     "number": 7
                   },
                   " site"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-18-0",
+                  "",
+                  "cam18-t2-p1-g1-flow-18-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "in the 1960s, it was suggested that it worked as a kind of ",
                   {
                     "number": 8
-                  },
+                  }
+                ],
+                "anchors": [
+                  "cam18-t2-p1-g1-flow-19-0",
                   ""
-                ]
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -640,13 +824,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Using AI in the UK health system"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p2-g3-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "AI currently has a limited role in the way ",
                   {
@@ -661,9 +851,33 @@
                     "number": 26
                   },
                   ". It is therefore important that AI goals are appropriate so that discriminatory practices could be avoided."
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p2-g3-flow-1-0",
+                  "",
+                  "cam18-t2-p2-g3-flow-1-2",
+                  "",
+                  "cam18-t2-p2-g3-flow-1-4",
+                  "",
+                  "cam18-t2-p2-g3-flow-1-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "after"
           }
         }
       ],
@@ -840,13 +1054,19 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Leonardo da Vinci’s ideal city"
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p3-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "A collection of Leonardo da Vinci’s paperwork reveals his design of a new city beside the Ticino River. This was to provide better ",
                   {
@@ -857,10 +1077,25 @@
                     "number": 35
                   },
                   " on the exterior of a building."
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p3-g2-flow-1-0",
+                  "",
+                  "cam18-t2-p3-g2-flow-1-2",
+                  "",
+                  "cam18-t2-p3-g2-flow-1-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Leonardo da Vinci wasn’t only an architect. His expertise in ",
                   {
@@ -871,10 +1106,25 @@
                     "number": 37
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p3-g2-flow-2-0",
+                  "",
+                  "cam18-t2-p3-g2-flow-2-2",
+                  "",
+                  "cam18-t2-p3-g2-flow-2-4"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "While some cities from ",
                   {
@@ -889,9 +1139,33 @@
                     "number": 40
                   },
                   " no longer seems to be the best approach."
-                ]
+                ],
+                "anchors": [
+                  "cam18-t2-p3-g2-flow-3-0",
+                  "",
+                  "cam18-t2-p3-g2-flow-3-2",
+                  "",
+                  "cam18-t2-p3-g2-flow-3-4",
+                  "",
+                  "cam18-t2-p3-g2-flow-3-6"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

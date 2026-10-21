@@ -9,6 +9,10 @@ def signature(group):
     return hashlib.sha256(json.dumps(base, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')).hexdigest()
 
 
+def layout_signature(layout):
+    return hashlib.sha256(json.dumps(layout, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')).hexdigest()
+
+
 def present(test, library):
     registry = library / 'presentation.json'
     if not registry.is_file():
@@ -18,7 +22,8 @@ def present(test, library):
     for p in result.get('parts', result.get('passages', [])):
         for g in p['groups']:
             entry = layouts.get(g['id'])
-            if not g.get('layout') and entry and signature(g) == entry['baseSha256']:
+            known_layout = not g.get('layout') or (entry and layout_signature(g['layout']) in entry.get('previousLayoutSha256', []))
+            if entry and known_layout and signature(g) == entry['baseSha256']:
                 g['layout'] = entry['layout']
     return result
 

@@ -81,50 +81,127 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The nutmeg tree and fruit\n• the leaves of the tree are ",
+                  "The nutmeg tree and fruit"
+                ],
+                "anchors": [
+                  "cam15-t1-p1-g1-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "the leaves of the tree are ",
                   {
                     "number": 1
                   },
-                  " in shape\n• the ",
-                  {
-                    "number": 2
-                  },
-                  " surrounds the fruit and breaks open when the fruit is ripe\n• the ",
-                  {
-                    "number": 3
-                  },
-                  " is used to produce the spice nutmeg\n• the covering known as the aril is used to produce ",
-                  {
-                    "number": 4
-                  },
-                  "\n• the tree has yellow flowers and fruit"
+                  " in shape"
                 ],
                 "anchors": [
                   "cam15-t1-p1-g1-body-0",
                   "",
+                  "cam15-t1-p1-g1-body-67"
+                ],
+                "offsets": [
+                  28,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "the ",
+                  {
+                    "number": 2
+                  },
+                  " surrounds the fruit and breaks open when the fruit is ripe"
+                ],
+                "anchors": [
                   "cam15-t1-p1-g1-body-67",
                   "",
+                  "cam15-t1-p1-g1-body-95"
+                ],
+                "offsets": [
+                  12,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "the ",
+                  {
+                    "number": 3
+                  },
+                  " is used to produce the spice nutmeg"
+                ],
+                "anchors": [
                   "cam15-t1-p1-g1-body-95",
                   "",
+                  "cam15-t1-p1-g1-body-173"
+                ],
+                "offsets": [
+                  62,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "the covering known as the aril is used to produce ",
+                  {
+                    "number": 4
+                  }
+                ],
+                "anchors": [
                   "cam15-t1-p1-g1-body-173",
-                  "",
+                  ""
+                ],
+                "offsets": [
+                  39,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "the tree has yellow flowers and fruit"
+                ],
+                "anchors": [
                   "cam15-t1-p1-g1-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ]
+                  3
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -207,6 +284,21 @@
                   {
                     "content": [
                       "Middle Ages"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Middle Ages"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -214,6 +306,26 @@
                       "Nutmeg was brought to Europe by the ",
                       {
                         "number": 8
+                      }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Nutmeg was brought to Europe by the ",
+                          {
+                            "number": 8
+                          }
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-0-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
                       }
                     ]
                   }
@@ -224,11 +336,41 @@
                   {
                     "content": [
                       "16th century"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "16th century"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
                     "content": [
                       "European nations took control of the nutmeg trade"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "European nations took control of the nutmeg trade"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-1-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
@@ -238,6 +380,21 @@
                   {
                     "content": [
                       "17th century"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "17th century"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-2-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -255,6 +412,115 @@
                         "number": 11
                       },
                       " from the British"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Demand for nutmeg grew, as it was believed to be effective against the disease known as the ",
+                          {
+                            "number": 9
+                          }
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-2-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "The Dutch"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-2-1-2"
+                        ],
+                        "offsets": [
+                          2
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "took control of the Banda Islands"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-2-1-2"
+                        ],
+                        "offsets": [
+                          14
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "dash",
+                        "depth": 1
+                      },
+                      {
+                        "content": [
+                          "restricted nutmeg production to a few areas"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-2-1-2"
+                        ],
+                        "offsets": [
+                          50
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "dash",
+                        "depth": 1
+                      },
+                      {
+                        "content": [
+                          "put ",
+                          {
+                            "number": 10
+                          },
+                          " on nutmeg to avoid it being cultivated outside the islands"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-2-1-2",
+                          "",
+                          "cam15-t1-p1-g3-cell-2-1-4"
+                        ],
+                        "offsets": [
+                          96,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "dash",
+                        "depth": 1
+                      },
+                      {
+                        "content": [
+                          "finally obtained the island of ",
+                          {
+                            "number": 11
+                          },
+                          " from the British"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-2-1-4",
+                          "",
+                          "cam15-t1-p1-g3-cell-2-1-6"
+                        ],
+                        "offsets": [
+                          62,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "dash",
+                        "depth": 1
+                      }
                     ]
                   }
                 ]
@@ -264,6 +530,21 @@
                   {
                     "content": [
                       "Late 18th century"
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Late 18th century"
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-3-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   },
                   {
@@ -276,11 +557,56 @@
                       {
                         "number": 13
                       }
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "1770 – nutmeg plants were secretly taken to ",
+                          {
+                            "number": 12
+                          }
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-3-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "1778 – half the Banda Islands’ nutmeg plantations were destroyed by a ",
+                          {
+                            "number": 13
+                          }
+                        ],
+                        "anchors": [
+                          "cam15-t1-p1-g3-cell-3-1-2",
+                          ""
+                        ],
+                        "offsets": [
+                          2,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
                     ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              23,
+              77
+            ],
+            "variant": "grid",
+            "minWidthCh": 36
           }
         }
       ],
@@ -502,9 +828,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The impact of driverless cars\n\nFigures from the Transport Research Laboratory indicate that most motor accidents are partly due to ",
+                  "The impact of driverless cars"
+                ],
+                "anchors": [
+                  "cam15-t1-p2-g2-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to ",
                   {
                     "number": 19
                   },
@@ -512,7 +850,28 @@
                   {
                     "number": 20
                   },
-                  " will be more workable, especially in towns and cities, resulting in fewer cars on the road.\n\nAccording to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in ",
+                  " will be more workable, especially in towns and cities, resulting in fewer cars on the road."
+                ],
+                "anchors": [
+                  "cam15-t1-p2-g2-body-0",
+                  "",
+                  "cam15-t1-p2-g2-body-144",
+                  "",
+                  "cam15-t1-p2-g2-body-339"
+                ],
+                "offsets": [
+                  31,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "According to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in ",
                   {
                     "number": 21
                   },
@@ -523,10 +882,6 @@
                   " of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing."
                 ],
                 "anchors": [
-                  "cam15-t1-p2-g2-body-0",
-                  "",
-                  "cam15-t1-p2-g2-body-144",
-                  "",
                   "cam15-t1-p2-g2-body-339",
                   "",
                   "cam15-t1-p2-g2-body-557",
@@ -534,18 +889,20 @@
                   "cam15-t1-p2-g2-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  94,
                   0,
                   0,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         },
         {
@@ -941,9 +1298,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The writer's own bias\n\nThe writer has experience of a large number of ",
+                  "The writer's own bias"
+                ],
+                "anchors": [
+                  "cam15-t1-p3-g3-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "The writer has experience of a large number of ",
                   {
                     "number": 38
                   },
@@ -967,16 +1336,22 @@
                   "cam15-t1-p3-g3-body-end"
                 ],
                 "offsets": [
-                  0,
+                  23,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

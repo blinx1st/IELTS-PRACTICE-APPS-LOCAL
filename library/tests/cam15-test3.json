@@ -156,66 +156,221 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Moore's career as an artist\n\n1930s\n• Moore's exhibition at the Leicester Galleries is criticised by the press\n• Moore is urged to offer his ",
+                  "Moore's career as an artist"
+                ],
+                "anchors": [
+                  "cam15-t3-p1-g2-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "1930s"
+                ],
+                "anchors": [
+                  "cam15-t3-p1-g2-body-0"
+                ],
+                "offsets": [
+                  29
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Moore's exhibition at the Leicester Galleries is criticised by the press"
+                ],
+                "anchors": [
+                  "cam15-t3-p1-g2-body-0"
+                ],
+                "offsets": [
+                  37
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Moore is urged to offer his ",
                   {
                     "number": 8
                   },
-                  " and leave the Royal College\n\n1940s\n• Moore turns to drawing because ",
-                  {
-                    "number": 9
-                  },
-                  " for sculpting are not readily available\n• While visiting his hometown, Moore does some drawings of ",
-                  {
-                    "number": 10
-                  },
-                  "\n• Moore is employed to produce a sculpture of a ",
-                  {
-                    "number": 11
-                  },
-                  "\n• ",
-                  {
-                    "number": 12
-                  },
-                  " start to buy Moore's work\n• Moore's increased ",
-                  {
-                    "number": 13
-                  },
-                  " makes it possible for him to do more ambitious sculptures\n\n1950s\n• Moore's series of bronze figures marks a further change in his style"
+                  " and leave the Royal College"
                 ],
                 "anchors": [
                   "cam15-t3-p1-g2-body-0",
                   "",
+                  "cam15-t3-p1-g2-body-152"
+                ],
+                "offsets": [
+                  112,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "1940s"
+                ],
+                "anchors": [
+                  "cam15-t3-p1-g2-body-152"
+                ],
+                "offsets": [
+                  30
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Moore turns to drawing because ",
+                  {
+                    "number": 9
+                  },
+                  " for sculpting are not readily available"
+                ],
+                "anchors": [
                   "cam15-t3-p1-g2-body-152",
                   "",
+                  "cam15-t3-p1-g2-body-233"
+                ],
+                "offsets": [
+                  38,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "While visiting his hometown, Moore does some drawings of ",
+                  {
+                    "number": 10
+                  }
+                ],
+                "anchors": [
                   "cam15-t3-p1-g2-body-233",
-                  "",
+                  ""
+                ],
+                "offsets": [
+                  43,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Moore is employed to produce a sculpture of a ",
+                  {
+                    "number": 11
+                  }
+                ],
+                "anchors": [
                   "cam15-t3-p1-g2-body-346",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  {
+                    "number": 12
+                  },
+                  " start to buy Moore's work"
+                ],
+                "anchors": [
                   "",
-                  "cam15-t3-p1-g2-body-408",
-                  "",
+                  "cam15-t3-p1-g2-body-424"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Moore's increased ",
+                  {
+                    "number": 13
+                  },
+                  " makes it possible for him to do more ambitious sculptures"
+                ],
+                "anchors": [
                   "cam15-t3-p1-g2-body-424",
                   "",
                   "cam15-t3-p1-g2-body-end"
                 ],
                 "offsets": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
+                  29,
                   0,
                   0
-                ]
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "1950s"
+                ],
+                "anchors": [
+                  "cam15-t3-p1-g2-body-end"
+                ],
+                "offsets": [
+                  60
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Moore's series of bronze figures marks a further change in his style"
+                ],
+                "anchors": [
+                  "cam15-t3-p1-g2-body-end"
+                ],
+                "offsets": [
+                  68
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -457,9 +612,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "How the Desolenator works\n\nThe energy required to operate the Desolenator comes from sunlight. The device can be used in different locations, as it has ",
+                  "How the Desolenator works"
+                ],
+                "anchors": [
+                  "cam15-t3-p2-g2-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "The energy required to operate the Desolenator comes from sunlight. The device can be used in different locations, as it has ",
                   {
                     "number": 21
                   },
@@ -501,7 +668,7 @@
                   "cam15-t3-p2-g2-body-end"
                 ],
                 "offsets": [
-                  0,
+                  27,
                   0,
                   0,
                   0,
@@ -514,9 +681,15 @@
                   0,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -745,9 +918,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Phylogenetic analysis of Little Red Riding Hood\n\nTehrani used techniques from evolutionary biology to find out if ",
+                  "Phylogenetic analysis of Little Red Riding Hood"
+                ],
+                "anchors": [
+                  "cam15-t3-p3-g2-body"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "Tehrani used techniques from evolutionary biology to find out if ",
                   {
                     "number": 32
                   },
@@ -783,7 +968,7 @@
                   "cam15-t3-p3-g2-body"
                 ],
                 "offsets": [
-                  0,
+                  49,
                   0,
                   127,
                   0,
@@ -794,9 +979,15 @@
                   607,
                   0,
                   705
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "after"
           }
         },
         {

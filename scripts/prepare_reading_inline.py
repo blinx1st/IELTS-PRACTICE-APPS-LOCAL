@@ -25,6 +25,8 @@ def eligible(g):
             g['type']=='matching' and 'summary' in g['instructions'].lower()) and g.get('layout',{}).get('kind') not in ('table','matrix','diagram')
 
 def layout_for(g,reviewed):
+    if g.get('layout', {}).get('presentationVersion', 0) >= 3:
+        return g['layout']
     nums=[q['number'] for q in g['questions']]
     if g['id'] in reviewed:
         blocks=[]
@@ -82,7 +84,7 @@ def main():
             for g in passage['groups']:
                 if not eligible(g):continue
                 layout=layout_for(g,reviewed);refs=validate(g,layout)
-                entry={'baseSha256':signature(g),'layout':layout};g['layout']=layout
+                entry={**registry['groups'].get(g['id'],{}),'baseSha256':signature(g),'layout':layout};g['layout']=layout
                 registry['groups'][g['id']]=entry;changed=True
                 report.append({'groupId':g['id'],'questions':refs,'sourceImages':g.get('sourceImages',[]),'method':'visual transcription' if g['id'] in reviewed else 'previously reviewed text','baseSha256':entry['baseSha256'],'layoutSha256':hashlib.sha256(json.dumps(layout,sort_keys=True,ensure_ascii=False).encode()).hexdigest()})
         if changed:

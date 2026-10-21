@@ -77,142 +77,317 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Holiday rental"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Owners’ names: Jack Fitzgerald and Shirley Fitzgerald"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "Granary Cottage"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "available for week beginning ",
                   {
                     "number": 1
                   },
                   " May"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-3-0",
+                  "",
+                  "l-cam16-t4-p1-g1-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "cost for the week: £",
                   {
                     "number": 2
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-4-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   {
                     "number": 3
                   },
                   " Cottage"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam16-t4-p1-g1-flow-5-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "cost for the week: £480"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "building was originally a ",
                   {
                     "number": 4
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-7-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "walk through doors from living room into a ",
                   {
                     "number": 5
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-8-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "several ",
                   {
                     "number": 6
                   },
                   " spaces at the front"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-9-0",
+                  "",
+                  "l-cam16-t4-p1-g1-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "bathroom has a shower"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-10-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "central heating and stove that burns ",
                   {
                     "number": 7
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-11-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "views of old ",
                   {
                     "number": 8
                   },
                   " from living room"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-12-0",
+                  "",
+                  "l-cam16-t4-p1-g1-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "view of hilltop ",
                   {
                     "number": 9
                   },
                   " from the bedroom"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-13-0",
+                  "",
+                  "l-cam16-t4-p1-g1-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Payment"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-14-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "deposit: £144"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "deadline for final payment: end of ",
                   {
                     "number": 10
                   }
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p1-g1-flow-16-0",
+                  ""
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -770,165 +945,377 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "THE EXTINCTION OF THE DODO BIRD"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "The dodo was a large flightless bird which used to inhabit the island of Mauritius."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-1-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "h3",
                 "content": [
                   "History"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "1507 – Portuguese ships transporting ",
                   {
                     "number": 31
                   },
                   " stopped at the island to collect food and water."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-3-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "1638 – The Dutch established a ",
                   {
                     "number": 32
                   },
                   " on the island."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-4-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "They killed the dodo birds for their meat."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The last one was killed in 1681."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-6-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Description"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-7-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "The only record we have is written descriptions and pictures (possibly unreliable)."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "A Dutch painting suggests the dodo was very ",
                   {
                     "number": 33
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-9-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-9-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The only remaining soft tissue is a dried ",
                   {
                     "number": 34
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-10-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Recent studies of a dodo skeleton suggest the birds were capable of rapid ",
                   {
                     "number": 35
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-11-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "It’s thought they were able to use their small wings to maintain ",
                   {
                     "number": 36
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-12-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-12-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The ",
                   {
                     "number": 37
                   },
                   " was of average size."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-13-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-13-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Their sense of ",
                   {
                     "number": 38
                   },
                   " enabled them to find food."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-14-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-14-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "h3",
                 "content": [
                   "Reasons for extinction"
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-15-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "section"
               },
               {
-                "tag": "p",
                 "content": [
                   "Hunting was probably not the main cause."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-16-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "Sailors brought dogs and monkeys."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-17-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   {
                     "number": 39
                   },
                   " also escaped onto the island and ate the birds’ eggs."
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "l-cam16-t4-p4-g31-flow-18-1"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
                   "The arrival of farming meant the ",
                   {
                     "number": 40
                   },
                   " was destroyed."
-                ]
+                ],
+                "anchors": [
+                  "l-cam16-t4-p4-g31-flow-19-0",
+                  "",
+                  "l-cam16-t4-p4-g31-flow-19-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],

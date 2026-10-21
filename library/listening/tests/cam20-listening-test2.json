@@ -91,52 +91,396 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Local councils can arrange practical support to help those caring for elderly\npeople at home.\nThis can give the carer:\n\ntime for other responsibilities\n\na ",
+                  "Local councils can arrange practical support to help those caring for elderly"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "people at home."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-0"
+                ],
+                "offsets": [
+                  78
+                ],
+                "tag": "p",
+                "role": "body"
+              },
+              {
+                "content": [
+                  "This can give the carer:"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-0"
+                ],
+                "offsets": [
+                  94
+                ],
+                "tag": "p",
+                "role": "label"
+              },
+              {
+                "content": [
+                  "time for other responsibilities"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-0"
+                ],
+                "offsets": [
+                  121
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "a ",
                   {
                     "number": 1
-                  },
-                  "\nAssessment of mother’s needs\nThis may include discussion of:\n\nhow much ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-0",
+                  ""
+                ],
+                "offsets": [
+                  155,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Assessment of mother’s needs"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-2"
+                ],
+                "offsets": [
+                  1
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "This may include discussion of:"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-2"
+                ],
+                "offsets": [
+                  30
+                ],
+                "tag": "p",
+                "role": "label"
+              },
+              {
+                "content": [
+                  "how much ",
                   {
                     "number": 2
                   },
-                  " the caring involves\n\nwhat types of tasks are involved, e.g.\no help with dressing\no helping her have a ",
+                  " the caring involves"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-2",
+                  "",
+                  "l-cam20-t2-p1-q1-10-flow-0-4"
+                ],
+                "offsets": [
+                  64,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "what types of tasks are involved, e.g."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-4"
+                ],
+                "offsets": [
+                  23
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "help with dressing"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-4"
+                ],
+                "offsets": [
+                  64
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "helping her have a ",
                   {
                     "number": 3
-                  },
-                  "\no shopping\no helping with meals\no dealing with ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-4",
+                  ""
+                ],
+                "offsets": [
+                  85,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "shopping"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-6"
+                ],
+                "offsets": [
+                  3
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "helping with meals"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-6"
+                ],
+                "offsets": [
+                  14
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "dealing with ",
                   {
                     "number": 4
-                  },
-                  "\n\nany aspects of caring that are especially difficult, e.g.\no loss of ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-6",
+                  ""
+                ],
+                "offsets": [
+                  35,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "any aspects of caring that are especially difficult, e.g."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-8"
+                ],
+                "offsets": [
+                  3
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "loss of ",
                   {
                     "number": 5
-                  },
-                  "\no ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-8",
+                  ""
+                ],
+                "offsets": [
+                  63,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
                   {
                     "number": 6
                   },
-                  " her\no preventing a ",
+                  " her"
+                ],
+                "anchors": [
+                  "",
+                  "l-cam20-t2-p1-q1-10-flow-0-12"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "preventing a ",
                   {
                     "number": 7
-                  },
-                  "\nTypes of support that may be offered to carers\n\ntransport costs, e.g. cost of a ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-12",
+                  ""
+                ],
+                "offsets": [
+                  7,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Types of support that may be offered to carers"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-14"
+                ],
+                "offsets": [
+                  1
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "transport costs, e.g. cost of a ",
                   {
                     "number": 8
-                  },
-                  "\n\ncar-related costs, e.g. fuel and ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-14",
+                  ""
+                ],
+                "offsets": [
+                  50,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "car-related costs, e.g. fuel and ",
                   {
                     "number": 9
-                  },
-                  "\n\nhelp with housework\n\nhelp to reduce ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-16",
+                  ""
+                ],
+                "offsets": [
+                  3,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "help with housework"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-18"
+                ],
+                "offsets": [
+                  3
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "help to reduce ",
                   {
                     "number": 10
-                  },
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t2-p1-q1-10-flow-0-18",
                   ""
-                ]
+                ],
+                "offsets": [
+                  25,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -737,52 +1081,397 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Developing food trend\n\nThe growth in interest in food fashions started with ",
+                  "Developing food trend"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title",
+                "align": "left"
+              },
+              {
+                "content": [
+                  "The growth in interest in food fashions started with ",
                   {
                     "number": 31
                   },
-                  " of\nfood being shared on social media.\n\nThe UK food industry is constantly developing products which are new or\ndifferent.\n\nInfluencers on social media become 'ambassadors' for a brand.\no Sales of ",
+                  " of\nfood being shared on social media."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-0",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-2"
+                ],
+                "offsets": [
+                  24,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The UK food industry is constantly developing products which are new or\ndifferent."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-2"
+                ],
+                "offsets": [
+                  41
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Influencers on social media become 'ambassadors' for a brand."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-2"
+                ],
+                "offsets": [
+                  126
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Sales of ",
                   {
                     "number": 32
                   },
-                  " food brands have grown rapidly this\nway.\n\nSupermarkets track demand for ingredients on social media.\no Famous ",
+                  " food brands have grown rapidly this\nway."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-2",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-4"
+                ],
+                "offsets": [
+                  190,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Supermarkets track demand for ingredients on social media."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-4"
+                ],
+                "offsets": [
+                  44
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Famous ",
                   {
                     "number": 33
                   },
-                  " are influential.\nMarketing campaigns\n\nThe avocado:\no ",
+                  " are influential."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-4",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-6"
+                ],
+                "offsets": [
+                  105,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Marketing campaigns"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-6"
+                ],
+                "offsets": [
+                  18
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "The avocado:"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-6"
+                ],
+                "offsets": [
+                  40
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
                   {
                     "number": 34
                   },
-                  " were invited to visit growers in South Africa.\no Advertising focused on its ",
+                  " were invited to visit growers in South Africa."
+                ],
+                "anchors": [
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-8"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Advertising focused on its ",
                   {
                     "number": 35
                   },
-                  " benefits.\n\nOat milk:\no A Swedish brand’s media campaign received publicity by upsetting\ncompetitors.\no Promotion in the USA through ",
+                  " benefits."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-8",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-10"
+                ],
+                "offsets": [
+                  50,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Oat milk:"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-10"
+                ],
+                "offsets": [
+                  13
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "A Swedish brand’s media campaign received publicity by upsetting\ncompetitors."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-10"
+                ],
+                "offsets": [
+                  25
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Promotion in the USA through ",
                   {
                     "number": 36
                   },
-                  " shops reduced\nthe need for advertising.\no It appealed to consumers who are concerned about the ",
+                  " shops reduced\nthe need for advertising."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-10",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  105,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "It appealed to consumers who are concerned about the ",
                   {
                     "number": 37
                   },
-                  ".\n\nNorwegian skrei:\no has helped strengthen the ",
+                  "."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-12",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-14"
+                ],
+                "offsets": [
+                  43,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Norwegian skrei:"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-14"
+                ],
+                "offsets": [
+                  4
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "has helped strengthen the ",
                   {
                     "number": 38
                   },
-                  " of Norwegian\nseafood.\nEthical concerns\n\nQuinoa:\no Its success led to an increase in its ",
+                  " of Norwegian\nseafood."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-14",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-16"
+                ],
+                "offsets": [
+                  23,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Ethical concerns"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-16"
+                ],
+                "offsets": [
+                  23
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Quinoa:"
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-16"
+                ],
+                "offsets": [
+                  42
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Its success led to an increase in its ",
                   {
                     "number": 39
                   },
-                  ".\no Overuse of resources resulted in poor quality ",
+                  "."
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-16",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-18"
+                ],
+                "offsets": [
+                  52,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Overuse of resources resulted in poor quality ",
                   {
                     "number": 40
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "l-cam20-t2-p4-q31-40-flow-0-18",
+                  "",
+                  "l-cam20-t2-p4-q31-40-flow-0-20"
+                ],
+                "offsets": [
+                  4,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

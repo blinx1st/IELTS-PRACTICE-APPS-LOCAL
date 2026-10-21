@@ -143,102 +143,226 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "h3",
                 "content": [
                   "Archaeological findings on Obi"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
               },
               {
-                "tag": "p",
                 "content": [
                   "Excavations of rock shelters inside ",
                   {
                     "number": 8
                   },
                   " near the village of Kelo revealed:"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-1-0",
+                  "",
+                  "cam19-t3-p1-g2-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "li",
                 "content": [
                   "axes from around 14,000 years ago, probably used to make canoes"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-2-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "axes made out of ",
                   {
                     "number": 9
                   },
                   ", dating from around 11,700 years ago"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-3-0",
+                  "",
+                  "cam19-t3-p1-g2-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
-                  "",
                   {
                     "number": 10
                   },
                   " of an animal: evidence of what ancient islanders ate"
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "cam19-t3-p1-g2-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "evidence of travel between islands:"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-5-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "p",
                 "content": [
-                  "– obsidian: a material that is not found naturally on Obi"
-                ]
+                  "obsidian: a material that is not found naturally on Obi"
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-6-0"
+                ],
+                "offsets": [
+                  2
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
-                  "– ",
                   {
                     "number": 11
                   },
                   " which resembled ones found on other islands."
-                ]
+                ],
+                "anchors": [
+                  "",
+                  "cam19-t3-p1-g2-flow-7-2"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "dash",
+                "depth": 1
               },
               {
-                "tag": "p",
                 "content": [
                   "It is thought that from 8,000 years ago, Obi islanders:"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-8-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "p",
+                "role": "label"
               },
               {
-                "tag": "li",
                 "content": [
                   "may have switched from hunting to fishing"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-9-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "had ",
                   {
                     "number": 12
                   },
                   " as well as items made out of metal"
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-10-0",
+                  "",
+                  "cam19-t3-p1-g2-flow-10-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               },
               {
-                "tag": "li",
                 "content": [
                   "probably took part in the production and sale of ",
                   {
                     "number": 13
                   },
                   "."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p1-g2-flow-11-0",
+                  "",
+                  "cam19-t3-p1-g2-flow-11-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         }
       ],
@@ -456,56 +580,115 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
                   "Peatlands which have been drained begin to release ",
                   {
                     "number": 18
                   },
                   " instead of storing it."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p2-g2-flow-0-0",
+                  "",
+                  "cam19-t3-p2-g2-flow-0-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Once peatland areas have been cleared, ",
                   {
                     "number": 19
                   },
                   " are more likely to occur."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p2-g2-flow-1-0",
+                  "",
+                  "cam19-t3-p2-g2-flow-1-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Clearing peatland forests to make way for oil palm plantations destroys the ",
                   {
                     "number": 20
                   },
                   " of the local environment."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p2-g2-flow-2-0",
+                  "",
+                  "cam19-t3-p2-g2-flow-2-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Water is drained out of peatlands through the ",
                   {
                     "number": 21
                   },
                   " which are created by logging companies."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p2-g2-flow-3-0",
+                  "",
+                  "cam19-t3-p2-g2-flow-3-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               },
               {
-                "tag": "p",
                 "content": [
                   "Draining peatlands leads to ",
                   {
                     "number": 22
                   },
                   ": a serious problem which can eventually result in coastal flooding and land loss."
-                ]
+                ],
+                "anchors": [
+                  "cam19-t3-p2-g2-flow-4-0",
+                  "",
+                  "cam19-t3-p2-g2-flow-4-2"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "sentences",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         },
         {

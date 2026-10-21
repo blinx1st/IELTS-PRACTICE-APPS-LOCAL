@@ -88,19 +88,67 @@
                     "content": [
                       "Name of companies"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Name of companies"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Information about costs"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Information about costs"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-0-1-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   },
                   {
                     "content": [
                       "Additional notes"
                     ],
-                    "header": true
+                    "header": true,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Additional notes"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-0-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -110,7 +158,22 @@
                     "content": [
                       "Peak Rentals"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Peak Rentals"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-1-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -120,7 +183,30 @@
                       },
                       " dollars per room per month"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Prices range from 105 dollars to ",
+                          {
+                            "number": 1
+                          },
+                          " dollars per room per month"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-1-1-0",
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-1-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -134,7 +220,38 @@
                       },
                       " with every living room set"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "The furniture is very ",
+                          {
+                            "number": 2
+                          },
+                          ".\nDelivers in 1–2 days.\nSpecial offer: free ",
+                          {
+                            "number": 3
+                          },
+                          " with every living room set"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-1-2-0",
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-1-2-2",
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-1-2-4"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -147,7 +264,27 @@
                       },
                       " and Oliver"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          {
+                            "number": 4
+                          },
+                          " and Oliver"
+                        ],
+                        "anchors": [
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-2-0-1"
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -156,13 +293,48 @@
                         "number": 5
                       }
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Mid-range prices\n12% monthly fee for ",
+                          {
+                            "number": 5
+                          }
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-2-1-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
                       "Also offers a cleaning service"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Also offers a cleaning service"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-2-2-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -172,7 +344,22 @@
                     "content": [
                       "Larch Furniture"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Larch Furniture"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-3-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -182,7 +369,30 @@
                       },
                       " items"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Offers cheapest prices for renting furniture and ",
+                          {
+                            "number": 6
+                          },
+                          " items"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-3-1-0",
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-3-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -192,7 +402,30 @@
                       },
                       ".\nMinimum contract length: six months"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "Must have own ",
+                          {
+                            "number": 7
+                          },
+                          ".\nMinimum contract length: six months"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-3-2-0",
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-3-2-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               },
@@ -205,7 +438,27 @@
                       },
                       " Rentals"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          {
+                            "number": 8
+                          },
+                          " Rentals"
+                        ],
+                        "anchors": [
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-4-0-1"
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -215,7 +468,30 @@
                       },
                       " for the most up-to-date prices"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          "See the ",
+                          {
+                            "number": 9
+                          },
+                          " for the most up-to-date prices"
+                        ],
+                        "anchors": [
+                          "l-cam20-t3-p1-q1-10-cell-4-1-0",
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-4-1-2"
+                        ],
+                        "offsets": [
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   },
                   {
                     "content": [
@@ -224,12 +500,40 @@
                       },
                       " are allowed within 7 days of delivery"
                     ],
-                    "header": false
+                    "header": false,
+                    "blocks": [
+                      {
+                        "content": [
+                          {
+                            "number": 10
+                          },
+                          " are allowed within 7 days of delivery"
+                        ],
+                        "anchors": [
+                          "",
+                          "l-cam20-t3-p1-q1-10-cell-4-2-1"
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ]
                   }
                 ]
               }
             ],
-            "caption": "Furniture rental companies"
+            "caption": "Furniture rental companies",
+            "presentationVersion": 3,
+            "columnWidths": [
+              22,
+              34,
+              44
+            ],
+            "variant": "plain",
+            "minWidthCh": 91
           }
         }
       ],
@@ -884,52 +1188,357 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "Inclusive design\nDefinition\n\nDesigning products that can be accessed by a diverse range of people\nwithout the need for any ",
+                  "Inclusive design"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title",
+                "align": "left"
+              },
+              {
+                "content": [
+                  "Definition"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-0"
+                ],
+                "offsets": [
+                  17
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Designing products that can be accessed by a diverse range of people\nwithout the need for any ",
                   {
                     "number": 31
                   },
-                  ".\n\nNot the same as universal design: that is design for everyone, including\ncatering for people with ",
+                  "."
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-0",
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-2"
+                ],
+                "offsets": [
+                  30,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Not the same as universal design: that is design for everyone, including\ncatering for people with ",
                   {
                     "number": 32
                   },
-                  " problems\nExamples of inclusive design\n\n",
+                  " problems"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-2",
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-4"
+                ],
+                "offsets": [
+                  4,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Examples of inclusive design"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-4"
+                ],
+                "offsets": [
+                  10
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
                   {
                     "number": 33
                   },
-                  " which are adjustable, avoiding back or neck problems\n\n",
+                  " which are adjustable, avoiding back or neck problems"
+                ],
+                "anchors": [
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-6"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
                   {
                     "number": 34
                   },
-                  " in public toilets which are easier to use\nTo assist the elderly:\n\nDesigners avoid using ",
+                  " in public toilets which are easier to use"
+                ],
+                "anchors": [
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-8"
+                ],
+                "offsets": [
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "To assist the elderly:"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-8"
+                ],
+                "offsets": [
+                  43
+                ],
+                "tag": "p",
+                "role": "label"
+              },
+              {
+                "content": [
+                  "Designers avoid using ",
                   {
                     "number": 35
                   },
-                  " in interfaces\n\nPeople can make commands using a mouse, keyboard or their ",
+                  " in interfaces"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-8",
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-10"
+                ],
+                "offsets": [
+                  68,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "People can make commands using a mouse, keyboard or their ",
                   {
                     "number": 36
-                  },
-                  "\nImpact of non-inclusive designs\n\nAccess\no Loss of independence for disabled people.\n\nSafety\no Seatbelts are especially problematic for ",
+                  }
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-10",
+                  ""
+                ],
+                "offsets": [
+                  17,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Impact of non-inclusive designs"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  1
+                ],
+                "tag": "h3",
+                "role": "section"
+              },
+              {
+                "content": [
+                  "Access"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  35
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Loss of independence for disabled people."
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  44
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Safety"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-12"
+                ],
+                "offsets": [
+                  88
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "Seatbelts are especially problematic for ",
                   {
                     "number": 37
                   },
-                  " women.\no PPE jackets are often unsuitable because of the size of women’s\n",
+                  " women."
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-12",
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-14"
+                ],
+                "offsets": [
+                  97,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "PPE jackets are often unsuitable because of the size of women’s\n",
                   {
                     "number": 38
                   },
-                  ".\no PPE for female ",
+                  "."
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-14",
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-16"
+                ],
+                "offsets": [
+                  10,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "PPE for female ",
                   {
                     "number": 39
                   },
-                  " officers dealing with emergencies\nis the worst.\n\nComfort in the workplace\no The ",
+                  " officers dealing with emergencies\nis the worst."
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-16",
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-18"
+                ],
+                "offsets": [
+                  4,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
+              },
+              {
+                "content": [
+                  "Comfort in the workplace"
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-18"
+                ],
+                "offsets": [
+                  51
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "bullet",
+                "depth": 0
+              },
+              {
+                "content": [
+                  "The ",
                   {
                     "number": 40
                   },
                   " in offices is often too low for women."
-                ]
+                ],
+                "anchors": [
+                  "l-cam20-t3-p4-q31-40-flow-0-18",
+                  "",
+                  "l-cam20-t3-p4-q31-40-flow-0-20"
+                ],
+                "offsets": [
+                  78,
+                  0,
+                  0
+                ],
+                "tag": "li",
+                "role": "body",
+                "marker": "circle",
+                "depth": 2
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "none",
+            "optionsPosition": "before"
           }
         }
       ],

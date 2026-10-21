@@ -142,7 +142,23 @@
                     "header": true,
                     "content": [
                       "Reasons why polar bears should be protected"
-                    ]
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "Reasons why polar bears should be protected"
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-0-0-0"
+                        ],
+                        "offsets": [
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      }
+                    ],
+                    "scope": "col"
                   }
                 ]
               },
@@ -175,11 +191,172 @@
                         "number": 13
                       },
                       " if disappointed when hunting.\n\n• They may form relationships with other species."
+                    ],
+                    "blocks": [
+                      {
+                        "content": [
+                          "People think of bears as unintelligent and ",
+                          {
+                            "number": 8
+                          }
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-0",
+                          ""
+                        ],
+                        "offsets": [
+                          0,
+                          0
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "However, this may not be correct. For example:"
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-2"
+                        ],
+                        "offsets": [
+                          2
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "In Tennoji Zoo, a bear has been seen using a branch as a ",
+                          {
+                            "number": 9
+                          },
+                          ". This allowed him to knock down some ",
+                          {
+                            "number": 10
+                          }
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-2",
+                          "",
+                          "cam16-t1-p1-g2-cell-1-0-4",
+                          ""
+                        ],
+                        "offsets": [
+                          52,
+                          0,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "A wild polar bear worked out a method of reaching a platform where a ",
+                          {
+                            "number": 11
+                          },
+                          " was located."
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-6",
+                          "",
+                          "cam16-t1-p1-g2-cell-1-0-8"
+                        ],
+                        "offsets": [
+                          4,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "Polar bears have displayed behaviour such as conscious manipulation of objects and activity similar to a ",
+                          {
+                            "number": 12
+                          }
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-8",
+                          ""
+                        ],
+                        "offsets": [
+                          17,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "Bears may also display emotions. For example:"
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-10"
+                        ],
+                        "offsets": [
+                          2
+                        ],
+                        "tag": "p",
+                        "role": "body"
+                      },
+                      {
+                        "content": [
+                          "They may make movements suggesting ",
+                          {
+                            "number": 13
+                          },
+                          " if disappointed when hunting."
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-10",
+                          "",
+                          "cam16-t1-p1-g2-cell-1-0-12"
+                        ],
+                        "offsets": [
+                          51,
+                          0,
+                          0
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      },
+                      {
+                        "content": [
+                          "They may form relationships with other species."
+                        ],
+                        "anchors": [
+                          "cam16-t1-p1-g2-cell-1-0-12"
+                        ],
+                        "offsets": [
+                          34
+                        ],
+                        "tag": "li",
+                        "role": "body",
+                        "marker": "bullet",
+                        "depth": 0
+                      }
                     ]
                   }
                 ]
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "columnWidths": [
+              100
+            ],
+            "variant": "boxed-notes",
+            "minWidthCh": 36
           }
         }
       ],
@@ -405,9 +582,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The Step Pyramid of Djoser\nThe complex that includes the Step Pyramid and its surroundings is considered to be as big as an Egyptian ",
+                  "The Step Pyramid of Djoser"
+                ],
+                "anchors": [
+                  "cam16-t1-p2-g2-body-0"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "The complex that includes the Step Pyramid and its surroundings is considered to be as big as an Egyptian ",
                   {
                     "number": 21
                   },
@@ -437,7 +626,7 @@
                   "cam16-t1-p2-g2-body-end"
                 ],
                 "offsets": [
-                  0,
+                  27,
                   0,
                   0,
                   0,
@@ -446,9 +635,15 @@
                   0,
                   0,
                   0
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "notes",
+            "frame": "box",
+            "optionsPosition": "before"
           }
         },
         {
@@ -757,9 +952,21 @@
             "kind": "flow",
             "blocks": [
               {
-                "tag": "p",
                 "content": [
-                  "The ‘algorithmication’ of jobs\nStella Pachidi of Cambridge Judge Business School has been focusing on the ‘algorithmication’ of jobs which rely not on production but on ",
+                  "The ‘algorithmication’ of jobs"
+                ],
+                "anchors": [
+                  "cam16-t1-p3-g2-body"
+                ],
+                "offsets": [
+                  0
+                ],
+                "tag": "h3",
+                "role": "title"
+              },
+              {
+                "content": [
+                  "Stella Pachidi of Cambridge Judge Business School has been focusing on the ‘algorithmication’ of jobs which rely not on production but on ",
                   {
                     "number": 31
                   },
@@ -789,7 +996,7 @@
                   "cam16-t1-p3-g2-body"
                 ],
                 "offsets": [
-                  0,
+                  31,
                   0,
                   182,
                   0,
@@ -798,9 +1005,15 @@
                   448,
                   0,
                   680
-                ]
+                ],
+                "tag": "p",
+                "role": "body"
               }
-            ]
+            ],
+            "presentationVersion": 3,
+            "variant": "summary",
+            "frame": "none",
+            "optionsPosition": "after"
           }
         },
         {
