@@ -13,11 +13,6 @@ tmp/
 
 # Local study material and generated Cambridge content
 /Tài liệu Cambridge/
-/docs/screenshots/
-*.pdf
-*.sqlite3*
-*.db
-*.zip
 
 # Local preparation scripts containing transcribed questions or answer keys
 /scripts/extract_keys.py
