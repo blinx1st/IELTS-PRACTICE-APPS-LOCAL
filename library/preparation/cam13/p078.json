@@ -1,0 +1,156 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 78,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Listening\nSECTION 3\nQuestions 21-30\nQuestions 21-26\nChoose the correct letter, A, B or C.\nFB.com/LouisQuangVo\nLabels giving nutritional information on food packaging\n21.\nWhat was Jack’s attitude to nutritional food labels before this project?\nA\nHe didn’t read everything on them.\nB_\nHe didn’t think they were important.\nC\nHe thought they were too complicated.\n22\nAlice says that before doing this project,\nA __ she was unaware of what certain foods contained.\nB__\nshe was too lazy to read food labels.\nC\nshe was only interested in the number of calories.\n23\nWhen discussing supermarket brands of pizza, Jack agrees with Alice that\nA_\nthe list of ingredients is shocking.\nB_hewill hesitate before buying pizza again.\nC\nthe nutritional label is misleading.\n24\nJack prefers the daily value system to other labelling systems because it is\nA\nmore accessible.\nBmore logical.\nC\nmore comprehensive.\n25\nWhat surprised both students about one flavour of crisps?\nA_\nThe percentage of artificial additives given was incorrect.\nB_\nThe products did not contain any meat.\nC_\nThe labels did not list all the ingredients.\n26\nWhatdo the students think about research into the impact of nutritional\nfood labelling?\nA__\nIt did not produce clear results.\nB\nIt focused on the wrong people.\nC\nIt made unrealistic recommendations.\n79\n",
+  "blocks": [
+    {
+      "box": [
+        477.7200012207031,
+        51.1199951171875,
+        524.89453125,
+        62.65153503417969
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        56.519989013671875,
+        90.3599853515625,
+        271.47607421875,
+        103.33296966552734
+      ],
+      "text": "SECTION 3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        57.24000549316406,
+        120.5999755859375,
+        155.151123046875,
+        131.7711639404297
+      ],
+      "text": "Questions 21-26\n"
+    },
+    {
+      "box": [
+        57.599998474121094,
+        147.96002197265625,
+        379.4775390625,
+        159.1311492919922
+      ],
+      "text": "Choose the correct letter, A, B or C.\nFB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        75.60000610351562,
+        176.03997802734375,
+        507.13189697265625,
+        195.49942016601562
+      ],
+      "text": "Labels giving nutritional information on food packaging\n"
+    },
+    {
+      "box": [
+        57.600006103515625,
+        208.08001708984375,
+        449.2078857421875,
+        220.69259643554688
+      ],
+      "text": "21.\nWhat was Jack’s attitude to nutritional food labels before this project?\n"
+    },
+    {
+      "box": [
+        83.16000366210938,
+        231.47998046875,
+        312.4945373535156,
+        272.893310546875
+      ],
+      "text": "A\nHe didn’t read everything on them.\nB_\nHe didn’t think they were important.\nC\nHe thought they were too complicated.\n"
+    },
+    {
+      "box": [
+        57.96000671386719,
+        281.8800048828125,
+        374.61590576171875,
+        317.17584228515625
+      ],
+      "text": "22\nAlice says that before doing this project,\nA __ she was unaware of what certain foods contained.\n"
+    },
+    {
+      "box": [
+        84.239990234375,
+        317.8800048828125,
+        372.19677734375,
+        344.1729736328125
+      ],
+      "text": "B__\nshe was too lazy to read food labels.\nC\nshe was only interested in the number of calories.\n"
+    },
+    {
+      "box": [
+        58.32000732421875,
+        352.0799865722656,
+        477.21600341796875,
+        415.4515075683594
+      ],
+      "text": "23\nWhen discussing supermarket brands of pizza, Jack agrees with Alice that\nA_\nthe list of ingredients is shocking.\nB_hewill hesitate before buying pizza again.\nC\nthe nutritional label is misleading.\n"
+    },
+    {
+      "box": [
+        59.04002380371094,
+        424.0799865722656,
+        479.44805908203125,
+        438.4944152832031
+      ],
+      "text": "24\nJack prefers the daily value system to other labelling systems because it is\n"
+    },
+    {
+      "box": [
+        84.60003662109375,
+        448.20001220703125,
+        225.0000762939453,
+        488.171875
+      ],
+      "text": "A\nmore accessible.\nBmore logical.\nC\nmore comprehensive.\n"
+    },
+    {
+      "box": [
+        59.760040283203125,
+        496.44000244140625,
+        391.2264709472656,
+        510.1336669921875
+      ],
+      "text": "25\nWhat surprised both students about one flavour of crisps?\n"
+    },
+    {
+      "box": [
+        84.96002197265625,
+        518.3999633789062,
+        411.24609375,
+        558.7315063476562
+      ],
+      "text": "A_\nThe percentage of artificial additives given was incorrect.\nB_\nThe products did not contain any meat.\nC_\nThe labels did not list all the ingredients.\n"
+    },
+    {
+      "box": [
+        60.120025634765625,
+        567.7200317382812,
+        460.16998291015625,
+        643.6907958984375
+      ],
+      "text": "26\nWhatdo the students think about research into the impact of nutritional\nfood labelling?\nA__\nIt did not produce clear results.\nB\nIt focused on the wrong people.\nC\nIt made unrealistic recommendations.\n"
+    },
+    {
+      "box": [
+        517.6800537109375,
+        742.6799926757812,
+        530.222412109375,
+        752.04931640625
+      ],
+      "text": "79\n"
+    }
+  ]
+}

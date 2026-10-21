@@ -1,0 +1,192 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 67,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nLISTENING\nSECTION\n1\nQuestions 1-10\nQuestions 1-7\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nEnquiry about booking hotel room for event\nExample\nAndrew is the............. EVENbS............Manager\nRooms\nAdelphi Room\nnumber of people who can Sit GOWN to Cat: 1 ccs\nhas a gallery suitable for musicians\nCaN gO Out aNd SEE the 2... eeeeeeesemeneee IN pots on the terrace\nterrace has a VieW Of A QrOUP OF 3 on.esssusssesssesssnseene\nCarlton Room\nnumber of people who can sit down to eat: 110\nTAS FA on ccsscsscessneerseesnteneteeee\nview of the lake\nOptions\nMaster of Ceremonies:\nCAN GIVE\n5 wenn While people are eating\nWill PFOVIdE 6 uceecseseeseeenenene if there are any problems\nAccommodation:\nIN NOt|] FOOMS OF 7 one eeessssesssssseesesseeeenneeeee\n75\n",
+  "blocks": [
+    {
+      "box": [
+        107.25839233398438,
+        131.0136260986328,
+        169.10475158691406,
+        148.667724609375
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        283.262939453125,
+        177.08428955078125,
+        361.979248046875,
+        186.8120880126953
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        221.35545349121094,
+        312.7769775390625,
+        232.1640625
+      ],
+      "text": "SECTION\n1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        247.9900665283203,
+        184.218017578125,
+        258.07806396484375
+      ],
+      "text": "Questions 1-7\n"
+    },
+    {
+      "box": [
+        107.61831665039062,
+        274.6247253417969,
+        235.26641845703125,
+        285.072998046875
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        299.8196105957031,
+        388.5866394042969,
+        308.8268127441406
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        167.36627197265625,
+        339.0517272949219,
+        480.197265625,
+        354.18377685546875
+      ],
+      "text": "Enquiry about booking hotel room for event\n"
+    },
+    {
+      "box": [
+        122.73528289794922,
+        376.1242370605469,
+        164.3825225830078,
+        386.57257080078125
+      ],
+      "text": "Example\n"
+    },
+    {
+      "box": [
+        122.01542663574219,
+        398.4397277832031,
+        323.5369873046875,
+        413.9320983886719
+      ],
+      "text": "Andrew is the............. EVENbS............Manager\n"
+    },
+    {
+      "box": [
+        123.09519958496094,
+        432.63287353515625,
+        158.69204711914062,
+        440.9194641113281
+      ],
+      "text": "Rooms\n"
+    },
+    {
+      "box": [
+        122.01541137695312,
+        458.5476379394531,
+        190.30093383789062,
+        468.63568115234375
+      ],
+      "text": "Adelphi Room\n"
+    },
+    {
+      "box": [
+        146.49050903320312,
+        471.14508056640625,
+        462.64910888671875,
+        520.8255004882812
+      ],
+      "text": "number of people who can Sit GOWN to Cat: 1 ccs\nhas a gallery suitable for musicians\nCaN gO Out aNd SEE the 2... eeeeeeesemeneee IN pots on the terrace\nterrace has a VieW Of A QrOUP OF 3 on.esssusssesssesssnseene\n"
+    },
+    {
+      "box": [
+        122.73528289794922,
+        536.2919921875,
+        189.16355895996094,
+        544.2183227539062
+      ],
+      "text": "Carlton Room\n"
+    },
+    {
+      "box": [
+        146.8504180908203,
+        548.8894653320312,
+        373.9646301269531,
+        583.4508056640625
+      ],
+      "text": "number of people who can sit down to eat: 110\nTAS FA on ccsscsscessneerseesnteneteeee\nview of the lake\n"
+    },
+    {
+      "box": [
+        123.09520721435547,
+        601.0789794921875,
+        163.6590576171875,
+        611.1669921875
+      ],
+      "text": "Options\n"
+    },
+    {
+      "box": [
+        123.45513153076172,
+        626.6337890625,
+        232.60130310058594,
+        634.92041015625
+      ],
+      "text": "Master of Ceremonies:\n"
+    },
+    {
+      "box": [
+        146.8504180908203,
+        639.2312622070312,
+        422.6988220214844,
+        662.9972534179688
+      ],
+      "text": "CAN GIVE\n5 wenn While people are eating\nWill PFOVIdE 6 uceecseseeseeenenene if there are any problems\n"
+    },
+    {
+      "box": [
+        122.73528289794922,
+        678.46337890625,
+        203.28335571289062,
+        686.75
+      ],
+      "text": "Accommodation:\n"
+    },
+    {
+      "box": [
+        147.57028198242188,
+        691.4207763671875,
+        325.6520080566406,
+        699.7073974609375
+      ],
+      "text": "IN NOt|] FOOMS OF 7 one eeessssesssssseesesseeeenneeeee\n"
+    },
+    {
+      "box": [
+        528.0136108398438,
+        732.092529296875,
+        539.1066284179688,
+        740.379150390625
+      ],
+      "text": "75\n"
+    }
+  ]
+}

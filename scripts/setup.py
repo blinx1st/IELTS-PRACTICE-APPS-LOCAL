@@ -15,6 +15,8 @@ def run(command):
 
 
 def main():
+    from check_library import ensure_library
+    ensure_library()
     if sys.version_info < (3, 11):
         raise SystemExit("Cần Python 3.11 trở lên. Hãy cài từ python.org rồi chạy lại.")
     if not shutil.which('node'):

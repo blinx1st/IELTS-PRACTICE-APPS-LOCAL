@@ -1,0 +1,93 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 62,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\nQuestions 9-13 — FB.com/LouisQuangVo\nDe the following statements agree with the information given in Reading Passage 1?\nboxes 9-13 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n=\nCoconut seeds need shade in order to germinate.\n%0\nCoconuts were probably transported to Asia from America in the 16th century.\n7\nCoconuts found on the west coast ofAmerica werea different type from those\nfound on the east coast.\n72 ~~ All the coconuts found in Asia are cultivated varieties.\n73\nCoconuts are cultivated in different ways in America and the Pacific.\n",
+  "blocks": [
+    {
+      "box": [
+        492.4800109863281,
+        66.5999755859375,
+        538.7473754882812,
+        78.85226440429688
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        47.8800048828125,
+        101.52001953125,
+        262.6846618652344,
+        119.1776123046875
+      ],
+      "text": "Questions 9-13 — FB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        47.160003662109375,
+        133.91998291015625,
+        515.09521484375,
+        147.61366271972656
+      ],
+      "text": "De the following statements agree with the information given in Reading Passage 1?\n"
+    },
+    {
+      "box": [
+        47.1600341796875,
+        163.44000244140625,
+        282.3840637207031,
+        175.69223022460938
+      ],
+      "text": "boxes 9-13 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        88.91999816894531,
+        192.5999755859375,
+        409.0610046386719,
+        232.930419921875
+      ],
+      "text": "TRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n"
+    },
+    {
+      "box": [
+        46.44000244140625,
+        256.32000732421875,
+        347.8321228027344,
+        269.2929992675781
+      ],
+      "text": "=\nCoconut seeds need shade in order to germinate.\n"
+    },
+    {
+      "box": [
+        46.79998779296875,
+        279.3599853515625,
+        504.512939453125,
+        327.25006103515625
+      ],
+      "text": "%0\nCoconuts were probably transported to Asia from America in the 16th century.\n7\nCoconuts found on the west coast ofAmerica werea different type from those\nfound on the east coast.\n"
+    },
+    {
+      "box": [
+        46.43998718261719,
+        338.3999938964844,
+        368.0639953613281,
+        354.2558288574219
+      ],
+      "text": "72 ~~ All the coconuts found in Asia are cultivated varieties.\n"
+    },
+    {
+      "box": [
+        46.44000244140625,
+        362.8800048828125,
+        448.4015808105469,
+        375.85296630859375
+      ],
+      "text": "73\nCoconuts are cultivated in different ways in America and the Pacific.\n"
+    }
+  ]
+}

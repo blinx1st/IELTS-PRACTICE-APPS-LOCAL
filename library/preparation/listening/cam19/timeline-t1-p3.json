@@ -1,0 +1,1230 @@
+{
+  "audioSha256": "b43379f7c9d26e6e06dc8e52a9ffa66bb4bfae25823ad83cfe0d845efffac47b",
+  "duration": 420.231875,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 300.231875,
+      "end": 304.191875,
+      "text": " Yes, even if they haven't been diagnosed with an allergy.",
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 300.231875,
+          "end": 301.031875
+        },
+        {
+          "word": " even",
+          "start": 301.391875,
+          "end": 301.631875
+        },
+        {
+          "word": " if",
+          "start": 301.631875,
+          "end": 301.831875
+        },
+        {
+          "word": " they",
+          "start": 301.831875,
+          "end": 302.051875
+        },
+        {
+          "word": " haven't",
+          "start": 302.051875,
+          "end": 302.331875
+        },
+        {
+          "word": " been",
+          "start": 302.331875,
+          "end": 302.751875
+        },
+        {
+          "word": " diagnosed",
+          "start": 302.751875,
+          "end": 303.251875
+        },
+        {
+          "word": " with",
+          "start": 303.251875,
+          "end": 303.571875
+        },
+        {
+          "word": " an",
+          "start": 303.571875,
+          "end": 303.711875
+        },
+        {
+          "word": " allergy.",
+          "start": 303.711875,
+          "end": 304.191875
+        }
+      ]
+    },
+    {
+      "start": 304.471875,
+      "end": 305.591875,
+      "text": " That's right.",
+      "words": [
+        {
+          "word": " That's",
+          "start": 304.471875,
+          "end": 304.711875
+        },
+        {
+          "word": " right.",
+          "start": 304.711875,
+          "end": 305.591875
+        }
+      ]
+    },
+    {
+      "start": 306.151875,
+      "end": 312.351875,
+      "text": " One thing I've noticed is the number of branded products related to celebrity chefs.",
+      "words": [
+        {
+          "word": " One",
+          "start": 306.151875,
+          "end": 306.191875
+        },
+        {
+          "word": " thing",
+          "start": 306.191875,
+          "end": 306.391875
+        },
+        {
+          "word": " I've",
+          "start": 306.391875,
+          "end": 306.691875
+        },
+        {
+          "word": " noticed",
+          "start": 306.691875,
+          "end": 307.051875
+        },
+        {
+          "word": " is",
+          "start": 307.051875,
+          "end": 307.651875
+        },
+        {
+          "word": " the",
+          "start": 307.651875,
+          "end": 307.831875
+        },
+        {
+          "word": " number",
+          "start": 307.831875,
+          "end": 308.131875
+        },
+        {
+          "word": " of",
+          "start": 308.131875,
+          "end": 308.431875
+        },
+        {
+          "word": " branded",
+          "start": 308.431875,
+          "end": 308.931875
+        },
+        {
+          "word": " products",
+          "start": 308.931875,
+          "end": 309.591875
+        },
+        {
+          "word": " related",
+          "start": 309.591875,
+          "end": 310.231875
+        },
+        {
+          "word": " to",
+          "start": 310.231875,
+          "end": 310.871875
+        },
+        {
+          "word": " celebrity",
+          "start": 310.871875,
+          "end": 311.431875
+        },
+        {
+          "word": " chefs.",
+          "start": 311.431875,
+          "end": 312.351875
+        }
+      ]
+    },
+    {
+      "start": 313.131875,
+      "end": 319.591875,
+      "text": " People watch them cooking on TV and then buy things like spice mixes or frozen foods",
+      "words": [
+        {
+          "word": " People",
+          "start": 313.131875,
+          "end": 313.271875
+        },
+        {
+          "word": " watch",
+          "start": 313.271875,
+          "end": 313.651875
+        },
+        {
+          "word": " them",
+          "start": 313.651875,
+          "end": 313.931875
+        },
+        {
+          "word": " cooking",
+          "start": 313.931875,
+          "end": 314.211875
+        },
+        {
+          "word": " on",
+          "start": 314.211875,
+          "end": 314.631875
+        },
+        {
+          "word": " TV",
+          "start": 314.631875,
+          "end": 315.011875
+        },
+        {
+          "word": " and",
+          "start": 315.011875,
+          "end": 315.731875
+        },
+        {
+          "word": " then",
+          "start": 315.731875,
+          "end": 315.931875
+        },
+        {
+          "word": " buy",
+          "start": 315.931875,
+          "end": 316.151875
+        },
+        {
+          "word": " things",
+          "start": 316.151875,
+          "end": 316.51187500000003
+        },
+        {
+          "word": " like",
+          "start": 316.51187500000003,
+          "end": 317.01187500000003
+        },
+        {
+          "word": " spice",
+          "start": 317.01187500000003,
+          "end": 317.411875
+        },
+        {
+          "word": " mixes",
+          "start": 317.411875,
+          "end": 317.851875
+        },
+        {
+          "word": " or",
+          "start": 317.851875,
+          "end": 318.491875
+        },
+        {
+          "word": " frozen",
+          "start": 318.491875,
+          "end": 318.931875
+        },
+        {
+          "word": " foods",
+          "start": 318.931875,
+          "end": 319.591875
+        }
+      ]
+    },
+    {
+      "start": 319.591875,
+      "end": 321.451875,
+      "text": " with the chef's name on.",
+      "words": [
+        {
+          "word": " with",
+          "start": 319.591875,
+          "end": 319.851875
+        },
+        {
+          "word": " the",
+          "start": 319.851875,
+          "end": 320.091875
+        },
+        {
+          "word": " chef's",
+          "start": 320.091875,
+          "end": 320.531875
+        },
+        {
+          "word": " name",
+          "start": 320.531875,
+          "end": 320.731875
+        },
+        {
+          "word": " on.",
+          "start": 320.731875,
+          "end": 321.451875
+        }
+      ]
+    },
+    {
+      "start": 321.891875,
+      "end": 324.991875,
+      "text": " I bought something like that once, but I went again.",
+      "words": [
+        {
+          "word": " I",
+          "start": 321.891875,
+          "end": 322.031875
+        },
+        {
+          "word": " bought",
+          "start": 322.031875,
+          "end": 322.271875
+        },
+        {
+          "word": " something",
+          "start": 322.271875,
+          "end": 322.631875
+        },
+        {
+          "word": " like",
+          "start": 322.631875,
+          "end": 322.971875
+        },
+        {
+          "word": " that",
+          "start": 322.971875,
+          "end": 323.191875
+        },
+        {
+          "word": " once,",
+          "start": 323.191875,
+          "end": 323.591875
+        },
+        {
+          "word": " but",
+          "start": 323.631875,
+          "end": 323.991875
+        },
+        {
+          "word": " I",
+          "start": 323.991875,
+          "end": 324.291875
+        },
+        {
+          "word": " went",
+          "start": 324.291875,
+          "end": 324.531875
+        },
+        {
+          "word": " again.",
+          "start": 324.531875,
+          "end": 324.991875
+        }
+      ]
+    },
+    {
+      "start": 324.991875,
+      "end": 331.451875,
+      "text": " Yeah, I bought a ready-made spice mix for chicken, which was supposed to be used by a",
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 324.991875,
+          "end": 325.571875
+        },
+        {
+          "word": " I",
+          "start": 326.211875,
+          "end": 326.291875
+        },
+        {
+          "word": " bought",
+          "start": 326.291875,
+          "end": 326.691875
+        },
+        {
+          "word": " a",
+          "start": 326.691875,
+          "end": 327.01187500000003
+        },
+        {
+          "word": " ready",
+          "start": 327.01187500000003,
+          "end": 327.271875
+        },
+        {
+          "word": "-made",
+          "start": 327.271875,
+          "end": 327.691875
+        },
+        {
+          "word": " spice",
+          "start": 327.691875,
+          "end": 328.131875
+        },
+        {
+          "word": " mix",
+          "start": 328.131875,
+          "end": 328.431875
+        },
+        {
+          "word": " for",
+          "start": 328.431875,
+          "end": 328.671875
+        },
+        {
+          "word": " chicken,",
+          "start": 328.671875,
+          "end": 329.111875
+        },
+        {
+          "word": " which",
+          "start": 329.351875,
+          "end": 329.571875
+        },
+        {
+          "word": " was",
+          "start": 329.571875,
+          "end": 329.891875
+        },
+        {
+          "word": " supposed",
+          "start": 329.891875,
+          "end": 330.311875
+        },
+        {
+          "word": " to",
+          "start": 330.311875,
+          "end": 330.471875
+        },
+        {
+          "word": " be",
+          "start": 330.471875,
+          "end": 330.671875
+        },
+        {
+          "word": " used",
+          "start": 330.671875,
+          "end": 330.971875
+        },
+        {
+          "word": " by",
+          "start": 330.971875,
+          "end": 331.231875
+        },
+        {
+          "word": " a",
+          "start": 331.231875,
+          "end": 331.451875
+        }
+      ]
+    },
+    {
+      "start": 331.451875,
+      "end": 336.031875,
+      "text": " chef I'd seen on television. And it didn't actually taste of anything.",
+      "words": [
+        {
+          "word": " chef",
+          "start": 331.451875,
+          "end": 331.691875
+        },
+        {
+          "word": " I'd",
+          "start": 331.691875,
+          "end": 332.051875
+        },
+        {
+          "word": " seen",
+          "start": 332.051875,
+          "end": 332.211875
+        },
+        {
+          "word": " on",
+          "start": 332.211875,
+          "end": 332.531875
+        },
+        {
+          "word": " television.",
+          "start": 332.531875,
+          "end": 332.951875
+        },
+        {
+          "word": " And",
+          "start": 333.571875,
+          "end": 333.911875
+        },
+        {
+          "word": " it",
+          "start": 333.911875,
+          "end": 334.111875
+        },
+        {
+          "word": " didn't",
+          "start": 334.111875,
+          "end": 334.451875
+        },
+        {
+          "word": " actually",
+          "start": 334.451875,
+          "end": 334.991875
+        },
+        {
+          "word": " taste",
+          "start": 334.991875,
+          "end": 335.371875
+        },
+        {
+          "word": " of",
+          "start": 335.371875,
+          "end": 335.591875
+        },
+        {
+          "word": " anything.",
+          "start": 335.591875,
+          "end": 336.031875
+        }
+      ]
+    },
+    {
+      "start": 337.191875,
+      "end": 342.911875,
+      "text": " Hmm. Did the article mention ghost kitchens used to produce takeaway food?",
+      "words": [
+        {
+          "word": " Hmm.",
+          "start": 337.191875,
+          "end": 337.191875
+        },
+        {
+          "word": " Did",
+          "start": 337.851875,
+          "end": 338.091875
+        },
+        {
+          "word": " the",
+          "start": 338.091875,
+          "end": 338.291875
+        },
+        {
+          "word": " article",
+          "start": 338.291875,
+          "end": 338.551875
+        },
+        {
+          "word": " mention",
+          "start": 338.551875,
+          "end": 339.251875
+        },
+        {
+          "word": " ghost",
+          "start": 339.251875,
+          "end": 339.951875
+        },
+        {
+          "word": " kitchens",
+          "start": 339.951875,
+          "end": 340.571875
+        },
+        {
+          "word": " used",
+          "start": 340.571875,
+          "end": 341.191875
+        },
+        {
+          "word": " to",
+          "start": 341.191875,
+          "end": 341.451875
+        },
+        {
+          "word": " produce",
+          "start": 341.451875,
+          "end": 341.851875
+        },
+        {
+          "word": " takeaway",
+          "start": 341.851875,
+          "end": 342.211875
+        },
+        {
+          "word": " food?",
+          "start": 342.211875,
+          "end": 342.911875
+        }
+      ]
+    },
+    {
+      "start": 343.111875,
+      "end": 344.691875,
+      "text": " No. What are they?",
+      "words": [
+        {
+          "word": " No.",
+          "start": 343.111875,
+          "end": 343.751875
+        },
+        {
+          "word": " What",
+          "start": 343.891875,
+          "end": 344.051875
+        },
+        {
+          "word": " are",
+          "start": 344.051875,
+          "end": 344.231875
+        },
+        {
+          "word": " they?",
+          "start": 344.231875,
+          "end": 344.691875
+        }
+      ]
+    },
+    {
+      "start": 344.891875,
+      "end": 350.291875,
+      "text": " Well, they might have the name of a restaurant, but actually, they're a cooking facility",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 344.891875,
+          "end": 345.331875
+        },
+        {
+          "word": " they",
+          "start": 345.331875,
+          "end": 345.51187500000003
+        },
+        {
+          "word": " might",
+          "start": 345.51187500000003,
+          "end": 345.771875
+        },
+        {
+          "word": " have",
+          "start": 345.771875,
+          "end": 346.031875
+        },
+        {
+          "word": " the",
+          "start": 346.031875,
+          "end": 346.191875
+        },
+        {
+          "word": " name",
+          "start": 346.191875,
+          "end": 346.391875
+        },
+        {
+          "word": " of",
+          "start": 346.391875,
+          "end": 346.631875
+        },
+        {
+          "word": " a",
+          "start": 346.631875,
+          "end": 346.731875
+        },
+        {
+          "word": " restaurant,",
+          "start": 346.731875,
+          "end": 347.191875
+        },
+        {
+          "word": " but",
+          "start": 347.771875,
+          "end": 348.131875
+        },
+        {
+          "word": " actually,",
+          "start": 348.131875,
+          "end": 348.831875
+        },
+        {
+          "word": " they're",
+          "start": 348.931875,
+          "end": 349.151875
+        },
+        {
+          "word": " a",
+          "start": 349.151875,
+          "end": 349.291875
+        },
+        {
+          "word": " cooking",
+          "start": 349.291875,
+          "end": 349.631875
+        },
+        {
+          "word": " facility",
+          "start": 349.631875,
+          "end": 350.291875
+        }
+      ]
+    },
+    {
+      "start": 350.291875,
+      "end": 357.271875,
+      "text": " just for delivery meals. The public don't have a go there, but people aren't aware of that.",
+      "words": [
+        {
+          "word": " just",
+          "start": 350.291875,
+          "end": 350.811875
+        },
+        {
+          "word": " for",
+          "start": 350.811875,
+          "end": 351.151875
+        },
+        {
+          "word": " delivery",
+          "start": 351.151875,
+          "end": 351.551875
+        },
+        {
+          "word": " meals.",
+          "start": 351.551875,
+          "end": 352.091875
+        },
+        {
+          "word": " The",
+          "start": 352.771875,
+          "end": 352.811875
+        },
+        {
+          "word": " public",
+          "start": 352.811875,
+          "end": 353.171875
+        },
+        {
+          "word": " don't",
+          "start": 353.171875,
+          "end": 353.551875
+        },
+        {
+          "word": " have",
+          "start": 353.551875,
+          "end": 353.751875
+        },
+        {
+          "word": " a",
+          "start": 353.751875,
+          "end": 353.871875
+        },
+        {
+          "word": " go",
+          "start": 353.871875,
+          "end": 354.071875
+        },
+        {
+          "word": " there,",
+          "start": 354.071875,
+          "end": 354.671875
+        },
+        {
+          "word": " but",
+          "start": 354.931875,
+          "end": 355.411875
+        },
+        {
+          "word": " people",
+          "start": 355.411875,
+          "end": 355.851875
+        },
+        {
+          "word": " aren't",
+          "start": 355.851875,
+          "end": 356.191875
+        },
+        {
+          "word": " aware",
+          "start": 356.191875,
+          "end": 356.631875
+        },
+        {
+          "word": " of",
+          "start": 356.631875,
+          "end": 356.731875
+        },
+        {
+          "word": " that.",
+          "start": 356.731875,
+          "end": 357.271875
+        }
+      ]
+    },
+    {
+      "start": 357.391875,
+      "end": 363.311875,
+      "text": " It's all kept very quiet. So people don't realise the foods not actually from the restaurant.",
+      "words": [
+        {
+          "word": " It's",
+          "start": 357.391875,
+          "end": 357.651875
+        },
+        {
+          "word": " all",
+          "start": 357.651875,
+          "end": 357.811875
+        },
+        {
+          "word": " kept",
+          "start": 357.811875,
+          "end": 358.031875
+        },
+        {
+          "word": " very",
+          "start": 358.031875,
+          "end": 358.371875
+        },
+        {
+          "word": " quiet.",
+          "start": 358.371875,
+          "end": 358.851875
+        },
+        {
+          "word": " So",
+          "start": 359.291875,
+          "end": 359.671875
+        },
+        {
+          "word": " people",
+          "start": 359.671875,
+          "end": 360.051875
+        },
+        {
+          "word": " don't",
+          "start": 360.051875,
+          "end": 360.531875
+        },
+        {
+          "word": " realise",
+          "start": 360.531875,
+          "end": 361.051875
+        },
+        {
+          "word": " the",
+          "start": 361.051875,
+          "end": 361.331875
+        },
+        {
+          "word": " foods",
+          "start": 361.331875,
+          "end": 361.691875
+        },
+        {
+          "word": " not",
+          "start": 361.691875,
+          "end": 362.111875
+        },
+        {
+          "word": " actually",
+          "start": 362.111875,
+          "end": 362.391875
+        },
+        {
+          "word": " from",
+          "start": 362.391875,
+          "end": 362.731875
+        },
+        {
+          "word": " the",
+          "start": 362.731875,
+          "end": 363.071875
+        },
+        {
+          "word": " restaurant.",
+          "start": 363.071875,
+          "end": 363.311875
+        }
+      ]
+    },
+    {
+      "start": 363.971875,
+      "end": 371.531875,
+      "text": " Right. Did you know more and more people are using all sorts of different mushrooms now to",
+      "words": [
+        {
+          "word": " Right.",
+          "start": 363.971875,
+          "end": 364.371875
+        },
+        {
+          "word": " Did",
+          "start": 366.01187500000003,
+          "end": 366.231875
+        },
+        {
+          "word": " you",
+          "start": 366.231875,
+          "end": 366.411875
+        },
+        {
+          "word": " know",
+          "start": 366.411875,
+          "end": 367.01187500000003
+        },
+        {
+          "word": " more",
+          "start": 367.01187500000003,
+          "end": 367.351875
+        },
+        {
+          "word": " and",
+          "start": 367.351875,
+          "end": 367.431875
+        },
+        {
+          "word": " more",
+          "start": 367.431875,
+          "end": 367.671875
+        },
+        {
+          "word": " people",
+          "start": 367.671875,
+          "end": 368.191875
+        },
+        {
+          "word": " are",
+          "start": 368.191875,
+          "end": 368.51187500000003
+        },
+        {
+          "word": " using",
+          "start": 368.51187500000003,
+          "end": 368.691875
+        },
+        {
+          "word": " all",
+          "start": 368.691875,
+          "end": 369.051875
+        },
+        {
+          "word": " sorts",
+          "start": 369.051875,
+          "end": 369.471875
+        },
+        {
+          "word": " of",
+          "start": 369.471875,
+          "end": 369.771875
+        },
+        {
+          "word": " different",
+          "start": 369.771875,
+          "end": 370.071875
+        },
+        {
+          "word": " mushrooms",
+          "start": 370.071875,
+          "end": 370.671875
+        },
+        {
+          "word": " now",
+          "start": 370.671875,
+          "end": 371.271875
+        },
+        {
+          "word": " to",
+          "start": 371.271875,
+          "end": 371.531875
+        }
+      ]
+    },
+    {
+      "start": 371.531875,
+      "end": 379.791875,
+      "text": " treat different health concerns? Things like heart problems. They might be taking a big risk there.",
+      "words": [
+        {
+          "word": " treat",
+          "start": 371.531875,
+          "end": 371.911875
+        },
+        {
+          "word": " different",
+          "start": 371.911875,
+          "end": 372.351875
+        },
+        {
+          "word": " health",
+          "start": 372.351875,
+          "end": 372.691875
+        },
+        {
+          "word": " concerns?",
+          "start": 372.691875,
+          "end": 373.291875
+        },
+        {
+          "word": " Things",
+          "start": 374.111875,
+          "end": 374.111875
+        },
+        {
+          "word": " like",
+          "start": 374.111875,
+          "end": 374.731875
+        },
+        {
+          "word": " heart",
+          "start": 374.731875,
+          "end": 375.13187500000004
+        },
+        {
+          "word": " problems.",
+          "start": 375.13187500000004,
+          "end": 375.691875
+        },
+        {
+          "word": " They",
+          "start": 376.591875,
+          "end": 377.351875
+        },
+        {
+          "word": " might",
+          "start": 377.351875,
+          "end": 377.691875
+        },
+        {
+          "word": " be",
+          "start": 377.691875,
+          "end": 377.871875
+        },
+        {
+          "word": " taking",
+          "start": 377.871875,
+          "end": 378.171875
+        },
+        {
+          "word": " a",
+          "start": 378.171875,
+          "end": 378.571875
+        },
+        {
+          "word": " big",
+          "start": 378.571875,
+          "end": 378.991875
+        },
+        {
+          "word": " risk",
+          "start": 378.991875,
+          "end": 379.371875
+        },
+        {
+          "word": " there.",
+          "start": 379.371875,
+          "end": 379.791875
+        }
+      ]
+    },
+    {
+      "start": 379.791875,
+      "end": 384.291875,
+      "text": " Yes, it's hard to know which variety is a safe to eat.",
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 379.791875,
+          "end": 380.551875
+        },
+        {
+          "word": " it's",
+          "start": 380.571875,
+          "end": 380.911875
+        },
+        {
+          "word": " hard",
+          "start": 380.911875,
+          "end": 381.191875
+        },
+        {
+          "word": " to",
+          "start": 381.191875,
+          "end": 381.351875
+        },
+        {
+          "word": " know",
+          "start": 381.351875,
+          "end": 381.591875
+        },
+        {
+          "word": " which",
+          "start": 381.591875,
+          "end": 381.931875
+        },
+        {
+          "word": " variety",
+          "start": 381.931875,
+          "end": 382.33187499999997
+        },
+        {
+          "word": " is",
+          "start": 382.33187499999997,
+          "end": 382.711875
+        },
+        {
+          "word": " a",
+          "start": 382.711875,
+          "end": 382.951875
+        },
+        {
+          "word": " safe",
+          "start": 382.951875,
+          "end": 383.231875
+        },
+        {
+          "word": " to",
+          "start": 383.231875,
+          "end": 383.491875
+        },
+        {
+          "word": " eat.",
+          "start": 383.491875,
+          "end": 384.291875
+        }
+      ]
+    },
+    {
+      "start": 385.031875,
+      "end": 386.411875,
+      "text": " Anyway, maybe no.",
+      "words": [
+        {
+          "word": " Anyway,",
+          "start": 385.031875,
+          "end": 385.33187499999997
+        },
+        {
+          "word": " maybe",
+          "start": 385.571875,
+          "end": 386.01187500000003
+        },
+        {
+          "word": " no.",
+          "start": 386.01187500000003,
+          "end": 386.411875
+        }
+      ]
+    },
+    {
+      "start": 389.751875,
+      "end": 392.411875,
+      "text": " That is the end of part 3.",
+      "words": [
+        {
+          "word": " That",
+          "start": 389.751875,
+          "end": 390.451875
+        },
+        {
+          "word": " is",
+          "start": 390.451875,
+          "end": 390.651875
+        },
+        {
+          "word": " the",
+          "start": 390.651875,
+          "end": 390.871875
+        },
+        {
+          "word": " end",
+          "start": 390.871875,
+          "end": 391.13187500000004
+        },
+        {
+          "word": " of",
+          "start": 391.13187500000004,
+          "end": 391.371875
+        },
+        {
+          "word": " part",
+          "start": 391.371875,
+          "end": 391.671875
+        },
+        {
+          "word": " 3.",
+          "start": 391.671875,
+          "end": 392.411875
+        }
+      ]
+    },
+    {
+      "start": 392.811875,
+      "end": 397.531875,
+      "text": " You now have 30 seconds to check your answers to part 3.",
+      "words": [
+        {
+          "word": " You",
+          "start": 392.811875,
+          "end": 393.171875
+        },
+        {
+          "word": " now",
+          "start": 393.171875,
+          "end": 393.471875
+        },
+        {
+          "word": " have",
+          "start": 393.471875,
+          "end": 393.871875
+        },
+        {
+          "word": " 30",
+          "start": 393.871875,
+          "end": 394.271875
+        },
+        {
+          "word": " seconds",
+          "start": 394.271875,
+          "end": 394.671875
+        },
+        {
+          "word": " to",
+          "start": 394.671875,
+          "end": 395.111875
+        },
+        {
+          "word": " check",
+          "start": 395.111875,
+          "end": 395.391875
+        },
+        {
+          "word": " your",
+          "start": 395.391875,
+          "end": 395.671875
+        },
+        {
+          "word": " answers",
+          "start": 395.671875,
+          "end": 396.091875
+        },
+        {
+          "word": " to",
+          "start": 396.091875,
+          "end": 396.491875
+        },
+        {
+          "word": " part",
+          "start": 396.491875,
+          "end": 396.711875
+        },
+        {
+          "word": " 3.",
+          "start": 396.711875,
+          "end": 397.531875
+        }
+      ]
+    }
+  ]
+}

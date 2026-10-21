@@ -1,0 +1,201 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 32,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Test 7\nSPEAKING\nPART 1\nThe examiner asks the candidate about him/herself, his/her home, work or studies and\nother familiar topics.\nEXAMPLE\nEmail\ne What kinds of emails do you receive about your work or studies?\ne Do you prefer to email, phone or text your friends? [Why?]\n* Do you reply to emails and messages as soon as you receive them? [Why/Why not?]\ne Are you happy to receive emails that are advertising things? [Why/Why not?]\nPART 2\nDescribe a hotel that you know.\nYou will have to talk\nabout the topic for one\nYou should say:\n:\nwhere this hotel is\nyo. bxominutes.\nvou\nwhat\nthis hotel looks like\nthink bout what you\nwhat facilities this hotel has\ny\nare going to say. You\nand explain whether you think this is a nice hotel\ncan make some notes\nto stay in.\nto help you if you wish.\nPART 3\nDiscussion topics:\nStaying in hotels\nExample questions:\nWhat things are important when people are choosing a hotel?\nWhy do some people not like staying in hotels?\nDo you think staying in a luxury hotel is\na waste of money?\nWorking in a hotel\nExample questions:\nDo you think hotel work is a good career for life?\nHow does working in a big hotel compare with working in a small hotel?\nWhat skills are needed to be a successful hotel manager?\n30\n",
+  "blocks": [
+    {
+      "box": [
+        79.89790611774487,
+        87.45581615590991,
+        110.834951793076,
+        96.82258634800779
+      ],
+      "text": "Test 7\n"
+    },
+    {
+      "box": [
+        270.2852589839027,
+        123.44586395669589,
+        351.69470024723915,
+        133.89341926752488
+      ],
+      "text": "SPEAKING\n"
+    },
+    {
+      "box": [
+        80.25780659575273,
+        172.03242848775696,
+        133.48708143536,
+        182.84023574190437
+      ],
+      "text": "PART 1\n"
+    },
+    {
+      "box": [
+        79.17810516172915,
+        193.26655669022068,
+        532.9405575409766,
+        204.79488247539285
+      ],
+      "text": "The examiner asks the candidate about him/herself, his/her home, work or studies and\n"
+    },
+    {
+      "box": [
+        79.53800563973701,
+        209.46207820057438,
+        183.95957953408092,
+        220.63015204242814
+      ],
+      "text": "other familiar topics.\n"
+    },
+    {
+      "box": [
+        80.25780659575273,
+        231.05610688104596,
+        135.99739312722,
+        240.06261048543746
+      ],
+      "text": "EXAMPLE\n"
+    },
+    {
+      "box": [
+        79.89790611774487,
+        253.0100360395254,
+        110.03957115090311,
+        262.01653964391693
+      ],
+      "text": "Email\n"
+    },
+    {
+      "box": [
+        79.89790611774487,
+        273.16446280796555,
+        540.6785935508009,
+        328.24256233619326
+      ],
+      "text": "e What kinds of emails do you receive about your work or studies?\ne Do you prefer to email, phone or text your friends? [Why?]\n* Do you reply to emails and messages as soon as you receive them? [Why/Why not?]\ne Are you happy to receive emails that are advertising things? [Why/Why not?]\n"
+    },
+    {
+      "box": [
+        80.61770707376058,
+        343.3450560194982,
+        135.99379060778682,
+        353.79259668593926
+      ],
+      "text": "PART 2\n"
+    },
+    {
+      "box": [
+        92.49442284801995,
+        376.09599951821343,
+        507.9634409362104,
+        388.7051104221167
+      ],
+      "text": "Describe a hotel that you know.\nYou will have to talk\n"
+    },
+    {
+      "box": [
+        92.13452237001209,
+        390.13211816051995,
+        522.0572584669997,
+        435.51232324094366
+      ],
+      "text": "about the topic for one\nYou should say:\n:\nwhere this hotel is\nyo. bxominutes.\nvou\nwhat\n"
+    },
+    {
+      "box": [
+        92.49442284801995,
+        421.0835592691959,
+        523.8711709347717,
+        486.23743703162563
+      ],
+      "text": "this hotel looks like\nthink bout what you\nwhat facilities this hotel has\ny\nare going to say. You\nand explain whether you think this is a nice hotel\ncan make some notes\nto stay in.\nto help you if you wish.\n"
+    },
+    {
+      "box": [
+        81.3375080297763,
+        518.2566883313181,
+        136.40047990526224,
+        528.7042289977591
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        540.5705179678054,
+        195.03902554012316,
+        553.1796288717086
+      ],
+      "text": "Discussion topics:\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        563.2442480823005,
+        174.94045246728533,
+        574.7726031562486
+      ],
+      "text": "Staying in hotels\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        584.8382767627721,
+        403.20364025800956,
+        624.4395720519543
+      ],
+      "text": "Example questions:\nWhat things are important when people are choosing a hotel?\nWhy do some people not like staying in hotels?\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        625.8669312556681,
+        388.1166403371449,
+        638.4760421595714
+      ],
+      "text": "Do you think staying in a luxury hotel is\na waste of money?\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        655.0188699743047,
+        182.6135113278208,
+        666.5472250482528
+      ],
+      "text": "Working in a hotel\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        676.9727991327842,
+        184.19708221768815,
+        688.140843685862
+      ],
+      "text": "Example questions:\n"
+    },
+    {
+      "box": [
+        81.3375080297763,
+        689.9292163410671,
+        455.41802972461466,
+        729.1699082216204
+      ],
+      "text": "Do you think hotel work is a good career for life?\nHow does working in a big hotel compare with working in a small hotel?\nWhat skills are needed to be a successful hotel manager?\n"
+    },
+    {
+      "box": [
+        82.05730898579202,
+        775.9454305849456,
+        93.9340247600514,
+        784.951963478113
+      ],
+      "text": "30\n"
+    }
+  ]
+}

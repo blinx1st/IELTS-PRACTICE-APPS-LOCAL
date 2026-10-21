@@ -1,0 +1,201 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 61,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Listening\nQuestions 25-30\nWhat comment do the students make about each of the following jobs?\nChoose SIX answers from the box and write the correct letter, A-G, next to\nQuestions 25-30.\nComments\nA\nThese jobs are likely to be at risk.\nB_\nTheir role has become more interesting in\nrecent years.\nC\nThe number of people working in this sector has\nfallen dramatically.\nD\nThis job will require more qualifications.\nE\nHigher disposable income has led to a huge increase\nin jobs.\nF\nThere is likely to be a significant rise in demand for\nthis service.\nG___\nBoth employment and productivity have risen.\nJobs\n25\nAccountants\nseseesneeeneeeseee\n26\nHairdressers\nsesseetnneeeeneeee\n27\nAdministrative staff\nsesseetnseeenneeeee\n28\nAgricultural workers\nesseeseseetestese\n29\nCare workers\nsensed\nSRGGEES\n30\nBank clerks\nssseeteneeteneeeee\n>|\np. 123]\n| p.111)\n59\n",
+  "blocks": [
+    {
+      "box": [
+        47.761444091796875,
+        658.85009765625,
+        91.04965209960938,
+        668.5765991210938
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        388.670654296875,
+        623.2216796875,
+        478.64056396484375,
+        633.308349609375
+      ],
+      "text": "Questions 25-30\n"
+    },
+    {
+      "box": [
+        133.33546447753906,
+        595.8699951171875,
+        479.3603210449219,
+        606.67724609375
+      ],
+      "text": "What comment do the students make about each of the following jobs?\n"
+    },
+    {
+      "box": [
+        114.12522888183594,
+        557.3646850585938,
+        478.640625,
+        580.4059448242188
+      ],
+      "text": "Choose SIX answers from the box and write the correct letter, A-G, next to\nQuestions 25-30.\n"
+    },
+    {
+      "box": [
+        235.08824157714844,
+        522.8172607421875,
+        291.14306640625,
+        530.7425537109375
+      ],
+      "text": "Comments\n"
+    },
+    {
+      "box": [
+        218.7171173095703,
+        500.14190673828125,
+        405.2250671386719,
+        510.9491271972656
+      ],
+      "text": "A\nThese jobs are likely to be at risk.\n"
+    },
+    {
+      "box": [
+        178.18389892578125,
+        467.0336608886719,
+        404.50531005859375,
+        491.15570068359375
+      ],
+      "text": "B_\nTheir role has become more interesting in\nrecent years.\n"
+    },
+    {
+      "box": [
+        146.50726318359375,
+        434.2845458984375,
+        404.50531005859375,
+        458.0467224121094
+      ],
+      "text": "C\nThe number of people working in this sector has\nfallen dramatically.\n"
+    },
+    {
+      "box": [
+        189.17124938964844,
+        413.4104309082031,
+        404.1454162597656,
+        424.5778503417969
+      ],
+      "text": "D\nThis job will require more qualifications.\n"
+    },
+    {
+      "box": [
+        121.40927124023438,
+        393.2568054199219,
+        403.7855529785156,
+        404.7844543457031
+      ],
+      "text": "E\nHigher disposable income has led to a huge increase\n"
+    },
+    {
+      "box": [
+        346.2767028808594,
+        380.3021545410156,
+        379.673583984375,
+        390.7491149902344
+      ],
+      "text": "in jobs.\n"
+    },
+    {
+      "box": [
+        132.506103515625,
+        349.3546447753906,
+        403.7855529785156,
+        372.0353698730469
+      ],
+      "text": "F\nThere is likely to be a significant rise in demand for\nthis service.\n"
+    },
+    {
+      "box": [
+        157.7426300048828,
+        327.3990783691406,
+        404.1454162597656,
+        338.5665283203125
+      ],
+      "text": "G___\nBoth employment and productivity have risen.\n"
+    },
+    {
+      "box": [
+        428.67486572265625,
+        281.69720458984375,
+        454.16876220703125,
+        289.98272705078125
+      ],
+      "text": "Jobs\n"
+    },
+    {
+      "box": [
+        255.15863037109375,
+        261.5439147949219,
+        477.92083740234375,
+        269.8294372558594
+      ],
+      "text": "25\nAccountants\nseseesneeeneeeseee\n"
+    },
+    {
+      "box": [
+        255.15859985351562,
+        241.39060974121094,
+        477.92083740234375,
+        249.67611694335938
+      ],
+      "text": "26\nHairdressers\nsesseetnneeeeneeee\n"
+    },
+    {
+      "box": [
+        254.59364318847656,
+        221.59683227539062,
+        477.92083740234375,
+        230.24258422851562
+      ],
+      "text": "27\nAdministrative staff\nsesseetnseeenneeeee\n"
+    },
+    {
+      "box": [
+        254.67999267578125,
+        199.64234924316406,
+        477.92083740234375,
+        210.0893096923828
+      ],
+      "text": "28\nAgricultural workers\nesseeseseetestese\n"
+    },
+    {
+      "box": [
+        254.4496612548828,
+        178.76641845703125,
+        477.56097412109375,
+        192.09530639648438
+      ],
+      "text": "29\nCare workers\nsensed\nSRGGEES\n"
+    },
+    {
+      "box": [
+        254.43887329101562,
+        161.49722290039062,
+        477.20111083984375,
+        169.78273010253906
+      ],
+      "text": "30\nBank clerks\nssseeteneeteneeeee\n"
+    },
+    {
+      "box": [
+        45.096595764160156,
+        21.140369415283203,
+        195.41494750976562,
+        33.028289794921875
+      ],
+      "text": ">|\np. 123]\n| p.111)\n59\n"
+    }
+  ]
+}

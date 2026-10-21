@@ -1,0 +1,246 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 59,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Listening\nQuestions 15-20\nChoose the correct letter, A, B or C.\n15\nWhat advice does Dan give about picking mushrooms in parks?\nA\nChoose wooded areas.\nB_\nDon’t disturb wildlife.\nC_\nGet there early.\n16\nDan says it is\na good idea for beginners to\nA\nuse a mushroom app.\nB_\njoin a group.\nC_\ntake a reference book.\n17.\nWhat does Dan say is important for conservation?\nA _ selecting only fully grown mushrooms\nB _\npicking a limited amount of mushrooms\nC\navoiding areas where rare mushroom species grow\n18\nAccording to Dan, some varieties of wild mushrooms are in decline because there is\nA\nahuge demand for them from restaurants.\nB_\nalack of rain in this part of the country.\nC\narise in building developments locally.\n19\nDan says that when storing mushrooms, people should\nA__ keep them in the fridge for no more than two days.\nB_\nkeep them in a brown bag in a dark room.\nC\nleave them for a period after washing them.\n20\nWhat does Dan say about trying new varieties of mushrooms?\nA\nExperiment with different recipes.\nB_\nExpect some to have a strong taste.\nC\nCook them for a long time.\n>|@ p. 123]\n| p.110}\n57\n",
+  "blocks": [
+    {
+      "box": [
+        51.64263916015625,
+        658.490234375,
+        95.36822509765625,
+        668.2167358398438
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        392.8362121582031,
+        623.5819091796875,
+        482.9591064453125,
+        633.308349609375
+      ],
+      "text": "Questions 15-20\n"
+    },
+    {
+      "box": [
+        309.5256652832031,
+        597.3102416992188,
+        482.9591064453125,
+        607.39697265625
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        149.6021270751953,
+        569.5987548828125,
+        483.3189697265625,
+        580.4059448242188
+      ],
+      "text": "15\nWhat advice does Dan give about picking mushrooms in parks?\n"
+    },
+    {
+      "box": [
+        323.0213623046875,
+        551.2473754882812,
+        459.9267883300781,
+        559.5328979492188
+      ],
+      "text": "A\nChoose wooded areas.\n"
+    },
+    {
+      "box": [
+        335.6636657714844,
+        538.6515502929688,
+        459.20703125,
+        546.9371337890625
+      ],
+      "text": "B_\nDon’t disturb wildlife.\n"
+    },
+    {
+      "box": [
+        361.3627624511719,
+        522.4552001953125,
+        459.56695556640625,
+        532.5419311523438
+      ],
+      "text": "C_\nGet there early.\n"
+    },
+    {
+      "box": [
+        253.75152587890625,
+        500.5018005371094,
+        483.31903076171875,
+        511.3089904785156
+      ],
+      "text": "16\nDan says it is\na good idea for beginners to\n"
+    },
+    {
+      "box": [
+        329.7870178222656,
+        481.0693664550781,
+        459.9268493652344,
+        490.79583740234375
+      ],
+      "text": "A\nuse a mushroom app.\n"
+    },
+    {
+      "box": [
+        375.8876953125,
+        467.3931884765625,
+        459.20709228515625,
+        477.8401184082031
+      ],
+      "text": "B_\njoin a group.\n"
+    },
+    {
+      "box": [
+        326.42938232421875,
+        455.5196838378906,
+        459.20709228515625,
+        463.4449462890625
+      ],
+      "text": "C_\ntake a reference book.\n"
+    },
+    {
+      "box": [
+        216.2161102294922,
+        431.7646789550781,
+        482.95916748046875,
+        442.5718688964844
+      ],
+      "text": "17.\nWhat does Dan say is important for conservation?\n"
+    },
+    {
+      "box": [
+        244.49891662597656,
+        396.8534240722656,
+        459.20709228515625,
+        423.49822998046875
+      ],
+      "text": "A _ selecting only fully grown mushrooms\nB _\npicking a limited amount of mushrooms\n"
+    },
+    {
+      "box": [
+        185.0503692626953,
+        383.9006042480469,
+        458.8471984863281,
+        394.70782470703125
+      ],
+      "text": "C\navoiding areas where rare mushroom species grow\n"
+    },
+    {
+      "box": [
+        51.4952507019043,
+        362.6673278808594,
+        482.59930419921875,
+        373.83477783203125
+      ],
+      "text": "18\nAccording to Dan, some varieties of wild mushrooms are in decline because there is\n"
+    },
+    {
+      "box": [
+        229.38763427734375,
+        342.5147705078125,
+        459.20709228515625,
+        352.96173095703125
+      ],
+      "text": "A\nahuge demand for them from restaurants.\n"
+    },
+    {
+      "box": [
+        247.2232208251953,
+        329.9193115234375,
+        458.4873352050781,
+        340.00604248046875
+      ],
+      "text": "B_\nalack of rain in this part of the country.\n"
+    },
+    {
+      "box": [
+        248.73477172851562,
+        315.1638488769531,
+        458.8471984863281,
+        325.6108093261719
+      ],
+      "text": "C\narise in building developments locally.\n"
+    },
+    {
+      "box": [
+        191.31236267089844,
+        293.5707092285156,
+        482.59930419921875,
+        304.3778991699219
+      ],
+      "text": "19\nDan says that when storing mushrooms, people should\n"
+    },
+    {
+      "box": [
+        189.88180541992188,
+        260.46173095703125,
+        459.20709228515625,
+        285.6641540527344
+      ],
+      "text": "A__ keep them in the fridge for no more than two days.\nB_\nkeep them in a brown bag in a dark room.\n"
+    },
+    {
+      "box": [
+        223.50360107421875,
+        247.8662872314453,
+        458.8471984863281,
+        258.3132629394531
+      ],
+      "text": "C\nleave them for a period after washing them.\n"
+    },
+    {
+      "box": [
+        155.97207641601562,
+        226.27276611328125,
+        482.9591979980469,
+        237.44021606445312
+      ],
+      "text": "20\nWhat does Dan say about trying new varieties of mushrooms?\n"
+    },
+    {
+      "box": [
+        273.12030029296875,
+        206.48007202148438,
+        459.2071228027344,
+        216.92703247070312
+      ],
+      "text": "A\nExperiment with different recipes.\n"
+    },
+    {
+      "box": [
+        259.6896057128906,
+        193.52474975585938,
+        458.48736572265625,
+        203.61146545410156
+      ],
+      "text": "B_\nExpect some to have a strong taste.\n"
+    },
+    {
+      "box": [
+        306.3300476074219,
+        180.56871032714844,
+        458.48736572265625,
+        191.0156707763672
+      ],
+      "text": "C\nCook them for a long time.\n"
+    },
+    {
+      "box": [
+        50.1385498046875,
+        21.140369415283203,
+        200.45330810546875,
+        33.028289794921875
+      ],
+      "text": ">|@ p. 123]\n| p.110}\n57\n"
+    }
+  ]
+}

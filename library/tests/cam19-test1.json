@@ -3,7 +3,7 @@
   "book": 19,
   "test": 1,
   "title": "Cambridge 19 · Test 1",
-  "version": "2026-10-21.5.layout1",
+  "version": "2026-10-21.5.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots in this book were compared with the supplied PDFs. Source-image task layouts and native options, numbering and word limits were checked separately.",
@@ -146,7 +146,78 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The tennis racket and how it has changed"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Mike and Bob Bryan made changes to the types of ",
+                  {
+                    "number": 8
+                  },
+                  " used on their racket frames."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Players were not allowed to use the spaghetti-strung racket because of the amount of ",
+                  {
+                    "number": 9
+                  },
+                  " it created."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Changes to rackets can be regarded as being as important as players’ diets or the ",
+                  {
+                    "number": 10
+                  },
+                  " they do."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "All rackets used to have natural strings made from the ",
+                  {
+                    "number": 11
+                  },
+                  " of animals."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Pete Sampras had metal ",
+                  {
+                    "number": 12
+                  },
+                  " put into the frames of his rackets."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Gonçalo Oliveira changed the ",
+                  {
+                    "number": 13
+                  },
+                  " on his racket handles."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -449,7 +520,36 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Rome and piracy"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting ",
+                  {
+                    "number": 24
+                  },
+                  " to Rome resulted in calls for ",
+                  {
+                    "number": 25
+                  },
+                  " for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a ",
+                  {
+                    "number": 26
+                  },
+                  " for the return of the Roman officials they captured."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -712,7 +812,48 @@
               "label": "different ideas"
             }
           ],
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "What happens when people encounter misinformation?"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Although people have ",
+                  {
+                    "number": 31
+                  },
+                  " to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had ",
+                  {
+                    "number": 32
+                  },
+                  " about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believed that a distinct ",
+                  {
+                    "number": 33
+                  },
+                  " is involved in these stages. Recent research has provided ",
+                  {
+                    "number": 34
+                  },
+                  " for Spinoza’s theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely ",
+                  {
+                    "number": 35
+                  },
+                  ", and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in ",
+                  {
+                    "number": 36
+                  },
+                  " in the brain."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam19-t1-p3-g3",

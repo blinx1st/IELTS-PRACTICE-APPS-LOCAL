@@ -1,0 +1,165 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 11,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 1\nQuestions 14-20\nLabel the map below.\nWrite the correct letter, A-I, next to Questions 14-20.\nProposed traffic changes in Granford\nN\n@\nwt E\nSs\n(G)\nSchool\n@D\n:\n3\n©\n.,\niv\n\\aigh Street\n©) &\n5 (A)\nS\n5\n(B)\nSupermarket\nbad\n°\n(1) Supermarket\nFB.com/LouisQuangVo\n14\nNew traffic lights\nsiscucicoc enn\n15\nPedestrian crossing\nseararenasane\n16\nParking allowed\nannie\n17\nNew ‘No Parking’ sign\nsibaeapsreenssee\n18\nNew disabled parking spaces\n——\n19\nWidened pavement\nieee aren\n20\nLorry loading/unloading restrictions\nee\n19\n",
+  "blocks": [
+    {
+      "box": [
+        79.91999816894531,
+        51.84002685546875,
+        112.29658508300781,
+        61.56971740722656
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        79.91999816894531,
+        90.3599853515625,
+        183.16807556152344,
+        101.89152526855469
+      ],
+      "text": "Questions 14-20\n"
+    },
+    {
+      "box": [
+        79.55999755859375,
+        120.96002197265625,
+        196.5816192626953,
+        132.85191345214844
+      ],
+      "text": "Label the map below.\n"
+    },
+    {
+      "box": [
+        80.27999877929688,
+        148.67999267578125,
+        375.4871826171875,
+        160.57188415527344
+      ],
+      "text": "Write the correct letter, A-I, next to Questions 14-20.\n"
+    },
+    {
+      "box": [
+        196.1999969482422,
+        180.0,
+        448.43035888671875,
+        194.77476501464844
+      ],
+      "text": "Proposed traffic changes in Granford\n"
+    },
+    {
+      "box": [
+        135.719970703125,
+        208.79998779296875,
+        458.5679931640625,
+        263.19451904296875
+      ],
+      "text": "N\n@\nwt E\n"
+    },
+    {
+      "box": [
+        162.719970703125,
+        266.03997802734375,
+        169.17840576171875,
+        274.3282775878906
+      ],
+      "text": "Ss\n"
+    },
+    {
+      "box": [
+        145.0799560546875,
+        304.55999755859375,
+        692.195556640625,
+        504.0198059082031
+      ],
+      "text": "(G)\nSchool\n@D\n:\n3\n©\n.,\niv\n\\aigh Street\n©) &\n5 (A)\nS\n5\n(B)\nSupermarket\nbad\n°\n(1) Supermarket\n"
+    },
+    {
+      "box": [
+        443.1599426269531,
+        549.719970703125,
+        539.5499267578125,
+        562.3325805664062
+      ],
+      "text": "FB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        82.43994140625,
+        570.9600219726562,
+        378.9287109375,
+        586.0951538085938
+      ],
+      "text": "14\nNew traffic lights\nsiscucicoc enn\n"
+    },
+    {
+      "box": [
+        82.43994140625,
+        603.3599853515625,
+        378.76837158203125,
+        615.2518920898438
+      ],
+      "text": "15\nPedestrian crossing\nseararenasane\n"
+    },
+    {
+      "box": [
+        82.79994201660156,
+        633.239990234375,
+        379.30487060546875,
+        645.8525390625
+      ],
+      "text": "16\nParking allowed\nannie\n"
+    },
+    {
+      "box": [
+        83.15994262695312,
+        662.760009765625,
+        378.9501647949219,
+        674.6519165039062
+      ],
+      "text": "17\nNew ‘No Parking’ sign\nsibaeapsreenssee\n"
+    },
+    {
+      "box": [
+        83.15994262695312,
+        692.280029296875,
+        379.7855529785156,
+        704.1719360351562
+      ],
+      "text": "18\nNew disabled parking spaces\n——\n"
+    },
+    {
+      "box": [
+        83.51992797851562,
+        722.1599731445312,
+        380.04473876953125,
+        734.0518798828125
+      ],
+      "text": "19\nWidened pavement\nieee aren\n"
+    },
+    {
+      "box": [
+        83.15994262695312,
+        750.9600219726562,
+        380.0843505859375,
+        764.2933349609375
+      ],
+      "text": "20\nLorry loading/unloading restrictions\nee\n"
+    },
+    {
+      "box": [
+        84.23992919921875,
+        782.2799682617188,
+        96.11993408203125,
+        789.4871826171875
+      ],
+      "text": "19\n"
+    }
+  ]
+}

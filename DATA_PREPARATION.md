@@ -1,5 +1,15 @@
 # Chuẩn bị và kiểm tra thư viện Reading / Listening
 
+## Cập nhật bố cục trực tiếp — 22/10/2026
+
+`scripts/prepare_reading_inline.py` dựng đủ **82 nhóm văn bản / 414 câu**. Có 39 nhóm được chép lại theo ảnh nguồn trong `library/preparation/reading-inline-texts.json`; 43 nhóm dùng chữ đã hiệu đính trước đó. Bố cục `flow` lưu các đoạn chữ và token `{number}` theo đúng thứ tự, thay việc đoán dấu chấm lúc chạy app. Nhóm summary có ngân hàng từ tiếp tục lưu chữ cái làm đáp án.
+
+Chạy `python -X utf8 scripts/prepare_reading_inline.py --check` để kiểm tra số câu, nội dung metadata, overrides và registry mà không ghi file. Báo cáo là `library/preparation/reading-inline-review.json`. Bảy bảng và 38 matrix được kiểm tra bởi `scripts/prepare_question_layouts.py --check`; registry giữ đồng thời cả hai loại bố cục.
+
+`backend/presentation.py` chỉ thêm layout cho snapshot cũ có fingerprint khớp. Snapshot, khóa và kết quả cũ không bị ghi lại. Các đoạn đã hỗ trợ highlight trước đây giữ anchor/offset tương thích; annotation cũ dùng mức 1–3 được đọc thành vàng/cam/đỏ, annotation mới dùng trường `color` với năm màu.
+
+Repository nay giữ toàn bộ dữ liệu để chạy, overrides và biên bản JSON cần thiết; các cache OCR, mô hình, ảnh đối chiếu trung gian và audio chuẩn bị trùng vẫn ở máy gốc nhưng không được theo dõi trong Git. Bằng chứng JSON được audio manifest tham chiếu vẫn đi kèm. Clone không cần nguồn PDF hoặc Tesseract để làm bài. Dựng lại bằng OCR từ đầu vẫn cần tài liệu nguồn/cache riêng; kiểm tra bộ file chạy bằng `scripts/check_library.py`.
+
 Thư viện hiện có **32 đề Reading, 32 đề Listening, 96 passages, 128 Parts và 2.560 câu** Cambridge 13–20. Cambridge 16 đã được nhập và đối chiếu. Tài liệu này dành cho việc bảo trì nội dung; sử dụng app hằng ngày không cần chạy OCR, tải mô hình hoặc kết nối Internet.
 
 ## Nguồn và cấu trúc

@@ -3,7 +3,7 @@
   "book": 13,
   "test": 1,
   "title": "Cambridge 13 · Test 1",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -498,7 +498,36 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Responses to boredom"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "For John Eastwood, the central feature of boredom is that people cannot ",
+                  {
+                    "number": 24
+                  },
+                  ", due to a failure in what he calls the ‘attention system’, and as a result they become frustrated and irritable. His team suggests that those for whom ",
+                  {
+                    "number": 25
+                  },
+                  " is an important aim in life may have problems in coping with boredom, whereas those who have the characteristic of ",
+                  {
+                    "number": 26
+                  },
+                  " can generally cope with it."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

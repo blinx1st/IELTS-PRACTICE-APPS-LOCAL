@@ -1,0 +1,147 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 71,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nQuestions 37-40\nFB.com/LouisQuangVo\nLook at the following statements (Questions 37-40) and the list of researchers below.\nMatch each statement with the correct researcher, A, B, C or D.\nWrite the correct letter, A, B, C or D, in boxes 37-40 on your answer sheet.\nNB\nYou may use any letter more than once.\n37\nFinding further information about changes to environmental conditions in the region\nis vital.\n38\nExamining previous patterns of behaviour may have long-term benefits.\n39\nRough calculations indicate the approximate length of a period of water shortage.\n40\nInformation about the decline of the Harappan Civilisation has been lacking.\nList of Researchers\nA\nCameron Petrie\nB_\nRavindanath Singh\nC\nYama Dixit\nD_\nDavid Hodell\n79\n",
+  "blocks": [
+    {
+      "box": [
+        79.19999694824219,
+        52.55999755859375,
+        113.0040054321289,
+        62.65009307861328
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        78.12000274658203,
+        89.6400146484375,
+        322.7615966796875,
+        103.33368682861328
+      ],
+      "text": "Questions 37-40\nFB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        77.4000015258789,
+        122.4000244140625,
+        553.2373046875,
+        136.45404052734375
+      ],
+      "text": "Look at the following statements (Questions 37-40) and the list of researchers below.\n"
+    },
+    {
+      "box": [
+        77.39999389648438,
+        151.55999755859375,
+        432.34918212890625,
+        164.89332580566406
+      ],
+      "text": "Match each statement with the correct researcher, A, B, C or D.\n"
+    },
+    {
+      "box": [
+        77.760009765625,
+        181.44000244140625,
+        496.08013916015625,
+        195.85443115234375
+      ],
+      "text": "Write the correct letter, A, B, C or D, in boxes 37-40 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        76.68002319335938,
+        210.96002197265625,
+        326.3399658203125,
+        223.57260131835938
+      ],
+      "text": "NB\nYou may use any letter more than once.\n"
+    },
+    {
+      "box": [
+        75.96002197265625,
+        240.47998046875,
+        568.33935546875,
+        265.6900634765625
+      ],
+      "text": "37\nFinding further information about changes to environmental conditions in the region\nis vital.\n"
+    },
+    {
+      "box": [
+        75.60000610351562,
+        278.6400146484375,
+        501.5897521972656,
+        293.4147644042969
+      ],
+      "text": "38\nExamining previous patterns of behaviour may have long-term benefits.\n"
+    },
+    {
+      "box": [
+        74.8800048828125,
+        301.32000732421875,
+        556.7615356445312,
+        340.2158508300781
+      ],
+      "text": "39\nRough calculations indicate the approximate length of a period of water shortage.\n40\nInformation about the decline of the Harappan Civilisation has been lacking.\n"
+    },
+    {
+      "box": [
+        264.6000061035156,
+        367.9200134277344,
+        381.22015380859375,
+        378.37042236328125
+      ],
+      "text": "List of Researchers\n"
+    },
+    {
+      "box": [
+        237.60000610351562,
+        390.6000061035156,
+        353.4731140136719,
+        401.0504455566406
+      ],
+      "text": "A\nCameron Petrie\n"
+    },
+    {
+      "box": [
+        237.9600067138672,
+        413.6400146484375,
+        371.50189208984375,
+        426.9732971191406
+      ],
+      "text": "B_\nRavindanath Singh\n"
+    },
+    {
+      "box": [
+        237.24000549316406,
+        436.67999267578125,
+        325.0710754394531,
+        447.13043212890625
+      ],
+      "text": "C\nYama Dixit\n"
+    },
+    {
+      "box": [
+        237.60000610351562,
+        459.7200012207031,
+        335.77203369140625,
+        470.1704406738281
+      ],
+      "text": "D_\nDavid Hodell\n"
+    },
+    {
+      "box": [
+        70.91999816894531,
+        783.719970703125,
+        83.47679138183594,
+        789.4857177734375
+      ],
+      "text": "79\n"
+    }
+  ]
+}

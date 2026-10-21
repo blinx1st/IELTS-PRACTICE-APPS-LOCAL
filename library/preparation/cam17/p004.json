@@ -1,0 +1,138 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 4,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "DhakA\nah ve\nBE, EAURERORAER\nps\nAra\naia 1718867188\nPART 2\nQuestions 11-20\n[2]\n‘el\neeu:\nGi)\nQuestions 11-14\notras\nChoose the correct letter, A, B or C.\nListeaihig saat aise\nBoat trip round Tasmania\n11.\nWhat is the maximum number of people who can stand on each side of the boat?\nA9\nB15\nCc\n18\n12\nWhat colour are the tour boats?\nA\ndark red\nB\njet black\nC\nslight green\n13.\nWhich lunchbox is suitable for someone who doesn’t eat meat or fish?\nA\nLunchbox 1\nB\nLunchbox 2\nC\nLunchbox 3\n14\nWhat should people do with their litter?\nA _ take it home\nB\nhand it to\na member of staff\nC\nput it in the bins provided on the boat\n11\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        511.4405517578125,
+        47.88871765136719
+      ],
+      "text": "DhakA\nah ve\nBE, EAURERORAER\nps\nAra\naia 1718867188\n"
+    },
+    {
+      "box": [
+        61.90750503540039,
+        72.34542083740234,
+        499.20135498046875,
+        124.18860626220703
+      ],
+      "text": "PART 2\nQuestions 11-20\n[2]\n‘el\neeu:\nGi)\nQuestions 11-14\notras\n"
+    },
+    {
+      "box": [
+        61.90750503540039,
+        133.53309631347656,
+        503.63922119140625,
+        149.38571166992188
+      ],
+      "text": "Choose the correct letter, A, B or C.\nListeaihig saat aise\n"
+    },
+    {
+      "box": [
+        196.8803253173828,
+        181.40342712402344,
+        388.51995849609375,
+        196.17515563964844
+      ],
+      "text": "Boat trip round Tasmania\n"
+    },
+    {
+      "box": [
+        61.90755081176758,
+        211.9972381591797,
+        511.4569396972656,
+        256.2770080566406
+      ],
+      "text": "11.\nWhat is the maximum number of people who can stand on each side of the boat?\nA9\nB15\n"
+    },
+    {
+      "box": [
+        87.46239471435547,
+        261.6672668457031,
+        125.22600555419922,
+        270.3141784667969
+      ],
+      "text": "Cc\n18\n"
+    },
+    {
+      "box": [
+        61.90754318237305,
+        283.2629089355469,
+        251.7042999267578,
+        291.9097595214844
+      ],
+      "text": "12\nWhat colour are the tour boats?\n"
+    },
+    {
+      "box": [
+        87.10248565673828,
+        305.2184753417969,
+        166.7364959716797,
+        343.74151611328125
+      ],
+      "text": "A\ndark red\nB\njet black\nC\nslight green\n"
+    },
+    {
+      "box": [
+        61.90755081176758,
+        354.5285339355469,
+        452.6448059082031,
+        363.1754455566406
+      ],
+      "text": "13.\nWhich lunchbox is suitable for someone who doesn’t eat meat or fish?\n"
+    },
+    {
+      "box": [
+        87.10247039794922,
+        376.4841003417969,
+        173.1251220703125,
+        412.8454284667969
+      ],
+      "text": "A\nLunchbox 1\nB\nLunchbox 2\nC\nLunchbox 3\n"
+    },
+    {
+      "box": [
+        61.907535552978516,
+        425.7941589355469,
+        289.95758056640625,
+        436.6028137207031
+      ],
+      "text": "14\nWhat should people do with their litter?\n"
+    },
+    {
+      "box": [
+        87.1024398803711,
+        445.9501037597656,
+        176.5228271484375,
+        459.2807312011719
+      ],
+      "text": "A _ take it home\n"
+    },
+    {
+      "box": [
+        87.46236419677734,
+        461.427001953125,
+        306.58624267578125,
+        486.2727966308594
+      ],
+      "text": "B\nhand it to\na member of staff\nC\nput it in the bins provided on the boat\n"
+    },
+    {
+      "box": [
+        512.8966064453125,
+        731.0126342773438,
+        522.582275390625,
+        739.2992553710938
+      ],
+      "text": "11\n"
+    }
+  ]
+}

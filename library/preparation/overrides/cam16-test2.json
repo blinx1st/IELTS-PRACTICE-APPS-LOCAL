@@ -4,7 +4,7 @@
   "book": 16,
   "test": 2,
   "title": "Cambridge 16 · Test 2",
-  "version": "2026-10-21.1",
+  "version": "2026-10-21.1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 3 passages and 40 questions, options, instructions and word limits compared with rendered supplied PDF pages. OCR word joins, paragraph boundaries, source accents and unreadable completion blanks corrected. Private key separately read against printed source key.",
@@ -156,7 +156,64 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The Uffington White Horse\nThe location of the Uffington White Horse:\n• a distance of 2.5 km from Uffington village\n• near an ancient road known as the ",
+                  {
+                    "number": 9
+                  },
+                  "\n• close to an ancient cemetery that has a number of burial mounds\nDating the Uffington White Horse:\n• first reference to White Horse Hill appears in ",
+                  {
+                    "number": 10
+                  },
+                  " from the 1070s\n• horses shown on coins from the period 100 BCE – 1 BCE are similar in appearance\n• according to analysis of the surrounding ",
+                  {
+                    "number": 11
+                  },
+                  " , the Horse is Late Bronze Age / Early Iron Age\nPossible reasons for creation of the Uffington White Horse:\n• an emblem to indicate land ownership\n• formed part of an ancient ritual\n• was a representation of goddess Epona – associated with protection of horses and ",
+                  {
+                    "number": 12
+                  },
+                  "\n• was a representation of a Welsh goddess called ",
+                  {
+                    "number": 13
+                  },
+                  ""
+                ],
+                "anchors": [
+                  "cam16-t2-p1-g2-body-0",
+                  "",
+                  "cam16-t2-p1-g2-body-163",
+                  "",
+                  "cam16-t2-p1-g2-body-326",
+                  "",
+                  "cam16-t2-p1-g2-body-480",
+                  "",
+                  "cam16-t2-p1-g2-body-759",
+                  "",
+                  "cam16-t2-p1-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourceImages": [
@@ -379,7 +436,56 @@
               "value": "H",
               "label": "nutrition"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "We should be more tolerant of microbes\nYong’s book argues that we should be more tolerant of microbes. Many have a beneficial effect, and only a relatively small number lead to ",
+                  {
+                    "number": 17
+                  },
+                  " . And although it is misleading to think of microbes as ‘friendly’, we should also stop thinking of them as the enemy. In fact, we should accept that our relationship with microbes is one based on ",
+                  {
+                    "number": 18
+                  },
+                  " .\nNew research shows that microbes have numerous benefits for humans. Amongst other things, they aid digestion, remove poisons, produce vitamins and may even help reduce obesity. However, there is a growing problem. Our poor ",
+                  {
+                    "number": 19
+                  },
+                  " , our overuse of antibiotics, and our excessive focus on ",
+                  {
+                    "number": 20
+                  },
+                  " are upsetting the bacterial balance and may be contributing to the huge increase in allergies and immune system problems."
+                ],
+                "anchors": [
+                  "cam16-t2-p2-g2-body",
+                  "",
+                  "cam16-t2-p2-g2-body",
+                  "",
+                  "cam16-t2-p2-g2-body",
+                  "",
+                  "cam16-t2-p2-g2-body",
+                  "",
+                  "cam16-t2-p2-g2-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  190,
+                  0,
+                  401,
+                  0,
+                  640,
+                  0,
+                  711
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam16-t2-p2-g3",
@@ -679,7 +785,64 @@
               "value": "J",
               "label": "reasons"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The characteristics of wise reasoning\nIgor Grossmann and colleagues have established four characteristics which enable us to make wise decisions. It is important to have a certain degree of ",
+                  {
+                    "number": 31
+                  },
+                  " regarding the extent of our knowledge, and to take into account ",
+                  {
+                    "number": 32
+                  },
+                  " which may not be the same as our own. We should also be able to take a broad ",
+                  {
+                    "number": 33
+                  },
+                  " of any situation. Another key characteristic is being aware of the likelihood of alterations in the way that people relate to each other.\nGrossmann also believes that it is better to regard scenarios with ",
+                  {
+                    "number": 34
+                  },
+                  " . By avoiding the first-person perspective, we focus more on ",
+                  {
+                    "number": 35
+                  },
+                  " and on other moral ideals, which in turn leads to wiser decision-making."
+                ],
+                "anchors": [
+                  "cam16-t2-p3-g2-body",
+                  "",
+                  "cam16-t2-p3-g2-body",
+                  "",
+                  "cam16-t2-p3-g2-body",
+                  "",
+                  "cam16-t2-p3-g2-body",
+                  "",
+                  "cam16-t2-p3-g2-body",
+                  "",
+                  "cam16-t2-p3-g2-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  203,
+                  0,
+                  281,
+                  0,
+                  372,
+                  0,
+                  591,
+                  0,
+                  666
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam16-t2-p3-g3",

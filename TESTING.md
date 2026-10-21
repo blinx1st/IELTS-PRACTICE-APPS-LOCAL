@@ -1,5 +1,14 @@
 # UI/UX 2.1 — làm quen và điều hướng
 
+## Cập nhật 22/10/2026 — inline, năm màu và hai cột
+
+- Frontend: **25 kiểm thử qua**, gồm toàn bộ 82 nhóm Reading/414 ô, 17 nhóm dropdown ngân hàng từ, thứ tự hai cột chẵn/lẻ, matching có danh sách dùng chung, khóa sau nộp và dữ liệu highlight cũ/mới.
+- Backend: **41 kiểm thử qua**, bao gồm năm màu/Note qua lưu và khôi phục ZIP, cùng kiểm tra thư viện chạy không cần cache. Build TypeScript/Vite và `npm audit --audit-level=moderate` thành công, không có lỗ hổng được báo cáo.
+- Audit Reading: 32 đề, 96 passages, 1.280 câu, 0 lỗi/cảnh báo. Audit Listening: 32 đề, 128 Parts, 1.280 câu, 128 audio duy nhất, SHA-256 và tài nguyên hợp lệ. Kiểm tra 45 bảng/matrix và 82 nhóm inline đều qua.
+- Chrome: thử câu 2 Stonehenge tại vị trí trống, dropdown tại câu 24, màu xanh biển qua tải lại, Listening chọn đáp án/cờ, đổi bố cục và fallback một cột ở chiều rộng CSS 1.000 px. Thử ở 1280 × 720; có đủ 40 nút footer và không tràn ngang toàn trang. Edge chưa được kiểm tra bằng trình duyệt riêng trong phiên này.
+- Ảnh cập nhật: [Reading](docs/screenshots/reading-inline-1280.png), [Listening](docs/screenshots/listening-columns-1280.png). Các kết quả nghiệm thu cũ bên dưới được giữ làm lịch sử, không mô tả phiên bản mới.
+- Bản sao đóng gói gồm 2.333 file / khoảng 1.037 MiB tại thời điểm kiểm tra, không PDF nguồn, mô hình hoặc cache OCR. Tạo mới `.venv`, chạy bộ cài, `npm ci` và build thành công. Với kết nối ngoài bị chặn trong tiến trình kiểm thử, cả Reading và Listening đều chọn đề → lưu/tải lại → nộp → chấm được; audio HTTP Range, transcript sau chấm và xuất ZIP khoảng 20 MB đều qua. Không đổi cấu hình mạng Windows.
+
 20 kiểm thử frontend và 38 backend đạt; build và npm audit đạt. Các kiểm thử mới phủ lọc câu trống/cờ theo đúng phạm vi, số thứ tự không đổi, trước/sau ở biên, 40 nút câu, cỡ chữ/độ tương phản và bài mẫu không điểm. Kiểm tra bằng Chrome trên kho QA riêng; không tạo lượt QA trong dữ liệu học chính. Chi tiết, nguồn tham khảo và ảnh tại [UI_UX_REVIEW.md](UI_UX_REVIEW.md).
 
 ---

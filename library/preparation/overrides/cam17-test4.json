@@ -3,7 +3,7 @@
   "book": 17,
   "test": 4,
   "title": "Cambridge 17 · Test 4",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Reading passages and all question blocks compared visually with the supplied scan; paragraph labels, spacing, column order, answer choices and completion text corrected. Original Rocha table retained as a local illustration with native answer fields.",
@@ -455,7 +455,56 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Demographic reconstruction of two German communities\n\nThe database that Ogilvie and her team has compiled sheds light on the lives of a range of individuals, as well as those of their ",
+                  {
+                    "number": 19
+                  },
+                  ", over a 300-year period. For example, Ana Regina and Magdalena Riethmüllerin were reprimanded for reading while they should have been paying attention to a ",
+                  {
+                    "number": 20
+                  },
+                  ". There was also Juliana Schweickherdt, who came to the notice of the weavers' guild in the year 1752 for breaking guild rules. As a punishment, she was later given a ",
+                  {
+                    "number": 21
+                  },
+                  ". Cases like this illustrate how the guilds could prevent ",
+                  {
+                    "number": 22
+                  },
+                  " and stop skilled people from working."
+                ],
+                "anchors": [
+                  "cam17-t4-p2-g2-body-0",
+                  "",
+                  "cam17-t4-p2-g2-body-197",
+                  "",
+                  "cam17-t4-p2-g2-body-367",
+                  "",
+                  "cam17-t4-p2-g2-body-547",
+                  "",
+                  "cam17-t4-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam17-t4-p2-g3",
@@ -791,7 +840,56 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "How the research was carried out\n\nThe researchers started by testing Gareyev's ",
+                  {
+                    "number": 37
+                  },
+                  "; for example, he was required to recall a string of ",
+                  {
+                    "number": 38
+                  },
+                  " in order and also in reverse order. Although his performance was normal, scans showed an unusual amount of ",
+                  {
+                    "number": 39
+                  },
+                  " within the areas of Gareyev's brain that are concerned with directing attention. In addition, the scans raised the possibility of unusual strength in the parts of his brain that deal with ",
+                  {
+                    "number": 40
+                  },
+                  " input."
+                ],
+                "anchors": [
+                  "cam17-t4-p3-g3-body-0",
+                  "",
+                  "cam17-t4-p3-g3-body-92",
+                  "",
+                  "cam17-t4-p3-g3-body-158",
+                  "",
+                  "cam17-t4-p3-g3-body-279",
+                  "",
+                  "cam17-t4-p3-g3-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

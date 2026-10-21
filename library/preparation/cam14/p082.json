@@ -1,0 +1,120 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 82,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nREADING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on Reading\nPassage 3 below.\nChelsea Rochman, an ecologist at the University of California, Davis, has been trying to answer\na dismal question: Is everything terrible, or are things just very, very bad?\nRochman is a member ofthe National Center for Ecological Analysis and Synthesis’s\nmarine-debris working group, a collection of scientists who study, among other things, the\ngrowing problem of marine debris, also known as ocean trash. Plenty of studies have sounded\nalarm bells about the state of marine debris; in a recent paper published in the journal Ecology,\nRochman and her colleagues set out to determine how many ofthose perceived risks are real.\nOften, Rochman says, scientists will end a paper by speculating about the broader impacts of\nwhat they’ve found. For example, a study could show that certain seabirds eat plastic bags, and\ngo on to warn that whole bird populations are at risk of dying out. ‘But the truth was that nobody\nhad yet tested those perceived threats,’ Rochman says. ‘There wasn’t a lot of information.’\nRochman and her colleagues examined more than a hundred papers on the impacts of marine\ndebris that were published through 2013. Within each paper, they asked what threats scientists\nhad studied — 366 perceived threats in all — and what they'd actually found.\nIn 83 percent of cases, the perceived dangers of ocean trash were proven true. In the remaining\ncases, the working group found the studies had weaknesses in design and content which affected\nthe validity of their conclusions — they lacked a control group, for example, or used faulty\nstatistics.\nStrikingly, Rochman says, only one well-designed study failed to find the effect it was looking\nfor, an investigation of mussels ingesting microscopic plastic bits. The plastic moved from the\nmussels’ stomachs to their bloodstreams, scientists found, and stayed there for weeks — but didn’t\nseem to stress out the shellfish.\nWhile mussels may be fine eating trash, though, the analysis also gave a clearer picture of the\nmany ways that ocean debris is bothersome.\nWithin the studies they looked at, most of the proven threats came from plastic debris, rather than\nother materials like metal or wood. Most of the dangers also involved large pieces ofdebris —\nanimals getting entangled in trash, for example, or eating it and severely injuring themselves.\nBut a lot ofocean debris is ‘microplastic’, or pieces smaller than five millimeters. These may\nbe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or\neroded remnants of larger debris. Compared to the number of studies investigating large-scale\ndebris, Rochman’s group found little research on the effects of these tiny bits. ‘There are a lot of\nopen questions still for microplastic, Rochman says, though she notes that more papers on the\nsubject have been published since 2013, the cutoff point for the group’s analysis.\n90\n",
+  "blocks": [
+    {
+      "box": [
+        127.05440521240234,
+        92.14144134521484,
+        155.45806884765625,
+        100.42801666259766
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        125.97460174560547,
+        283.9756164550781,
+        137.14353942871094
+      ],
+      "text": "READING PASSAGE 3\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        153.3291778564453,
+        553.5866088867188,
+        177.0950927734375
+      ],
+      "text": "You should spend about 20 minutes on Questions 27-40, which are based on Reading\nPassage 3 below.\n"
+    },
+    {
+      "box": [
+        124.89482116699219,
+        192.56121826171875,
+        548.299072265625,
+        218.4889678955078
+      ],
+      "text": "Chelsea Rochman, an ecologist at the University of California, Davis, has been trying to answer\na dismal question: Is everything terrible, or are things just very, very bad?\n"
+    },
+    {
+      "box": [
+        124.17499542236328,
+        231.4333953857422,
+        542.6124267578125,
+        296.2333068847656
+      ],
+      "text": "Rochman is a member ofthe National Center for Ecological Analysis and Synthesis’s\nmarine-debris working group, a collection of scientists who study, among other things, the\ngrowing problem of marine debris, also known as ocean trash. Plenty of studies have sounded\nalarm bells about the state of marine debris; in a recent paper published in the journal Ecology,\nRochman and her colleagues set out to determine how many ofthose perceived risks are real.\n"
+    },
+    {
+      "box": [
+        123.81511688232422,
+        309.177734375,
+        551.5167846679688,
+        360.2996520996094
+      ],
+      "text": "Often, Rochman says, scientists will end a paper by speculating about the broader impacts of\nwhat they’ve found. For example, a study could show that certain seabirds eat plastic bags, and\ngo on to warn that whole bird populations are at risk of dying out. ‘But the truth was that nobody\nhad yet tested those perceived threats,’ Rochman says. ‘There wasn’t a lot of information.’\n"
+    },
+    {
+      "box": [
+        123.4552001953125,
+        373.9646911621094,
+        537.4617309570312,
+        412.4898986816406
+      ],
+      "text": "Rochman and her colleagues examined more than a hundred papers on the impacts of marine\ndebris that were published through 2013. Within each paper, they asked what threats scientists\nhad studied — 366 perceived threats in all — and what they'd actually found.\n"
+    },
+    {
+      "box": [
+        122.73534393310547,
+        425.7942199707031,
+        547.3778076171875,
+        472.9530334472656
+      ],
+      "text": "In 83 percent of cases, the perceived dangers of ocean trash were proven true. In the remaining\ncases, the working group found the studies had weaknesses in design and content which affected\nthe validity of their conclusions — they lacked a control group, for example, or used faulty\nstatistics.\n"
+    },
+    {
+      "box": [
+        122.37540435791016,
+        490.5811767578125,
+        549.3754272460938,
+        538.8201293945312
+      ],
+      "text": "Strikingly, Rochman says, only one well-designed study failed to find the effect it was looking\nfor, an investigation of mussels ingesting microscopic plastic bits. The plastic moved from the\nmussels’ stomachs to their bloodstreams, scientists found, and stayed there for weeks — but didn’t\nseem to stress out the shellfish.\n"
+    },
+    {
+      "box": [
+        122.0154800415039,
+        555.0082397460938,
+        532.8798828125,
+        578.7734985351562
+      ],
+      "text": "While mussels may be fine eating trash, though, the analysis also gave a clearer picture of the\nmany ways that ocean debris is bothersome.\n"
+    },
+    {
+      "box": [
+        121.65554809570312,
+        593.88037109375,
+        550.991455078125,
+        633.1257934570312
+      ],
+      "text": "Within the studies they looked at, most of the proven threats came from plastic debris, rather than\nother materials like metal or wood. Most of the dangers also involved large pieces ofdebris —\nanimals getting entangled in trash, for example, or eating it and severely injuring themselves.\n"
+    },
+    {
+      "box": [
+        120.93572235107422,
+        645.7098999023438,
+        544.8583374023438,
+        737.1398315429688
+      ],
+      "text": "But a lot ofocean debris is ‘microplastic’, or pieces smaller than five millimeters. These may\nbe ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or\neroded remnants of larger debris. Compared to the number of studies investigating large-scale\ndebris, Rochman’s group found little research on the effects of these tiny bits. ‘There are a lot of\nopen questions still for microplastic, Rochman says, though she notes that more papers on the\nsubject have been published since 2013, the cutoff point for the group’s analysis.\n90\n"
+    }
+  ]
+}

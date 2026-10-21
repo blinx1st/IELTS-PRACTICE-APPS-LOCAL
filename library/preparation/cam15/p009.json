@@ -1,0 +1,192 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 9,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Introduction\nHOW IS IELTS SCORED?\nIELTS results are reported on a nine-band scale. In addition to the score for overall language\nability, IELTS provides a score in the form of a profile for each of the four skills (Listening,\n:\nReading, Writing and Speaking). These scores are also reported on a nine-band scale. Ail\nscores are recorded on the Test Report Form along with details of the candidate's nationality,\n:\nfirst language and date of birth. Each Overall Band Score corresponds to a descriptive\n.\nstatement which gives a summary of the English-language ability of a candidate classified at\n:\nthat level. The nine bands and their descriptive statements are as follows:\n9\nExpert User — Has fully operational command of the language: appropriate, accurate\n|\nand fluent with complete understanding.\n8\nVery Good User— Has fully operational command of the language with only occasional\nunsystematic inaccuracies and inappropriacies. Misunderstandings may occur in\n:\nunfamiliar situations. Handles complex detailed argumentation well.\n7\nGood User— Has operational command of the language, though with occasional\ninaccuracies, inappropriacies and misunderstandings in some situations. Generally\nhandles complex language well and understands detailed reasoning.\n|\n6\nCompetent User— Has generally effective command of the language despite some\ninaccuracies, inappropriacies and misunderstandings. Can use and understand fairly\ncomplex language, particularly in familiar situations.\n\\\n5\nModest User — Has partial command of the language, coping with overall meaning\nin most situations, though is likely to make many mistakes. Should be able to handle\n:\nbasic communication in own field.\n:\n4 _ Limited User— Basic competence is limited to familiar situations. Has frequent\n:\nproblems in understanding and expression. Is not able to use complex language.\n:\n3.\n‘Extremely Limited User — Conveys and understands only general meaning in very\n‘\nfamiliar situations. Frequent breakdowns in communication occur.\n2\nIntermittent User— No real communication is possible except for the most basic\ninformation using isolated words or short formulae in familiar situations and to meet\n|\nimmediate needs. Has great difficulty understanding spoken and written English.\n|\n1\nNon User- Essentially has no ability to use the language beyond possibly a few\nisolated words.\n0\nDid not attempt the test — No assessable information provided.\n:\n|\n7\n",
+  "blocks": [
+    {
+      "box": [
+        452.0350003778718,
+        80.97760755176844,
+        513.5779821172158,
+        89.98411847835393
+      ],
+      "text": "Introduction\n"
+    },
+    {
+      "box": [
+        51.82566883313181,
+        119.8468591766173,
+        229.00463315211493,
+        131.01493301847105
+      ],
+      "text": "HOW IS IELTS SCORED?\n"
+    },
+    {
+      "box": [
+        51.82566883313181,
+        147.91909646123037,
+        574.725096761772,
+        202.63692940175173
+      ],
+      "text": "IELTS results are reported on a nine-band scale. In addition to the score for overall language\nability, IELTS provides a score in the form of a profile for each of the four skills (Listening,\n:\nReading, Writing and Speaking). These scores are also reported on a nine-band scale. Ail\nscores are recorded on the Test Report Form along with details of the candidate's nationality,\n:\n"
+    },
+    {
+      "box": [
+        51.82566883313181,
+        204.42347150846433,
+        575.8335597737092,
+        244.38393505625743
+      ],
+      "text": "first language and date of birth. Each Overall Band Score corresponds to a descriptive\n.\nstatement which gives a summary of the English-language ability of a candidate classified at\n:\nthat level. The nine bands and their descriptive statements are as follows:\n"
+    },
+    {
+      "box": [
+        52.905370267155384,
+        263.0872494237455,
+        575.7724048096727,
+        296.20925242407867
+      ],
+      "text": "9\nExpert User — Has fully operational command of the language: appropriate, accurate\n|\nand fluent with complete understanding.\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        303.3961029606258,
+        574.725096761772,
+        345.87660207387086
+      ],
+      "text": "8\nVery Good User— Has fully operational command of the language with only occasional\nunsystematic inaccuracies and inappropriacies. Misunderstandings may occur in\n:\nunfamiliar situations. Handles complex detailed argumentation well.\n"
+    },
+    {
+      "box": [
+        53.98507170117896,
+        353.78216988172613,
+        492.28627218137296,
+        382.2272532832858
+      ],
+      "text": "7\nGood User— Has operational command of the language, though with occasional\ninaccuracies, inappropriacies and misunderstandings in some situations. Generally\n"
+    },
+    {
+      "box": [
+        79.53800563973701,
+        383.2940090783706,
+        575.0849972397798,
+        396.26337192559237
+      ],
+      "text": "handles complex language well and understands detailed reasoning.\n|\n"
+    },
+    {
+      "box": [
+        53.98507170117896,
+        403.80833632481864,
+        501.65803610975826,
+        431.89351924837047
+      ],
+      "text": "6\nCompetent User— Has generally effective command of the language despite some\ninaccuracies, inappropriacies and misunderstandings. Can use and understand fairly\n"
+    },
+    {
+      "box": [
+        80.25780659575273,
+        434.03997647747883,
+        576.5353774213349,
+        446.28883543806376
+      ],
+      "text": "complex language, particularly in familiar situations.\n\\\n"
+    },
+    {
+      "box": [
+        54.344972179186826,
+        454.91420420193475,
+        576.5155782088403,
+        494.15595047841964
+      ],
+      "text": "5\nModest User — Has partial command of the language, coping with overall meaning\nin most situations, though is likely to make many mistakes. Should be able to handle\n:\nbasic communication in own field.\n:\n"
+    },
+    {
+      "box": [
+        54.344972179186826,
+        503.50076873299577,
+        576.5461556908585,
+        531.9458521345555
+      ],
+      "text": "4 _ Limited User— Basic competence is limited to familiar situations. Has frequent\n:\nproblems in understanding and expression. Is not able to use complex language.\n:\n"
+    },
+    {
+      "box": [
+        54.704872657194684,
+        540.5705179678054,
+        496.87863508418224,
+        553.539880815027
+      ],
+      "text": "3.\n‘Extremely Limited User — Conveys and understands only general meaning in very\n"
+    },
+    {
+      "box": [
+        575.1209638565599,
+        535.5319112756953,
+        576.5605657685913,
+        537.3332295698391
+      ],
+      "text": "‘\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        555.6863380441355,
+        405.52137824846153,
+        567.2146931180835
+      ],
+      "text": "familiar situations. Frequent breakdowns in communication occur.\n"
+    },
+    {
+      "box": [
+        55.4246736132104,
+        575.1209638565599,
+        576.8844996298191,
+        617.6046847351517
+      ],
+      "text": "2\nIntermittent User— No real communication is possible except for the most basic\ninformation using isolated words or short formulae in familiar situations and to meet\n|\nimmediate needs. Has great difficulty understanding spoken and written English.\n|\n"
+    },
+    {
+      "box": [
+        56.50437504723398,
+        625.1471302996524,
+        483.12140416580075,
+        651.4284760943348
+      ],
+      "text": "1\nNon User- Essentially has no ability to use the language beyond possibly a few\nisolated words.\n"
+    },
+    {
+      "box": [
+        55.78457409121826,
+        662.9366804904777,
+        577.2263582218851,
+        675.1855394510626
+      ],
+      "text": "0\nDid not attempt the test — No assessable information provided.\n:\n"
+    },
+    {
+      "box": [
+        575.8407648125756,
+        730.5979703559553,
+        577.2659566468743,
+        737.082681068342
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        513.218081639208,
+        770.5469234148277,
+        518.5986055009358,
+        778.8328938438066
+      ],
+      "text": "7\n"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 47,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "DhakA\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 3\nRee a\na 1718867188\nPART 2\nQuestions 11-20\naan i)\nQuestions 11 and 12\noe\n|\nChoose TWO letters, A-E.\nListoding feat tials\nWhich TWO facts are given about the school’s extended hours childcare service?\nA\nIt started recently.\nB~\nMore children attend after school than before school.\nC_\nAnaverage of 50 children attend in the mornings.\nD_\nAchild cannot attend both the before and after school sessions.\nE\nThe maximum number of children who can attend is 70.\nQuestions 13-15\nChoose the correct letter, A,\nB or C.\n13.\nHow much does childcare cost for\na complete afternoon session per child?\nA\n£3.50\nB-\n£5.70\nC\n£7.20\n14\nWhat does the manager say about food?\nA\nChildren with allergies should bring their own food.\nB-\nChildren may bring healthy snacks with them.\nC_\nChildren are given a proper meal at 5 p.m.\n15\nWhat is different about arrangements in the school holidays?\nA\nChildren from other schools can attend.\nB-\nOlder children can attend.\nC\n Agreater number of children can attend.\n54\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        64.45471954345703
+      ],
+      "text": "DhakA\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 3\nRee a\na 1718867188\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        72.705322265625,
+        515.3873291015625,
+        126.02787780761719
+      ],
+      "text": "PART 2\nQuestions 11-20\naan i)\nQuestions 11 and 12\noe\n|\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        133.53311157226562,
+        512.8965454101562,
+        147.944580078125
+      ],
+      "text": "Choose TWO letters, A-E.\nListoding feat tials\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        166.6464080810547,
+        495.2601013183594,
+        177.45501708984375
+      ],
+      "text": "Which TWO facts are given about the school’s extended hours childcare service?\n"
+    },
+    {
+      "box": [
+        96.10059356689453,
+        188.24205017089844,
+        397.64752197265625,
+        210.92611694335938
+      ],
+      "text": "A\nIt started recently.\nB~\nMore children attend after school than before school.\n"
+    },
+    {
+      "box": [
+        96.46051025390625,
+        216.31639099121094,
+        454.1707763671875,
+        253.03762817382812
+      ],
+      "text": "C_\nAnaverage of 50 children attend in the mornings.\nD_\nAchild cannot attend both the before and after school sessions.\nE\nThe maximum number of children who can attend is 70.\n"
+    },
+    {
+      "box": [
+        71.26557159423828,
+        286.1423034667969,
+        168.07704162597656,
+        296.59063720703125
+      ],
+      "text": "Questions 13-15\n"
+    },
+    {
+      "box": [
+        71.26557159423828,
+        314.9365539550781,
+        257.3048400878906,
+        325.0245361328125
+      ],
+      "text": "Choose the correct letter, A,\nB or C.\n"
+    },
+    {
+      "box": [
+        70.90564727783203,
+        336.53216552734375,
+        485.4844970703125,
+        347.7010803222656
+      ],
+      "text": "13.\nHow much does childcare cost for\na complete afternoon session per child?\n"
+    },
+    {
+      "box": [
+        96.1005630493164,
+        358.48773193359375,
+        150.7375946044922,
+        367.1346435546875
+      ],
+      "text": "A\n£3.50\n"
+    },
+    {
+      "box": [
+        96.46049499511719,
+        372.16497802734375,
+        150.7375946044922,
+        394.84906005859375
+      ],
+      "text": "B-\n£5.70\nC\n£7.20\n"
+    },
+    {
+      "box": [
+        70.9056396484375,
+        413.9165344238281,
+        309.35760498046875,
+        424.7251892089844
+      ],
+      "text": "14\nWhat does the manager say about food?\n"
+    },
+    {
+      "box": [
+        96.1005630493164,
+        435.51220703125,
+        385.39227294921875,
+        446.3208312988281
+      ],
+      "text": "A\nChildren with allergies should bring their own food.\n"
+    },
+    {
+      "box": [
+        96.82041931152344,
+        449.54937744140625,
+        359.11749267578125,
+        460.3580017089844
+      ],
+      "text": "B-\nChildren may bring healthy snacks with them.\n"
+    },
+    {
+      "box": [
+        96.46051025390625,
+        463.22662353515625,
+        342.6148681640625,
+        474.3955383300781
+      ],
+      "text": "C_\nChildren are given a proper meal at 5 p.m.\n"
+    },
+    {
+      "box": [
+        70.90564727783203,
+        491.3009338378906,
+        412.7108154296875,
+        502.1095886230469
+      ],
+      "text": "15\nWhat is different about arrangements in the school holidays?\n"
+    },
+    {
+      "box": [
+        96.1005630493164,
+        512.8966674804688,
+        327.3900451660156,
+        521.5435791015625
+      ],
+      "text": "A\nChildren from other schools can attend.\n"
+    },
+    {
+      "box": [
+        96.46050262451172,
+        526.9337768554688,
+        332.06890869140625,
+        551.7796020507812
+      ],
+      "text": "B-\nOlder children can attend.\nC\n Agreater number of children can attend.\n"
+    },
+    {
+      "box": [
+        70.54571533203125,
+        731.0126342773438,
+        82.71485900878906,
+        739.2992553710938
+      ],
+      "text": "54\n"
+    }
+  ]
+}

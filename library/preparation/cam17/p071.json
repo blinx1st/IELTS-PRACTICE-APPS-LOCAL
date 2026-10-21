@@ -1,0 +1,129 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 71,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "Oh AAC\nah ve\nBE, EAURERORAER\nreps\nBy\nTest 4\nRe J}\na 1718867188\nPART 3\nQuestions 21-30\nPe\nQuestions 21-22\nflo\nChoose TWO letters, A-E.\nListening feat atid\nWhich TWO points do Thomas and Jeanne make about Thomas's sporting activities\nat school?\nA\nHe should have felt more positive about them.\nB_\nThe training was too challenging for him.\nC\n Hecould have worked harder at them.\nD_\nHis parents were disappointed in him.\nE\nHis fellow students admired him.\nQuestions 23 and 24\nChoose TWO letters, A-E.\nWhich TWO feelings did Thomas experience when he was in Kenya?\nA\ndisbelief\nB\nrelief\nC\nstress\nD\ngratitude\nE\nhomesickness\n78\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        63.013580322265625
+      ],
+      "text": "Oh AAC\nah ve\nBE, EAURERORAER\nreps\nBy\nTest 4\nRe J}\na 1718867188\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        74.14505004882812,
+        455.5169982910156,
+        103.68862915039062
+      ],
+      "text": "PART 3\nQuestions 21-30\nPe\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        110.4977035522461,
+        454.0666198730469,
+        124.5489501953125
+      ],
+      "text": "Questions 21-22\nflo\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        133.53311157226562,
+        512.896484375,
+        147.944580078125
+      ],
+      "text": "Choose TWO letters, A-E.\nListening feat atid\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        166.6464080810547,
+        508.9374694824219,
+        189.33047485351562
+      ],
+      "text": "Which TWO points do Thomas and Jeanne make about Thomas's sporting activities\nat school?\n"
+    },
+    {
+      "box": [
+        96.10060119628906,
+        206.9582977294922,
+        361.6369934082031,
+        217.76690673828125
+      ],
+      "text": "A\nHe should have felt more positive about them.\n"
+    },
+    {
+      "box": [
+        96.46054077148438,
+        220.99546813964844,
+        333.2928161621094,
+        243.31961059570312
+      ],
+      "text": "B_\nThe training was too challenging for him.\nC\n Hecould have worked harder at them.\n"
+    },
+    {
+      "box": [
+        96.82044982910156,
+        248.70982360839844,
+        317.9599609375,
+        271.3939514160156
+      ],
+      "text": "D_\nHis parents were disappointed in him.\nE\nHis fellow students admired him.\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        317.8159484863281,
+        188.90423583984375,
+        327.9039306640625
+      ],
+      "text": "Questions 23 and 24\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        345.8902893066406,
+        209.11778259277344,
+        355.9783020019531
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        70.18582153320312,
+        373.964599609375,
+        431.6248474121094,
+        384.7732238769531
+      ],
+      "text": "Which TWO feelings did Thomas experience when he was in Kenya?\n"
+    },
+    {
+      "box": [
+        96.10059356689453,
+        399.87939453125,
+        195.9734344482422,
+        464.6749572753906
+      ],
+      "text": "A\ndisbelief\nB\nrelief\nC\nstress\nD\ngratitude\nE\nhomesickness\n"
+    },
+    {
+      "box": [
+        70.54573822021484,
+        731.0126342773438,
+        82.71488189697266,
+        739.2992553710938
+      ],
+      "text": "78\n"
+    }
+  ]
+}

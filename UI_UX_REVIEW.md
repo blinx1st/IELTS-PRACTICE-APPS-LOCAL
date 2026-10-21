@@ -1,5 +1,12 @@
 # Cải thiện UI/UX 2.1 — làm quen trước khi thi
 
+## Cập nhật 22/10/2026
+
+- Listening tự chia hai nửa cho nhóm câu hỏi rời dài; có Auto/1/2 cột, một vùng cuộn, thứ tự Tab theo số câu và ngưỡng rộng 1.100 px. Bảng, đoạn điền, flow-chart, sơ đồ và nhóm chọn nhiều giữ liền mạch.
+- Reading đặt ô nhập/dropdown vào 82 nhóm văn bản (414 câu), giữ Source và bài đang làm. Các nhóm mới không còn ảnh kèm một dãy ô nhập riêng bên dưới.
+- Highlight chọn trực tiếp vàng/cam/đỏ/xanh lá/xanh biển, thay màu đúng vùng giao nhau; Note riêng. Giữ màu và anchor của dữ liệu cũ, đồng bộ Help và bài làm quen.
+- Logo mèo dùng cùng một asset local cho nhận diện và favicon. Hướng dẫn clone nay phù hợp thư viện được đóng gói trong GitHub.
+
 Mục tiêu là giúp người học dùng thành thạo các thao tác thi trên máy: đọc và trả lời song song, theo dõi thời gian, đi đến từng câu, đánh dấu để quay lại và nộp bài có kiểm tra. Giữ màu xanh biển–trắng và các tiện ích ôn luyện đã có.
 
 Đã đối chiếu với [IELTS Academic sample tests và practice experience](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test) và [IDP familiarisation](https://ielts.idp.com/about/ielts-familiarisation-tests). Tài liệu chính thức cũng lưu ý thời gian, highlight và note trong bản làm quen có thể khác bài thi thực tế. App mô phỏng thao tác chính; không khẳng định giống từng pixel với mọi nền tảng tại điểm thi.

@@ -1,0 +1,93 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 99,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Writing\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nIn many countries, people are now living longer than ever before. Some\npeople say an ageing population creates problems for governments. Other\npeople think there are benefits if society has more elderly people.\nTo what extent do the advantages of having an ageing population outweigh\nthe disadvantages?\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n>|% p. 136]\n97\n",
+  "blocks": [
+    {
+      "box": [
+        51.203582763671875,
+        658.490234375,
+        83.85202026367188,
+        668.2167358398438
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        359.8963317871094,
+        623.2220458984375,
+        482.5992431640625,
+        632.948486328125
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        246.96775817871094,
+        595.5101318359375,
+        482.9591064453125,
+        606.3173217773438
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        333.7528076171875,
+        569.59912109375,
+        482.9591064453125,
+        580.0460815429688
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        78.8858642578125,
+        509.85797119140625,
+        471.0830993652344,
+        547.6568603515625
+      ],
+      "text": "In many countries, people are now living longer than ever before. Some\npeople say an ageing population creates problems for governments. Other\npeople think there are benefits if society has more elderly people.\n"
+    },
+    {
+      "box": [
+        76.85604095458984,
+        471.35150146484375,
+        470.0034484863281,
+        495.8341064453125
+      ],
+      "text": "To what extent do the advantages of having an ageing population outweigh\nthe disadvantages?\n"
+    },
+    {
+      "box": [
+        93.01286315917969,
+        424.5670471191406,
+        481.8795166015625,
+        449.0497131347656
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        361.7371520996094,
+        400.8171691894531,
+        481.8794860839844,
+        409.4629211425781
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        48.58381652832031,
+        21.860836029052734,
+        138.91375732421875,
+        33.02827453613281
+      ],
+      "text": ">|% p. 136]\n97\n"
+    }
+  ]
+}

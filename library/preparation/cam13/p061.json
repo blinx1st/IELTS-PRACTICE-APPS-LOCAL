@@ -1,0 +1,120 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 61,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nQuestions 1-8\nComplete the table below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 1-8 on your answer sheet.\nball aceal =—\na\ninner layer (shell)\nB SOUICE OF 4 vrssnnnsnnnnnnnennne\ncoconut water\na drink\n& SOUICOIOT 6 titeiiciniennavis\ncae TOF OtNEF\nplants\ncoconut flesh\nF and milk for cooking and\nglycerine (an ingredient in\n62\n",
+  "blocks": [
+    {
+      "box": [
+        102.95999908447266,
+        51.47998046875,
+        134.99642944335938,
+        60.849388122558594
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        102.5999984741211,
+        88.91998291015625,
+        186.7247772216797,
+        99.37042236328125
+      ],
+      "text": "Questions 1-8\n"
+    },
+    {
+      "box": [
+        102.5999984741211,
+        117.719970703125,
+        239.140869140625,
+        129.2515106201172
+      ],
+      "text": "Complete the table below.\n"
+    },
+    {
+      "box": [
+        102.5999984741211,
+        145.44000244140625,
+        438.43695068359375,
+        156.97154235839844
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        102.95999145507812,
+        173.52001953125,
+        398.05194091796875,
+        185.77224731445312
+      ],
+      "text": "Write your answers in boxes 1-8 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        101.15997314453125,
+        269.6400146484375,
+        574.8842163085938,
+        425.9080810546875
+      ],
+      "text": "ball aceal =—\na\n"
+    },
+    {
+      "box": [
+        176.0399627685547,
+        466.20001220703125,
+        491.47174072265625,
+        479.1729736328125
+      ],
+      "text": "inner layer (shell)\nB SOUICE OF 4 vrssnnnsnnnnnnnennne\n"
+    },
+    {
+      "box": [
+        175.67996215820312,
+        525.5999755859375,
+        361.0349426269531,
+        535.3297119140625
+      ],
+      "text": "coconut water\na drink\n"
+    },
+    {
+      "box": [
+        325.4399719238281,
+        551.52001953125,
+        540.4771118164062,
+        579.2511596679688
+      ],
+      "text": "& SOUICOIOT 6 titeiiciniennavis\ncae TOF OtNEF\nplants\n"
+    },
+    {
+      "box": [
+        176.0399932861328,
+        595.0799560546875,
+        471.0455627441406,
+        618.8637084960938
+      ],
+      "text": "coconut flesh\nF and milk for cooking and\n"
+    },
+    {
+      "box": [
+        325.44000244140625,
+        637.5599975585938,
+        462.8808288574219,
+        649.451904296875
+      ],
+      "text": "glycerine (an ingredient in\n"
+    },
+    {
+      "box": [
+        102.60000610351562,
+        749.8800048828125,
+        115.11000061035156,
+        758.8889770507812
+      ],
+      "text": "62\n"
+    }
+  ]
+}

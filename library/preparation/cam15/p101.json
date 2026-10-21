@@ -1,0 +1,120 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 101,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": ",\n|\nTest 1\nED:\nThere was one on personality, which said that a twin is likely to be quite shy in\nQ24\nsocial situations because they always have their twin around to depend on for\nsupport.\nRUTH:\nMy cousins were like that when they were small — they were only interested in\nF\neach other and found it hard to engage with other kids. They're fine now though.\ni\nED:\nOnly children have had a really bad press — a lot of studies have branded them\ni\nas loners who think the world revolves around them because they’ve never had\nQ25\n{\nto fight for their parents’ attention.\n;\nRUTH:\nThat does seema bit harsh. One category | hadn't considered before was\ni\nchildren with much older siblings — a couple of studies mentioned that these\ni\nchildren grow up more quickly and are expected to do basic things for\nQ26\n‘\nthemselves — like getting dressed.\n;\nED:\n| can see how that might be true — although\n| expect they're sometimes the exact\n:\nopposite — playing the baby role and clamouring for special treatment.\nRUTH:\nWhat was the problem with most of these studies, do you think?\ni\nED:\n| think it was because in a lot of cases data was collected from only one sibling\n|\nper family, who rated him or herself and his or her siblings at the same time.\n|\nRUTH:\nMmm. Some of the old research into the relationship between birth order and\n|\nacademic achievement has been proved to be accurate though. Performances\n;\nin intelligence tests decline slightly from the eldest child to his or her younger\n:\nsiblings. This has been proved in lots of recent studies.\n:\nED:\nYes. Although what many of them didn’t take into consideration was family\nQ27\n:\nsize. The more siblings there are, the likelier the family is to have a low socio-\ni\neconomic status — which can also account for differences between siblings in\n|\nacademic performance.\n|\nRUTH:\nThe oldest boy might be given more opportunities than his younger sisters, for\n|\nexample.\n|\nEO:\nExactly.\n:\nRUTH:\nBut the main reason for the marginally higher academic performance of oldest\n:\nchildren is quite surprising,\n| think. It's not only that they benefit intellectually\n:\nfrom extra attention at\na young age — which is what | would have expected. It's.\nQ28\nthat they benefit from being teachers for their younger siblings, by verbalising\n:\nprocesses.\n:\nED:\nRight, and this gives them status and confidence, which again contribute, in a\nsmall way, to better performance.\n|\nSo would you say sibling rivalry has been a useful thing for you?\ni\nRUTH:\n| think so — my younger brother was incredibly annoying and we foughta lot but |\n‘\nthink this has made mea stronger person.\n| know how to defend myself. We had\nQ29/Q30\n:\nsome terrible arguments and\n| would have died rather than apologise to him — but\n!\nwe had to put up with each other and most of the time we co-existed amicably\nQ29/Q30\n:\nenough.\n.\nED:\nYes, my situation was pretty similar. But\n| don’t think having two older brothers\ni\nmade me any less selfish —\n| was never prepared to let my brothers use any of\nmy stuff ...\n|\nRUTH:\nThat’s perfectly normal, whereas ...\n|\nPART 4\nToday I’m going to talk about the eucalyptus tree. This is\na very common tree here in\n|\nAustralia, where it's also sometimes called the gum tree. First I’m going to talk about why it’s\nimportant, then I’m going to describe some problems it faces at present.\n99\n|\n",
+  "blocks": [
+    {
+      "box": [
+        80.97760755176844,
+        27.352436328597342,
+        519.6729178001976,
+        33.476862147792794
+      ],
+      "text": ",\n|\n"
+    },
+    {
+      "box": [
+        484.4260433985792,
+        82.77710994180774,
+        515.7085648297975,
+        92.14388013390561
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        118.40725726458585,
+        576.5605657685913,
+        251.58015800108598
+      ],
+      "text": "ED:\nThere was one on personality, which said that a twin is likely to be quite shy in\nQ24\nsocial situations because they always have their twin around to depend on for\nsupport.\nRUTH:\nMy cousins were like that when they were small — they were only interested in\nF\neach other and found it hard to engage with other kids. They're fine now though.\ni\nED:\nOnly children have had a really bad press — a lot of studies have branded them\ni\nas loners who think the world revolves around them because they’ve never had\nQ25\n{\nto fight for their parents’ attention.\n;\nRUTH:\nThat does seema bit harsh. One category | hadn't considered before was\ni\nchildren with much older siblings — a couple of studies mentioned that these\ni\nchildren grow up more quickly and are expected to do basic things for\nQ26\n‘\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        254.08973747354898,
+        576.5407665560967,
+        288.2900067578877
+      ],
+      "text": "themselves — like getting dressed.\n;\nED:\n| can see how that might be true — although\n| expect they're sometimes the exact\n:\nopposite — playing the baby role and clamouring for special treatment.\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        309.15451060875154,
+        576.5407665560967,
+        367.46811191961683
+      ],
+      "text": "RUTH:\nWhat was the problem with most of these studies, do you think?\ni\nED:\n| think it was because in a lot of cases data was collected from only one sibling\n|\nper family, who rated him or herself and his or her siblings at the same time.\n|\nRUTH:\nMmm. Some of the old research into the relationship between birth order and\n|\nacademic achievement has been proved to be accurate though. Performances\n;\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        369.9776913920798,
+        576.5407665560967,
+        428.29381153767076
+      ],
+      "text": "in intelligence tests decline slightly from the eldest child to his or her younger\n:\nsiblings. This has been proved in lots of recent studies.\n:\nED:\nYes. Although what many of them didn’t take into consideration was family\nQ27\n:\nsize. The more siblings there are, the likelier the family is to have a low socio-\ni\neconomic status — which can also account for differences between siblings in\n|\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        427.5617678733374,
+        576.553360729725,
+        623.3577032485157
+      ],
+      "text": "academic performance.\n|\nRUTH:\nThe oldest boy might be given more opportunities than his younger sisters, for\n|\nexample.\n|\nEO:\nExactly.\n:\nRUTH:\nBut the main reason for the marginally higher academic performance of oldest\n:\nchildren is quite surprising,\n| think. It's not only that they benefit intellectually\n:\nfrom extra attention at\na young age — which is what | would have expected. It's.\nQ28\nthat they benefit from being teachers for their younger siblings, by verbalising\n:\nprocesses.\n:\nED:\nRight, and this gives them status and confidence, which again contribute, in a\nsmall way, to better performance.\n|\nSo would you say sibling rivalry has been a useful thing for you?\ni\nRUTH:\n| think so — my younger brother was incredibly annoying and we foughta lot but |\n‘\nthink this has made mea stronger person.\n| know how to defend myself. We had\nQ29/Q30\n:\nsome terrible arguments and\n| would have died rather than apologise to him — but\n!\nwe had to put up with each other and most of the time we co-existed amicably\nQ29/Q30\n:\n"
+    },
+    {
+      "box": [
+        53.6251712231711,
+        624.4273293436366,
+        576.5335615172304,
+        686.7034091432457
+      ],
+      "text": "enough.\n.\nED:\nYes, my situation was pretty similar. But\n| don’t think having two older brothers\ni\nmade me any less selfish —\n| was never prepared to let my brothers use any of\nmy stuff ...\n|\nRUTH:\nThat’s perfectly normal, whereas ...\n|\n"
+    },
+    {
+      "box": [
+        53.98507170117896,
+        715.4821502796252,
+        110.0863599703707,
+        725.9296909460662
+      ],
+      "text": "PART 4\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        737.7959799161125,
+        576.553360729725,
+        760.1195334261918
+      ],
+      "text": "Today I’m going to talk about the eucalyptus tree. This is\na very common tree here in\n|\nAustralia, where it's also sometimes called the gum tree. First I’m going to talk about why it’s\n"
+    },
+    {
+      "box": [
+        53.6251712231711,
+        762.6291128986549,
+        368.1638960794113,
+        772.356149678459
+      ],
+      "text": "important, then I’m going to describe some problems it faces at present.\n"
+    },
+    {
+      "box": [
+        504.94037064502726,
+        755.7910038165055,
+        576.5461556908585,
+        781.7124491331799
+      ],
+      "text": "99\n|\n"
+    }
+  ]
+}

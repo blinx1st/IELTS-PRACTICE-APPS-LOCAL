@@ -1,0 +1,219 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 19,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 1\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on Reading\nPassage 2 on pages 21 and 22.\nQuestions 14-19\nReading Passage 2 has six paragraphs, A-F.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i-viii, in boxes 14—19 on your answer sheet.\nList of Headings\ni\nThe productive outcomes that may result from boredom\nii\n|Whatteachers can do to prevent boredom\niii\nAnew explanation and a new cure for boredom\niv\nProblems with a scientific approach to boredom\nv__\nApotential danger arising from boredom\nvi\nCreating a system of classification for feelings of boredom\nvii\nAge groups most affected by boredom\nviii\nIdentifying those most affected by boredom\n14\nParagraph A\n15\nParagraph B\n16\nParagraph C\n17\nParagraph D\n18\nParagraph E\n19\nParagraph F\n20\n",
+  "blocks": [
+    {
+      "box": [
+        94.31999969482422,
+        52.91998291015625,
+        125.59500122070312,
+        61.92898178100586
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        93.5999984741211,
+        90.0,
+        269.23681640625,
+        101.53153991699219
+      ],
+      "text": "READING PASSAGE 2\n"
+    },
+    {
+      "box": [
+        93.239990234375,
+        119.8800048828125,
+        568.061767578125,
+        146.8918914794922
+      ],
+      "text": "You should spend about 20 minutes on Questions 14-26, which are based on Reading\nPassage 2 on pages 21 and 22.\n"
+    },
+    {
+      "box": [
+        93.59999084472656,
+        163.79998779296875,
+        185.36407470703125,
+        173.8900909423828
+      ],
+      "text": "Questions 14-19\n"
+    },
+    {
+      "box": [
+        93.59998321533203,
+        192.239990234375,
+        339.34320068359375,
+        204.1318817138672
+      ],
+      "text": "Reading Passage 2 has six paragraphs, A-F.\n"
+    },
+    {
+      "box": [
+        93.5999755859375,
+        220.32000732421875,
+        521.2079467773438,
+        232.57223510742188
+      ],
+      "text": "Choose the correct heading for each paragraph from the list of headings below.\n"
+    },
+    {
+      "box": [
+        93.9599609375,
+        249.1199951171875,
+        473.8896179199219,
+        260.6515197753906
+      ],
+      "text": "Write the correct number, i-viii, in boxes 14—19 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        286.1999816894531,
+        289.79998779296875,
+        380.43353271484375,
+        301.3315124511719
+      ],
+      "text": "List of Headings\n"
+    },
+    {
+      "box": [
+        160.19996643066406,
+        311.3999938964844,
+        487.0441589355469,
+        323.6522521972656
+      ],
+      "text": "i\nThe productive outcomes that may result from boredom\n"
+    },
+    {
+      "box": [
+        160.199951171875,
+        332.6400146484375,
+        414.57049560546875,
+        347.4147644042969
+      ],
+      "text": "ii\n|Whatteachers can do to prevent boredom\n"
+    },
+    {
+      "box": [
+        160.19996643066406,
+        356.0400085449219,
+        442.32122802734375,
+        367.931884765625
+      ],
+      "text": "iii\nAnew explanation and a new cure for boredom\n"
+    },
+    {
+      "box": [
+        160.19996643066406,
+        378.3599853515625,
+        443.34527587890625,
+        390.2518615722656
+      ],
+      "text": "iv\nProblems with a scientific approach to boredom\n"
+    },
+    {
+      "box": [
+        159.47996520996094,
+        401.0400085449219,
+        403.74530029296875,
+        412.931884765625
+      ],
+      "text": "v__\nApotential danger arising from boredom\n"
+    },
+    {
+      "box": [
+        159.47996520996094,
+        423.0,
+        500.0039367675781,
+        435.2522277832031
+      ],
+      "text": "vi\nCreating a system of classification for feelings of boredom\n"
+    },
+    {
+      "box": [
+        159.47994995117188,
+        445.67999267578125,
+        393.3052978515625,
+        457.5718688964844
+      ],
+      "text": "vii\nAge groups most affected by boredom\n"
+    },
+    {
+      "box": [
+        159.47996520996094,
+        468.0,
+        420.08392333984375,
+        480.2522277832031
+      ],
+      "text": "viii\nIdentifying those most affected by boredom\n"
+    },
+    {
+      "box": [
+        93.5999755859375,
+        519.8399658203125,
+        188.61659240722656,
+        531.7318725585938
+      ],
+      "text": "14\nParagraph A\n"
+    },
+    {
+      "box": [
+        93.59998321533203,
+        542.1599731445312,
+        188.2673797607422,
+        554.0518798828125
+      ],
+      "text": "15\nParagraph B\n"
+    },
+    {
+      "box": [
+        93.59998321533203,
+        564.47998046875,
+        188.2637939453125,
+        576.3718872070312
+      ],
+      "text": "16\nParagraph C\n"
+    },
+    {
+      "box": [
+        93.59998321533203,
+        586.7999877929688,
+        188.2673797607422,
+        598.69189453125
+      ],
+      "text": "17\nParagraph D\n"
+    },
+    {
+      "box": [
+        93.59998321533203,
+        609.47998046875,
+        187.8767852783203,
+        621.0115356445312
+      ],
+      "text": "18\nParagraph E\n"
+    },
+    {
+      "box": [
+        93.59998321533203,
+        631.7999877929688,
+        187.19818115234375,
+        643.69189453125
+      ],
+      "text": "19\nParagraph F\n"
+    },
+    {
+      "box": [
+        92.8799819946289,
+        761.0400390625,
+        105.7967758178711,
+        770.4093627929688
+      ],
+      "text": "20\n"
+    }
+  ]
+}

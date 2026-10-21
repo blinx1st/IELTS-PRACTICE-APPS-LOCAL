@@ -1,0 +1,93 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 32,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Test 1\nWRITING TASK 2\nielts-fighter.com\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nThe most important aim of science should be to improve people’s lives.\nTo what extent do you agree or disagree with this statement?\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n30\n>/B p. 128\n",
+  "blocks": [
+    {
+      "box": [
+        53.26226043701172,
+        30.589794158935547,
+        81.6532211303711,
+        38.875343322753906
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        52.182621002197266,
+        57.22096633911133,
+        472.0672912597656,
+        74.15222930908203
+      ],
+      "text": "WRITING TASK 2\nielts-fighter.com\n"
+    },
+    {
+      "box": [
+        52.18263244628906,
+        91.40953826904297,
+        288.0841064453125,
+        102.21672821044922
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        52.54252624511719,
+        117.6807861328125,
+        201.02903747558594,
+        128.12774658203125
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        65.49821472167969,
+        150.78973388671875,
+        438.2981872558594,
+        161.59698486328125
+      ],
+      "text": "The most important aim of science should be to improve people’s lives.\n"
+    },
+    {
+      "box": [
+        65.49820709228516,
+        176.34124755859375,
+        384.98187255859375,
+        187.5087127685547
+      ],
+      "text": "To what extent do you agree or disagree with this statement?\n"
+    },
+    {
+      "box": [
+        52.90242385864258,
+        210.17001342773438,
+        441.77093505859375,
+        233.93215942382812
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        52.54254913330078,
+        249.3969268798828,
+        172.6093292236328,
+        257.68243408203125
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        53.62218475341797,
+        665.7782592773438,
+        148.99041748046875,
+        677.3059692382812
+      ],
+      "text": "30\n>/B p. 128\n"
+    }
+  ]
+}

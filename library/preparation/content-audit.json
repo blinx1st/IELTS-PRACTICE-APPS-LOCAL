@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T13:13:01.216231+00:00",
+  "generatedAt": "2026-10-21T18:15:42.997473+00:00",
   "scope": "All expected local Cambridge test JSON, private keys, referenced files, scoring compatibility; not a complete passage transcription review.",
   "summary": {
     "expectedTests": 32,
@@ -27,7 +27,7 @@
         "cam13-t1-p2-g3"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "169f5ef87ac8c5c38a2cfbf93375f70ffc40663b5e3ba391468e478f1e64b102",
+      "testSha256": "c3b0e3fcb3af49ebbe150725d19f63733a1892172d1f4b285ca6487606cbc162",
       "keySha256": "9898ae2576a7763fd917afbbee8878cfc994e22a18cda107be5808f9ac5eac75"
     },
     {
@@ -44,7 +44,7 @@
         "cam13-t2-p2-g3"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "20c59732d998b44013c249edcab2790a0c60eed585e80734637ee435121d4d83",
+      "testSha256": "cc59eff4b1d5680bbf36bf3fd764f44e69256560cff73401053ca95a7bd434a3",
       "keySha256": "110a7f038827caf886a5a15de47aa7aa5af0a190d7a8ab95ab0170ae38f87719"
     },
     {
@@ -62,7 +62,7 @@
         "cam13-t3-p3-g2"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "3481bfb59dc7c62cfb4f258392f6e798577de00a55e7a911e431aa66d32f060d",
+      "testSha256": "f3daa60f4d0f6ba977e216430e82e99cf052db9b68a68df323a95985e4984b1c",
       "keySha256": "e57e2ac0f07d22b2470989499dd3b40cd8f645382ee619c7585500a484c171f6"
     },
     {
@@ -79,7 +79,7 @@
         "cam13-t4-p2-g1"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "6e86a3cc3e2aae84ffd1ac035f24e55ff6c5deec09a5805c337fa54d1c2ab06d",
+      "testSha256": "5e057d1a4bcdafca2d548694705956b6b72e012f96b1b036bd38f08d621c4355",
       "keySha256": "879a0f9608af454029b811f834f3063bfd1c5f846ae3c9faf658afb5a2b40b55"
     },
     {
@@ -97,7 +97,7 @@
         "cam14-t1-p3-g3"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "d9dfabaa64b8bb39003c4ee8007bf546b0c3e395b4730570e4c0d78084b66890",
+      "testSha256": "4f30e3109a6a0baaf6b0885100f47819b8cf65faff3874d1ed4b42592fac52b0",
       "keySha256": "b1f13d2c1562af9a83877f3fb18bdbaf7ecfbd87d5a1e1f9bd55a8ee8fc5f446"
     },
     {
@@ -115,7 +115,7 @@
         "cam14-t2-p3-g2"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "fa40bcf112c1f7a053858dcd7b7262ba97dad6ebf6fc8b3b9291beb36b642871",
+      "testSha256": "cf5c1e033aa3d5a93ec11bcd0953997eea9e1288610f105191e2e094c18935c3",
       "keySha256": "ed387de35d25b539bfccc2c72fba7e16f9f8abbdc7952d3d9753f2334ddf7159"
     },
     {
@@ -132,7 +132,7 @@
         "cam14-t3-p3-g3"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "f7875ce84876e8f2650950652b4f046ceeb8f947a2b4a17202795c64c3cb3a4a",
+      "testSha256": "e7b81f27eaf35e83b4f8df1d3d1ac99cf76dd00c8194d3c213e48dbaf95de5f0",
       "keySha256": "40af5c4293b7881ef49eaca07b8e65eb4994cb8eccb69a3e0428e8fece41f085"
     },
     {
@@ -149,7 +149,7 @@
         "cam14-t4-p3-g2"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "51208b3ea537bbfe8ce5e1f06925a41ef79241053829367630e9c1eb302c2404",
+      "testSha256": "dbdc05b660bc43bfe0aa0c0bac5cd1d969ccc77374a37d33008f53a8e562af87",
       "keySha256": "5b704662d3d240db5b567cf341f6293e63c23f196a4459c2c9f6b70d03f5d750"
     },
     {
@@ -166,7 +166,7 @@
         "cam15-t1-p1-g3"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "efd3f295ae12c34f50eae967368e1418ea9280a4649184465f4ccb9089dd5c15",
+      "testSha256": "c4420b0ea3978aaec05e1dc590ee2cfa0fa371729aa1c3114f40c7eae7dca83e",
       "keySha256": "76c3995b6836c2ec0a9e85283dcbec7a0fad086a50225c21415c2aaaa82b0f54"
     },
     {
@@ -187,7 +187,7 @@
         35,
         36
       ],
-      "testSha256": "7fac9f4711dc39dbe85ff0b971dff1edddb2719cdda6d9e99bef7bc1f7488a67",
+      "testSha256": "d0809002452b762d2382089087eb8b3600ca306ddaeb8046a05f8b6a14910014",
       "keySha256": "a64712c54c3545fdd68ea85c73abb06ed06bb4bbb3dcc3f5c40f3d38fdfd89eb"
     },
     {
@@ -208,7 +208,7 @@
         35,
         36
       ],
-      "testSha256": "01ec91f85608115ee475961cc045d8d7b0982e036a6121e24e3d6e74d7ed2995",
+      "testSha256": "6c35bb49ed4ff52dc5231ce06efd0cc101d80f4e69856117d972c730bbb2c967",
       "keySha256": "17eb663e96916318df885245e33ae4a3f68ab2fdfe6aa3465d773d7ad35bf1ed"
     },
     {
@@ -231,7 +231,7 @@
         30,
         31
       ],
-      "testSha256": "b42b20e7da6d1926d51cd0b952fa50a5e7cb553f7399d16cf66aeec48aaacd2c",
+      "testSha256": "813591cb9efdf4afbdca75fbe1c65a0b8e16acbf8136c80f43890574e7ccd272",
       "keySha256": "ecb7b6ace9c330b4645c874b76103b874da4359cc900ba631bd053e34ca1e636"
     },
     {
@@ -251,7 +251,7 @@
         33,
         34
       ],
-      "testSha256": "ce62521b9b7f2a570a77f0a2e9c2f3b1ac59083006299275afb3db2bbfb9ec85",
+      "testSha256": "e979f4a6daf7d43814c8e3a73ff51304ba2b49e73e131eece22d2fe0315454dc",
       "keySha256": "f73df144cb48596ca2daf36df6600d69720a83784156b610e6b3f9df47784df0"
     },
     {
@@ -276,7 +276,7 @@
         34,
         35
       ],
-      "testSha256": "ea324942a0e7e6f551a6ca5d6e52af86ce709ca7b23bfec00428ca9c609d1a92",
+      "testSha256": "af5c8a656e8bd71513be40335b78399ffcfdee52b13328f41da5750757e15263",
       "keySha256": "0146b148d7bde3086a6de8b561b26c960d279b6121e4faadcffdbea73fc195b8"
     },
     {
@@ -291,7 +291,7 @@
       },
       "sourceRenderedGroups": [],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "f7d42afc78815aead6294bd2c9b68e89d911dd613471e91533c1618eecbf8e35",
+      "testSha256": "e7090f4f701f7a40e5a7de2636eac1e76e3c7f2987fa7d8c50c5ca8a679e3c3b",
       "keySha256": "7cca777eeb119cc31212b8cea8e54adc240f63ae52a9da05f5954c32a27e2e8b"
     },
     {
@@ -314,7 +314,7 @@
         21,
         22
       ],
-      "testSha256": "a9dd7b676e8608cdbb69c8f2dc190d89f3b7505d599b594262a76b94b4f6aae3",
+      "testSha256": "2d16a846b219e85537e8281ef2f466d131c7ebc4e39e3df02716a7443887c9ec",
       "keySha256": "1224c970d41dec5baaa4b6efb29cf537418a51228944a4935d6b1e6b61be6ede"
     },
     {
@@ -335,7 +335,7 @@
         30,
         31
       ],
-      "testSha256": "db06871fcf9a60566a6b9536cca392fd2507d6c0eb63038f1946e33618d039c6",
+      "testSha256": "08137728c212322da80a300d0d0b5d9a5939b420b7b07a004bad129bb8781ff6",
       "keySha256": "3ebb089b249362051c6817b86d02708910028cc9b13e43eb98c212d4445657bf"
     },
     {
@@ -355,7 +355,7 @@
         39,
         40
       ],
-      "testSha256": "bbfdb71bc40f2e393f000d03935f54c951db198b1a6b8ce46477ea90448414ad",
+      "testSha256": "fe6f903e322afa44f12664ffda16ddb956d967fd0ccb5eff758cf7f343fb166b",
       "keySha256": "7a3ff76db196aad35787e3e33d5811bafd2241b1928c2e79ff9cdfbf8789d206"
     },
     {
@@ -376,7 +376,7 @@
         39,
         40
       ],
-      "testSha256": "c790a36b2a5c304146616df26c8ed904d3f2b5e6a28b0000cf1b79790fa4893a",
+      "testSha256": "9654cc1c987051062ddea84e55c6bd4c52410228ab550e10d6d011ee1d169146",
       "keySha256": "297a9e5c5bcd70999e071f70d0d7600de03ebeabedd282e20452bf66a848573f"
     },
     {
@@ -393,7 +393,7 @@
         "cam17-t4-p1-g2"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "37e1ab10f8609311d8c034ff87867e7c829eb7507c177433a05fa1d59f63f902",
+      "testSha256": "6b1a927fb9bd3c753e6ab8849fd13ab250e8c1de44590701038d1d355c02e365",
       "keySha256": "2ee6ed410a9b08c0f28e38794533b64a9f617a42902c70e02655120d7dd6b86a"
     },
     {
@@ -415,7 +415,7 @@
         "cam18-t1-p3-g2"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "2447167950bc355395852f35cece7153732511ff12932d4a72fa599fed604105",
+      "testSha256": "c23af0c162b33f7ba459c2d7006220ceeef04118e1c20425881c797313de9bb9",
       "keySha256": "20cbd6c34f21c9b1bffecd38b6a62c676f66e5596cdf21a1f92fe1678d62d50b"
     },
     {
@@ -440,7 +440,7 @@
         25,
         26
       ],
-      "testSha256": "6f07d24d07a339fc8bab182fa325cd0354e6fe297a97a8bd29dec9cc5bb4da3d",
+      "testSha256": "e60535b904e9288a069ccb1176b51a5bbbc268db9fdb37b2ab47d130a57f5012",
       "keySha256": "b51f636fdfd29df64ea5c7164dc6676b1da845763d624db2d2b61f671c588fb4"
     },
     {
@@ -467,7 +467,7 @@
         34,
         35
       ],
-      "testSha256": "9d77045214b54b10221df5de6156edd62f451d30c3fe8c59d6651713f457f27d",
+      "testSha256": "09e7c371eb0ac7c41e1f21a543d5ded19e77194e6ca4106f0908368ea5c24209",
       "keySha256": "08c473b5b058a146a13a17a59500c33ff100d9b26e4a5e4c888209bfa1633944"
     },
     {
@@ -494,7 +494,7 @@
         35,
         36
       ],
-      "testSha256": "cdf89128727abc5073eda8cffd74855045090e5b80b38a16a49e10b47af7c8f7",
+      "testSha256": "b5b35728006b7dceab8cd9e5f2abf73cb03580353a0eeefc4cf8e3498fbbf7fc",
       "keySha256": "c5485c8917a0b6cb7f5225cf7829153d8095d4980d1b98974e28160d2b52dae2"
     },
     {
@@ -522,7 +522,7 @@
         35,
         36
       ],
-      "testSha256": "689ed4e6e40f0c711914264eca7b741d29d1cd05c9a868b8a8d32c2fa5856fb6",
+      "testSha256": "eb9d3af0c9715b4079635cb411c288715206bbeeb6acfd2d1c0641b73d7b324b",
       "keySha256": "d55cc06f80c88f3d79f3af7f59cd5dbf53368e6de15d14f88ca1994fea8e2ac2"
     },
     {
@@ -550,7 +550,7 @@
         31,
         32
       ],
-      "testSha256": "228d794bbd3f71dbe51d31043c0875d6c358a2449562010c37ba4f9e1950c79e",
+      "testSha256": "44913fd6afff1b1f526cc7c5aabd235c0ee8cfc5deb5d0db4a36afd0ad5afd05",
       "keySha256": "c6b74c7fb27e0e4c68b11998b3b58b0d65670ec16912d7133545d46fdaf40e97"
     },
     {
@@ -570,7 +570,7 @@
         "cam19-t3-p2-g2"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "367ab98bc6ff25d0c2c61c7171ea439827096c2dce9bb18ba12b2bb68d0ae3c4",
+      "testSha256": "53172c1b764e2ddbc4d12d942849cc5b8933b4fbef2c13e552e22abc373c2c29",
       "keySha256": "41ccddaaad2a987d8393fbd4e95e0e5efd5ae497e5a8ce76031c3c721e998793"
     },
     {
@@ -591,7 +591,7 @@
         "cam19-t4-p3-g2"
       ],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "3027b1d7b3a808854ab4219cb591bf5097964d64502d66320ec59ff94674ca3e",
+      "testSha256": "01eb15504118327b5962cf7d095dd49daa55dd338f4ecc8bc9a0adca1688bbec",
       "keySha256": "ad1c7954bd4798e81da1d846fae94251305129a708de4eac45b241e7f57acb41"
     },
     {
@@ -606,7 +606,7 @@
       },
       "sourceRenderedGroups": [],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "04d0834bf18acee8670e5bb25bd710a8f330271ccdfb9eec9c70bfaec020fad6",
+      "testSha256": "7cd7eac0aa7659cd9e0a14f20c046c6ccb2645231e4f7fdaba1fe29f6403ee5b",
       "keySha256": "0d1268368c15a4b3635c65314944490c4af7e5f19581742ac8d438b9e0d62cf8"
     },
     {
@@ -627,7 +627,7 @@
         36,
         37
       ],
-      "testSha256": "7a5f8b27d490f6f17d78aaf1cfc69d3891044db4290ae67203c9bf234a4355d0",
+      "testSha256": "51948a635053c08fde42e84ecb0ba17014fb7bee2a7f9ab161d2d413bd275ba6",
       "keySha256": "e12c585f9a18b010ac30d624a50e0f8a6c7979f35e4c3607ec6ffa74b3030658"
     },
     {
@@ -642,7 +642,7 @@
       },
       "sourceRenderedGroups": [],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "0f0a33f2ba24ed6be92eec88f96c2e20024807130b4516f128534ebe807ee13e",
+      "testSha256": "168dd73b30ae7b77bea64a103450b78e3fc3153407d8f3d54596adbf5a574b27",
       "keySha256": "dc7a22e83940ee11568a5b7aa449edbf48286206d5df615aefb7f4af1c5163ed"
     },
     {
@@ -657,7 +657,7 @@
       },
       "sourceRenderedGroups": [],
       "emptyExtractedQuestionTexts": [],
-      "testSha256": "4be046db73fc125aba1cde334f0a8c829a64a3543c64604b166fca524603b6ce",
+      "testSha256": "2ddb30ac9d23e0f82a1a14a6a0fc230a9e09493f5754800b694faf1c9a09423c",
       "keySha256": "18e6a675502806e09a0758fa7377a8d87509cf3944c54485494c6b2842eb053f"
     }
   ],

@@ -48,6 +48,8 @@ def stop():
 
 
 def launch(no_browser=False):
+    from check_library import ensure_library
+    ensure_library()
     DATA.mkdir(exist_ok=True)
     python = ROOT / ".venv" / ("Scripts/python.exe" if os.name == "nt" else "bin/python")
     if not python.exists() or not (ROOT / "dist/index.html").exists():

@@ -1,0 +1,174 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 57,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Listening\nQuestions 17 and 18\nChoose TWO letters, A-E.\nWhich TWO benefits for children does Alice think are the most important?\nA _ increased physical activity\nB __ increased sense of independence\nC\nopportunity to learn new games\nD\nopportunity to be part of\na community\nE\nopportunity to make new friends\nQuestions 19 and 20\n:\nChoose TWO letters, A-E.\n|\nWhich TWO results of the King Street experiment surprised Alice?\nA\nmore shoppers\nB__\nimproved safety\nC _\nless air pollution\nD\nmore relaxed atmosphere\nE\nless noise pollution\ni\n|\n|\n|\n|\n>/@ p. 123\np. 108\n55\n",
+  "blocks": [
+    {
+      "box": [
+        470.74982523428054,
+        83.49691089782347,
+        516.9393377698078,
+        94.66498473967722
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        56.14447456922612,
+        121.6463615666566,
+        174.47974002270004,
+        132.454168820804
+      ],
+      "text": "Questions 17 and 18\n"
+    },
+    {
+      "box": [
+        56.14447456922612,
+        150.43839980728538,
+        193.4248918126255,
+        160.88595511811437
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        55.06477313520254,
+        177.071035179867,
+        437.639098412661,
+        188.59936096503918
+      ],
+      "text": "Which TWO benefits for children does Alice think are the most important?\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        198.6650638603386,
+        242.78883903308147,
+        213.07547841399776
+      ],
+      "text": "A _ increased physical activity\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        212.34128202463725,
+        301.2098129963212,
+        267.77746612676833
+      ],
+      "text": "B __ increased sense of independence\nC\nopportunity to learn new games\nD\nopportunity to be part of\na community\nE\nopportunity to make new friends\n"
+    },
+    {
+      "box": [
+        56.864275525241844,
+        310.59411252078297,
+        576.5461556908585,
+        322.12243830595514
+      ],
+      "text": "Questions 19 and 20\n:\n"
+    },
+    {
+      "box": [
+        56.864275525241844,
+        340.10595171742744,
+        194.70615860225212,
+        350.9137736159628
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        333.627743113286,
+        576.556992537934,
+        334.7085282320171
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        56.14447456922612,
+        367.09848756801694,
+        399.74153121639193,
+        379.3473465286018
+      ],
+      "text": "Which TWO results of the King Street experiment surprised Alice?\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        389.7722176825121,
+        186.3708072971404,
+        401.3005434676843
+      ],
+      "text": "A\nmore shoppers\n"
+    },
+    {
+      "box": [
+        82.41720946379988,
+        404.1682368028265,
+        242.0330421715098,
+        457.44466657159984
+      ],
+      "text": "B__\nimproved safety\nC _\nless air pollution\nD\nmore relaxed atmosphere\nE\nless noise pollution\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        531.213105539601,
+        577.258751608008,
+        538.778572081943
+      ],
+      "text": "i\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        539.4908165337818,
+        577.244400107827,
+        549.9383572002229
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        550.6477313520254,
+        577.280366724607,
+        561.4555239617849
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        575.4808643345677,
+        592.756087278945,
+        576.5389506519922,
+        610.4088425444096
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        612.9105140473852,
+        577.2713457816361,
+        619.0349142389017
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        354.86187131574974,
+        772.3464258048671,
+        521.8556931113966,
+        784.5952847654519
+      ],
+      "text": ">/@ p. 123\np. 108\n55\n"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 29,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 1\nWRITING\nWRITING TASK\n1\nYou should spend about 20 minutes on this task.\nThe graph below gives information on the numbers of participants for\ndifferent activities at one social centre in Melbourne, Australia for the period\n2000 to 2020.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\nNumber of participants, by activity 2000-2020\n70\n60\n£\nP|\nA\n50\nFa\n—O— Film club\n2.\niG\noo\ni\n-\n40\n7\n“s\nMartial arts\nG\nent\n-\na.\naie\nAR\n--\n4\nsreeegeeeee Amateur dramatics\nS\n30\na\noo\no\nvenceccsnesonese May,\n4\n---O--~ Table tennis\na\na\na\nral\nE\n20\n_ pyymeaeaceaaa\n=\nx\nMusical performances\n0 oo\n2000\n2005\n2010\n2015\n2020\nYear\n30\n= >|\np. 128\nTham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\nhttps://www.facebook.com/groups/ieltsfighter.support\n",
+  "blocks": [
+    {
+      "box": [
+        47.50930404663086,
+        35.631988525390625,
+        75.54338073730469,
+        43.918373107910156
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        229.6282958984375,
+        69.82433319091797,
+        292.2108459472656,
+        79.55183410644531
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        46.06962966918945,
+        110.85503387451172,
+        167.31912231445312,
+        120.58253479003906
+      ],
+      "text": "WRITING TASK\n1\n"
+    },
+    {
+      "box": [
+        46.06962966918945,
+        138.20889282226562,
+        280.89874267578125,
+        148.656982421875
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        58.30691146850586,
+        171.6813201904297,
+        455.6430969238281,
+        206.24192810058594
+      ],
+      "text": "The graph below gives information on the numbers of participants for\ndifferent activities at one social centre in Melbourne, Australia for the period\n2000 to 2020.\n"
+    },
+    {
+      "box": [
+        58.30692672729492,
+        223.50970458984375,
+        460.67474365234375,
+        246.91448974609375
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        46.069705963134766,
+        270.29913330078125,
+        166.14955139160156,
+        278.5855712890625
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        99.6976318359375,
+        298.0129089355469,
+        422.6890869140625,
+        312.4241027832031
+      ],
+      "text": "Number of participants, by activity 2000-2020\n"
+    },
+    {
+      "box": [
+        74.86324310302734,
+        326.4465026855469,
+        84.86900329589844,
+        333.652099609375
+      ],
+      "text": "70\n"
+    },
+    {
+      "box": [
+        74.50332641601562,
+        353.4404296875,
+        84.86900329589844,
+        360.6460266113281
+      ],
+      "text": "60\n"
+    },
+    {
+      "box": [
+        46.78957748413086,
+        370.35662841796875,
+        455.95263671875,
+        456.7425842285156
+      ],
+      "text": "£\nP|\nA\n50\nFa\n—O— Film club\n2.\niG\noo\ni\n-\n40\n7\n“s\nMartial arts\nG\nent\n-\na.\naie\nAR\n--\n4\nsreeegeeeee Amateur dramatics\nS\n30\na\noo\no\nvenceccsnesonese May,\n4\n---O--~ Table tennis\na\n"
+    },
+    {
+      "box": [
+        48.589176177978516,
+        447.73919677734375,
+        466.7214660644531,
+        473.3089294433594
+      ],
+      "text": "a\na\nral\nE\n20\n_ pyymeaeaceaaa\n=\nx\nMusical performances\n"
+    },
+    {
+      "box": [
+        80.26205444335938,
+        506.7659606933594,
+        333.572998046875,
+        536.6464233398438
+      ],
+      "text": "0 oo\n2000\n2005\n2010\n2015\n2020\n"
+    },
+    {
+      "box": [
+        198.3154754638672,
+        550.3161010742188,
+        218.72286987304688,
+        557.8819580078125
+      ],
+      "text": "Year\n"
+    },
+    {
+      "box": [
+        46.42967224121094,
+        669.4493408203125,
+        141.7578125,
+        685.3015747070312
+      ],
+      "text": "30\n= >|\np. 128\n"
+    },
+    {
+      "box": [
+        146.12722778320312,
+        697.8828735351562,
+        415.60577392578125,
+        707.970703125
+      ],
+      "text": "Tham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\n"
+    },
+    {
+      "box": [
+        156.9248046875,
+        711.1998901367188,
+        402.6634216308594,
+        720.567138671875
+      ],
+      "text": "https://www.facebook.com/groups/ieltsfighter.support\n"
+    }
+  ]
+}

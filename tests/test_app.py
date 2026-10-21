@@ -170,6 +170,21 @@ def test_backup_restore_merge_and_corruption(fixture_data, monkeypatch, tmp_path
     assert c.post("/api/restore", files={"file": ("bad.zip", b"not zip", "application/zip")}).status_code == 422
 
 
+def test_five_highlight_colors_and_notes_survive_save_and_zip(fixture_data, monkeypatch, tmp_path):
+    _, _, c = fixture_data
+    a = start(c, examTiming='untimed')
+    annotations = [{'id': color, 'kind': 'highlight', 'color': color, 'anchor': 'p1-a', 'start': 0, 'end': 4, 'text': 'Text'}
+                   for color in ['yellow', 'orange', 'red', 'green', 'blue']]
+    annotations.append({'id': 'note', 'kind': 'note', 'anchor': 'p1-a', 'start': 0, 'end': 4, 'text': 'Text', 'note': 'Separate note'})
+    a = draft(c, a, answers={'1': 'bulbs'}, annotations=annotations).json()
+    assert c.get(f"/api/attempts/{a['id']}").json()['annotations'] == annotations
+    raw = c.get('/api/backup').content
+    monkeypatch.setattr(server, 'DB', tmp_path/'colors-restored.sqlite3')
+    assert c.post('/api/restore', files={'file': ('backup.zip', raw)}).json()['restored'] == 1
+    restored = c.get(f"/api/attempts/{a['id']}").json()
+    assert restored['annotations'] == annotations and restored['answers'] == {'1': 'bulbs'}
+
+
 def test_backup_includes_source_images_and_rejects_traversal(fixture_data, monkeypatch, tmp_path):
     t, _, c = fixture_data
     assets = server.LIBRARY / "assets"

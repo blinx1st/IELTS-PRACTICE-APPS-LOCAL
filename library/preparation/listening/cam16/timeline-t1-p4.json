@@ -1,0 +1,749 @@
+{
+  "audioSha256": "150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98",
+  "duration": 505.6,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 374.52,
+      "end": 381.59999999999997,
+      "text": " Seeing Stoicism is as relevant today as it was 2000 years ago, thanks to its brilliant",
+      "words": [
+        {
+          "word": " Seeing",
+          "start": 374.52,
+          "end": 374.88
+        },
+        {
+          "word": " Stoicism",
+          "start": 374.88,
+          "end": 375.59999999999997
+        },
+        {
+          "word": " is",
+          "start": 375.59999999999997,
+          "end": 376.18
+        },
+        {
+          "word": " as",
+          "start": 376.18,
+          "end": 376.44
+        },
+        {
+          "word": " relevant",
+          "start": 376.44,
+          "end": 376.79999999999995
+        },
+        {
+          "word": " today",
+          "start": 376.79999999999995,
+          "end": 377.35999999999996
+        },
+        {
+          "word": " as",
+          "start": 377.35999999999996,
+          "end": 377.65999999999997
+        },
+        {
+          "word": " it",
+          "start": 377.65999999999997,
+          "end": 377.71999999999997
+        },
+        {
+          "word": " was",
+          "start": 377.71999999999997,
+          "end": 378.03999999999996
+        },
+        {
+          "word": " 2000",
+          "start": 378.03999999999996,
+          "end": 378.9
+        },
+        {
+          "word": " years",
+          "start": 378.9,
+          "end": 379.34
+        },
+        {
+          "word": " ago,",
+          "start": 379.34,
+          "end": 380.03999999999996
+        },
+        {
+          "word": " thanks",
+          "start": 380.62,
+          "end": 380.7
+        },
+        {
+          "word": " to",
+          "start": 380.7,
+          "end": 380.82
+        },
+        {
+          "word": " its",
+          "start": 380.82,
+          "end": 381.15999999999997
+        },
+        {
+          "word": " brilliant",
+          "start": 381.15999999999997,
+          "end": 381.59999999999997
+        }
+      ]
+    },
+    {
+      "start": 381.59999999999997,
+      "end": 388.65999999999997,
+      "text": " insights into how to lead a good life. At the very root of the thinking, there is a very",
+      "words": [
+        {
+          "word": " insights",
+          "start": 381.59999999999997,
+          "end": 382.34
+        },
+        {
+          "word": " into",
+          "start": 382.34,
+          "end": 383.08
+        },
+        {
+          "word": " how",
+          "start": 383.08,
+          "end": 383.38
+        },
+        {
+          "word": " to",
+          "start": 383.38,
+          "end": 383.58
+        },
+        {
+          "word": " lead",
+          "start": 383.58,
+          "end": 383.78
+        },
+        {
+          "word": " a",
+          "start": 383.78,
+          "end": 384.02
+        },
+        {
+          "word": " good",
+          "start": 384.02,
+          "end": 384.29999999999995
+        },
+        {
+          "word": " life.",
+          "start": 384.29999999999995,
+          "end": 384.85999999999996
+        },
+        {
+          "word": " At",
+          "start": 385.62,
+          "end": 385.78
+        },
+        {
+          "word": " the",
+          "start": 385.78,
+          "end": 385.91999999999996
+        },
+        {
+          "word": " very",
+          "start": 385.91999999999996,
+          "end": 386.24
+        },
+        {
+          "word": " root",
+          "start": 386.24,
+          "end": 386.64
+        },
+        {
+          "word": " of",
+          "start": 386.64,
+          "end": 386.96
+        },
+        {
+          "word": " the",
+          "start": 386.96,
+          "end": 387.09999999999997
+        },
+        {
+          "word": " thinking,",
+          "start": 387.09999999999997,
+          "end": 387.47999999999996
+        },
+        {
+          "word": " there",
+          "start": 388.15999999999997,
+          "end": 388.2
+        },
+        {
+          "word": " is",
+          "start": 388.2,
+          "end": 388.24
+        },
+        {
+          "word": " a",
+          "start": 388.24,
+          "end": 388.35999999999996
+        },
+        {
+          "word": " very",
+          "start": 388.35999999999996,
+          "end": 388.65999999999997
+        }
+      ]
+    },
+    {
+      "start": 388.65999999999997,
+      "end": 396.84,
+      "text": " simple way of living. Control what you can and accept what you can't. This is not as easy",
+      "words": [
+        {
+          "word": " simple",
+          "start": 388.65999999999997,
+          "end": 389.09999999999997
+        },
+        {
+          "word": " way",
+          "start": 389.09999999999997,
+          "end": 389.35999999999996
+        },
+        {
+          "word": " of",
+          "start": 389.35999999999996,
+          "end": 389.56
+        },
+        {
+          "word": " living.",
+          "start": 389.56,
+          "end": 389.91999999999996
+        },
+        {
+          "word": " Control",
+          "start": 390.84,
+          "end": 391.2
+        },
+        {
+          "word": " what",
+          "start": 391.2,
+          "end": 391.59999999999997
+        },
+        {
+          "word": " you",
+          "start": 391.59999999999997,
+          "end": 391.85999999999996
+        },
+        {
+          "word": " can",
+          "start": 391.85999999999996,
+          "end": 392.2
+        },
+        {
+          "word": " and",
+          "start": 392.2,
+          "end": 392.9
+        },
+        {
+          "word": " accept",
+          "start": 392.9,
+          "end": 393.44
+        },
+        {
+          "word": " what",
+          "start": 393.44,
+          "end": 394.03999999999996
+        },
+        {
+          "word": " you",
+          "start": 394.03999999999996,
+          "end": 394.26
+        },
+        {
+          "word": " can't.",
+          "start": 394.26,
+          "end": 394.79999999999995
+        },
+        {
+          "word": " This",
+          "start": 395.52,
+          "end": 395.79999999999995
+        },
+        {
+          "word": " is",
+          "start": 395.79999999999995,
+          "end": 396.26
+        },
+        {
+          "word": " not",
+          "start": 396.26,
+          "end": 396.46
+        },
+        {
+          "word": " as",
+          "start": 396.46,
+          "end": 396.64
+        },
+        {
+          "word": " easy",
+          "start": 396.64,
+          "end": 396.84
+        }
+      ]
+    },
+    {
+      "start": 396.84,
+      "end": 403.46,
+      "text": " as it sounds and will require considerable practice. It can take a lifetime to master.",
+      "words": [
+        {
+          "word": " as",
+          "start": 396.84,
+          "end": 397.02
+        },
+        {
+          "word": " it",
+          "start": 397.02,
+          "end": 397.24
+        },
+        {
+          "word": " sounds",
+          "start": 397.24,
+          "end": 397.68
+        },
+        {
+          "word": " and",
+          "start": 397.68,
+          "end": 398.24
+        },
+        {
+          "word": " will",
+          "start": 398.24,
+          "end": 398.59999999999997
+        },
+        {
+          "word": " require",
+          "start": 398.59999999999997,
+          "end": 399.24
+        },
+        {
+          "word": " considerable",
+          "start": 399.24,
+          "end": 399.94
+        },
+        {
+          "word": " practice.",
+          "start": 399.94,
+          "end": 400.71999999999997
+        },
+        {
+          "word": " It",
+          "start": 401.5,
+          "end": 401.65999999999997
+        },
+        {
+          "word": " can",
+          "start": 401.65999999999997,
+          "end": 401.88
+        },
+        {
+          "word": " take",
+          "start": 401.88,
+          "end": 402.08
+        },
+        {
+          "word": " a",
+          "start": 402.08,
+          "end": 402.28
+        },
+        {
+          "word": " lifetime",
+          "start": 402.28,
+          "end": 402.65999999999997
+        },
+        {
+          "word": " to",
+          "start": 402.65999999999997,
+          "end": 403.06
+        },
+        {
+          "word": " master.",
+          "start": 403.06,
+          "end": 403.46
+        }
+      ]
+    },
+    {
+      "start": 403.46,
+      "end": 411.24,
+      "text": " The Stoics also believed the most important foundation for a good and happy life is not",
+      "words": [
+        {
+          "word": " The",
+          "start": 403.46,
+          "end": 404.64
+        },
+        {
+          "word": " Stoics",
+          "start": 404.64,
+          "end": 405.21999999999997
+        },
+        {
+          "word": " also",
+          "start": 405.21999999999997,
+          "end": 405.9
+        },
+        {
+          "word": " believed",
+          "start": 405.9,
+          "end": 406.32
+        },
+        {
+          "word": " the",
+          "start": 406.32,
+          "end": 406.62
+        },
+        {
+          "word": " most",
+          "start": 406.62,
+          "end": 407.03999999999996
+        },
+        {
+          "word": " important",
+          "start": 407.03999999999996,
+          "end": 407.59999999999997
+        },
+        {
+          "word": " foundation",
+          "start": 407.59999999999997,
+          "end": 408.24
+        },
+        {
+          "word": " for",
+          "start": 408.24,
+          "end": 408.86
+        },
+        {
+          "word": " a",
+          "start": 408.86,
+          "end": 409.0
+        },
+        {
+          "word": " good",
+          "start": 409.0,
+          "end": 409.32
+        },
+        {
+          "word": " and",
+          "start": 409.32,
+          "end": 409.62
+        },
+        {
+          "word": " happy",
+          "start": 409.62,
+          "end": 409.84
+        },
+        {
+          "word": " life",
+          "start": 409.84,
+          "end": 410.52
+        },
+        {
+          "word": " is",
+          "start": 410.52,
+          "end": 410.91999999999996
+        },
+        {
+          "word": " not",
+          "start": 410.91999999999996,
+          "end": 411.24
+        }
+      ]
+    },
+    {
+      "start": 411.24,
+      "end": 418.41999999999996,
+      "text": " money, fame, power or pleasure, but having a disciplined and principled character.",
+      "words": [
+        {
+          "word": " money,",
+          "start": 411.24,
+          "end": 411.84
+        },
+        {
+          "word": " fame,",
+          "start": 412.44,
+          "end": 412.44
+        },
+        {
+          "word": " power",
+          "start": 412.7,
+          "end": 413.12
+        },
+        {
+          "word": " or",
+          "start": 413.12,
+          "end": 413.5
+        },
+        {
+          "word": " pleasure,",
+          "start": 413.5,
+          "end": 414.02
+        },
+        {
+          "word": " but",
+          "start": 414.82,
+          "end": 415.03999999999996
+        },
+        {
+          "word": " having",
+          "start": 415.03999999999996,
+          "end": 415.46
+        },
+        {
+          "word": " a",
+          "start": 415.46,
+          "end": 415.88
+        },
+        {
+          "word": " disciplined",
+          "start": 415.88,
+          "end": 416.28
+        },
+        {
+          "word": " and",
+          "start": 416.28,
+          "end": 417.03999999999996
+        },
+        {
+          "word": " principled",
+          "start": 417.03999999999996,
+          "end": 417.56
+        },
+        {
+          "word": " character.",
+          "start": 417.56,
+          "end": 418.41999999999996
+        }
+      ]
+    },
+    {
+      "start": 419.4,
+      "end": 423.28,
+      "text": " Something which seems to resonate with many people today.",
+      "words": [
+        {
+          "word": " Something",
+          "start": 419.4,
+          "end": 419.79999999999995
+        },
+        {
+          "word": " which",
+          "start": 419.79999999999995,
+          "end": 420.21999999999997
+        },
+        {
+          "word": " seems",
+          "start": 420.21999999999997,
+          "end": 420.53999999999996
+        },
+        {
+          "word": " to",
+          "start": 420.53999999999996,
+          "end": 420.74
+        },
+        {
+          "word": " resonate",
+          "start": 420.74,
+          "end": 421.17999999999995
+        },
+        {
+          "word": " with",
+          "start": 421.17999999999995,
+          "end": 421.9
+        },
+        {
+          "word": " many",
+          "start": 421.9,
+          "end": 422.17999999999995
+        },
+        {
+          "word": " people",
+          "start": 422.17999999999995,
+          "end": 422.59999999999997
+        },
+        {
+          "word": " today.",
+          "start": 422.59999999999997,
+          "end": 423.28
+        }
+      ]
+    },
+    {
+      "start": 424.71999999999997,
+      "end": 426.67999999999995,
+      "text": " That is the end of Part 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 424.71999999999997,
+          "end": 424.9
+        },
+        {
+          "word": " is",
+          "start": 424.9,
+          "end": 425.12
+        },
+        {
+          "word": " the",
+          "start": 425.12,
+          "end": 425.26
+        },
+        {
+          "word": " end",
+          "start": 425.26,
+          "end": 425.53999999999996
+        },
+        {
+          "word": " of",
+          "start": 425.53999999999996,
+          "end": 425.79999999999995
+        },
+        {
+          "word": " Part",
+          "start": 425.79999999999995,
+          "end": 426.12
+        },
+        {
+          "word": " 4.",
+          "start": 426.12,
+          "end": 426.67999999999995
+        }
+      ]
+    },
+    {
+      "start": 426.67999999999995,
+      "end": 430.86,
+      "text": " You now have one minute to check your answers to Part 4.",
+      "words": [
+        {
+          "word": " You",
+          "start": 426.67999999999995,
+          "end": 427.36
+        },
+        {
+          "word": " now",
+          "start": 427.36,
+          "end": 427.64
+        },
+        {
+          "word": " have",
+          "start": 427.64,
+          "end": 427.94
+        },
+        {
+          "word": " one",
+          "start": 427.94,
+          "end": 428.24
+        },
+        {
+          "word": " minute",
+          "start": 428.24,
+          "end": 428.5
+        },
+        {
+          "word": " to",
+          "start": 428.5,
+          "end": 428.9
+        },
+        {
+          "word": " check",
+          "start": 428.9,
+          "end": 429.2
+        },
+        {
+          "word": " your",
+          "start": 429.2,
+          "end": 429.41999999999996
+        },
+        {
+          "word": " answers",
+          "start": 429.41999999999996,
+          "end": 429.79999999999995
+        },
+        {
+          "word": " to",
+          "start": 429.79999999999995,
+          "end": 430.14
+        },
+        {
+          "word": " Part",
+          "start": 430.14,
+          "end": 430.4
+        },
+        {
+          "word": " 4.",
+          "start": 430.4,
+          "end": 430.86
+        }
+      ]
+    },
+    {
+      "start": 478.14,
+      "end": 479.53999999999996,
+      "text": " You",
+      "words": [
+        {
+          "word": " You",
+          "start": 478.14,
+          "end": 479.53999999999996
+        }
+      ]
+    },
+    {
+      "start": 490.79999999999995,
+      "end": 493.62,
+      "text": " That is the end of the listing test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 490.79999999999995,
+          "end": 491.24
+        },
+        {
+          "word": " is",
+          "start": 491.24,
+          "end": 491.46
+        },
+        {
+          "word": " the",
+          "start": 491.46,
+          "end": 491.59999999999997
+        },
+        {
+          "word": " end",
+          "start": 491.59999999999997,
+          "end": 491.84
+        },
+        {
+          "word": " of",
+          "start": 491.84,
+          "end": 492.06
+        },
+        {
+          "word": " the",
+          "start": 492.06,
+          "end": 492.21999999999997
+        },
+        {
+          "word": " listing",
+          "start": 492.21999999999997,
+          "end": 492.4
+        },
+        {
+          "word": " test.",
+          "start": 492.4,
+          "end": 493.62
+        }
+      ]
+    }
+  ]
+}

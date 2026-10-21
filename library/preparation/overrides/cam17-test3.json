@@ -3,7 +3,7 @@
   "book": 17,
   "test": 3,
   "title": "Cambridge 17 · Test 3",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Reading passages and all question blocks compared visually with the supplied scan; paragraph labels, spacing, column order, answer choices and completion text corrected. Original Rocha table retained as a local illustration with native answer fields.",
@@ -94,7 +94,64 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The thylacine\n\nAppearance and behaviour\n• looked rather like a dog\n• had a series of stripes along its body and tail\n• ate an entirely ",
+                  {
+                    "number": 1
+                  },
+                  " diet\n• probably depended mainly on ",
+                  {
+                    "number": 2
+                  },
+                  " when hunting\n• young spent first months of life inside its mother's ",
+                  {
+                    "number": 3
+                  },
+                  "\n\nDecline and extinction\n• last evidence in mainland Australia is a 3,100-year-old ",
+                  {
+                    "number": 4
+                  },
+                  "\n• probably went extinct in mainland Australia due to animals known as dingoes\n• reduction in ",
+                  {
+                    "number": 5
+                  },
+                  " and available sources of food were partly responsible for decline in Tasmania"
+                ],
+                "anchors": [
+                  "cam17-t3-p1-g1-body-0",
+                  "",
+                  "cam17-t3-p1-g1-body-147",
+                  "",
+                  "cam17-t3-p1-g1-body-195",
+                  "",
+                  "cam17-t3-p1-g1-body-276",
+                  "",
+                  "cam17-t3-p1-g1-body-371",
+                  "",
+                  "cam17-t3-p1-g1-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam17-t3-p1-g2",
@@ -416,7 +473,52 @@
             }
           ],
           "wordLimit": 2,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "One advantage of palm oil for manufacturers is that it stays ",
+                  {
+                    "number": 23
+                  },
+                  " even when not refrigerated."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The ",
+                  {
+                    "number": 24
+                  },
+                  " is the best known of the animals suffering habitat loss as a result of the spread of oil palm plantations."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "As one of its criteria for the certification of sustainable palm oil, the RSPO insists that growers check ",
+                  {
+                    "number": 25
+                  },
+                  " on a routine basis."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Ellwood and his researchers are looking into whether the bird's nest fern could restore ",
+                  {
+                    "number": 26
+                  },
+                  " in areas where oil palm trees are grown."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -732,7 +834,64 @@
               "value": "J",
               "label": "construction guidelines"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The bedrock myth\n\nIn chapter seven, Barr indicates how the lack of bedrock close to the surface does not explain why skyscrapers are absent from ",
+                  {
+                    "number": 36
+                  },
+                  ". He points out that although the cost of foundations increases when bedrock is deep below the surface, this cannot be regarded as ",
+                  {
+                    "number": 37
+                  },
+                  ", especially when compared to ",
+                  {
+                    "number": 38
+                  },
+                  ".\n\nA particularly enjoyable part of the chapter was Barr's account of how foundations are built. He describes not only how ",
+                  {
+                    "number": 39
+                  },
+                  " are made possible by the use of caissons, but he also discusses their ",
+                  {
+                    "number": 40
+                  },
+                  ". The chapter is well researched but relatively easy to understand."
+                ],
+                "anchors": [
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body",
+                  "",
+                  "cam17-t3-p3-g3-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  158,
+                  0,
+                  302,
+                  0,
+                  345,
+                  0,
+                  481,
+                  0,
+                  565
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

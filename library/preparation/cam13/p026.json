@@ -1,0 +1,147 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 26,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\nsvestions 32-37\n FB.com/LouisQuangVo\nComplete each sentence with the correct ending, A-G below.\nWnte the correct letter, A-G, in boxes 32-37 on your answer sheet.\n32\nSimon Colton says it is important to consider the long-term view when\n33\nDavid Cope’s EMI software surprised people by\n3\nGeraint Wiggins criticised Cope for not\n35\nDouglas Hofstadter claimed that EMI was\n36\nAudiences who had listened to EMI’s music became angry after\n37\nThe participants in David Moffat’s study had to assess music without\nList of Ideas\nA\ngenerating work that was virtually indistinguishable from that of humans.\nB_\nknowing whether it was the work of humans or software.\nC\nproducing work entirely dependent on the imagination of its creator.\nDs\ncomparing the artistic achievements of humans and computers.\nE\nrevealing the technical details of his program.\nF\npersuading the public to appreciate computer art.\nG\ndiscovering that it was the product of a computer program.\n",
+  "blocks": [
+    {
+      "box": [
+        507.239990234375,
+        59.4000244140625,
+        553.98583984375,
+        72.01260375976562
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        57.239990234375,
+        93.96002197265625,
+        305.92803955078125,
+        109.09513854980469
+      ],
+      "text": "svestions 32-37\n FB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        56.87998962402344,
+        124.20001220703125,
+        398.246337890625,
+        139.3351287841797
+      ],
+      "text": "Complete each sentence with the correct ending, A-G below.\n"
+    },
+    {
+      "box": [
+        56.8800048828125,
+        154.08001708984375,
+        432.64434814453125,
+        168.8547821044922
+      ],
+      "text": "Wnte the correct letter, A-G, in boxes 32-37 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        55.44000244140625,
+        183.5999755859375,
+        473.6016845703125,
+        199.0955047607422
+      ],
+      "text": "32\nSimon Colton says it is important to consider the long-term view when\n"
+    },
+    {
+      "box": [
+        54.720001220703125,
+        206.6400146484375,
+        349.1496276855469,
+        243.7340087890625
+      ],
+      "text": "33\nDavid Cope’s EMI software surprised people by\n3\nGeraint Wiggins criticised Cope for not\n"
+    },
+    {
+      "box": [
+        54.36000061035156,
+        253.08001708984375,
+        314.175537109375,
+        265.3322448730469
+      ],
+      "text": "35\nDouglas Hofstadter claimed that EMI was\n"
+    },
+    {
+      "box": [
+        54.36000061035156,
+        276.1199951171875,
+        438.6239318847656,
+        291.975830078125
+      ],
+      "text": "36\nAudiences who had listened to EMI’s music became angry after\n"
+    },
+    {
+      "box": [
+        54.0,
+        299.1600036621094,
+        464.57830810546875,
+        313.9347839355469
+      ],
+      "text": "37\nThe participants in David Moffat’s study had to assess music without\n"
+    },
+    {
+      "box": [
+        265.32000732421875,
+        343.44000244140625,
+        337.8780212402344,
+        353.89044189453125
+      ],
+      "text": "List of Ideas\n"
+    },
+    {
+      "box": [
+        79.91999816894531,
+        364.32000732421875,
+        511.3296203613281,
+        379.4551086425781
+      ],
+      "text": "A\ngenerating work that was virtually indistinguishable from that of humans.\n"
+    },
+    {
+      "box": [
+        80.27999877929688,
+        387.3599853515625,
+        421.27020263671875,
+        400.69329833984375
+      ],
+      "text": "B_\nknowing whether it was the work of humans or software.\n"
+    },
+    {
+      "box": [
+        79.55999755859375,
+        410.3999938964844,
+        482.96148681640625,
+        425.53509521484375
+      ],
+      "text": "C\nproducing work entirely dependent on the imagination of its creator.\n"
+    },
+    {
+      "box": [
+        79.55999755859375,
+        433.44000244140625,
+        461.1778564453125,
+        471.6151123046875
+      ],
+      "text": "Ds\ncomparing the artistic achievements of humans and computers.\nE\nrevealing the technical details of his program.\n"
+    },
+    {
+      "box": [
+        78.48001098632812,
+        479.5199890136719,
+        431.8271179199219,
+        518.4158935546875
+      ],
+      "text": "F\npersuading the public to appreciate computer art.\nG\ndiscovering that it was the product of a computer program.\n"
+    }
+  ]
+}

@@ -64,7 +64,7 @@ Listening có thang band riêng: 16/18/23/26/30/32/35/37/39 câu tương ứng b
 
 ## Highlight và ghi chú
 
-Bôi chọn chữ rồi chọn **Highlight**. Lần đầu có màu **vàng**; phần chồng lần hai chuyển **cam**, lần ba trở đi **đỏ**. Chỉ phần giao nhau tăng màu, phần mới vẫn vàng. Để xóa màu, chọn vùng chữ rồi bấm **Clear highlight**; có thể xóa một phần mà không ảnh hưởng phần còn lại.
+Bôi chọn chữ rồi bấm một trong năm nút màu: **Yellow (vàng), Orange (cam), Red (đỏ), Green (xanh lá), Blue (xanh biển)**. Bôi lại bằng màu khác chỉ thay màu trong vùng đang chọn, không tự tăng mức. Chọn chữ rồi bấm **Clear highlight** để xóa toàn bộ hoặc một phần màu. Highlight cũ vẫn giữ màu vàng/cam/đỏ tương ứng.
 
 **Note** độc lập với highlight: chọn chữ rồi bấm Note để nhập ghi chú. Vùng có note được gạch chân xanh; bấm vào đó để xem, sửa hoặc xóa note. Highlight không mở hộp note, và xóa màu không xóa ghi chú. Nút **Notes** chỉ liệt kê ghi chú. Highlight/ghi chú cũ vẫn được đọc và giữ lại.
 
@@ -94,7 +94,13 @@ Mở **Sao lưu → Xuất dữ liệu** để tải ZIP. Tệp chứa toàn b�
 
 Để phục hồi, chọn **Khôi phục bản sao lưu → Chọn tệp ZIP**. App ghép các lượt làm, giữ lại bản trên máy nếu bản đó mới hơn. Không cần xóa lịch sử trước khi khôi phục.
 
-Để chuyển toàn bộ app sang máy khác, chép mã nguồn và thư mục `library`, chạy thiết lập lần đầu trên máy mới, rồi khôi phục ZIP. Không cần chép `node_modules` hoặc `.venv`. Reading có hạn nộp giữ hạn ban đầu sau khôi phục. Listening dừng và chờ Resume, không tự phát.
+Để dùng trên máy khác, clone repository đã có đủ `library`, chạy `CAI_DAT_LAN_DAU.cmd` khi có Internet, rồi khôi phục ZIP nếu muốn chuyển lịch sử học. Không cần PDF nguồn, cache OCR, `node_modules` hoặc `.venv` từ máy cũ. Reading có hạn nộp giữ hạn ban đầu sau khôi phục. Listening dừng và chờ Resume, không tự phát.
+
+## Chọn bố cục Listening và điền Reading
+
+Thanh công cụ Listening có **Layout: Auto / 1 column / 2 columns**, ghi nhớ trên trình duyệt. Auto chia nhóm chọn đáp án/matching từ bốn câu trở lên thành hai nửa: nửa đầu bên trái, nửa sau bên phải. Các nhóm có bảng, đoạn điền liên tục, flow-chart, bản đồ hoặc lựa chọn chung nhiều đáp án giữ nguyên. Dưới 1.100 px, app dùng một cột và khôi phục hai cột khi đủ rộng. Đổi bố cục không đổi vị trí audio hoặc đáp án.
+
+Reading có ô nhập ngay trong chỗ trống của notes, summary và sentences. Nếu đề cung cấp ngân hàng từ/cụm từ, chọn ngay trong dropdown tại chỗ trống. Đọc giới hạn từ trong hướng dẫn; nút **Source** mở ảnh gốc. Số câu, cờ, tự lưu và bước chấm vẫn hoạt động như trước.
 
 Nếu sao chép trực tiếp SQLite thay cho ZIP, hãy dừng app trước và chép cả thư mục `data`; không chỉ chép riêng `.sqlite3` khi dịch vụ đang chạy vì còn tệp WAL.
 

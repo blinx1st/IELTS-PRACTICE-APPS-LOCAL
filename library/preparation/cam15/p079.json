@@ -1,0 +1,165 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 79,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "|\n-\nListening\nPART 3\nQuestions 21-30\nQuestions 21-24\nChoose the correct letter, A, B or C.\nPresentation about refrigeration\n21\nWhat did Annie discover from reading about icehouses?\n;\nA\nwhy they were first created\nB\nhow the ice was kept frozen\nC\nwhere they were located\n22\nWhat point does Annie make about refrigeration in ancient Rome?\nA\nIt became a commercial business.\n:\nB\nIt used snow from nearby.\nC\nIt took a long time to become popular.\n23\nIn connection with modern refrigerators, both Annie and Jack are worried about\nA __ the complexity of the technology.\n;\nB__ the fact that some are disposed of irresponsibly.\n|\nC\nthe large number that quickly break down.\n|\n24\nWhat do Jack and Annie agree regarding domestic fridges?\nI\nA\nThey are generally good value for money.\nB_\nThere are plenty of useful variations.\n|\nC\nThey are more useful than other domestic appliances.\n|\n|\n|\n‘|\n|\ni\n|\n77\n:\n",
+  "blocks": [
+    {
+      "box": [
+        104.01123814427147,
+        27.352436328597342,
+        542.6759123331307,
+        39.60128796698825
+      ],
+      "text": "|\n-\n"
+    },
+    {
+      "box": [
+        467.15082045420195,
+        84.9365128098549,
+        513.8426354960634,
+        96.10458665170866
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        51.82566883313181,
+        119.8468591766173,
+        250.2747865489105,
+        132.09571813720217
+      ],
+      "text": "PART 3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        51.82566883313181,
+        148.27899693923823,
+        147.46923550810848,
+        159.08680419338563
+      ],
+      "text": "Questions 21-24\n"
+    },
+    {
+      "box": [
+        51.82566883313181,
+        177.071035179867,
+        237.07723484881123,
+        188.95962755274553
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        160.1557127134976,
+        208.3823767665508,
+        402.563065440748,
+        224.23382838225953
+      ],
+      "text": "Presentation about refrigeration\n"
+    },
+    {
+      "box": [
+        50.745967399108224,
+        232.4957087930774,
+        576.5425824602013,
+        294.4108337187469
+      ],
+      "text": "21\nWhat did Annie discover from reading about icehouses?\n;\nA\nwhy they were first created\nB\nhow the ice was kept frozen\nC\nwhere they were located\n"
+    },
+    {
+      "box": [
+        50.386066921100365,
+        304.1159039166415,
+        576.5137623047358,
+        366.3912807856294
+      ],
+      "text": "22\nWhat point does Annie make about refrigeration in ancient Rome?\nA\nIt became a commercial business.\n:\nB\nIt used snow from nearby.\nC\nIt took a long time to become popular.\n"
+    },
+    {
+      "box": [
+        50.386066921100365,
+        375.7360990402056,
+        576.5317456131258,
+        438.011124443883
+      ],
+      "text": "23\nIn connection with modern refrigerators, both Annie and Jack are worried about\nA __ the complexity of the technology.\n;\nB__ the fact that some are disposed of irresponsibly.\n|\nC\nthe large number that quickly break down.\n"
+    },
+    {
+      "box": [
+        50.02616644309251,
+        440.8780855596282,
+        576.5461556908585,
+        481.55908228283397
+      ],
+      "text": "|\n24\nWhat do Jack and Annie agree regarding domestic fridges?\nI\nA\nThey are generally good value for money.\n"
+    },
+    {
+      "box": [
+        76.29890133766627,
+        483.3463419645556,
+        576.5515448256205,
+        517.9172899964259
+      ],
+      "text": "B_\nThere are plenty of useful variations.\n|\nC\nThey are more useful than other domestic appliances.\n|\n"
+    },
+    {
+      "box": [
+        574.4011629005441,
+        514.2977830732316,
+        576.5407665560967,
+        524.7453237396726
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        575.8407648125756,
+        619.0288221735187,
+        577.9929626417564,
+        628.3956070100046
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        574.761063378552,
+        658.2579742763755,
+        576.5390092295439,
+        662.9413666946184
+      ],
+      "text": "‘|\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        664.0163819245013,
+        577.9821843722327,
+        670.501092636888
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        574.761063378552,
+        693.1683206431379,
+        576.5461556908585,
+        712.2509539470419
+      ],
+      "text": "i\n|\n"
+    },
+    {
+      "box": [
+        500.26166443092507,
+        774.5058286729142,
+        576.5317456131258,
+        783.1520510452114
+      ],
+      "text": "77\n:\n"
+    }
+  ]
+}

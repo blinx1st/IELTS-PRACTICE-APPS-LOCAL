@@ -3,7 +3,7 @@
   "book": 15,
   "test": 2,
   "title": "Cambridge 15 · Test 2",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots compared with the supplied scan. Completion text, options, limits and question numbering corrected. Two original table layouts retained with native answer fields.",
@@ -194,7 +194,80 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Guard rails\n\nGuard rails were introduced on British roads to improve the ",
+                  {
+                    "number": 7
+                  },
+                  " of pedestrians, while ensuring that the movement of ",
+                  {
+                    "number": 8
+                  },
+                  " is not disrupted. Pedestrians are led to access points, and encouraged to cross one ",
+                  {
+                    "number": 9
+                  },
+                  " at a time.\n\nAn unintended effect is to create psychological difficulties in crossing the road, particularly for less ",
+                  {
+                    "number": 10
+                  },
+                  " people. Another result is that some people cross the road in a ",
+                  {
+                    "number": 11
+                  },
+                  " way. The guard rails separate ",
+                  {
+                    "number": 12
+                  },
+                  ", and make it more difficult to introduce forms of transport that are ",
+                  {
+                    "number": 13
+                  },
+                  "."
+                ],
+                "anchors": [
+                  "cam15-t2-p1-g2-body-0",
+                  "",
+                  "cam15-t2-p1-g2-body-85",
+                  "",
+                  "cam15-t2-p1-g2-body-150",
+                  "",
+                  "cam15-t2-p1-g2-body-247",
+                  "",
+                  "cam15-t2-p1-g2-body-378",
+                  "",
+                  "cam15-t2-p1-g2-body-455",
+                  "",
+                  "cam15-t2-p1-g2-body-499",
+                  "",
+                  "cam15-t2-p1-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -373,7 +446,64 @@
             }
           ],
           "wordLimit": 2,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The woolly mammoth revival project\n\nProfessor George Church and his team are trying to identify the ",
+                  {
+                    "number": 18
+                  },
+                  " which enabled mammoths to live in the tundra. The findings could help preserve the mammoth's close relative, the endangered Asian elephant.\n\nAccording to Church, introducing Asian elephants to the tundra would involve certain physical adaptations to minimise ",
+                  {
+                    "number": 19
+                  },
+                  ". To survive in the tundra, the species would need to have the mammoth-like features of thicker hair, ",
+                  {
+                    "number": 20
+                  },
+                  " of a reduced size and more ",
+                  {
+                    "number": 21
+                  },
+                  ".\n\nRepopulating the tundra with mammoths or Asian elephant/mammoth hybrids would also have an impact on the environment, which could help to reduce temperatures and decrease ",
+                  {
+                    "number": 22
+                  },
+                  "."
+                ],
+                "anchors": [
+                  "cam15-t2-p2-g2-body-0",
+                  "",
+                  "cam15-t2-p2-g2-body-113",
+                  "",
+                  "cam15-t2-p2-g2-body-386",
+                  "",
+                  "cam15-t2-p2-g2-body-501",
+                  "",
+                  "cam15-t2-p2-g2-body-542",
+                  "",
+                  "cam15-t2-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam15-t2-p2-g3",
@@ -693,7 +823,64 @@
               "value": "H",
               "label": "amusing"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The benefits of humour\n\nIn one study at Australian National University, randomly chosen groups of participants were shown one of three videos, each designed to generate a different kind of ",
+                  {
+                    "number": 32
+                  },
+                  ". When all participants were then given a deliberately frustrating task to do, it was found that those who had watched the ",
+                  {
+                    "number": 33
+                  },
+                  " video persisted with the task for longer and tried harder to accomplish the task than either of the other two groups.\n\nA second study in which participants were asked to perform a particularly ",
+                  {
+                    "number": 34
+                  },
+                  " task produced similar results. According to researchers David Cheng and Lu Wang, these findings suggest that humour not only reduces ",
+                  {
+                    "number": 35
+                  },
+                  " and helps build social connections but it may also have a ",
+                  {
+                    "number": 36
+                  },
+                  " effect on the body and mind."
+                ],
+                "anchors": [
+                  "cam15-t2-p3-g2-body",
+                  "",
+                  "cam15-t2-p3-g2-body",
+                  "",
+                  "cam15-t2-p3-g2-body",
+                  "",
+                  "cam15-t2-p3-g2-body",
+                  "",
+                  "cam15-t2-p3-g2-body",
+                  "",
+                  "cam15-t2-p3-g2-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  202,
+                  0,
+                  338,
+                  0,
+                  545,
+                  0,
+                  692,
+                  0,
+                  764
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam15-t2-p3-g3",

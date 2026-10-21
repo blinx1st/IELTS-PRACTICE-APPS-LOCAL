@@ -1,0 +1,156 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 70,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "DhakA\nah ve\nBE, EAURERORAER\nEs\nAra\niia 1718867188\nQuestions 15-20\nWhich way of reducing staff turnover was used in each of the following hotels?\nWrite the correct letter, A,\nB or C, next to Questions 15-20.\nWays of reducing staff turnover\nA__\nimproving relationships and teamwork\nB__\noffering incentives and financial benefits\nC\nproviding career opportunities\nHotels\n15\nThe Sun Club\nsvreereneneemtas\n16\nThe Portland\neyreerepeuagereen\n17\nBluewater Hotels\npaanveaveqsangitems\n18\nPentlow Hotels\nsesceenneneunect\n19\nGreen Planet\nsecomecceonarctere\n20\nThe Amesbury\nseasesennscorisi\n>| p. 125\np.114|\n77\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        511.4405517578125,
+        48.249000549316406
+      ],
+      "text": "DhakA\nah ve\nBE, EAURERORAER\nEs\nAra\niia 1718867188\n"
+    },
+    {
+      "box": [
+        61.907535552978516,
+        82.06343078613281,
+        158.65609741210938,
+        92.15149688720703
+      ],
+      "text": "Questions 15-20\n"
+    },
+    {
+      "box": [
+        61.18768310546875,
+        110.49771881103516,
+        470.0115051269531,
+        121.30638885498047
+      ],
+      "text": "Which way of reducing staff turnover was used in each of the following hotels?\n"
+    },
+    {
+      "box": [
+        62.26744842529297,
+        138.21212768554688,
+        369.4114685058594,
+        148.66046142578125
+      ],
+      "text": "Write the correct letter, A,\nB or C, next to Questions 15-20.\n"
+    },
+    {
+      "box": [
+        204.078857421875,
+        177.4442596435547,
+        381.5230712890625,
+        188.25286865234375
+      ],
+      "text": "Ways of reducing staff turnover\n"
+    },
+    {
+      "box": [
+        173.4850311279297,
+        197.60011291503906,
+        397.3024597167969,
+        211.29107666015625
+      ],
+      "text": "A__\nimproving relationships and teamwork\n"
+    },
+    {
+      "box": [
+        174.20489501953125,
+        220.27561950683594,
+        408.3735046386719,
+        231.4445037841797
+      ],
+      "text": "B__\noffering incentives and financial benefits\n"
+    },
+    {
+      "box": [
+        173.844970703125,
+        242.23118591308594,
+        354.61859130859375,
+        253.039794921875
+      ],
+      "text": "C\nproviding career opportunities\n"
+    },
+    {
+      "box": [
+        87.82229614257812,
+        291.9011535644531,
+        122.28902435302734,
+        300.5480651855469
+      ],
+      "text": "Hotels\n"
+    },
+    {
+      "box": [
+        61.90752029418945,
+        313.4967956542969,
+        300.4385681152344,
+        322.1436462402344
+      ],
+      "text": "15\nThe Sun Club\nsvreereneneemtas\n"
+    },
+    {
+      "box": [
+        61.90752029418945,
+        335.0924377441406,
+        300.35235595703125,
+        343.7393493652344
+      ],
+      "text": "16\nThe Portland\neyreerepeuagereen\n"
+    },
+    {
+      "box": [
+        61.90752029418945,
+        357.0480041503906,
+        299.9636535644531,
+        365.6949157714844
+      ],
+      "text": "17\nBluewater Hotels\npaanveaveqsangitems\n"
+    },
+    {
+      "box": [
+        61.90752029418945,
+        378.28375244140625,
+        300.4385681152344,
+        386.9306335449219
+      ],
+      "text": "18\nPentlow Hotels\nsesceenneneunect\n"
+    },
+    {
+      "box": [
+        61.90752029418945,
+        399.87939453125,
+        300.1793212890625,
+        408.8865966796875
+      ],
+      "text": "19\nGreen Planet\nsecomecceonarctere\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        421.47503662109375,
+        300.3521728515625,
+        432.6439514160156
+      ],
+      "text": "20\nThe Amesbury\nseasesennscorisi\n"
+    },
+    {
+      "box": [
+        362.806884765625,
+        729.2130126953125,
+        525.1268920898438,
+        741.4627685546875
+      ],
+      "text": ">| p. 125\np.114|\n77\n"
+    }
+  ]
+}

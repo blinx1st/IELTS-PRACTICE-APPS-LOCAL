@@ -3,7 +3,7 @@
   "book": 19,
   "test": 2,
   "title": "Cambridge 19 · Test 2",
-  "version": "2026-10-21.5.layout1",
+  "version": "2026-10-21.5.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots in this book were compared with the supplied PDFs. Source-image task layouts and native options, numbering and word limits were checked separately.",
@@ -104,7 +104,142 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Britain’s Industrial Revolution"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Steam power"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Newcomen’s steam engine was used in mines to remove water."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "In Watt and Boulton’s steam engine, the movement of the ",
+                  {
+                    "number": 1
+                  },
+                  " was linked to a gear system."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "A greater supply of ",
+                  {
+                    "number": 2
+                  },
+                  " was required to power steam engines."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Textile industry"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Before the Industrial Revolution, spinners and weavers worked at home and in ",
+                  {
+                    "number": 3
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Not as much ",
+                  {
+                    "number": 4
+                  },
+                  " was needed to produce cloth once the spinning jenny and power loom were invented."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Iron industry"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Smelting of iron ore with coke resulted in material that was better ",
+                  {
+                    "number": 5
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Demand for iron increased with the growth of the ",
+                  {
+                    "number": 6
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Communications"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Cooke and Wheatstone patented the first telegraphy system."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The telegraphy system was used to prevent locomotives colliding."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Urbanisation"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "Small towns turned into cities very quickly."
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "The new cities were dirty, crowded and lacked sufficient ",
+                  {
+                    "number": 7
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam19-t2-p1-g2",
@@ -331,7 +466,52 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Performance stress involves many demands on the athlete, for example, coping with the possible risk of ",
+                  {
+                    "number": 19
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cortisol can cause tennis players to produce fewer good ",
+                  {
+                    "number": 20
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Psychologists can help athletes to view their physiological responses as the effect of a positive feeling such as ",
+                  {
+                    "number": 21
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "",
+                  {
+                    "number": 22
+                  },
+                  " is an example of a psychological technique which can reduce an athlete’s stress responses."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam19-t2-p2-g3",
@@ -586,7 +766,54 @@
               "label": "intent"
             }
           ],
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Maryam Mirzakhani"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Maryam Mirzakhani is regarded as ",
+                  {
+                    "number": 27
+                  },
+                  " in the field of mathematics because she was the only female holder of the prestigious Fields Medal – a record that she retained at the time of her death. However, maths held little ",
+                  {
+                    "number": 28
+                  },
+                  " for her as a child and in fact her performance was below average until she was ",
+                  {
+                    "number": 29
+                  },
+                  " by a difficult puzzle that one of her siblings showed her."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Later, as a professional mathematician, she had an inquiring mind and proved herself to be ",
+                  {
+                    "number": 30
+                  },
+                  " when things did not go smoothly. She said she got the greatest ",
+                  {
+                    "number": 31
+                  },
+                  " from making ground-breaking discoveries and in fact she was responsible for some extremely ",
+                  {
+                    "number": 32
+                  },
+                  " mathematical studies."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam19-t2-p3-g2",

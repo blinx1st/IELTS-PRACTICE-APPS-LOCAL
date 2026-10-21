@@ -1,0 +1,84 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 3,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "CAMBRIDGE\ncunbeldes\nwr«irz»ers Banaue 18\nCO\n4b se\nWITHANSWERS\n47835\nAUTHENTIC PRACTICE TESTS\nProduced by Cambridge University Press & Assessment\nFASO\nSSAeRS Se\n:\nZza\n—— %\nielts-fighter.com\n",
+  "blocks": [
+    {
+      "box": [
+        78.08663177490234,
+        636.8848266601562,
+        464.2453308105469,
+        659.2197265625
+      ],
+      "text": "CAMBRIDGE\ncunbeldes\n"
+    },
+    {
+      "box": [
+        108.17994689941406,
+        336.6793212890625,
+        462.80584716796875,
+        424.577880859375
+      ],
+      "text": "wr«irz»ers Banaue 18\n"
+    },
+    {
+      "box": [
+        119.62408447265625,
+        285.26971435546875,
+        464.9651184082031,
+        327.7701110839844
+      ],
+      "text": "CO\n4b se\nWITHANSWERS\n47835\n"
+    },
+    {
+      "box": [
+        251.7991485595703,
+        255.0631866455078,
+        464.245361328125,
+        266.2306213378906
+      ],
+      "text": "AUTHENTIC PRACTICE TESTS\n"
+    },
+    {
+      "box": [
+        252.4918670654297,
+        235.63217163085938,
+        464.245361328125,
+        244.27792358398438
+      ],
+      "text": "Produced by Cambridge University Press & Assessment\n"
+    },
+    {
+      "box": [
+        282.8909912109375,
+        201.4410400390625,
+        465.32501220703125,
+        212.60845947265625
+      ],
+      "text": "FASO\nSSAeRS Se\n"
+    },
+    {
+      "box": [
+        246.24795532226562,
+        45.593143463134766,
+        519.3070068359375,
+        76.57378387451172
+      ],
+      "text": ":\nZza\n"
+    },
+    {
+      "box": [
+        54.11536407470703,
+        22.216764450073242,
+        299.7801513671875,
+        37.34684371948242
+      ],
+      "text": "—— %\nielts-fighter.com\n"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 13,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "‘\nListening\nPART 2\nQuestions 11-20\nQuestions 11-13\nChoose the correct letter, A, B or C.\nBecoming a volunteer for ACE\n11.\nWhy does the speaker apologise about the seats?\nA\nThey are too small.\nB_\nThere are not enough of them.\nC\nSome of them are very close together.\n12.\nWhat does the speaker say about the age of volunteers?\nA\nThe age of volunteers is less important than other factors.\nB\nYoung volunteers are less reliable than older ones.\nC_\nMost volunteers are about 60 years old.\n13\nWhat does the speaker say about training?\nA__\nItis continuous.\nB\nIt is conducted by a manager.\nC\nIt takes place online.\nQuestions 14 and 15\nChoose TWO letters, A-E.\nWhich TWO issues does the speaker ask the audience to consider before they apply to\nbe volunteers?\nA _\ntheir financial situation\nB _\ntheir level of commitment\nC __ their work experience\nD\ntheir ambition\nE _ their availability\n11\n",
+  "blocks": [
+    {
+      "box": [
+        52.080291748046875,
+        657.7705078125,
+        207.29092407226562,
+        667.4969482421875
+      ],
+      "text": "‘\nListening\n"
+    },
+    {
+      "box": [
+        298.1605224609375,
+        622.8610229492188,
+        482.9591064453125,
+        633.6682739257812
+      ],
+      "text": "PART 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        393.80767822265625,
+        597.3106079101562,
+        482.9591064453125,
+        607.037109375
+      ],
+      "text": "Questions 11-13\n"
+    },
+    {
+      "box": [
+        309.5112609863281,
+        571.0397338867188,
+        482.9591064453125,
+        580.4059448242188
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        160.57861328125,
+        527.4891967773438,
+        375.35491943359375,
+        541.8987426757812
+      ],
+      "text": "Becoming a volunteer for ACE\n"
+    },
+    {
+      "box": [
+        215.97491455078125,
+        501.221923828125,
+        483.3190002441406,
+        511.66888427734375
+      ],
+      "text": "11.\nWhy does the speaker apologise about the seats?\n"
+    },
+    {
+      "box": [
+        343.1241149902344,
+        481.0686340332031,
+        459.9267883300781,
+        491.5155944824219
+      ],
+      "text": "A\nThey are too small.\n"
+    },
+    {
+      "box": [
+        287.9220886230469,
+        468.1129150390625,
+        459.20703125,
+        478.55987548828125
+      ],
+      "text": "B_\nThere are not enough of them.\n"
+    },
+    {
+      "box": [
+        250.50543212890625,
+        455.51751708984375,
+        459.56695556640625,
+        465.6042175292969
+      ],
+      "text": "C\nSome of them are very close together.\n"
+    },
+    {
+      "box": [
+        184.36106872558594,
+        428.1662292480469,
+        483.31903076171875,
+        438.6131896972656
+      ],
+      "text": "12.\nWhat does the speaker say about the age of volunteers?\n"
+    },
+    {
+      "box": [
+        155.30992126464844,
+        408.012939453125,
+        459.56695556640625,
+        418.45989990234375
+      ],
+      "text": "A\nThe age of volunteers is less important than other factors.\n"
+    },
+    {
+      "box": [
+        189.4769287109375,
+        394.697021484375,
+        458.8471984863281,
+        405.50421142578125
+      ],
+      "text": "B\nYoung volunteers are less reliable than older ones.\n"
+    },
+    {
+      "box": [
+        242.74635314941406,
+        382.1019592285156,
+        459.2070617675781,
+        392.18865966796875
+      ],
+      "text": "C_\nMost volunteers are about 60 years old.\n"
+    },
+    {
+      "box": [
+        250.89404296875,
+        332.7947692871094,
+        482.9591369628906,
+        365.1976318359375
+      ],
+      "text": "13\nWhat does the speaker say about training?\nA__\nItis continuous.\n"
+    },
+    {
+      "box": [
+        292.956787109375,
+        321.6417236328125,
+        459.2070617675781,
+        332.08868408203125
+      ],
+      "text": "B\nIt is conducted by a manager.\n"
+    },
+    {
+      "box": [
+        336.7543029785156,
+        308.68603515625,
+        459.56695556640625,
+        319.13299560546875
+      ],
+      "text": "C\nIt takes place online.\n"
+    },
+    {
+      "box": [
+        372.8574523925781,
+        270.1795654296875,
+        482.95916748046875,
+        279.9060363769531
+      ],
+      "text": "Questions 14 and 15\n"
+    },
+    {
+      "box": [
+        354.525146484375,
+        242.46881103515625,
+        483.31903076171875,
+        252.19529724121094
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        59.81929016113281,
+        203.96307373046875,
+        484.0387878417969,
+        226.643798828125
+      ],
+      "text": "Which TWO issues does the speaker ask the audience to consider before they apply to\nbe volunteers?\n"
+    },
+    {
+      "box": [
+        327.8904113769531,
+        180.2059326171875,
+        459.92681884765625,
+        193.53480529785156
+      ],
+      "text": "A _\ntheir financial situation\n"
+    },
+    {
+      "box": [
+        314.0314025878906,
+        166.8900146484375,
+        459.2070617675781,
+        180.57913208007812
+      ],
+      "text": "B _\ntheir level of commitment\n"
+    },
+    {
+      "box": [
+        331.4495849609375,
+        144.94273376464844,
+        459.56695556640625,
+        167.62344360351562
+      ],
+      "text": "C __ their work experience\nD\ntheir ambition\n"
+    },
+    {
+      "box": [
+        360.65032958984375,
+        128.38320922851562,
+        459.20709228515625,
+        141.7120819091797
+      ],
+      "text": "E _ their availability\n"
+    },
+    {
+      "box": [
+        54.03242874145508,
+        23.303604125976562,
+        62.979034423828125,
+        31.228885650634766
+      ],
+      "text": "11\n"
+    }
+  ]
+}

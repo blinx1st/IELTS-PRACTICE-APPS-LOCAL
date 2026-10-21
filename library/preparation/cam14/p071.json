@@ -1,0 +1,174 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 71,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Listening\nSECTION\n3\nQuestions 21-30\nQuestions 21-25\nChoose the correct letter, A, B or C.\n21\nWhat does Trevor find interesting about the purpose of children’s literature?\nA _ the fact that authors may not realise what values they’re teaching\nB\nthe fact that literature can be entertaining and educational at the same time\nC _ the fact that adults expect children to imitate characters in literature\n22\nTrevor says the module about the purpose of children’s literature made him\nA\nanalyse some of the stories that his niece reads.\nB\nwonder how far popularity reflects good quality.\nC\ndecide to start writing some children’s stories.\n23\nStephanie is interested in the Pictures module because\nA _ she intends to become an illustrator.\nB_\nshe can remember beautiful illustrations from her childhood.\nC __ she believes illustrations are more important than words.\n24\nTrevor and Stephanie agree that comics\nA _ are inferior to books.\nB\nhave the potential for being useful.\nC_\ndiscourage children from using their imagination.\n25\nWith regard to books aimed at only boys or only girls, Trevor was surprised\nA\nhow long the distinction had gone unquestioned.\nB __ how few books were aimed at both girls and boys.\nC\nhow many children enjoyed books intended for the opposite sex.\n79\n",
+  "blocks": [
+    {
+      "box": [
+        495.6201477050781,
+        96.10061645507812,
+        539.7725219726562,
+        106.5489501953125
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        106.53853607177734,
+        131.3735809326172,
+        319.1657409667969,
+        142.18218994140625
+      ],
+      "text": "SECTION\n3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        158.0081787109375,
+        196.6822509765625,
+        167.7359161376953
+      ],
+      "text": "Questions 21-25\n"
+    },
+    {
+      "box": [
+        107.25839233398438,
+        184.28285217285156,
+        279.9947814941406,
+        194.37091064453125
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        106.8984603881836,
+        209.117919921875,
+        498.7731018066406,
+        242.2452392578125
+      ],
+      "text": "21\nWhat does Trevor find interesting about the purpose of children’s literature?\nA _ the fact that authors may not realise what values they’re teaching\n"
+    },
+    {
+      "box": [
+        131.01358032226562,
+        242.23118591308594,
+        521.3261108398438,
+        268.1600341796875
+      ],
+      "text": "B\nthe fact that literature can be entertaining and educational at the same time\nC _ the fact that adults expect children to imitate characters in literature\n"
+    },
+    {
+      "box": [
+        106.89844512939453,
+        275.34454345703125,
+        496.5559997558594,
+        286.8737487792969
+      ],
+      "text": "22\nTrevor says the module about the purpose of children’s literature made him\n"
+    },
+    {
+      "box": [
+        131.01358032226562,
+        296.2203063964844,
+        390.16131591796875,
+        332.9437561035156
+      ],
+      "text": "A\nanalyse some of the stories that his niece reads.\nB\nwonder how far popularity reflects good quality.\nC\ndecide to start writing some children’s stories.\n"
+    },
+    {
+      "box": [
+        106.8984603881836,
+        342.2910461425781,
+        400.1295471191406,
+        352.7393798828125
+      ],
+      "text": "23\nStephanie is interested in the Pictures module because\n"
+    },
+    {
+      "box": [
+        131.0135955810547,
+        361.3672180175781,
+        330.2479248046875,
+        374.69781494140625
+      ],
+      "text": "A _ she intends to become an illustrator.\n"
+    },
+    {
+      "box": [
+        131.73345947265625,
+        375.04443359375,
+        446.7599792480469,
+        400.61297607421875
+      ],
+      "text": "B_\nshe can remember beautiful illustrations from her childhood.\nC __ she believes illustrations are more important than words.\n"
+    },
+    {
+      "box": [
+        107.2584228515625,
+        408.8776550292969,
+        326.43988037109375,
+        419.32598876953125
+      ],
+      "text": "24\nTrevor and Stephanie agree that comics\n"
+    },
+    {
+      "box": [
+        131.37356567382812,
+        427.5938720703125,
+        254.2780303955078,
+        440.92449951171875
+      ],
+      "text": "A _ are inferior to books.\n"
+    },
+    {
+      "box": [
+        132.09341430664062,
+        441.63104248046875,
+        322.51300048828125,
+        452.4396667480469
+      ],
+      "text": "B\nhave the potential for being useful.\n"
+    },
+    {
+      "box": [
+        131.73348999023438,
+        454.58843994140625,
+        391.3132019042969,
+        465.3970642089844
+      ],
+      "text": "C_\ndiscourage children from using their imagination.\n"
+    },
+    {
+      "box": [
+        107.2584228515625,
+        474.0245056152344,
+        495.4042053222656,
+        485.5536804199219
+      ],
+      "text": "25\nWith regard to books aimed at only boys or only girls, Trevor was surprised\n"
+    },
+    {
+      "box": [
+        131.37356567382812,
+        494.9002990722656,
+        468.0713806152344,
+        531.6240844726562
+      ],
+      "text": "A\nhow long the distinction had gone unquestioned.\nB __ how few books were aimed at both girls and boys.\nC\nhow many children enjoyed books intended for the opposite sex.\n"
+    },
+    {
+      "box": [
+        528.0136108398438,
+        732.8123779296875,
+        539.1066284179688,
+        741.0989990234375
+      ],
+      "text": "79\n"
+    }
+  ]
+}

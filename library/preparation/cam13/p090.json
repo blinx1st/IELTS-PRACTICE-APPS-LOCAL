@@ -1,0 +1,129 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 90,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\nQuestions 27-29\nChoose the correct letter, A, B,\nC or D.\nWrite the correct letter in boxes 27-29 on your answer sheet.\n27\nWhat is the reviewer's attitude to advocates of positive psychology?\nA_\nThey are wrong to reject the ideas of Bentham.\nB_\nThey are over-influenced by their study of Bentham's theories.\nC_\nThey have a fresh new approach to ideas on human happiness.\nD_\nThey are ignorant about the ideas they should be considering.\n28\nThe reviewer refers to the Greek philosopher Aristotle in order to suggest that\nhappiness\nA\nmay not be just pleasure and the absence of pain.\nB\nshould not be the main goal of humans.\nC\nis not something that should be fought for.\nD__\nis not just an abstract concept.\n|\n29\nAccording to Davies, Bentham's suggestion for linking the price of goods to\nhappiness was significant because\nA _ itwas the first successful way of assessing happiness.\nB _\nit established a connection between work and psychology.\nC _\nit was the first successful example of psychological research.\nD _\nit involved consideration of the rights of consumers.\n",
+  "blocks": [
+    {
+      "box": [
+        484.9200134277344,
+        65.8800048828125,
+        530.7587890625,
+        78.13223266601562
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        42.1199951171875,
+        102.5999755859375,
+        143.94610595703125,
+        113.77117156982422
+      ],
+      "text": "Questions 27-29\n"
+    },
+    {
+      "box": [
+        41.75999450683594,
+        132.84002685546875,
+        254.07354736328125,
+        144.3715057373047
+      ],
+      "text": "Choose the correct letter, A, B,\nC or D.\n"
+    },
+    {
+      "box": [
+        42.11997985839844,
+        162.0,
+        376.6319274902344,
+        174.61257934570312
+      ],
+      "text": "Write the correct letter in boxes 27-29 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        41.03997802734375,
+        191.15997314453125,
+        441.0919494628906,
+        204.49330139160156
+      ],
+      "text": "27\nWhat is the reviewer's attitude to advocates of positive psychology?\n"
+    },
+    {
+      "box": [
+        67.31997680664062,
+        213.84002685546875,
+        437.2561950683594,
+        241.5729522705078
+      ],
+      "text": "A_\nThey are wrong to reject the ideas of Bentham.\nB_\nThey are over-influenced by their study of Bentham's theories.\n"
+    },
+    {
+      "box": [
+        67.67999267578125,
+        243.3599853515625,
+        445.62628173828125,
+        272.17327880859375
+      ],
+      "text": "C_\nThey have a fresh new approach to ideas on human happiness.\nD_\nThey are ignorant about the ideas they should be considering.\n"
+    },
+    {
+      "box": [
+        40.32000732421875,
+        281.1600036621094,
+        494.6400146484375,
+        294.8536682128906
+      ],
+      "text": "28\nThe reviewer refers to the Greek philosopher Aristotle in order to suggest that\n"
+    },
+    {
+      "box": [
+        67.67999267578125,
+        295.9200134277344,
+        123.81285095214844,
+        307.8118591308594
+      ],
+      "text": "happiness\n"
+    },
+    {
+      "box": [
+        66.59999084472656,
+        318.6000061035156,
+        369.82806396484375,
+        361.09295654296875
+      ],
+      "text": "A\nmay not be just pleasure and the absence of pain.\nB\nshould not be the main goal of humans.\nC\nis not something that should be fought for.\n"
+    },
+    {
+      "box": [
+        67.31997680664062,
+        362.8800048828125,
+        261.3599853515625,
+        375.49261474609375
+      ],
+      "text": "D__\nis not just an abstract concept.\n"
+    },
+    {
+      "box": [
+        19.439987182617188,
+        381.6000061035156,
+        481.2947692871094,
+        399.25762939453125
+      ],
+      "text": "|\n29\nAccording to Davies, Bentham's suggestion for linking the price of goods to\n"
+    },
+    {
+      "box": [
+        66.23992919921875,
+        400.32000732421875,
+        429.3808288574219,
+        481.6958312988281
+      ],
+      "text": "happiness was significant because\nA _ itwas the first successful way of assessing happiness.\nB _\nit established a connection between work and psychology.\nC _\nit was the first successful example of psychological research.\nD _\nit involved consideration of the rights of consumers.\n"
+    }
+  ]
+}

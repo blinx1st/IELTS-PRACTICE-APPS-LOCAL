@@ -1,0 +1,1839 @@
+{
+  "audioSha256": "001757f60d198e0bd900892a4cc7916b06e34656ae8feeff89d493f3e1d5e948",
+  "duration": 429.3746875,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 309.3746875,
+      "end": 316.2546875,
+      "text": " keep those in the attic or somewhere. So they'd be hidden. Yeah. But he likes people to know",
+      "words": [
+        {
+          "word": " keep",
+          "start": 309.3746875,
+          "end": 309.77468749999997
+        },
+        {
+          "word": " those",
+          "start": 309.77468749999997,
+          "end": 310.1146875
+        },
+        {
+          "word": " in",
+          "start": 310.1146875,
+          "end": 310.2946875
+        },
+        {
+          "word": " the",
+          "start": 310.2946875,
+          "end": 310.4746875
+        },
+        {
+          "word": " attic",
+          "start": 310.4746875,
+          "end": 310.71468749999997
+        },
+        {
+          "word": " or",
+          "start": 310.71468749999997,
+          "end": 310.9546875
+        },
+        {
+          "word": " somewhere.",
+          "start": 310.9546875,
+          "end": 311.6146875
+        },
+        {
+          "word": " So",
+          "start": 312.3346875,
+          "end": 312.65468749999997
+        },
+        {
+          "word": " they'd",
+          "start": 312.65468749999997,
+          "end": 313.1146875
+        },
+        {
+          "word": " be",
+          "start": 313.1146875,
+          "end": 313.21468749999997
+        },
+        {
+          "word": " hidden.",
+          "start": 313.21468749999997,
+          "end": 313.4546875
+        },
+        {
+          "word": " Yeah.",
+          "start": 314.4146875,
+          "end": 314.4146875
+        },
+        {
+          "word": " But",
+          "start": 314.71468749999997,
+          "end": 314.9946875
+        },
+        {
+          "word": " he",
+          "start": 314.9946875,
+          "end": 315.1946875
+        },
+        {
+          "word": " likes",
+          "start": 315.1946875,
+          "end": 315.4346875
+        },
+        {
+          "word": " people",
+          "start": 315.4346875,
+          "end": 315.8146875
+        },
+        {
+          "word": " to",
+          "start": 315.8146875,
+          "end": 316.0346875
+        },
+        {
+          "word": " know",
+          "start": 316.0346875,
+          "end": 316.2546875
+        }
+      ]
+    },
+    {
+      "start": 316.2546875,
+      "end": 322.8346875,
+      "text": " that he has them. So he puts them out in the shop, but makes sure you need a ladder to get them.",
+      "words": [
+        {
+          "word": " that",
+          "start": 316.2546875,
+          "end": 316.4346875
+        },
+        {
+          "word": " he",
+          "start": 316.4346875,
+          "end": 316.5946875
+        },
+        {
+          "word": " has",
+          "start": 316.5946875,
+          "end": 316.9146875
+        },
+        {
+          "word": " them.",
+          "start": 316.9146875,
+          "end": 317.5146875
+        },
+        {
+          "word": " So",
+          "start": 317.7946875,
+          "end": 318.1946875
+        },
+        {
+          "word": " he",
+          "start": 318.1946875,
+          "end": 318.4146875
+        },
+        {
+          "word": " puts",
+          "start": 318.4146875,
+          "end": 318.71468749999997
+        },
+        {
+          "word": " them",
+          "start": 318.71468749999997,
+          "end": 318.8946875
+        },
+        {
+          "word": " out",
+          "start": 318.8946875,
+          "end": 319.1146875
+        },
+        {
+          "word": " in",
+          "start": 319.1146875,
+          "end": 319.2546875
+        },
+        {
+          "word": " the",
+          "start": 319.2546875,
+          "end": 319.4946875
+        },
+        {
+          "word": " shop,",
+          "start": 319.4946875,
+          "end": 319.8746875
+        },
+        {
+          "word": " but",
+          "start": 320.1746875,
+          "end": 320.4946875
+        },
+        {
+          "word": " makes",
+          "start": 320.4946875,
+          "end": 320.8546875
+        },
+        {
+          "word": " sure",
+          "start": 320.8546875,
+          "end": 321.1146875
+        },
+        {
+          "word": " you",
+          "start": 321.1146875,
+          "end": 321.2546875
+        },
+        {
+          "word": " need",
+          "start": 321.2546875,
+          "end": 321.6146875
+        },
+        {
+          "word": " a",
+          "start": 321.6146875,
+          "end": 321.77468749999997
+        },
+        {
+          "word": " ladder",
+          "start": 321.77468749999997,
+          "end": 321.9546875
+        },
+        {
+          "word": " to",
+          "start": 321.9546875,
+          "end": 322.1746875
+        },
+        {
+          "word": " get",
+          "start": 322.1746875,
+          "end": 322.4346875
+        },
+        {
+          "word": " them.",
+          "start": 322.4346875,
+          "end": 322.8346875
+        }
+      ]
+    },
+    {
+      "start": 322.9546875,
+      "end": 328.6546875,
+      "text": " Right. That would prevent any thefts. Uh-huh. Does he stop books for children? He does.",
+      "words": [
+        {
+          "word": " Right.",
+          "start": 322.9546875,
+          "end": 323.3546875
+        },
+        {
+          "word": " That",
+          "start": 323.5946875,
+          "end": 323.77468749999997
+        },
+        {
+          "word": " would",
+          "start": 323.77468749999997,
+          "end": 324.0146875
+        },
+        {
+          "word": " prevent",
+          "start": 324.0146875,
+          "end": 324.1746875
+        },
+        {
+          "word": " any",
+          "start": 324.1746875,
+          "end": 324.5546875
+        },
+        {
+          "word": " thefts.",
+          "start": 324.5546875,
+          "end": 324.9346875
+        },
+        {
+          "word": " Uh",
+          "start": 325.1346875,
+          "end": 325.3546875
+        },
+        {
+          "word": "-huh.",
+          "start": 325.3546875,
+          "end": 325.7946875
+        },
+        {
+          "word": " Does",
+          "start": 326.1146875,
+          "end": 326.2946875
+        },
+        {
+          "word": " he",
+          "start": 326.2946875,
+          "end": 326.5146875
+        },
+        {
+          "word": " stop",
+          "start": 326.5146875,
+          "end": 326.7346875
+        },
+        {
+          "word": " books",
+          "start": 326.7346875,
+          "end": 326.9746875
+        },
+        {
+          "word": " for",
+          "start": 326.9746875,
+          "end": 327.1946875
+        },
+        {
+          "word": " children?",
+          "start": 327.1946875,
+          "end": 327.5746875
+        },
+        {
+          "word": " He",
+          "start": 327.8346875,
+          "end": 328.0746875
+        },
+        {
+          "word": " does.",
+          "start": 328.0746875,
+          "end": 328.6546875
+        }
+      ]
+    },
+    {
+      "start": 328.9946875,
+      "end": 334.7546875,
+      "text": " He particularly likes to encourage kids to read. He always says that he used to sit under",
+      "words": [
+        {
+          "word": " He",
+          "start": 328.9946875,
+          "end": 329.3546875
+        },
+        {
+          "word": " particularly",
+          "start": 329.3546875,
+          "end": 329.9946875
+        },
+        {
+          "word": " likes",
+          "start": 329.9946875,
+          "end": 330.5146875
+        },
+        {
+          "word": " to",
+          "start": 330.5146875,
+          "end": 330.7346875
+        },
+        {
+          "word": " encourage",
+          "start": 330.7346875,
+          "end": 331.09468749999996
+        },
+        {
+          "word": " kids",
+          "start": 331.09468749999996,
+          "end": 331.5146875
+        },
+        {
+          "word": " to",
+          "start": 331.5146875,
+          "end": 331.71468749999997
+        },
+        {
+          "word": " read.",
+          "start": 331.71468749999997,
+          "end": 332.1546875
+        },
+        {
+          "word": " He",
+          "start": 332.59468749999996,
+          "end": 332.8746875
+        },
+        {
+          "word": " always",
+          "start": 332.8746875,
+          "end": 333.2346875
+        },
+        {
+          "word": " says",
+          "start": 333.2346875,
+          "end": 333.5546875
+        },
+        {
+          "word": " that",
+          "start": 333.5546875,
+          "end": 333.8346875
+        },
+        {
+          "word": " he",
+          "start": 333.8346875,
+          "end": 333.8746875
+        },
+        {
+          "word": " used",
+          "start": 333.8746875,
+          "end": 334.1746875
+        },
+        {
+          "word": " to",
+          "start": 334.1746875,
+          "end": 334.2946875
+        },
+        {
+          "word": " sit",
+          "start": 334.2946875,
+          "end": 334.4946875
+        },
+        {
+          "word": " under",
+          "start": 334.4946875,
+          "end": 334.7546875
+        }
+      ]
+    },
+    {
+      "start": 334.7546875,
+      "end": 340.4546875,
+      "text": " The stairs as a child with a pile of books and read them all, is that where he keeps",
+      "words": [
+        {
+          "word": " The",
+          "start": 334.7546875,
+          "end": 335.0346875
+        },
+        {
+          "word": " stairs",
+          "start": 335.0346875,
+          "end": 335.4746875
+        },
+        {
+          "word": " as",
+          "start": 335.4746875,
+          "end": 335.77468749999997
+        },
+        {
+          "word": " a",
+          "start": 335.77468749999997,
+          "end": 335.9346875
+        },
+        {
+          "word": " child",
+          "start": 335.9346875,
+          "end": 336.3946875
+        },
+        {
+          "word": " with",
+          "start": 336.3946875,
+          "end": 336.6146875
+        },
+        {
+          "word": " a",
+          "start": 336.6146875,
+          "end": 336.8546875
+        },
+        {
+          "word": " pile",
+          "start": 336.8546875,
+          "end": 336.9946875
+        },
+        {
+          "word": " of",
+          "start": 336.9946875,
+          "end": 337.27468749999997
+        },
+        {
+          "word": " books",
+          "start": 337.27468749999997,
+          "end": 337.71468749999997
+        },
+        {
+          "word": " and",
+          "start": 337.71468749999997,
+          "end": 338.0746875
+        },
+        {
+          "word": " read",
+          "start": 338.0746875,
+          "end": 338.3346875
+        },
+        {
+          "word": " them",
+          "start": 338.3346875,
+          "end": 338.59468749999996
+        },
+        {
+          "word": " all,",
+          "start": 338.59468749999996,
+          "end": 339.4346875
+        },
+        {
+          "word": " is",
+          "start": 339.7346875,
+          "end": 339.77468749999997
+        },
+        {
+          "word": " that",
+          "start": 339.77468749999997,
+          "end": 339.9546875
+        },
+        {
+          "word": " where",
+          "start": 339.9546875,
+          "end": 340.0546875
+        },
+        {
+          "word": " he",
+          "start": 340.0546875,
+          "end": 340.2546875
+        },
+        {
+          "word": " keeps",
+          "start": 340.2546875,
+          "end": 340.4546875
+        }
+      ]
+    },
+    {
+      "start": 340.4546875,
+      "end": 340.9746875,
+      "text": " them then?",
+      "words": [
+        {
+          "word": " them",
+          "start": 340.4546875,
+          "end": 340.6546875
+        },
+        {
+          "word": " then?",
+          "start": 340.6546875,
+          "end": 340.9746875
+        }
+      ]
+    },
+    {
+      "start": 341.0146875,
+      "end": 342.21468749999997,
+      "text": " Not exactly.",
+      "words": [
+        {
+          "word": " Not",
+          "start": 341.0146875,
+          "end": 341.5146875
+        },
+        {
+          "word": " exactly.",
+          "start": 341.5146875,
+          "end": 342.21468749999997
+        }
+      ]
+    },
+    {
+      "start": 342.7546875,
+      "end": 348.2346875,
+      "text": " He's got a dedicated area on the ground floor with cushions so that parents can enter",
+      "words": [
+        {
+          "word": " He's",
+          "start": 342.7546875,
+          "end": 343.0746875
+        },
+        {
+          "word": " got",
+          "start": 343.0746875,
+          "end": 343.2546875
+        },
+        {
+          "word": " a",
+          "start": 343.2546875,
+          "end": 343.59468749999996
+        },
+        {
+          "word": " dedicated",
+          "start": 343.59468749999996,
+          "end": 343.9946875
+        },
+        {
+          "word": " area",
+          "start": 343.9946875,
+          "end": 344.4746875
+        },
+        {
+          "word": " on",
+          "start": 344.4746875,
+          "end": 344.71468749999997
+        },
+        {
+          "word": " the",
+          "start": 344.71468749999997,
+          "end": 344.9746875
+        },
+        {
+          "word": " ground",
+          "start": 344.9746875,
+          "end": 345.2546875
+        },
+        {
+          "word": " floor",
+          "start": 345.2546875,
+          "end": 345.6746875
+        },
+        {
+          "word": " with",
+          "start": 345.6746875,
+          "end": 345.9146875
+        },
+        {
+          "word": " cushions",
+          "start": 345.9146875,
+          "end": 346.5546875
+        },
+        {
+          "word": " so",
+          "start": 346.5546875,
+          "end": 347.1346875
+        },
+        {
+          "word": " that",
+          "start": 347.1346875,
+          "end": 347.4146875
+        },
+        {
+          "word": " parents",
+          "start": 347.4146875,
+          "end": 347.71468749999997
+        },
+        {
+          "word": " can",
+          "start": 347.71468749999997,
+          "end": 347.9346875
+        },
+        {
+          "word": " enter",
+          "start": 347.9346875,
+          "end": 348.2346875
+        }
+      ]
+    },
+    {
+      "start": 348.2346875,
+      "end": 352.4946875,
+      "text": " with their toddlers, go there and spend some time reading to them.",
+      "words": [
+        {
+          "word": " with",
+          "start": 348.2346875,
+          "end": 348.4546875
+        },
+        {
+          "word": " their",
+          "start": 348.4546875,
+          "end": 348.77468749999997
+        },
+        {
+          "word": " toddlers,",
+          "start": 348.77468749999997,
+          "end": 349.3546875
+        },
+        {
+          "word": " go",
+          "start": 349.71468749999997,
+          "end": 349.7946875
+        },
+        {
+          "word": " there",
+          "start": 349.7946875,
+          "end": 350.4346875
+        },
+        {
+          "word": " and",
+          "start": 350.4346875,
+          "end": 350.8946875
+        },
+        {
+          "word": " spend",
+          "start": 350.8946875,
+          "end": 351.1146875
+        },
+        {
+          "word": " some",
+          "start": 351.1146875,
+          "end": 351.4346875
+        },
+        {
+          "word": " time",
+          "start": 351.4346875,
+          "end": 351.6546875
+        },
+        {
+          "word": " reading",
+          "start": 351.6546875,
+          "end": 352.0146875
+        },
+        {
+          "word": " to",
+          "start": 352.0146875,
+          "end": 352.27468749999997
+        },
+        {
+          "word": " them.",
+          "start": 352.27468749999997,
+          "end": 352.4946875
+        }
+      ]
+    },
+    {
+      "start": 353.1146875,
+      "end": 353.6146875,
+      "text": " Oh, cool.",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 353.1146875,
+          "end": 353.1146875
+        },
+        {
+          "word": " cool.",
+          "start": 353.21468749999997,
+          "end": 353.6146875
+        }
+      ]
+    },
+    {
+      "start": 354.2346875,
+      "end": 357.09468749999996,
+      "text": " And then there's a place for push chairs by the front door.",
+      "words": [
+        {
+          "word": " And",
+          "start": 354.2346875,
+          "end": 354.3546875
+        },
+        {
+          "word": " then",
+          "start": 354.3546875,
+          "end": 354.5346875
+        },
+        {
+          "word": " there's",
+          "start": 354.5346875,
+          "end": 354.7546875
+        },
+        {
+          "word": " a",
+          "start": 354.7546875,
+          "end": 354.8746875
+        },
+        {
+          "word": " place",
+          "start": 354.8746875,
+          "end": 355.1146875
+        },
+        {
+          "word": " for",
+          "start": 355.1146875,
+          "end": 355.3946875
+        },
+        {
+          "word": " push",
+          "start": 355.3946875,
+          "end": 355.6746875
+        },
+        {
+          "word": " chairs",
+          "start": 355.6746875,
+          "end": 355.9746875
+        },
+        {
+          "word": " by",
+          "start": 355.9746875,
+          "end": 356.2346875
+        },
+        {
+          "word": " the",
+          "start": 356.2346875,
+          "end": 356.59468749999996
+        },
+        {
+          "word": " front",
+          "start": 356.59468749999996,
+          "end": 356.6946875
+        },
+        {
+          "word": " door.",
+          "start": 356.6946875,
+          "end": 357.09468749999996
+        }
+      ]
+    },
+    {
+      "start": 357.6146875,
+      "end": 360.3746875,
+      "text": " And a cafe, if anyone needs refreshments.",
+      "words": [
+        {
+          "word": " And",
+          "start": 357.6146875,
+          "end": 357.9946875
+        },
+        {
+          "word": " a",
+          "start": 357.9946875,
+          "end": 358.1746875
+        },
+        {
+          "word": " cafe,",
+          "start": 358.1746875,
+          "end": 358.3946875
+        },
+        {
+          "word": " if",
+          "start": 358.7946875,
+          "end": 358.8746875
+        },
+        {
+          "word": " anyone",
+          "start": 358.8746875,
+          "end": 359.1746875
+        },
+        {
+          "word": " needs",
+          "start": 359.1746875,
+          "end": 359.5146875
+        },
+        {
+          "word": " refreshments.",
+          "start": 359.5146875,
+          "end": 360.3746875
+        }
+      ]
+    },
+    {
+      "start": 360.5746875,
+      "end": 361.4746875,
+      "text": " That's good to know.",
+      "words": [
+        {
+          "word": " That's",
+          "start": 360.5746875,
+          "end": 360.8346875
+        },
+        {
+          "word": " good",
+          "start": 360.8346875,
+          "end": 361.0146875
+        },
+        {
+          "word": " to",
+          "start": 361.0146875,
+          "end": 361.1946875
+        },
+        {
+          "word": " know.",
+          "start": 361.1946875,
+          "end": 361.4746875
+        }
+      ]
+    },
+    {
+      "start": 361.4746875,
+      "end": 367.21468749999997,
+      "text": " As I said, it's a big shop. And there's a storage area out the back as well.",
+      "words": [
+        {
+          "word": " As",
+          "start": 361.4746875,
+          "end": 361.9146875
+        },
+        {
+          "word": " I",
+          "start": 361.9146875,
+          "end": 362.1546875
+        },
+        {
+          "word": " said,",
+          "start": 362.1546875,
+          "end": 362.59468749999996
+        },
+        {
+          "word": " it's",
+          "start": 362.9946875,
+          "end": 363.0746875
+        },
+        {
+          "word": " a",
+          "start": 363.0746875,
+          "end": 363.3746875
+        },
+        {
+          "word": " big",
+          "start": 363.3746875,
+          "end": 363.7346875
+        },
+        {
+          "word": " shop.",
+          "start": 363.7346875,
+          "end": 364.1746875
+        },
+        {
+          "word": " And",
+          "start": 364.3546875,
+          "end": 364.6946875
+        },
+        {
+          "word": " there's",
+          "start": 364.6946875,
+          "end": 364.9346875
+        },
+        {
+          "word": " a",
+          "start": 364.9346875,
+          "end": 365.2546875
+        },
+        {
+          "word": " storage",
+          "start": 365.2546875,
+          "end": 365.5546875
+        },
+        {
+          "word": " area",
+          "start": 365.5546875,
+          "end": 365.9346875
+        },
+        {
+          "word": " out",
+          "start": 365.9346875,
+          "end": 366.21468749999997
+        },
+        {
+          "word": " the",
+          "start": 366.21468749999997,
+          "end": 366.3746875
+        },
+        {
+          "word": " back",
+          "start": 366.3746875,
+          "end": 366.6146875
+        },
+        {
+          "word": " as",
+          "start": 366.6146875,
+          "end": 366.8546875
+        },
+        {
+          "word": " well.",
+          "start": 366.8546875,
+          "end": 367.21468749999997
+        }
+      ]
+    },
+    {
+      "start": 367.8946875,
+      "end": 368.59468749999996,
+      "text": " Oh, what does he keep there?",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 367.8946875,
+          "end": 367.8946875
+        },
+        {
+          "word": " what",
+          "start": 367.9146875,
+          "end": 368.0546875
+        },
+        {
+          "word": " does",
+          "start": 368.0546875,
+          "end": 368.1746875
+        },
+        {
+          "word": " he",
+          "start": 368.1746875,
+          "end": 368.2946875
+        },
+        {
+          "word": " keep",
+          "start": 368.2946875,
+          "end": 368.4946875
+        },
+        {
+          "word": " there?",
+          "start": 368.4946875,
+          "end": 368.8146875
+        }
+      ]
+    },
+    {
+      "start": 369.6946875,
+      "end": 370.7946875,
+      "text": " Books he wants to throw away.",
+      "words": [
+        {
+          "word": " Books",
+          "start": 369.6946875,
+          "end": 369.6946875
+        },
+        {
+          "word": " he",
+          "start": 369.6946875,
+          "end": 369.8146875
+        },
+        {
+          "word": " wants",
+          "start": 369.8146875,
+          "end": 369.9946875
+        },
+        {
+          "word": " to",
+          "start": 369.9946875,
+          "end": 370.1546875
+        },
+        {
+          "word": " throw",
+          "start": 370.1546875,
+          "end": 370.3346875
+        },
+        {
+          "word": " away.",
+          "start": 370.3346875,
+          "end": 370.7946875
+        }
+      ]
+    },
+    {
+      "start": 370.9946875,
+      "end": 377.1946875,
+      "text": " He hardly ever throws anything away. He just leaves unwanted books by the front door for",
+      "words": [
+        {
+          "word": " He",
+          "start": 370.9946875,
+          "end": 371.2346875
+        },
+        {
+          "word": " hardly",
+          "start": 371.2346875,
+          "end": 371.71468749999997
+        },
+        {
+          "word": " ever",
+          "start": 371.71468749999997,
+          "end": 372.1346875
+        },
+        {
+          "word": " throws",
+          "start": 372.1346875,
+          "end": 372.4546875
+        },
+        {
+          "word": " anything",
+          "start": 372.4546875,
+          "end": 372.8346875
+        },
+        {
+          "word": " away.",
+          "start": 372.8346875,
+          "end": 373.3346875
+        },
+        {
+          "word": " He",
+          "start": 373.7946875,
+          "end": 373.9146875
+        },
+        {
+          "word": " just",
+          "start": 373.9146875,
+          "end": 374.2346875
+        },
+        {
+          "word": " leaves",
+          "start": 374.2346875,
+          "end": 374.5546875
+        },
+        {
+          "word": " unwanted",
+          "start": 374.5546875,
+          "end": 375.1346875
+        },
+        {
+          "word": " books",
+          "start": 375.1346875,
+          "end": 375.6346875
+        },
+        {
+          "word": " by",
+          "start": 375.6346875,
+          "end": 375.8946875
+        },
+        {
+          "word": " the",
+          "start": 375.8946875,
+          "end": 376.21468749999997
+        },
+        {
+          "word": " front",
+          "start": 376.21468749999997,
+          "end": 376.3346875
+        },
+        {
+          "word": " door",
+          "start": 376.3346875,
+          "end": 376.7346875
+        },
+        {
+          "word": " for",
+          "start": 376.7346875,
+          "end": 377.1946875
+        }
+      ]
+    },
+    {
+      "start": 377.1946875,
+      "end": 384.5146875,
+      "text": " customers to take. Well, that's very nice. Yeah. And books people or institutions have requested,",
+      "words": [
+        {
+          "word": " customers",
+          "start": 377.1946875,
+          "end": 377.5546875
+        },
+        {
+          "word": " to",
+          "start": 377.5546875,
+          "end": 377.9146875
+        },
+        {
+          "word": " take.",
+          "start": 377.9146875,
+          "end": 378.3346875
+        },
+        {
+          "word": " Well,",
+          "start": 378.4346875,
+          "end": 378.97468749999996
+        },
+        {
+          "word": " that's",
+          "start": 379.2346875,
+          "end": 379.5346875
+        },
+        {
+          "word": " very",
+          "start": 379.5346875,
+          "end": 379.7946875
+        },
+        {
+          "word": " nice.",
+          "start": 379.7946875,
+          "end": 380.2346875
+        },
+        {
+          "word": " Yeah.",
+          "start": 380.97468749999996,
+          "end": 380.97468749999996
+        },
+        {
+          "word": " And",
+          "start": 381.5346875,
+          "end": 381.6146875
+        },
+        {
+          "word": " books",
+          "start": 381.6146875,
+          "end": 381.8746875
+        },
+        {
+          "word": " people",
+          "start": 381.8746875,
+          "end": 382.3946875
+        },
+        {
+          "word": " or",
+          "start": 382.3946875,
+          "end": 382.7546875
+        },
+        {
+          "word": " institutions",
+          "start": 382.7546875,
+          "end": 383.4546875
+        },
+        {
+          "word": " have",
+          "start": 383.4546875,
+          "end": 383.9146875
+        },
+        {
+          "word": " requested,",
+          "start": 383.9146875,
+          "end": 384.5146875
+        }
+      ]
+    },
+    {
+      "start": 385.21468749999997,
+      "end": 387.7746875,
+      "text": " they all go at the far end. Oh.",
+      "words": [
+        {
+          "word": " they",
+          "start": 385.21468749999997,
+          "end": 385.5346875
+        },
+        {
+          "word": " all",
+          "start": 385.5346875,
+          "end": 385.7546875
+        },
+        {
+          "word": " go",
+          "start": 385.7546875,
+          "end": 385.9346875
+        },
+        {
+          "word": " at",
+          "start": 385.9346875,
+          "end": 386.1746875
+        },
+        {
+          "word": " the",
+          "start": 386.1746875,
+          "end": 386.3346875
+        },
+        {
+          "word": " far",
+          "start": 386.3346875,
+          "end": 386.5746875
+        },
+        {
+          "word": " end.",
+          "start": 386.5746875,
+          "end": 387.1146875
+        },
+        {
+          "word": " Oh.",
+          "start": 387.3346875,
+          "end": 387.7746875
+        }
+      ]
+    },
+    {
+      "start": 387.7746875,
+      "end": 392.8946875,
+      "text": " He thinks it's best to keep these out of the main shopping area as they're boxed in",
+      "words": [
+        {
+          "word": " He",
+          "start": 387.7746875,
+          "end": 388.4346875
+        },
+        {
+          "word": " thinks",
+          "start": 388.4346875,
+          "end": 388.7346875
+        },
+        {
+          "word": " it's",
+          "start": 388.7346875,
+          "end": 388.9946875
+        },
+        {
+          "word": " best",
+          "start": 388.9946875,
+          "end": 389.2346875
+        },
+        {
+          "word": " to",
+          "start": 389.2346875,
+          "end": 389.3546875
+        },
+        {
+          "word": " keep",
+          "start": 389.3546875,
+          "end": 389.59468749999996
+        },
+        {
+          "word": " these",
+          "start": 389.59468749999996,
+          "end": 389.9346875
+        },
+        {
+          "word": " out",
+          "start": 389.9346875,
+          "end": 390.1346875
+        },
+        {
+          "word": " of",
+          "start": 390.1346875,
+          "end": 390.3146875
+        },
+        {
+          "word": " the",
+          "start": 390.3146875,
+          "end": 390.47468749999996
+        },
+        {
+          "word": " main",
+          "start": 390.47468749999996,
+          "end": 390.7346875
+        },
+        {
+          "word": " shopping",
+          "start": 390.7346875,
+          "end": 391.0546875
+        },
+        {
+          "word": " area",
+          "start": 391.0546875,
+          "end": 391.5746875
+        },
+        {
+          "word": " as",
+          "start": 391.5746875,
+          "end": 391.8746875
+        },
+        {
+          "word": " they're",
+          "start": 391.8746875,
+          "end": 392.1746875
+        },
+        {
+          "word": " boxed",
+          "start": 392.1746875,
+          "end": 392.5546875
+        },
+        {
+          "word": " in",
+          "start": 392.5546875,
+          "end": 392.8946875
+        }
+      ]
+    },
+    {
+      "start": 392.8946875,
+      "end": 393.6146875,
+      "text": " you.",
+      "words": [
+        {
+          "word": " you.",
+          "start": 392.8946875,
+          "end": 393.6146875
+        }
+      ]
+    },
+    {
+      "start": 393.9346875,
+      "end": 395.9546875,
+      "text": " Did you get your course books from him?",
+      "words": [
+        {
+          "word": " Did",
+          "start": 393.9346875,
+          "end": 393.9546875
+        },
+        {
+          "word": " you",
+          "start": 393.9546875,
+          "end": 394.0746875
+        },
+        {
+          "word": " get",
+          "start": 394.0746875,
+          "end": 394.3346875
+        },
+        {
+          "word": " your",
+          "start": 394.3346875,
+          "end": 394.6746875
+        },
+        {
+          "word": " course",
+          "start": 394.6746875,
+          "end": 394.9946875
+        },
+        {
+          "word": " books",
+          "start": 394.9946875,
+          "end": 395.1946875
+        },
+        {
+          "word": " from",
+          "start": 395.1946875,
+          "end": 395.4546875
+        },
+        {
+          "word": " him?",
+          "start": 395.4546875,
+          "end": 395.9546875
+        }
+      ]
+    },
+    {
+      "start": 396.3146875,
+      "end": 396.6946875,
+      "text": " Naturally.",
+      "words": [
+        {
+          "word": " Naturally.",
+          "start": 396.3146875,
+          "end": 396.6946875
+        }
+      ]
+    },
+    {
+      "start": 397.7546875,
+      "end": 399.9346875,
+      "text": " He stocks books for a lot of the colleges.",
+      "words": [
+        {
+          "word": " He",
+          "start": 397.7546875,
+          "end": 398.0546875
+        },
+        {
+          "word": " stocks",
+          "start": 398.0546875,
+          "end": 398.3146875
+        },
+        {
+          "word": " books",
+          "start": 398.3146875,
+          "end": 398.6746875
+        },
+        {
+          "word": " for",
+          "start": 398.6746875,
+          "end": 398.9546875
+        },
+        {
+          "word": " a",
+          "start": 398.9546875,
+          "end": 399.0346875
+        },
+        {
+          "word": " lot",
+          "start": 399.0346875,
+          "end": 399.2346875
+        },
+        {
+          "word": " of",
+          "start": 399.2346875,
+          "end": 399.3946875
+        },
+        {
+          "word": " the",
+          "start": 399.3946875,
+          "end": 399.5546875
+        },
+        {
+          "word": " colleges.",
+          "start": 399.5546875,
+          "end": 399.9346875
+        }
+      ]
+    },
+    {
+      "start": 400.6346875,
+      "end": 405.47468749999996,
+      "text": " He used to keep these books on the first floor, but now there's a new university in",
+      "words": [
+        {
+          "word": " He",
+          "start": 400.6346875,
+          "end": 400.6746875
+        },
+        {
+          "word": " used",
+          "start": 400.6746875,
+          "end": 400.9346875
+        },
+        {
+          "word": " to",
+          "start": 400.9346875,
+          "end": 401.0546875
+        },
+        {
+          "word": " keep",
+          "start": 401.0546875,
+          "end": 401.2746875
+        },
+        {
+          "word": " these",
+          "start": 401.2746875,
+          "end": 401.5146875
+        },
+        {
+          "word": " books",
+          "start": 401.5146875,
+          "end": 401.7346875
+        },
+        {
+          "word": " on",
+          "start": 401.7346875,
+          "end": 401.9346875
+        },
+        {
+          "word": " the",
+          "start": 401.9346875,
+          "end": 402.1346875
+        },
+        {
+          "word": " first",
+          "start": 402.1346875,
+          "end": 402.4946875
+        },
+        {
+          "word": " floor,",
+          "start": 402.4946875,
+          "end": 402.9946875
+        },
+        {
+          "word": " but",
+          "start": 403.2546875,
+          "end": 403.59468749999996
+        },
+        {
+          "word": " now",
+          "start": 403.59468749999996,
+          "end": 403.8546875
+        },
+        {
+          "word": " there's",
+          "start": 403.8546875,
+          "end": 404.09468749999996
+        },
+        {
+          "word": " a",
+          "start": 404.09468749999996,
+          "end": 404.2946875
+        },
+        {
+          "word": " new",
+          "start": 404.2946875,
+          "end": 404.5146875
+        },
+        {
+          "word": " university",
+          "start": 404.5146875,
+          "end": 405.1346875
+        },
+        {
+          "word": " in",
+          "start": 405.1346875,
+          "end": 405.47468749999996
+        }
+      ]
+    },
+    {
+      "start": 405.47468749999996,
+      "end": 406.1346875,
+      "text": " my hometown.",
+      "words": [
+        {
+          "word": " my",
+          "start": 405.47468749999996,
+          "end": 405.71468749999997
+        },
+        {
+          "word": " hometown.",
+          "start": 405.71468749999997,
+          "end": 406.1346875
+        }
+      ]
+    },
+    {
+      "start": 406.6346875,
+      "end": 409.7746875,
+      "text": " He's moved them downstairs to attract the students.",
+      "words": [
+        {
+          "word": " He's",
+          "start": 406.6346875,
+          "end": 407.0346875
+        },
+        {
+          "word": " moved",
+          "start": 407.0346875,
+          "end": 407.2746875
+        },
+        {
+          "word": " them",
+          "start": 407.2746875,
+          "end": 407.5146875
+        },
+        {
+          "word": " downstairs",
+          "start": 407.5146875,
+          "end": 408.1546875
+        },
+        {
+          "word": " to",
+          "start": 408.1546875,
+          "end": 408.6146875
+        },
+        {
+          "word": " attract",
+          "start": 408.6146875,
+          "end": 408.9346875
+        },
+        {
+          "word": " the",
+          "start": 408.9346875,
+          "end": 409.21468749999997
+        },
+        {
+          "word": " students.",
+          "start": 409.21468749999997,
+          "end": 409.7746875
+        }
+      ]
+    },
+    {
+      "start": 410.3746875,
+      "end": 414.2746875,
+      "text": " They're actually part of the coffee shop on low shelves all around it.",
+      "words": [
+        {
+          "word": " They're",
+          "start": 410.3746875,
+          "end": 410.6746875
+        },
+        {
+          "word": " actually",
+          "start": 410.6746875,
+          "end": 410.9346875
+        },
+        {
+          "word": " part",
+          "start": 410.9346875,
+          "end": 411.21468749999997
+        },
+        {
+          "word": " of",
+          "start": 411.21468749999997,
+          "end": 411.3746875
+        },
+        {
+          "word": " the",
+          "start": 411.3746875,
+          "end": 411.59468749999996
+        },
+        {
+          "word": " coffee",
+          "start": 411.59468749999996,
+          "end": 411.7946875
+        },
+        {
+          "word": " shop",
+          "start": 411.7946875,
+          "end": 412.1146875
+        },
+        {
+          "word": " on",
+          "start": 412.1146875,
+          "end": 412.5546875
+        },
+        {
+          "word": " low",
+          "start": 412.5546875,
+          "end": 412.9146875
+        },
+        {
+          "word": " shelves",
+          "start": 412.9146875,
+          "end": 413.3346875
+        },
+        {
+          "word": " all",
+          "start": 413.3346875,
+          "end": 413.6146875
+        },
+        {
+          "word": " around",
+          "start": 413.6146875,
+          "end": 413.9546875
+        },
+        {
+          "word": " it.",
+          "start": 413.9546875,
+          "end": 414.2746875
+        }
+      ]
+    },
+    {
+      "start": 414.2746875,
+      "end": 418.6546875,
+      "text": " Pretty central then, you'll have to take me there some time.",
+      "words": [
+        {
+          "word": " Pretty",
+          "start": 414.2746875,
+          "end": 414.8746875
+        },
+        {
+          "word": " central",
+          "start": 414.8746875,
+          "end": 415.2346875
+        },
+        {
+          "word": " then,",
+          "start": 415.2346875,
+          "end": 415.7346875
+        },
+        {
+          "word": " you'll",
+          "start": 416.0146875,
+          "end": 416.2346875
+        },
+        {
+          "word": " have",
+          "start": 416.2346875,
+          "end": 416.4146875
+        },
+        {
+          "word": " to",
+          "start": 416.4146875,
+          "end": 416.5546875
+        },
+        {
+          "word": " take",
+          "start": 416.5546875,
+          "end": 416.7746875
+        },
+        {
+          "word": " me",
+          "start": 416.7746875,
+          "end": 416.9546875
+        },
+        {
+          "word": " there",
+          "start": 416.9546875,
+          "end": 417.1546875
+        },
+        {
+          "word": " some",
+          "start": 417.1546875,
+          "end": 417.3946875
+        },
+        {
+          "word": " time.",
+          "start": 417.3946875,
+          "end": 418.6546875
+        }
+      ]
+    },
+    {
+      "start": 421.0746875,
+      "end": 423.1946875,
+      "text": " That is the end of part 3.",
+      "words": [
+        {
+          "word": " That",
+          "start": 421.0746875,
+          "end": 421.4546875
+        },
+        {
+          "word": " is",
+          "start": 421.4546875,
+          "end": 421.6746875
+        },
+        {
+          "word": " the",
+          "start": 421.6746875,
+          "end": 421.8146875
+        },
+        {
+          "word": " end",
+          "start": 421.8146875,
+          "end": 422.1146875
+        },
+        {
+          "word": " of",
+          "start": 422.1146875,
+          "end": 422.4146875
+        },
+        {
+          "word": " part",
+          "start": 422.4146875,
+          "end": 422.59468749999996
+        },
+        {
+          "word": " 3.",
+          "start": 422.59468749999996,
+          "end": 423.1946875
+        }
+      ]
+    },
+    {
+      "start": 423.71468749999997,
+      "end": 428.0546875,
+      "text": " You now have 30 seconds to check your answers to part 3.",
+      "words": [
+        {
+          "word": " You",
+          "start": 423.71468749999997,
+          "end": 423.8946875
+        },
+        {
+          "word": " now",
+          "start": 423.8946875,
+          "end": 424.1746875
+        },
+        {
+          "word": " have",
+          "start": 424.1746875,
+          "end": 424.5746875
+        },
+        {
+          "word": " 30",
+          "start": 424.5746875,
+          "end": 424.9546875
+        },
+        {
+          "word": " seconds",
+          "start": 424.9546875,
+          "end": 425.3546875
+        },
+        {
+          "word": " to",
+          "start": 425.3546875,
+          "end": 425.8146875
+        },
+        {
+          "word": " check",
+          "start": 425.8146875,
+          "end": 426.1146875
+        },
+        {
+          "word": " your",
+          "start": 426.1146875,
+          "end": 426.3946875
+        },
+        {
+          "word": " answers",
+          "start": 426.3946875,
+          "end": 426.7946875
+        },
+        {
+          "word": " to",
+          "start": 426.7946875,
+          "end": 427.1746875
+        },
+        {
+          "word": " part",
+          "start": 427.1746875,
+          "end": 427.3946875
+        },
+        {
+          "word": " 3.",
+          "start": 427.3946875,
+          "end": 428.0546875
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 69,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nQuestions 27-31\nReading Passage 3 has eight paragraphs, A-H.\nWhich paragraph contains the following information?\nWrite the correct letter, A-H, in boxes 27-31 on your answer sheet.\nNB\nYou may use any letter more than once.\n27\nproposed explanations for the decline of the Harappan Civilisation\n28\nreference to a present-day application of some archaeological research findings\n29\na difference between the Harappan Civilisation and another culture of the same\nperiod\n30\nadescription of some features of Harappan urban design\n31\nreference to the discovery of errors made by previous archaeologists\n70\n|\n",
+  "blocks": [
+    {
+      "box": [
+        109.08000183105469,
+        54.0,
+        141.8237762451172,
+        63.72969055175781
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        108.0,
+        91.79998779296875,
+        207.17994689941406,
+        102.61077880859375
+      ],
+      "text": "Questions 27-31\n"
+    },
+    {
+      "box": [
+        107.63999938964844,
+        121.32000732421875,
+        366.63848876953125,
+        134.29298400878906
+      ],
+      "text": "Reading Passage 3 has eight paragraphs, A-H.\n"
+    },
+    {
+      "box": [
+        108.0,
+        150.1199951171875,
+        392.7312316894531,
+        163.0929718017578
+      ],
+      "text": "Which paragraph contains the following information?\n"
+    },
+    {
+      "box": [
+        108.0,
+        178.91998291015625,
+        471.4128723144531,
+        191.89295959472656
+      ],
+      "text": "Write the correct letter, A-H, in boxes 27-31 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        106.92001342773438,
+        207.3599853515625,
+        348.91204833984375,
+        219.61221313476562
+      ],
+      "text": "NB\nYou may use any letter more than once.\n"
+    },
+    {
+      "box": [
+        106.56002807617188,
+        236.15997314453125,
+        490.26239013671875,
+        249.13294982910156
+      ],
+      "text": "27\nproposed explanations for the decline of the Harappan Civilisation\n"
+    },
+    {
+      "box": [
+        106.20001220703125,
+        258.1199951171875,
+        565.3873901367188,
+        271.81365966796875
+      ],
+      "text": "28\nreference to a present-day application of some archaeological research findings\n"
+    },
+    {
+      "box": [
+        106.20001220703125,
+        280.44000244140625,
+        563.219970703125,
+        306.37115478515625
+      ],
+      "text": "29\na difference between the Harappan Civilisation and another culture of the same\nperiod\n"
+    },
+    {
+      "box": [
+        106.20001220703125,
+        316.79998779296875,
+        441.6839904785156,
+        330.4936828613281
+      ],
+      "text": "30\nadescription of some features of Harappan urban design\n"
+    },
+    {
+      "box": [
+        105.84002685546875,
+        339.4800109863281,
+        504.9609375,
+        353.5340270996094
+      ],
+      "text": "31\nreference to the discovery of errors made by previous archaeologists\n"
+    },
+    {
+      "box": [
+        103.32003784179688,
+        720.3599853515625,
+        595.69921875,
+        789.549072265625
+      ],
+      "text": "70\n|\n"
+    }
+  ]
+}

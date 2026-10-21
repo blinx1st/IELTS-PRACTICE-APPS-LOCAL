@@ -1,0 +1,183 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 80,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nQuestions 14-17\nReading Passage 2 has six paragraphs, A-F.\nWhich paragraph contains the following information?\nWrite the correct letter, A-F, in boxes 14-17 on your answer sheet.\n14\nareference to how quickly animal species can die out\n15\nreasons why it is preferable to study animals in captivity rather than in the wild\n16\nmention of two ways of learning about animals other than visiting them in zoos\n17\nreasons why animals in zoos may be healthier than those in the wild\nQuestions 18-22\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 18-22 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n18\nAn animal is likely to live longer in a zoo than in the wild.\n19\nThere are some species in zoos which can no longer be found in the wild.\n20\nImprovements in the quality of TV wildlife documentaries have resulted in increased\nnumbers of zoo visitors.\n21\nZoos have always excelled at transmitting information about animals to the public.\n22\nStudying animals in zoos is less stressful for the animals than studying them in\nthe wild.\n88\n",
+  "blocks": [
+    {
+      "box": [
+        127.77426147460938,
+        91.06167602539062,
+        156.92840576171875,
+        99.70858764648438
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        125.25476837158203,
+        217.31509399414062,
+        134.9824981689453
+      ],
+      "text": "Questions 14-17\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        151.889404296875,
+        347.5890808105469,
+        163.41856384277344
+      ],
+      "text": "Reading Passage 2 has six paragraphs, A-F.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        177.44430541992188,
+        381.9692687988281,
+        189.69406127929688
+      ],
+      "text": "Which paragraph contains the following information?\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        203.35903930664062,
+        452.69866943359375,
+        215.96908569335938
+      ],
+      "text": "Write the correct letter, A-F, in boxes 14-17 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        229.27381896972656,
+        411.24591064453125,
+        241.16329956054688
+      ],
+      "text": "14\nareference to how quickly animal species can die out\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        249.42977905273438,
+        530.1011962890625,
+        262.0398254394531
+      ],
+      "text": "15\nreasons why it is preferable to study animals in captivity rather than in the wild\n"
+    },
+    {
+      "box": [
+        125.61470794677734,
+        269.585693359375,
+        531.0226440429688,
+        282.5560607910156
+      ],
+      "text": "16\nmention of two ways of learning about animals other than visiting them in zoos\n"
+    },
+    {
+      "box": [
+        125.61473846435547,
+        289.3816833496094,
+        481.33831787109375,
+        301.6315002441406
+      ],
+      "text": "17\nreasons why animals in zoos may be healthier than those in the wild\n"
+    },
+    {
+      "box": [
+        125.25479888916016,
+        340.1315002441406,
+        215.05679321289062,
+        350.21954345703125
+      ],
+      "text": "Questions 18-22\n"
+    },
+    {
+      "box": [
+        124.89486694335938,
+        366.7661437988281,
+        536.947021484375,
+        380.0967712402344
+      ],
+      "text": "Do the following statements agree with the information given in Reading Passage 2?\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        392.680908203125,
+        337.25201416015625,
+        403.8498229980469
+      ],
+      "text": "In boxes 18-22 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        160.88758850097656,
+        418.5956726074219,
+        442.9430236816406,
+        454.95880126953125
+      ],
+      "text": "TRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        477.26385498046875,
+        421.025146484375,
+        489.1533508300781
+      ],
+      "text": "18\nAn animal is likely to live longer in a zoo than in the wild.\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        497.4197998046875,
+        504.8882751464844,
+        510.0298767089844
+      ],
+      "text": "19\nThere are some species in zoos which can no longer be found in the wild.\n"
+    },
+    {
+      "box": [
+        123.45513916015625,
+        517.2158203125,
+        554.5328979492188,
+        539.9002075195312
+      ],
+      "text": "20\nImprovements in the quality of TV wildlife documentaries have resulted in increased\nnumbers of zoo visitors.\n"
+    },
+    {
+      "box": [
+        123.0952377319336,
+        550.6890869140625,
+        545.5347900390625,
+        563.659423828125
+      ],
+      "text": "21\nZoos have always excelled at transmitting information about animals to the public.\n"
+    },
+    {
+      "box": [
+        122.73534393310547,
+        570.485107421875,
+        529.7701416015625,
+        592.4493408203125
+      ],
+      "text": "22\nStudying animals in zoos is less stressful for the animals than studying them in\nthe wild.\n"
+    },
+    {
+      "box": [
+        121.29563903808594,
+        728.1333618164062,
+        132.80252075195312,
+        736.4199829101562
+      ],
+      "text": "88\n"
+    }
+  ]
+}

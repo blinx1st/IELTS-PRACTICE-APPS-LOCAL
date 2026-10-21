@@ -1,0 +1,84 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 52,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nE\nFinally, understanding implicit theories of intelligence can help elucidate developmental and\ncross-cultural differences. As mentioned earlier, people have expectations for intellectual\nperformances that differ for children of different ages. How these expectations differ is\nin part a function of culture. For example, expectations for children who participate in\nWestern-style schooling are almost certain to be different from those for children who do\nnot participate in such schooling.\nF\n[have suggested that there are three major implicit theories ofhow intelligence relates to\nsociety as a whole (Sternberg, 1997). These might be called Hamiltonian, Jeffersonian, and\nJacksonian. These views are not based strictly, but rather, loosely, on the philosophies of\nAlexander Hamilton, Thomas Jefferson, and Andrew Jackson, three great statesmen in the\nhistory of the United States.\nG\nThe Hamiltonian view, which is similar to the Platonic view, is that people are born with\ndifferent levels of intelligence and that those who are less intelligent need the good offices\nof the more intelligent to keep them in line, whether they are called government officials or,\nin Plato’s term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this\nbelief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually\nwould have to take responsibility for the largely irresponsible masses of non-elite (low-IQ)\npeople who cannot take care ofthemselves. Left to themselves, the unintelligent would\ncreate, as they always have created, a kind of chaos.\nH\nThe Jeffersonian view is that people should have equal opportunities, but they do not\nnecessarily avail themselves equally of these opportunities and are not necessarily equally\nrewarded for their accomplishments. People are rewarded for what they accomplish, if given\nequal opportunity. Low achievers are not rewarded to the same extent as high achievers.\nIn the Jeffersonian view, the goal of education is not to favor or foster an elite, as in the\nHamiltonian tradition, but rather to allow children the opportunities to make full use of the\nskills they have. My own views are similar to these (Sternberg, 1997).\nI\nThe Jacksonian view is that all people are equal, not only as human beings but in terms\nof their competencies — that one person would serve as well as another in government or\non a jury or in almost any position of responsibility. In this view of democracy, people are\nessentially intersubstitutable except for specialized skills, all of which can be learned. In\nthis view, we do not need or want any institutions that might lead to favoring one group\nover another.\nJ\nImplicit theories of intelligence and of the relationship of intelligence to society perhaps\nneed to be considered more carefully than they have been because they often serve as\nunderlying presuppositions for explicit theories and even experimental designs that are then\ntaken as scientific contributions. Until scholars are able to discuss their implicit theories\nand thus their assumptions, they are likely to miss the point of what others are saying when\ndiscussing their explicit theories and their data.\n60\n",
+  "blocks": [
+    {
+      "box": [
+        127.77426147460938,
+        91.78157806396484,
+        156.91036987304688,
+        100.06815338134766
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        125.61469268798828,
+        559.2876586914062,
+        202.6500244140625
+      ],
+      "text": "E\nFinally, understanding implicit theories of intelligence can help elucidate developmental and\ncross-cultural differences. As mentioned earlier, people have expectations for intellectual\nperformances that differ for children of different ages. How these expectations differ is\nin part a function of culture. For example, expectations for children who participate in\nWestern-style schooling are almost certain to be different from those for children who do\nnot participate in such schooling.\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        210.91754150390625,
+        551.351318359375,
+        273.9149169921875
+      ],
+      "text": "F\n[have suggested that there are three major implicit theories ofhow intelligence relates to\nsociety as a whole (Sternberg, 1997). These might be called Hamiltonian, Jeffersonian, and\nJacksonian. These views are not based strictly, but rather, loosely, on the philosophies of\nAlexander Hamilton, Thomas Jefferson, and Andrew Jackson, three great statesmen in the\nhistory of the United States.\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        283.262939453125,
+        554.6481323242188,
+        385.85272216796875
+      ],
+      "text": "G\nThe Hamiltonian view, which is similar to the Platonic view, is that people are born with\ndifferent levels of intelligence and that those who are less intelligent need the good offices\nof the more intelligent to keep them in line, whether they are called government officials or,\nin Plato’s term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this\nbelief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually\nwould have to take responsibility for the largely irresponsible masses of non-elite (low-IQ)\npeople who cannot take care ofthemselves. Left to themselves, the unintelligent would\ncreate, as they always have created, a kind of chaos.\n"
+    },
+    {
+      "box": [
+        124.89462280273438,
+        394.4805603027344,
+        555.2239990234375,
+        485.5547790527344
+      ],
+      "text": "H\nThe Jeffersonian view is that people should have equal opportunities, but they do not\nnecessarily avail themselves equally of these opportunities and are not necessarily equally\nrewarded for their accomplishments. People are rewarded for what they accomplish, if given\nequal opportunity. Low achievers are not rewarded to the same extent as high achievers.\nIn the Jeffersonian view, the goal of education is not to favor or foster an elite, as in the\nHamiltonian tradition, but rather to allow children the opportunities to make full use of the\nskills they have. My own views are similar to these (Sternberg, 1997).\n"
+    },
+    {
+      "box": [
+        124.17475128173828,
+        492.7407531738281,
+        543.3607177734375,
+        566.5338134765625
+      ],
+      "text": "I\nThe Jacksonian view is that all people are equal, not only as human beings but in terms\nof their competencies — that one person would serve as well as another in government or\non a jury or in almost any position of responsibility. In this view of democracy, people are\nessentially intersubstitutable except for specialized skills, all of which can be learned. In\nthis view, we do not need or want any institutions that might lead to favoring one group\nover another.\n"
+    },
+    {
+      "box": [
+        122.73504638671875,
+        577.6836547851562,
+        550.2568359375,
+        655.4387817382812
+      ],
+      "text": "J\nImplicit theories of intelligence and of the relationship of intelligence to society perhaps\nneed to be considered more carefully than they have been because they often serve as\nunderlying presuppositions for explicit theories and even experimental designs that are then\ntaken as scientific contributions. Until scholars are able to discuss their implicit theories\nand thus their assumptions, they are likely to miss the point of what others are saying when\ndiscussing their explicit theories and their data.\n"
+    },
+    {
+      "box": [
+        121.6552734375,
+        728.8532104492188,
+        133.13694763183594,
+        736.779541015625
+      ],
+      "text": "60\n"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 99,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 528.3599853515625,
+  "height": 699.719970703125,
+  "text": "Test 1\nSome of you have already asked me about flexible working. After your probationary three-\nmonth period — some of you will be eligible for this — but it will depend on which department\nQ16\nyou're in and what your personal circumstances are. So please don’t assume you'll\nautomatically be permitted to do this.\n| want to make sure there’s no confusion about our holiday policy. Apart from any\nstatutory public holidays we ask that you don’t book any holidays until after your six-month\nQ17\napprenticeship has finished. Time off should only be taken if you are unwell. Please speak to\nyour supervisor if this is going to be a problem.\nYou'll be expected to work a 40-hour week but there may be opportunities to do overtime\nduring busy periods. Although you’re not required to do this, it can be a valuable experience.\nQ18\n— So we advise you to take it up if possible. Obviously, we understand that people do have\ncommitments outside work, so don't worry if there are times when you are unavailable.\nAs you know, we don’t have a formal dress code here — you may wear casual clothes as long\nas they’re practical — and the only restriction for shoes we have is on high heels for health\nand safety reasons. Comfortable shoes like trainers are preferable.\nQ19\nThere’s a heavily subsidised canteen on site where you can get hot meals or salads cheaply.\nSnacks and drinks are also provided ~ so we've decided to introduce a no packed lunch\nQ20\npolicy. This is partly to encourage healthy eating at work and partly to stop people from eating\nat their workstation, which is unhygienic.\nOK moving on to ...\nSECTION 3\nTUTOR:\nOK, so what I'd like you to do now is to talk to your partner about your\npresentations on urban planning. You should have done most of the reading\nnow, so I'd like you to share your ideas, and talk about the structure of your\npresentation and what you need to do next.\nCARLA:\nOK Rob. |’m glad we chose quite a specific topic — cities built next to the sea. It\nmade it much easier to find relevant information.\nROB:\nYeah. And cities are growing so quickly — | mean, we know that more than half\nthe world’s population fives in cities now.\nCARLA:\nYeah, though that's all cities, not just ones on the coast. But most of the biggest\nQ27\ncities are actually built by the sea. I'd not realised that before.\nROB:\nNor me. And what's more, a lot of them are built at places where rivers come out\ninto the sea. But apparently this can be a problem.\nCARLA:\nWhy?\nROB:\nWell, as the city expands, agriculture and industry tend to spread further inland\nalong the rivers, and so agriculture moves even further inland up the river.\nThat's not necessarily a problem, except it means more and more pollutants are Q22\ndischarged into the rivers.\nCARLA:\nSo these are brought downstream to the cities?\nROB:\nRight. Hmm. Did you read that article about Miami, on the east coast of the\nUSA?\nCARLA:\nNo.\nROB:\nWell, apparently back in the 1950s they built channels to drain away the water in\ncase of flooding.\nCARLA:\nSounds sensible.\nni\nROB:\nYeah, they spent quite a lot of money on them. But what they didn’t take into account Q23\neee\nwas global warming. So they built the drainage channels too close to sea level, and\n342\nYo\name\n",
+  "blocks": [
+    {
+      "box": [
+        449.8978271484375,
+        33.47246170043945,
+        477.9318542480469,
+        41.758827209472656
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        47.50917053222656,
+        66.58493041992188,
+        453.0920715332031,
+        109.06387329101562
+      ],
+      "text": "Some of you have already asked me about flexible working. After your probationary three-\nmonth period — some of you will be eligible for this — but it will depend on which department\nQ16\nyou're in and what your personal circumstances are. So please don’t assume you'll\nautomatically be permitted to do this.\n"
+    },
+    {
+      "box": [
+        47.869102478027344,
+        116.97345733642578,
+        454.1413269042969,
+        160.53256225585938
+      ],
+      "text": "| want to make sure there’s no confusion about our holiday policy. Apart from any\nstatutory public holidays we ask that you don’t book any holidays until after your six-month\nQ17\napprenticeship has finished. Time off should only be taken if you are unwell. Please speak to\nyour supervisor if this is going to be a problem.\n"
+    },
+    {
+      "box": [
+        47.50920104980469,
+        168.44180297851562,
+        454.1448669433594,
+        210.921142578125
+      ],
+      "text": "You'll be expected to work a 40-hour week but there may be opportunities to do overtime\nduring busy periods. Although you’re not required to do this, it can be a valuable experience.\nQ18\n— So we advise you to take it up if possible. Obviously, we understand that people do have\ncommitments outside work, so don't worry if there are times when you are unavailable.\n"
+    },
+    {
+      "box": [
+        47.869102478027344,
+        218.8303680419922,
+        453.7668762207031,
+        250.1522216796875
+      ],
+      "text": "As you know, we don’t have a formal dress code here — you may wear casual clothes as long\nas they’re practical — and the only restriction for shoes we have is on high heels for health\nand safety reasons. Comfortable shoes like trainers are preferable.\nQ19\n"
+    },
+    {
+      "box": [
+        47.869102478027344,
+        258.4213562011719,
+        454.1268310546875,
+        300.90032958984375
+      ],
+      "text": "There’s a heavily subsidised canteen on site where you can get hot meals or salads cheaply.\nSnacks and drinks are also provided ~ so we've decided to introduce a no packed lunch\nQ20\npolicy. This is partly to encourage healthy eating at work and partly to stop people from eating\nat their workstation, which is unhygienic.\n"
+    },
+    {
+      "box": [
+        48.229007720947266,
+        309.1698303222656,
+        126.92154693603516,
+        317.8165283203125
+      ],
+      "text": "OK moving on to ...\n"
+    },
+    {
+      "box": [
+        48.58892059326172,
+        350.2005310058594,
+        126.31685638427734,
+        360.2882995605469
+      ],
+      "text": "SECTION 3\n"
+    },
+    {
+      "box": [
+        48.229000091552734,
+        371.0758056640625,
+        421.0467529296875,
+        434.4285888671875
+      ],
+      "text": "TUTOR:\nOK, so what I'd like you to do now is to talk to your partner about your\npresentations on urban planning. You should have done most of the reading\nnow, so I'd like you to share your ideas, and talk about the structure of your\npresentation and what you need to do next.\nCARLA:\nOK Rob. |’m glad we chose quite a specific topic — cities built next to the sea. It\nmade it much easier to find relevant information.\n"
+    },
+    {
+      "box": [
+        48.588897705078125,
+        437.30072021484375,
+        454.8196716308594,
+        590.9930419921875
+      ],
+      "text": "ROB:\nYeah. And cities are growing so quickly — | mean, we know that more than half\nthe world’s population fives in cities now.\nCARLA:\nYeah, though that's all cities, not just ones on the coast. But most of the biggest\nQ27\ncities are actually built by the sea. I'd not realised that before.\nROB:\nNor me. And what's more, a lot of them are built at places where rivers come out\ninto the sea. But apparently this can be a problem.\nCARLA:\nWhy?\nROB:\nWell, as the city expands, agriculture and industry tend to spread further inland\nalong the rivers, and so agriculture moves even further inland up the river.\nThat's not necessarily a problem, except it means more and more pollutants are Q22\ndischarged into the rivers.\nCARLA:\nSo these are brought downstream to the cities?\nROB:\nRight. Hmm. Did you read that article about Miami, on the east coast of the\nUSA?\n"
+    },
+    {
+      "box": [
+        8.637991905212402,
+        593.8651733398438,
+        455.5124816894531,
+        666.2271118164062
+      ],
+      "text": "CARLA:\nNo.\nROB:\nWell, apparently back in the 1950s they built channels to drain away the water in\ncase of flooding.\nCARLA:\nSounds sensible.\nni\nROB:\nYeah, they spent quite a lot of money on them. But what they didn’t take into account Q23\neee\nwas global warming. So they built the drainage channels too close to sea level, and\n"
+    },
+    {
+      "box": [
+        8.637991905212402,
+        669.4480590820312,
+        51.32069396972656,
+        693.586669921875
+      ],
+      "text": "342\nYo\name\n"
+    }
+  ]
+}

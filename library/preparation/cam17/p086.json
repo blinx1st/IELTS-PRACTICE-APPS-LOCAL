@@ -1,0 +1,192 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 86,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nFete\nAra\naia 1718867188\nWRITING\nWRITING TASK\n1\nYou should spend about 20 minutes on this task.\nThe graph below shows the number of shops that closed and the number of\nnew shops that opened in one country between 2011 and 2018.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\nNumber of shop closures and openings 2011-2018\n—@— Closures\n9 — =—®=— = Openings\n9,000\n8,000\n—*\n\\\n7,000\nA\n\\\n6,000\nry\n77 *\n\\\nge ?\nx n\n5,000\n\\\n=\n®\nx\n\\\n, rd\nx\n_--®\n4,000\n°\ne---/-e-\n— ~ ~\n3,000\n‘@\n2,000\n1,000\n0\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n>\n|% p.137|\n93\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        511.4405517578125,
+        50.76811218261719
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nFete\nAra\naia 1718867188\n"
+    },
+    {
+      "box": [
+        258.42791748046875,
+        82.06343078613281,
+        326.1520080566406,
+        92.15149688720703
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        60.827735900878906,
+        126.69447326660156,
+        191.08547973632812,
+        136.78253173828125
+      ],
+      "text": "WRITING TASK\n1\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        155.84861755371094,
+        314.2165832519531,
+        166.6572265625
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        74.50497436523438,
+        192.20127868652344,
+        502.4227294921875,
+        217.0469970703125
+      ],
+      "text": "The graph below shows the number of shops that closed and the number of\nnew shops that opened in one country between 2011 and 2018.\n"
+    },
+    {
+      "box": [
+        74.14505767822266,
+        233.59288024902344,
+        507.7137145996094,
+        258.79864501953125
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        283.9827575683594,
+        189.89781188964844,
+        292.6296691894531
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        116.61649322509766,
+        310.61737060546875,
+        466.64227294921875,
+        324.30828857421875
+      ],
+      "text": "Number of shop closures and openings 2011-2018\n"
+    },
+    {
+      "box": [
+        181.0435028076172,
+        342.65093994140625,
+        396.5825500488281,
+        355.6213073730469
+      ],
+      "text": "—@— Closures\n9 — =—®=— = Openings\n"
+    },
+    {
+      "box": [
+        61.187679290771484,
+        368.5657043457031,
+        87.05747985839844,
+        377.5729064941406
+      ],
+      "text": "9,000\n"
+    },
+    {
+      "box": [
+        61.187679290771484,
+        394.48046875,
+        108.29499053955078,
+        404.5685119628906
+      ],
+      "text": "8,000\n—*\n"
+    },
+    {
+      "box": [
+        109.77788543701172,
+        407.07794189453125,
+        114.06102752685547,
+        414.28369140625
+      ],
+      "text": "\\\n"
+    },
+    {
+      "box": [
+        61.547603607177734,
+        420.0353088378906,
+        120.1725845336914,
+        431.9248046875
+      ],
+      "text": "7,000\nA\n"
+    },
+    {
+      "box": [
+        121.65548706054688,
+        432.27288818359375,
+        125.974609375,
+        439.4786071777344
+      ],
+      "text": "\\\n"
+    },
+    {
+      "box": [
+        61.18767547607422,
+        448.4696044921875,
+        517.8637084960938,
+        540.2611694335938
+      ],
+      "text": "6,000\nry\n77 *\n\\\nge ?\nx n\n5,000\n\\\n=\n®\nx\n\\\n, rd\nx\n_--®\n4,000\n°\ne---/-e-\n— ~ ~\n3,000\n‘@\n"
+    },
+    {
+      "box": [
+        61.187740325927734,
+        558.607421875,
+        86.8865966796875,
+        567.2543334960938
+      ],
+      "text": "2,000\n"
+    },
+    {
+      "box": [
+        61.9075927734375,
+        585.6019287109375,
+        87.1025161743164,
+        594.6090698242188
+      ],
+      "text": "1,000\n"
+    },
+    {
+      "box": [
+        82.06353759765625,
+        612.9564208984375,
+        87.08993530273438,
+        620.5224609375
+      ],
+      "text": "0\n"
+    },
+    {
+      "box": [
+        89.2620849609375,
+        630.9528198242188,
+        525.7030029296875,
+        638.5188598632812
+      ],
+      "text": "2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n"
+    },
+    {
+      "box": [
+        422.91485595703125,
+        728.8530883789062,
+        525.1270141601562,
+        741.1028442382812
+      ],
+      "text": ">\n|% p.137|\n93\n"
+    }
+  ]
+}

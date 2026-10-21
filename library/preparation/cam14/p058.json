@@ -1,0 +1,111 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 58,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nQuestions 23-26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 23-26 on your answer sheet.\nResearch at Aberystwyth University\nRoss Piper and fellow zoologists at Aberystwyth University are using their expertise\nIN 23 .nmnnnnnnnnnnnnnnee WHEN Undertaking bioprospecting with insects. They are\nespecially interested in the compounds that insects produce to overpower and\nPFESEIVE their 24oem\n« They are also interested in compounds which\ninsects use to protect themselves from pathogenic bacteria and fungi found in their\n25 ooconisnunnmunnnne\n+ Piper hopes that these substances will be useful in the\ndevelopment of drugs SUCH AS 26 wuss\n«\n66\n",
+  "blocks": [
+    {
+      "box": [
+        127.05440521240234,
+        91.78152465820312,
+        156.19410705566406,
+        100.42837524414062
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        125.61470031738281,
+        215.84860229492188,
+        135.7027587890625
+      ],
+      "text": "Questions 23-26\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        152.24932861328125,
+        271.9468994140625,
+        163.77854919433594
+      ],
+      "text": "Complete the summary below.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        178.16409301757812,
+        432.6184997558594,
+        190.41384887695312
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        126.33456420898438,
+        203.71896362304688,
+        407.9922180175781,
+        215.96871948242188
+      ],
+      "text": "Write your answers in boxes 23-26 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        213.0770721435547,
+        232.8731231689453,
+        468.98541259765625,
+        248.72573852539062
+      ],
+      "text": "Research at Aberystwyth University\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        264.5467529296875,
+        530.7293701171875,
+        277.87738037109375
+      ],
+      "text": "Ross Piper and fellow zoologists at Aberystwyth University are using their expertise\n"
+    },
+    {
+      "box": [
+        124.89485168457031,
+        281.46331787109375,
+        511.681884765625,
+        294.7939453125
+      ],
+      "text": "IN 23 .nmnnnnnnnnnnnnnnee WHEN Undertaking bioprospecting with insects. They are\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        298.7398681640625,
+        525.8991088867188,
+        328.6264343261719
+      ],
+      "text": "especially interested in the compounds that insects produce to overpower and\nPFESEIVE their 24oem\n« They are also interested in compounds which\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        332.5730285644531,
+        527.7976684570312,
+        377.9353942871094
+      ],
+      "text": "insects use to protect themselves from pathogenic bacteria and fungi found in their\n25 ooconisnunnmunnnne\n+ Piper hopes that these substances will be useful in the\ndevelopment of drugs SUCH AS 26 wuss\n«\n"
+    },
+    {
+      "box": [
+        120.93563079833984,
+        728.4932861328125,
+        132.41732788085938,
+        736.4196166992188
+      ],
+      "text": "66\n"
+    }
+  ]
+}

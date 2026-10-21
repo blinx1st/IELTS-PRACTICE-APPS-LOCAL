@@ -4,7 +4,7 @@
   "book": 16,
   "test": 3,
   "title": "Cambridge 16 · Test 3",
-  "version": "2026-10-21.1",
+  "version": "2026-10-21.1.inline2.layout1",
   "verification": {
     "status": "verified",
     "note": "All 3 passages and 40 questions, options, instructions and word limits compared with rendered supplied PDF pages. OCR word joins, paragraph boundaries, source accents and unreadable completion blanks corrected. Private key separately read against printed source key.",
@@ -128,7 +128,88 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Warships and merchant ships\nWarships were designed so that they were ",
+                  {
+                    "number": 6
+                  },
+                  " and moved quickly. They often remained afloat after battles and were able to sail close to land as they lacked any additional weight. A battering ram made of ",
+                  {
+                    "number": 7
+                  },
+                  " was included in the design for attacking and damaging the timber and oars of enemy ships. Warships, such as the ‘trireme’, had rowers on three different ",
+                  {
+                    "number": 8
+                  },
+                  " .\nUnlike warships, merchant ships had a broad ",
+                  {
+                    "number": 9
+                  },
+                  " that lay far below the surface of the sea. Merchant ships were steered through the water with the help of large rudders and a tiller bar. They had both square and ",
+                  {
+                    "number": 10
+                  },
+                  " sails. On merchant ships and warships, ",
+                  {
+                    "number": 11
+                  },
+                  " was used to ensure rowers moved their oars in and out of the water at the same time.\nQuantities of agricultural goods such as ",
+                  {
+                    "number": 12
+                  },
+                  " were transported by merchant ships to two main ports in Italy. The ships were pulled to the shore by ",
+                  {
+                    "number": 13
+                  },
+                  " . When the weather was clear and they could see islands or land, sailors used landmarks that they knew to help them navigate their route."
+                ],
+                "anchors": [
+                  "cam16-t3-p1-g2-body-0",
+                  "",
+                  "cam16-t3-p1-g2-body-81",
+                  "",
+                  "cam16-t3-p1-g2-body-252",
+                  "",
+                  "cam16-t3-p1-g2-body-418",
+                  "",
+                  "cam16-t3-p1-g2-body-477",
+                  "",
+                  "cam16-t3-p1-g2-body-654",
+                  "",
+                  "cam16-t3-p1-g2-body-707",
+                  "",
+                  "cam16-t3-p1-g2-body-847",
+                  "",
+                  "cam16-t3-p1-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourceImages": [
@@ -361,7 +442,48 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Interesting finds at an archaeological site\nOrganic materials such as animal skins and textiles are not discovered very often at archaeological sites. They have little protection against ",
+                  {
+                    "number": 20
+                  },
+                  " , which means that they decay relatively quickly. But this is not always the case. If temperatures are low enough, fragile artefacts can be preserved for thousands of years.\nA team of archaeologists have been working in the mountains in Oppland in Norway to recover artefacts revealed by shrinking ice cover. In the past, there were trade routes through these mountains and ",
+                  {
+                    "number": 21
+                  },
+                  " gathered there in the summer months to avoid being attacked by ",
+                  {
+                    "number": 22
+                  },
+                  " on lower ground. The people who used these mountains left things behind and it is those objects that are of interest to archaeologists."
+                ],
+                "anchors": [
+                  "cam16-t3-p2-g2-body-0",
+                  "",
+                  "cam16-t3-p2-g2-body-200",
+                  "",
+                  "cam16-t3-p2-g2-body-588",
+                  "",
+                  "cam16-t3-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam16-t3-p2-g3",
@@ -709,7 +831,42 @@
             }
           ],
           "wordLimit": 2,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Daffodils are likely to flower early in response to ",
+                  {
+                    "number": 38
+                  },
+                  " weather."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "If ash trees come into leaf before oak trees, the weather in ",
+                  {
+                    "number": 39
+                  },
+                  " will probably be wet."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The research was carried out using a particular species of ",
+                  {
+                    "number": 40
+                  },
+                  " ."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourceImages": [

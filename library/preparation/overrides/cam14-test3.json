@@ -3,7 +3,7 @@
   "book": 14,
   "test": 3,
   "title": "Cambridge 14 · Test 3",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -520,7 +520,40 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Research at Aberystwyth University"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Ross Piper and fellow zoologists at Aberystwyth University are using their expertise in ",
+                  {
+                    "number": 23
+                  },
+                  " when undertaking bioprospecting with insects. They are especially interested in the compounds that insects produce to overpower and preserve their ",
+                  {
+                    "number": 24
+                  },
+                  ". They are also interested in compounds which insects use to protect themselves from pathogenic bacteria and fungi found in their ",
+                  {
+                    "number": 25
+                  },
+                  ". Piper hopes that these substances will be useful in the development of drugs such as ",
+                  {
+                    "number": 26
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -735,7 +768,46 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Guided play"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "In the simplest form of guided play, an adult contributes to the environment in which the child is playing. Alternatively, an adult can play with a child and develop the play, for instance by ",
+                  {
+                    "number": 37
+                  },
+                  " the child to investigate different aspects of their game. Adults can help children to learn through play, and may make the activity rather structured, but it should still be based on the child’s ",
+                  {
+                    "number": 38
+                  },
+                  " to play."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Play without the intervention of adults gives children real ",
+                  {
+                    "number": 39
+                  },
+                  "; with adults, play can be ",
+                  {
+                    "number": 40
+                  },
+                  " at particular goals. However, all forms of play should be an opportunity for children to have fun."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

@@ -1,0 +1,165 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 88,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nSPEAKING\nPART 1\nThe examiner asks the candidate about him/herself, his/her home, work or studies and\nother familiar topics.\nEXAMPLE\nYour neighbourhood\n°\nDo you like the neighbourhood you live in? [Why/Why not?]\n¢\nWhat do you do in your neighbourhood in your free time? [Why/Why not?]\n°\nWhat new things would you like to have in your neighbourhood? [Why/Why not?]\n¢\n— Would you like to live in another neighbourhood in your town or city? [Why/Why not?]\nPART 2\nDescribe a website you have bought something from.\nYou will have to talk\nYou should say:\naout= eee or ne\nwhat the website is\n7\n° ios chicane oa\nwhat you bought from this website\nventi rhea\ni\nhow satisfied you were with what you bought\nus\neve\nyo\nare going to say. You\nand explain what you liked and disliked about using\ncan make some notes\nthis website.\nto help you if you wish.\nPART 3\nDiscussion topics:\nShopping online\nExample questions:\nWhat kinds of things do people in your country often buy from online shops?\nWhy has online shopping become so popular in many countries?\nWhat are some possible disadvantages of buying things from online shops?\nOnline retail businesses\n.\nExample questions:\nDo you agree that the prices of all goods should be lower on internet shopping sites than\nin shops?\nWill large shopping malls continue to be popular, despite the growth of internet shopping?\nDo you think that some businesses (e.g. banks and travel agents) will only operate\nonline in the future?\n96\n",
+  "blocks": [
+    {
+      "box": [
+        127.41433715820312,
+        90.70175170898438,
+        156.56846618652344,
+        99.34866333007812
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        304.4986572265625,
+        126.69447326660156,
+        380.2851257324219,
+        136.78253173828125
+      ],
+      "text": "SPEAKING\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        169.16590881347656,
+        176.3284912109375,
+        179.25396728515625
+      ],
+      "text": "PART 1\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        196.52041625976562,
+        548.5151977539062,
+        220.28643798828125
+      ],
+      "text": "The examiner asks the candidate about him/herself, his/her home, work or studies and\nother familiar topics.\n"
+    },
+    {
+      "box": [
+        125.61470794677734,
+        229.63375854492188,
+        177.6167449951172,
+        238.28060913085938
+      ],
+      "text": "EXAMPLE\n"
+    },
+    {
+      "box": [
+        124.89485168457031,
+        249.78970336914062,
+        232.3494873046875,
+        260.238037109375
+      ],
+      "text": "Your neighbourhood\n"
+    },
+    {
+      "box": [
+        124.53497314453125,
+        269.9455871582031,
+        557.0956420898438,
+        343.0205993652344
+      ],
+      "text": "°\nDo you like the neighbourhood you live in? [Why/Why not?]\n¢\nWhat do you do in your neighbourhood in your free time? [Why/Why not?]\n°\nWhat new things would you like to have in your neighbourhood? [Why/Why not?]\n¢\n— Would you like to live in another neighbourhood in your town or city? [Why/Why not?]\nPART 2\n"
+    },
+    {
+      "box": [
+        135.33277893066406,
+        365.6863098144531,
+        552.8487548828125,
+        470.0797424316406
+      ],
+      "text": "Describe a website you have bought something from.\nYou will have to talk\nYou should say:\naout= eee or ne\nwhat the website is\n7\n° ios chicane oa\nwhat you bought from this website\nventi rhea\ni\nhow satisfied you were with what you bought\nus\neve\nyo\nare going to say. You\nand explain what you liked and disliked about using\ncan make some notes\nthis website.\nto help you if you wish.\n"
+    },
+    {
+      "box": [
+        123.81511688232422,
+        495.9801025390625,
+        175.26316833496094,
+        506.0681457519531
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        123.09526824951172,
+        516.8558959960938,
+        229.36744689941406,
+        528.7454223632812
+      ],
+      "text": "Discussion topics:\n"
+    },
+    {
+      "box": [
+        122.73533630371094,
+        537.3717041015625,
+        208.50608825683594,
+        548.1803588867188
+      ],
+      "text": "Shopping online\n"
+    },
+    {
+      "box": [
+        122.01548767089844,
+        557.5277099609375,
+        492.78387451171875,
+        609.7301025390625
+      ],
+      "text": "Example questions:\nWhat kinds of things do people in your country often buy from online shops?\nWhy has online shopping become so popular in many countries?\nWhat are some possible disadvantages of buying things from online shops?\n"
+    },
+    {
+      "box": [
+        122.37540435791016,
+        622.314697265625,
+        578.403564453125,
+        631.3218383789062
+      ],
+      "text": "Online retail businesses\n.\n"
+    },
+    {
+      "box": [
+        122.01548767089844,
+        642.4705810546875,
+        553.10791015625,
+        678.8336791992188
+      ],
+      "text": "Example questions:\nDo you agree that the prices of all goods should be lower on internet shopping sites than\nin shops?\n"
+    },
+    {
+      "box": [
+        121.29562377929688,
+        681.3427734375,
+        552.4384765625,
+        696.474853515625
+      ],
+      "text": "Will large shopping malls continue to be popular, despite the growth of internet shopping?\n"
+    },
+    {
+      "box": [
+        121.2956314086914,
+        694.3001098632812,
+        523.0845336914062,
+        716.2647094726562
+      ],
+      "text": "Do you think that some businesses (e.g. banks and travel agents) will only operate\nonline in the future?\n"
+    },
+    {
+      "box": [
+        121.29562377929688,
+        727.7734375,
+        132.80250549316406,
+        736.06005859375
+      ],
+      "text": "96\n"
+    }
+  ]
+}

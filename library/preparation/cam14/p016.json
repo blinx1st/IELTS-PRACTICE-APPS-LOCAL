@@ -1,0 +1,111 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 16,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 1\nQuestions 23-26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 23-26 on your answer sheet.\nThe first urban bike-sharing scheme\nThe first bike-sharing scheme was the idea of the Dutch group Provo. The people who\nbelonged to this group Were 23 ........csssnummnnee\n« They were concerned about damage\nto the environment and about 24... nnsnmnnen\n, and believed that the bike-sharing\nscheme would draw attention to these issues. As well as painting some bikes white, they\nhanded Out 25 ocean that condemned the use of cars.\nHowever, the scheme was not a great success: almost as quickly as Provo left\nthe bikes around the City, the 26 oss: took them away. According to\nSchimmelpennink, the scheme was intended to be symbolic. The idea was to get people\nthinking about the issues.\n24\n",
+  "blocks": [
+    {
+      "box": [
+        127.41433715820312,
+        91.42159271240234,
+        155.4490966796875,
+        99.7082290649414
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        125.25477600097656,
+        216.06455993652344,
+        135.34283447265625
+      ],
+      "text": "Questions 23-26\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        151.8894500732422,
+        272.38226318359375,
+        163.05833435058594
+      ],
+      "text": "Complete the summary below.\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        177.80421447753906,
+        433.16741943359375,
+        189.69369506835938
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        126.33456420898438,
+        203.35902404785156,
+        408.2298278808594,
+        215.24850463867188
+      ],
+      "text": "Write your answers in boxes 23-26 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        211.27745056152344,
+        232.1531982421875,
+        470.504638671875,
+        247.64559936523438
+      ],
+      "text": "The first urban bike-sharing scheme\n"
+    },
+    {
+      "box": [
+        124.89482116699219,
+        264.1867980957031,
+        553.9570922851562,
+        294.0736999511719
+      ],
+      "text": "The first bike-sharing scheme was the idea of the Dutch group Provo. The people who\nbelonged to this group Were 23 ........csssnummnnee\n« They were concerned about damage\n"
+    },
+    {
+      "box": [
+        124.53485107421875,
+        298.3798522949219,
+        556.3397827148438,
+        342.66143798828125
+      ],
+      "text": "to the environment and about 24... nnsnmnnen\n, and believed that the bike-sharing\nscheme would draw attention to these issues. As well as painting some bikes white, they\nhanded Out 25 ocean that condemned the use of cars.\n"
+    },
+    {
+      "box": [
+        124.53485107421875,
+        362.08709716796875,
+        506.5762939453125,
+        374.33685302734375
+      ],
+      "text": "However, the scheme was not a great success: almost as quickly as Provo left\n"
+    },
+    {
+      "box": [
+        123.455078125,
+        379.003662109375,
+        554.5187377929688,
+        423.6454772949219
+      ],
+      "text": "the bikes around the City, the 26 oss: took them away. According to\nSchimmelpennink, the scheme was intended to be symbolic. The idea was to get people\nthinking about the issues.\n"
+    },
+    {
+      "box": [
+        121.29551696777344,
+        728.4932861328125,
+        132.7772216796875,
+        736.4196166992188
+      ],
+      "text": "24\n"
+    }
+  ]
+}

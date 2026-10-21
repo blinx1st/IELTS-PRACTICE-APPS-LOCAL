@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "reviewDate": "2026-10-21",
-  "method": "Six table layouts visually transcribed against local original source crops; matrix rows use previously reviewed question text and options. Original groups excluding layout are fingerprinted for safe presentation overlays on historic snapshots.",
+  "method": "Seven table layouts and 38 matching matrices retained from source-reviewed metadata, including Cambridge 16. Original groups excluding layout are fingerprinted for safe presentation overlays on historic snapshots.",
   "counts": {
-    "table": 6,
-    "headings": 5,
-    "paragraphs": 29
+    "table": 7,
+    "headings": 7,
+    "paragraphs": 31
   },
-  "totalGroups": 40,
+  "totalGroups": 45,
   "errors": [],
   "checks": [
     "exact question coverage",
@@ -455,6 +455,123 @@
         {
           "url": "/library-assets/cam15-t4-p1-g2-s1-74604ef0.webp",
           "page": 84
+        }
+      ]
+    },
+    {
+      "testId": "cam16-test1",
+      "groupId": "cam16-t1-p1-g2",
+      "kind": "table",
+      "questionRefs": [
+        {
+          "number": 8
+        },
+        {
+          "number": 9
+        },
+        {
+          "number": 10
+        },
+        {
+          "number": 11
+        },
+        {
+          "number": 12
+        },
+        {
+          "number": 13
+        }
+      ],
+      "baseSha256": "90592fdd73c57f435fcd231b52496eafeb38a5e37f38bbd213d1d5fe2743203f",
+      "layoutSha256": "187dcd6eb4fcb32985636c7e5ab19bffe567f4aa4a7448fe3c39cfc06a7ad072",
+      "sources": [
+        {
+          "url": "/library-assets/cam16-r-t1-p1-g2-source.webp",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "testId": "cam16-test1",
+      "groupId": "cam16-t1-p2-g1",
+      "kind": "headings",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "baseSha256": "3f456be9fad15d2606d9897ada06a3657ebcfc2df7de3bb6a9848beb6772e872",
+      "layoutSha256": "183bbbeaa0844f8ab6d68fc242ec5c6f55e7c1d68f31301bda77a46bb7397eff",
+      "sources": [
+        {
+          "url": "/library-assets/cam16-r-t1-p2-g1-source.webp",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "testId": "cam16-test3",
+      "groupId": "cam16-t3-p2-g1",
+      "kind": "paragraphs",
+      "questionRefs": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "baseSha256": "92730a691ca7b4c8fa12c6866d6a9b51418242bedabdc0536f1fd4c6adf1d385",
+      "layoutSha256": "6a49fb0eec4f616ad7a5c2e2d23a4fba40a679f0e05fc982ea059079bee95a4b",
+      "sources": [
+        {
+          "url": "/library-assets/cam16-r-t3-p2-g1-source.webp",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "testId": "cam16-test3",
+      "groupId": "cam16-t3-p3-g2",
+      "kind": "paragraphs",
+      "questionRefs": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "baseSha256": "19b11b4de24b52b1dec97fc8905ba88a3e48938ed5d3feebbe161ca0642bd4fd",
+      "layoutSha256": "65e97b5c0b9b5416313c08b29e7d91be5551ce734575787a959dc6dd8a5bac62",
+      "sources": [
+        {
+          "url": "/library-assets/cam16-r-t3-p3-g2-source.webp",
+          "page": 72
+        }
+      ]
+    },
+    {
+      "testId": "cam16-test4",
+      "groupId": "cam16-t4-p3-g1",
+      "kind": "headings",
+      "questionRefs": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "baseSha256": "c12087574de2dbd341b5ca7ecfc8d563dd505996825dbda1ce69108d05438cea",
+      "layoutSha256": "dbffc082ed697a3bd0d4f25527c88a28779e5e8e2f887c68e4ddfacaa754e261",
+      "sources": [
+        {
+          "url": "/library-assets/cam16-r-t4-p3-g1-source.webp",
+          "page": 91
         }
       ]
     },

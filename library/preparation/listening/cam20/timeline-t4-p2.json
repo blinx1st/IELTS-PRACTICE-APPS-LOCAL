@@ -1,0 +1,765 @@
+{
+  "audioSha256": "d11b2c3bbce95b06bbdbeca8f928ee7e3002367f59a6b89feff6f63256cea092",
+  "duration": 508.4338125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 388.4338125,
+      "end": 394.2938125,
+      "text": " When one team called the end of the game, and the other team wanted to play on to try",
+      "words": [
+        {
+          "word": " When",
+          "start": 388.4338125,
+          "end": 388.6738125
+        },
+        {
+          "word": " one",
+          "start": 388.6738125,
+          "end": 389.0138125
+        },
+        {
+          "word": " team",
+          "start": 389.0138125,
+          "end": 389.3138125
+        },
+        {
+          "word": " called",
+          "start": 389.3138125,
+          "end": 389.6938125
+        },
+        {
+          "word": " the",
+          "start": 389.6938125,
+          "end": 389.95381249999997
+        },
+        {
+          "word": " end",
+          "start": 389.95381249999997,
+          "end": 390.1738125
+        },
+        {
+          "word": " of",
+          "start": 390.1738125,
+          "end": 390.3138125
+        },
+        {
+          "word": " the",
+          "start": 390.3138125,
+          "end": 390.4338125
+        },
+        {
+          "word": " game,",
+          "start": 390.4338125,
+          "end": 390.83381249999996
+        },
+        {
+          "word": " and",
+          "start": 391.1538125,
+          "end": 391.27381249999996
+        },
+        {
+          "word": " the",
+          "start": 391.27381249999996,
+          "end": 391.4938125
+        },
+        {
+          "word": " other",
+          "start": 391.4938125,
+          "end": 391.77381249999996
+        },
+        {
+          "word": " team",
+          "start": 391.77381249999996,
+          "end": 392.3138125
+        },
+        {
+          "word": " wanted",
+          "start": 392.3138125,
+          "end": 392.5538125
+        },
+        {
+          "word": " to",
+          "start": 392.5538125,
+          "end": 392.8138125
+        },
+        {
+          "word": " play",
+          "start": 392.8138125,
+          "end": 393.0938125
+        },
+        {
+          "word": " on",
+          "start": 393.0938125,
+          "end": 393.6938125
+        },
+        {
+          "word": " to",
+          "start": 393.6938125,
+          "end": 393.89381249999997
+        },
+        {
+          "word": " try",
+          "start": 393.89381249999997,
+          "end": 394.2938125
+        }
+      ]
+    },
+    {
+      "start": 394.2938125,
+      "end": 396.0538125,
+      "text": " and score a winning goal.",
+      "words": [
+        {
+          "word": " and",
+          "start": 394.2938125,
+          "end": 394.5938125
+        },
+        {
+          "word": " score",
+          "start": 394.5938125,
+          "end": 394.9738125
+        },
+        {
+          "word": " a",
+          "start": 394.9738125,
+          "end": 395.2338125
+        },
+        {
+          "word": " winning",
+          "start": 395.2338125,
+          "end": 395.45381249999997
+        },
+        {
+          "word": " goal.",
+          "start": 395.45381249999997,
+          "end": 396.0538125
+        }
+      ]
+    },
+    {
+      "start": 397.4938125,
+      "end": 403.45381249999997,
+      "text": " By 1878, the number of teams in the football league increased again.",
+      "words": [
+        {
+          "word": " By",
+          "start": 397.4938125,
+          "end": 398.2338125
+        },
+        {
+          "word": " 1878,",
+          "start": 398.2338125,
+          "end": 398.9738125
+        },
+        {
+          "word": " the",
+          "start": 399.5538125,
+          "end": 399.6938125
+        },
+        {
+          "word": " number",
+          "start": 399.6938125,
+          "end": 399.9938125
+        },
+        {
+          "word": " of",
+          "start": 399.9938125,
+          "end": 400.27381249999996
+        },
+        {
+          "word": " teams",
+          "start": 400.27381249999996,
+          "end": 400.6338125
+        },
+        {
+          "word": " in",
+          "start": 400.6338125,
+          "end": 400.89381249999997
+        },
+        {
+          "word": " the",
+          "start": 400.89381249999997,
+          "end": 401.0138125
+        },
+        {
+          "word": " football",
+          "start": 401.0138125,
+          "end": 401.3738125
+        },
+        {
+          "word": " league",
+          "start": 401.3738125,
+          "end": 401.95381249999997
+        },
+        {
+          "word": " increased",
+          "start": 401.95381249999997,
+          "end": 402.6138125
+        },
+        {
+          "word": " again.",
+          "start": 402.6138125,
+          "end": 403.45381249999997
+        }
+      ]
+    },
+    {
+      "start": 404.0538125,
+      "end": 410.9938125,
+      "text": " In addition, referees started using whistles and electric lamps were installed on certain",
+      "words": [
+        {
+          "word": " In",
+          "start": 404.0538125,
+          "end": 404.1538125
+        },
+        {
+          "word": " addition,",
+          "start": 404.1538125,
+          "end": 404.6938125
+        },
+        {
+          "word": " referees",
+          "start": 405.3138125,
+          "end": 405.4938125
+        },
+        {
+          "word": " started",
+          "start": 405.4938125,
+          "end": 406.15381249999996
+        },
+        {
+          "word": " using",
+          "start": 406.15381249999996,
+          "end": 406.7138125
+        },
+        {
+          "word": " whistles",
+          "start": 406.7138125,
+          "end": 407.2538125
+        },
+        {
+          "word": " and",
+          "start": 407.2538125,
+          "end": 408.0138125
+        },
+        {
+          "word": " electric",
+          "start": 408.0138125,
+          "end": 408.7138125
+        },
+        {
+          "word": " lamps",
+          "start": 408.7138125,
+          "end": 409.2538125
+        },
+        {
+          "word": " were",
+          "start": 409.2538125,
+          "end": 409.6338125
+        },
+        {
+          "word": " installed",
+          "start": 409.6338125,
+          "end": 410.0538125
+        },
+        {
+          "word": " on",
+          "start": 410.0538125,
+          "end": 410.6138125
+        },
+        {
+          "word": " certain",
+          "start": 410.6138125,
+          "end": 410.9938125
+        }
+      ]
+    },
+    {
+      "start": 410.9938125,
+      "end": 411.4738125,
+      "text": " pitches.",
+      "words": [
+        {
+          "word": " pitches.",
+          "start": 410.9938125,
+          "end": 411.4738125
+        }
+      ]
+    },
+    {
+      "start": 411.4738125,
+      "end": 419.5738125,
+      "text": " This was a significant change, as games could then be played in the evenings all year round.",
+      "words": [
+        {
+          "word": " This",
+          "start": 411.4738125,
+          "end": 412.6938125
+        },
+        {
+          "word": " was",
+          "start": 412.6938125,
+          "end": 413.1138125
+        },
+        {
+          "word": " a",
+          "start": 413.1138125,
+          "end": 413.3538125
+        },
+        {
+          "word": " significant",
+          "start": 413.3538125,
+          "end": 413.8738125
+        },
+        {
+          "word": " change,",
+          "start": 413.8738125,
+          "end": 414.6138125
+        },
+        {
+          "word": " as",
+          "start": 415.0138125,
+          "end": 415.2138125
+        },
+        {
+          "word": " games",
+          "start": 415.2138125,
+          "end": 415.6138125
+        },
+        {
+          "word": " could",
+          "start": 415.6138125,
+          "end": 415.9938125
+        },
+        {
+          "word": " then",
+          "start": 415.9938125,
+          "end": 416.2138125
+        },
+        {
+          "word": " be",
+          "start": 416.2138125,
+          "end": 416.45381249999997
+        },
+        {
+          "word": " played",
+          "start": 416.45381249999997,
+          "end": 416.8538125
+        },
+        {
+          "word": " in",
+          "start": 416.8538125,
+          "end": 417.1338125
+        },
+        {
+          "word": " the",
+          "start": 417.1338125,
+          "end": 417.3738125
+        },
+        {
+          "word": " evenings",
+          "start": 417.3738125,
+          "end": 417.9138125
+        },
+        {
+          "word": " all",
+          "start": 417.9138125,
+          "end": 418.5938125
+        },
+        {
+          "word": " year",
+          "start": 418.5938125,
+          "end": 418.9138125
+        },
+        {
+          "word": " round.",
+          "start": 418.9138125,
+          "end": 419.5738125
+        }
+      ]
+    },
+    {
+      "start": 420.9938125,
+      "end": 426.2538125,
+      "text": " In 1880, clubs began to charge fans for admission to games.",
+      "words": [
+        {
+          "word": " In",
+          "start": 420.9938125,
+          "end": 421.3138125
+        },
+        {
+          "word": " 1880,",
+          "start": 421.3138125,
+          "end": 422.2138125
+        },
+        {
+          "word": " clubs",
+          "start": 422.8738125,
+          "end": 423.0338125
+        },
+        {
+          "word": " began",
+          "start": 423.0338125,
+          "end": 423.45381249999997
+        },
+        {
+          "word": " to",
+          "start": 423.45381249999997,
+          "end": 423.7338125
+        },
+        {
+          "word": " charge",
+          "start": 423.7338125,
+          "end": 424.27381249999996
+        },
+        {
+          "word": " fans",
+          "start": 424.27381249999996,
+          "end": 424.8138125
+        },
+        {
+          "word": " for",
+          "start": 424.8138125,
+          "end": 425.1338125
+        },
+        {
+          "word": " admission",
+          "start": 425.1338125,
+          "end": 425.4338125
+        },
+        {
+          "word": " to",
+          "start": 425.4338125,
+          "end": 425.77381249999996
+        },
+        {
+          "word": " games.",
+          "start": 425.77381249999996,
+          "end": 426.2538125
+        }
+      ]
+    },
+    {
+      "start": 426.83381249999996,
+      "end": 431.5338125,
+      "text": " Even though players were still amateurs and had other proper jobs.",
+      "words": [
+        {
+          "word": " Even",
+          "start": 426.83381249999996,
+          "end": 427.15381249999996
+        },
+        {
+          "word": " though",
+          "start": 427.15381249999996,
+          "end": 427.45381249999997
+        },
+        {
+          "word": " players",
+          "start": 427.45381249999997,
+          "end": 427.8138125
+        },
+        {
+          "word": " were",
+          "start": 427.8138125,
+          "end": 428.1338125
+        },
+        {
+          "word": " still",
+          "start": 428.1338125,
+          "end": 428.4738125
+        },
+        {
+          "word": " amateurs",
+          "start": 428.4738125,
+          "end": 428.9738125
+        },
+        {
+          "word": " and",
+          "start": 428.9738125,
+          "end": 429.5938125
+        },
+        {
+          "word": " had",
+          "start": 429.5938125,
+          "end": 429.9738125
+        },
+        {
+          "word": " other",
+          "start": 429.9738125,
+          "end": 430.6338125
+        },
+        {
+          "word": " proper",
+          "start": 430.6338125,
+          "end": 430.95381249999997
+        },
+        {
+          "word": " jobs.",
+          "start": 430.95381249999997,
+          "end": 431.5338125
+        }
+      ]
+    },
+    {
+      "start": 432.2138125,
+      "end": 435.65381249999996,
+      "text": " That's hard to imagine in the modern professional game",
+      "words": [
+        {
+          "word": " That's",
+          "start": 432.2138125,
+          "end": 432.6938125
+        },
+        {
+          "word": " hard",
+          "start": 432.6938125,
+          "end": 432.9138125
+        },
+        {
+          "word": " to",
+          "start": 432.9138125,
+          "end": 433.0738125
+        },
+        {
+          "word": " imagine",
+          "start": 433.0738125,
+          "end": 433.4338125
+        },
+        {
+          "word": " in",
+          "start": 433.4338125,
+          "end": 434.0138125
+        },
+        {
+          "word": " the",
+          "start": 434.0138125,
+          "end": 434.2338125
+        },
+        {
+          "word": " modern",
+          "start": 434.2338125,
+          "end": 434.6138125
+        },
+        {
+          "word": " professional",
+          "start": 434.6138125,
+          "end": 435.0938125
+        },
+        {
+          "word": " game",
+          "start": 435.0938125,
+          "end": 435.65381249999996
+        }
+      ]
+    },
+    {
+      "start": 435.65381249999996,
+      "end": 438.9938125,
+      "text": " where top players earn significant sums of money",
+      "words": [
+        {
+          "word": " where",
+          "start": 435.65381249999996,
+          "end": 436.15381249999996
+        },
+        {
+          "word": " top",
+          "start": 436.15381249999996,
+          "end": 436.5138125
+        },
+        {
+          "word": " players",
+          "start": 436.5138125,
+          "end": 436.83381249999996
+        },
+        {
+          "word": " earn",
+          "start": 436.83381249999996,
+          "end": 437.2538125
+        },
+        {
+          "word": " significant",
+          "start": 437.2538125,
+          "end": 438.0338125
+        },
+        {
+          "word": " sums",
+          "start": 438.0338125,
+          "end": 438.4738125
+        },
+        {
+          "word": " of",
+          "start": 438.4738125,
+          "end": 438.6938125
+        },
+        {
+          "word": " money",
+          "start": 438.6938125,
+          "end": 438.9938125
+        }
+      ]
+    },
+    {
+      "start": 438.9938125,
+      "end": 442.5938125,
+      "text": " from both playing and commercial activities.",
+      "words": [
+        {
+          "word": " from",
+          "start": 438.9938125,
+          "end": 439.39381249999997
+        },
+        {
+          "word": " both",
+          "start": 439.39381249999997,
+          "end": 439.8138125
+        },
+        {
+          "word": " playing",
+          "start": 439.8138125,
+          "end": 440.3138125
+        },
+        {
+          "word": " and",
+          "start": 440.3138125,
+          "end": 440.8738125
+        },
+        {
+          "word": " commercial",
+          "start": 440.8738125,
+          "end": 441.5338125
+        },
+        {
+          "word": " activities.",
+          "start": 441.5338125,
+          "end": 442.5938125
+        }
+      ]
+    },
+    {
+      "start": 445.7138125,
+      "end": 447.65381249999996,
+      "text": " That is the end of part two.",
+      "words": [
+        {
+          "word": " That",
+          "start": 445.7138125,
+          "end": 446.15381249999996
+        },
+        {
+          "word": " is",
+          "start": 446.15381249999996,
+          "end": 446.33381249999996
+        },
+        {
+          "word": " the",
+          "start": 446.33381249999996,
+          "end": 446.5138125
+        },
+        {
+          "word": " end",
+          "start": 446.5138125,
+          "end": 446.7938125
+        },
+        {
+          "word": " of",
+          "start": 446.7938125,
+          "end": 447.0738125
+        },
+        {
+          "word": " part",
+          "start": 447.0738125,
+          "end": 447.3138125
+        },
+        {
+          "word": " two.",
+          "start": 447.3138125,
+          "end": 447.7238125
+        }
+      ]
+    },
+    {
+      "start": 448.4938125,
+      "end": 453.4138125,
+      "text": " You now have 30 seconds to check your answers to part two.",
+      "words": [
+        {
+          "word": " You",
+          "start": 448.4938125,
+          "end": 448.83381249999996
+        },
+        {
+          "word": " now",
+          "start": 448.83381249999996,
+          "end": 449.15381249999996
+        },
+        {
+          "word": " have",
+          "start": 449.15381249999996,
+          "end": 449.5938125
+        },
+        {
+          "word": " 30",
+          "start": 449.5938125,
+          "end": 449.9738125
+        },
+        {
+          "word": " seconds",
+          "start": 449.9738125,
+          "end": 450.4138125
+        },
+        {
+          "word": " to",
+          "start": 450.4138125,
+          "end": 450.9338125
+        },
+        {
+          "word": " check",
+          "start": 450.9338125,
+          "end": 451.2338125
+        },
+        {
+          "word": " your",
+          "start": 451.2338125,
+          "end": 451.6138125
+        },
+        {
+          "word": " answers",
+          "start": 451.6138125,
+          "end": 451.9938125
+        },
+        {
+          "word": " to",
+          "start": 451.9938125,
+          "end": 452.4138125
+        },
+        {
+          "word": " part",
+          "start": 452.4138125,
+          "end": 452.65381249999996
+        },
+        {
+          "word": " two.",
+          "start": 452.65381249999996,
+          "end": 453.4138125
+        }
+      ]
+    },
+    {
+      "start": 487.27381249999996,
+      "end": 488.6738125,
+      "text": " you",
+      "words": [
+        {
+          "word": " you",
+          "start": 487.27381249999996,
+          "end": 488.6738125
+        }
+      ]
+    }
+  ]
+}

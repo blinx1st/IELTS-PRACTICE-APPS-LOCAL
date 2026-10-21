@@ -1,0 +1,192 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 80,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Listening\nPART 3\nQuestions 21-30\nQuestions 21-25\nChoose the correct letter, A, B or C.\n21\nKieran thinks the packing advice given by Jane’s grandfather is\nA\ncommon sense.\nB\nhard to follow.\nC\n_over-protective.\n22\nHow does Jane feel about the books her grandfather has given her?\nA\nThey are not worth keeping.\nB_\nThey should go to a collector.\nC_\nThey have sentimental value for her.\n23\nJane and Kieran agree that hardback books should be\nA __ put out on display.\nB\ngiven as gifts to visitors.\nC_\nmore attractively designed.\n24\nWhile talking about taking a book from a shelf, Jane\nA\ndescribes the mistakes other people make doing it.\nB _\nreflects on a significant childhood experience.\nC_\nexplains why some books are easier to remove than others.\n25\nWhat do Jane and Kieran suggest about new books?\nA\nTheir parents liked buying them as presents.\nB\nThey would like to buy more of them.\nC_\nNot everyone can afford them.\n81\nTham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\nhttps://www.facebook.com/groups/ieltsfighter.support\n",
+  "blocks": [
+    {
+      "box": [
+        426.14404296875,
+        33.1125602722168,
+        469.679931640625,
+        43.20038604736328
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        41.7506103515625,
+        66.94493865966797,
+        225.48919677734375,
+        77.75328826904297
+      ],
+      "text": "PART 3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        41.75059509277344,
+        95.01860809326172,
+        130.44374084472656,
+        104.74617004394531
+      ],
+      "text": "Questions 21-25\n"
+    },
+    {
+      "box": [
+        41.7505989074707,
+        121.29271697998047,
+        212.98562622070312,
+        131.0202178955078
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        41.030757904052734,
+        147.20687866210938,
+        368.86297607421875,
+        157.65496826171875
+      ],
+      "text": "21\nKieran thinks the packing advice given by Jane’s grandfather is\n"
+    },
+    {
+      "box": [
+        64.78543090820312,
+        167.36233520507812,
+        164.32447814941406,
+        203.7242431640625
+      ],
+      "text": "A\ncommon sense.\nB\nhard to follow.\nC\n_over-protective.\n"
+    },
+    {
+      "box": [
+        41.03078079223633,
+        218.8307342529297,
+        393.2474670410156,
+        229.63909912109375
+      ],
+      "text": "22\nHow does Jane feel about the books her grandfather has given her?\n"
+    },
+    {
+      "box": [
+        64.42552947998047,
+        239.34613037109375,
+        222.44436645507812,
+        249.79421997070312
+      ],
+      "text": "A\nThey are not worth keeping.\n"
+    },
+    {
+      "box": [
+        65.14537048339844,
+        252.30319213867188,
+        229.26837158203125,
+        262.75128173828125
+      ],
+      "text": "B_\nThey should go to a collector.\n"
+    },
+    {
+      "box": [
+        64.78544616699219,
+        265.26031494140625,
+        263.45355224609375,
+        275.7084045410156
+      ],
+      "text": "C_\nThey have sentimental value for her.\n"
+    },
+    {
+      "box": [
+        40.670867919921875,
+        291.1744384765625,
+        326.3529357910156,
+        301.6225280761719
+      ],
+      "text": "23\nJane and Kieran agree that hardback books should be\n"
+    },
+    {
+      "box": [
+        64.42552947998047,
+        309.8902282714844,
+        203.05906677246094,
+        334.7350769042969
+      ],
+      "text": "A __ put out on display.\nB\ngiven as gifts to visitors.\n"
+    },
+    {
+      "box": [
+        64.78544616699219,
+        337.2441101074219,
+        217.71142578125,
+        347.69219970703125
+      ],
+      "text": "C_\nmore attractively designed.\n"
+    },
+    {
+      "box": [
+        40.670867919921875,
+        363.1582336425781,
+        314.1373291015625,
+        373.6063232421875
+      ],
+      "text": "24\nWhile talking about taking a book from a shelf, Jane\n"
+    },
+    {
+      "box": [
+        64.42552947998047,
+        383.313720703125,
+        375.8705749511719,
+        419.6759948730469
+      ],
+      "text": "A\ndescribes the mistakes other people make doing it.\nB _\nreflects on a significant childhood experience.\nC_\nexplains why some books are easier to remove than others.\n"
+    },
+    {
+      "box": [
+        40.670867919921875,
+        435.14202880859375,
+        320.26666259765625,
+        445.5901184082031
+      ],
+      "text": "25\nWhat do Jane and Kieran suggest about new books?\n"
+    },
+    {
+      "box": [
+        64.42552947998047,
+        455.2975158691406,
+        301.5240783691406,
+        478.70269775390625
+      ],
+      "text": "A\nTheir parents liked buying them as presents.\nB\nThey would like to buy more of them.\n"
+    },
+    {
+      "box": [
+        64.78544616699219,
+        481.2117004394531,
+        233.8573455810547,
+        492.0200500488281
+      ],
+      "text": "C_\nNot everyone can afford them.\n"
+    },
+    {
+      "box": [
+        110.13523864746094,
+        670.8889770507812,
+        468.2330322265625,
+        694.2937622070312
+      ],
+      "text": "81\nTham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\n"
+    },
+    {
+      "box": [
+        120.57289123535156,
+        697.52294921875,
+        368.744140625,
+        706.8901977539062
+      ],
+      "text": "https://www.facebook.com/groups/ieltsfighter.support\n"
+    }
+  ]
+}

@@ -1,0 +1,1181 @@
+{
+  "audioSha256": "07fdf245403bdae93d23ed0722c265d8823afe87f74d2b583e2e14e22a302615",
+  "duration": 410.4098125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 290.4098125,
+      "end": 296.98981249999997,
+      "text": " it did. After placing three different types of microplastic particles into the soil, they",
+      "words": [
+        {
+          "word": " it",
+          "start": 290.4098125,
+          "end": 290.74981249999996
+        },
+        {
+          "word": " did.",
+          "start": 290.74981249999996,
+          "end": 291.3898125
+        },
+        {
+          "word": " After",
+          "start": 291.9698125,
+          "end": 292.2298125
+        },
+        {
+          "word": " placing",
+          "start": 292.2298125,
+          "end": 292.6098125
+        },
+        {
+          "word": " three",
+          "start": 292.6098125,
+          "end": 293.1298125
+        },
+        {
+          "word": " different",
+          "start": 293.1298125,
+          "end": 293.5698125
+        },
+        {
+          "word": " types",
+          "start": 293.5698125,
+          "end": 293.92981249999997
+        },
+        {
+          "word": " of",
+          "start": 293.92981249999997,
+          "end": 294.2098125
+        },
+        {
+          "word": " microplastic",
+          "start": 294.2098125,
+          "end": 294.86981249999997
+        },
+        {
+          "word": " particles",
+          "start": 294.86981249999997,
+          "end": 295.36981249999997
+        },
+        {
+          "word": " into",
+          "start": 295.36981249999997,
+          "end": 295.6098125
+        },
+        {
+          "word": " the",
+          "start": 295.6098125,
+          "end": 295.86981249999997
+        },
+        {
+          "word": " soil,",
+          "start": 295.86981249999997,
+          "end": 296.2898125
+        },
+        {
+          "word": " they",
+          "start": 296.8898125,
+          "end": 296.98981249999997
+        }
+      ]
+    },
+    {
+      "start": 296.98981249999997,
+      "end": 303.42981249999997,
+      "text": " planted perennial ryegrass. The particles of microplastic, which included biodegradable",
+      "words": [
+        {
+          "word": " planted",
+          "start": 296.98981249999997,
+          "end": 297.6698125
+        },
+        {
+          "word": " perennial",
+          "start": 297.6698125,
+          "end": 298.36981249999997
+        },
+        {
+          "word": " ryegrass.",
+          "start": 298.36981249999997,
+          "end": 299.1698125
+        },
+        {
+          "word": " The",
+          "start": 300.0298125,
+          "end": 300.18981249999996
+        },
+        {
+          "word": " particles",
+          "start": 300.18981249999996,
+          "end": 300.5298125
+        },
+        {
+          "word": " of",
+          "start": 300.5298125,
+          "end": 300.8898125
+        },
+        {
+          "word": " microplastic,",
+          "start": 300.8898125,
+          "end": 301.5498125
+        },
+        {
+          "word": " which",
+          "start": 302.0898125,
+          "end": 302.24981249999996
+        },
+        {
+          "word": " included",
+          "start": 302.24981249999996,
+          "end": 302.68981249999996
+        },
+        {
+          "word": " biodegradable",
+          "start": 302.68981249999996,
+          "end": 303.42981249999997
+        }
+      ]
+    },
+    {
+      "start": 303.42981249999997,
+      "end": 310.5298125,
+      "text": " PLA and conventional high-density polyethylene, or HDPE, were then ingested by the earthworms",
+      "words": [
+        {
+          "word": " PLA",
+          "start": 303.42981249999997,
+          "end": 303.8898125
+        },
+        {
+          "word": " and",
+          "start": 303.8898125,
+          "end": 304.68981249999996
+        },
+        {
+          "word": " conventional",
+          "start": 304.68981249999996,
+          "end": 305.24981249999996
+        },
+        {
+          "word": " high",
+          "start": 305.24981249999996,
+          "end": 305.6498125
+        },
+        {
+          "word": "-density",
+          "start": 305.6498125,
+          "end": 305.9698125
+        },
+        {
+          "word": " polyethylene,",
+          "start": 305.9698125,
+          "end": 306.98981249999997
+        },
+        {
+          "word": " or",
+          "start": 307.2698125,
+          "end": 307.4698125
+        },
+        {
+          "word": " HDPE,",
+          "start": 307.4698125,
+          "end": 308.2898125
+        },
+        {
+          "word": " were",
+          "start": 308.6098125,
+          "end": 308.7698125
+        },
+        {
+          "word": " then",
+          "start": 308.7698125,
+          "end": 308.9698125
+        },
+        {
+          "word": " ingested",
+          "start": 308.9698125,
+          "end": 309.42981249999997
+        },
+        {
+          "word": " by",
+          "start": 309.42981249999997,
+          "end": 309.80981249999996
+        },
+        {
+          "word": " the",
+          "start": 309.80981249999996,
+          "end": 309.92981249999997
+        },
+        {
+          "word": " earthworms",
+          "start": 309.92981249999997,
+          "end": 310.5298125
+        }
+      ]
+    },
+    {
+      "start": 310.5298125,
+      "end": 317.3898125,
+      "text": " in the soil. The result was that the worms lost weight rapidly. What's more, a lower percentage",
+      "words": [
+        {
+          "word": " in",
+          "start": 310.5298125,
+          "end": 310.9098125
+        },
+        {
+          "word": " the",
+          "start": 310.9098125,
+          "end": 311.1898125
+        },
+        {
+          "word": " soil.",
+          "start": 311.1898125,
+          "end": 311.5498125
+        },
+        {
+          "word": " The",
+          "start": 312.2298125,
+          "end": 312.42981249999997
+        },
+        {
+          "word": " result",
+          "start": 312.42981249999997,
+          "end": 312.6898125
+        },
+        {
+          "word": " was",
+          "start": 312.6898125,
+          "end": 313.0498125
+        },
+        {
+          "word": " that",
+          "start": 313.0498125,
+          "end": 313.2898125
+        },
+        {
+          "word": " the",
+          "start": 313.2898125,
+          "end": 313.48981249999997
+        },
+        {
+          "word": " worms",
+          "start": 313.48981249999997,
+          "end": 313.7098125
+        },
+        {
+          "word": " lost",
+          "start": 313.7098125,
+          "end": 314.0698125
+        },
+        {
+          "word": " weight",
+          "start": 314.0698125,
+          "end": 314.4698125
+        },
+        {
+          "word": " rapidly.",
+          "start": 314.4698125,
+          "end": 315.0098125
+        },
+        {
+          "word": " What's",
+          "start": 315.86981249999997,
+          "end": 316.12981249999996
+        },
+        {
+          "word": " more,",
+          "start": 316.12981249999996,
+          "end": 316.5898125
+        },
+        {
+          "word": " a",
+          "start": 316.80981249999996,
+          "end": 316.8498125
+        },
+        {
+          "word": " lower",
+          "start": 316.8498125,
+          "end": 316.92981249999997
+        },
+        {
+          "word": " percentage",
+          "start": 316.92981249999997,
+          "end": 317.3898125
+        }
+      ]
+    },
+    {
+      "start": 317.3898125,
+      "end": 322.5098125,
+      "text": " the normal of the rigorous seeds germinated, and the researchers concluded that this",
+      "words": [
+        {
+          "word": " the",
+          "start": 317.3898125,
+          "end": 317.6898125
+        },
+        {
+          "word": " normal",
+          "start": 317.6898125,
+          "end": 317.98981249999997
+        },
+        {
+          "word": " of",
+          "start": 317.98981249999997,
+          "end": 318.24981249999996
+        },
+        {
+          "word": " the",
+          "start": 318.24981249999996,
+          "end": 318.4098125
+        },
+        {
+          "word": " rigorous",
+          "start": 318.4098125,
+          "end": 318.74981249999996
+        },
+        {
+          "word": " seeds",
+          "start": 318.74981249999996,
+          "end": 319.1698125
+        },
+        {
+          "word": " germinated,",
+          "start": 319.1698125,
+          "end": 319.9498125
+        },
+        {
+          "word": " and",
+          "start": 320.4098125,
+          "end": 320.6098125
+        },
+        {
+          "word": " the",
+          "start": 320.6098125,
+          "end": 320.7298125
+        },
+        {
+          "word": " researchers",
+          "start": 320.7298125,
+          "end": 321.1698125
+        },
+        {
+          "word": " concluded",
+          "start": 321.1698125,
+          "end": 321.7698125
+        },
+        {
+          "word": " that",
+          "start": 321.7698125,
+          "end": 322.36981249999997
+        },
+        {
+          "word": " this",
+          "start": 322.36981249999997,
+          "end": 322.5098125
+        }
+      ]
+    },
+    {
+      "start": 322.5098125,
+      "end": 328.0898125,
+      "text": " was a direct result of the earthworms being unable to fulfil their normal role in making",
+      "words": [
+        {
+          "word": " was",
+          "start": 322.5098125,
+          "end": 322.6898125
+        },
+        {
+          "word": " a",
+          "start": 322.6898125,
+          "end": 322.8898125
+        },
+        {
+          "word": " direct",
+          "start": 322.8898125,
+          "end": 323.2098125
+        },
+        {
+          "word": " result",
+          "start": 323.2098125,
+          "end": 323.5898125
+        },
+        {
+          "word": " of",
+          "start": 323.5898125,
+          "end": 323.7898125
+        },
+        {
+          "word": " the",
+          "start": 323.7898125,
+          "end": 324.0298125
+        },
+        {
+          "word": " earthworms",
+          "start": 324.0298125,
+          "end": 324.4698125
+        },
+        {
+          "word": " being",
+          "start": 324.4698125,
+          "end": 324.98981249999997
+        },
+        {
+          "word": " unable",
+          "start": 324.98981249999997,
+          "end": 325.3898125
+        },
+        {
+          "word": " to",
+          "start": 325.3898125,
+          "end": 325.6098125
+        },
+        {
+          "word": " fulfil",
+          "start": 325.6098125,
+          "end": 326.0098125
+        },
+        {
+          "word": " their",
+          "start": 326.0098125,
+          "end": 326.3898125
+        },
+        {
+          "word": " normal",
+          "start": 326.3898125,
+          "end": 326.74981249999996
+        },
+        {
+          "word": " role",
+          "start": 326.74981249999996,
+          "end": 327.2098125
+        },
+        {
+          "word": " in",
+          "start": 327.2098125,
+          "end": 327.5698125
+        },
+        {
+          "word": " making",
+          "start": 327.5698125,
+          "end": 328.0898125
+        }
+      ]
+    },
+    {
+      "start": 328.0898125,
+      "end": 334.0298125,
+      "text": " soil more fertile. The team also discovered that there was an increase in the amount of",
+      "words": [
+        {
+          "word": " soil",
+          "start": 328.0898125,
+          "end": 328.5298125
+        },
+        {
+          "word": " more",
+          "start": 328.5298125,
+          "end": 328.86981249999997
+        },
+        {
+          "word": " fertile.",
+          "start": 328.86981249999997,
+          "end": 329.36981249999997
+        },
+        {
+          "word": " The",
+          "start": 330.6498125,
+          "end": 330.80981249999996
+        },
+        {
+          "word": " team",
+          "start": 330.80981249999996,
+          "end": 331.0298125
+        },
+        {
+          "word": " also",
+          "start": 331.0298125,
+          "end": 331.2898125
+        },
+        {
+          "word": " discovered",
+          "start": 331.2898125,
+          "end": 331.7098125
+        },
+        {
+          "word": " that",
+          "start": 331.7098125,
+          "end": 332.1898125
+        },
+        {
+          "word": " there",
+          "start": 332.1898125,
+          "end": 332.36981249999997
+        },
+        {
+          "word": " was",
+          "start": 332.36981249999997,
+          "end": 332.4498125
+        },
+        {
+          "word": " an",
+          "start": 332.4498125,
+          "end": 332.7098125
+        },
+        {
+          "word": " increase",
+          "start": 332.7098125,
+          "end": 333.1698125
+        },
+        {
+          "word": " in",
+          "start": 333.1698125,
+          "end": 333.4098125
+        },
+        {
+          "word": " the",
+          "start": 333.4098125,
+          "end": 333.7298125
+        },
+        {
+          "word": " amount",
+          "start": 333.7298125,
+          "end": 333.74981249999996
+        },
+        {
+          "word": " of",
+          "start": 333.74981249999996,
+          "end": 334.0298125
+        }
+      ]
+    },
+    {
+      "start": 334.0298125,
+      "end": 340.12981249999996,
+      "text": " acid found in the soil, and this was attributed mainly to the microplastic particles from",
+      "words": [
+        {
+          "word": " acid",
+          "start": 334.0298125,
+          "end": 334.3498125
+        },
+        {
+          "word": " found",
+          "start": 334.3498125,
+          "end": 334.7698125
+        },
+        {
+          "word": " in",
+          "start": 334.7698125,
+          "end": 335.0098125
+        },
+        {
+          "word": " the",
+          "start": 335.0098125,
+          "end": 335.1698125
+        },
+        {
+          "word": " soil,",
+          "start": 335.1698125,
+          "end": 335.5898125
+        },
+        {
+          "word": " and",
+          "start": 335.7898125,
+          "end": 336.1698125
+        },
+        {
+          "word": " this",
+          "start": 336.1698125,
+          "end": 336.3898125
+        },
+        {
+          "word": " was",
+          "start": 336.3898125,
+          "end": 336.62981249999996
+        },
+        {
+          "word": " attributed",
+          "start": 336.62981249999996,
+          "end": 337.0098125
+        },
+        {
+          "word": " mainly",
+          "start": 337.0098125,
+          "end": 337.5098125
+        },
+        {
+          "word": " to",
+          "start": 337.5098125,
+          "end": 338.0698125
+        },
+        {
+          "word": " the",
+          "start": 338.0698125,
+          "end": 338.3498125
+        },
+        {
+          "word": " microplastic",
+          "start": 338.3498125,
+          "end": 338.8298125
+        },
+        {
+          "word": " particles",
+          "start": 338.8298125,
+          "end": 339.42981249999997
+        },
+        {
+          "word": " from",
+          "start": 339.42981249999997,
+          "end": 340.12981249999996
+        }
+      ]
+    },
+    {
+      "start": 340.12981249999996,
+      "end": 342.7298125,
+      "text": " conventional HDPE plastic.",
+      "words": [
+        {
+          "word": " conventional",
+          "start": 340.12981249999996,
+          "end": 340.9498125
+        },
+        {
+          "word": " HDPE",
+          "start": 340.9498125,
+          "end": 342.0298125
+        },
+        {
+          "word": " plastic.",
+          "start": 342.0298125,
+          "end": 342.7298125
+        }
+      ]
+    },
+    {
+      "start": 344.1898125,
+      "end": 348.0498125,
+      "text": " The conclusions of the study make for very interesting reading.",
+      "words": [
+        {
+          "word": " The",
+          "start": 344.1898125,
+          "end": 344.5698125
+        },
+        {
+          "word": " conclusions",
+          "start": 344.5698125,
+          "end": 344.9698125
+        },
+        {
+          "word": " of",
+          "start": 344.9698125,
+          "end": 345.2098125
+        },
+        {
+          "word": " the",
+          "start": 345.2098125,
+          "end": 345.3898125
+        },
+        {
+          "word": " study",
+          "start": 345.3898125,
+          "end": 345.8498125
+        },
+        {
+          "word": " make",
+          "start": 345.8498125,
+          "end": 346.30981249999996
+        },
+        {
+          "word": " for",
+          "start": 346.30981249999996,
+          "end": 346.6098125
+        },
+        {
+          "word": " very",
+          "start": 346.6098125,
+          "end": 347.0498125
+        },
+        {
+          "word": " interesting",
+          "start": 347.0498125,
+          "end": 347.5898125
+        },
+        {
+          "word": " reading.",
+          "start": 347.5898125,
+          "end": 348.0498125
+        }
+      ]
+    },
+    {
+      "start": 348.6098125,
+      "end": 352.6698125,
+      "text": " I've included the reference in the notes to give you at the end of this session.",
+      "words": [
+        {
+          "word": " I've",
+          "start": 348.6098125,
+          "end": 348.7898125
+        },
+        {
+          "word": " included",
+          "start": 348.7898125,
+          "end": 349.0698125
+        },
+        {
+          "word": " the",
+          "start": 349.0698125,
+          "end": 349.3898125
+        },
+        {
+          "word": " reference",
+          "start": 349.3898125,
+          "end": 349.7098125
+        },
+        {
+          "word": " in",
+          "start": 349.7098125,
+          "end": 349.92981249999997
+        },
+        {
+          "word": " the",
+          "start": 349.92981249999997,
+          "end": 350.0898125
+        },
+        {
+          "word": " notes",
+          "start": 350.0898125,
+          "end": 350.30981249999996
+        },
+        {
+          "word": " to",
+          "start": 350.30981249999996,
+          "end": 350.6898125
+        },
+        {
+          "word": " give",
+          "start": 350.6898125,
+          "end": 350.9698125
+        },
+        {
+          "word": " you",
+          "start": 350.9698125,
+          "end": 351.2098125
+        },
+        {
+          "word": " at",
+          "start": 351.2098125,
+          "end": 351.3898125
+        },
+        {
+          "word": " the",
+          "start": 351.3898125,
+          "end": 351.4698125
+        },
+        {
+          "word": " end",
+          "start": 351.4698125,
+          "end": 351.6498125
+        },
+        {
+          "word": " of",
+          "start": 351.6498125,
+          "end": 351.7898125
+        },
+        {
+          "word": " this",
+          "start": 351.7898125,
+          "end": 352.0698125
+        },
+        {
+          "word": " session.",
+          "start": 352.0698125,
+          "end": 352.6698125
+        }
+      ]
+    },
+    {
+      "start": 353.7098125,
+      "end": 359.5498125,
+      "text": " To summarize, the authors proposed the idea that we need to regard soil as we would regard",
+      "words": [
+        {
+          "word": " To",
+          "start": 353.7098125,
+          "end": 353.9698125
+        },
+        {
+          "word": " summarize,",
+          "start": 353.9698125,
+          "end": 354.4498125
+        },
+        {
+          "word": " the",
+          "start": 355.0698125,
+          "end": 355.2698125
+        },
+        {
+          "word": " authors",
+          "start": 355.2698125,
+          "end": 355.50981249999995
+        },
+        {
+          "word": " proposed",
+          "start": 355.50981249999995,
+          "end": 356.00981249999995
+        },
+        {
+          "word": " the",
+          "start": 356.00981249999995,
+          "end": 356.24981249999996
+        },
+        {
+          "word": " idea",
+          "start": 356.24981249999996,
+          "end": 356.6098125
+        },
+        {
+          "word": " that",
+          "start": 356.6098125,
+          "end": 356.98981249999997
+        },
+        {
+          "word": " we",
+          "start": 356.98981249999997,
+          "end": 357.0698125
+        },
+        {
+          "word": " need",
+          "start": 357.0698125,
+          "end": 357.3098125
+        },
+        {
+          "word": " to",
+          "start": 357.3098125,
+          "end": 357.5298125
+        },
+        {
+          "word": " regard",
+          "start": 357.5298125,
+          "end": 357.8298125
+        },
+        {
+          "word": " soil",
+          "start": 357.8298125,
+          "end": 358.3498125
+        },
+        {
+          "word": " as",
+          "start": 358.3498125,
+          "end": 358.7698125
+        },
+        {
+          "word": " we",
+          "start": 358.7698125,
+          "end": 358.9098125
+        },
+        {
+          "word": " would",
+          "start": 358.9098125,
+          "end": 359.1098125
+        },
+        {
+          "word": " regard",
+          "start": 359.1098125,
+          "end": 359.5498125
+        }
+      ]
+    },
+    {
+      "start": 359.5498125,
+      "end": 361.6498125,
+      "text": " any other processing nature.",
+      "words": [
+        {
+          "word": " any",
+          "start": 359.5498125,
+          "end": 360.0898125
+        },
+        {
+          "word": " other",
+          "start": 360.0898125,
+          "end": 360.50981249999995
+        },
+        {
+          "word": " processing",
+          "start": 360.50981249999995,
+          "end": 360.9698125
+        },
+        {
+          "word": " nature.",
+          "start": 360.9698125,
+          "end": 361.6498125
+        }
+      ]
+    },
+    {
+      "start": 362.42981249999997,
+      "end": 367.5698125,
+      "text": " This means we should accept the implications of soil being dependent on decaying and",
+      "words": [
+        {
+          "word": " This",
+          "start": 362.42981249999997,
+          "end": 362.7098125
+        },
+        {
+          "word": " means",
+          "start": 362.7098125,
+          "end": 363.24981249999996
+        },
+        {
+          "word": " we",
+          "start": 363.24981249999996,
+          "end": 363.6898125
+        },
+        {
+          "word": " should",
+          "start": 363.6898125,
+          "end": 363.8898125
+        },
+        {
+          "word": " accept",
+          "start": 363.8898125,
+          "end": 364.3298125
+        },
+        {
+          "word": " the",
+          "start": 364.3298125,
+          "end": 364.6498125
+        },
+        {
+          "word": " implications",
+          "start": 364.6498125,
+          "end": 365.2098125
+        },
+        {
+          "word": " of",
+          "start": 365.2098125,
+          "end": 365.6098125
+        },
+        {
+          "word": " soil",
+          "start": 365.6098125,
+          "end": 365.9098125
+        },
+        {
+          "word": " being",
+          "start": 365.9098125,
+          "end": 366.2298125
+        },
+        {
+          "word": " dependent",
+          "start": 366.2298125,
+          "end": 366.6698125
+        },
+        {
+          "word": " on",
+          "start": 366.6698125,
+          "end": 367.0298125
+        },
+        {
+          "word": " decaying",
+          "start": 367.0298125,
+          "end": 367.3898125
+        },
+        {
+          "word": " and",
+          "start": 367.3898125,
+          "end": 367.74981249999996
+        }
+      ]
+    },
+    {
+      "start": 367.74981249999996,
+      "end": 373.5498125,
+      "text": " matter constantly being passed through the bodies of earthworms. That is, when soil becomes",
+      "words": [
+        {
+          "word": " matter",
+          "start": 367.74981249999996,
+          "end": 368.36981249999997
+        },
+        {
+          "word": " constantly",
+          "start": 368.36981249999997,
+          "end": 369.0698125
+        },
+        {
+          "word": " being",
+          "start": 369.0698125,
+          "end": 369.5298125
+        },
+        {
+          "word": " passed",
+          "start": 369.5298125,
+          "end": 369.8498125
+        },
+        {
+          "word": " through",
+          "start": 369.8498125,
+          "end": 370.1098125
+        },
+        {
+          "word": " the",
+          "start": 370.1098125,
+          "end": 370.2898125
+        },
+        {
+          "word": " bodies",
+          "start": 370.2898125,
+          "end": 370.5298125
+        },
+        {
+          "word": " of",
+          "start": 370.5298125,
+          "end": 370.7098125
+        },
+        {
+          "word": " earthworms.",
+          "start": 370.7098125,
+          "end": 371.4098125
+        },
+        {
+          "word": " That",
+          "start": 372.1098125,
+          "end": 372.2898125
+        },
+        {
+          "word": " is,",
+          "start": 372.2898125,
+          "end": 372.5498125
+        },
+        {
+          "word": " when",
+          "start": 372.5498125,
+          "end": 372.8298125
+        },
+        {
+          "word": " soil",
+          "start": 372.8298125,
+          "end": 373.0898125
+        },
+        {
+          "word": " becomes",
+          "start": 373.0898125,
+          "end": 373.5498125
+        }
+      ]
+    },
+    {
+      "start": 373.5498125,
+      "end": 380.74981249999996,
+      "text": " impoverished by the presence of microplastics, not only ecosystems, but also the whole of society,",
+      "words": [
+        {
+          "word": " impoverished",
+          "start": 373.5498125,
+          "end": 374.2698125
+        },
+        {
+          "word": " by",
+          "start": 374.2698125,
+          "end": 374.8298125
+        },
+        {
+          "word": " the",
+          "start": 374.8298125,
+          "end": 375.3098125
+        },
+        {
+          "word": " presence",
+          "start": 375.3098125,
+          "end": 375.3298125
+        },
+        {
+          "word": " of",
+          "start": 375.3298125,
+          "end": 375.62981249999996
+        },
+        {
+          "word": " microplastics,",
+          "start": 375.62981249999996,
+          "end": 376.3898125
+        },
+        {
+          "word": " not",
+          "start": 376.9698125,
+          "end": 377.0698125
+        },
+        {
+          "word": " only",
+          "start": 377.0698125,
+          "end": 377.4098125
+        },
+        {
+          "word": " ecosystems,",
+          "start": 377.4098125,
+          "end": 377.98981249999997
+        },
+        {
+          "word": " but",
+          "start": 378.3098125,
+          "end": 378.74981249999996
+        },
+        {
+          "word": " also",
+          "start": 378.74981249999996,
+          "end": 379.3098125
+        },
+        {
+          "word": " the",
+          "start": 379.3098125,
+          "end": 379.5498125
+        },
+        {
+          "word": " whole",
+          "start": 379.5498125,
+          "end": 379.8098125
+        },
+        {
+          "word": " of",
+          "start": 379.8098125,
+          "end": 380.1498125
+        },
+        {
+          "word": " society,",
+          "start": 380.1498125,
+          "end": 380.74981249999996
+        }
+      ]
+    },
+    {
+      "start": 381.3898125,
+      "end": 382.4698125,
+      "text": " are negatively impacted.",
+      "words": [
+        {
+          "word": " are",
+          "start": 381.3898125,
+          "end": 381.3898125
+        },
+        {
+          "word": " negatively",
+          "start": 381.3898125,
+          "end": 381.8898125
+        },
+        {
+          "word": " impacted.",
+          "start": 381.8898125,
+          "end": 382.4698125
+        }
+      ]
+    }
+  ]
+}

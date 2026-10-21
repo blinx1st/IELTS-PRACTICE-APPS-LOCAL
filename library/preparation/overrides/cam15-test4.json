@@ -3,7 +3,7 @@
   "book": 15,
   "test": 4,
   "title": "Cambridge 15 · Test 4",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots compared with the supplied scan. Completion text, options, limits and question numbering corrected. Two original table layouts retained with native answer fields.",
@@ -88,7 +88,64 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The importance of the huarango tree\n\n• its roots can extend as far as 80 metres into the soil\n• can access ",
+                  {
+                    "number": 1
+                  },
+                  " deep below the surface\n• was a crucial part of local inhabitants' ",
+                  {
+                    "number": 2
+                  },
+                  " a long time ago\n• helped people to survive periods of ",
+                  {
+                    "number": 3
+                  },
+                  "\n• prevents ",
+                  {
+                    "number": 4
+                  },
+                  " of the soil\n• prevents land from becoming a ",
+                  {
+                    "number": 5
+                  },
+                  ""
+                ],
+                "anchors": [
+                  "cam15-t4-p1-g1-body-0",
+                  "",
+                  "cam15-t4-p1-g1-body-119",
+                  "",
+                  "cam15-t4-p1-g1-body-198",
+                  "",
+                  "cam15-t4-p1-g1-body-265",
+                  "",
+                  "cam15-t4-p1-g1-body-289",
+                  "",
+                  "cam15-t4-p1-g1-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam15-t4-p1-g2",
@@ -400,7 +457,80 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Silbo Gomero\n\nHow Silbo is produced\n• high- and low-frequency tones represent different sounds in Spanish ",
+                  {
+                    "number": 20
+                  },
+                  "\n• pitch of whistle is controlled using silbador's ",
+                  {
+                    "number": 21
+                  },
+                  "\n• ",
+                  {
+                    "number": 22
+                  },
+                  " is changed with a cupped hand\n\nHow Silbo is used\n• has long been used by shepherds and people living in secluded locations\n• in everyday use for the transmission of brief ",
+                  {
+                    "number": 23
+                  },
+                  "\n• can relay essential information quickly, e.g. to inform people about ",
+                  {
+                    "number": 24
+                  },
+                  "\n\nThe future of Silbo\n• future under threat because of new ",
+                  {
+                    "number": 25
+                  },
+                  "\n• Canaries' authorities hoping to receive a UNESCO ",
+                  {
+                    "number": 26
+                  },
+                  " to help preserve it"
+                ],
+                "anchors": [
+                  "cam15-t4-p2-g2-body-0",
+                  "",
+                  "cam15-t4-p2-g2-body-119",
+                  "",
+                  "cam15-t4-p2-g2-body-183",
+                  "",
+                  "cam15-t4-p2-g2-body-199",
+                  "",
+                  "cam15-t4-p2-g2-body-384",
+                  "",
+                  "cam15-t4-p2-g2-body-469",
+                  "",
+                  "cam15-t4-p2-g2-body-541",
+                  "",
+                  "cam15-t4-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -538,7 +668,64 @@
               "value": "I",
               "label": "worker support"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Big businesses\n\nMany big businesses today are prepared to harm people and the environment in order to make money, and they appear to have no ",
+                  {
+                    "number": 27
+                  },
+                  ". Lack of ",
+                  {
+                    "number": 28
+                  },
+                  " by governments and lack of public ",
+                  {
+                    "number": 29
+                  },
+                  " can lead to environmental problems such as ",
+                  {
+                    "number": 30
+                  },
+                  " or the destruction of ",
+                  {
+                    "number": 31
+                  },
+                  "."
+                ],
+                "anchors": [
+                  "cam15-t4-p3-g1-body",
+                  "",
+                  "cam15-t4-p3-g1-body",
+                  "",
+                  "cam15-t4-p3-g1-body",
+                  "",
+                  "cam15-t4-p3-g1-body",
+                  "",
+                  "cam15-t4-p3-g1-body",
+                  "",
+                  "cam15-t4-p3-g1-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  154,
+                  0,
+                  177,
+                  0,
+                  225,
+                  0,
+                  282,
+                  0,
+                  318
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam15-t4-p3-g2",

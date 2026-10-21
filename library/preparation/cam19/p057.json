@@ -1,0 +1,129 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 57,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 3\nQuestions 17 and 18\nChoose TWO letters, A-E.\nWhich TWO reasons does the speaker give for recommending Alive and Kicking?\nA__\nIt will appeal to both boys and girls.\nB_\nThe author is well known.\nC\n__Ithas colourful illustrations.\nD\nitis funny.\nE\nIt deals with an important topic.\nQuestions 19 and 20\nChoose TWO letters, A-E.\nWhich TWO pieces of advice does the speaker give to parents about reading?\nA_\nEncourage children to write down new vocabulary.\nB_\nAllow children to listen to audio books.\nC\nGet recommendations from librarians.\nD_\nGive children a choice about what they read.\nE\nOnly read aloud to children until they can read independently.\n58\n->(@\np. 124] [9 p. 110]\nTham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\nhttps://www.facebook.com/groups/ieltsfighter.support\n",
+  "blocks": [
+    {
+      "box": [
+        47.14938735961914,
+        39.591094970703125,
+        76.29743957519531,
+        47.877540588378906
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        46.789466857910156,
+        73.42351531982422,
+        156.5143280029297,
+        83.15101623535156
+      ],
+      "text": "Questions 17 and 18\n"
+    },
+    {
+      "box": [
+        46.78947067260742,
+        99.69756317138672,
+        174.8199005126953,
+        109.42512512207031
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        46.06962966918945,
+        124.53199005126953,
+        441.4764099121094,
+        135.7006072998047
+      ],
+      "text": "Which TWO reasons does the speaker give for recommending Alive and Kicking?\n"
+    },
+    {
+      "box": [
+        70.1841812133789,
+        143.96759033203125,
+        263.79901123046875,
+        207.68365478515625
+      ],
+      "text": "A__\nIt will appeal to both boys and girls.\nB_\nThe author is well known.\nC\n__Ithas colourful illustrations.\nD\nitis funny.\nE\nIt deals with an important topic.\n"
+    },
+    {
+      "box": [
+        47.50929260253906,
+        231.42791748046875,
+        157.2269744873047,
+        240.79515075683594
+      ],
+      "text": "Questions 19 and 20\n"
+    },
+    {
+      "box": [
+        47.50929260253906,
+        257.7019958496094,
+        175.46046447753906,
+        266.708984375
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        46.78945541381836,
+        282.1764831542969,
+        425.4963073730469,
+        293.7054138183594
+      ],
+      "text": "Which TWO pieces of advice does the speaker give to parents about reading?\n"
+    },
+    {
+      "box": [
+        70.90399169921875,
+        302.6918640136719,
+        337.8719482421875,
+        337.6126403808594
+      ],
+      "text": "A_\nEncourage children to write down new vocabulary.\nB_\nAllow children to listen to audio books.\nC\nGet recommendations from librarians.\n"
+    },
+    {
+      "box": [
+        71.62381744384766,
+        341.92303466796875,
+        391.21746826171875,
+        365.6888732910156
+      ],
+      "text": "D_\nGive children a choice about what they read.\nE\nOnly read aloud to children until they can read independently.\n"
+    },
+    {
+      "box": [
+        48.58900833129883,
+        670.5291137695312,
+        205.1969451904297,
+        689.6239013671875
+      ],
+      "text": "58\n->(@\np. 124] [9 p. 110]\n"
+    },
+    {
+      "box": [
+        139.28858947753906,
+        695.0035400390625,
+        408.7671203613281,
+        705.0913696289062
+      ],
+      "text": "Tham gia group IELTS Fighter nhan thém nhiéu tai ligu hay nhe:\n"
+    },
+    {
+      "box": [
+        150.08615112304688,
+        708.6804809570312,
+        395.82476806640625,
+        718.0477294921875
+      ],
+      "text": "https://www.facebook.com/groups/ieltsfighter.support\n"
+    }
+  ]
+}

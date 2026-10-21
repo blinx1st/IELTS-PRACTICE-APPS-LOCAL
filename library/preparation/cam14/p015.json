@@ -1,0 +1,84 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 15,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nQuestions 21 and 22\nChoose TWO letters, A-E.\nWrite the correct letters in boxes 21 and 22 on your answer sheet.\nWhich TWO of the following statements are made in the text about Amsterdam today?\nA\nThe majority of residents would like to prevent all cars from entering the city.\nB\nThere is little likelihood of the city having another bike-sharing scheme.\nC_\nMore trips in the city are made by bike than by any other form of transport.\nD_\nAbike-sharing scheme would benefit residents who use public transport.\nE\nThe city has a reputation as a place that welcomes cyclists.\n23\n",
+  "blocks": [
+    {
+      "box": [
+        499.2194519042969,
+        95.38082885742188,
+        540.1359252929688,
+        105.82916259765625
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        130.29376220703125,
+        217.36386108398438,
+        140.0215606689453
+      ],
+      "text": "Questions 21 and 22\n"
+    },
+    {
+      "box": [
+        107.61831665039062,
+        156.92840576171875,
+        235.29185485839844,
+        166.6562042236328
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        182.48324584960938,
+        428.0617370605469,
+        192.93157958984375
+      ],
+      "text": "Write the correct letters in boxes 21 and 22 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        106.89847564697266,
+        207.3182373046875,
+        527.0057983398438,
+        218.84739685058594
+      ],
+      "text": "Which TWO of the following statements are made in the text about Amsterdam today?\n"
+    },
+    {
+      "box": [
+        131.37356567382812,
+        227.8341064453125,
+        525.8541259765625,
+        264.91778564453125
+      ],
+      "text": "A\nThe majority of residents would like to prevent all cars from entering the city.\nB\nThere is little likelihood of the city having another bike-sharing scheme.\nC_\nMore trips in the city are made by bike than by any other form of transport.\n"
+    },
+    {
+      "box": [
+        132.09341430664062,
+        267.066162109375,
+        507.6958312988281,
+        291.19219970703125
+      ],
+      "text": "D_\nAbike-sharing scheme would benefit residents who use public transport.\nE\nThe city has a reputation as a place that welcomes cyclists.\n"
+    },
+    {
+      "box": [
+        528.0136108398438,
+        732.092529296875,
+        539.4953002929688,
+        740.0188598632812
+      ],
+      "text": "23\n"
+    }
+  ]
+}

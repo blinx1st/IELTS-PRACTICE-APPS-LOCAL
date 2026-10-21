@@ -1,0 +1,1255 @@
+{
+  "audioSha256": "a6486d18b0e99da395ed969c47ed17eb600a26c0715a0ba73b1a7196e31c0f94",
+  "duration": 428.8431875,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 308.8431875,
+      "end": 313.9831875,
+      "text": " We try to use volunteers who are flexible though, because some festival events are held",
+      "words": [
+        {
+          "word": " We",
+          "start": 308.8431875,
+          "end": 309.2631875
+        },
+        {
+          "word": " try",
+          "start": 309.2631875,
+          "end": 309.6831875
+        },
+        {
+          "word": " to",
+          "start": 309.6831875,
+          "end": 309.8831875
+        },
+        {
+          "word": " use",
+          "start": 309.8831875,
+          "end": 310.1231875
+        },
+        {
+          "word": " volunteers",
+          "start": 310.1231875,
+          "end": 310.6431875
+        },
+        {
+          "word": " who",
+          "start": 310.6431875,
+          "end": 310.9231875
+        },
+        {
+          "word": " are",
+          "start": 310.9231875,
+          "end": 311.0831875
+        },
+        {
+          "word": " flexible",
+          "start": 311.0831875,
+          "end": 311.5231875
+        },
+        {
+          "word": " though,",
+          "start": 311.5231875,
+          "end": 311.9231875
+        },
+        {
+          "word": " because",
+          "start": 311.9631875,
+          "end": 312.6031875
+        },
+        {
+          "word": " some",
+          "start": 312.6031875,
+          "end": 312.8831875
+        },
+        {
+          "word": " festival",
+          "start": 312.8831875,
+          "end": 313.2231875
+        },
+        {
+          "word": " events",
+          "start": 313.2231875,
+          "end": 313.6031875
+        },
+        {
+          "word": " are",
+          "start": 313.6031875,
+          "end": 313.8431875
+        },
+        {
+          "word": " held",
+          "start": 313.8431875,
+          "end": 313.9831875
+        }
+      ]
+    },
+    {
+      "start": 313.9831875,
+      "end": 318.9831875,
+      "text": " outdoors and the weather may affect the size of the audience and even whether the event",
+      "words": [
+        {
+          "word": " outdoors",
+          "start": 313.9831875,
+          "end": 314.6831875
+        },
+        {
+          "word": " and",
+          "start": 314.6831875,
+          "end": 315.1431875
+        },
+        {
+          "word": " the",
+          "start": 315.1431875,
+          "end": 315.3031875
+        },
+        {
+          "word": " weather",
+          "start": 315.3031875,
+          "end": 315.5231875
+        },
+        {
+          "word": " may",
+          "start": 315.5231875,
+          "end": 315.8231875
+        },
+        {
+          "word": " affect",
+          "start": 315.8231875,
+          "end": 316.0831875
+        },
+        {
+          "word": " the",
+          "start": 316.0831875,
+          "end": 316.3831875
+        },
+        {
+          "word": " size",
+          "start": 316.3831875,
+          "end": 316.5831875
+        },
+        {
+          "word": " of",
+          "start": 316.5831875,
+          "end": 316.7631875
+        },
+        {
+          "word": " the",
+          "start": 316.7631875,
+          "end": 316.9631875
+        },
+        {
+          "word": " audience",
+          "start": 316.9631875,
+          "end": 317.3231875
+        },
+        {
+          "word": " and",
+          "start": 317.3231875,
+          "end": 318.0431875
+        },
+        {
+          "word": " even",
+          "start": 318.0431875,
+          "end": 318.3231875
+        },
+        {
+          "word": " whether",
+          "start": 318.3231875,
+          "end": 318.5831875
+        },
+        {
+          "word": " the",
+          "start": 318.5831875,
+          "end": 318.7431875
+        },
+        {
+          "word": " event",
+          "start": 318.7431875,
+          "end": 318.9831875
+        }
+      ]
+    },
+    {
+      "start": 318.9831875,
+      "end": 323.0031875,
+      "text": " can take place so there can be changes at short notice.",
+      "words": [
+        {
+          "word": " can",
+          "start": 318.9831875,
+          "end": 319.2831875
+        },
+        {
+          "word": " take",
+          "start": 319.2831875,
+          "end": 319.6031875
+        },
+        {
+          "word": " place",
+          "start": 319.6031875,
+          "end": 320.0631875
+        },
+        {
+          "word": " so",
+          "start": 320.0631875,
+          "end": 320.7631875
+        },
+        {
+          "word": " there",
+          "start": 320.7631875,
+          "end": 321.0431875
+        },
+        {
+          "word": " can",
+          "start": 321.0431875,
+          "end": 321.2031875
+        },
+        {
+          "word": " be",
+          "start": 321.2031875,
+          "end": 321.4831875
+        },
+        {
+          "word": " changes",
+          "start": 321.4831875,
+          "end": 321.8431875
+        },
+        {
+          "word": " at",
+          "start": 321.8431875,
+          "end": 322.1831875
+        },
+        {
+          "word": " short",
+          "start": 322.1831875,
+          "end": 322.5031875
+        },
+        {
+          "word": " notice.",
+          "start": 322.5031875,
+          "end": 323.0031875
+        }
+      ]
+    },
+    {
+      "start": 323.9031875,
+      "end": 330.1231875,
+      "text": " What's essential though is being able to get on well with other people and also to deal",
+      "words": [
+        {
+          "word": " What's",
+          "start": 323.9031875,
+          "end": 324.2031875
+        },
+        {
+          "word": " essential",
+          "start": 324.2031875,
+          "end": 324.7631875
+        },
+        {
+          "word": " though",
+          "start": 324.7631875,
+          "end": 325.3831875
+        },
+        {
+          "word": " is",
+          "start": 325.3831875,
+          "end": 325.7831875
+        },
+        {
+          "word": " being",
+          "start": 325.7831875,
+          "end": 326.0831875
+        },
+        {
+          "word": " able",
+          "start": 326.0831875,
+          "end": 326.3431875
+        },
+        {
+          "word": " to",
+          "start": 326.3431875,
+          "end": 326.4631875
+        },
+        {
+          "word": " get",
+          "start": 326.4631875,
+          "end": 326.7231875
+        },
+        {
+          "word": " on",
+          "start": 326.7231875,
+          "end": 327.0431875
+        },
+        {
+          "word": " well",
+          "start": 327.0431875,
+          "end": 327.3431875
+        },
+        {
+          "word": " with",
+          "start": 327.3431875,
+          "end": 327.6431875
+        },
+        {
+          "word": " other",
+          "start": 327.6431875,
+          "end": 327.9231875
+        },
+        {
+          "word": " people",
+          "start": 327.9231875,
+          "end": 328.6431875
+        },
+        {
+          "word": " and",
+          "start": 328.6431875,
+          "end": 329.3231875
+        },
+        {
+          "word": " also",
+          "start": 329.3231875,
+          "end": 329.7031875
+        },
+        {
+          "word": " to",
+          "start": 329.7031875,
+          "end": 329.9431875
+        },
+        {
+          "word": " deal",
+          "start": 329.9431875,
+          "end": 330.1231875
+        }
+      ]
+    },
+    {
+      "start": 330.1231875,
+      "end": 334.4231875,
+      "text": " with someone who's behaving badly as occasionally happens.",
+      "words": [
+        {
+          "word": " with",
+          "start": 330.1231875,
+          "end": 330.3031875
+        },
+        {
+          "word": " someone",
+          "start": 330.3031875,
+          "end": 330.5631875
+        },
+        {
+          "word": " who's",
+          "start": 330.5631875,
+          "end": 331.2231875
+        },
+        {
+          "word": " behaving",
+          "start": 331.2231875,
+          "end": 331.3631875
+        },
+        {
+          "word": " badly",
+          "start": 331.3631875,
+          "end": 332.0031875
+        },
+        {
+          "word": " as",
+          "start": 332.0031875,
+          "end": 332.9831875
+        },
+        {
+          "word": " occasionally",
+          "start": 332.9831875,
+          "end": 333.5631875
+        },
+        {
+          "word": " happens.",
+          "start": 333.5631875,
+          "end": 334.4231875
+        }
+      ]
+    },
+    {
+      "start": 335.50318749999997,
+      "end": 341.4231875,
+      "text": " Our plan is to get you all working in September, after a week's training starting on",
+      "words": [
+        {
+          "word": " Our",
+          "start": 335.50318749999997,
+          "end": 336.0831875
+        },
+        {
+          "word": " plan",
+          "start": 336.0831875,
+          "end": 336.5231875
+        },
+        {
+          "word": " is",
+          "start": 336.5231875,
+          "end": 336.8831875
+        },
+        {
+          "word": " to",
+          "start": 336.8831875,
+          "end": 336.9631875
+        },
+        {
+          "word": " get",
+          "start": 336.9631875,
+          "end": 337.1831875
+        },
+        {
+          "word": " you",
+          "start": 337.1831875,
+          "end": 337.3631875
+        },
+        {
+          "word": " all",
+          "start": 337.3631875,
+          "end": 337.6031875
+        },
+        {
+          "word": " working",
+          "start": 337.6031875,
+          "end": 337.9431875
+        },
+        {
+          "word": " in",
+          "start": 337.9431875,
+          "end": 338.2631875
+        },
+        {
+          "word": " September,",
+          "start": 338.2631875,
+          "end": 338.8831875
+        },
+        {
+          "word": " after",
+          "start": 339.4631875,
+          "end": 339.7631875
+        },
+        {
+          "word": " a",
+          "start": 339.7631875,
+          "end": 339.9231875
+        },
+        {
+          "word": " week's",
+          "start": 339.9231875,
+          "end": 340.3031875
+        },
+        {
+          "word": " training",
+          "start": 340.3031875,
+          "end": 340.6031875
+        },
+        {
+          "word": " starting",
+          "start": 340.6031875,
+          "end": 341.18318750000003
+        },
+        {
+          "word": " on",
+          "start": 341.18318750000003,
+          "end": 341.4231875
+        }
+      ]
+    },
+    {
+      "start": 341.4231875,
+      "end": 346.6631875,
+      "text": " the second, so we'll be timetableing you for duties the following week from the ninth",
+      "words": [
+        {
+          "word": " the",
+          "start": 341.4231875,
+          "end": 341.5831875
+        },
+        {
+          "word": " second,",
+          "start": 341.5831875,
+          "end": 342.0631875
+        },
+        {
+          "word": " so",
+          "start": 342.5431875,
+          "end": 343.00318749999997
+        },
+        {
+          "word": " we'll",
+          "start": 343.00318749999997,
+          "end": 343.2231875
+        },
+        {
+          "word": " be",
+          "start": 343.2231875,
+          "end": 343.4631875
+        },
+        {
+          "word": " timetableing",
+          "start": 343.4631875,
+          "end": 344.1031875
+        },
+        {
+          "word": " you",
+          "start": 344.1031875,
+          "end": 344.2831875
+        },
+        {
+          "word": " for",
+          "start": 344.2831875,
+          "end": 344.4631875
+        },
+        {
+          "word": " duties",
+          "start": 344.4631875,
+          "end": 344.8831875
+        },
+        {
+          "word": " the",
+          "start": 344.8831875,
+          "end": 345.2031875
+        },
+        {
+          "word": " following",
+          "start": 345.2031875,
+          "end": 345.4031875
+        },
+        {
+          "word": " week",
+          "start": 345.4031875,
+          "end": 345.8431875
+        },
+        {
+          "word": " from",
+          "start": 345.8431875,
+          "end": 346.1031875
+        },
+        {
+          "word": " the",
+          "start": 346.1031875,
+          "end": 346.3431875
+        },
+        {
+          "word": " ninth",
+          "start": 346.3431875,
+          "end": 346.6631875
+        }
+      ]
+    },
+    {
+      "start": 346.6631875,
+      "end": 347.1031875,
+      "text": " onward.",
+      "words": [
+        {
+          "word": " onward.",
+          "start": 346.6631875,
+          "end": 347.1031875
+        }
+      ]
+    },
+    {
+      "start": 348.0431875,
+      "end": 354.0231875,
+      "text": " Later, in the week beginning September 23rd, we have a chat with each of you to find out",
+      "words": [
+        {
+          "word": " Later,",
+          "start": 348.0431875,
+          "end": 348.3831875
+        },
+        {
+          "word": " in",
+          "start": 348.6431875,
+          "end": 348.7431875
+        },
+        {
+          "word": " the",
+          "start": 348.7431875,
+          "end": 348.8631875
+        },
+        {
+          "word": " week",
+          "start": 348.8631875,
+          "end": 349.0631875
+        },
+        {
+          "word": " beginning",
+          "start": 349.0631875,
+          "end": 349.4231875
+        },
+        {
+          "word": " September",
+          "start": 349.4231875,
+          "end": 349.9031875
+        },
+        {
+          "word": " 23rd,",
+          "start": 349.9031875,
+          "end": 351.4231875
+        },
+        {
+          "word": " we",
+          "start": 351.4231875,
+          "end": 351.6631875
+        },
+        {
+          "word": " have",
+          "start": 351.6631875,
+          "end": 351.8231875
+        },
+        {
+          "word": " a",
+          "start": 351.8231875,
+          "end": 352.00318749999997
+        },
+        {
+          "word": " chat",
+          "start": 352.00318749999997,
+          "end": 352.3031875
+        },
+        {
+          "word": " with",
+          "start": 352.3031875,
+          "end": 352.4831875
+        },
+        {
+          "word": " each",
+          "start": 352.4831875,
+          "end": 352.7631875
+        },
+        {
+          "word": " of",
+          "start": 352.7631875,
+          "end": 352.9231875
+        },
+        {
+          "word": " you",
+          "start": 352.9231875,
+          "end": 353.3231875
+        },
+        {
+          "word": " to",
+          "start": 353.3231875,
+          "end": 353.50318749999997
+        },
+        {
+          "word": " find",
+          "start": 353.50318749999997,
+          "end": 353.8231875
+        },
+        {
+          "word": " out",
+          "start": 353.8231875,
+          "end": 354.0231875
+        }
+      ]
+    },
+    {
+      "start": 354.0231875,
+      "end": 358.1231875,
+      "text": " how you feel about being a volunteer and what extra support you need.",
+      "words": [
+        {
+          "word": " how",
+          "start": 354.0231875,
+          "end": 354.2031875
+        },
+        {
+          "word": " you",
+          "start": 354.2031875,
+          "end": 354.4031875
+        },
+        {
+          "word": " feel",
+          "start": 354.4031875,
+          "end": 354.6631875
+        },
+        {
+          "word": " about",
+          "start": 354.6631875,
+          "end": 354.9631875
+        },
+        {
+          "word": " being",
+          "start": 354.9631875,
+          "end": 355.2031875
+        },
+        {
+          "word": " a",
+          "start": 355.2031875,
+          "end": 355.3831875
+        },
+        {
+          "word": " volunteer",
+          "start": 355.3831875,
+          "end": 355.7431875
+        },
+        {
+          "word": " and",
+          "start": 355.7431875,
+          "end": 356.50318749999997
+        },
+        {
+          "word": " what",
+          "start": 356.50318749999997,
+          "end": 356.7831875
+        },
+        {
+          "word": " extra",
+          "start": 356.7831875,
+          "end": 357.0631875
+        },
+        {
+          "word": " support",
+          "start": 357.0631875,
+          "end": 357.5431875
+        },
+        {
+          "word": " you",
+          "start": 357.5431875,
+          "end": 357.6631875
+        },
+        {
+          "word": " need.",
+          "start": 357.6631875,
+          "end": 358.1231875
+        }
+      ]
+    },
+    {
+      "start": 358.9631875,
+      "end": 363.18318750000003,
+      "text": " As a thank you to the volunteers, we arrange an annual event.",
+      "words": [
+        {
+          "word": " As",
+          "start": 358.9631875,
+          "end": 359.5631875
+        },
+        {
+          "word": " a",
+          "start": 359.5631875,
+          "end": 359.8031875
+        },
+        {
+          "word": " thank",
+          "start": 359.8031875,
+          "end": 360.00318749999997
+        },
+        {
+          "word": " you",
+          "start": 360.00318749999997,
+          "end": 360.18318750000003
+        },
+        {
+          "word": " to",
+          "start": 360.18318750000003,
+          "end": 360.3031875
+        },
+        {
+          "word": " the",
+          "start": 360.3031875,
+          "end": 360.4631875
+        },
+        {
+          "word": " volunteers,",
+          "start": 360.4631875,
+          "end": 360.8031875
+        },
+        {
+          "word": " we",
+          "start": 361.3431875,
+          "end": 361.4431875
+        },
+        {
+          "word": " arrange",
+          "start": 361.4431875,
+          "end": 361.7831875
+        },
+        {
+          "word": " an",
+          "start": 361.7831875,
+          "end": 362.0831875
+        },
+        {
+          "word": " annual",
+          "start": 362.0831875,
+          "end": 362.4231875
+        },
+        {
+          "word": " event.",
+          "start": 362.4231875,
+          "end": 363.18318750000003
+        }
+      ]
+    },
+    {
+      "start": 364.5431875,
+      "end": 370.6031875,
+      "text": " In recent years, we've had a party in the town hall, and last year, a barbecue in Chamber",
+      "words": [
+        {
+          "word": " In",
+          "start": 364.5431875,
+          "end": 364.7431875
+        },
+        {
+          "word": " recent",
+          "start": 364.7431875,
+          "end": 365.0831875
+        },
+        {
+          "word": " years,",
+          "start": 365.0831875,
+          "end": 365.4231875
+        },
+        {
+          "word": " we've",
+          "start": 365.5831875,
+          "end": 365.7231875
+        },
+        {
+          "word": " had",
+          "start": 365.7231875,
+          "end": 365.8831875
+        },
+        {
+          "word": " a",
+          "start": 365.8831875,
+          "end": 366.0631875
+        },
+        {
+          "word": " party",
+          "start": 366.0631875,
+          "end": 366.4031875
+        },
+        {
+          "word": " in",
+          "start": 366.4031875,
+          "end": 366.8431875
+        },
+        {
+          "word": " the",
+          "start": 366.8431875,
+          "end": 367.0431875
+        },
+        {
+          "word": " town",
+          "start": 367.0431875,
+          "end": 367.3031875
+        },
+        {
+          "word": " hall,",
+          "start": 367.3031875,
+          "end": 367.8231875
+        },
+        {
+          "word": " and",
+          "start": 368.2231875,
+          "end": 368.3431875
+        },
+        {
+          "word": " last",
+          "start": 368.3431875,
+          "end": 368.6631875
+        },
+        {
+          "word": " year,",
+          "start": 368.6631875,
+          "end": 369.2031875
+        },
+        {
+          "word": " a",
+          "start": 369.3431875,
+          "end": 369.5631875
+        },
+        {
+          "word": " barbecue",
+          "start": 369.5631875,
+          "end": 369.8831875
+        },
+        {
+          "word": " in",
+          "start": 369.8831875,
+          "end": 370.2831875
+        },
+        {
+          "word": " Chamber",
+          "start": 370.2831875,
+          "end": 370.6031875
+        }
+      ]
+    },
+    {
+      "start": 370.6031875,
+      "end": 371.0231875,
+      "text": " Park.",
+      "words": [
+        {
+          "word": " Park.",
+          "start": 370.6031875,
+          "end": 371.0231875
+        }
+      ]
+    },
+    {
+      "start": 372.0631875,
+      "end": 376.7431875,
+      "text": " Our forthcoming event is a trip along the canal from here to due Hurston back.",
+      "words": [
+        {
+          "word": " Our",
+          "start": 372.0631875,
+          "end": 372.3231875
+        },
+        {
+          "word": " forthcoming",
+          "start": 372.3231875,
+          "end": 372.7031875
+        },
+        {
+          "word": " event",
+          "start": 372.7031875,
+          "end": 373.2431875
+        },
+        {
+          "word": " is",
+          "start": 373.2431875,
+          "end": 373.7631875
+        },
+        {
+          "word": " a",
+          "start": 373.7631875,
+          "end": 373.9231875
+        },
+        {
+          "word": " trip",
+          "start": 373.9231875,
+          "end": 374.0831875
+        },
+        {
+          "word": " along",
+          "start": 374.0831875,
+          "end": 374.2831875
+        },
+        {
+          "word": " the",
+          "start": 374.2831875,
+          "end": 374.50318749999997
+        },
+        {
+          "word": " canal",
+          "start": 374.50318749999997,
+          "end": 374.8231875
+        },
+        {
+          "word": " from",
+          "start": 374.8231875,
+          "end": 375.2031875
+        },
+        {
+          "word": " here",
+          "start": 375.2031875,
+          "end": 375.4231875
+        },
+        {
+          "word": " to",
+          "start": 375.4231875,
+          "end": 375.6431875
+        },
+        {
+          "word": " due",
+          "start": 375.6431875,
+          "end": 375.8831875
+        },
+        {
+          "word": " Hurston",
+          "start": 375.8831875,
+          "end": 376.3031875
+        },
+        {
+          "word": " back.",
+          "start": 376.3031875,
+          "end": 376.7431875
+        }
+      ]
+    },
+    {
+      "start": 377.3031875,
+      "end": 382.1231875,
+      "text": " It's on Saturday, September the 28th, and if you'd like to attend, you can sign up",
+      "words": [
+        {
+          "word": " It's",
+          "start": 377.3031875,
+          "end": 377.4231875
+        },
+        {
+          "word": " on",
+          "start": 377.4231875,
+          "end": 377.7431875
+        },
+        {
+          "word": " Saturday,",
+          "start": 377.7431875,
+          "end": 378.1631875
+        },
+        {
+          "word": " September",
+          "start": 378.4031875,
+          "end": 378.7831875
+        },
+        {
+          "word": " the",
+          "start": 378.7831875,
+          "end": 379.0831875
+        },
+        {
+          "word": " 28th,",
+          "start": 379.0831875,
+          "end": 380.1631875
+        },
+        {
+          "word": " and",
+          "start": 380.1631875,
+          "end": 380.2631875
+        },
+        {
+          "word": " if",
+          "start": 380.2631875,
+          "end": 380.3831875
+        },
+        {
+          "word": " you'd",
+          "start": 380.3831875,
+          "end": 380.5631875
+        },
+        {
+          "word": " like",
+          "start": 380.5631875,
+          "end": 380.7231875
+        },
+        {
+          "word": " to",
+          "start": 380.7231875,
+          "end": 380.8431875
+        },
+        {
+          "word": " attend,",
+          "start": 380.8431875,
+          "end": 381.18318750000003
+        },
+        {
+          "word": " you",
+          "start": 381.3631875,
+          "end": 381.3631875
+        },
+        {
+          "word": " can",
+          "start": 381.3631875,
+          "end": 381.68318750000003
+        },
+        {
+          "word": " sign",
+          "start": 381.68318750000003,
+          "end": 381.9431875
+        },
+        {
+          "word": " up",
+          "start": 381.9431875,
+          "end": 382.1231875
+        }
+      ]
+    },
+    {
+      "start": 382.1231875,
+      "end": 383.3231875,
+      "text": " once you start work.",
+      "words": [
+        {
+          "word": " once",
+          "start": 382.1231875,
+          "end": 382.3631875
+        },
+        {
+          "word": " you",
+          "start": 382.3631875,
+          "end": 382.6031875
+        },
+        {
+          "word": " start",
+          "start": 382.6031875,
+          "end": 382.8031875
+        },
+        {
+          "word": " work.",
+          "start": 382.8031875,
+          "end": 383.3231875
+        }
+      ]
+    },
+    {
+      "start": 383.3231875,
+      "end": 388.18318750000003,
+      "text": " Now, this is the volunteers' D-shirt.",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 383.3231875,
+          "end": 384.4431875
+        },
+        {
+          "word": " this",
+          "start": 384.8831875,
+          "end": 385.5631875
+        },
+        {
+          "word": " is",
+          "start": 385.5631875,
+          "end": 386.2831875
+        },
+        {
+          "word": " the",
+          "start": 386.2831875,
+          "end": 386.4631875
+        },
+        {
+          "word": " volunteers'",
+          "start": 386.4631875,
+          "end": 386.9231875
+        },
+        {
+          "word": " D",
+          "start": 387.2431875,
+          "end": 387.3031875
+        },
+        {
+          "word": "-shirt.",
+          "start": 387.3031875,
+          "end": 388.18318750000003
+        }
+      ]
+    },
+    {
+      "start": 391.1231875,
+      "end": 398.18318750000003,
+      "text": " That is the end of part 2. You now have 30 seconds to check your answers to part 2.",
+      "words": [
+        {
+          "word": " That",
+          "start": 391.1231875,
+          "end": 391.4631875
+        },
+        {
+          "word": " is",
+          "start": 391.4631875,
+          "end": 391.6431875
+        },
+        {
+          "word": " the",
+          "start": 391.6431875,
+          "end": 391.8231875
+        },
+        {
+          "word": " end",
+          "start": 391.8231875,
+          "end": 392.1031875
+        },
+        {
+          "word": " of",
+          "start": 392.1031875,
+          "end": 392.3631875
+        },
+        {
+          "word": " part",
+          "start": 392.3631875,
+          "end": 392.68318750000003
+        },
+        {
+          "word": " 2.",
+          "start": 392.68318750000003,
+          "end": 393.3431875
+        },
+        {
+          "word": " You",
+          "start": 393.7231875,
+          "end": 394.00318749999997
+        },
+        {
+          "word": " now",
+          "start": 394.00318749999997,
+          "end": 394.3031875
+        },
+        {
+          "word": " have",
+          "start": 394.3031875,
+          "end": 394.6231875
+        },
+        {
+          "word": " 30",
+          "start": 394.6231875,
+          "end": 395.0431875
+        },
+        {
+          "word": " seconds",
+          "start": 395.0431875,
+          "end": 395.4631875
+        },
+        {
+          "word": " to",
+          "start": 395.4631875,
+          "end": 395.9031875
+        },
+        {
+          "word": " check",
+          "start": 395.9031875,
+          "end": 396.2031875
+        },
+        {
+          "word": " your",
+          "start": 396.2031875,
+          "end": 396.50318749999997
+        },
+        {
+          "word": " answers",
+          "start": 396.50318749999997,
+          "end": 396.9031875
+        },
+        {
+          "word": " to",
+          "start": 396.9031875,
+          "end": 397.3031875
+        },
+        {
+          "word": " part",
+          "start": 397.3031875,
+          "end": 397.5831875
+        },
+        {
+          "word": " 2.",
+          "start": 397.5831875,
+          "end": 398.18318750000003
+        }
+      ]
+    },
+    {
+      "start": 427.4231875,
+      "end": 428.8231875,
+      "text": " You",
+      "words": [
+        {
+          "word": " You",
+          "start": 427.4231875,
+          "end": 428.8231875
+        }
+      ]
+    }
+  ]
+}

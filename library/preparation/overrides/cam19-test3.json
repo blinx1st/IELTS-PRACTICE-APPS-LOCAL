@@ -3,7 +3,7 @@
   "book": 19,
   "test": 3,
   "title": "Cambridge 19 · Test 3",
-  "version": "2026-10-21.5.layout1",
+  "version": "2026-10-21.5.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots in this book were compared with the supplied PDFs. Source-image task layouts and native options, numbering and word limits were checked separately.",
@@ -138,7 +138,108 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Archaeological findings on Obi"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Excavations of rock shelters inside ",
+                  {
+                    "number": 8
+                  },
+                  " near the village of Kelo revealed:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "axes from around 14,000 years ago, probably used to make canoes"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "axes made out of ",
+                  {
+                    "number": 9
+                  },
+                  ", dating from around 11,700 years ago"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "",
+                  {
+                    "number": 10
+                  },
+                  " of an animal: evidence of what ancient islanders ate"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "evidence of travel between islands:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– obsidian: a material that is not found naturally on Obi"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– ",
+                  {
+                    "number": 11
+                  },
+                  " which resembled ones found on other islands."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It is thought that from 8,000 years ago, Obi islanders:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "may have switched from hunting to fishing"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "had ",
+                  {
+                    "number": 12
+                  },
+                  " as well as items made out of metal"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "probably took part in the production and sale of ",
+                  {
+                    "number": 13
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -350,7 +451,62 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Peatlands which have been drained begin to release ",
+                  {
+                    "number": 18
+                  },
+                  " instead of storing it."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Once peatland areas have been cleared, ",
+                  {
+                    "number": 19
+                  },
+                  " are more likely to occur."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Clearing peatland forests to make way for oil palm plantations destroys the ",
+                  {
+                    "number": 20
+                  },
+                  " of the local environment."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Water is drained out of peatlands through the ",
+                  {
+                    "number": 21
+                  },
+                  " which are created by logging companies."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Draining peatlands leads to ",
+                  {
+                    "number": 22
+                  },
+                  ": a serious problem which can eventually result in coastal flooding and land loss."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam19-t3-p2-g3",

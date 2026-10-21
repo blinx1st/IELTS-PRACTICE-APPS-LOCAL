@@ -3,7 +3,7 @@
   "book": 20,
   "test": 3,
   "title": "Cambridge 20 · Test 3",
-  "version": "2026-10-21.2.layout1",
+  "version": "2026-10-21.2.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 3 passages and 40 questions, options, instructions and word limits visually reviewed against supplied PDFs; extraction artifacts corrected. The supplied files are retyped documents, not publisher-certified originals.",
@@ -108,7 +108,80 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": true
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The history of frozen food \n \n2,000 years ago, South America \n \n● People conserved the nutritional value of ",
+                  {
+                    "number": 1
+                  },
+                  " , using a method \nof freezing then drying. \n \n1851, USA \n \n● ",
+                  {
+                    "number": 2
+                  },
+                  " was kept cool by ice during transportation in specially \nadapted trains. \n \n1880, Australia \n \n● Two kinds of ",
+                  {
+                    "number": 3
+                  },
+                  " were the first frozen food shipped to England. \n \n1917 onwards, USA \n \n● Clarence Birdseye introduced innovations including: \n- quick-freezing methods, so that ",
+                  {
+                    "number": 4
+                  },
+                  " did not spoil the \nfood. \n- packaging products with ",
+                  {
+                    "number": 5
+                  },
+                  ", so the product was visible. \n \nEarly 1940s, USA \n \n● Frozen food became popular because of a shortage of ",
+                  {
+                    "number": 6
+                  },
+                  " \n \n1950s, USA \n \n● A large number of homes now had a ",
+                  {
+                    "number": 7
+                  },
+                  ""
+                ],
+                "anchors": [
+                  "cam20-t3-p1-g1-body-0",
+                  "",
+                  "cam20-t3-p1-g1-body-118",
+                  "",
+                  "cam20-t3-p1-g1-body-190",
+                  "",
+                  "cam20-t3-p1-g1-body-311",
+                  "",
+                  "cam20-t3-p1-g1-body-482",
+                  "",
+                  "cam20-t3-p1-g1-body-544",
+                  "",
+                  "cam20-t3-p1-g1-body-661",
+                  "",
+                  "cam20-t3-p1-g1-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam20-t3-p1-g2",
@@ -438,7 +511,48 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": true
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "24 Corals have a number of ",
+                  {
+                    "number": 24
+                  },
+                  " which they use to collect their food. \n \n25 Algae gain ",
+                  {
+                    "number": 25
+                  },
+                  " from being inside the coral. \n \n26 Increases in the warmth of the sea water can remove the ",
+                  {
+                    "number": 26
+                  },
+                  " from \ncoral."
+                ],
+                "anchors": [
+                  "cam20-t3-p2-g4-body-0",
+                  "",
+                  "cam20-t3-p2-g4-body-37",
+                  "",
+                  "cam20-t3-p2-g4-body-103",
+                  "",
+                  "cam20-t3-p2-g4-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

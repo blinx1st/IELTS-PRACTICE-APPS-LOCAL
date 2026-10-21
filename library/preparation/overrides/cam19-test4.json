@@ -3,7 +3,7 @@
   "book": 19,
   "test": 4,
   "title": "Cambridge 19 · Test 4",
-  "version": "2026-10-21.5.layout1",
+  "version": "2026-10-21.5.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots in this book were compared with the supplied PDFs. Source-image task layouts and native options, numbering and word limits were checked separately.",
@@ -138,7 +138,124 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Butterflies in the UK"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The Small Blue"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "lives in large ",
+                  {
+                    "number": 7
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "first appears at the start of ",
+                  {
+                    "number": 8
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "completes more than one reproductive cycle per year"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The High Brown Fritillary"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "has one reproductive cycle"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "is considered to be more ",
+                  {
+                    "number": 9
+                  },
+                  " than other species"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "its caterpillars occupy a limited range of ",
+                  {
+                    "number": 10
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The Silver-studded Blue"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "is already able to reproduce twice a year in warm areas of ",
+                  {
+                    "number": 11
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "The White Admiral"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "is found in ",
+                  {
+                    "number": 12
+                  },
+                  " areas of England"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "both climate change and the ",
+                  {
+                    "number": 13
+                  },
+                  " of the caterpillar are possible reasons for decline"
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -380,7 +497,42 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Mining the sea floor"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Mining corporations believe that the mineral resources lying under the sea may be superior to those found in the earth. They also say that these can be removed without producing much ",
+                  {
+                    "number": 24
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The extraction is often done by adapting the ",
+                  {
+                    "number": 25
+                  },
+                  " that has already been used to work on land. The method of excavation involves removing the seawater from the slurry that is brought up to ships and returning it to the seabed. However, concerned groups strongly believe that ",
+                  {
+                    "number": 26
+                  },
+                  " is necessary due to the possible number of unidentified consequences."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -603,7 +755,44 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Contemporary hunter-gatherer societies"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Bruce Knauft’s research shows that contemporary hunter-gatherer societies tend to exhibit a high level of ",
+                  {
+                    "number": 31
+                  },
+                  " in all areas of life. In these cultures, distributing resources fairly among all members is a moral obligation. These societies also employ strategies to prevent differences in ",
+                  {
+                    "number": 32
+                  },
+                  " occurring: for example, the !Kung follow a custom whereby the credit for one person’s success at ",
+                  {
+                    "number": 33
+                  },
+                  " is given to another member of the group. Individuals who behave in a ",
+                  {
+                    "number": 34
+                  },
+                  " manner are punished by being excluded from the group, and women have a considerable amount of ",
+                  {
+                    "number": 35
+                  },
+                  " in choices regarding work and marriage."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam19-t4-p3-g3",

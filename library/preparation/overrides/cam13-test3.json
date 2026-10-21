@@ -3,7 +3,7 @@
   "book": 13,
   "test": 3,
   "title": "Cambridge 13 · Test 3",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -481,7 +481,54 @@
           ],
           "wordLimit": 2,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Research into how parents talk to babies"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Researchers at Washington State University used ",
+                  {
+                    "number": 18
+                  },
+                  ", together with specialised computer programs, to analyse how parents interacted with their babies during a normal day. The study revealed that ",
+                  {
+                    "number": 19
+                  },
+                  " tended not to modify their ordinary speech patterns when interacting with their babies. According to an idea known as the ",
+                  {
+                    "number": 20
+                  },
+                  ", they may use a more adult type of speech to prepare infants for the language they will hear outside the family home. According to the researchers, hearing baby talk from one parent and ‘normal’ language from the other expands the baby’s ",
+                  {
+                    "number": 21
+                  },
+                  " of types of speech which they can practise."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Meanwhile, another study carried out by scientists from the University of Washington and the University of Connecticut recorded speech and sound using special ",
+                  {
+                    "number": 22
+                  },
+                  " that the babies were equipped with. When they studied the babies again at age two, they found that those who had heard a lot of baby talk in infancy had a much larger ",
+                  {
+                    "number": 23
+                  },
+                  " than those who had not."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam13-t3-p2-g3",
@@ -766,7 +813,50 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Looking at evidence of climate change"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Yama Dixit and David Hodell have found the first definitive evidence of climate change affecting the plains of north-western India thousands of years ago. By collecting the ",
+                  {
+                    "number": 32
+                  },
+                  " of snails and analysing them, they discovered evidence of a change in water levels in a ",
+                  {
+                    "number": 33
+                  },
+                  " in the region. This occurred when there was less ",
+                  {
+                    "number": 34
+                  },
+                  " than evaporation, and suggests that there was an extended period of drought."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Petrie and Singh’s team are using archaeological records to look at ",
+                  {
+                    "number": 35
+                  },
+                  " from five millennia ago, in order to know whether people had adapted their agricultural practices to changing climatic conditions. They are also examining objects including ",
+                  {
+                    "number": 36
+                  },
+                  ", so as to find out about links between inhabitants of different parts of the region and whether these changed over time."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam13-t3-p3-g3",

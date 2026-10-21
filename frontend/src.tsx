@@ -10,10 +10,8 @@ import {
   ChevronRight,
   Clock3,
   Download,
-  Eraser,
   Flag,
   FolderOpen,
-  Highlighter,
   HelpCircle,
   History,
   Keyboard,
@@ -49,6 +47,9 @@ import { typeNames } from "./types";
 import { useAttempt } from "./useAttempt";
 import { Annotated } from "./Annotated";
 import { highlightSelection } from "./annotations";
+import { SelectionTools } from "./SelectionTools";
+import type { HighlightColor } from "./types";
+import {ListeningColumnsPicker,QuestionColumns,canSplitQuestions,useListeningColumns,useQuestionPaneWidth} from './ListeningColumns';
 import {
   InteractiveTable,
   MatchingMatrix,
@@ -60,6 +61,7 @@ import "./inline.css";
 import "./exam-upgrade.css";
 import "./listening.css";
 import "./experience.css";
+import "./ux-upgrade.css";
 import { Modal } from "./Dialog";
 import { ExamNavigation } from "./ExamNavigation";
 import {
@@ -104,7 +106,7 @@ function Brand() {
   return (
     <div className="brand">
       <span className="brand-symbol">
-        <BookOpen size={22} />
+        <img src="/app-logo.png" alt="" />
       </span>
       <span>
         Tu Luyện - IELTS
@@ -1173,8 +1175,9 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
   const [focused, setFocused] = useState<number | null>(null);
   const expiryRequested = useRef(false),
     panels = useRef<HTMLDivElement>(null),
-    reading = useRef<HTMLDivElement>(null),
-    questions = useRef<HTMLDivElement>(null);
+    reading = useRef<HTMLDivElement>(null);
+  const {ref:questions,wide:questionPaneWide}=useQuestionPaneWidth();
+  const columnPreference=useListeningColumns();
   const offset = useRef(0);
   useEffect(() => {
     if (a) offset.current = a.serverNow - Date.now() / 1000;
@@ -1328,8 +1331,8 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
         if (end > start)
           ranges.push({
             anchor: el.dataset.textId!,
-            start,
-            end,
+            start: start + Number(el.dataset.textStart||0),
+            end: end + Number(el.dataset.textStart||0),
             text: el.textContent.slice(start, end),
           });
       });
@@ -1340,7 +1343,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
         ranges,
       });
   };
-  const annotate = (kind: "highlight" | "note" | "clear" = "highlight") => {
+  const annotate = (kind: HighlightColor | "note" | "clear" = "yellow") => {
     if (!a || !selection) return;
     if (kind === "note") {
       setNoteEditing({
@@ -1355,7 +1358,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
         annotations: highlightSelection(
           current.annotations,
           selection.ranges,
-          kind === "clear"
+          kind
         ),
       }));
     setSelection(null);
@@ -1668,6 +1671,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
           ))}
         </div>
         <div className="reading-tools">
+          {listening&&<ListeningColumnsPicker mode={columnPreference.mode} onChange={columnPreference.set}/>}
           <button onClick={() => setSupport("display")}>
             <Settings2 size={16} />
             Display
@@ -1813,6 +1817,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
             <QuestionGroup
               key={g.id}
               group={g}
+              twoColumns={listening&&questionPaneWide&&canSplitQuestions(g,columnPreference.mode)}
               attempt={a}
               editable={!!editable}
               onAnswer={(n, value) =>
@@ -1944,24 +1949,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
       )}
 
       {selection && (
-        <div
-          className="selection-menu"
-          style={{ left: selection.x, top: selection.y }}
-          onMouseDown={(e) => e.preventDefault()}
-        >
-          <button onClick={() => annotate()}>
-            <Highlighter size={15} />
-            Highlight
-          </button>
-          <button onClick={() => annotate("note")}>
-            <StickyNote size={15} />
-            Note
-          </button>
-          <button onClick={() => annotate("clear")}>
-            <Eraser size={15} />
-            Clear highlight
-          </button>
-        </div>
+        <SelectionTools x={selection.x} y={selection.y} onAction={annotate}/>
       )}
       {submitOpen && (
         <Modal title="Finish your test?" onClose={() => setSubmitOpen(false)}>
@@ -2223,6 +2211,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
 
 function QuestionGroup({
   group: g,
+  twoColumns=false,
   attempt: a,
   editable,
   onAnswer,
@@ -2236,6 +2225,7 @@ function QuestionGroup({
   onAnnotation,
 }: {
   group: Group;
+  twoColumns?:boolean;
   attempt: Attempt;
   editable: boolean;
   onAnswer: (n: number, v: string) => void;
@@ -2310,6 +2300,7 @@ function QuestionGroup({
           />
         </div>
         <ListeningMatching
+          twoColumns={twoColumns}
           {...{
             group: g,
             attempt: a,
@@ -2548,7 +2539,7 @@ function QuestionGroup({
           )}
         </div>
       ) : (
-        g.questions.map((q) => {
+        <QuestionColumns items={g.questions} split={twoColumns} render={(q) => {
           const opts =
             g.type === "tfng"
               ? [
@@ -2677,7 +2668,7 @@ function QuestionGroup({
               {results[q.number] && <AnswerFeedback row={results[q.number]} />}
             </div>
           );
-        })
+        }}/>
       )}
     </div>
   );

@@ -3,7 +3,7 @@
   "book": 18,
   "test": 2,
   "title": "Cambridge 18 · Test 2",
-  "version": "2026-10-21.5",
+  "version": "2026-10-21.5.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots in this book were compared with the supplied PDFs. Source-image task layouts and native options, numbering and word limits were checked separately.",
@@ -121,7 +121,164 @@
           ],
           "wordLimit": 2,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Stonehenge"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Construction"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Stage 1:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the ditch and henge were dug, possibly using tools made from ",
+                  {
+                    "number": 1
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "",
+                  {
+                    "number": 2
+                  },
+                  " may have been arranged in deep pits inside the circle"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Stage 2:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "bluestones from the Preseli Hills were placed in standing position"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "theories about the transportation of the bluestones:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– archaeological:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "  ○ builders used ",
+                  {
+                    "number": 3
+                  },
+                  " to make sledges and rollers"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "  ○ ",
+                  {
+                    "number": 4
+                  },
+                  " pulled them on giant baskets"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– geological:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "  ○ they were brought from Wales by ",
+                  {
+                    "number": 5
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Stage 3:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "sandstone slabs were arranged into an outer crescent or ring"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Builders"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "a theory arose in the 17th century that its builders were Celtic ",
+                  {
+                    "number": 6
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Purpose"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "many experts agree it has been used as a ",
+                  {
+                    "number": 7
+                  },
+                  " site"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "in the 1960s, it was suggested that it worked as a kind of ",
+                  {
+                    "number": 8
+                  },
+                  ""
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam18-t2-p1-g2",
@@ -478,7 +635,36 @@
               "label": "technology experts"
             }
           ],
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Using AI in the UK health system"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "AI currently has a limited role in the way ",
+                  {
+                    "number": 24
+                  },
+                  " are allocated in the health service. The positive aspect of AI having a bigger role is that it would be more efficient and lead to patient benefits. However, such a change would result, for example, in certain ",
+                  {
+                    "number": 25
+                  },
+                  " not having their current level of ",
+                  {
+                    "number": 26
+                  },
+                  ". It is therefore important that AI goals are appropriate so that discriminatory practices could be avoided."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -649,7 +835,64 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Leonardo da Vinci’s ideal city"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A collection of Leonardo da Vinci’s paperwork reveals his design of a new city beside the Ticino River. This was to provide better ",
+                  {
+                    "number": 34
+                  },
+                  " for trade and a less polluted environment. Although Leonardo da Vinci’s city shared many of the ideals of his time, some of his innovations were considered unconventional in their design. They included features that can be seen in some tower blocks today, such as ",
+                  {
+                    "number": 35
+                  },
+                  " on the exterior of a building."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Leonardo da Vinci wasn’t only an architect. His expertise in ",
+                  {
+                    "number": 36
+                  },
+                  " was evident in his plans for artificial canals within his ideal city. He also believed that the height of houses should relate to the width of streets in case earthquakes occurred. The design of many cities in Italy today follows this ",
+                  {
+                    "number": 37
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "While some cities from ",
+                  {
+                    "number": 38
+                  },
+                  " times have aspects that can also be found in Leonardo’s designs, his ideas weren’t put into practice until long after his death. ",
+                  {
+                    "number": 39
+                  },
+                  " is one example of a city that was redesigned in the 19th century in the way that Leonardo had envisaged. His ideas are also relevant to today’s world, where building ",
+                  {
+                    "number": 40
+                  },
+                  " no longer seems to be the best approach."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

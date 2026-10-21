@@ -1,0 +1,17 @@
+{
+  "reading": {
+    "library": 32,
+    "saveReloadSubmitGrade": true,
+    "audioRangeAndTranscript": false
+  },
+  "listening": {
+    "library": 32,
+    "saveReloadSubmitGrade": true,
+    "audioRangeAndTranscript": true
+  },
+  "packageMiB": 1036.7,
+  "withoutPdfModelsOrOcrCache": true,
+  "externalConnectionsBlocked": true,
+  "backupBytes": 20923971,
+  "errors": []
+}

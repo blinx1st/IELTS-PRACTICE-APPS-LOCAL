@@ -1,0 +1,111 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 74,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Test 3\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome people say that advertising is extremely successful at persuading us\nto buy things. Other people think that advertising is so common that we no\nlongerpay attention to it.\nDiscuss both these views and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n72\n(Bp. 134\n",
+  "blocks": [
+    {
+      "box": [
+        79.17810516172915,
+        88.5355175899335,
+        110.12954627040509,
+        97.54202851651898
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        78.09840372770556,
+        124.88546586872734,
+        209.4260822950184,
+        135.69327312287473
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        78.09840372770556,
+        153.31760363134825,
+        331.648231906691,
+        165.92671453525156
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        78.45830420571343,
+        182.10964187197703,
+        237.98779360213044,
+        193.2777157138308
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        91.41472141399638,
+        216.66008776073156,
+        514.6073068567266,
+        230.34998378336599
+      ],
+      "text": "Some people say that advertising is extremely successful at persuading us\n"
+    },
+    {
+      "box": [
+        91.41472141399638,
+        231.05610688104596,
+        513.8838740925019,
+        258.7806863959688
+      ],
+      "text": "to buy things. Other people think that advertising is so common that we no\nlongerpay attention to it.\n"
+    },
+    {
+      "box": [
+        91.41472141399638,
+        273.52436328597344,
+        391.96044070602477,
+        285.4129703032399
+      ],
+      "text": "Discuss both these views and give your own opinion.\n"
+    },
+    {
+      "box": [
+        79.53800563973701,
+        309.51441108675937,
+        497.6631642348917,
+        322.48377393398107
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\n"
+    },
+    {
+      "box": [
+        79.89790611774487,
+        324.9901316410974,
+        212.4007235952848,
+        336.87873865836383
+      ],
+      "text": "knowledge or experience.\n"
+    },
+    {
+      "box": [
+        79.17810516172915,
+        352.70246844770253,
+        207.87855124387085,
+        362.0692239954125
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        777.0251320189692,
+        182.77184645022564,
+        788.5534870929173
+      ],
+      "text": "72\n(Bp. 134\n"
+    }
+  ]
+}

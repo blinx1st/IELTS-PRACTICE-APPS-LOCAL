@@ -1,0 +1,138 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 4,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "‘\nIntroduction\nThe International English Language Testing System (IELTS) is widely recognised as\na reliable means of assessing the language ability of candidates who need to study\nor work where English is the language of communication. These Practice Tests are\ndesigned to give future IELTS candidates an idea of whether their English is at the\nrequired level.\nIELTS is owned by three partners: Cambridge English Language Assessment, part of\nthe University of Cambridge; the British Council; IDP Education Pty Limited (through its\nsubsidiary company, IELTS Australia Pty Limited). Further information on IELTS can be\nfound on the IELTS website www.ielts.org.\nWHAT IS THE TEST FORMAT?\nIELTS consists of four components. All candidates take the same Listening and Speaking\ntests. There is a choice of Reading and Writing tests according to whether a candidate is\ntaking the Academic or General Training module.\nAcademic\nGeneral Training\nFor candidates wishing to study at\nFor candidates wishing to migrate to an\nundergraduate or postgraduate levels,\n| English-speaking country (Australia, Canada,\nand for those seeking professional\nNew Zealand, UK), and for those wishing to\nregistration.\ntrain or study at below degree level.\nThe test components are taken in the following order:\nListening\n4 sections, 40 items, approximately 30 minutes\nAcademic Reading\nGeneral Training Reading\n3 sections, 40 items\nor\n3 sections, 40 items\n60 minutes\n60 minutes\n|\nAcademic Writing\nGeneral Training Writing\n2 tasks\nor\n2 tasks\n60 minutes\n60 minutes\nSpeaking\n11 to 14 minutes\nTotal Test Time\n2 hours 44 minutes\n4\n",
+  "blocks": [
+    {
+      "box": [
+        19.440000534057617,
+        25.91998291015625,
+        22.312822341918945,
+        30.96506118774414
+      ],
+      "text": "‘\n"
+    },
+    {
+      "box": [
+        86.4000015258789,
+        93.5999755859375,
+        220.53607177734375,
+        113.05941772460938
+      ],
+      "text": "Introduction\n"
+    },
+    {
+      "box": [
+        84.23995971679688,
+        146.15997314453125,
+        534.5711669921875,
+        214.93113708496094
+      ],
+      "text": "The International English Language Testing System (IELTS) is widely recognised as\na reliable means of assessing the language ability of candidates who need to study\nor work where English is the language of communication. These Practice Tests are\ndesigned to give future IELTS candidates an idea of whether their English is at the\nrequired level.\n"
+    },
+    {
+      "box": [
+        83.87994384765625,
+        217.44000244140625,
+        553.939208984375,
+        272.1718444824219
+      ],
+      "text": "IELTS is owned by three partners: Cambridge English Language Assessment, part of\nthe University of Cambridge; the British Council; IDP Education Pty Limited (through its\nsubsidiary company, IELTS Australia Pty Limited). Further information on IELTS can be\nfound on the IELTS website www.ielts.org.\n"
+    },
+    {
+      "box": [
+        83.51994323730469,
+        300.9599914550781,
+        306.2303771972656,
+        312.13116455078125
+      ],
+      "text": "WHAT IS THE TEST FORMAT?\n"
+    },
+    {
+      "box": [
+        83.5198974609375,
+        331.20001220703125,
+        540.431884765625,
+        371.5311584472656
+      ],
+      "text": "IELTS consists of four components. All candidates take the same Listening and Speaking\ntests. There is a choice of Reading and Writing tests according to whether a candidate is\ntaking the Academic or General Training module.\n"
+    },
+    {
+      "box": [
+        91.43988037109375,
+        387.0,
+        537.696044921875,
+        457.9344177246094
+      ],
+      "text": "Academic\nGeneral Training\nFor candidates wishing to study at\nFor candidates wishing to migrate to an\nundergraduate or postgraduate levels,\n| English-speaking country (Australia, Canada,\nand for those seeking professional\nNew Zealand, UK), and for those wishing to\nregistration.\ntrain or study at below degree level.\n"
+    },
+    {
+      "box": [
+        83.51980590820312,
+        477.0,
+        356.0325927734375,
+        488.1711730957031
+      ],
+      "text": "The test components are taken in the following order:\n"
+    },
+    {
+      "box": [
+        200.87982177734375,
+        511.91998291015625,
+        442.3209533691406,
+        537.1311645507812
+      ],
+      "text": "Listening\n4 sections, 40 items, approximately 30 minutes\n"
+    },
+    {
+      "box": [
+        134.99981689453125,
+        550.0799560546875,
+        596.113037109375,
+        591.1322631835938
+      ],
+      "text": "Academic Reading\nGeneral Training Reading\n3 sections, 40 items\nor\n3 sections, 40 items\n60 minutes\n60 minutes\n|\n"
+    },
+    {
+      "box": [
+        138.23980712890625,
+        602.6400146484375,
+        522.9501342773438,
+        640.8089599609375
+      ],
+      "text": "Academic Writing\nGeneral Training Writing\n2 tasks\nor\n2 tasks\n60 minutes\n60 minutes\n"
+    },
+    {
+      "box": [
+        280.4397888183594,
+        655.9200439453125,
+        363.68988037109375,
+        679.3289794921875
+      ],
+      "text": "Speaking\n11 to 14 minutes\n"
+    },
+    {
+      "box": [
+        272.519775390625,
+        694.4400024414062,
+        370.5298767089844,
+        717.8489379882812
+      ],
+      "text": "Total Test Time\n2 hours 44 minutes\n"
+    },
+    {
+      "box": [
+        82.79978942871094,
+        758.1599731445312,
+        89.23658752441406,
+        766.8086547851562
+      ],
+      "text": "4\n"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 2,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": ".\n|\n| Icon | What does it mean?\nExtra explanations and sample answers in Resource bank\n;\nResources can be found at back of book\noO Answerkey\nAudioscript\nSample Writing answer\nYou can access the Listening test audio files, example Speaking test\nvideo, answer keys with extra explanations, additional sample Writing\nanswers by scanning the QR code.\nOe a1|\nslpeee\n",
+  "blocks": [
+    {
+      "box": [
+        173.83193087779625,
+        28.07223728461306,
+        176.69854052823092,
+        31.314581657515472
+      ],
+      "text": ".\n"
+    },
+    {
+      "box": [
+        575.1209638565599,
+        34.19054541074668,
+        575.466454256835,
+        38.51367124128323
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        66.58158843145405,
+        154.03740458736397,
+        262.5024111469827,
+        182.49798175136394
+      ],
+      "text": "| Icon | What does it mean?\n"
+    },
+    {
+      "box": [
+        120.20675965462516,
+        195.42595955826783,
+        412.01411408543925,
+        206.23376681241524
+      ],
+      "text": "Extra explanations and sample answers in Resource bank\n"
+    },
+    {
+      "box": [
+        564.6838499943319,
+        206.94277485451934,
+        565.4018350462431,
+        208.02355997325049
+      ],
+      "text": ";\n"
+    },
+    {
+      "box": [
+        68.02119034348549,
+        233.93531070510883,
+        323.16180909559256,
+        298.39817837821244
+      ],
+      "text": "Resources can be found at back of book\noO Answerkey\n"
+    },
+    {
+      "box": [
+        119.12705822060158,
+        311.6738139548065,
+        177.10530304764606,
+        322.1213546212476
+      ],
+      "text": "Audioscript\n"
+    },
+    {
+      "box": [
+        119.48695869860944,
+        350.5430655796554,
+        237.4587504434182,
+        360.99060624609643
+      ],
+      "text": "Sample Writing answer\n"
+    },
+    {
+      "box": [
+        77.37860277168984,
+        477.5879343164299,
+        432.59674275723836,
+        503.51189846783
+      ],
+      "text": "You can access the Listening test audio files, example Speaking test\nvideo, answer keys with extra explanations, additional sample Writing\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        507.45967399108224,
+        251.84033019722398,
+        518.2674666008417
+      ],
+      "text": "answers by scanning the QR code.\n"
+    },
+    {
+      "box": [
+        237.8942159631953,
+        536.9715131877267,
+        310.94680795992446,
+        562.9102388821701
+      ],
+      "text": "Oe a1|\n"
+    },
+    {
+      "box": [
+        237.17441500717956,
+        590.23678393289,
+        304.80688471719174,
+        609.6908574924985
+      ],
+      "text": "slpeee\n"
+    }
+  ]
+}

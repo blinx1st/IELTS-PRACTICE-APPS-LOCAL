@@ -1,0 +1,111 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 62,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 3\nQuestions 32-36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32-36 on your answer sheet, write\nYES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n32\nChildren need toys in order to play.\n33\nIt is a mistake to treat play and learning as separate types of activities.\n34\nPlay helps children to develop their artistic talents.\n35\nResearchers have agreed on a definition of play.\n36\nWork and play differ in terms of whether or not they have a target.\n70\n",
+  "blocks": [
+    {
+      "box": [
+        126.6944808959961,
+        91.42160034179688,
+        155.83421325683594,
+        100.06851196289062
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        125.61470031738281,
+        215.84860229492188,
+        135.7027587890625
+      ],
+      "text": "Questions 32-36\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        152.2493438720703,
+        546.3411865234375,
+        165.94024658203125
+      ],
+      "text": "Do the following statements agree with the claims of the writer in Reading Passage 3?\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        178.16412353515625,
+        338.18792724609375,
+        189.69334411621094
+      ],
+      "text": "In boxes 32-36 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        161.60745239257812,
+        204.07887268066406,
+        503.8481140136719,
+        242.24307250976562
+      ],
+      "text": "YES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n"
+    },
+    {
+      "box": [
+        124.17496490478516,
+        262.7471008300781,
+        317.3301086425781,
+        274.9968566894531
+      ],
+      "text": "32\nChildren need toys in order to play.\n"
+    },
+    {
+      "box": [
+        124.17498016357422,
+        282.90301513671875,
+        490.5021667480469,
+        295.8733825683594
+      ],
+      "text": "33\nIt is a mistake to treat play and learning as separate types of activities.\n"
+    },
+    {
+      "box": [
+        124.17499542236328,
+        302.69903564453125,
+        391.25555419921875,
+        314.5885314941406
+      ],
+      "text": "34\nPlay helps children to develop their artistic talents.\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        321.415283203125,
+        383.03485107421875,
+        337.2679138183594
+      ],
+      "text": "35\nResearchers have agreed on a definition of play.\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        343.01092529296875,
+        467.4702453613281,
+        358.1429748535156
+      ],
+      "text": "36\nWork and play differ in terms of whether or not they have a target.\n"
+    },
+    {
+      "box": [
+        120.57571411132812,
+        728.1333618164062,
+        131.668701171875,
+        736.4199829101562
+      ],
+      "text": "70\n"
+    }
+  ]
+}

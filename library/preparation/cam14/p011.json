@@ -1,0 +1,111 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 11,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Reading\nQuestions 9-13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 9-13 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN_\nif there is no information on this\n9\nChildren with good self-control are known to be likely to do well at school later on.\n10\nThe way a child plays may provide information about possible medical problems.\n11\nPlaying with dolls was found to benefit girls’ writing more than boys’ writing.\n12\nChildren had problems thinking up ideas when they first created the story\nwith Lego.\n13\nPeople nowadays regard children’s play as less significant than they did in the past.\n19\n",
+  "blocks": [
+    {
+      "box": [
+        499.2194519042969,
+        95.74073791503906,
+        540.1361694335938,
+        105.82880401611328
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        108.3381576538086,
+        130.29371643066406,
+        190.2433319091797,
+        140.38177490234375
+      ],
+      "text": "Questions 9-13\n"
+    },
+    {
+      "box": [
+        107.97823333740234,
+        156.20855712890625,
+        519.3032836914062,
+        167.7377166748047
+      ],
+      "text": "Do the following statements agree with the information given in Reading Passage 1?\n"
+    },
+    {
+      "box": [
+        107.61827087402344,
+        182.8431854248047,
+        313.9468078613281,
+        193.65185546875
+      ],
+      "text": "In boxes 9-13 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        144.33087158203125,
+        208.3979949951172,
+        426.2084045410156,
+        246.9239501953125
+      ],
+      "text": "TRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN_\nif there is no information on this\n"
+    },
+    {
+      "box": [
+        107.61825561523438,
+        267.066162109375,
+        528.227783203125,
+        278.235107421875
+      ],
+      "text": "9\nChildren with good self-control are known to be likely to do well at school later on.\n"
+    },
+    {
+      "box": [
+        107.97818756103516,
+        286.86224365234375,
+        523.9102172851562,
+        298.3913879394531
+      ],
+      "text": "10\nThe way a child plays may provide information about possible medical problems.\n"
+    },
+    {
+      "box": [
+        107.97818756103516,
+        307.0181884765625,
+        496.3399658203125,
+        318.1871337890625
+      ],
+      "text": "11\nPlaying with dolls was found to benefit girls’ writing more than boys’ writing.\n"
+    },
+    {
+      "box": [
+        107.97818756103516,
+        327.5340270996094,
+        487.881591796875,
+        351.29931640625
+      ],
+      "text": "12\nChildren had problems thinking up ideas when they first created the story\nwith Lego.\n"
+    },
+    {
+      "box": [
+        107.97818756103516,
+        360.2874450683594,
+        538.451416015625,
+        371.45635986328125
+      ],
+      "text": "13\nPeople nowadays regard children’s play as less significant than they did in the past.\n"
+    },
+    {
+      "box": [
+        528.3734741210938,
+        732.4524536132812,
+        539.1425170898438,
+        740.3787841796875
+      ],
+      "text": "19\n"
+    }
+  ]
+}

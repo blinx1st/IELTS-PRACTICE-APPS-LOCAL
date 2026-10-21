@@ -3,7 +3,7 @@
   "book": 18,
   "test": 4,
   "title": "Cambridge 18 · Test 4",
-  "version": "2026-10-21.5.layout1",
+  "version": "2026-10-21.5.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots in this book were compared with the supplied PDFs. Source-image task layouts and native options, numbering and word limits were checked separately.",
@@ -159,7 +159,46 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Advantages of green roofs"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "City rooftops covered with greenery have many advantages. These include lessening the likelihood that floods will occur, reducing how much money is spent on ",
+                  {
+                    "number": 6
+                  },
+                  " and creating environments that are suitable for wildlife. In many cases, they can also be used for producing ",
+                  {
+                    "number": 7
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "There are also social benefits of green roofs. For example, the medical profession recommends ",
+                  {
+                    "number": 8
+                  },
+                  " as an activity to help people cope with mental health issues. Studies have also shown that the availability of green spaces can prevent physical problems such as ",
+                  {
+                    "number": 9
+                  },
+                  "."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam18-t4-p1-g3",
@@ -698,7 +737,48 @@
               "label": "narrow investigation"
             }
           ],
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Wegener’s life and work"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "One of the remarkable things about Wegener from a ",
+                  {
+                    "number": 31
+                  },
+                  " is that although he proposed a theory of continental drift, he was not a geologist. His ",
+                  {
+                    "number": 32
+                  },
+                  " were limited to atmospheric physics. However, at the time he proposed his theory of continental drift in 1912, he was already a person of ",
+                  {
+                    "number": 33
+                  },
+                  ". Six years previously, there had been his ",
+                  {
+                    "number": 34
+                  },
+                  " of 52 hours in a hot-air balloon, followed by his well-publicised but ",
+                  {
+                    "number": 35
+                  },
+                  " of Greenland’s coast. With the publication of his textbook on thermodynamics, he had also come to the attention of a ",
+                  {
+                    "number": 36
+                  },
+                  " of German scientists."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam18-t4-p3-g3",

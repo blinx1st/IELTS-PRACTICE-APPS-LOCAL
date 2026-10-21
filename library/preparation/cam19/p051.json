@@ -1,0 +1,174 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 51,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 2\nWRITING\nWRITING TASK\n1\nYou should spend about 20 minutes on this task.\nThe plans below show a harbour in 2000 and how it looks today.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\nPorth Harbour (in 2000)\nw\nE\nes\ns\nA\na\n-:“\nis\npark\n~~\n=\n“Passengers\n~~\n3\n.\n__\nfemes\nis\nFishing\n- ~\n~\na\npark\n_\nPorth Harbour (today)\nN\nPubl\n—“~\nes\npark\nms\n~\nPassenger\nSe\n2|\na\n—\nferies\n—\n& tovets\n=\n=\nMarina\n_=\n=\nas\nae\n(prvate\n52\n>|® p. 130\n",
+  "blocks": [
+    {
+      "box": [
+        44.2700309753418,
+        36.71174240112305,
+        73.40550231933594,
+        44.63792419433594
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        226.3890380859375,
+        71.26400756835938,
+        289.2739562988281,
+        80.6312484741211
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        42.470436096191406,
+        111.93482208251953,
+        163.72711181640625,
+        122.02259063720703
+      ],
+      "text": "WRITING TASK\n1\n"
+    },
+    {
+      "box": [
+        42.83033752441406,
+        139.28866577148438,
+        277.8214416503906,
+        149.73675537109375
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        55.78742980957031,
+        173.1210479736328,
+        388.2445983886719,
+        184.2897186279297
+      ],
+      "text": "The plans below show a harbour in 2000 and how it looks today.\n"
+    },
+    {
+      "box": [
+        54.70768737792969,
+        198.6752471923828,
+        457.05035400390625,
+        222.080078125
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        42.470436096191406,
+        245.46475219726562,
+        162.55018615722656,
+        253.7511749267578
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        214.15179443359375,
+        267.4198303222656,
+        302.18804931640625,
+        274.9856872558594
+      ],
+      "text": "Porth Harbour (in 2000)\n"
+    },
+    {
+      "box": [
+        145.04734802246094,
+        294.41375732421875,
+        346.93304443359375,
+        302.3351745605469
+      ],
+      "text": "w\nE\nes\n"
+    },
+    {
+      "box": [
+        160.1639404296875,
+        304.491455078125,
+        377.0709228515625,
+        330.79180908203125
+      ],
+      "text": "s\nA\na\n-:“\n"
+    },
+    {
+      "box": [
+        133.17001342773438,
+        344.8023986816406,
+        365.605712890625,
+        364.24560546875
+      ],
+      "text": "is\npark\n~~\n=\n“Passengers\n~~\n3\n.\n__\nfemes\n"
+    },
+    {
+      "box": [
+        133.88986206054688,
+        375.3955078125,
+        376.817138671875,
+        395.2108459472656
+      ],
+      "text": "is\nFishing\n- ~\n~\na\n"
+    },
+    {
+      "box": [
+        165.56272888183594,
+        399.8699645996094,
+        203.6853485107422,
+        405.63446044921875
+      ],
+      "text": "park\n_\n"
+    },
+    {
+      "box": [
+        216.6712188720703,
+        473.29345703125,
+        298.4789733886719,
+        480.8593444824219
+      ],
+      "text": "Porth Harbour (today)\n"
+    },
+    {
+      "box": [
+        159.0841827392578,
+        486.6104431152344,
+        334.9981689453125,
+        493.095458984375
+      ],
+      "text": "N\nPubl\n—“~\n"
+    },
+    {
+      "box": [
+        132.45018005371094,
+        551.7557983398438,
+        364.88946533203125,
+        572.6422729492188
+      ],
+      "text": "es\npark\nms\n~\nPassenger\nSe\n2|\na\n—\nferies\n"
+    },
+    {
+      "box": [
+        133.17001342773438,
+        580.9092407226562,
+        376.8351745605469,
+        597.4705810546875
+      ],
+      "text": "—\n& tovets\n=\n=\nMarina\n_=\n=\nas\nae\n(prvate\n"
+    },
+    {
+      "box": [
+        41.390689849853516,
+        672.6885986328125,
+        137.09133911132812,
+        683.8572387695312
+      ],
+      "text": "52\n>|® p. 130\n"
+    }
+  ]
+}

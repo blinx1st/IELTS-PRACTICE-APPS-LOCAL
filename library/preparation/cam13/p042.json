@@ -1,0 +1,48 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 42,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "FB.com/LouisQuang Vo\nReading\nAnother discovery is that oxytocin’s effects vary depending on who we are\ninteracting with. Studies conducted by Carolyn DeClerck of the University of\nAntwerp, Belgium, revealed that people who had received a dose of oxytocin\nactually became less cooperative when dealing with complete strangers.\nMeanwhile, Carsten De Dreu at the University ofAmsterdam in the Netherlands\ndiscovered that volunteers given oxytocin showed favouritism: Dutch men became\nquicker to associate positive words with Dutch names than with foreign ones,\nfor example. According to De Dreu, oxytocin drives people to care for those in\ntheir social circles and defend them from outside dangers. So, it appears that\noxytocin strengthens biases, rather than promoting general goodwill, as was\npreviously thought.\n=\nThere were signs of these subtleties from the start. Bartz has recently shown that\nin almost half of the existing research results, oxytocin influenced only certain\nindividuals or in certain circumstances. Where once researchers took no notice\nof such findings, now a more nuanced understanding of oxytocin’s effects is\npropelling investigations down new lines. To Bartz, the key to understanding what\nthe hormone does lies in pinpointing its core function rather than in cataloguing its\nseemingly endless effects. There are several hypotheses which are not mutually\nexclusive. Oxytocin could help to reduce anxiety and fear. Or it could simply\nmotivate people to seek out social connections. She believes that oxytocin acts as\na chemical spotlight that shines on social clues — a shift in posture, a flicker of the\neyes, a dip in the voice — making people more attuned to their social environment.\nThis would explain why it makes us more likely to look others in the eye and\nimproves our ability to identify emotions. But it could also make things worse for\npeople who are overly sensitive or prone to interpreting social cues in the\nworst light.\n=\nPerhaps we should not be surprised that the oxytocin story has become more\nperplexing. The hormone is found in everything from octopuses to sheep, and its\nevolutionary roots stretch back half a billion years. ‘It's a very simple and ancient\nmolecule that has been co-opted for many different functions,’ says Sue Carter at\nthe University of Illinois, Chicago, USA. ‘It affects primitive parts of the brain like\nthe amygdala, so it’s going to have many effects on just about everything.’ Bartz\nagrees. ‘Oxytocin probably does some very basic things, but once you add our\nhigher-order thinking and social situations, these basic processes could manifest\nin different ways depending on individual differences and context.’\n",
+  "blocks": [
+    {
+      "box": [
+        345.6000061035156,
+        68.760009765625,
+        545.0004272460938,
+        89.66089630126953
+      ],
+      "text": "FB.com/LouisQuang Vo\nReading\n"
+    },
+    {
+      "box": [
+        77.75997924804688,
+        100.79998779296875,
+        533.8800048828125,
+        262.0929870605469
+      ],
+      "text": "Another discovery is that oxytocin’s effects vary depending on who we are\ninteracting with. Studies conducted by Carolyn DeClerck of the University of\nAntwerp, Belgium, revealed that people who had received a dose of oxytocin\nactually became less cooperative when dealing with complete strangers.\nMeanwhile, Carsten De Dreu at the University ofAmsterdam in the Netherlands\ndiscovered that volunteers given oxytocin showed favouritism: Dutch men became\nquicker to associate positive words with Dutch names than with foreign ones,\nfor example. According to De Dreu, oxytocin drives people to care for those in\ntheir social circles and defend them from outside dangers. So, it appears that\noxytocin strengthens biases, rather than promoting general goodwill, as was\npreviously thought.\n"
+    },
+    {
+      "box": [
+        48.959983825683594,
+        276.47998046875,
+        528.6527709960938,
+        496.8122253417969
+      ],
+      "text": "=\nThere were signs of these subtleties from the start. Bartz has recently shown that\nin almost half of the existing research results, oxytocin influenced only certain\nindividuals or in certain circumstances. Where once researchers took no notice\nof such findings, now a more nuanced understanding of oxytocin’s effects is\npropelling investigations down new lines. To Bartz, the key to understanding what\nthe hormone does lies in pinpointing its core function rather than in cataloguing its\nseemingly endless effects. There are several hypotheses which are not mutually\nexclusive. Oxytocin could help to reduce anxiety and fear. Or it could simply\nmotivate people to seek out social connections. She believes that oxytocin acts as\na chemical spotlight that shines on social clues — a shift in posture, a flicker of the\neyes, a dip in the voice — making people more attuned to their social environment.\nThis would explain why it makes us more likely to look others in the eye and\nimproves our ability to identify emotions. But it could also make things worse for\npeople who are overly sensitive or prone to interpreting social cues in the\nworst light.\n"
+    },
+    {
+      "box": [
+        44.999908447265625,
+        512.6400146484375,
+        520.0415649414062,
+        651.2601318359375
+      ],
+      "text": "=\nPerhaps we should not be surprised that the oxytocin story has become more\nperplexing. The hormone is found in everything from octopuses to sheep, and its\nevolutionary roots stretch back half a billion years. ‘It's a very simple and ancient\nmolecule that has been co-opted for many different functions,’ says Sue Carter at\nthe University of Illinois, Chicago, USA. ‘It affects primitive parts of the brain like\nthe amygdala, so it’s going to have many effects on just about everything.’ Bartz\nagrees. ‘Oxytocin probably does some very basic things, but once you add our\nhigher-order thinking and social situations, these basic processes could manifest\nin different ways depending on individual differences and context.’\n"
+    }
+  ]
+}

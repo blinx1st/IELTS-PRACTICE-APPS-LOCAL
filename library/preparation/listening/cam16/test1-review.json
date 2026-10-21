@@ -1,0 +1,98 @@
+{
+  "id": "cam16-listening-test1",
+  "questions": 40,
+  "parts": 4,
+  "groups": 7,
+  "sourcePages": [
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+      "page": 11
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+      "page": 12
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+      "page": 13
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+      "page": 14
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+      "page": 15
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-16/BAN_GOC/Cambridge ielts 16 - IELTS Fighter.pdf",
+      "page": 16
+    }
+  ],
+  "audio": [
+    {
+      "url": "/library-audio/0ab5c21d09421649106c432304c5c3b471064a373348d9a6705e95488e6f989d.mp3",
+      "sha256": "0ab5c21d09421649106c432304c5c3b471064a373348d9a6705e95488e6f989d",
+      "duration": 422.04,
+      "start": 52.28,
+      "end": 422.04,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam16/t1-p1-audio-asr.json",
+        "note": "Paper answer-transfer instruction excluded from Part4; original reading/checking pauses retained."
+      }
+    },
+    {
+      "url": "/library-audio/b0d054228360331ae0d3b03e5a61d1f52e72071bfab1194099dde9e73d9ffaef.mp3",
+      "sha256": "b0d054228360331ae0d3b03e5a61d1f52e72071bfab1194099dde9e73d9ffaef",
+      "duration": 416.9,
+      "start": 0,
+      "end": 416.9,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam16/t1-p2-audio-asr.json",
+        "note": "Paper answer-transfer instruction excluded from Part4; original reading/checking pauses retained."
+      }
+    },
+    {
+      "url": "/library-audio/8b19aaa56d6f41e566014d2f408c5f36b4872a41e3d5cb5158f934dc5c01b796.mp3",
+      "sha256": "8b19aaa56d6f41e566014d2f408c5f36b4872a41e3d5cb5158f934dc5c01b796",
+      "duration": 401.4,
+      "start": 0,
+      "end": 401.4,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam16/t1-p3-audio-asr.json",
+        "note": "Paper answer-transfer instruction excluded from Part4; original reading/checking pauses retained."
+      }
+    },
+    {
+      "url": "/library-audio/150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98.mp3",
+      "sha256": "150eaccfae4bb9946cb1e53c2c70b785d5dfd140ea16ef1c275ec5fece660a98",
+      "duration": 505.045,
+      "start": 0,
+      "end": 494.52,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-16/Cambridge IELTS 16 Audio/Test 1 Part 4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam16/t1-p4-audio-asr.json",
+        "note": "Paper answer-transfer instruction excluded from Part4; original reading/checking pauses retained."
+      }
+    }
+  ],
+  "keyPage": 122,
+  "transcriptCharacters": {
+    "1": 3484,
+    "2": 3820,
+    "3": 3960,
+    "4": 4256
+  },
+  "limitExceptions": {}
+}

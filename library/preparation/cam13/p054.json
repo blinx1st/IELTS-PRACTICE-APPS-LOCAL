@@ -1,0 +1,192 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 54,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Listening\nSECTION 2\nQuestions 11-20\nQuestions 11-16\nWhat advantage does the speaker mention for each of the following physical activities?\nChoose SIX answers from the box and write the correct letter, A-G, next to\nQuestions 11-16.\nAdvantages\nA\nnot dependent on season\nB_\nenjoyable\nC\nlow risk of injury\n|\nD\nfitness level unimportant\nE\nsociable\nF\nfast results\nG\nmotivating\nPhysical activities\n11\nusing\na gym\nsaceresicsaes\n12.\nrunning\neat\nit\n13.\nswimming\nasec eusasic\n14\ncycling\nPitan\nerrr\n15\ndoing yoga\neis.\n16\ntraining with a personal trainer.\n;\n55\n",
+  "blocks": [
+    {
+      "box": [
+        491.760009765625,
+        62.280029296875,
+        540.473388671875,
+        73.45116424560547
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        59.760009765625,
+        99.0,
+        295.7040710449219,
+        111.97298431396484
+      ],
+      "text": "SECTION 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        60.47999572753906,
+        128.8800048828125,
+        160.19097900390625,
+        139.3304443359375
+      ],
+      "text": "Questions 11-16\n"
+    },
+    {
+      "box": [
+        59.75999450683594,
+        158.4000244140625,
+        530.9027709960938,
+        170.65225219726562
+      ],
+      "text": "What advantage does the speaker mention for each of the following physical activities?\n"
+    },
+    {
+      "box": [
+        60.839996337890625,
+        186.84002685546875,
+        465.7427673339844,
+        211.33009338378906
+      ],
+      "text": "Choose SIX answers from the box and write the correct letter, A-G, next to\nQuestions 11-16.\n"
+    },
+    {
+      "box": [
+        266.3999938964844,
+        242.280029296875,
+        334.4758605957031,
+        253.45115661621094
+      ],
+      "text": "Advantages\n"
+    },
+    {
+      "box": [
+        205.55999755859375,
+        263.8800048828125,
+        369.23046875,
+        275.4115295410156
+      ],
+      "text": "A\nnot dependent on season\n"
+    },
+    {
+      "box": [
+        206.27999877929688,
+        286.20001220703125,
+        283.88153076171875,
+        298.09185791015625
+      ],
+      "text": "B_\nenjoyable\n"
+    },
+    {
+      "box": [
+        206.27999877929688,
+        308.5199890136719,
+        318.52801513671875,
+        320.051513671875
+      ],
+      "text": "C\nlow risk of injury\n"
+    },
+    {
+      "box": [
+        192.9600067138672,
+        330.8399963378906,
+        363.9205017089844,
+        362.16937255859375
+      ],
+      "text": "|\nD\nfitness level unimportant\nE\nsociable\n"
+    },
+    {
+      "box": [
+        207.0,
+        375.1199951171875,
+        291.330078125,
+        384.1289978027344
+      ],
+      "text": "F\nfast results\n"
+    },
+    {
+      "box": [
+        207.0,
+        397.0799865722656,
+        287.7659912109375,
+        408.25115966796875
+      ],
+      "text": "G\nmotivating\n"
+    },
+    {
+      "box": [
+        88.55999755859375,
+        448.55999755859375,
+        193.51800537109375,
+        460.4518737792969
+      ],
+      "text": "Physical activities\n"
+    },
+    {
+      "box": [
+        62.63999938964844,
+        477.3599853515625,
+        309.0530090332031,
+        488.8915100097656
+      ],
+      "text": "11\nusing\na gym\nsaceresicsaes\n"
+    },
+    {
+      "box": [
+        63.0,
+        499.32000732421875,
+        307.36798095703125,
+        510.85150146484375
+      ],
+      "text": "12.\nrunning\neat\nit\n"
+    },
+    {
+      "box": [
+        63.36000061035156,
+        521.6400146484375,
+        309.36767578125,
+        532.8111572265625
+      ],
+      "text": "13.\nswimming\nasec eusasic\n"
+    },
+    {
+      "box": [
+        63.720001220703125,
+        543.5999755859375,
+        309.5711975097656,
+        555.1315307617188
+      ],
+      "text": "14\ncycling\nPitan\nerrr\n"
+    },
+    {
+      "box": [
+        64.08000183105469,
+        565.5599975585938,
+        307.2528381347656,
+        577.091552734375
+      ],
+      "text": "15\ndoing yoga\neis.\n"
+    },
+    {
+      "box": [
+        64.08000183105469,
+        585.719970703125,
+        307.43280029296875,
+        598.6929321289062
+      ],
+      "text": "16\ntraining with a personal trainer.\n;\n"
+    },
+    {
+      "box": [
+        526.3200073242188,
+        760.679931640625,
+        538.1604614257812,
+        768.96826171875
+      ],
+      "text": "55\n"
+    }
+  ]
+}

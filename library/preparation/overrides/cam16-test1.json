@@ -4,7 +4,7 @@
   "book": 16,
   "test": 1,
   "title": "Cambridge 16 · Test 1",
-  "version": "2026-10-21.1",
+  "version": "2026-10-21.1.inline2.layout1",
   "verification": {
     "status": "verified",
     "note": "All 3 passages and 40 questions, options, instructions and word limits compared with rendered supplied PDF pages. OCR word joins, paragraph boundaries, source accents and unreadable completion blanks corrected. Private key separately read against printed source key.",
@@ -400,7 +400,56 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The Step Pyramid of Djoser\nThe complex that includes the Step Pyramid and its surroundings is considered to be as big as an Egyptian ",
+                  {
+                    "number": 21
+                  },
+                  " of the past. The area outside the pyramid included accommodation that was occupied by ",
+                  {
+                    "number": 22
+                  },
+                  " , along with many other buildings and features.\nA wall ran around the outside of the complex and a number of false entrances were built into this. In addition, a long ",
+                  {
+                    "number": 23
+                  },
+                  " encircled the wall. As a result, any visitors who had not been invited were cleverly prevented from entering the pyramid grounds unless they knew the ",
+                  {
+                    "number": 24
+                  },
+                  " of the real entrance."
+                ],
+                "anchors": [
+                  "cam16-t1-p2-g2-body-0",
+                  "",
+                  "cam16-t1-p2-g2-body-146",
+                  "",
+                  "cam16-t1-p2-g2-body-246",
+                  "",
+                  "cam16-t1-p2-g2-body-427",
+                  "",
+                  "cam16-t1-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam16-t1-p2-g3",
@@ -703,7 +752,56 @@
               "value": "G",
               "label": "information"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The ‘algorithmication’ of jobs\nStella Pachidi of Cambridge Judge Business School has been focusing on the ‘algorithmication’ of jobs which rely not on production but on ",
+                  {
+                    "number": 31
+                  },
+                  " .\nWhile monitoring a telecommunications company, Pachidi observed a growing ",
+                  {
+                    "number": 32
+                  },
+                  " on the recommendations made by AI, as workers begin to learn through the ‘algorithm’s eyes’. Meanwhile, staff are deterred from experimenting and using their own ",
+                  {
+                    "number": 33
+                  },
+                  " , and are therefore prevented from achieving innovation.\nTo avoid the kind of situations which Pachidi observed, researchers are trying to make AI’s decision-making process easier to comprehend, and to increase users’ ",
+                  {
+                    "number": 34
+                  },
+                  " with regard to the technology."
+                ],
+                "anchors": [
+                  "cam16-t1-p3-g2-body",
+                  "",
+                  "cam16-t1-p3-g2-body",
+                  "",
+                  "cam16-t1-p3-g2-body",
+                  "",
+                  "cam16-t1-p3-g2-body",
+                  "",
+                  "cam16-t1-p3-g2-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  182,
+                  0,
+                  272,
+                  0,
+                  448,
+                  0,
+                  680
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam16-t1-p3-g3",

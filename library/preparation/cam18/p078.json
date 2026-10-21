@@ -1,0 +1,93 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 78,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Test 3\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nIn many countries around the world, rural people are moving to cities, so the\npopulation in the countryside is decreasing.\nDo you think this is a positive or a negative development?\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n76\n>|® p. 133\n",
+  "blocks": [
+    {
+      "box": [
+        50.743099212646484,
+        29.510143280029297,
+        80.24788665771484,
+        37.795692443847656
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        49.66345977783203,
+        63.33892822265625,
+        172.3610076904297,
+        73.42566680908203
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        50.023338317871094,
+        89.97002410888672,
+        285.7447509765625,
+        101.13743591308594
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        50.023345947265625,
+        116.24127197265625,
+        198.50987243652344,
+        126.688232421875
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        61.53950119018555,
+        149.35020446777344,
+        463.4104919433594,
+        174.1931610107422
+      ],
+      "text": "In many countries around the world, rural people are moving to cities, so the\npopulation in the countryside is decreasing.\n"
+    },
+    {
+      "box": [
+        62.25926208496094,
+        188.2173309326172,
+        366.1565246582031,
+        199.74501037597656
+      ],
+      "text": "Do you think this is a positive or a negative development?\n"
+    },
+    {
+      "box": [
+        50.74309539794922,
+        221.6861572265625,
+        439.751953125,
+        246.16845703125
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        50.383235931396484,
+        261.2729797363281,
+        170.4500274658203,
+        269.5585021972656
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        51.822750091552734,
+        665.4183959960938,
+        147.03265380859375,
+        676.9461059570312
+      ],
+      "text": "76\n>|® p. 133\n"
+    }
+  ]
+}

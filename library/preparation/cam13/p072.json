@@ -1,0 +1,165 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 72,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Writing\nWRITING TASK 1\nYou should spend about 20 minutes on this task.\nconsumption of electricity in 2014.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\nRank Country\nElectricity\n1 China\nrae\n2 United States\nmio\n3 Russia\noes\n5 India\noe\n6 Canada\nped\n7 France\nole\n8 Brazil\npct\n9 Germany\naoe\n10 Korea, Rep.\n:\n73\n",
+  "blocks": [
+    {
+      "box": [
+        493.20001220703125,
+        53.280029296875,
+        530.2059326171875,
+        65.1718521118164
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        46.08001708984375,
+        135.3599853515625,
+        181.41122436523438,
+        146.8915252685547
+      ],
+      "text": "WRITING TASK 1\n"
+    },
+    {
+      "box": [
+        46.08001708984375,
+        165.96002197265625,
+        309.1139831542969,
+        177.85191345214844
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        59.0400390625,
+        218.8800048828125,
+        259.4700012207031,
+        231.13223266601562
+      ],
+      "text": "consumption of electricity in 2014.\n"
+    },
+    {
+      "box": [
+        58.320037841796875,
+        246.96002197265625,
+        511.09747314453125,
+        273.2522277832031
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        44.64002990722656,
+        298.79998779296875,
+        178.35845947265625,
+        308.89007568359375
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        106.20002746582031,
+        333.7200012207031,
+        368.9280700683594,
+        347.0533142089844
+      ],
+      "text": "Rank Country\nElectricity\n"
+    },
+    {
+      "box": [
+        130.68002319335938,
+        358.9200134277344,
+        464.3639831542969,
+        378.3794250488281
+      ],
+      "text": "1 China\nrae\n"
+    },
+    {
+      "box": [
+        129.96005249023438,
+        390.239990234375,
+        412.26849365234375,
+        412.5823059082031
+      ],
+      "text": "2 United States\nmio\n"
+    },
+    {
+      "box": [
+        129.60003662109375,
+        423.7200012207031,
+        286.54205322265625,
+        443.539794921875
+      ],
+      "text": "3 Russia\noes\n"
+    },
+    {
+      "box": [
+        129.2400360107422,
+        489.6000061035156,
+        282.4812316894531,
+        508.6990661621094
+      ],
+      "text": "5 India\noe\n"
+    },
+    {
+      "box": [
+        128.52003479003906,
+        522.3599853515625,
+        268.74725341796875,
+        541.8194580078125
+      ],
+      "text": "6 Canada\nped\n"
+    },
+    {
+      "box": [
+        128.52003479003906,
+        555.47998046875,
+        266.6556396484375,
+        574.939453125
+      ],
+      "text": "7 France\nole\n"
+    },
+    {
+      "box": [
+        128.1600341796875,
+        588.5999755859375,
+        266.3766174316406,
+        607.6990966796875
+      ],
+      "text": "8 Brazil\npct\n"
+    },
+    {
+      "box": [
+        127.80003356933594,
+        621.3599853515625,
+        265.8042297363281,
+        640.4591064453125
+      ],
+      "text": "9 Germany\naoe\n"
+    },
+    {
+      "box": [
+        122.04003143310547,
+        654.47998046875,
+        262.056640625,
+        673.5791015625
+      ],
+      "text": "10 Korea, Rep.\n:\n"
+    },
+    {
+      "box": [
+        510.48004150390625,
+        766.0800170898438,
+        523.3967895507812,
+        775.4493408203125
+      ],
+      "text": "73\n"
+    }
+  ]
+}

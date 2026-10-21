@@ -1,0 +1,147 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 28,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Writing\nWRITING\nWRITING TASK\n1\nWow should spend about 20 minutes on this task.\n__\nThe two maps below show road access to a city hospital in 2007 and in 2010.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n“Sete atleast 150 words.\nF&com/LouisQuangVo\nCity Hospital\nRing Road\nm\n2007\n&\nWw\nE\nCITY\nHOSPITAL\ns\n@\nBus stop\nae © =\nCar park: staff\n?\nand public\n| 3|©\no\n[o}\n@|I|o\nCity Road\nCity Hospital\nRing Road\n2010\nCITY\nPublic\nHOSPITAL\ncar\npark\nwel\nBus\nar\nStaff\nstation\n4\noat\nroundabout\nfo}\nBE\nC)\nCity Road\n29\n",
+  "blocks": [
+    {
+      "box": [
+        500.0400085449219,
+        31.32000732421875,
+        537.0462646484375,
+        43.211891174316406
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        259.20001220703125,
+        71.6400146484375,
+        329.8983459472656,
+        82.81114959716797
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        51.839996337890625,
+        122.03997802734375,
+        188.93702697753906,
+        134.65261840820312
+      ],
+      "text": "WRITING TASK\n1\n"
+    },
+    {
+      "box": [
+        52.91999816894531,
+        151.91998291015625,
+        317.65496826171875,
+        165.25331115722656
+      ],
+      "text": "Wow should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        45.720001220703125,
+        191.15997314453125,
+        518.0220947265625,
+        206.29515075683594
+      ],
+      "text": "__\nThe two maps below show road access to a city hospital in 2007 and in 2010.\n"
+    },
+    {
+      "box": [
+        67.32000732421875,
+        219.5999755859375,
+        521.0640869140625,
+        249.8533477783203
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        53.6400146484375,
+        275.03997802734375,
+        292.680419921875,
+        285.4904479980469
+      ],
+      "text": "“Sete atleast 150 words.\nF&com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        117.36001586914062,
+        311.3999938964844,
+        449.6220397949219,
+        373.3358459472656
+      ],
+      "text": "City Hospital\nRing Road\nm\n2007\n&\nWw\nE\nCITY\nHOSPITAL\ns\n"
+    },
+    {
+      "box": [
+        427.3200378417969,
+        381.6000061035156,
+        488.505615234375,
+        390.9693603515625
+      ],
+      "text": "@\nBus stop\n"
+    },
+    {
+      "box": [
+        245.88003540039062,
+        422.2799987792969,
+        392.8320007324219,
+        476.6482849121094
+      ],
+      "text": "ae © =\nCar park: staff\n?\nand public\n| 3|©\no\n[o}\n@|I|o\n"
+    },
+    {
+      "box": [
+        304.9200439453125,
+        483.8399963378906,
+        348.4224548339844,
+        493.9300842285156
+      ],
+      "text": "City Road\n"
+    },
+    {
+      "box": [
+        119.52001953125,
+        535.6799926757812,
+        291.8304138183594,
+        558.0086669921875
+      ],
+      "text": "City Hospital\nRing Road\n2010\n"
+    },
+    {
+      "box": [
+        245.1600341796875,
+        566.280029296875,
+        380.5487976074219,
+        601.209716796875
+      ],
+      "text": "CITY\nPublic\nHOSPITAL\ncar\npark\n"
+    },
+    {
+      "box": [
+        198.00003051757812,
+        642.6000366210938,
+        502.0918884277344,
+        720.7462768554688
+      ],
+      "text": "wel\nBus\nar\nStaff\nstation\n4\noat\nroundabout\nfo}\nBE\nC)\nCity Road\n"
+    },
+    {
+      "box": [
+        528.1199951171875,
+        745.9199829101562,
+        541.43994140625,
+        754.928955078125
+      ],
+      "text": "29\n"
+    }
+  ]
+}

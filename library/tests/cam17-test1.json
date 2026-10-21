@@ -3,7 +3,7 @@
   "book": 17,
   "test": 1,
   "title": "Cambridge 17 · Test 1",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Reading passages and all question blocks compared visually with the supplied scan; paragraph labels, spacing, column order, answer choices and completion text corrected. Original Rocha table retained as a local illustration with native answer fields.",
@@ -88,7 +88,72 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The London underground railway\n\nThe problem\n• The ",
+                  {
+                    "number": 1
+                  },
+                  " of London increased rapidly between 1800 and 1850\n• The streets were full of horse-drawn vehicles\n\nThe proposed solution\n• Charles Pearson, a solicitor, suggested building an underground railway\n• Building the railway would make it possible to move people to better housing in the ",
+                  {
+                    "number": 2
+                  },
+                  "\n• A number of ",
+                  {
+                    "number": 3
+                  },
+                  " agreed with Pearson's idea\n• The company initially had problems getting the ",
+                  {
+                    "number": 4
+                  },
+                  " needed for the project\n• Negative articles about the project appeared in the ",
+                  {
+                    "number": 5
+                  },
+                  "\n\nThe construction\n• The chosen route did not require many buildings to be pulled down\n• The 'cut and cover' method was used to construct the tunnels\n• With the completion of the brick arch, the tunnel was covered with ",
+                  {
+                    "number": 6
+                  },
+                  ""
+                ],
+                "anchors": [
+                  "cam17-t1-p1-g1-body-0",
+                  "",
+                  "cam17-t1-p1-g1-body-62",
+                  "",
+                  "cam17-t1-p1-g1-body-356",
+                  "",
+                  "cam17-t1-p1-g1-body-383",
+                  "",
+                  "cam17-t1-p1-g1-body-472",
+                  "",
+                  "cam17-t1-p1-g1-body-562",
+                  "",
+                  "cam17-t1-p1-g1-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam17-t1-p1-g2",
@@ -356,7 +421,64 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Roman amphitheatres\n\nThe Roman stadiums of Europe have proved very versatile. The amphitheatre of Arles, for example, was converted first into a ",
+                  {
+                    "number": 18
+                  },
+                  ", then into a residential area and finally into an arena where spectators could watch ",
+                  {
+                    "number": 19
+                  },
+                  ". Meanwhile, the arena in Verona, one of the oldest Roman amphitheatres, is famous today as a venue where ",
+                  {
+                    "number": 20
+                  },
+                  " is performed. The site of Lucca's amphitheatre has also been used for many purposes over the centuries, including the storage of ",
+                  {
+                    "number": 21
+                  },
+                  ". It is now a market square with ",
+                  {
+                    "number": 22
+                  },
+                  " and homes incorporated into the remains of the Roman amphitheatre."
+                ],
+                "anchors": [
+                  "cam17-t1-p2-g2-body-0",
+                  "",
+                  "cam17-t1-p2-g2-body-158",
+                  "",
+                  "cam17-t1-p2-g2-body-257",
+                  "",
+                  "cam17-t1-p2-g2-body-376",
+                  "",
+                  "cam17-t1-p2-g2-body-519",
+                  "",
+                  "cam17-t1-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam17-t1-p2-g3",
@@ -601,7 +723,64 @@
               "value": "J",
               "label": "religious conviction"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The story behind the hunt for Charles II\n\nCharles II's father was executed by the Parliamentarian forces in 1649. Charles II then formed a ",
+                  {
+                    "number": 27
+                  },
+                  " with the Scots, and in order to become King of Scots, he abandoned an important ",
+                  {
+                    "number": 28
+                  },
+                  " that was held by his father and had contributed to his father's death. The opposing sides then met outside Worcester in 1651. The battle led to a ",
+                  {
+                    "number": 29
+                  },
+                  " for the Parliamentarians and Charles had to flee for his life. A ",
+                  {
+                    "number": 30
+                  },
+                  " was offered for Charles's capture, but after six weeks spent in hiding, he eventually managed to reach the ",
+                  {
+                    "number": 31
+                  },
+                  " of continental Europe."
+                ],
+                "anchors": [
+                  "cam17-t1-p3-g1-body",
+                  "",
+                  "cam17-t1-p3-g1-body",
+                  "",
+                  "cam17-t1-p3-g1-body",
+                  "",
+                  "cam17-t1-p3-g1-body",
+                  "",
+                  "cam17-t1-p3-g1-body",
+                  "",
+                  "cam17-t1-p3-g1-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  152,
+                  0,
+                  246,
+                  0,
+                  406,
+                  0,
+                  485,
+                  0,
+                  606
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam17-t1-p3-g2",

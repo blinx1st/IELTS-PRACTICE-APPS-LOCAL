@@ -1,0 +1,183 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 50,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Writing\nWRITING\nWRITING TASK 1\nYou should spend about 20 minutes on this task.\nThe chart below shows the percentage of households in owned and rented\naccommodation in England and Wales between 1918 and 2011.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\nWrite at least 150 words.\nHouseholds owning and renting accommodation\nin England and Wales 1918 to 2011\n90\n-\n80\nceisosiall\n70\n—_—\n60\n=\n|}\nna\n3\n°\n<\n¥\n§\n50\ni\nre}\nst\n:\n=\n40\n-\n;\nS\n°\n:\n:\n=\n4\n30\n$\n204,\n8 :\n:\n1918\n1939\n1953\n1961\n1971\n1981\n1991\n2001\n2011\n| households in owned | households in rented\naccommodation\naccommodation\n51\n",
+  "blocks": [
+    {
+      "box": [
+        489.9599914550781,
+        58.67999267578125,
+        526.6513061523438,
+        70.21153259277344
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        252.36000061035156,
+        99.0,
+        322.2899169921875,
+        109.810791015625
+      ],
+      "text": "WRITING\n"
+    },
+    {
+      "box": [
+        48.96000671386719,
+        146.15997314453125,
+        183.22201538085938,
+        158.77261352539062
+      ],
+      "text": "WRITING TASK 1\n"
+    },
+    {
+      "box": [
+        50.040008544921875,
+        174.96002197265625,
+        310.4819641113281,
+        188.65370178222656
+      ],
+      "text": "You should spend about 20 minutes on this task.\n"
+    },
+    {
+      "box": [
+        63.36004638671875,
+        209.8800048828125,
+        497.275146484375,
+        239.7740478515625
+      ],
+      "text": "The chart below shows the percentage of households in owned and rented\naccommodation in England and Wales between 1918 and 2011.\n"
+    },
+    {
+      "box": [
+        64.4400634765625,
+        253.08001708984375,
+        511.5187072753906,
+        283.3326110839844
+      ],
+      "text": "Summarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.\n"
+    },
+    {
+      "box": [
+        51.48005676269531,
+        308.5199890136719,
+        183.44528198242188,
+        318.9704284667969
+      ],
+      "text": "Write at least 150 words.\n"
+    },
+    {
+      "box": [
+        144.72006225585938,
+        336.6000061035156,
+        431.18658447265625,
+        349.5729675292969
+      ],
+      "text": "Households owning and renting accommodation\n"
+    },
+    {
+      "box": [
+        186.84005737304688,
+        349.9200134277344,
+        388.92236328125,
+        363.2532958984375
+      ],
+      "text": "in England and Wales 1918 to 2011\n"
+    },
+    {
+      "box": [
+        129.96006774902344,
+        374.760009765625,
+        459.7003173828125,
+        383.04827880859375
+      ],
+      "text": "90\n-\n"
+    },
+    {
+      "box": [
+        130.32009887695312,
+        405.3599853515625,
+        408.0240173339844,
+        413.2879333496094
+      ],
+      "text": "80\nceisosiall\n"
+    },
+    {
+      "box": [
+        130.68008422851562,
+        435.239990234375,
+        276.46929931640625,
+        443.52825927734375
+      ],
+      "text": "70\n—_—\n"
+    },
+    {
+      "box": [
+        112.32009887695312,
+        465.4800109863281,
+        775.0745849609375,
+        495.7207336425781
+      ],
+      "text": "60\n=\n|}\nna\n3\n°\n<\n"
+    },
+    {
+      "box": [
+        112.32009887695312,
+        492.8399963378906,
+        446.7565002441406,
+        508.3326110839844
+      ],
+      "text": "¥\n§\n50\ni\n"
+    },
+    {
+      "box": [
+        112.6800537109375,
+        518.0399780273438,
+        778.6771240234375,
+        563.7679443359375
+      ],
+      "text": "re}\nst\n:\n=\n40\n-\n;\nS\n°\n:\n:\n=\n4\n30\n$\n"
+    },
+    {
+      "box": [
+        132.12005615234375,
+        577.800048828125,
+        297.6624755859375,
+        593.6558837890625
+      ],
+      "text": "204,\n8 :\n:\n"
+    },
+    {
+      "box": [
+        160.92005920410156,
+        657.3600463867188,
+        460.29608154296875,
+        668.1708374023438
+      ],
+      "text": "1918\n1939\n1953\n1961\n1971\n1981\n1991\n2001\n2011\n"
+    },
+    {
+      "box": [
+        167.40005493164062,
+        694.7999877929688,
+        414.8999938964844,
+        719.293701171875
+      ],
+      "text": "| households in owned | households in rented\naccommodation\naccommodation\n"
+    },
+    {
+      "box": [
+        520.9200439453125,
+        763.5599975585938,
+        532.0584716796875,
+        772.9293212890625
+      ],
+      "text": "51\n"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 22,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nFete\nAra\naia 1718867188\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nIt is important for people to take risks, both in their professional lives and\ntheir personal lives.\nDo you think the advantages of taking risks outweigh the disadvantages?\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n>\n|8 p.128}\n29\nielts-fighter.com\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        511.4405517578125,
+        50.76811218261719
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nFete\nAra\naia 1718867188\n"
+    },
+    {
+      "box": [
+        60.827735900878906,
+        82.06344604492188,
+        192.9193115234375,
+        92.51177978515625
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        111.21756744384766,
+        314.2165832519531,
+        122.02617645263672
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        138.93199157714844,
+        220.7796173095703,
+        150.10093688964844
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        74.14505767822266,
+        175.64463806152344,
+        487.9176330566406,
+        186.4532470703125
+      ],
+      "text": "It is important for people to take risks, both in their professional lives and\n"
+    },
+    {
+      "box": [
+        74.86491394042969,
+        189.68174743652344,
+        184.03089904785156,
+        200.4903564453125
+      ],
+      "text": "their personal lives.\n"
+    },
+    {
+      "box": [
+        74.5049819946289,
+        217.03623962402344,
+        487.234130859375,
+        227.84490966796875
+      ],
+      "text": "Do you think the advantages of taking risks outweigh the disadvantages?\n"
+    },
+    {
+      "box": [
+        61.54759216308594,
+        253.0289764404297,
+        478.5956115722656,
+        278.23468017578125
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        295.1404724121094,
+        189.98422241210938,
+        303.4270935058594
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        420.7551574707031,
+        729.932861328125,
+        525.01171875,
+        742.1826171875
+      ],
+      "text": ">\n|8 p.128}\n29\n"
+    },
+    {
+      "box": [
+        229.6337127685547,
+        797.5992431640625,
+        326.12646484375,
+        811.2901611328125
+      ],
+      "text": "ielts-fighter.com\n"
+    }
+  ]
+}

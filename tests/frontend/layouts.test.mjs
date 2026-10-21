@@ -75,6 +75,6 @@ test('graded matrix shows correct column and incorrect selection, with all contr
 
 test('highlight and note use independent markup over the same text',()=>{
   const html=render(Annotated,{id:'p1',text:'example',annotations:[{id:'h',kind:'highlight',level:2,anchor:'p1',start:0,end:7,text:'example'},{id:'n',kind:'note',note:'note',anchor:'p1',start:0,end:7,text:'example'}],onEdit:noop});
-  assert.match(html,/highlight-level-2/);assert.match(html,/note-anchor/);
+  assert.match(html,/highlight-color-orange/);assert.match(html,/note-anchor/);
   assert.equal((html.match(/example/g)||[]).length,1);
 });

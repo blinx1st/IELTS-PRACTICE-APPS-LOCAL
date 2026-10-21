@@ -1,0 +1,219 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 22,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Reading\n|\nQuestions 20-23\n|\nLeok at the following people (Questions 20-23) and the list of ideas below.\nWetch each person with the correct idea, A-E.\nWinte the correct letter, A-E, in boxes 20-23 on your answer sheet.\n@\nPeter Toohey\nZt\nThomas Goetz\n22\nJohn Eastwood\n23\nFrancoise Wemelsfelder\nList of Ideas\nA\nThe way we live today may encourage boredom.\nB\nOne sort of boredom is worse than all the others.\nC\nLevels of boredom may fall in the future.\nD\nTrying to cope with boredom can increase its negative effects.\nE\nBoredom may encourage us to avoid an unpleasant experience.\nQuestions 24-26\nFB.com/LouisQuang Vo\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 24-26 on your answer sheet.\nResponses to boredom\nFor John Eastwood, the central feature of boredom is that people cannot\n24 vooccsstsiunusinnnnen\n, Ue to a failure in what he calls the ‘attention system’, and as a\nresult they become frustrated and irritable. His team suggests that those for whom\nD5 vocvcsssinintnnnennneneeee 1 aN important aim in life may have problems in coping with\nboredom, whereas those who have the characteristic Of 26 -...-c--cccscmeconmenen CAN\ngenerally cope with it.\n",
+  "blocks": [
+    {
+      "box": [
+        502.20001220703125,
+        53.6400146484375,
+        550.1806640625,
+        65.89224243164062
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        19.44000244140625,
+        97.55999755859375,
+        144.95401000976562,
+        112.33477020263672
+      ],
+      "text": "|\nQuestions 20-23\n"
+    },
+    {
+      "box": [
+        19.44000244140625,
+        126.3599853515625,
+        466.981201171875,
+        141.13475036621094
+      ],
+      "text": "|\nLeok at the following people (Questions 20-23) and the list of ideas below.\n"
+    },
+    {
+      "box": [
+        38.519989013671875,
+        157.67999267578125,
+        304.43756103515625,
+        171.7340087890625
+      ],
+      "text": "Wetch each person with the correct idea, A-E.\n"
+    },
+    {
+      "box": [
+        38.519989013671875,
+        187.91998291015625,
+        425.9663391113281,
+        226.45223999023438
+      ],
+      "text": "Winte the correct letter, A-E, in boxes 20-23 on your answer sheet.\n@\nPeter Toohey\n"
+    },
+    {
+      "box": [
+        38.8799934387207,
+        237.5999755859375,
+        152.01014709472656,
+        248.41082763671875
+      ],
+      "text": "Zt\nThomas Goetz\n"
+    },
+    {
+      "box": [
+        38.87999725341797,
+        261.3599853515625,
+        155.51991271972656,
+        272.1707763671875
+      ],
+      "text": "22\nJohn Eastwood\n"
+    },
+    {
+      "box": [
+        38.8799934387207,
+        284.760009765625,
+        207.64791870117188,
+        296.29150390625
+      ],
+      "text": "23\nFrancoise Wemelsfelder\n"
+    },
+    {
+      "box": [
+        257.760009765625,
+        327.239990234375,
+        332.9640808105469,
+        337.330078125
+      ],
+      "text": "List of Ideas\n"
+    },
+    {
+      "box": [
+        95.39999389648438,
+        350.6400146484375,
+        404.7983703613281,
+        364.33367919921875
+      ],
+      "text": "A\nThe way we live today may encourage boredom.\n"
+    },
+    {
+      "box": [
+        96.48001098632812,
+        374.3999938964844,
+        406.58941650390625,
+        386.2918701171875
+      ],
+      "text": "B\nOne sort of boredom is worse than all the others.\n"
+    },
+    {
+      "box": [
+        96.1199951171875,
+        398.5199890136719,
+        356.2344055175781,
+        411.49298095703125
+      ],
+      "text": "C\nLevels of boredom may fall in the future.\n"
+    },
+    {
+      "box": [
+        96.83999633789062,
+        421.55999755859375,
+        481.8672180175781,
+        436.33477783203125
+      ],
+      "text": "D\nTrying to cope with boredom can increase its negative effects.\n"
+    },
+    {
+      "box": [
+        96.83999633789062,
+        445.67999267578125,
+        494.8092041015625,
+        459.7340393066406
+      ],
+      "text": "E\nBoredom may encourage us to avoid an unpleasant experience.\n"
+    },
+    {
+      "box": [
+        41.399993896484375,
+        493.1999816894531,
+        442.7676086425781,
+        513.740478515625
+      ],
+      "text": "Questions 24-26\nFB.com/LouisQuang Vo\n"
+    },
+    {
+      "box": [
+        41.399993896484375,
+        532.4400024414062,
+        214.44476318359375,
+        545.7733154296875
+      ],
+      "text": "Complete the summary below.\n"
+    },
+    {
+      "box": [
+        41.399993896484375,
+        561.5999755859375,
+        404.9855651855469,
+        574.5729370117188
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        41.760009765625,
+        592.5599365234375,
+        375.63482666015625,
+        606.614013671875
+      ],
+      "text": "Write your answers in boxes 24-26 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        198.72000122070312,
+        625.3200073242188,
+        395.2078857421875,
+        642.9776611328125
+      ],
+      "text": "Responses to boredom\n"
+    },
+    {
+      "box": [
+        41.399993896484375,
+        663.4800415039062,
+        534.9276123046875,
+        696.6136474609375
+      ],
+      "text": "For John Eastwood, the central feature of boredom is that people cannot\n24 vooccsstsiunusinnnnen\n, Ue to a failure in what he calls the ‘attention system’, and as a\n"
+    },
+    {
+      "box": [
+        41.760009765625,
+        703.4400024414062,
+        515.8511352539062,
+        737.654052734375
+      ],
+      "text": "result they become frustrated and irritable. His team suggests that those for whom\nD5 vocvcsssinintnnnennneneeee 1 aN important aim in life may have problems in coping with\n"
+    },
+    {
+      "box": [
+        42.1199951171875,
+        744.47998046875,
+        509.58001708984375,
+        757.8132934570312
+      ],
+      "text": "boredom, whereas those who have the characteristic Of 26 -...-c--cccscmeconmenen CAN\n"
+    },
+    {
+      "box": [
+        42.1199951171875,
+        766.0800170898438,
+        165.87181091308594,
+        779.413330078125
+      ],
+      "text": "generally cope with it.\n"
+    }
+  ]
+}

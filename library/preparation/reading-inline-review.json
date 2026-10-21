@@ -1,0 +1,1572 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "groups": [
+    {
+      "groupId": "cam13-t1-p2-g3",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t1-p2-g3-s1-64777a20.webp",
+          "page": 22
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "b98c5750014b73abaf3533ac27c594d8af4e4436f55bb63be74ed92ae032d462",
+      "layoutSha256": "f9ea9390057c755aed6f022ff640d4e2d69c829bf621807d23fd59f63fd87d51"
+    },
+    {
+      "groupId": "cam13-t2-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t2-p1-g1-s1-068735bd.webp",
+          "page": 39
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "704090f482d99d999bfc45fcb1b16de5fdeb24a71eef57d2932dc52951ee361c",
+      "layoutSha256": "6962e023b3396b8e6efdc007976bb632b840514f8a96674664a31dd95f6bec15"
+    },
+    {
+      "groupId": "cam13-t2-p2-g3",
+      "questions": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t2-p2-g3-s1-6475d63d.webp",
+          "page": 44
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "98feeb9514af9a06af2979291786d1c918c077f0e09eaee3763b748e3028bfd6",
+      "layoutSha256": "4c847e9a0d117de8a990695bd22650c289d4c42e070eec8b69b225d0be49f16a"
+    },
+    {
+      "groupId": "cam13-t3-p2-g2",
+      "questions": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t3-p2-g2-s1-f6d1bb9b.webp",
+          "page": 66
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "ec0bbaefc77dfb5b03e67e8d6df85d860413adc84dff9c445bee839df88408eb",
+      "layoutSha256": "0dc509e0ec02786bfb54855130f62aa5cdd65a90ec68112fe0f5ddee0006e75e"
+    },
+    {
+      "groupId": "cam13-t3-p3-g2",
+      "questions": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t3-p3-g2-s1-4c2f3eb2.webp",
+          "page": 70
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "51ef3c4f2b89d4d587975e9bd62bc6b837c25ff298fed9de879e3ef361eba8a0",
+      "layoutSha256": "9a044021aea7580786c71740b006a2a4170ef88ec6e5bd41ddd84cf2d44f4172"
+    },
+    {
+      "groupId": "cam13-t4-p1-g2",
+      "questions": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t4-p1-g2-s1-8c0ec793.webp",
+          "page": 83
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "8f4633925a8580ea5cb174746226624cbc6555b9c5c7db342f527e848ac04d79",
+      "layoutSha256": "7525cd3f1db0fb72adcb29caf2dd7051de40749dbee56371707a8c4ed73033b5"
+    },
+    {
+      "groupId": "cam13-t4-p2-g1",
+      "questions": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t4-p2-g1-s1-7f99cdc0.webp",
+          "page": 86
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "c7f5f403f13d314081097f1737b33857f07edf8091f5acde75f101d7f8a3ab62",
+      "layoutSha256": "afb5dba4f09b507830ddfb8db57b327bf8c470722c8734d64663ae63ed9ac7cc"
+    },
+    {
+      "groupId": "cam13-t4-p3-g2",
+      "questions": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam13-t4-p3-g2-s1-c37712c8.webp",
+          "page": 91
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "257b751b07ab0264b6f43ce2b319fe8792a037a9f5569009c83fbbeab4d500c6",
+      "layoutSha256": "7fb28a35e16bc693630d687638efc7d27ed929165c5bde4f9954ead436702172"
+    },
+    {
+      "groupId": "cam14-t1-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t1-p1-g1-s1-14238cca.webp",
+          "page": 10
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "65f2d2ea4d790b92966fecb21bf24253a1103433b375e71dc12f720395d61d2e",
+      "layoutSha256": "cdc9a7452b43761c66e5db4d8a9b4b31d442aef72f0a92ef495bc50e1d3de58b"
+    },
+    {
+      "groupId": "cam14-t1-p2-g4",
+      "questions": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t1-p2-g4-s1-cbecf1be.webp",
+          "page": 16
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "e1185dcfdf6971d8549b1cb05e9b8a4214fcbe0324c793d29c2d76dc29f2021b",
+      "layoutSha256": "4621fcbe414cf0d01510079ab7b80a6410baa770133c040bfbde440312d6d9fc"
+    },
+    {
+      "groupId": "cam14-t1-p3-g3",
+      "questions": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t1-p3-g3-s1-0b6b5730.webp",
+          "page": 20
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "77d2e0e5c331eb18da3b18cd063665153cda3b624cbb82e0feeab8bc196eeb8a",
+      "layoutSha256": "bff449e051201c2e5392bd3b2d6e08a481a03ac548b95a6bddda52c25cb8ef2a"
+    },
+    {
+      "groupId": "cam14-t2-p1-g2",
+      "questions": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t2-p1-g2-s1-b8194b98.webp",
+          "page": 33
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "0f6e803220db026422e4b09b507066322c67544267e9802ae68fd36ee20a3712",
+      "layoutSha256": "9e3f0f782ec3156af9143a4ca91d61e88751fc05f8189f943538c62a2c13b181"
+    },
+    {
+      "groupId": "cam14-t2-p2-g2",
+      "questions": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t2-p2-g2-s1-c69f84e4.webp",
+          "page": 37
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "c17f4efe6bb601d8b36de1d2ac1504b6f152121722bf17802ed464d520d2949e",
+      "layoutSha256": "35201f465820866bed8ca3353d9554593d65c6bffa9d948397932d408162abc3"
+    },
+    {
+      "groupId": "cam14-t2-p3-g2",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t2-p3-g2-s1-eb234212.webp",
+          "page": 41
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "d8a35b7ee6642e3cf6262fc879892a580dff585f2b90aa90634633fcc2630f98",
+      "layoutSha256": "a154fa4cb1012e3c74bd1e057c6d42574056b27319de8fa1ba0fd997215002f9"
+    },
+    {
+      "groupId": "cam14-t3-p2-g3",
+      "questions": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t3-p2-g3-s1-7c684454.webp",
+          "page": 58
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "fd9fb724d80af7f3d30f376576a66d5d497b5ed9a690ff9114e748df70298a6d",
+      "layoutSha256": "d6351ac11a0d15b667ba2c05c8b7f5f8f5a84f216297a54146350270c402dcc5"
+    },
+    {
+      "groupId": "cam14-t3-p3-g3",
+      "questions": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t3-p3-g3-s1-a5d33d22.webp",
+          "page": 63
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "d7b4d952a842b0d4df8073a19be64ab77ec3c951023a65e40c864950bd0d68f0",
+      "layoutSha256": "2e0fddeddf2703832810c2f6be7731f8f4bd14ffbf95a3294fefb9af6c2dd438"
+    },
+    {
+      "groupId": "cam14-t4-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t4-p1-g1-s1-f8116989.webp",
+          "page": 76
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "03246c22d23482b315a73cc8f99e28ce0e846b459f7e6612e2521fe91010d3c1",
+      "layoutSha256": "197eb60a991a696b88570adb0220365befeb04e26ea4fdf54165aefc1440b928"
+    },
+    {
+      "groupId": "cam14-t4-p3-g2",
+      "questions": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam14-t4-p3-g2-s1-d18fc73c.webp",
+          "page": 85
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "c626d51e8a270f5d852a1ac2bcad1e6281c80aae635a255bfa48826caf498e68",
+      "layoutSha256": "c03fceed3314d815ab2489a27dfc28233f7eb6139c2189fb2ecd3c042d062aaa"
+    },
+    {
+      "groupId": "cam15-t1-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t1-p1-g1-s1-67f71da6.webp",
+          "page": 20
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "e8fa60c8de12fa18416a22f9d8abe8c39b0b3b1c9f84311d39bf29941ffefe4a",
+      "layoutSha256": "4021c2590bbd6fac8560cef4c3b75d1a62f1c629f109ee4a77fe1ae9cba2b076"
+    },
+    {
+      "groupId": "cam15-t1-p2-g2",
+      "questions": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t1-p2-g2-s1-74f9ff2b.webp",
+          "page": 24
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "0c7a0cb1bdd1a625a598d66b1577b82b359da2761e9d93cb3b898746f660f33c",
+      "layoutSha256": "6a871db9b9a6caeda0cb43c536925b40e26e01b3b0d0dc01b2c058a2eaa8a5e0"
+    },
+    {
+      "groupId": "cam15-t1-p3-g3",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t1-p3-g3-s1-ad91ce88.webp",
+          "page": 29
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "483c21c493ccdf6918eed3d4f4ebad7e7bf0027a94b48305ca94451d2624fbdc",
+      "layoutSha256": "1a141012714187869d77358e88ac40145ad4e5716b3014f156f9ad43378fc8bf"
+    },
+    {
+      "groupId": "cam15-t2-p1-g2",
+      "questions": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t2-p1-g2-s1-5390fd0c.webp",
+          "page": 41
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "a34ab02aaa2c34d2cb0b938d8a683e78040189505bc75ef7c94e88ec29e7e2fa",
+      "layoutSha256": "e401ce9d65da105f2326f594f9ff41399398cbe3c3da10e09910ce884873be8f"
+    },
+    {
+      "groupId": "cam15-t2-p2-g2",
+      "questions": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t2-p2-g2-s1-dc8ebd6f.webp",
+          "page": 44
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "80f39dac6b5ebb1a2500737bc7c80ecaea32b62fa0795afd4665b51a0c00a224",
+      "layoutSha256": "e484736d5334ec3662fb26cae3dc9925ea7a8c881a8ed0ecff4a94119ced2cf6"
+    },
+    {
+      "groupId": "cam15-t2-p3-g2",
+      "questions": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t2-p3-g2-s1-39cb2a4b.webp",
+          "page": 49
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "fe51785c8c1e2665a59c6ddbb72ef0e7272f3dacd3b32bcdad496e70660f9316",
+      "layoutSha256": "9269a6c26fb9d6d93882e1f8fd7f289d129ef5d53d5d6c1ec8ac39167c5b01f5"
+    },
+    {
+      "groupId": "cam15-t3-p1-g2",
+      "questions": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t3-p1-g2-s1-eea623a8.webp",
+          "page": 63
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "f2fe3a529b5429d4b7e8db3bf0bf0d5bf26942edc06c519ba87ae8a1a32099b3",
+      "layoutSha256": "43b30d8cdccaf754a9eab77f91a28d86c408fddce5f6096ef8e9a4be4f364360"
+    },
+    {
+      "groupId": "cam15-t3-p2-g2",
+      "questions": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t3-p2-g2-s1-4bf16942.webp",
+          "page": 67
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "d6aed4368372f1ad00801a14a07f9cc71f6d06a5b04e1a0e6550cd30b2ab93a9",
+      "layoutSha256": "9d67436257bffb7a3c7037f5956357f290551741ed7ea27466db35eae6c44ab3"
+    },
+    {
+      "groupId": "cam15-t3-p3-g2",
+      "questions": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t3-p3-g2-s1-fae6f4fd.webp",
+          "page": 71
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "c01adf1f7f86148769c18b1bd53e922f120c34f723be093b538fd2be4c615a86",
+      "layoutSha256": "509ebfe38e7e7828a44bed30efc83b1f8d196c099a44b838798809d0e5b6628b"
+    },
+    {
+      "groupId": "cam15-t4-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t4-p1-g1-s1-e24a038d.webp",
+          "page": 84
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "af0b8b7a041ad23d1b1b3e9a71b0d73cc634095a68979bc7865758ed3def0cd6",
+      "layoutSha256": "24dc25a0f8bef6de3a2a46b41b4a8663151b7be22cd0a165316fd25b2a854d7d"
+    },
+    {
+      "groupId": "cam15-t4-p2-g2",
+      "questions": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t4-p2-g2-s1-fa1b534b.webp",
+          "page": 89
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "88d0a63237c97e25a468f5622954fedf6c102bb1cbad3c81493b8ad45179abb8",
+      "layoutSha256": "826348615ca947992017f1a733b4ce87ca2ff2510ed8ba96b27cb7cc63475a2b"
+    },
+    {
+      "groupId": "cam15-t4-p3-g1",
+      "questions": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam15-t4-p3-g1-s1-d94d29a5.webp",
+          "page": 92
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "54c34197a31d442e03a2f38c2988fe02598aae8a98243b0db52f62e4387953f9",
+      "layoutSha256": "d4b52d0a43d3fe2be53c93c59fd1db96f6c8a6bc82d6e31441a4c39d2c56abc9"
+    },
+    {
+      "groupId": "cam16-t1-p2-g2",
+      "questions": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t1-p2-g2-source.webp",
+          "page": 24
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "e7693d1780da72e796084642a96ca881afd1fda4fe59b8616c6dfc0b54d3fc54",
+      "layoutSha256": "21c55a5ac5560483a0abe97ae431cf60cf3eb43bca64ab9c92032e208c9f4713"
+    },
+    {
+      "groupId": "cam16-t1-p3-g2",
+      "questions": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t1-p3-g2-source.webp",
+          "page": 28
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "456eefafefa2dae586dd3aa3d032fde427df77d5b20cca3629d6ab80374e1338",
+      "layoutSha256": "1d65d8749704fc4be70f802ada2f4a6a76bbca24eddce32677c015efeb94fa91"
+    },
+    {
+      "groupId": "cam16-t2-p1-g2",
+      "questions": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t2-p1-g2-source.webp",
+          "page": 42
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "add5afe34d19291a85d8f13e45e85616b099bca86851e0ccdff0726ebbb639c4",
+      "layoutSha256": "0cecb511370d8f5f07142a679dcb24bc4dc5eec98e4313e02b42efb651fd4988"
+    },
+    {
+      "groupId": "cam16-t2-p2-g2",
+      "questions": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t2-p2-g2-source.webp",
+          "page": 46
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "5ce9d8ae31c5f080743b15d628f71e4e535f06a563904242d8a551c450bc2463",
+      "layoutSha256": "25477999ef74d343f9423072b8edbb97ab054eae377c7952fd68a58eb34d6956"
+    },
+    {
+      "groupId": "cam16-t2-p3-g2",
+      "questions": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t2-p3-g2-source.webp",
+          "page": 51
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "299d7fbe3b0ca547e9e958ab480e30da6426319e2d9b86d6d739a5e3ef555598",
+      "layoutSha256": "9af0755ad0951d0c5145e503aacbfabfa5fd17aba37d180c1384a29733e8cd6f"
+    },
+    {
+      "groupId": "cam16-t3-p1-g2",
+      "questions": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t3-p1-g2-source.webp",
+          "page": 65
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "9fff20469c4c9c101801613d5281158356f3b00979fffef51d72f33d8b75a99e",
+      "layoutSha256": "4d16eba98f1274e3d8363073642c1667ee6b35da16c77bcf05415e8b4ff1f38a"
+    },
+    {
+      "groupId": "cam16-t3-p2-g2",
+      "questions": [
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t3-p2-g2-source.webp",
+          "page": 68
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "e891f5c9e3383247f7693c17a0ae3e12103d30c31cdb870d9605e20e5a1cb73c",
+      "layoutSha256": "7c2c1a0eb90e03614f2a128ce03ab8eacfd5837f696c3a5d510068f0d219f3e9"
+    },
+    {
+      "groupId": "cam16-t3-p3-g3",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t3-p3-g3-source.webp",
+          "page": 73
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "0a284af2c0a2af9c430780ddc6ea1870c2880516906ca115f856ae82cb6a8d99",
+      "layoutSha256": "4e6916a6c5486c90ead81b726d7c16d07959ac7d6b8ee45673533dc308fb8fae"
+    },
+    {
+      "groupId": "cam16-t4-p2-g2",
+      "questions": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam16-r-t4-p2-g2-source.webp",
+          "page": 90
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "6f16a2d19ce25b8d0fff4288ae2f441d6d36b7f482956993c39c6dfecaf10f81",
+      "layoutSha256": "d60c8814ce4ea00eb060ff9b938092de2525cc2677878024243246d152634539"
+    },
+    {
+      "groupId": "cam17-t1-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t1-p1-g1-s1-88a76da9.webp",
+          "page": 11
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "e2d801fcf3cfa237b26c96d28de8b2d64aba6193e71dab66ea93162c200f0ad7",
+      "layoutSha256": "aec6ad6084c993f33379bcf9a7b51e128133743726859558df67f8bd188ee6b2"
+    },
+    {
+      "groupId": "cam17-t1-p2-g2",
+      "questions": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t1-p2-g2-s1-71d20da6.webp",
+          "page": 15
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "6716dcd0a590956115434a42782a52a0f8456d3a5bad66e9a481a58aa8ab3907",
+      "layoutSha256": "86153cd402c878f15409ade8c50d4b7f589ea52a6f6caac735663c939b748660"
+    },
+    {
+      "groupId": "cam17-t1-p3-g1",
+      "questions": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t1-p3-g1-s1-c6400fb2.webp",
+          "page": 19
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "93bf779fd87f8fdaf0c65d04525aff82d35f7b14e03fb543885d4be49101c8cd",
+      "layoutSha256": "9b5fcf0ae0ce6b4339e4512cc8e6e9ea759b51c2bd0228941ff92519915d66c9"
+    },
+    {
+      "groupId": "cam17-t2-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t2-p1-g1-s1-67f7d19e.webp",
+          "page": 32
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "a8c5b9fa5a6b9b8077902ecabdde1607f11907d4a24ae93404ee6af4212006a2",
+      "layoutSha256": "288fb4411b3fbc175f28413dfbff82f18b1049d01f8fd5b7b3fc235da835e4d3"
+    },
+    {
+      "groupId": "cam17-t2-p2-g3",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t2-p2-g3-s1-d756b5b4.webp",
+          "page": 37
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "b88d1a039702a616de299ac77e462e36aa9db4d37e4cb658805d17494b37548d",
+      "layoutSha256": "0b8e27a91ade3f81fdf1f1a6ce7041f955f1ab95484e9c5a69e860bd3635eac0"
+    },
+    {
+      "groupId": "cam17-t2-p3-g3",
+      "questions": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t2-p3-g3-s1-054ea1ce.webp",
+          "page": 42
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "de9d3a351bb39ed8b7bfc6108315eb9d6d014a6a467865ed7f654323653e2f1d",
+      "layoutSha256": "0604e6c3c5e4ee6694b2f9bc7535641c0deb3eddae7ad06111fe4c62735cd876"
+    },
+    {
+      "groupId": "cam17-t3-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t3-p1-g1-s1-f483e418.webp",
+          "page": 54
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "8f9ce17893299d425d1fc0d5351a723741e45d5e8e686b108b42d1f15dbfe477",
+      "layoutSha256": "08c5840fed5cd6875d8591c909a57e340000e649a8fb6da589b647244fe07b80"
+    },
+    {
+      "groupId": "cam17-t3-p2-g3",
+      "questions": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t3-p2-g3-s1-f7b17ee7.webp",
+          "page": 59
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "14cda94bfa760ab03f61817483257316b8b81dba9cc7f4fc34437a442a8e2fe8",
+      "layoutSha256": "456d66dceea6340f630e6fa016d76f3490a86bdcf254c745695eaf1808caace1"
+    },
+    {
+      "groupId": "cam17-t3-p3-g3",
+      "questions": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t3-p3-g3-s1-5cf1d22a.webp",
+          "page": 64
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "cf5a67b221eb16e741c914a5e9da9e8f05b397d539a8f7f0923bce8d6e76e275",
+      "layoutSha256": "b7002f7a5937a7fcba3eb445e7afd7d0dd32466ece3e2b8800a3abd29d4c4ffc"
+    },
+    {
+      "groupId": "cam17-t4-p2-g2",
+      "questions": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t4-p2-g2-s1-3a2af572.webp",
+          "page": 80
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "3bb0c3b59ab6899306c42a38a45f3644025c235260d6b3a30fb6e276e177d133",
+      "layoutSha256": "0503d0217d57ca2cd081f5c3d95bf755af2100a9897ce72fecca4506a6d5d347"
+    },
+    {
+      "groupId": "cam17-t4-p3-g3",
+      "questions": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam17-t4-p3-g3-s1-c836f9fd.webp",
+          "page": 85
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "c0c916d187c1db812225134a199ef4cd78410f4bd1bf22e8a740e18b6c788576",
+      "layoutSha256": "be10f7b5dbb302e91139602625fd3481de4308ba500666127213bb7293505fbc"
+    },
+    {
+      "groupId": "cam18-t1-p1-g1",
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t1-p1-g1-s1-9d2eb551.webp",
+          "page": 20
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "9ae84a2d4880d571ce04bee897a6245460d3f0410f0d3bad8dcbc59a29a79554",
+      "layoutSha256": "2a8af3f9cc55c5515012b035f1d385462947b6efe1f0e676e9b953b603bfdcab"
+    },
+    {
+      "groupId": "cam18-t1-p2-g3",
+      "questions": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t1-p2-g3-s1-2f2844f7.webp",
+          "page": 26
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "0fb632b6ce50d5f41c8d69f4da38bdf70f019616218d1fbbe89bc869cc0f93fd",
+      "layoutSha256": "56eb76b2e2560f3cc81b0ed4f0bb74a0e4434a2119d740fd82033c55b84b954e"
+    },
+    {
+      "groupId": "cam18-t1-p3-g2",
+      "questions": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t1-p3-g2-s1-62f420ad.webp",
+          "page": 29
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "9278ef20b1624f6e7928ecc98e13c18ef8c2d811b274f8dca4db86e9187fb146",
+      "layoutSha256": "803ca672f3f23f91a642add55b8e7a944ca95b4390d859c5e83b7bba436576b8"
+    },
+    {
+      "groupId": "cam18-t2-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t2-p1-g1-s1-c77938bf.webp",
+          "page": 43
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "fe67a15786b7ad57e23bbdd83b2fcf6012442f7f4205fb3bd574b8d08314bbc1",
+      "layoutSha256": "e02e603033158319aaf282759127d5b5064ed8052e7b8fcaf3db2d18a495d1a2"
+    },
+    {
+      "groupId": "cam18-t2-p2-g3",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t2-p2-g3-s1-19b55404.webp",
+          "page": 49
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "f31ae6a4b2b13e5e237583761de488222596f40a8590a4aef7e48dbee7460d82",
+      "layoutSha256": "26c5929d158e732d207eef0e7209b4f4a20e1c1844e2b8fa217a094f7c9470c5"
+    },
+    {
+      "groupId": "cam18-t2-p3-g2",
+      "questions": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t2-p3-g2-s1-47aba839.webp",
+          "page": 53
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "ad32c810c4f617cb5d807f468a66aa209c5719be70373f1b505892297c81d70b",
+      "layoutSha256": "f10ec3886fccc8caddfc5a1372937ba36c697c051bc5e5f656d41ea018eea7d4"
+    },
+    {
+      "groupId": "cam18-t3-p1-g2",
+      "questions": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t3-p1-g2-s1-8480865c.webp",
+          "page": 65
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "45b1a0b22a05866880c7304d92779c3920e0e0c51ffd078158a681d516f6aa8c",
+      "layoutSha256": "a51be8324fd2eb17828e01390b8a80108e209f2ed20e0cb7a01d08d84c15d276"
+    },
+    {
+      "groupId": "cam18-t3-p2-g3",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t3-p2-g3-s1-a3a50b48.webp",
+          "page": 71
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "80d0b48199812abe1a3feea55a4aa4affd14eb938eed5b9ccb889a320da9d661",
+      "layoutSha256": "016db4645ae8ef3dc0d8b9918ab5fb7690fc555c6d27cdd100e80c99801a3acf"
+    },
+    {
+      "groupId": "cam18-t3-p3-g2",
+      "questions": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t3-p3-g2-s1-63c342da.webp",
+          "page": 75
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "81029efd791c9864f83084fc1268e4f37d4cadbbc0983c38fe122348003f9a23",
+      "layoutSha256": "ff002a7d48d7893d055ffd2e1b43d5d2469f745d347fa4159ce53798aa7bd13a"
+    },
+    {
+      "groupId": "cam18-t4-p1-g2",
+      "questions": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t4-p1-g2-s1-e4355b97.webp",
+          "page": 88
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "a5f6eb35c97e3793c4a49cbca56ba47675793812237450df2cd4397716801841",
+      "layoutSha256": "759aa7157000dd29b569f379746816c1a1a4205fc5ee2c61c5c489728a2bc211"
+    },
+    {
+      "groupId": "cam18-t4-p3-g2",
+      "questions": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam18-t4-p3-g2-s1-b3006afc.webp",
+          "page": 96
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "4999f757dcc19727c5cbb0a6d5a472ef87fed7f4a501dd91ce7222b3d1f147a9",
+      "layoutSha256": "2cf77113dce82a747db763165df40e7855ba4ac5af5cea4bf733a3cb57bb61a6"
+    },
+    {
+      "groupId": "cam19-t1-p1-g2",
+      "questions": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t1-p1-g2-s1-10d739dc.webp",
+          "page": 18
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "023ceff6c0aa72fc3763f7503261268d4910c536dd25a698f2aac2765ff6945d",
+      "layoutSha256": "7cfd96a933694def39187ed1d95886e59a0da9b5be098f08b50c8fecdd9c594f"
+    },
+    {
+      "groupId": "cam19-t1-p2-g4",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t1-p2-g4-s1-c3eb7ade.webp",
+          "page": 23
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "03a6e9aca5477fce2b0eb1322693f9293409413bc74d9f11ac13b9d9bf664441",
+      "layoutSha256": "3d7ce4d8137b98a8fceb8db582a8de0d760c0e52646b8c5505d9d564cd8c1efc"
+    },
+    {
+      "groupId": "cam19-t1-p3-g2",
+      "questions": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t1-p3-g2-s1-f150bbbb.webp",
+          "page": 27
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "9b665dbf301a2db96325f9c433fd594a5125363a1dc02c37d4fd5a9ccae2fcf0",
+      "layoutSha256": "928ecbb2ae42011d4bba5093d6c8dd41a61b844751c64051e1ccb1bd30e0ba53"
+    },
+    {
+      "groupId": "cam19-t2-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t2-p1-g1-s1-6374a60c.webp",
+          "page": 41
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "1f512069814c42bb46f6542d0e035fb93737dcc79021b17c890ab5664b0cdeff",
+      "layoutSha256": "50ed3ed629703689356b3ed3e072abf8ef6bec4525ecfb74d29b908f4a166034"
+    },
+    {
+      "groupId": "cam19-t2-p2-g2",
+      "questions": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t2-p2-g2-s1-b598d9f4.webp",
+          "page": 45
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "b16805f85210306bd27f484c98372b66fc6a9bb97ba75356a436eb5aab0fa64e",
+      "layoutSha256": "df84b08d75eab52d6f824bb27419613018fb5a3c2a8ee2150fda22769ac72b0a"
+    },
+    {
+      "groupId": "cam19-t2-p3-g1",
+      "questions": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t2-p3-g1-s1-0140f583.webp",
+          "page": 49
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "bc721a4cfe5e862938448600eb6b7873bbe6626627d914986fc0b0e7e4ef5505",
+      "layoutSha256": "b286e01773cee86f041b1695439d26a44b29b0625771e98826664407504ff357"
+    },
+    {
+      "groupId": "cam19-t3-p1-g2",
+      "questions": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t3-p1-g2-s1-8623be0c.webp",
+          "page": 64
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "2991cd318c68815c30445cb38d84859cd941cced0323efc18d973313cb3f6e22",
+      "layoutSha256": "57e73aecb5600807b4fdd884ff33ec2e54e446199341115954f9d9b62c0d4a0c"
+    },
+    {
+      "groupId": "cam19-t3-p2-g2",
+      "questions": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t3-p2-g2-s1-a815e087.webp",
+          "page": 67
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "8d6a8b39a4da9bc7b971fd686972cfda5cf83cf1292f802b37e9d933887f5507",
+      "layoutSha256": "5d6b75fdecead321a9ffd624c4cf246f1528bc53bb26184d5b8bbe2d8a8fd450"
+    },
+    {
+      "groupId": "cam19-t4-p1-g2",
+      "questions": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t4-p1-g2-s1-97f6d079.webp",
+          "page": 86
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "9477be205d74b8d3171ee5abf20621f79aa0349babd7462b3229496b977d8f58",
+      "layoutSha256": "33d88b37aeb7b93946d4c40fb23fb2e3f1c041d972d5a8e46581e001b6473bdb"
+    },
+    {
+      "groupId": "cam19-t4-p2-g3",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t4-p2-g3-s1-62c9f3a2.webp",
+          "page": 90
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "4ee3460f7fc8187a291a9210a4430295dd452b973963dc4db80632af7c83f933",
+      "layoutSha256": "745334a41b2b9811cb475646645013c629105fecfe4ff7180b327d2bd0fa38e0"
+    },
+    {
+      "groupId": "cam19-t4-p3-g2",
+      "questions": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam19-t4-p3-g2-s1-09726725.webp",
+          "page": 94
+        }
+      ],
+      "method": "visual transcription",
+      "baseSha256": "9163a6f74417bac95e3d4a34ea48cfaa4bcce91684ed91f0737cf69b1e255377",
+      "layoutSha256": "af3b68bf1063f8039aaa2ca226de335865ceef13f6c8d2c2f4380c97490ea605"
+    },
+    {
+      "groupId": "cam20-t1-p1-g2",
+      "questions": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t1-p1-g2-s1-b421e4c5.webp",
+          "page": 11
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "6cfddc05d8a3fa3055a77da46003645ededacd5e63161cadb296e0a6b2a745fc",
+      "layoutSha256": "741b5b4307652b8c2127f197d687704419424c17b45f9a1c0b20fefec5431c68"
+    },
+    {
+      "groupId": "cam20-t1-p2-g3",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t1-p2-g3-s1-08e35b79.webp",
+          "page": 16
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "7ae74b2cacd5d9a5c92cd4af2b00188a941f08c48fcbc622995339b04e27d489",
+      "layoutSha256": "2b410c0e18ad8835e51efc9d1d6e61ac7a3fc165911666b5eb0610d08fe1fbd4"
+    },
+    {
+      "groupId": "cam20-t2-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t2-p1-g1-s1-8cc448b3.webp",
+          "page": 31
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "d769d4c2390de40252082878dca688a8ea149a38b4db6bff8acce05bff4d3ee0",
+      "layoutSha256": "e8a3aae304f135833b42270399f646d726dbbcb11f79d1782b52dff7639894a3"
+    },
+    {
+      "groupId": "cam20-t2-p2-g2",
+      "questions": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t2-p2-g2-s1-aa4742f8.webp",
+          "page": 36
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "8486e948d8483e63a38fa00eec9c8688498a3f224c49609aa916567f11f57019",
+      "layoutSha256": "b3a74534d97de3ead451dfd3a7348189d39f81ff45420b93fd929509310fb741"
+    },
+    {
+      "groupId": "cam20-t2-p3-g2",
+      "questions": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t2-p3-g2-s1-c3a156c9.webp",
+          "page": 42
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "e47d9341a3940cc185c475f35795dde0cd3e55e4ba18d36478a65d364db3526d",
+      "layoutSha256": "849982cc438373b985e8f9bf05475c2cbf0c92c86cff7a64cbf88ab0a029f256"
+    },
+    {
+      "groupId": "cam20-t3-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t3-p1-g1-s1-e812a299.webp",
+          "page": 52
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "5c404a85884c2be60358f868dda460a681e03cf5248d271f6899f019a4d9e767",
+      "layoutSha256": "47acdde3431d9aba68118ee221da8eaedb9bb2cae704ddeea7237968ba855ab9"
+    },
+    {
+      "groupId": "cam20-t3-p2-g4",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t3-p2-g4-s1-496e7eff.webp",
+          "page": 57
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "60565c320426f7658151c4523ffdf0c6beac8d636db50aaa102a506b63a8c0fc",
+      "layoutSha256": "6763a575434e4339f3a62f6ba4327e4ba12f5baef910f658b00362ee25b4f289"
+    },
+    {
+      "groupId": "cam20-t4-p1-g1",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t4-p1-g1-s1-9df8e7aa.webp",
+          "page": 71
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "bacdb75209117bbeb0a9d1579c5687f303d5822cb5a40680ae8a72d47f86212a",
+      "layoutSha256": "61233df8bae9e7df8eea87b4578146bb55a012ef3d756e576e1f494d859f3717"
+    },
+    {
+      "groupId": "cam20-t4-p2-g2",
+      "questions": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t4-p2-g2-s1-862c0c63.webp",
+          "page": 75
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "aa9db3cb967b2d4d98f72e48079b34c9e0d2859ad82a47231cd486ef977881fe",
+      "layoutSha256": "15e7ab3b779d6c3d2357de7fe58470d7d23c009679d1e7e4f1b3920791e69705"
+    },
+    {
+      "groupId": "cam20-t4-p3-g3",
+      "questions": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceImages": [
+        {
+          "url": "/library-assets/cam20-t4-p3-g3-s1-c73fbc4b.webp",
+          "page": 80
+        }
+      ],
+      "method": "previously reviewed text",
+      "baseSha256": "555e5b381e17d0e0dc5f4d28fbf0e512455c39417845cf64155cf09e5a518f55",
+      "layoutSha256": "01c5283adef5ea081ed7920600f5cc639c255bba7425ca703fba980315c3f33a"
+    }
+  ],
+  "totalGroups": 82,
+  "sourceTranscriptions": 39,
+  "existingReviewedText": 43,
+  "errors": []
+}

@@ -1,0 +1,201 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 7,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "|\nIntroduction\nThe test components are taken in the following order:\nListening\n;\n4 parts, 40 items, approximately 30 minutes\ni\nAcademic Reading\nGeneral Training Reading\n3 sections, 40 items\nor\n3 sections, 40 items\n60 minutes\n60 minutes\nAcademic Writing\nGeneral Training Writing\n2 tasks\nor\n2 tasks\n60 minutes\n60 minutes\n:\nSpeaking\n:\n11 to 14 minutes\ni\nTotal Test Time\n2 hours 44 minutes\n:\nACADEMIC TEST FORMAT\n:\nListening\n11\nThis test consists of four parts, each with ten questions. The first two parts are concerned\nwith social needs. The first part is\na conversation between two speakers and the second part\n|\nis\na monologue. The final two parts are concerned with situations related to educational or\ntraining contexts. The third part is\na conversation between up to four people and the fourth\npart is a monologue.\nA variety of question types is used, including: multiple choice, matching, plan/map/\ndiagram labelling, form completion, note completion, table completion, flow-chart completion,\nsummary completion, sentence completion and short-answer questions.\nCandidates hear the recording once only and answer the questions as they listen. Ten\n|\nminutes are allowed at the end for candidates to transfer their answers to the answer sheet.\nReading\nThis test consists of three sections with 40 questions. There are three texts, which are\ntaken from journals, books, magazines and newspapers. The texts are on topics of general\ninterest. At least one text contains detailed logical argument.\nA variety of question types is used, including: multiple choice, identifying information\nL\n(True/False/Not Given), identifying the writer's views/claims (Yes/No/Not Given), matching\ninformation, matching headings, matching features, matching sentence endings, sentence\ncompletion, summary completion, note completion, table completion, flow-chart completion,\ndiagram-label completion and short-answer questions.\nt\n|\n5\n1\n",
+  "blocks": [
+    {
+      "box": [
+        504.58047016701937,
+        27.352436328597342,
+        504.91155048956176,
+        35.63842506306107
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        454.194403245919,
+        83.49691089782347,
+        515.1975342682513,
+        92.50342182440895
+      ],
+      "text": "Introduction\n"
+    },
+    {
+      "box": [
+        52.545469789147525,
+        120.56666013263302,
+        317.7849170420738,
+        131.73473397448677
+      ],
+      "text": "The test components are taken in the following order:\n"
+    },
+    {
+      "box": [
+        175.63143326783555,
+        155.11710602138754,
+        576.5317456131258,
+        179.9610319178415
+      ],
+      "text": "Listening\n;\n4 parts, 40 items, approximately 30 minutes\ni\n"
+    },
+    {
+      "box": [
+        102.93153671024788,
+        192.54675573420496,
+        483.5640161468924,
+        229.62549662320953
+      ],
+      "text": "Academic Reading\nGeneral Training Reading\n3 sections, 40 items\nor\n3 sections, 40 items\n60 minutes\n60 minutes\n"
+    },
+    {
+      "box": [
+        106.17064101231863,
+        244.0125240893289,
+        576.2006652905835,
+        281.45116545634136
+      ],
+      "text": "Academic Writing\nGeneral Training Writing\n2 tasks\nor\n2 tasks\n60 minutes\n60 minutes\n:\n"
+    },
+    {
+      "box": [
+        244.0125240893289,
+        294.75849148843713,
+        576.5245991518112,
+        322.84297148136784
+      ],
+      "text": "Speaking\n:\n11 to 14 minutes\ni\n"
+    },
+    {
+      "box": [
+        236.45461405116384,
+        333.9876435912939,
+        576.5209673436021,
+        356.671097579381
+      ],
+      "text": "Total Test Time\n2 hours 44 minutes\n:\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        391.5717200725514,
+        576.5371933254395,
+        407.0629051005538
+      ],
+      "text": "ACADEMIC TEST FORMAT\n:\n"
+    },
+    {
+      "box": [
+        53.98507170117896,
+        420.3637583131802,
+        109.60050311169284,
+        432.61261727376507
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        433.680075999471,
+        576.5569339603823,
+        465.0025766097649
+      ],
+      "text": "11\nThis test consists of four parts, each with ten questions. The first two parts are concerned\nwith social needs. The first part is\na conversation between two speakers and the second part\n|\n"
+    },
+    {
+      "box": [
+        53.26527074516324,
+        467.87062141021767,
+        502.8241980101783,
+        507.11055178259807
+      ],
+      "text": "is\na monologue. The final two parts are concerned with situations related to educational or\ntraining contexts. The third part is\na conversation between up to four people and the fourth\npart is a monologue.\n"
+    },
+    {
+      "box": [
+        53.6251712231711,
+        509.9789773371373,
+        515.3269906576388,
+        549.5791596528361
+      ],
+      "text": "A variety of question types is used, including: multiple choice, matching, plan/map/\ndiagram labelling, form completion, note completion, table completion, flow-chart completion,\nsummary completion, sentence completion and short-answer questions.\n"
+    },
+    {
+      "box": [
+        53.98507170117896,
+        549.9279303960097,
+        576.4957789963457,
+        575.4898852775386
+      ],
+      "text": "Candidates hear the recording once only and answer the questions as they listen. Ten\n|\nminutes are allowed at the end for candidates to transfer their answers to the answer sheet.\n"
+    },
+    {
+      "box": [
+        54.344972179186826,
+        590.5966844108979,
+        103.59736577451157,
+        602.8455433714827
+      ],
+      "text": "Reading\n"
+    },
+    {
+      "box": [
+        53.6251712231711,
+        610.0313102233223,
+        506.3763407488496,
+        635.2354734187066
+      ],
+      "text": "This test consists of three sections with 40 questions. There are three texts, which are\ntaken from journals, books, magazines and newspapers. The texts are on topics of general\n"
+    },
+    {
+      "box": [
+        54.344972179186826,
+        638.4634479859432,
+        353.6740942987306,
+        649.2712405957027
+      ],
+      "text": "interest. At least one text contains detailed logical argument.\n"
+    },
+    {
+      "box": [
+        53.98507170117896,
+        652.1396661502419,
+        576.5353774213349,
+        719.4518338072353
+      ],
+      "text": "A variety of question types is used, including: multiple choice, identifying information\nL\n(True/False/Not Given), identifying the writer's views/claims (Yes/No/Not Given), matching\ninformation, matching headings, matching features, matching sentence endings, sentence\ncompletion, summary completion, note completion, table completion, flow-chart completion,\ndiagram-label completion and short-answer questions.\nt\n"
+    },
+    {
+      "box": [
+        575.4808643345677,
+        755.0712028604897,
+        576.5497874990676,
+        766.9598098777562
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        511.77847972717655,
+        773.4261272388906,
+        517.5224772975696,
+        782.0723496111879
+      ],
+      "text": "5\n"
+    },
+    {
+      "box": [
+        575.4808643345677,
+        783.8632411011185,
+        575.8407648125756,
+        785.6645593952624
+      ],
+      "text": "1\n"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "book": 20,
   "test": 2,
   "title": "Cambridge 20 · Test 2",
-  "version": "2026-10-21.2.layout1",
+  "version": "2026-10-21.2.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 3 passages and 40 questions, options, instructions and word limits visually reviewed against supplied PDFs; extraction artifacts corrected. The supplied files are retyped documents, not publisher-certified originals.",
@@ -92,7 +92,72 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": true
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Manatees \n \n     Appearance \n \n● look similar to dugongs, but with a differently shaped ",
+                  {
+                    "number": 1
+                  },
+                  " \n \n     Movement \n \n● have fewer neck bones than most mammals \n● need to use their ",
+                  {
+                    "number": 2
+                  },
+                  " to help to turn their bodies around in order \nto look sideways \n● sense vibrations in the water by means of ",
+                  {
+                    "number": 3
+                  },
+                  " on their skin \n \n      Feeding \n \n● eat mainly aquatic vegetation, such as ",
+                  {
+                    "number": 4
+                  },
+                  " \n● grasp and pull up plants with their ",
+                  {
+                    "number": 5
+                  },
+                  " \n \n      Breathing \n \n● come to the surface for air every 2-4 minutes when awake and every 15-20 \nwhile sleeping \n● may regulate the ",
+                  {
+                    "number": 6
+                  },
+                  " of their bodies by using muscles of \ndiaphragm to store air internally"
+                ],
+                "anchors": [
+                  "cam20-t2-p1-g1-body-0",
+                  "",
+                  "cam20-t2-p1-g1-body-98",
+                  "",
+                  "cam20-t2-p1-g1-body-192",
+                  "",
+                  "cam20-t2-p1-g1-body-311",
+                  "",
+                  "cam20-t2-p1-g1-body-397",
+                  "",
+                  "cam20-t2-p1-g1-body-447",
+                  "",
+                  "cam20-t2-p1-g1-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam20-t2-p1-g2",
@@ -318,7 +383,72 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "What makes us procrastinate? \n \nMany people think that procrastination is the result of ",
+                  {
+                    "number": 17
+                  },
+                  " \nOthers believe it to be the result of an inability to organise time efficiently. \n \nBut scientific studies suggest that procrastination is actually due to poor mood \nmanagement. The tasks we are most likely to put off are those that could \ndamage our self-esteem or cause us to feel ",
+                  {
+                    "number": 18
+                  },
+                  " when we think \nabout them. Research comparing chronic procrastinators with other people \neven found differences in the brain regions associated with regulating emotions \nand identifying ",
+                  {
+                    "number": 19
+                  },
+                  " \n \nEmotionally loaded and difficult tasks often cause us to procrastinate. Getting \nready to take ",
+                  {
+                    "number": 20
+                  },
+                  " might be a typical example of one such task. \n \nPeople who are likely to procrastinate tend to be either ",
+                  {
+                    "number": 21
+                  },
+                  " or \nthose with low self-esteem.  \n \nProcrastination is only a short-term measure for managing emotions. It's often \nfollowed by a feeling of ",
+                  {
+                    "number": 22
+                  },
+                  " which worsens our mood and leads \nto procrastination."
+                ],
+                "anchors": [
+                  "cam20-t2-p2-g2-body-0",
+                  "",
+                  "cam20-t2-p2-g2-body-98",
+                  "",
+                  "cam20-t2-p2-g2-body-393",
+                  "",
+                  "cam20-t2-p2-g2-body-590",
+                  "",
+                  "cam20-t2-p2-g2-body-699",
+                  "",
+                  "cam20-t2-p2-g2-body-815",
+                  "",
+                  "cam20-t2-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam20-t2-p2-g3",
@@ -599,7 +729,64 @@
               "value": "H",
               "label": "perceived area"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Calls by the umpire \n \nEven after ABS was developed, MLB still wanted human umpires to shout out \ndecisions as they had in their ",
+                  {
+                    "number": 33
+                  },
+                  " The umpire's job had, at one \ntime, required a ",
+                  {
+                    "number": 34
+                  },
+                  " about whether a ball was a strike. A ball is \nconsidered a strike when the batter does not hit it and it crosses through a ",
+                  {
+                    "number": 35
+                  },
+                  "  extending approximately from the batter's knee to his chest. \n \nIn the past, ",
+                  {
+                    "number": 36
+                  },
+                  " over strike calls were not uncommon, but today \neveryone accepts the complete ban on pushing or shoving the umpire. One \ndifference, however, is that during the first game DeJesus used ABS, strike calls \nwere met with ",
+                  {
+                    "number": 37
+                  },
+                  ""
+                ],
+                "anchors": [
+                  "cam20-t2-p3-g2-body",
+                  "",
+                  "cam20-t2-p3-g2-body",
+                  "",
+                  "cam20-t2-p3-g2-body",
+                  "",
+                  "cam20-t2-p3-g2-body",
+                  "",
+                  "cam20-t2-p3-g2-body",
+                  "",
+                  "cam20-t2-p3-g2-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  139,
+                  0,
+                  197,
+                  0,
+                  332,
+                  0,
+                  421,
+                  0,
+                  650
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam20-t2-p3-g3",

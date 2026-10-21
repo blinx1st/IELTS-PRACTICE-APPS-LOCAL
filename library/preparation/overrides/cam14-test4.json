@@ -3,7 +3,7 @@
   "book": 14,
   "test": 4,
   "title": "Cambridge 14 · Test 4",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -96,7 +96,110 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Ysabel Giraldo’s research"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Focused on a total of ",
+                  {
+                    "number": 1
+                  },
+                  " different age groups of ants, analysing"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Behaviour:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "how well ants looked after their ",
+                  {
+                    "number": 2
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "their ability to locate ",
+                  {
+                    "number": 3
+                  },
+                  " using a scent trail"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the effect that ",
+                  {
+                    "number": 4
+                  },
+                  " had on them"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "how ",
+                  {
+                    "number": 5
+                  },
+                  " they attacked prey"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Brains:"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "comparison between age and the ",
+                  {
+                    "number": 6
+                  },
+                  " of dying cells in the brains of ants"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "condition of synaptic complexes (areas in which ",
+                  {
+                    "number": 7
+                  },
+                  " meet) in the brain’s ‘mushroom bodies’"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "level of two ",
+                  {
+                    "number": 8
+                  },
+                  " in the brain associated with ageing"
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam14-t4-p1-g2",
@@ -582,7 +685,114 @@
           ],
           "wordLimit": 1,
           "allowNumber": true,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Findings related to marine debris"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Studies of marine debris found the biggest threats were"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "plastic (not metal or wood)"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "bits of debris that were ",
+                  {
+                    "number": 34
+                  },
+                  " (harmful to animals)"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "There was little research into ",
+                  {
+                    "number": 35
+                  },
+                  " e.g. from synthetic fibres."
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Drawbacks of the studies examined"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "most of them focused on individual animals, not entire ",
+                  {
+                    "number": 36
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the ",
+                  {
+                    "number": 37
+                  },
+                  " of plastic used in the lab did not always reflect those in the ocean"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "there was insufficient information on"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– numbers of animals which could be affected"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– the impact of a reduction in numbers on the ",
+                  {
+                    "number": 38
+                  },
+                  " of that species"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– the impact on the ecosystem"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Rochman says more information is needed on the possible impact of future ",
+                  {
+                    "number": 39
+                  },
+                  " (e.g. involving oil)."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam14-t4-p3-g3",

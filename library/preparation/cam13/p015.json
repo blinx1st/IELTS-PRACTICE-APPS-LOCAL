@@ -1,0 +1,120 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 15,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "oe\n—\n——— |\nTest 1\nREADING PASSAGE\n1\nYou should spend about 20 minutes on Questions 1—13, which are based on Reading\nPassage 1 below.\nCase Study: Tourism New Zealand website\nNew Zealand is a small country of four million inhabitants, a long-haul flight from all the\nmajor tourist-generating markets of the world. Tourism currently makes up 9% of the\ncountry’s gross domestic product, and is the country’s largest export sector. Unlike other\nexport sectors, which make products and then sell them overseas, tourism brings its\ncustomers to New Zealand. The product is the country itself\n— the people, the places and\nthe experiences. In 1999, Tourism New Zealand launched a campaign to communicate\na new brand position to the world. The campaign focused on New Zealand’s scenic\nbeauty, exhilarating outdoor activities and authentic Maori culture, and it made New\nZealand one of the strongest national brands in the world.\nA key feature of the campaign was the website www.newzealand.com, which provided\npotential visitors to New Zealand with a single gateway to everything the destination had\nto offer. The heart of the website was a database of tourism services operators, both\nthose based in New Zealand and those based abroad which offered tourism services to\nthe country. Any tourism-related business could be listed by filling in a simple form. This\nmeant that even the smallest bed and breakfast address or specialist activity provider\ncould gain a web presence with access to an audience of long-haul visitors. In addition,\nbecause participating businesses were able to update the details they gave ona\nregular basis, the information provided remained accurate. And to maintain and improve\nstandards, Tourism New Zealand organised a scheme whereby organisations appearing\non the website underwent an independent evaluation against a set of agreed national\nstandards of quality. As part of this, the effect of each business on the environment was\nconsidered.\nFB.com/LouisQuang Vo\nTo communicate the New Zealand experience, the site also carried features relating\nto famous people and places. One of the most popular was an interview with former\nNew Zealand All Blacks rugby captain Tana Umaga. Another feature that attracted a\nlot of attention was an interactive journey through a number of the locations chosen\nfor blockbuster films which had made use of New Zealand’s stunning scenery as a\nbackdrop. As the site developed, additional features were added to help independent\ntravellers devise their own customised itineraries. To make it easier to plan motoring\nholidays, the site catalogued the most popular driving routes in the country, highlighting\ndifferent routes according to the season and indicating distances and times.\n16\n",
+  "blocks": [
+    {
+      "box": [
+        39.2400016784668,
+        25.20001220703125,
+        595.7886962890625,
+        30.605375289916992
+      ],
+      "text": "oe\n—\n——— |\n"
+    },
+    {
+      "box": [
+        92.52000427246094,
+        64.44000244140625,
+        124.51500701904297,
+        73.44900512695312
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        91.44001007080078,
+        152.280029296875,
+        267.8111572265625,
+        163.81150817871094
+      ],
+      "text": "READING PASSAGE\n1\n"
+    },
+    {
+      "box": [
+        90.72000122070312,
+        182.8800048828125,
+        567.3399658203125,
+        209.5319061279297
+      ],
+      "text": "You should spend about 20 minutes on Questions 1—13, which are based on Reading\nPassage 1 below.\n"
+    },
+    {
+      "box": [
+        127.80000305175781,
+        234.719970703125,
+        538.6427612304688,
+        254.17941284179688
+      ],
+      "text": "Case Study: Tourism New Zealand website\n"
+    },
+    {
+      "box": [
+        89.6400146484375,
+        277.20001220703125,
+        573.6240844726562,
+        348.49261474609375
+      ],
+      "text": "New Zealand is a small country of four million inhabitants, a long-haul flight from all the\nmajor tourist-generating markets of the world. Tourism currently makes up 9% of the\ncountry’s gross domestic product, and is the country’s largest export sector. Unlike other\nexport sectors, which make products and then sell them overseas, tourism brings its\ncustomers to New Zealand. The product is the country itself\n"
+    },
+    {
+      "box": [
+        88.9200439453125,
+        334.44000244140625,
+        575.8560791015625,
+        406.4522399902344
+      ],
+      "text": "— the people, the places and\nthe experiences. In 1999, Tourism New Zealand launched a campaign to communicate\na new brand position to the world. The campaign focused on New Zealand’s scenic\nbeauty, exhilarating outdoor activities and authentic Maori culture, and it made New\nZealand one of the strongest national brands in the world.\n"
+    },
+    {
+      "box": [
+        88.20004272460938,
+        431.2799987792969,
+        560.7935791015625,
+        444.6133117675781
+      ],
+      "text": "A key feature of the campaign was the website www.newzealand.com, which provided\n"
+    },
+    {
+      "box": [
+        87.48013305664062,
+        446.3999938964844,
+        575.64013671875,
+        624.2579956054688
+      ],
+      "text": "potential visitors to New Zealand with a single gateway to everything the destination had\nto offer. The heart of the website was a database of tourism services operators, both\nthose based in New Zealand and those based abroad which offered tourism services to\nthe country. Any tourism-related business could be listed by filling in a simple form. This\nmeant that even the smallest bed and breakfast address or specialist activity provider\ncould gain a web presence with access to an audience of long-haul visitors. In addition,\nbecause participating businesses were able to update the details they gave ona\nregular basis, the information provided remained accurate. And to maintain and improve\nstandards, Tourism New Zealand organised a scheme whereby organisations appearing\non the website underwent an independent evaluation against a set of agreed national\nstandards of quality. As part of this, the effect of each business on the environment was\nconsidered.\nFB.com/LouisQuang Vo\n"
+    },
+    {
+      "box": [
+        87.1201171875,
+        644.4000244140625,
+        546.7321166992188,
+        671.7725830078125
+      ],
+      "text": "To communicate the New Zealand experience, the site also carried features relating\nto famous people and places. One of the most popular was an interview with former\n"
+    },
+    {
+      "box": [
+        86.7601318359375,
+        673.9200439453125,
+        560.90185546875,
+        774.37255859375
+      ],
+      "text": "New Zealand All Blacks rugby captain Tana Umaga. Another feature that attracted a\nlot of attention was an interactive journey through a number of the locations chosen\nfor blockbuster films which had made use of New Zealand’s stunning scenery as a\nbackdrop. As the site developed, additional features were added to help independent\ntravellers devise their own customised itineraries. To make it easier to plan motoring\nholidays, the site catalogued the most popular driving routes in the country, highlighting\ndifferent routes according to the season and indicating distances and times.\n"
+    },
+    {
+      "box": [
+        87.48013305664062,
+        781.9199829101562,
+        99.34933471679688,
+        789.487548828125
+      ],
+      "text": "16\n"
+    }
+  ]
+}

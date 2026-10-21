@@ -3,7 +3,7 @@
   "book": 14,
   "test": 2,
   "title": "Cambridge 14 · Test 2",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -143,7 +143,116 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Alexander Henderson"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Early life"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "was born in Scotland in 1831 – father was a ",
+                  {
+                    "number": 9
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "trained as an accountant, emigrated to Canada in 1855"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Start of a photographic career"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "opened up a photographic studio in 1866"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "took photos of city life, but preferred landscape photography"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "people bought Henderson’s photos because photography took up considerable time and the ",
+                  {
+                    "number": 10
+                  },
+                  " was heavy"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "the photographs Henderson sold were ",
+                  {
+                    "number": 11
+                  },
+                  " or souvenirs"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Travelling as a professional photographer"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "travelled widely in Quebec and Ontario in 1870s and 1880s"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "took many trips along eastern rivers in a ",
+                  {
+                    "number": 12
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "worked for Canadian railways between 1875 and 1897"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "worked for CPR in 1885 and photographed the ",
+                  {
+                    "number": 13
+                  },
+                  " and the railway at Rogers Pass"
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -418,7 +527,62 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Ventilation in 19th-century hospital wards"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Professor Alan Short examined the work of John Shaw Billings, who influenced the architectural ",
+                  {
+                    "number": 19
+                  },
+                  " of hospitals to ensure they had good ventilation. He calculated that ",
+                  {
+                    "number": 20
+                  },
+                  " in the air coming from patients suffering from ",
+                  {
+                    "number": 21
+                  },
+                  " would not have harmed other patients. He also found that the air in ",
+                  {
+                    "number": 22
+                  },
+                  " in hospitals could change as often as in a modern operating theatre. He suggests that energy use could be reduced by locating more patients in ",
+                  {
+                    "number": 23
+                  },
+                  " areas."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A major reason for improving ventilation in 19th-century hospitals was the demand from the ",
+                  {
+                    "number": 24
+                  },
+                  " for protection against bad air, known as ",
+                  {
+                    "number": 25
+                  },
+                  ". These were blamed for the spread of disease for hundreds of years, including epidemics of ",
+                  {
+                    "number": 26
+                  },
+                  " in London and Paris in the middle of the 19th century."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -668,7 +832,42 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Numerous training sessions are aimed at people who feel they are not ",
+                  {
+                    "number": 35
+                  },
+                  " enough."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Being organised appeals to people who regard themselves as ",
+                  {
+                    "number": 36
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Many people feel ",
+                  {
+                    "number": 37
+                  },
+                  " with aspects of their work."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam14-t2-p3-g3",

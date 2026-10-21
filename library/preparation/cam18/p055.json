@@ -1,0 +1,93 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 55,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Writing\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome university students want to learn about other subjects in addition to\ntheir main subjects. Others believe it is more important to give all their time\nand attention to studying for a qualification.\nDiscuss both these views and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n|B p. 131]\n53\n",
+  "blocks": [
+    {
+      "box": [
+        51.58355712890625,
+        659.2100219726562,
+        84.57180786132812,
+        668.9364624023438
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        360.2687683105469,
+        624.30126953125,
+        483.3190002441406,
+        634.3880004882812
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        247.41757202148438,
+        596.5897827148438,
+        483.3190002441406,
+        607.39697265625
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        334.47259521484375,
+        570.6787719726562,
+        483.3190002441406,
+        581.125732421875
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        76.02110290527344,
+        511.2981872558594,
+        471.08306884765625,
+        548.3766479492188
+      ],
+      "text": "Some university students want to learn about other subjects in addition to\ntheir main subjects. Others believe it is more important to give all their time\nand attention to studying for a qualification.\n"
+    },
+    {
+      "box": [
+        192.5358123779297,
+        485.7467041015625,
+        471.08306884765625,
+        496.55389404296875
+      ],
+      "text": "Discuss both these views and give your own opinion.\n"
+    },
+    {
+      "box": [
+        94.09245300292969,
+        438.6023864746094,
+        482.5992431640625,
+        463.0850524902344
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        362.4567565917969,
+        414.8524475097656,
+        482.5992126464844,
+        423.49822998046875
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        49.7641716003418,
+        22.22037124633789,
+        139.99334716796875,
+        33.74805450439453
+      ],
+      "text": "|B p. 131]\n53\n"
+    }
+  ]
+}

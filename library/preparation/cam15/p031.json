@@ -1,0 +1,147 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 31,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Writing\nWRITING TASK 2\n:\nYou should spend about 40 minutes on this task.\n;\nWrite about the following topic:\nin some countries, owning a home rather than renting one is very important\nforpeople.\n|\nWhy might this be the case?\nDo you think this is a positive or negative situation?\n|\ni\nGive reasons for your answer and include any relevant examples from your own\n:\nknowledge or experience.\n|\nWrite at least 250 words.\n|\n|\n|\n|\n|\n||\n>/%\np. 128\n29\n:\n",
+  "blocks": [
+    {
+      "box": [
+        478.3077352724456,
+        86.7360151998942,
+        515.0139522210383,
+        97.90408904174797
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        50.745967399108224,
+        123.08596347868803,
+        575.4556759873113,
+        134.25403732054178
+      ],
+      "text": "WRITING TASK 2\n:\n"
+    },
+    {
+      "box": [
+        51.10586787711608,
+        147.5591959832225,
+        576.5029840352121,
+        164.8516993053687
+      ],
+      "text": "You should spend about 40 minutes on this task.\n;\n"
+    },
+    {
+      "box": [
+        51.10586787711608,
+        180.31013948193774,
+        210.99165523210777,
+        192.19873185481626
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        64.06228508539904,
+        219.8991920628023,
+        489.63379277139364,
+        231.78778443568083
+      ],
+      "text": "in some countries, owning a home rather than renting one is very important\n"
+    },
+    {
+      "box": [
+        64.06228508539904,
+        232.85560927108526,
+        575.4718433915968,
+        273.53587377489407
+      ],
+      "text": "forpeople.\n|\nWhy might this be the case?\n"
+    },
+    {
+      "box": [
+        64.06228508539904,
+        277.48326854405985,
+        576.5605657685913,
+        312.40081994968864
+      ],
+      "text": "Do you think this is a positive or negative situation?\n|\ni\n"
+    },
+    {
+      "box": [
+        51.46576835512394,
+        326.0698330751209,
+        576.5461556908585,
+        351.99455873469395
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\n:\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        51.10586787711608,
+        357.3811746618047,
+        576.5605657685913,
+        377.90522578184476
+      ],
+      "text": "|\nWrite at least 250 words.\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        412.44594779700725,
+        577.5934637387594,
+        427.93713282500966
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        575.1209638565599,
+        452.75480133388754,
+        576.5461556908585,
+        464.64340835115405
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        531.5730060176088,
+        577.6096897205966,
+        542.0205466840499
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        544.1695227478839,
+        577.6258571248821,
+        550.6542334602707
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        576.2006652905835,
+        551.3675323080412,
+        577.6258571248821,
+        557.8522430204279
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        412.0860473189994,
+        750.7523971243954,
+        576.5605657685913,
+        787.4737856588937
+      ],
+      "text": "||\n>/%\np. 128\n29\n:\n"
+    }
+  ]
+}

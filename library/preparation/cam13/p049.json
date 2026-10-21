@@ -1,0 +1,120 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 49,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 2\nQuestions 38-40\nFB.com/LouisQuangVo\nComplete each sentence with the correct ending, A, B, C or D below.\nWrite the correct letter, A, B, C or D, in boxes 38-40 on your answer sheet.\n38\nIf there are any trend-related changes impacting on your category, you should\n39\nIf acurrent trend highlights a negative aspect of your category, you should\n40\nIf the consumers’ new focus has an increasing lack of connection with your offering,\nyou should\nFB.com/LouisQuang Vo\nA\nemploy a combination of strategies to maintain your consumer base.\nB __ identify the most appropriate innovation strategy to use.\nC\nemphasise your brand's traditional values with the counteract-and-\naffirm strategy.\nD\n_use the combine-and-transcend strategy to integrate the two worlds.\n50\n",
+  "blocks": [
+    {
+      "box": [
+        99.72000122070312,
+        59.760009765625,
+        131.71498107910156,
+        69.48970031738281
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        99.36000061035156,
+        96.1199951171875,
+        354.6320495605469,
+        110.17401123046875
+      ],
+      "text": "Questions 38-40\nFB.com/LouisQuangVo\n"
+    },
+    {
+      "box": [
+        99.36000061035156,
+        125.6400146484375,
+        478.94384765625,
+        140.05438232421875
+      ],
+      "text": "Complete each sentence with the correct ending, A, B, C or D below.\n"
+    },
+    {
+      "box": [
+        100.08001708984375,
+        154.44000244140625,
+        513.2015991210938,
+        167.41297912597656
+      ],
+      "text": "Write the correct letter, A, B, C or D, in boxes 38-40 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        99.3599853515625,
+        182.8800048828125,
+        555.314453125,
+        198.01512145996094
+      ],
+      "text": "38\nIf there are any trend-related changes impacting on your category, you should\n"
+    },
+    {
+      "box": [
+        99.3599853515625,
+        205.91998291015625,
+        535.10400390625,
+        220.33441162109375
+      ],
+      "text": "39\nIf acurrent trend highlights a negative aspect of your category, you should\n"
+    },
+    {
+      "box": [
+        99.35995483398438,
+        228.239990234375,
+        587.05224609375,
+        258.4918518066406
+      ],
+      "text": "40\nIf the consumers’ new focus has an increasing lack of connection with your offering,\nyou should\n"
+    },
+    {
+      "box": [
+        214.5600128173828,
+        262.08001708984375,
+        309.153564453125,
+        272.1700439453125
+      ],
+      "text": "FB.com/LouisQuang Vo\n"
+    },
+    {
+      "box": [
+        133.55999755859375,
+        284.760009765625,
+        538.1820068359375,
+        299.5347595214844
+      ],
+      "text": "A\nemploy a combination of strategies to maintain your consumer base.\n"
+    },
+    {
+      "box": [
+        134.27999877929688,
+        307.0799865722656,
+        528.0661010742188,
+        359.2911682128906
+      ],
+      "text": "B __ identify the most appropriate innovation strategy to use.\nC\nemphasise your brand's traditional values with the counteract-and-\naffirm strategy.\n"
+    },
+    {
+      "box": [
+        134.99998474121094,
+        367.55999755859375,
+        537.2947387695312,
+        380.893310546875
+      ],
+      "text": "D\n_use the combine-and-transcend strategy to integrate the two worlds.\n"
+    },
+    {
+      "box": [
+        103.67996215820312,
+        781.9199829101562,
+        116.22956848144531,
+        789.487548828125
+      ],
+      "text": "50\n"
+    }
+  ]
+}

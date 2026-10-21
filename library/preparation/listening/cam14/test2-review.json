@@ -1,0 +1,102 @@
+{
+  "id": "cam14-listening-test2",
+  "questions": 40,
+  "parts": 4,
+  "groups": 6,
+  "sourcePages": [
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "page": 24
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "page": 25
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "page": 26
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "page": 27
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "page": 28
+    },
+    {
+      "file": "Tài liệu Cambridge/CAMBRIDGE-14/BAN_GOC/14 cambridge.pdf",
+      "page": 29
+    }
+  ],
+  "audio": [
+    {
+      "url": "/library-audio/39f8e825e45596fbac72e053e47d845dbc98b2ae990b32d7d4454478459e5bb2.mp3",
+      "sha256": "39f8e825e45596fbac72e053e47d845dbc98b2ae990b32d7d4454478459e5bb2",
+      "duration": 462.151,
+      "start": 48.28,
+      "end": 462.151,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S1.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam14/t2-p1-audio-asr.json",
+        "note": "Paper answer-transfer instruction excluded from Part4; original reading/checking pauses retained."
+      }
+    },
+    {
+      "url": "/library-audio/540e4275e303ca5f4cb2bb2b3cb30209e6219b02e39bcc318a40e0751ce23c05.mp3",
+      "sha256": "540e4275e303ca5f4cb2bb2b3cb30209e6219b02e39bcc318a40e0751ce23c05",
+      "duration": 443.229,
+      "start": 0,
+      "end": 443.229,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S2.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam14/t2-p2-audio-asr.json",
+        "note": "Paper answer-transfer instruction excluded from Part4; original reading/checking pauses retained."
+      }
+    },
+    {
+      "url": "/library-audio/c21a6775fd56b4b4c28229f1f37404fe7b2fa54fd10abd7c85a37c8127ea1648.mp3",
+      "sha256": "c21a6775fd56b4b4c28229f1f37404fe7b2fa54fd10abd7c85a37c8127ea1648",
+      "duration": 462.045,
+      "start": 0,
+      "end": 462.045,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S3.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam14/t2-p3-audio-asr.json",
+        "note": "Paper answer-transfer instruction excluded from Part4; original reading/checking pauses retained."
+      }
+    },
+    {
+      "url": "/library-audio/08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90.mp3",
+      "sha256": "08af39e570358cddf325d88dbe3438129dd880d1f788f306024f610e4573ae90",
+      "duration": 1040.924,
+      "start": 0,
+      "end": 505.12,
+      "source": "Tài liệu Cambridge/CAMBRIDGE-14/Cambridge IELTS 14 Audio/C14T2S4.mp3",
+      "verification": {
+        "status": "verified",
+        "method": "local-ASR-opening-and-ending-compared-to-source-script-and-questions",
+        "proof": "preparation/listening/cam14/t2-p4-audio-asr.json",
+        "note": "Appended next test excluded at 505.12s; source file remains unchanged."
+      }
+    }
+  ],
+  "keyPage": 91,
+  "transcriptCharacters": {
+    "1": 3586,
+    "2": 4236,
+    "3": 4298,
+    "4": 4374
+  },
+  "limitExceptions": {
+    "6": [
+      "three weeks"
+    ]
+  }
+}

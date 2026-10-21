@@ -3,7 +3,7 @@
   "book": 14,
   "test": 1,
   "title": "Cambridge 14 · Test 1",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -132,7 +132,122 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Children’s play"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Uses of children’s play"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "building a ‘magical kingdom’ may help develop ",
+                  {
+                    "number": 1
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "board games involve ",
+                  {
+                    "number": 2
+                  },
+                  " and turn-taking"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Recent changes affecting children’s play"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "populations of ",
+                  {
+                    "number": 3
+                  },
+                  " have grown"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "opportunities for free play are limited due to"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– fear of ",
+                  {
+                    "number": 4
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– fear of ",
+                  {
+                    "number": 5
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "– increased ",
+                  {
+                    "number": 6
+                  },
+                  " in schools"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "International policies on children’s play"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "it is difficult to find ",
+                  {
+                    "number": 7
+                  },
+                  " to support new policies"
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  "research needs to study the impact of play on the rest of the child’s ",
+                  {
+                    "number": 8
+                  },
+                  ""
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam14-t1-p1-g2",
@@ -460,7 +575,46 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The first urban bike-sharing scheme"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The first bike-sharing scheme was the idea of the Dutch group Provo. The people who belonged to this group were ",
+                  {
+                    "number": 23
+                  },
+                  ". They were concerned about damage to the environment and about ",
+                  {
+                    "number": 24
+                  },
+                  ", and believed that the bike-sharing scheme would draw attention to these issues. As well as painting some bikes white, they handed out ",
+                  {
+                    "number": 25
+                  },
+                  " that condemned the use of cars."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "However, the scheme was not a great success: almost as quickly as Provo left the bikes around the city, the ",
+                  {
+                    "number": 26
+                  },
+                  " took them away. According to Schimmelpennink, the scheme was intended to be symbolic. The idea was to get people thinking about the issues."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -679,7 +833,44 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Fun at work"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Tews, Michel and Stafford carried out research on staff in an American chain of ",
+                  {
+                    "number": 36
+                  },
+                  ". They discovered that activities designed for staff to have fun improved their ",
+                  {
+                    "number": 37
+                  },
+                  ", and that management involvement led to lower staff ",
+                  {
+                    "number": 38
+                  },
+                  ". They also found that the activities needed to fit with both the company’s ",
+                  {
+                    "number": 39
+                  },
+                  " and the ",
+                  {
+                    "number": 40
+                  },
+                  " of the staff. A balance was required between a degree of freedom and maintaining work standards."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

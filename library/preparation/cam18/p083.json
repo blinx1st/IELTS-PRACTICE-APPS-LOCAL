@@ -1,0 +1,264 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 83,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "Listening\nPART 3\nQuestions 21-30\nQuestions 21 and 22\nChoose TWO letters, A-E.\nWhich TWO educational skills were shown in the video of children doing origami?\nA _ solving problems\nB__\nfollowing instructions\n:\nC_\nworking cooperatively\nD\nlearning through play\nE\ndeveloping hand-eye coordination\nQuestions 23-27\nWhich comment do the students make about each of the following children in the video?\nChoose FIVE answers from the box and write the correct letter, A-G, next to\nQuestions 23-27.\nComments\nA\ndemonstrated independence\nB\nasked for teacher support\nC_\ndeveloped a competitive attitude\nD\nseemed to find the activity calming\nE\nseemed pleased with the results\nF\nseemed confused\nG__\nseemed to find the activity easy\nChildren\n24\nJack\nsevseetnsseeneeeene\n25\nNaomi\nsessetneeeeeeeetee\n26\nAnya\ncoven TT\n27\nZara\neseeneennteeeee\n81\n",
+  "blocks": [
+    {
+      "box": [
+        49.56109619140625,
+        658.13037109375,
+        92.84902954101562,
+        667.8568115234375
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        295.3087158203125,
+        621.7810668945312,
+        481.1596984863281,
+        632.948486328125
+      ],
+      "text": "PART 3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        370.7340393066406,
+        595.8707275390625,
+        480.7998046875,
+        605.9574584960938
+      ],
+      "text": "Questions 21 and 22\n"
+    },
+    {
+      "box": [
+        352.3226013183594,
+        569.9600830078125,
+        480.7998046875,
+        579.3262939453125
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        84.98912811279297,
+        543.327880859375,
+        481.87945556640625,
+        553.7748413085938
+      ],
+      "text": "Which TWO educational skills were shown in the video of children doing origami?\n"
+    },
+    {
+      "box": [
+        351.300537109375,
+        520.2926635742188,
+        457.4075927734375,
+        533.6215209960938
+      ],
+      "text": "A _ solving problems\n"
+    },
+    {
+      "box": [
+        159.78675842285156,
+        508.7790222167969,
+        456.6878356933594,
+        519.5862426757812
+      ],
+      "text": "B__\nfollowing instructions\n:\n"
+    },
+    {
+      "box": [
+        327.346923828125,
+        495.8233337402344,
+        457.0477294921875,
+        506.63055419921875
+      ],
+      "text": "C_\nworking cooperatively\n"
+    },
+    {
+      "box": [
+        330.15399169921875,
+        482.8676452636719,
+        456.6878662109375,
+        493.67486572265625
+      ],
+      "text": "D\nlearning through play\n"
+    },
+    {
+      "box": [
+        268.225830078125,
+        469.9115905761719,
+        456.3279724121094,
+        481.07904052734375
+      ],
+      "text": "E\ndeveloping hand-eye coordination\n"
+    },
+    {
+      "box": [
+        389.498291015625,
+        432.48516845703125,
+        480.080078125,
+        442.5718688964844
+      ],
+      "text": "Questions 23-27\n"
+    },
+    {
+      "box": [
+        51.390724182128906,
+        405.8533020019531,
+        480.7998352050781,
+        416.6605224609375
+      ],
+      "text": "Which comment do the students make about each of the following children in the video?\n"
+    },
+    {
+      "box": [
+        107.6185073852539,
+        380.3025207519531,
+        479.7201843261719,
+        390.3892517089844
+      ],
+      "text": "Choose FIVE answers from the box and write the correct letter, A-G, next to\n"
+    },
+    {
+      "box": [
+        394.96844482421875,
+        365.1886291503906,
+        479.7201843261719,
+        374.19464111328125
+      ],
+      "text": "Questions 23-27.\n"
+    },
+    {
+      "box": [
+        235.90859985351562,
+        330.640869140625,
+        291.8627624511719,
+        338.9263916015625
+      ],
+      "text": "Comments\n"
+    },
+    {
+      "box": [
+        196.91207885742188,
+        308.6864013671875,
+        360.599853515625,
+        318.7731018066406
+      ],
+      "text": "A\ndemonstrated independence\n"
+    },
+    {
+      "box": [
+        211.2783660888672,
+        288.5331115722656,
+        359.880126953125,
+        298.61981201171875
+      ],
+      "text": "B\nasked for teacher support\n"
+    },
+    {
+      "box": [
+        178.78846740722656,
+        268.01922607421875,
+        359.880126953125,
+        278.826416015625
+      ],
+      "text": "C_\ndeveloped a competitive attitude\n"
+    },
+    {
+      "box": [
+        168.23843383789062,
+        248.58604431152344,
+        359.880126953125,
+        259.03302001953125
+      ],
+      "text": "D\nseemed to find the activity calming\n"
+    },
+    {
+      "box": [
+        179.11593627929688,
+        228.43276977539062,
+        359.5202331542969,
+        238.8797149658203
+      ],
+      "text": "E\nseemed pleased with the results\n"
+    },
+    {
+      "box": [
+        249.77113342285156,
+        210.08067321777344,
+        359.5202331542969,
+        218.7264404296875
+      ],
+      "text": "F\nseemed confused\n"
+    },
+    {
+      "box": [
+        182.20005798339844,
+        188.8463134765625,
+        359.880126953125,
+        198.9330291748047
+      ],
+      "text": "G__\nseemed to find the activity easy\n"
+    },
+    {
+      "box": [
+        387.4037170410156,
+        147.82177734375,
+        430.7764892578125,
+        156.10728454589844
+      ],
+      "text": "Children\n"
+    },
+    {
+      "box": [
+        328.2143249511719,
+        104.63615417480469,
+        454.8884582519531,
+        112.92167663574219
+      ],
+      "text": "24\nJack\nsevseetnsseeneeeene\n"
+    },
+    {
+      "box": [
+        328.2142333984375,
+        83.04335021972656,
+        454.8884582519531,
+        91.32887268066406
+      ],
+      "text": "25\nNaomi\nsessetneeeeeeeetee\n"
+    },
+    {
+      "box": [
+        327.92279052734375,
+        60.72861862182617,
+        454.528564453125,
+        71.17557525634766
+      ],
+      "text": "26\nAnya\ncoven TT\n"
+    },
+    {
+      "box": [
+        328.4625549316406,
+        41.2972526550293,
+        454.528564453125,
+        49.58277130126953
+      ],
+      "text": "27\nZara\neseeneennteeeee\n"
+    },
+    {
+      "box": [
+        47.20546340942383,
+        23.663122177124023,
+        57.220916748046875,
+        31.94864273071289
+      ],
+      "text": "81\n"
+    }
+  ]
+}

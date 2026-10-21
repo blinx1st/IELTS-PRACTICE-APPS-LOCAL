@@ -1,0 +1,30 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 1,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 257.25,
+  "height": 328.5000305175781,
+  "text": "@O CAMBRIDGE\n@\nE\nWITH ANSWERS\n",
+  "blocks": [
+    {
+      "box": [
+        17.629718780517578,
+        15.470983505249023,
+        235.5510711669922,
+        43.56270217895508
+      ],
+      "text": "@O CAMBRIDGE\n@\n"
+    },
+    {
+      "box": [
+        33.46048355102539,
+        169.46119689941406,
+        154.6953887939453,
+        189.61878967285156
+      ],
+      "text": "E\nWITH ANSWERS\n"
+    }
+  ]
+}

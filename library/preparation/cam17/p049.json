@@ -1,0 +1,156 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 49,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hem fa\nah ve\nBE, EAURERORAER\nreps\nBy\nTest 3\nRee a\na 1718867188\nPART 3\nQuestions 21-30\nReh\nBreech\nGi)\nQuestions 21-24\nene”\nChoose the correct letter, A, B or C.\nListening test audio\nHolly’s Work Placement Tutorial\n21\nHolly has chosen the Orion Stadium placement because\nA _\nitinvolves children.\nB __\nitis outdoors.\nC\nit sounds like fun.\n22\nWhich aspect of safety does Dr Green emphasise most?\nA — ensuring children stay in the stadium\nB_\nchecking the equipment children will use\nC\nremoving obstacles in changing rooms\n23\nWhat does Dr Green say about the spectators?\nA__\nThey can be hard to manage.\nB_\nThey make useful volunteers.\nC_\nThey shouldn't take photographs.\n24\nWhat has affected the schedule in the past?\nA__ bad weather\nBan injury\nC_\nextra time\n56\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        64.45471954345703
+      ],
+      "text": "hem fa\nah ve\nBE, EAURERORAER\nreps\nBy\nTest 3\nRee a\na 1718867188\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        74.14505004882812,
+        508.00518798828125,
+        124.5489501953125
+      ],
+      "text": "PART 3\nQuestions 21-30\nReh\nBreech\nGi)\nQuestions 21-24\nene”\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        133.5330810546875,
+        512.5186767578125,
+        149.02542114257812
+      ],
+      "text": "Choose the correct letter, A, B or C.\nListening test audio\n"
+    },
+    {
+      "box": [
+        180.6835479736328,
+        168.80596923828125,
+        423.0010681152344,
+        183.9380340576172
+      ],
+      "text": "Holly’s Work Placement Tutorial\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        193.64097595214844,
+        389.9273681640625,
+        204.8098602294922
+      ],
+      "text": "21\nHolly has chosen the Orion Stadium placement because\n"
+    },
+    {
+      "box": [
+        96.10059356689453,
+        214.1568145751953,
+        220.39810180664062,
+        251.95785522460938
+      ],
+      "text": "A _\nitinvolves children.\nB __\nitis outdoors.\nC\nit sounds like fun.\n"
+    },
+    {
+      "box": [
+        70.54573059082031,
+        264.9066162109375,
+        391.3312072753906,
+        276.0755615234375
+      ],
+      "text": "22\nWhich aspect of safety does Dr Green emphasise most?\n"
+    },
+    {
+      "box": [
+        96.1005630493164,
+        285.4224548339844,
+        313.1114807128906,
+        299.4736328125
+      ],
+      "text": "A — ensuring children stay in the stadium\n"
+    },
+    {
+      "box": [
+        96.46051025390625,
+        300.8993225097656,
+        333.27471923828125,
+        325.7454833984375
+      ],
+      "text": "B_\nchecking the equipment children will use\nC\nremoving obstacles in changing rooms\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        336.1722412109375,
+        342.069580078125,
+        347.34112548828125
+      ],
+      "text": "23\nWhat does Dr Green say about the spectators?\n"
+    },
+    {
+      "box": [
+        96.10059356689453,
+        357.7678527832031,
+        275.66845703125,
+        368.5765075683594
+      ],
+      "text": "A__\nThey can be hard to manage.\n"
+    },
+    {
+      "box": [
+        96.8204345703125,
+        371.8050537109375,
+        275.29412841796875,
+        382.9739685058594
+      ],
+      "text": "B_\nThey make useful volunteers.\n"
+    },
+    {
+      "box": [
+        96.46051788330078,
+        385.84222412109375,
+        295.50048828125,
+        397.0111389160156
+      ],
+      "text": "C_\nThey shouldn't take photographs.\n"
+    },
+    {
+      "box": [
+        70.54573059082031,
+        407.07794189453125,
+        325.35638427734375,
+        418.2468566894531
+      ],
+      "text": "24\nWhat has affected the schedule in the past?\n"
+    },
+    {
+      "box": [
+        96.1005630493164,
+        427.59381103515625,
+        186.37030029296875,
+        465.39483642578125
+      ],
+      "text": "A__ bad weather\nBan injury\nC_\nextra time\n"
+    },
+    {
+      "box": [
+        70.54570007324219,
+        731.0126342773438,
+        82.71484375,
+        739.2992553710938
+      ],
+      "text": "56\n"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 2,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "& CAMBRIDGE\nAcademic\n‘9\nWFi-EB\nBT Rae\nAuthentic Practice Tests\n“EA\nProduced by Cambridge University Press & Assessment\nUMAAFLMRASSLBRS WE\n",
+  "blocks": [
+    {
+      "box": [
+        37.7914924621582,
+        34.91215133666992,
+        196.90451049804688,
+        54.36721420288086
+      ],
+      "text": "& CAMBRIDGE\n"
+    },
+    {
+      "box": [
+        41.39067459106445,
+        237.9064483642578,
+        471.3714904785156,
+        335.8421936035156
+      ],
+      "text": "Academic\n‘9\nWFi-EB\nBT Rae\n"
+    },
+    {
+      "box": [
+        42.11051559448242,
+        343.36273193359375,
+        431.9513244628906,
+        386.23590087890625
+      ],
+      "text": "Authentic Practice Tests\n“EA\n"
+    },
+    {
+      "box": [
+        42.47045135498047,
+        395.910888671875,
+        314.875244140625,
+        407.0795593261719
+      ],
+      "text": "Produced by Cambridge University Press & Assessment\n"
+    },
+    {
+      "box": [
+        42.110530853271484,
+        423.26470947265625,
+        218.7228240966797,
+        434.0730895996094
+      ],
+      "text": "UMAAFLMRASSLBRS WE\n"
+    }
+  ]
+}

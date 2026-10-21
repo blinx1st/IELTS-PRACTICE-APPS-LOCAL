@@ -3,7 +3,7 @@
   "book": 18,
   "test": 1,
   "title": "Cambridge 18 · Test 1",
-  "version": "2026-10-21.5.layout1",
+  "version": "2026-10-21.5.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots in this book were compared with the supplied PDFs. Source-image task layouts and native options, numbering and word limits were checked separately.",
@@ -76,7 +76,48 @@
           ],
           "wordLimit": 2,
           "allowNumber": true,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Urban farming in Paris"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Vertical tubes are used to grow strawberries, ",
+                  {
+                    "number": 1
+                  },
+                  " and herbs."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "There will eventually be a daily harvest of as much as ",
+                  {
+                    "number": 2
+                  },
+                  " in weight of fruit and vegetables."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "It may be possible that the farm’s produce will account for as much as 10% of the city’s ",
+                  {
+                    "number": 3
+                  },
+                  " overall."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam18-t1-p1-g2",
@@ -509,7 +550,62 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Some dead wood is removed to avoid the possibility of ",
+                  {
+                    "number": 22
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The ",
+                  {
+                    "number": 23
+                  },
+                  " from the tops of cut trees can help improve soil quality."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Some damaged trees should be left, as their ",
+                  {
+                    "number": 24
+                  },
+                  " provide habitats for a range of creatures."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Some trees that are small, such as ",
+                  {
+                    "number": 25
+                  },
+                  ", are a source of food for animals and insects."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Any trees that are ",
+                  {
+                    "number": 26
+                  },
+                  " should be left to grow, as they add to the variety of species in the forest."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -718,7 +814,46 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The Inter-Agency Space Debris Coordination Committee"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The committee gives advice on how the ",
+                  {
+                    "number": 32
+                  },
+                  " of space can be achieved. The committee advises that when satellites are no longer active, any unused ",
+                  {
+                    "number": 33
+                  },
+                  " or pressurised material that could cause ",
+                  {
+                    "number": 34
+                  },
+                  " should be removed."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Although operators of large satellite constellations accept that they have obligations as stewards of space, Holger Krag points out that the operators that become ",
+                  {
+                    "number": 35
+                  },
+                  " are unlikely to prioritise removing their satellites from space."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam18-t1-p3-g3",

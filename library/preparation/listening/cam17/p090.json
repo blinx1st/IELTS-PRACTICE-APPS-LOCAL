@@ -1,0 +1,129 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 90,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "ah ae\nRE, RHBRERORRTR\nEth 2\nia 1718867188\neee\nPETER:\nThe island’s a great place to explore. It’s quite small, and it’s got a range of\nhabitats. It’s also an ideal location for seeing seals just off the coast, or even on\nthe beach.\nJAN:\nOK. And is there anything we should bring, like a picnic, for instance?\nPETER:\nYes, do bring one, as it’s a full-day walk. And of course it'll be wet walking across\nand back, so make sure your boots are waterproof.\nQ7\nJAN:\n| must buy a new pair — there’s a hole in one of my current ones! Well, I’d\ndefinitely like to come on the walk.\nPETER:\nGreat. Then later this month we’re having a one-day woodwork session in\nHopton Wood.\nJAN!\nI’ve never tried that before. Is it OK for beginners to take part?\nQ8\nPETER:\nDefinitely. There'll be a couple of experts leading the session, and we keep the\nnumber of participants down, so you'll get as much help as you need.\nJAN:\nExcellent! I'd love to be able to make chairs.\nPETER:\nThat's probably too ambitious for one day! You'll be starting with wooden spoons,\nQ9\nand of course learning how to use the tools. And anything you make is yours to\ntake home with you.\nJAN:\nThat sounds like fun. When is it?\nPETER:\nIt's on the 17th, from 10 a.m. until 3. There’s a charge of £35, including lunch, or\nQ10\n£40 if you want to camp in the wood.\nJAN:\n| should think I'll come home the same day. Well, I'd certainly like to join the\ngroup.\nPART 2\nSo, hello everyone. My name’s Lou Miller and I’m going to be your tour guide today as we\ntake this fantastic boat trip around the Tasmanian coast. Before we set off,\n| just want to tell\nyou a few things about our journey.\nOur boats aren’t huge as you can see. We already have three staff members on board and\non top of that, we can transport a further fifteen people — that’s you — around the coastline.\nBut please note if there are more than nine people on either side of the boat, we'll move\nQ11\nsome of you over, otherwise all eighteen of us will end up in the sea!\nWe've recently upgraded all our boats. They used to be jet black, but our new ones now have\nthese comfortable dark red seats anda light-green exterior in order to stand out from others\nQ12\nand help promote our company. This gives our boats a rather unique appearance, don’t you\nthink?\nWe offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains\nham and tomato sandwiches. Lunchbox 2 contains a cheddar cheese roll and Lunchbox 3\nQ13\nis salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of\ncrisps and chocolate bar inside. Please let staff know which lunchbox you prefer.\nI’m sure\n| don’t have to ask you not to throw anything into the sea. We don’t have any bins to\nput litter in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put\nQ14\nit all in a large plastic sack.\nThe engine on the boat makes quite a lot of noise so before we head off, let me tell you a few\nthings about what you're going to see.\n97\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        14.03717041015625,
+        512.0147705078125,
+        63.00422286987305
+      ],
+      "text": "ah ae\nRE, RHBRERORRTR\nEth 2\nia 1718867188\neee\n"
+    },
+    {
+      "box": [
+        61.54759216308594,
+        80.98371887207031,
+        463.1834411621094,
+        113.7442626953125
+      ],
+      "text": "PETER:\nThe island’s a great place to explore. It’s quite small, and it’s got a range of\nhabitats. It’s also an ideal location for seeing seals just off the coast, or even on\nthe beach.\n"
+    },
+    {
+      "box": [
+        61.18766403198242,
+        118.41612243652344,
+        506.7724914550781,
+        345.8978576660156
+      ],
+      "text": "JAN:\nOK. And is there anything we should bring, like a picnic, for instance?\nPETER:\nYes, do bring one, as it’s a full-day walk. And of course it'll be wet walking across\nand back, so make sure your boots are waterproof.\nQ7\nJAN:\n| must buy a new pair — there’s a hole in one of my current ones! Well, I’d\ndefinitely like to come on the walk.\nPETER:\nGreat. Then later this month we’re having a one-day woodwork session in\nHopton Wood.\nJAN!\nI’ve never tried that before. Is it OK for beginners to take part?\nQ8\nPETER:\nDefinitely. There'll be a couple of experts leading the session, and we keep the\nnumber of participants down, so you'll get as much help as you need.\nJAN:\nExcellent! I'd love to be able to make chairs.\nPETER:\nThat's probably too ambitious for one day! You'll be starting with wooden spoons,\nQ9\nand of course learning how to use the tools. And anything you make is yours to\ntake home with you.\nJAN:\nThat sounds like fun. When is it?\nPETER:\nIt's on the 17th, from 10 a.m. until 3. There’s a charge of £35, including lunch, or\nQ10\n£40 if you want to camp in the wood.\nJAN:\n| should think I'll come home the same day. Well, I'd certainly like to join the\ngroup.\n"
+    },
+    {
+      "box": [
+        61.907535552978516,
+        386.9219970703125,
+        116.60931396484375,
+        397.3703308105469
+      ],
+      "text": "PART 2\n"
+    },
+    {
+      "box": [
+        61.18770980834961,
+        409.95733642578125,
+        460.5271911621094,
+        444.52264404296875
+      ],
+      "text": "So, hello everyone. My name’s Lou Miller and I’m going to be your tour guide today as we\ntake this fantastic boat trip around the Tasmanian coast. Before we set off,\n| just want to tell\nyou a few things about our journey.\n"
+    },
+    {
+      "box": [
+        61.18770980834961,
+        452.06884765625,
+        503.765380859375,
+        497.7890319824219
+      ],
+      "text": "Our boats aren’t huge as you can see. We already have three staff members on board and\non top of that, we can transport a further fifteen people — that’s you — around the coastline.\nBut please note if there are more than nine people on either side of the boat, we'll move\nQ11\nsome of you over, otherwise all eighteen of us will end up in the sea!\n"
+    },
+    {
+      "box": [
+        61.18777084350586,
+        506.7778015136719,
+        506.4180603027344,
+        550.3363037109375
+      ],
+      "text": "We've recently upgraded all our boats. They used to be jet black, but our new ones now have\nthese comfortable dark red seats anda light-green exterior in order to stand out from others\nQ12\nand help promote our company. This gives our boats a rather unique appearance, don’t you\nthink?\n"
+    },
+    {
+      "box": [
+        61.18783187866211,
+        561.48681640625,
+        506.3154296875,
+        581.2911376953125
+      ],
+      "text": "We offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains\nham and tomato sandwiches. Lunchbox 2 contains a cheddar cheese roll and Lunchbox 3\nQ13\n"
+    },
+    {
+      "box": [
+        61.187801361083984,
+        585.2420043945312,
+        463.1835632324219,
+        606.8466186523438
+      ],
+      "text": "is salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of\ncrisps and chocolate bar inside. Please let staff know which lunchbox you prefer.\n"
+    },
+    {
+      "box": [
+        61.54771423339844,
+        616.19580078125,
+        506.31005859375,
+        637.0809326171875
+      ],
+      "text": "I’m sure\n| don’t have to ask you not to throw anything into the sea. We don’t have any bins to\nput litter in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put\nQ14\n"
+    },
+    {
+      "box": [
+        61.54768371582031,
+        639.9509887695312,
+        178.32615661621094,
+        649.3184204101562
+      ],
+      "text": "it all in a large plastic sack.\n"
+    },
+    {
+      "box": [
+        61.1877555847168,
+        674.864013671875,
+        470.65020751953125,
+        696.4685668945312
+      ],
+      "text": "The engine on the boat makes quite a lot of noise so before we head off, let me tell you a few\nthings about what you're going to see.\n"
+    },
+    {
+      "box": [
+        512.1769409179688,
+        731.0126342773438,
+        524.3460693359375,
+        739.2992553710938
+      ],
+      "text": "97\n"
+    }
+  ]
+}

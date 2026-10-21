@@ -1,0 +1,93 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 65,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Writing\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome people say that music is a good way of bringing people of different\ncultures and ages together.\nTo what extent do you agree or disagree with this opinion?\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n73\n",
+  "blocks": [
+    {
+      "box": [
+        507.4977722167969,
+        94.30099487304688,
+        540.742431640625,
+        104.74932861328125
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        129.933837890625,
+        229.58876037597656,
+        139.66163635253906
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        108.33817291259766,
+        156.9283905029297,
+        343.1908874511719,
+        167.73699951171875
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        107.9782485961914,
+        183.20314025878906,
+        256.1098937988281,
+        193.2911376953125
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        120.21578216552734,
+        215.59657287597656,
+        504.53546142578125,
+        240.4423828125
+      ],
+      "text": "Some people say that music is a good way of bringing people of different\ncultures and ages together.\n"
+    },
+    {
+      "box": [
+        121.29556274414062,
+        254.8286590576172,
+        429.01934814453125,
+        265.99761962890625
+      ],
+      "text": "To what extent do you agree or disagree with this opinion?\n"
+    },
+    {
+      "box": [
+        108.69810485839844,
+        288.30194091796875,
+        498.0531921386719,
+        312.78741455078125
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        108.33817291259766,
+        327.8939514160156,
+        227.61817932128906,
+        336.5408630371094
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        529.453369140625,
+        731.3726806640625,
+        540.5391235351562,
+        739.2990112304688
+      ],
+      "text": "73\n"
+    }
+  ]
+}

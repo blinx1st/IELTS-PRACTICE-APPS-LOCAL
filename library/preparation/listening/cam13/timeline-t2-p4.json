@@ -1,0 +1,808 @@
+{
+  "audioSha256": "4cd8d0cf514a462876eaa5dc65be99191ebf42094c8e15a96f50a734556fdc87",
+  "duration": 544.209,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 415.89,
+      "end": 424.11,
+      "text": " However, patients' episodic memory may still be impaired, and so they are often unable",
+      "words": [
+        {
+          "word": " However,",
+          "start": 415.89,
+          "end": 417.03
+        },
+        {
+          "word": " patients'",
+          "start": 418.13,
+          "end": 418.13
+        },
+        {
+          "word": " episodic",
+          "start": 418.78999999999996,
+          "end": 419.15
+        },
+        {
+          "word": " memory",
+          "start": 419.15,
+          "end": 419.81
+        },
+        {
+          "word": " may",
+          "start": 419.81,
+          "end": 420.43
+        },
+        {
+          "word": " still",
+          "start": 420.43,
+          "end": 420.72999999999996
+        },
+        {
+          "word": " be",
+          "start": 420.72999999999996,
+          "end": 421.05
+        },
+        {
+          "word": " impaired,",
+          "start": 421.05,
+          "end": 421.66999999999996
+        },
+        {
+          "word": " and",
+          "start": 422.45,
+          "end": 422.51
+        },
+        {
+          "word": " so",
+          "start": 422.51,
+          "end": 422.72999999999996
+        },
+        {
+          "word": " they",
+          "start": 422.72999999999996,
+          "end": 423.05
+        },
+        {
+          "word": " are",
+          "start": 423.05,
+          "end": 423.19
+        },
+        {
+          "word": " often",
+          "start": 423.19,
+          "end": 423.55
+        },
+        {
+          "word": " unable",
+          "start": 423.55,
+          "end": 424.11
+        }
+      ]
+    },
+    {
+      "start": 424.11,
+      "end": 427.69,
+      "text": " to return to university or work.",
+      "words": [
+        {
+          "word": " to",
+          "start": 424.11,
+          "end": 424.49
+        },
+        {
+          "word": " return",
+          "start": 424.49,
+          "end": 425.05
+        },
+        {
+          "word": " to",
+          "start": 425.05,
+          "end": 425.34999999999997
+        },
+        {
+          "word": " university",
+          "start": 425.34999999999997,
+          "end": 426.01
+        },
+        {
+          "word": " or",
+          "start": 426.01,
+          "end": 426.83
+        },
+        {
+          "word": " work.",
+          "start": 426.83,
+          "end": 427.69
+        }
+      ]
+    },
+    {
+      "start": 428.57,
+      "end": 436.09,
+      "text": " Recent studies have shown that computer-assisted games designed to keep the brain active",
+      "words": [
+        {
+          "word": " Recent",
+          "start": 428.57,
+          "end": 428.89
+        },
+        {
+          "word": " studies",
+          "start": 428.89,
+          "end": 429.66999999999996
+        },
+        {
+          "word": " have",
+          "start": 429.66999999999996,
+          "end": 430.11
+        },
+        {
+          "word": " shown",
+          "start": 430.11,
+          "end": 430.46999999999997
+        },
+        {
+          "word": " that",
+          "start": 430.46999999999997,
+          "end": 430.99
+        },
+        {
+          "word": " computer",
+          "start": 430.99,
+          "end": 431.65
+        },
+        {
+          "word": "-assisted",
+          "start": 431.65,
+          "end": 432.28999999999996
+        },
+        {
+          "word": " games",
+          "start": 432.28999999999996,
+          "end": 433.19
+        },
+        {
+          "word": " designed",
+          "start": 433.19,
+          "end": 433.87
+        },
+        {
+          "word": " to",
+          "start": 433.87,
+          "end": 434.07
+        },
+        {
+          "word": " keep",
+          "start": 434.07,
+          "end": 434.49
+        },
+        {
+          "word": " the",
+          "start": 434.49,
+          "end": 434.81
+        },
+        {
+          "word": " brain",
+          "start": 434.81,
+          "end": 435.45
+        },
+        {
+          "word": " active",
+          "start": 435.45,
+          "end": 436.09
+        }
+      ]
+    },
+    {
+      "start": 436.09,
+      "end": 439.93,
+      "text": " can help improve their episodic memory.",
+      "words": [
+        {
+          "word": " can",
+          "start": 436.09,
+          "end": 436.75
+        },
+        {
+          "word": " help",
+          "start": 436.75,
+          "end": 437.28999999999996
+        },
+        {
+          "word": " improve",
+          "start": 437.28999999999996,
+          "end": 437.90999999999997
+        },
+        {
+          "word": " their",
+          "start": 437.90999999999997,
+          "end": 438.33
+        },
+        {
+          "word": " episodic",
+          "start": 438.33,
+          "end": 438.87
+        },
+        {
+          "word": " memory.",
+          "start": 438.87,
+          "end": 439.93
+        }
+      ]
+    },
+    {
+      "start": 441.19,
+      "end": 449.33,
+      "text": " Episodic memories can help people connect with others, for instance by sharing intimate",
+      "words": [
+        {
+          "word": " Episodic",
+          "start": 441.19,
+          "end": 442.31
+        },
+        {
+          "word": " memories",
+          "start": 442.31,
+          "end": 442.87
+        },
+        {
+          "word": " can",
+          "start": 442.87,
+          "end": 443.57
+        },
+        {
+          "word": " help",
+          "start": 443.57,
+          "end": 443.83
+        },
+        {
+          "word": " people",
+          "start": 443.83,
+          "end": 444.55
+        },
+        {
+          "word": " connect",
+          "start": 444.55,
+          "end": 445.27
+        },
+        {
+          "word": " with",
+          "start": 445.27,
+          "end": 445.72999999999996
+        },
+        {
+          "word": " others,",
+          "start": 445.72999999999996,
+          "end": 446.43
+        },
+        {
+          "word": " for",
+          "start": 447.07,
+          "end": 447.22999999999996
+        },
+        {
+          "word": " instance",
+          "start": 447.22999999999996,
+          "end": 447.55
+        },
+        {
+          "word": " by",
+          "start": 447.55,
+          "end": 448.11
+        },
+        {
+          "word": " sharing",
+          "start": 448.11,
+          "end": 448.77
+        },
+        {
+          "word": " intimate",
+          "start": 448.77,
+          "end": 449.33
+        }
+      ]
+    },
+    {
+      "start": 449.33,
+      "end": 458.19,
+      "text": " details about their past. Something individuals with autism often have problems with.",
+      "words": [
+        {
+          "word": " details",
+          "start": 449.33,
+          "end": 450.21
+        },
+        {
+          "word": " about",
+          "start": 450.21,
+          "end": 450.73
+        },
+        {
+          "word": " their",
+          "start": 450.73,
+          "end": 451.07
+        },
+        {
+          "word": " past.",
+          "start": 451.07,
+          "end": 451.78999999999996
+        },
+        {
+          "word": " Something",
+          "start": 452.73,
+          "end": 453.13
+        },
+        {
+          "word": " individuals",
+          "start": 453.13,
+          "end": 454.04999999999995
+        },
+        {
+          "word": " with",
+          "start": 454.04999999999995,
+          "end": 454.65
+        },
+        {
+          "word": " autism",
+          "start": 454.65,
+          "end": 455.37
+        },
+        {
+          "word": " often",
+          "start": 455.37,
+          "end": 456.31
+        },
+        {
+          "word": " have",
+          "start": 456.31,
+          "end": 456.71
+        },
+        {
+          "word": " problems",
+          "start": 456.71,
+          "end": 457.11
+        },
+        {
+          "word": " with.",
+          "start": 457.11,
+          "end": 458.19
+        }
+      ]
+    },
+    {
+      "start": 458.61,
+      "end": 468.28999999999996,
+      "text": " This may be caused by an absence of a sense of self. This is essential for the storage",
+      "words": [
+        {
+          "word": " This",
+          "start": 458.61,
+          "end": 458.95
+        },
+        {
+          "word": " may",
+          "start": 458.95,
+          "end": 459.19
+        },
+        {
+          "word": " be",
+          "start": 459.19,
+          "end": 459.49
+        },
+        {
+          "word": " caused",
+          "start": 459.49,
+          "end": 459.83
+        },
+        {
+          "word": " by",
+          "start": 459.83,
+          "end": 460.33
+        },
+        {
+          "word": " an",
+          "start": 460.33,
+          "end": 460.69
+        },
+        {
+          "word": " absence",
+          "start": 460.69,
+          "end": 461.09
+        },
+        {
+          "word": " of",
+          "start": 461.09,
+          "end": 461.77
+        },
+        {
+          "word": " a",
+          "start": 461.77,
+          "end": 462.03
+        },
+        {
+          "word": " sense",
+          "start": 462.03,
+          "end": 462.65
+        },
+        {
+          "word": " of",
+          "start": 462.65,
+          "end": 463.31
+        },
+        {
+          "word": " self.",
+          "start": 463.31,
+          "end": 463.96999999999997
+        },
+        {
+          "word": " This",
+          "start": 465.27,
+          "end": 465.95
+        },
+        {
+          "word": " is",
+          "start": 465.95,
+          "end": 466.54999999999995
+        },
+        {
+          "word": " essential",
+          "start": 466.54999999999995,
+          "end": 467.03
+        },
+        {
+          "word": " for",
+          "start": 467.03,
+          "end": 467.59
+        },
+        {
+          "word": " the",
+          "start": 467.59,
+          "end": 467.81
+        },
+        {
+          "word": " storage",
+          "start": 467.81,
+          "end": 468.28999999999996
+        }
+      ]
+    },
+    {
+      "start": 468.28999999999996,
+      "end": 477.15,
+      "text": " of episodic memory and has been found to be impaired in children with autism. Research",
+      "words": [
+        {
+          "word": " of",
+          "start": 468.28999999999996,
+          "end": 468.46999999999997
+        },
+        {
+          "word": " episodic",
+          "start": 468.46999999999997,
+          "end": 469.28999999999996
+        },
+        {
+          "word": " memory",
+          "start": 469.28999999999996,
+          "end": 469.96999999999997
+        },
+        {
+          "word": " and",
+          "start": 469.96999999999997,
+          "end": 470.75
+        },
+        {
+          "word": " has",
+          "start": 470.75,
+          "end": 470.95
+        },
+        {
+          "word": " been",
+          "start": 470.95,
+          "end": 471.21
+        },
+        {
+          "word": " found",
+          "start": 471.21,
+          "end": 471.51
+        },
+        {
+          "word": " to",
+          "start": 471.51,
+          "end": 471.81
+        },
+        {
+          "word": " be",
+          "start": 471.81,
+          "end": 472.15
+        },
+        {
+          "word": " impaired",
+          "start": 472.15,
+          "end": 472.83
+        },
+        {
+          "word": " in",
+          "start": 472.83,
+          "end": 473.61
+        },
+        {
+          "word": " children",
+          "start": 473.61,
+          "end": 474.13
+        },
+        {
+          "word": " with",
+          "start": 474.13,
+          "end": 474.53
+        },
+        {
+          "word": " autism.",
+          "start": 474.53,
+          "end": 475.71
+        },
+        {
+          "word": " Research",
+          "start": 476.84999999999997,
+          "end": 477.15
+        }
+      ]
+    },
+    {
+      "start": 477.15,
+      "end": 485.71,
+      "text": " has shown that treatments that improve memory may also have a positive impact on children's",
+      "words": [
+        {
+          "word": " has",
+          "start": 477.15,
+          "end": 477.57
+        },
+        {
+          "word": " shown",
+          "start": 477.57,
+          "end": 477.96999999999997
+        },
+        {
+          "word": " that",
+          "start": 477.96999999999997,
+          "end": 478.54999999999995
+        },
+        {
+          "word": " treatments",
+          "start": 478.54999999999995,
+          "end": 479.04999999999995
+        },
+        {
+          "word": " that",
+          "start": 479.04999999999995,
+          "end": 479.61
+        },
+        {
+          "word": " improve",
+          "start": 479.61,
+          "end": 480.13
+        },
+        {
+          "word": " memory",
+          "start": 480.13,
+          "end": 480.84999999999997
+        },
+        {
+          "word": " may",
+          "start": 480.84999999999997,
+          "end": 481.73
+        },
+        {
+          "word": " also",
+          "start": 481.73,
+          "end": 482.23
+        },
+        {
+          "word": " have",
+          "start": 482.23,
+          "end": 482.65
+        },
+        {
+          "word": " a",
+          "start": 482.65,
+          "end": 482.89
+        },
+        {
+          "word": " positive",
+          "start": 482.89,
+          "end": 483.33
+        },
+        {
+          "word": " impact",
+          "start": 483.33,
+          "end": 484.09
+        },
+        {
+          "word": " on",
+          "start": 484.09,
+          "end": 484.66999999999996
+        },
+        {
+          "word": " children's",
+          "start": 484.66999999999996,
+          "end": 485.71
+        }
+      ]
+    },
+    {
+      "start": 485.71,
+      "end": 487.39,
+      "text": " social development.",
+      "words": [
+        {
+          "word": " social",
+          "start": 485.71,
+          "end": 486.40999999999997
+        },
+        {
+          "word": " development.",
+          "start": 486.40999999999997,
+          "end": 487.39
+        }
+      ]
+    },
+    {
+      "start": 488.87,
+      "end": 496.39,
+      "text": " One study, that is the end of section four.",
+      "words": [
+        {
+          "word": " One",
+          "start": 488.87,
+          "end": 489.16999999999996
+        },
+        {
+          "word": " study,",
+          "start": 489.16999999999996,
+          "end": 490.01
+        },
+        {
+          "word": " that",
+          "start": 493.11,
+          "end": 493.13
+        },
+        {
+          "word": " is",
+          "start": 493.13,
+          "end": 494.57
+        },
+        {
+          "word": " the",
+          "start": 494.57,
+          "end": 494.75
+        },
+        {
+          "word": " end",
+          "start": 494.75,
+          "end": 494.99
+        },
+        {
+          "word": " of",
+          "start": 494.99,
+          "end": 495.27
+        },
+        {
+          "word": " section",
+          "start": 495.27,
+          "end": 495.54999999999995
+        },
+        {
+          "word": " four.",
+          "start": 495.54999999999995,
+          "end": 496.39
+        }
+      ]
+    },
+    {
+      "start": 497.21,
+      "end": 500.71,
+      "text": " You now have half a minute to check your answers.",
+      "words": [
+        {
+          "word": " You",
+          "start": 497.21,
+          "end": 497.84999999999997
+        },
+        {
+          "word": " now",
+          "start": 497.84999999999997,
+          "end": 498.19
+        },
+        {
+          "word": " have",
+          "start": 498.19,
+          "end": 498.49
+        },
+        {
+          "word": " half",
+          "start": 498.49,
+          "end": 498.78999999999996
+        },
+        {
+          "word": " a",
+          "start": 498.78999999999996,
+          "end": 498.89
+        },
+        {
+          "word": " minute",
+          "start": 498.89,
+          "end": 499.15
+        },
+        {
+          "word": " to",
+          "start": 499.15,
+          "end": 499.61
+        },
+        {
+          "word": " check",
+          "start": 499.61,
+          "end": 499.93
+        },
+        {
+          "word": " your",
+          "start": 499.93,
+          "end": 500.21
+        },
+        {
+          "word": " answers.",
+          "start": 500.21,
+          "end": 500.71
+        }
+      ]
+    },
+    {
+      "start": 531.01,
+      "end": 533.73,
+      "text": " That is the end of the listening test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 531.01,
+          "end": 531.49
+        },
+        {
+          "word": " is",
+          "start": 531.49,
+          "end": 531.73
+        },
+        {
+          "word": " the",
+          "start": 531.73,
+          "end": 531.93
+        },
+        {
+          "word": " end",
+          "start": 531.93,
+          "end": 532.37
+        },
+        {
+          "word": " of",
+          "start": 532.37,
+          "end": 532.61
+        },
+        {
+          "word": " the",
+          "start": 532.61,
+          "end": 532.79
+        },
+        {
+          "word": " listening",
+          "start": 532.79,
+          "end": 532.99
+        },
+        {
+          "word": " test.",
+          "start": 532.99,
+          "end": 533.73
+        }
+      ]
+    }
+  ]
+}

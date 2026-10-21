@@ -1,0 +1,66 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 99,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "DhakA\nah oe\nBE, EAURERORAER\nena\n.\n.\nEien Ara\nta 1718867188\nAudioscripts\nfivitfa\nOn the positive side, they know that Icelandic is still the official language of education and\ngovernment. It has survived for well over a thousand years and the experts predict that its\nfuture in this nation state is sound and will continue to be so. However, there’s no doubt that\nit's becoming an inevitable second choice in young people’s lives.\nThis raises important questions. When you consider how much of the past is tied up in\na language, will young Icelanders lose their sense of their own identity? Another issue\nQ39\nthat concerns the government of Iceland is this. If children are learning two languages.\nQ40\nthrough different routes, neither of which they are fully fluent in,\nwill they be able to express\nthemselves properly?\n106\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        512.0147705078125,
+        46.46305847167969
+      ],
+      "text": "DhakA\nah oe\nBE, EAURERORAER\nena\n"
+    },
+    {
+      "box": [
+        70.18586730957031,
+        32.75338363647461,
+        498.6795654296875,
+        64.44751739501953
+      ],
+      "text": ".\n.\nEien Ara\nta 1718867188\nAudioscripts\nfivitfa\n"
+    },
+    {
+      "box": [
+        70.18583679199219,
+        82.06340026855469,
+        473.1677551269531,
+        114.82511138916016
+      ],
+      "text": "On the positive side, they know that Icelandic is still the official language of education and\ngovernment. It has survived for well over a thousand years and the experts predict that its\nfuture in this nation state is sound and will continue to be so. However, there’s no doubt that\n"
+    },
+    {
+      "box": [
+        70.90569305419922,
+        118.41612243652344,
+        357.58795166015625,
+        127.42330169677734
+      ],
+      "text": "it's becoming an inevitable second choice in young people’s lives.\n"
+    },
+    {
+      "box": [
+        70.18583679199219,
+        136.77244567871094,
+        516.3878784179688,
+        194.37013244628906
+      ],
+      "text": "This raises important questions. When you consider how much of the past is tied up in\na language, will young Icelanders lose their sense of their own identity? Another issue\nQ39\nthat concerns the government of Iceland is this. If children are learning two languages.\nQ40\nthrough different routes, neither of which they are fully fluent in,\nwill they be able to express\nthemselves properly?\n"
+    },
+    {
+      "box": [
+        71.26561737060547,
+        731.0126953125,
+        89.14681243896484,
+        739.29931640625
+      ],
+      "text": "106\n"
+    }
+  ]
+}

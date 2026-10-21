@@ -1,0 +1,977 @@
+{
+  "audioSha256": "892ac0d394743b5fc558e6506de5f7c6bdf253c54dcab46b711adb9c656474f2",
+  "duration": 488.31975,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 358.24,
+      "end": 365.32,
+      "text": " The last of the three Australian composers, to be represented in our festival, is Carl",
+      "words": [
+        {
+          "word": " The",
+          "start": 358.24,
+          "end": 359.44
+        },
+        {
+          "word": " last",
+          "start": 359.44,
+          "end": 359.78000000000003
+        },
+        {
+          "word": " of",
+          "start": 359.78000000000003,
+          "end": 359.94
+        },
+        {
+          "word": " the",
+          "start": 359.94,
+          "end": 360.24
+        },
+        {
+          "word": " three",
+          "start": 360.24,
+          "end": 360.36
+        },
+        {
+          "word": " Australian",
+          "start": 360.36,
+          "end": 360.94
+        },
+        {
+          "word": " composers,",
+          "start": 360.94,
+          "end": 361.82
+        },
+        {
+          "word": " to",
+          "start": 362.06,
+          "end": 362.08
+        },
+        {
+          "word": " be",
+          "start": 362.08,
+          "end": 362.36
+        },
+        {
+          "word": " represented",
+          "start": 362.36,
+          "end": 362.90000000000003
+        },
+        {
+          "word": " in",
+          "start": 362.90000000000003,
+          "end": 363.2
+        },
+        {
+          "word": " our",
+          "start": 363.2,
+          "end": 363.5
+        },
+        {
+          "word": " festival,",
+          "start": 363.5,
+          "end": 364.04
+        },
+        {
+          "word": " is",
+          "start": 364.24,
+          "end": 364.84000000000003
+        },
+        {
+          "word": " Carl",
+          "start": 364.84000000000003,
+          "end": 365.32
+        }
+      ]
+    },
+    {
+      "start": 365.32,
+      "end": 375.34000000000003,
+      "text": " Vine. Born in 1954, Vine, like Liza Lim, comes from Perth, Western Australia. He took",
+      "words": [
+        {
+          "word": " Vine.",
+          "start": 365.32,
+          "end": 365.88
+        },
+        {
+          "word": " Born",
+          "start": 366.98,
+          "end": 367.26
+        },
+        {
+          "word": " in",
+          "start": 367.26,
+          "end": 367.66
+        },
+        {
+          "word": " 1954,",
+          "start": 367.66,
+          "end": 368.44
+        },
+        {
+          "word": " Vine,",
+          "start": 369.28000000000003,
+          "end": 369.74
+        },
+        {
+          "word": " like",
+          "start": 370.0,
+          "end": 370.34000000000003
+        },
+        {
+          "word": " Liza",
+          "start": 370.34000000000003,
+          "end": 370.7
+        },
+        {
+          "word": " Lim,",
+          "start": 370.7,
+          "end": 371.02
+        },
+        {
+          "word": " comes",
+          "start": 371.48,
+          "end": 371.82
+        },
+        {
+          "word": " from",
+          "start": 371.82,
+          "end": 372.2
+        },
+        {
+          "word": " Perth,",
+          "start": 372.2,
+          "end": 372.62
+        },
+        {
+          "word": " Western",
+          "start": 373.04,
+          "end": 373.16
+        },
+        {
+          "word": " Australia.",
+          "start": 373.16,
+          "end": 373.76
+        },
+        {
+          "word": " He",
+          "start": 374.96000000000004,
+          "end": 375.12
+        },
+        {
+          "word": " took",
+          "start": 375.12,
+          "end": 375.34000000000003
+        }
+      ]
+    },
+    {
+      "start": 375.34000000000003,
+      "end": 382.64,
+      "text": " up the Cornet at the age of five, switching to the piano five years later. However, he",
+      "words": [
+        {
+          "word": " up",
+          "start": 375.34000000000003,
+          "end": 375.54
+        },
+        {
+          "word": " the",
+          "start": 375.54,
+          "end": 375.84000000000003
+        },
+        {
+          "word": " Cornet",
+          "start": 375.84000000000003,
+          "end": 376.40000000000003
+        },
+        {
+          "word": " at",
+          "start": 376.40000000000003,
+          "end": 376.7
+        },
+        {
+          "word": " the",
+          "start": 376.7,
+          "end": 376.86
+        },
+        {
+          "word": " age",
+          "start": 376.86,
+          "end": 377.06
+        },
+        {
+          "word": " of",
+          "start": 377.06,
+          "end": 377.40000000000003
+        },
+        {
+          "word": " five,",
+          "start": 377.40000000000003,
+          "end": 378.08
+        },
+        {
+          "word": " switching",
+          "start": 378.46000000000004,
+          "end": 378.6
+        },
+        {
+          "word": " to",
+          "start": 378.6,
+          "end": 378.98
+        },
+        {
+          "word": " the",
+          "start": 378.98,
+          "end": 379.14
+        },
+        {
+          "word": " piano",
+          "start": 379.14,
+          "end": 379.48
+        },
+        {
+          "word": " five",
+          "start": 379.48,
+          "end": 379.98
+        },
+        {
+          "word": " years",
+          "start": 379.98,
+          "end": 380.26
+        },
+        {
+          "word": " later.",
+          "start": 380.26,
+          "end": 380.76
+        },
+        {
+          "word": " However,",
+          "start": 381.56,
+          "end": 382.08
+        },
+        {
+          "word": " he",
+          "start": 382.28000000000003,
+          "end": 382.64
+        }
+      ]
+    },
+    {
+      "start": 382.64,
+      "end": 387.98,
+      "text": " went to university to study physics before changing to composition.",
+      "words": [
+        {
+          "word": " went",
+          "start": 382.64,
+          "end": 382.88
+        },
+        {
+          "word": " to",
+          "start": 382.88,
+          "end": 383.12
+        },
+        {
+          "word": " university",
+          "start": 383.12,
+          "end": 383.78000000000003
+        },
+        {
+          "word": " to",
+          "start": 383.78000000000003,
+          "end": 384.36
+        },
+        {
+          "word": " study",
+          "start": 384.36,
+          "end": 384.84000000000003
+        },
+        {
+          "word": " physics",
+          "start": 384.84000000000003,
+          "end": 385.46000000000004
+        },
+        {
+          "word": " before",
+          "start": 385.46000000000004,
+          "end": 386.32
+        },
+        {
+          "word": " changing",
+          "start": 386.32,
+          "end": 386.90000000000003
+        },
+        {
+          "word": " to",
+          "start": 386.90000000000003,
+          "end": 387.24
+        },
+        {
+          "word": " composition.",
+          "start": 387.24,
+          "end": 387.98
+        }
+      ]
+    },
+    {
+      "start": 388.96000000000004,
+      "end": 394.66,
+      "text": " After graduating, he moved to Sydney and worked as a freelance pianist and composer.",
+      "words": [
+        {
+          "word": " After",
+          "start": 388.96000000000004,
+          "end": 389.34000000000003
+        },
+        {
+          "word": " graduating,",
+          "start": 389.34000000000003,
+          "end": 389.92
+        },
+        {
+          "word": " he",
+          "start": 390.22,
+          "end": 390.62
+        },
+        {
+          "word": " moved",
+          "start": 390.62,
+          "end": 390.88
+        },
+        {
+          "word": " to",
+          "start": 390.88,
+          "end": 391.14
+        },
+        {
+          "word": " Sydney",
+          "start": 391.14,
+          "end": 391.58000000000004
+        },
+        {
+          "word": " and",
+          "start": 391.58000000000004,
+          "end": 392.14
+        },
+        {
+          "word": " worked",
+          "start": 392.14,
+          "end": 392.38
+        },
+        {
+          "word": " as",
+          "start": 392.38,
+          "end": 392.56
+        },
+        {
+          "word": " a",
+          "start": 392.56,
+          "end": 392.76
+        },
+        {
+          "word": " freelance",
+          "start": 392.76,
+          "end": 393.16
+        },
+        {
+          "word": " pianist",
+          "start": 393.16,
+          "end": 393.72
+        },
+        {
+          "word": " and",
+          "start": 393.72,
+          "end": 394.08000000000004
+        },
+        {
+          "word": " composer.",
+          "start": 394.08000000000004,
+          "end": 394.66
+        }
+      ]
+    },
+    {
+      "start": 395.74,
+      "end": 402.4,
+      "text": " Before long, he had become prominent in Australia as a composer for dance and in fact",
+      "words": [
+        {
+          "word": " Before",
+          "start": 395.74,
+          "end": 396.06
+        },
+        {
+          "word": " long,",
+          "start": 396.06,
+          "end": 396.54
+        },
+        {
+          "word": " he",
+          "start": 396.8,
+          "end": 396.9
+        },
+        {
+          "word": " had",
+          "start": 396.9,
+          "end": 397.1
+        },
+        {
+          "word": " become",
+          "start": 397.1,
+          "end": 397.48
+        },
+        {
+          "word": " prominent",
+          "start": 397.48,
+          "end": 397.96000000000004
+        },
+        {
+          "word": " in",
+          "start": 397.96000000000004,
+          "end": 398.26
+        },
+        {
+          "word": " Australia",
+          "start": 398.26,
+          "end": 398.8
+        },
+        {
+          "word": " as",
+          "start": 398.8,
+          "end": 399.36
+        },
+        {
+          "word": " a",
+          "start": 399.36,
+          "end": 399.56
+        },
+        {
+          "word": " composer",
+          "start": 399.56,
+          "end": 399.88
+        },
+        {
+          "word": " for",
+          "start": 399.88,
+          "end": 400.42
+        },
+        {
+          "word": " dance",
+          "start": 400.42,
+          "end": 400.92
+        },
+        {
+          "word": " and",
+          "start": 400.92,
+          "end": 401.74
+        },
+        {
+          "word": " in",
+          "start": 401.74,
+          "end": 401.98
+        },
+        {
+          "word": " fact",
+          "start": 401.98,
+          "end": 402.4
+        }
+      ]
+    },
+    {
+      "start": 402.4,
+      "end": 406.24,
+      "text": " has written 25 scores of that type.",
+      "words": [
+        {
+          "word": " has",
+          "start": 402.4,
+          "end": 402.88
+        },
+        {
+          "word": " written",
+          "start": 402.88,
+          "end": 403.4
+        },
+        {
+          "word": " 25",
+          "start": 403.4,
+          "end": 404.3
+        },
+        {
+          "word": " scores",
+          "start": 404.3,
+          "end": 405.06
+        },
+        {
+          "word": " of",
+          "start": 405.06,
+          "end": 405.32
+        },
+        {
+          "word": " that",
+          "start": 405.32,
+          "end": 405.62
+        },
+        {
+          "word": " type.",
+          "start": 405.62,
+          "end": 406.24
+        }
+      ]
+    },
+    {
+      "start": 406.24,
+      "end": 414.02,
+      "text": " In our third concert, Vine will be represented by his music for the flag-hand over ceremony",
+      "words": [
+        {
+          "word": " In",
+          "start": 406.24,
+          "end": 407.66
+        },
+        {
+          "word": " our",
+          "start": 407.66,
+          "end": 407.98
+        },
+        {
+          "word": " third",
+          "start": 407.98,
+          "end": 408.36
+        },
+        {
+          "word": " concert,",
+          "start": 408.36,
+          "end": 408.98
+        },
+        {
+          "word": " Vine",
+          "start": 409.52,
+          "end": 409.74
+        },
+        {
+          "word": " will",
+          "start": 409.74,
+          "end": 409.98
+        },
+        {
+          "word": " be",
+          "start": 409.98,
+          "end": 410.18
+        },
+        {
+          "word": " represented",
+          "start": 410.18,
+          "end": 410.66
+        },
+        {
+          "word": " by",
+          "start": 410.66,
+          "end": 411.16
+        },
+        {
+          "word": " his",
+          "start": 411.16,
+          "end": 411.4
+        },
+        {
+          "word": " music",
+          "start": 411.4,
+          "end": 411.92
+        },
+        {
+          "word": " for",
+          "start": 411.92,
+          "end": 412.42
+        },
+        {
+          "word": " the",
+          "start": 412.42,
+          "end": 412.66
+        },
+        {
+          "word": " flag",
+          "start": 412.66,
+          "end": 413.04
+        },
+        {
+          "word": "-hand",
+          "start": 413.04,
+          "end": 413.32
+        },
+        {
+          "word": " over",
+          "start": 413.32,
+          "end": 413.64
+        },
+        {
+          "word": " ceremony",
+          "start": 413.64,
+          "end": 414.02
+        }
+      ]
+    },
+    {
+      "start": 414.02,
+      "end": 417.34000000000003,
+      "text": " of the Olympics held in 1996.",
+      "words": [
+        {
+          "word": " of",
+          "start": 414.02,
+          "end": 414.58000000000004
+        },
+        {
+          "word": " the",
+          "start": 414.58000000000004,
+          "end": 414.84000000000003
+        },
+        {
+          "word": " Olympics",
+          "start": 414.84000000000003,
+          "end": 415.52
+        },
+        {
+          "word": " held",
+          "start": 415.52,
+          "end": 416.14
+        },
+        {
+          "word": " in",
+          "start": 416.14,
+          "end": 416.76
+        },
+        {
+          "word": " 1996.",
+          "start": 416.76,
+          "end": 417.34000000000003
+        }
+      ]
+    },
+    {
+      "start": 418.64,
+      "end": 424.6,
+      "text": " This seven-minute orchestral piece was of course heard by millions of people worldwide,",
+      "words": [
+        {
+          "word": " This",
+          "start": 418.64,
+          "end": 419.12
+        },
+        {
+          "word": " seven",
+          "start": 419.12,
+          "end": 419.56
+        },
+        {
+          "word": "-minute",
+          "start": 419.56,
+          "end": 419.82
+        },
+        {
+          "word": " orchestral",
+          "start": 419.82,
+          "end": 420.34000000000003
+        },
+        {
+          "word": " piece",
+          "start": 420.34000000000003,
+          "end": 420.9
+        },
+        {
+          "word": " was",
+          "start": 420.9,
+          "end": 421.4
+        },
+        {
+          "word": " of",
+          "start": 421.4,
+          "end": 421.6
+        },
+        {
+          "word": " course",
+          "start": 421.6,
+          "end": 421.94
+        },
+        {
+          "word": " heard",
+          "start": 421.94,
+          "end": 422.2
+        },
+        {
+          "word": " by",
+          "start": 422.2,
+          "end": 422.66
+        },
+        {
+          "word": " millions",
+          "start": 422.66,
+          "end": 423.12
+        },
+        {
+          "word": " of",
+          "start": 423.12,
+          "end": 423.4
+        },
+        {
+          "word": " people",
+          "start": 423.4,
+          "end": 423.86
+        },
+        {
+          "word": " worldwide,",
+          "start": 423.86,
+          "end": 424.6
+        }
+      ]
+    },
+    {
+      "start": 425.24,
+      "end": 432.34000000000003,
+      "text": " and will hear it alongside works written by British composers Edward Elgar and more recently",
+      "words": [
+        {
+          "word": " and",
+          "start": 425.24,
+          "end": 425.54
+        },
+        {
+          "word": " will",
+          "start": 425.54,
+          "end": 425.78000000000003
+        },
+        {
+          "word": " hear",
+          "start": 425.78000000000003,
+          "end": 426.0
+        },
+        {
+          "word": " it",
+          "start": 426.0,
+          "end": 426.42
+        },
+        {
+          "word": " alongside",
+          "start": 426.42,
+          "end": 426.94
+        },
+        {
+          "word": " works",
+          "start": 426.94,
+          "end": 427.56
+        },
+        {
+          "word": " written",
+          "start": 427.56,
+          "end": 427.88
+        },
+        {
+          "word": " by",
+          "start": 427.88,
+          "end": 428.24
+        },
+        {
+          "word": " British",
+          "start": 428.24,
+          "end": 428.6
+        },
+        {
+          "word": " composers",
+          "start": 428.6,
+          "end": 429.66
+        },
+        {
+          "word": " Edward",
+          "start": 429.66,
+          "end": 430.04
+        },
+        {
+          "word": " Elgar",
+          "start": 430.04,
+          "end": 430.54
+        },
+        {
+          "word": " and",
+          "start": 430.54,
+          "end": 431.34000000000003
+        },
+        {
+          "word": " more",
+          "start": 431.34000000000003,
+          "end": 431.6
+        },
+        {
+          "word": " recently",
+          "start": 431.6,
+          "end": 432.34000000000003
+        }
+      ]
+    },
+    {
+      "start": 432.34000000000003,
+      "end": 434.64,
+      "text": " Thomas Addes.",
+      "words": [
+        {
+          "word": " Thomas",
+          "start": 432.34000000000003,
+          "end": 433.1
+        },
+        {
+          "word": " Addes.",
+          "start": 433.1,
+          "end": 434.64
+        }
+      ]
+    },
+    {
+      "start": 436.86,
+      "end": 439.18,
+      "text": " That is the end of section 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 436.86,
+          "end": 437.16
+        },
+        {
+          "word": " is",
+          "start": 437.16,
+          "end": 437.4
+        },
+        {
+          "word": " the",
+          "start": 437.4,
+          "end": 437.78000000000003
+        },
+        {
+          "word": " end",
+          "start": 437.78000000000003,
+          "end": 437.84000000000003
+        },
+        {
+          "word": " of",
+          "start": 437.84000000000003,
+          "end": 438.16
+        },
+        {
+          "word": " section",
+          "start": 438.16,
+          "end": 438.4
+        },
+        {
+          "word": " 4.",
+          "start": 438.4,
+          "end": 439.18
+        }
+      ]
+    },
+    {
+      "start": 440.46000000000004,
+      "end": 444.0,
+      "text": " You now have half a minute to check your answers.",
+      "words": [
+        {
+          "word": " You",
+          "start": 440.46000000000004,
+          "end": 440.84000000000003
+        },
+        {
+          "word": " now",
+          "start": 440.84000000000003,
+          "end": 441.2
+        },
+        {
+          "word": " have",
+          "start": 441.2,
+          "end": 441.56
+        },
+        {
+          "word": " half",
+          "start": 441.56,
+          "end": 441.82
+        },
+        {
+          "word": " a",
+          "start": 441.82,
+          "end": 442.0
+        },
+        {
+          "word": " minute",
+          "start": 442.0,
+          "end": 442.3
+        },
+        {
+          "word": " to",
+          "start": 442.3,
+          "end": 442.92
+        },
+        {
+          "word": " check",
+          "start": 442.92,
+          "end": 443.26
+        },
+        {
+          "word": " your",
+          "start": 443.26,
+          "end": 443.48
+        },
+        {
+          "word": " answers.",
+          "start": 443.48,
+          "end": 444.0
+        }
+      ]
+    },
+    {
+      "start": 474.26,
+      "end": 476.78000000000003,
+      "text": " That is the end of the listening test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 474.26,
+          "end": 474.74
+        },
+        {
+          "word": " is",
+          "start": 474.74,
+          "end": 474.98
+        },
+        {
+          "word": " the",
+          "start": 474.98,
+          "end": 475.2
+        },
+        {
+          "word": " end",
+          "start": 475.2,
+          "end": 475.46000000000004
+        },
+        {
+          "word": " of",
+          "start": 475.46000000000004,
+          "end": 475.68
+        },
+        {
+          "word": " the",
+          "start": 475.68,
+          "end": 475.88
+        },
+        {
+          "word": " listening",
+          "start": 475.88,
+          "end": 476.1
+        },
+        {
+          "word": " test.",
+          "start": 476.1,
+          "end": 476.78000000000003
+        }
+      ]
+    }
+  ]
+}

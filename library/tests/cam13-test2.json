@@ -3,7 +3,7 @@
   "book": 13,
   "test": 2,
   "title": "Cambridge 13 · Test 2",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -92,7 +92,132 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "The Early History of Cinnamon"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Biblical times:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "added to ",
+                  {
+                    "number": 1
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "used to show ",
+                  {
+                    "number": 2
+                  },
+                  " between people"
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Ancient Rome:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "used for its sweet smell at ",
+                  {
+                    "number": 3
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "h3",
+                "content": [
+                  "Middle Ages:"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "added to food, especially meat"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "was an indication of a person’s ",
+                  {
+                    "number": 4
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "known as a treatment for ",
+                  {
+                    "number": 5
+                  },
+                  " and other health problems"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "grown in ",
+                  {
+                    "number": 6
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "merchants used ",
+                  {
+                    "number": 7
+                  },
+                  " to bring it to the Mediterranean"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "arrived in the Mediterranean at ",
+                  {
+                    "number": 8
+                  },
+                  ""
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "traders took it to ",
+                  {
+                    "number": 9
+                  },
+                  " and sold it to destinations around Europe"
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam13-t2-p1-g2",
@@ -368,7 +493,54 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Oxytocin research"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "The earliest findings about oxytocin and bonding came from research involving ",
+                  {
+                    "number": 21
+                  },
+                  ". It was also discovered that humans produce oxytocin during ",
+                  {
+                    "number": 22
+                  },
+                  ". An experiment in 2005, in which participants were given either oxytocin or a ",
+                  {
+                    "number": 23
+                  },
+                  ", reinforced the belief that the hormone had a positive effect."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "However, later research suggests that this is not always the case. A study at the University of Haifa where participants took part in a ",
+                  {
+                    "number": 24
+                  },
+                  " revealed the negative emotions which oxytocin can trigger. A study at the University of Antwerp showed people’s lack of willingness to help ",
+                  {
+                    "number": 25
+                  },
+                  " while under the influence of oxytocin. Meanwhile, research at the University of Amsterdam revealed that people who have been given oxytocin consider ",
+                  {
+                    "number": 26
+                  },
+                  " that are familiar to them in their own country to have more positive associations than those from other cultures."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

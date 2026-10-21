@@ -1,0 +1,147 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 53,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 2\nPART\n1\nThe examiner asks you about yourself, your home, work or studies and other\nfamiliar topics.\nEXAMPLE\nTravelling by plane\ne\nHave you travelled a lot by plane? [To where?/Why not?]\ne Why do you think some people enjoy travelling by plane?\ne\nWould you like to live near an airport? [Why/Why not?]\ne\nInthe future, do you think that you will travel by plane more often? [Why/Why not?]\nPART 2\nDescribe a person from your country who has won\nYou will have to talk\na prize, award or medal.\nabout the topic for one\nYou should say:\n= sgSapplg\nwho this person is\niron rinse ; i\nwhich prize, award or medal they received\nraiaoln pe a\nwhat they did to win this\nALOU\nNO\nSey\ncan make some notes\nand explain whether you think it was right that this\nto help you if you wish.\nperson received this prize, award or medal.\nPART 3\nDiscussion topics:\nRewards for children at school\nExample questions:\nWhat types of school prizes do children in your country receive?\nWhat do you think are the advantages of rewarding schoolchildren for good work?\nDo you agree that it's more important for children to receive rewards from their parents\nthan from teachers?\nRewards for sportspeople\nExample questions:\nDo you think that some sportspeople (e.g., top footballers) are paid too much money?\nShould everyone on a team get the same prize money when they win?\nDo you agree with the view thal, in sport, taking part is more important than winning?\n54\n",
+  "blocks": [
+    {
+      "box": [
+        43.91011428833008,
+        35.631988525390625,
+        73.0455322265625,
+        43.918373107910156
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        43.190277099609375,
+        105.45623016357422,
+        93.17583465576172,
+        115.18379211425781
+      ],
+      "text": "PART\n1\n"
+    },
+    {
+      "box": [
+        42.47043991088867,
+        129.93075561523438,
+        415.6614685058594,
+        152.97564697265625
+      ],
+      "text": "The examiner asks you about yourself, your home, work or studies and other\nfamiliar topics.\n"
+    },
+    {
+      "box": [
+        42.83035659790039,
+        168.80201721191406,
+        94.93211364746094,
+        176.72813415527344
+      ],
+      "text": "EXAMPLE\n"
+    },
+    {
+      "box": [
+        42.47043991088867,
+        188.59756469726562,
+        141.0342559814453,
+        199.045654296875
+      ],
+      "text": "Travelling by plane\n"
+    },
+    {
+      "box": [
+        42.830352783203125,
+        208.75299072265625,
+        456.9172058105469,
+        258.4326477050781
+      ],
+      "text": "e\nHave you travelled a lot by plane? [To where?/Why not?]\ne Why do you think some people enjoy travelling by plane?\ne\nWould you like to live near an airport? [Why/Why not?]\ne\nInthe future, do you think that you will travel by plane more often? [Why/Why not?]\n"
+    },
+    {
+      "box": [
+        43.19028854370117,
+        272.0987854003906,
+        94.25379180908203,
+        281.8262939453125
+      ],
+      "text": "PART 2\n"
+    },
+    {
+      "box": [
+        54.347721099853516,
+        304.1315612792969,
+        457.7448425292969,
+        417.5164794921875
+      ],
+      "text": "Describe a person from your country who has won\nYou will have to talk\na prize, award or medal.\nabout the topic for one\nYou should say:\n= sgSapplg\nwho this person is\niron rinse ; i\nwhich prize, award or medal they received\nraiaoln pe a\nwhat they did to win this\nALOU\nNO\nSey\ncan make some notes\nand explain whether you think it was right that this\nto help you if you wish.\nperson received this prize, award or medal.\n"
+    },
+    {
+      "box": [
+        43.19022750854492,
+        447.0193786621094,
+        94.26274108886719,
+        456.38665771484375
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        42.8303108215332,
+        467.5347900390625,
+        148.79042053222656,
+        479.0636901855469
+      ],
+      "text": "Discussion topics:\n"
+    },
+    {
+      "box": [
+        42.83030700683594,
+        488.7699890136719,
+        202.10523986816406,
+        497.056396484375
+      ],
+      "text": "Rewards for children at school\n"
+    },
+    {
+      "box": [
+        42.47039031982422,
+        507.4857482910156,
+        461.7687683105469,
+        567.6005249023438
+      ],
+      "text": "Example questions:\nWhat types of school prizes do children in your country receive?\nWhat do you think are the advantages of rewarding schoolchildren for good work?\nDo you agree that it's more important for children to receive rewards from their parents\nthan from teachers?\n"
+    },
+    {
+      "box": [
+        42.8303337097168,
+        579.4696044921875,
+        177.38233947753906,
+        589.557373046875
+      ],
+      "text": "Rewards for sportspeople\n"
+    },
+    {
+      "box": [
+        42.470420837402344,
+        598.1853637695312,
+        456.5212707519531,
+        647.5046997070312
+      ],
+      "text": "Example questions:\nDo you think that some sportspeople (e.g., top footballers) are paid too much money?\nShould everyone on a team get the same prize money when they win?\nDo you agree with the view thal, in sport, taking part is more important than winning?\n"
+    },
+    {
+      "box": [
+        42.830322265625,
+        672.6885986328125,
+        53.599098205566406,
+        680.61474609375
+      ],
+      "text": "54\n"
+    }
+  ]
+}

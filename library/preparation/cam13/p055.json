@@ -1,0 +1,111 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 55,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nQuestions 17 and 18\nChoose TWO letters, A-E.\nFor which TWO reasons does the speaker say people give up going to the gym?\nA\nlack of time\nB\nloss of confidence\nC_\ntoo much effort required\nD\nhigh costs\nE\nfeeling less successful than others\nQuestions 19 and 20\nChoose TWO letters, A-E.\nWhich TWO pieces of advice does the speaker give for setting goals?\nA\nwrite goals down\nB\nhave achievable aims\nC\nseta\ntime limit\n|\nD\ngive yourself rewards\nE\nchallenge yourself\n56\n",
+  "blocks": [
+    {
+      "box": [
+        99.36000061035156,
+        59.4000244140625,
+        131.71499633789062,
+        68.40902709960938
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        99.36000061035156,
+        96.1199951171875,
+        221.34243774414062,
+        107.65153503417969
+      ],
+      "text": "Questions 17 and 18\n"
+    },
+    {
+      "box": [
+        99.36000061035156,
+        125.280029296875,
+        241.1279754638672,
+        136.0908203125
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        99.36000061035156,
+        151.20001220703125,
+        532.281494140625,
+        164.89369201660156
+      ],
+      "text": "For which TWO reasons does the speaker say people give up going to the gym?\n"
+    },
+    {
+      "box": [
+        125.27999877929688,
+        176.4000244140625,
+        249.1197509765625,
+        200.17005920410156
+      ],
+      "text": "A\nlack of time\nB\nloss of confidence\n"
+    },
+    {
+      "box": [
+        126.0,
+        204.47998046875,
+        337.60797119140625,
+        245.17221069335938
+      ],
+      "text": "C_\ntoo much effort required\nD\nhigh costs\nE\nfeeling less successful than others\n"
+    },
+    {
+      "box": [
+        100.44000244140625,
+        289.44000244140625,
+        222.47999572753906,
+        300.97149658203125
+      ],
+      "text": "Questions 19 and 20\n"
+    },
+    {
+      "box": [
+        100.08000183105469,
+        318.6000061035156,
+        242.20797729492188,
+        329.4107971191406
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        99.36000061035156,
+        345.6000061035156,
+        474.8039855957031,
+        359.2936706542969
+      ],
+      "text": "Which TWO pieces of advice does the speaker give for setting goals?\n"
+    },
+    {
+      "box": [
+        126.36001586914062,
+        369.7200012207031,
+        596.1456298828125,
+        439.2122497558594
+      ],
+      "text": "A\nwrite goals down\nB\nhave achievable aims\nC\nseta\ntime limit\n|\nD\ngive yourself rewards\nE\nchallenge yourself\n"
+    },
+    {
+      "box": [
+        102.2400131225586,
+        763.9200439453125,
+        114.75000762939453,
+        772.9290161132812
+      ],
+      "text": "56\n"
+    }
+  ]
+}

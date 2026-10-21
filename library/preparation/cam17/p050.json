@@ -1,0 +1,201 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 50,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nEs\nAra\niia 1718867188\nQuestions 25-30\nWhat do Holly and her tutor agree is an important aspect of each of the following events\nmanagement skills?\nChoose SIX answers from the box and write the correct letter, A-H, next to\nQuestions 25-30.\nImportant aspects\nA\nbeing flexible\nB __ focusing on details\nC\nhaving a smart appearance\nD\nhiding your emotions\nE _\nrelying on experts\nF\ntrusting your own views\nG_\ndoing one thing at a time\nH__ thinking of the future\nEvents management skills\n25\nCommunication\nsaveeveoeeroavere\n26\nOrganisation\ncpcoreeeereroren\n27\nTime management\nsvereteseesvorceses\n28\nCreativity\n cosssessuassseene\n29\nLeadership\nse ssssssenunnssees\n30\nNetworking\ncssseessnnseeeee\n>/Q p. 123\np.109|\n57\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        6.478659629821777,
+        511.4405517578125,
+        48.249000549316406
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nEs\nAra\niia 1718867188\n"
+    },
+    {
+      "box": [
+        61.907535552978516,
+        82.06343078613281,
+        158.47613525390625,
+        92.15149688720703
+      ],
+      "text": "Questions 25-30\n"
+    },
+    {
+      "box": [
+        61.18768310546875,
+        110.49771881103516,
+        519.9153442382812,
+        135.34385681152344
+      ],
+      "text": "What do Holly and her tutor agree is an important aspect of each of the following events\nmanagement skills?\n"
+    },
+    {
+      "box": [
+        61.90755081176758,
+        152.24928283691406,
+        452.4000549316406,
+        175.65394592285156
+      ],
+      "text": "Choose SIX answers from the box and write the correct letter, A-H, next to\nQuestions 25-30.\n"
+    },
+    {
+      "box": [
+        242.5911407470703,
+        205.5186004638672,
+        343.26287841796875,
+        216.32720947265625
+      ],
+      "text": "Important aspects\n"
+    },
+    {
+      "box": [
+        178.88400268554688,
+        227.11424255371094,
+        273.04095458984375,
+        237.9228515625
+      ],
+      "text": "A\nbeing flexible\n"
+    },
+    {
+      "box": [
+        179.60385131835938,
+        246.9102325439453,
+        301.8964538574219,
+        260.60113525390625
+      ],
+      "text": "B __ focusing on details\n"
+    },
+    {
+      "box": [
+        179.24392700195312,
+        269.94561767578125,
+        347.510009765625,
+        281.114501953125
+      ],
+      "text": "C\nhaving a smart appearance\n"
+    },
+    {
+      "box": [
+        179.60385131835938,
+        291.9011535644531,
+        312.9929504394531,
+        302.70977783203125
+      ],
+      "text": "D\nhiding your emotions\n"
+    },
+    {
+      "box": [
+        179.60385131835938,
+        312.05706787109375,
+        297.3252868652344,
+        325.74798583984375
+      ],
+      "text": "E _\nrelying on experts\n"
+    },
+    {
+      "box": [
+        179.60385131835938,
+        335.0924377441406,
+        327.11114501953125,
+        346.2613525390625
+      ],
+      "text": "F\ntrusting your own views\n"
+    },
+    {
+      "box": [
+        179.24392700195312,
+        356.3281555175781,
+        333.4800720214844,
+        367.4970703125
+      ],
+      "text": "G_\ndoing one thing at a time\n"
+    },
+    {
+      "box": [
+        179.60385131835938,
+        376.84405517578125,
+        311.30133056640625,
+        390.895263671875
+      ],
+      "text": "H__ thinking of the future\n"
+    },
+    {
+      "box": [
+        87.82235717773438,
+        427.9537353515625,
+        234.0608673095703,
+        438.7623596191406
+      ],
+      "text": "Events management skills\n"
+    },
+    {
+      "box": [
+        61.18772506713867,
+        455.66815185546875,
+        300.3523864746094,
+        464.3150329589844
+      ],
+      "text": "25\nCommunication\nsaveeveoeeroavere\n"
+    },
+    {
+      "box": [
+        61.18770980834961,
+        477.2637939453125,
+        300.3522033691406,
+        488.4327087402344
+      ],
+      "text": "26\nOrganisation\ncpcoreeeereroren\n"
+    },
+    {
+      "box": [
+        61.18769454956055,
+        498.85943603515625,
+        299.96368408203125,
+        509.6680603027344
+      ],
+      "text": "27\nTime management\nsvereteseesvorceses\n"
+    },
+    {
+      "box": [
+        61.18769454956055,
+        520.455078125,
+        300.5033874511719,
+        531.2637329101562
+      ],
+      "text": "28\nCreativity\n cosssessuassseene\n"
+    },
+    {
+      "box": [
+        61.187679290771484,
+        540.6109619140625,
+        299.63232421875,
+        554.3018798828125
+      ],
+      "text": "29\nLeadership\nse ssssssenunnssees\n"
+    },
+    {
+      "box": [
+        61.54759216308594,
+        564.0062866210938,
+        299.7477722167969,
+        574.81494140625
+      ],
+      "text": "30\nNetworking\ncssseessnnseeeee\n"
+    },
+    {
+      "box": [
+        362.806884765625,
+        729.2130126953125,
+        525.1268920898438,
+        741.4627685546875
+      ],
+      "text": ">/Q p. 123\np.109|\n57\n"
+    }
+  ]
+}

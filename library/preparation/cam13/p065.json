@@ -1,0 +1,156 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 65,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Test 3\nQuestions 14-17\nLook at the following ideas (Questions 14-17) and the list of researchers below.\nMatch each idea with the correct researcher, A, B or C.\nWrite the correct letter, A, B or C, in boxes 14-17\non your answer sheet.\nNB\nYou may use any letter more than once.\n14\nthe importance of adults giving babies individual attention when talking to them\n15\nthe connection between what babies hear and their own efforts to create speech\n16\nthe advantage for the baby of having two parents each speaking in a different way\n17\nthe connection between the amount of baby talk babies hear and how much\nvocalising they do themselves\nList of Researchers\nA\nMark VanDam\nB_\nNairan Ramirez-Esparza\nC_\nPatricia Kuhl\n|\n66\n",
+  "blocks": [
+    {
+      "box": [
+        102.5999984741211,
+        48.239990234375,
+        134.59500122070312,
+        57.24898910522461
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        102.23999786376953,
+        85.32000732421875,
+        201.55499267578125,
+        95.77044677734375
+      ],
+      "text": "Questions 14-17\n"
+    },
+    {
+      "box": [
+        101.87999725341797,
+        113.03997802734375,
+        525.7081909179688,
+        125.65261840820312
+      ],
+      "text": "Look at the following ideas (Questions 14-17) and the list of researchers below.\n"
+    },
+    {
+      "box": [
+        101.8800048828125,
+        141.47998046875,
+        395.26922607421875,
+        151.930419921875
+      ],
+      "text": "Match each idea with the correct researcher, A, B or C.\n"
+    },
+    {
+      "box": [
+        102.60000610351562,
+        169.55999755859375,
+        486.5184631347656,
+        181.09153747558594
+      ],
+      "text": "Write the correct letter, A, B or C, in boxes 14-17\non your answer sheet.\n"
+    },
+    {
+      "box": [
+        101.88003540039062,
+        198.3599853515625,
+        340.4610290527344,
+        210.2518768310547
+      ],
+      "text": "NB\nYou may use any letter more than once.\n"
+    },
+    {
+      "box": [
+        102.24002075195312,
+        225.719970703125,
+        548.5679931640625,
+        238.33261108398438
+      ],
+      "text": "14\nthe importance of adults giving babies individual attention when talking to them\n"
+    },
+    {
+      "box": [
+        102.239990234375,
+        247.32000732421875,
+        556.0703125,
+        258.8515319824219
+      ],
+      "text": "15\nthe connection between what babies hear and their own efforts to create speech\n"
+    },
+    {
+      "box": [
+        102.60000610351562,
+        269.280029296875,
+        566.2008056640625,
+        282.2529602050781
+      ],
+      "text": "16\nthe advantage for the baby of having two parents each speaking in a different way\n"
+    },
+    {
+      "box": [
+        102.60000610351562,
+        291.6000061035156,
+        532.994384765625,
+        318.61187744140625
+      ],
+      "text": "17\nthe connection between the amount of baby talk babies hear and how much\nvocalising they do themselves\n"
+    },
+    {
+      "box": [
+        283.32000732421875,
+        346.32000732421875,
+        394.4770812988281,
+        355.6893615722656
+      ],
+      "text": "List of Researchers\n"
+    },
+    {
+      "box": [
+        258.1199951171875,
+        368.6400146484375,
+        359.8487548828125,
+        378.0093688964844
+      ],
+      "text": "A\nMark VanDam\n"
+    },
+    {
+      "box": [
+        258.4800109863281,
+        390.239990234375,
+        415.9443054199219,
+        401.7715148925781
+      ],
+      "text": "B_\nNairan Ramirez-Esparza\n"
+    },
+    {
+      "box": [
+        258.4800109863281,
+        412.9200134277344,
+        351.5400085449219,
+        421.92901611328125
+      ],
+      "text": "C_\nPatricia Kuhl\n"
+    },
+    {
+      "box": [
+        595.0800170898438,
+        567.0,
+        595.7550048828125,
+        576.0089721679688
+      ],
+      "text": "|\n"
+    },
+    {
+      "box": [
+        103.32000732421875,
+        746.280029296875,
+        115.83000183105469,
+        755.2890014648438
+      ],
+      "text": "66\n"
+    }
+  ]
+}

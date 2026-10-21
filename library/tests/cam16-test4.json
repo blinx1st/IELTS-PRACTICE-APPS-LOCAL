@@ -4,7 +4,7 @@
   "book": 16,
   "test": 4,
   "title": "Cambridge 16 · Test 4",
-  "version": "2026-10-21.1",
+  "version": "2026-10-21.1.inline2.layout1",
   "verification": {
     "status": "verified",
     "note": "All 3 passages and 40 questions, options, instructions and word limits compared with rendered supplied PDF pages. OCR word joins, paragraph boundaries, source accents and unreadable completion blanks corrected. Private key separately read against printed source key.",
@@ -391,7 +391,64 @@
               "value": "H",
               "label": "thorough"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Studies on digital screen use\nThere have been many studies on digital screen use, showing some ",
+                  {
+                    "number": 18
+                  },
+                  " trends. Psychologist Anne Mangen gave high-school students a short story to read, half using digital and half using print mediums. Her team then used a question-and-answer technique to find out how ",
+                  {
+                    "number": 19
+                  },
+                  " each group’s understanding of the plot was. The findings showed a clear pattern in the responses, with those who read screens finding the order of information ",
+                  {
+                    "number": 20
+                  },
+                  " to recall.\nStudies by Ziming Liu show that students are tending to read ",
+                  {
+                    "number": 21
+                  },
+                  " words and phrases in a text to save time. This approach, she says, gives the reader a superficial understanding of the ",
+                  {
+                    "number": 22
+                  },
+                  " content of material, leaving no time for thought."
+                ],
+                "anchors": [
+                  "cam16-t4-p2-g2-body",
+                  "",
+                  "cam16-t4-p2-g2-body",
+                  "",
+                  "cam16-t4-p2-g2-body",
+                  "",
+                  "cam16-t4-p2-g2-body",
+                  "",
+                  "cam16-t4-p2-g2-body",
+                  "",
+                  "cam16-t4-p2-g2-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  108,
+                  0,
+                  320,
+                  0,
+                  493,
+                  0,
+                  579,
+                  0,
+                  712
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam16-t4-p2-g3",

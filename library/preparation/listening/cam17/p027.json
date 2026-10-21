@@ -1,0 +1,228 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 27,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hea\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 2\nRee a\na 1718867188\nPART 3\nQuestions 21-30\nnee\neee\n)\nQuestions 21 and 22\nfa es\nChoose TWO letters, A-E.\nListening test audio\nWhich TWO things do the students agree they need to include in their reviews of\nRomeo and Juliet?\nA\nanalysis of the text\nB\n asummary of the plot\nC_\nadescription of the theatre\nDa personal reaction\nE\n areference to particular scenes\nQuestions 23-27\nWhich opinion do the speakers give about each of the following aspects of\nThe Emporium’s production of Romeo and Juliet?\nChoose FIVE answers from the box and write the correct letter, A-G, next to\nQuestions 23-27.\nOpinions\nA __ They both expected this to be more traditional.\nB_\nThey both thought this was original.\nC_\nThey agree this created the right atmosphere.\nD_\nThey agree this was a major strength.\nE\nThey were both disappointed by this.\nF\nThey disagree about why this was an issue.\nG__\nThey disagree about how this could be improved.\nAspects of the production\n23\nthe set\nv sessneeenseee\n24\nthe lighting\n cesssseensseee\n25\nthe costume design\nv seeeeeuneseceenee\n26\nthe music\nc sesssaseenseeen\n27\nthe actors’ delivery\n« sasesessnsseeesen\n34\n",
+  "blocks": [
+    {
+      "box": [
+        71.62554931640625,
+        6.478659629821777,
+        511.4405517578125,
+        64.45471954345703
+      ],
+      "text": "hea\nah ve\nBE, EAURERORAER\nrene\nBy\nTest 2\nRee a\na 1718867188\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        74.50497436523438,
+        509.20013427734375,
+        126.35289001464844
+      ],
+      "text": "PART 3\nQuestions 21-30\nnee\neee\n)\nQuestions 21 and 22\nfa es\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        133.89300537109375,
+        514.120361328125,
+        149.0250701904297
+      ],
+      "text": "Choose TWO letters, A-E.\nListening test audio\n"
+    },
+    {
+      "box": [
+        70.54574584960938,
+        166.6464080810547,
+        491.6608581542969,
+        189.33047485351562
+      ],
+      "text": "Which TWO things do the students agree they need to include in their reviews of\nRomeo and Juliet?\n"
+    },
+    {
+      "box": [
+        96.10061645507812,
+        202.27928161621094,
+        235.32054138183594,
+        227.125
+      ],
+      "text": "A\nanalysis of the text\nB\n asummary of the plot\n"
+    },
+    {
+      "box": [
+        96.4605484008789,
+        229.99363708496094,
+        287.11407470703125,
+        269.23651123046875
+      ],
+      "text": "C_\nadescription of the theatre\nDa personal reaction\nE\n areference to particular scenes\n"
+    },
+    {
+      "box": [
+        71.26561737060547,
+        294.4206848144531,
+        167.83421325683594,
+        304.50872802734375
+      ],
+      "text": "Questions 23-27\n"
+    },
+    {
+      "box": [
+        70.54576110839844,
+        322.85491943359375,
+        458.87152099609375,
+        347.7010803222656
+      ],
+      "text": "Which opinion do the speakers give about each of the following aspects of\nThe Emporium’s production of Romeo and Juliet?\n"
+    },
+    {
+      "box": [
+        71.26563262939453,
+        364.6065368652344,
+        469.31658935546875,
+        388.01116943359375
+      ],
+      "text": "Choose FIVE answers from the box and write the correct letter, A-G, next to\nQuestions 23-27.\n"
+    },
+    {
+      "box": [
+        276.7842102050781,
+        414.6363830566406,
+        326.88616943359375,
+        425.4450378417969
+      ],
+      "text": "Opinions\n"
+    },
+    {
+      "box": [
+        160.16770935058594,
+        434.7923583984375,
+        428.1050109863281,
+        448.84356689453125
+      ],
+      "text": "A __ They both expected this to be more traditional.\n"
+    },
+    {
+      "box": [
+        160.8875732421875,
+        458.1876220703125,
+        370.9773254394531,
+        468.99627685546875
+      ],
+      "text": "B_\nThey both thought this was original.\n"
+    },
+    {
+      "box": [
+        160.8875732421875,
+        479.78326416015625,
+        424.42645263671875,
+        490.5919189453125
+      ],
+      "text": "C_\nThey agree this created the right atmosphere.\n"
+    },
+    {
+      "box": [
+        160.8875732421875,
+        501.01898193359375,
+        382.9088439941406,
+        511.82763671875
+      ],
+      "text": "D_\nThey agree this was a major strength.\n"
+    },
+    {
+      "box": [
+        160.8875732421875,
+        522.974609375,
+        377.9238586425781,
+        533.783203125
+      ],
+      "text": "E\nThey were both disappointed by this.\n"
+    },
+    {
+      "box": [
+        160.8875732421875,
+        544.5702514648438,
+        413.9164733886719,
+        555.3788452148438
+      ],
+      "text": "F\nThey disagree about why this was an issue.\n"
+    },
+    {
+      "box": [
+        160.8875732421875,
+        566.1658935546875,
+        442.7288818359375,
+        576.9745483398438
+      ],
+      "text": "G__\nThey disagree about how this could be improved.\n"
+    },
+    {
+      "box": [
+        96.10062408447266,
+        600.3589477539062,
+        241.69129943847656,
+        611.1676025390625
+      ],
+      "text": "Aspects of the production\n"
+    },
+    {
+      "box": [
+        70.54576110839844,
+        621.9546508789062,
+        309.4943542480469,
+        630.6015625
+      ],
+      "text": "23\nthe set\nv sessneeenseee\n"
+    },
+    {
+      "box": [
+        70.5457763671875,
+        643.5502319335938,
+        309.3758544921875,
+        654.7191772460938
+      ],
+      "text": "24\nthe lighting\n cesssseensseee\n"
+    },
+    {
+      "box": [
+        70.5457763671875,
+        665.505859375,
+        308.8898620605469,
+        676.314453125
+      ],
+      "text": "25\nthe costume design\nv seeeeeuneseceenee\n"
+    },
+    {
+      "box": [
+        70.5457763671875,
+        687.1015014648438,
+        309.32147216796875,
+        695.7484130859375
+      ],
+      "text": "26\nthe music\nc sesssaseenseeen\n"
+    },
+    {
+      "box": [
+        70.5457763671875,
+        708.3372192382812,
+        308.8898620605469,
+        719.1458129882812
+      ],
+      "text": "27\nthe actors’ delivery\n« sasesessnsseeesen\n"
+    },
+    {
+      "box": [
+        70.90570831298828,
+        731.0126342773438,
+        82.74371337890625,
+        739.2992553710938
+      ],
+      "text": "34\n"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 79,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 4\nQuestions 15-18\nWhat reason prevented each of the following members of the Compton Park Runners\nClub from joining until recently?\nWrite the correct letter, A, B, or C next to Questions 15-18.\nReasons\nA\nalack of confidence\nB_\nadislike of running\nC_alack of time\nClub members\n15\nCeri\n‘eileen\n16\nJames\nnese\n17\nLeo\nre\nne\n18\nMark\nsoousnannnennneee\nQuestions 19 and 20\nChoose the correct letter, A, B or C.\n19\nWhat does Liz say about running her first marathon?\nA\nIt had always been her ambition.\nB_\nHer husband persuaded her to do it.\nC_\nShe nearly gave up before the end.\n20\nLiz says new runners should sign up for a race\nA\nevery six months.\nB_\nwithin a few weeks of taking up running.\nC\nafter completing several practice runs.\n80\n>|@\np. 126]\n[9 p. 115\n",
+  "blocks": [
+    {
+      "box": [
+        48.22914505004883,
+        32.392730712890625,
+        76.64472198486328,
+        40.679115295410156
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        47.14938735961914,
+        66.58499145507812,
+        137.3992156982422,
+        75.9522933959961
+      ],
+      "text": "Questions 15-18\n"
+    },
+    {
+      "box": [
+        46.42954635620117,
+        92.85911560058594,
+        459.9331970214844,
+        118.42448425292969
+      ],
+      "text": "What reason prevented each of the following members of the Compton Park Runners\nClub from joining until recently?\n"
+    },
+    {
+      "box": [
+        47.149375915527344,
+        132.8101348876953,
+        332.39215087890625,
+        142.89788818359375
+      ],
+      "text": "Write the correct letter, A, B, or C next to Questions 15-18.\n"
+    },
+    {
+      "box": [
+        238.98619079589844,
+        166.28256225585938,
+        283.0257263183594,
+        174.56895446777344
+      ],
+      "text": "Reasons\n"
+    },
+    {
+      "box": [
+        173.8408660888672,
+        186.07809448242188,
+        294.01806640625,
+        194.3645477294922
+      ],
+      "text": "A\nalack of confidence\n"
+    },
+    {
+      "box": [
+        173.8408660888672,
+        204.79391479492188,
+        288.09356689453125,
+        231.4362030029297
+      ],
+      "text": "B_\nadislike of running\nC_alack of time\n"
+    },
+    {
+      "box": [
+        69.82427978515625,
+        268.8594970703125,
+        145.34426879882812,
+        277.1459045410156
+      ],
+      "text": "Club members\n"
+    },
+    {
+      "box": [
+        46.06962966918945,
+        290.0946960449219,
+        195.48098754882812,
+        299.1016845703125
+      ],
+      "text": "15\nCeri\n‘eileen\n"
+    },
+    {
+      "box": [
+        46.06962966918945,
+        311.6898498535156,
+        195.61593627929688,
+        320.69683837890625
+      ],
+      "text": "16\nJames\nnese\n"
+    },
+    {
+      "box": [
+        46.06962966918945,
+        332.925048828125,
+        195.3460235595703,
+        341.9320373535156
+      ],
+      "text": "17\nLeo\nre\nne\n"
+    },
+    {
+      "box": [
+        45.709712982177734,
+        353.08050537109375,
+        195.03118896484375,
+        362.0874938964844
+      ],
+      "text": "18\nMark\nsoousnannnennneee\n"
+    },
+    {
+      "box": [
+        45.709712982177734,
+        386.5530090332031,
+        155.42376708984375,
+        396.2804870605469
+      ],
+      "text": "Questions 19 and 20\n"
+    },
+    {
+      "box": [
+        45.709712982177734,
+        413.1869812011719,
+        218.0821075439453,
+        423.2747802734375
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        45.34979248046875,
+        440.180908203125,
+        322.4496154785156,
+        451.3495788574219
+      ],
+      "text": "19\nWhat does Liz say about running her first marathon?\n"
+    },
+    {
+      "box": [
+        68.74453735351562,
+        460.3363952636719,
+        249.47784423828125,
+        471.1447448730469
+      ],
+      "text": "A\nIt had always been her ambition.\n"
+    },
+    {
+      "box": [
+        69.10445404052734,
+        473.65338134765625,
+        266.9537048339844,
+        484.1014709472656
+      ],
+      "text": "B_\nHer husband persuaded her to do it.\n"
+    },
+    {
+      "box": [
+        68.74453735351562,
+        486.25054931640625,
+        262.5968933105469,
+        497.0589294433594
+      ],
+      "text": "C_\nShe nearly gave up before the end.\n"
+    },
+    {
+      "box": [
+        44.62995147705078,
+        506.406005859375,
+        293.84503173828125,
+        517.5746459960938
+      ],
+      "text": "20\nLiz says new runners should sign up for a race\n"
+    },
+    {
+      "box": [
+        68.38459777832031,
+        526.5615234375,
+        176.5510711669922,
+        537.0095825195312
+      ],
+      "text": "A\nevery six months.\n"
+    },
+    {
+      "box": [
+        68.38459777832031,
+        539.5185546875,
+        285.0414733886719,
+        563.644287109375
+      ],
+      "text": "B_\nwithin a few weeks of taking up running.\nC\nafter completing several practice runs.\n"
+    },
+    {
+      "box": [
+        43.91011428833008,
+        668.0096435546875,
+        198.8588409423828,
+        681.3399658203125
+      ],
+      "text": "80\n>|@\np. 126]\n[9 p. 115\n"
+    }
+  ]
+}

@@ -1,0 +1,1266 @@
+{
+  "audioSha256": "57096d17d19f60b1db2efa7d10c8d024086a69b8552eb13c02666e184c1eee40",
+  "duration": 418.0898125,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 298.0898125,
+      "end": 302.2898125,
+      "text": " them to be able to hold something, rather than just looking at pictures.",
+      "words": [
+        {
+          "word": " them",
+          "start": 298.0898125,
+          "end": 298.2698125
+        },
+        {
+          "word": " to",
+          "start": 298.2698125,
+          "end": 298.5698125
+        },
+        {
+          "word": " be",
+          "start": 298.5698125,
+          "end": 298.6498125
+        },
+        {
+          "word": " able",
+          "start": 298.6498125,
+          "end": 298.8898125
+        },
+        {
+          "word": " to",
+          "start": 298.8898125,
+          "end": 299.0098125
+        },
+        {
+          "word": " hold",
+          "start": 299.0098125,
+          "end": 299.42981249999997
+        },
+        {
+          "word": " something,",
+          "start": 299.42981249999997,
+          "end": 300.0098125
+        },
+        {
+          "word": " rather",
+          "start": 300.1298125,
+          "end": 300.4698125
+        },
+        {
+          "word": " than",
+          "start": 300.4698125,
+          "end": 300.8298125
+        },
+        {
+          "word": " just",
+          "start": 300.8298125,
+          "end": 301.3298125
+        },
+        {
+          "word": " looking",
+          "start": 301.3298125,
+          "end": 301.5498125
+        },
+        {
+          "word": " at",
+          "start": 301.5498125,
+          "end": 301.8498125
+        },
+        {
+          "word": " pictures.",
+          "start": 301.8498125,
+          "end": 302.2898125
+        }
+      ]
+    },
+    {
+      "start": 302.9498125,
+      "end": 307.42981249999997,
+      "text": " Those physical examples supported her verbal explanations really well.",
+      "words": [
+        {
+          "word": " Those",
+          "start": 302.9498125,
+          "end": 303.1698125
+        },
+        {
+          "word": " physical",
+          "start": 303.1698125,
+          "end": 303.6298125
+        },
+        {
+          "word": " examples",
+          "start": 303.6298125,
+          "end": 304.3898125
+        },
+        {
+          "word": " supported",
+          "start": 304.3898125,
+          "end": 304.9498125
+        },
+        {
+          "word": " her",
+          "start": 304.9498125,
+          "end": 305.3298125
+        },
+        {
+          "word": " verbal",
+          "start": 305.3298125,
+          "end": 305.6698125
+        },
+        {
+          "word": " explanations",
+          "start": 305.6698125,
+          "end": 306.48981249999997
+        },
+        {
+          "word": " really",
+          "start": 306.48981249999997,
+          "end": 306.9498125
+        },
+        {
+          "word": " well.",
+          "start": 306.9498125,
+          "end": 307.42981249999997
+        }
+      ]
+    },
+    {
+      "start": 307.98981249999997,
+      "end": 312.48981249999997,
+      "text": " It's strange that origami isn't used more widely. Why do you think that is?",
+      "words": [
+        {
+          "word": " It's",
+          "start": 307.98981249999997,
+          "end": 308.0498125
+        },
+        {
+          "word": " strange",
+          "start": 308.0498125,
+          "end": 308.48981249999997
+        },
+        {
+          "word": " that",
+          "start": 308.48981249999997,
+          "end": 308.7498125
+        },
+        {
+          "word": " origami",
+          "start": 308.7498125,
+          "end": 309.1898125
+        },
+        {
+          "word": " isn't",
+          "start": 309.1898125,
+          "end": 309.5098125
+        },
+        {
+          "word": " used",
+          "start": 309.5098125,
+          "end": 309.8498125
+        },
+        {
+          "word": " more",
+          "start": 309.8498125,
+          "end": 310.1298125
+        },
+        {
+          "word": " widely.",
+          "start": 310.1298125,
+          "end": 310.5898125
+        },
+        {
+          "word": " Why",
+          "start": 311.4698125,
+          "end": 311.7498125
+        },
+        {
+          "word": " do",
+          "start": 311.7498125,
+          "end": 311.8098125
+        },
+        {
+          "word": " you",
+          "start": 311.8098125,
+          "end": 311.9498125
+        },
+        {
+          "word": " think",
+          "start": 311.9498125,
+          "end": 312.1498125
+        },
+        {
+          "word": " that",
+          "start": 312.1498125,
+          "end": 312.36981249999997
+        },
+        {
+          "word": " is?",
+          "start": 312.36981249999997,
+          "end": 312.67981249999997
+        }
+      ]
+    },
+    {
+      "start": 313.4498125,
+      "end": 317.7698125,
+      "text": " Well, teachers may just feel it's not that appealing to children who are used to doing",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 313.4498125,
+          "end": 313.92981249999997
+        },
+        {
+          "word": " teachers",
+          "start": 314.0498125,
+          "end": 314.2298125
+        },
+        {
+          "word": " may",
+          "start": 314.2298125,
+          "end": 314.5898125
+        },
+        {
+          "word": " just",
+          "start": 314.5898125,
+          "end": 314.8298125
+        },
+        {
+          "word": " feel",
+          "start": 314.8298125,
+          "end": 315.0298125
+        },
+        {
+          "word": " it's",
+          "start": 315.0298125,
+          "end": 315.2498125
+        },
+        {
+          "word": " not",
+          "start": 315.2498125,
+          "end": 315.4698125
+        },
+        {
+          "word": " that",
+          "start": 315.4698125,
+          "end": 315.6898125
+        },
+        {
+          "word": " appealing",
+          "start": 315.6898125,
+          "end": 316.0898125
+        },
+        {
+          "word": " to",
+          "start": 316.0898125,
+          "end": 316.4498125
+        },
+        {
+          "word": " children",
+          "start": 316.4498125,
+          "end": 316.8298125
+        },
+        {
+          "word": " who",
+          "start": 316.8298125,
+          "end": 317.0298125
+        },
+        {
+          "word": " are",
+          "start": 317.0298125,
+          "end": 317.1898125
+        },
+        {
+          "word": " used",
+          "start": 317.1898125,
+          "end": 317.3498125
+        },
+        {
+          "word": " to",
+          "start": 317.3498125,
+          "end": 317.5098125
+        },
+        {
+          "word": " doing",
+          "start": 317.5098125,
+          "end": 317.7698125
+        }
+      ]
+    },
+    {
+      "start": 317.7698125,
+      "end": 322.8098125,
+      "text": " everything on computers, especially boys, even if they're aware of the benefits.",
+      "words": [
+        {
+          "word": " everything",
+          "start": 317.7698125,
+          "end": 318.1298125
+        },
+        {
+          "word": " on",
+          "start": 318.1298125,
+          "end": 318.4498125
+        },
+        {
+          "word": " computers,",
+          "start": 318.4498125,
+          "end": 318.92981249999997
+        },
+        {
+          "word": " especially",
+          "start": 319.5698125,
+          "end": 319.9498125
+        },
+        {
+          "word": " boys,",
+          "start": 319.9498125,
+          "end": 320.6698125
+        },
+        {
+          "word": " even",
+          "start": 321.0298125,
+          "end": 321.2498125
+        },
+        {
+          "word": " if",
+          "start": 321.2498125,
+          "end": 321.4098125
+        },
+        {
+          "word": " they're",
+          "start": 321.4098125,
+          "end": 321.6698125
+        },
+        {
+          "word": " aware",
+          "start": 321.6698125,
+          "end": 322.0098125
+        },
+        {
+          "word": " of",
+          "start": 322.0098125,
+          "end": 322.1898125
+        },
+        {
+          "word": " the",
+          "start": 322.1898125,
+          "end": 322.4498125
+        },
+        {
+          "word": " benefits.",
+          "start": 322.4498125,
+          "end": 322.8098125
+        }
+      ]
+    },
+    {
+      "start": 323.0698125,
+      "end": 326.92981249999997,
+      "text": " Oh, I don't know. It's no different to any other craft activity.",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 323.0698125,
+          "end": 323.36981249999997
+        },
+        {
+          "word": " I",
+          "start": 323.3898125,
+          "end": 323.42981249999997
+        },
+        {
+          "word": " don't",
+          "start": 323.42981249999997,
+          "end": 323.6298125
+        },
+        {
+          "word": " know.",
+          "start": 323.6298125,
+          "end": 323.98981249999997
+        },
+        {
+          "word": " It's",
+          "start": 324.2698125,
+          "end": 324.5298125
+        },
+        {
+          "word": " no",
+          "start": 324.5298125,
+          "end": 324.8098125
+        },
+        {
+          "word": " different",
+          "start": 324.8098125,
+          "end": 325.1698125
+        },
+        {
+          "word": " to",
+          "start": 325.1698125,
+          "end": 325.42981249999997
+        },
+        {
+          "word": " any",
+          "start": 325.42981249999997,
+          "end": 325.6498125
+        },
+        {
+          "word": " other",
+          "start": 325.6498125,
+          "end": 325.9698125
+        },
+        {
+          "word": " craft",
+          "start": 325.9698125,
+          "end": 326.2898125
+        },
+        {
+          "word": " activity.",
+          "start": 326.2898125,
+          "end": 326.92981249999997
+        }
+      ]
+    },
+    {
+      "start": 326.92981249999997,
+      "end": 331.4498125,
+      "text": " I bet it's because so many teachers are clumsy like me.",
+      "words": [
+        {
+          "word": " I",
+          "start": 326.92981249999997,
+          "end": 327.9498125
+        },
+        {
+          "word": " bet",
+          "start": 327.9498125,
+          "end": 328.2298125
+        },
+        {
+          "word": " it's",
+          "start": 328.2298125,
+          "end": 328.5498125
+        },
+        {
+          "word": " because",
+          "start": 328.5498125,
+          "end": 328.8098125
+        },
+        {
+          "word": " so",
+          "start": 328.8098125,
+          "end": 329.0898125
+        },
+        {
+          "word": " many",
+          "start": 329.0898125,
+          "end": 329.2898125
+        },
+        {
+          "word": " teachers",
+          "start": 329.2898125,
+          "end": 329.7698125
+        },
+        {
+          "word": " are",
+          "start": 329.7698125,
+          "end": 330.2898125
+        },
+        {
+          "word": " clumsy",
+          "start": 330.2898125,
+          "end": 330.6898125
+        },
+        {
+          "word": " like",
+          "start": 330.6898125,
+          "end": 331.0898125
+        },
+        {
+          "word": " me.",
+          "start": 331.0898125,
+          "end": 331.4498125
+        }
+      ]
+    },
+    {
+      "start": 331.7698125,
+      "end": 336.0098125,
+      "text": " That's true. Do you much effort required if you're not good with your hands?",
+      "words": [
+        {
+          "word": " That's",
+          "start": 331.7698125,
+          "end": 332.4098125
+        },
+        {
+          "word": " true.",
+          "start": 332.4098125,
+          "end": 332.9298125
+        },
+        {
+          "word": " Do",
+          "start": 333.1098125,
+          "end": 333.3098125
+        },
+        {
+          "word": " you",
+          "start": 333.3098125,
+          "end": 333.3898125
+        },
+        {
+          "word": " much",
+          "start": 333.3898125,
+          "end": 333.6298125
+        },
+        {
+          "word": " effort",
+          "start": 333.6298125,
+          "end": 333.9098125
+        },
+        {
+          "word": " required",
+          "start": 333.9098125,
+          "end": 334.4298125
+        },
+        {
+          "word": " if",
+          "start": 334.4298125,
+          "end": 334.6498125
+        },
+        {
+          "word": " you're",
+          "start": 334.6498125,
+          "end": 334.8298125
+        },
+        {
+          "word": " not",
+          "start": 334.8298125,
+          "end": 334.98981249999997
+        },
+        {
+          "word": " good",
+          "start": 334.98981249999997,
+          "end": 335.1698125
+        },
+        {
+          "word": " with",
+          "start": 335.1698125,
+          "end": 335.3298125
+        },
+        {
+          "word": " your",
+          "start": 335.3298125,
+          "end": 335.5898125
+        },
+        {
+          "word": " hands?",
+          "start": 335.5898125,
+          "end": 336.0098125
+        }
+      ]
+    },
+    {
+      "start": 336.5898125,
+      "end": 342.3898125,
+      "text": " Well anyway, I think we should try it out in our maths teaching practice with year three.",
+      "words": [
+        {
+          "word": " Well",
+          "start": 336.5898125,
+          "end": 336.6498125
+        },
+        {
+          "word": " anyway,",
+          "start": 336.6498125,
+          "end": 336.98981249999997
+        },
+        {
+          "word": " I",
+          "start": 337.4098125,
+          "end": 337.48981249999997
+        },
+        {
+          "word": " think",
+          "start": 337.48981249999997,
+          "end": 337.74981249999996
+        },
+        {
+          "word": " we",
+          "start": 337.74981249999996,
+          "end": 337.9498125
+        },
+        {
+          "word": " should",
+          "start": 337.9498125,
+          "end": 338.1898125
+        },
+        {
+          "word": " try",
+          "start": 338.1898125,
+          "end": 338.4298125
+        },
+        {
+          "word": " it",
+          "start": 338.4298125,
+          "end": 338.6698125
+        },
+        {
+          "word": " out",
+          "start": 338.6698125,
+          "end": 338.8298125
+        },
+        {
+          "word": " in",
+          "start": 338.8298125,
+          "end": 338.9698125
+        },
+        {
+          "word": " our",
+          "start": 338.9698125,
+          "end": 339.2898125
+        },
+        {
+          "word": " maths",
+          "start": 339.2898125,
+          "end": 339.7098125
+        },
+        {
+          "word": " teaching",
+          "start": 339.7098125,
+          "end": 340.3298125
+        },
+        {
+          "word": " practice",
+          "start": 340.3298125,
+          "end": 341.0298125
+        },
+        {
+          "word": " with",
+          "start": 341.0298125,
+          "end": 341.5498125
+        },
+        {
+          "word": " year",
+          "start": 341.5498125,
+          "end": 341.86981249999997
+        },
+        {
+          "word": " three.",
+          "start": 341.86981249999997,
+          "end": 342.3898125
+        }
+      ]
+    },
+    {
+      "start": 342.9498125,
+      "end": 349.1698125,
+      "text": " I can see using origami is a really engaging way of reinforcing children's knowledge of geometric",
+      "words": [
+        {
+          "word": " I",
+          "start": 342.9498125,
+          "end": 343.0298125
+        },
+        {
+          "word": " can",
+          "start": 343.0298125,
+          "end": 343.2898125
+        },
+        {
+          "word": " see",
+          "start": 343.2898125,
+          "end": 343.5298125
+        },
+        {
+          "word": " using",
+          "start": 343.5298125,
+          "end": 343.9098125
+        },
+        {
+          "word": " origami",
+          "start": 343.9098125,
+          "end": 344.4498125
+        },
+        {
+          "word": " is",
+          "start": 344.4498125,
+          "end": 344.9298125
+        },
+        {
+          "word": " a",
+          "start": 344.9298125,
+          "end": 345.1698125
+        },
+        {
+          "word": " really",
+          "start": 345.1698125,
+          "end": 345.3098125
+        },
+        {
+          "word": " engaging",
+          "start": 345.3098125,
+          "end": 345.86981249999997
+        },
+        {
+          "word": " way",
+          "start": 345.86981249999997,
+          "end": 346.2098125
+        },
+        {
+          "word": " of",
+          "start": 346.2098125,
+          "end": 346.6698125
+        },
+        {
+          "word": " reinforcing",
+          "start": 346.6698125,
+          "end": 347.0698125
+        },
+        {
+          "word": " children's",
+          "start": 347.0698125,
+          "end": 348.0898125
+        },
+        {
+          "word": " knowledge",
+          "start": 348.0898125,
+          "end": 348.4098125
+        },
+        {
+          "word": " of",
+          "start": 348.4098125,
+          "end": 348.7298125
+        },
+        {
+          "word": " geometric",
+          "start": 348.7298125,
+          "end": 349.1698125
+        }
+      ]
+    },
+    {
+      "start": 349.1698125,
+      "end": 355.1698125,
+      "text": " shapes, like they were doing in the video. But I think it would also work really well",
+      "words": [
+        {
+          "word": " shapes,",
+          "start": 349.1698125,
+          "end": 349.8898125
+        },
+        {
+          "word": " like",
+          "start": 350.2298125,
+          "end": 350.4698125
+        },
+        {
+          "word": " they",
+          "start": 350.4698125,
+          "end": 350.6498125
+        },
+        {
+          "word": " were",
+          "start": 350.6498125,
+          "end": 350.74981249999996
+        },
+        {
+          "word": " doing",
+          "start": 350.74981249999996,
+          "end": 351.0098125
+        },
+        {
+          "word": " in",
+          "start": 351.0098125,
+          "end": 351.24981249999996
+        },
+        {
+          "word": " the",
+          "start": 351.24981249999996,
+          "end": 351.4098125
+        },
+        {
+          "word": " video.",
+          "start": 351.4098125,
+          "end": 351.8498125
+        },
+        {
+          "word": " But",
+          "start": 352.2898125,
+          "end": 352.8298125
+        },
+        {
+          "word": " I",
+          "start": 352.8298125,
+          "end": 353.1098125
+        },
+        {
+          "word": " think",
+          "start": 353.1098125,
+          "end": 353.3498125
+        },
+        {
+          "word": " it",
+          "start": 353.3498125,
+          "end": 353.5298125
+        },
+        {
+          "word": " would",
+          "start": 353.5298125,
+          "end": 353.74981249999996
+        },
+        {
+          "word": " also",
+          "start": 353.74981249999996,
+          "end": 354.1098125
+        },
+        {
+          "word": " work",
+          "start": 354.1098125,
+          "end": 354.4298125
+        },
+        {
+          "word": " really",
+          "start": 354.4298125,
+          "end": 354.8098125
+        },
+        {
+          "word": " well",
+          "start": 354.8098125,
+          "end": 355.1698125
+        }
+      ]
+    },
+    {
+      "start": 355.1698125,
+      "end": 361.24981249999996,
+      "text": " presenting fractions which is coming up soon. Good idea! That's something most of",
+      "words": [
+        {
+          "word": " presenting",
+          "start": 355.1698125,
+          "end": 355.9698125
+        },
+        {
+          "word": " fractions",
+          "start": 355.9698125,
+          "end": 356.8498125
+        },
+        {
+          "word": " which",
+          "start": 356.8498125,
+          "end": 357.5298125
+        },
+        {
+          "word": " is",
+          "start": 357.5298125,
+          "end": 357.74981249999996
+        },
+        {
+          "word": " coming",
+          "start": 357.74981249999996,
+          "end": 357.9498125
+        },
+        {
+          "word": " up",
+          "start": 357.9498125,
+          "end": 358.2698125
+        },
+        {
+          "word": " soon.",
+          "start": 358.2698125,
+          "end": 358.8298125
+        },
+        {
+          "word": " Good",
+          "start": 359.1298125,
+          "end": 359.1298125
+        },
+        {
+          "word": " idea!",
+          "start": 359.1298125,
+          "end": 359.6098125
+        },
+        {
+          "word": " That's",
+          "start": 360.2098125,
+          "end": 360.5498125
+        },
+        {
+          "word": " something",
+          "start": 360.5498125,
+          "end": 360.8298125
+        },
+        {
+          "word": " most",
+          "start": 360.8298125,
+          "end": 361.1098125
+        },
+        {
+          "word": " of",
+          "start": 361.1098125,
+          "end": 361.24981249999996
+        }
+      ]
+    },
+    {
+      "start": 361.24981249999996,
+      "end": 365.5898125,
+      "text": " the kids in that class might struggle with. Or Agami would also be good",
+      "words": [
+        {
+          "word": " the",
+          "start": 361.24981249999996,
+          "end": 361.3898125
+        },
+        {
+          "word": " kids",
+          "start": 361.3898125,
+          "end": 361.5498125
+        },
+        {
+          "word": " in",
+          "start": 361.5498125,
+          "end": 361.74981249999996
+        },
+        {
+          "word": " that",
+          "start": 361.74981249999996,
+          "end": 361.9698125
+        },
+        {
+          "word": " class",
+          "start": 361.9698125,
+          "end": 362.3298125
+        },
+        {
+          "word": " might",
+          "start": 362.3298125,
+          "end": 362.6898125
+        },
+        {
+          "word": " struggle",
+          "start": 362.6898125,
+          "end": 362.9698125
+        },
+        {
+          "word": " with.",
+          "start": 362.9698125,
+          "end": 363.86981249999997
+        },
+        {
+          "word": " Or",
+          "start": 364.1698125,
+          "end": 364.2698125
+        },
+        {
+          "word": " Agami",
+          "start": 364.2698125,
+          "end": 364.5698125
+        },
+        {
+          "word": " would",
+          "start": 364.5698125,
+          "end": 364.8898125
+        },
+        {
+          "word": " also",
+          "start": 364.8898125,
+          "end": 365.2098125
+        },
+        {
+          "word": " be",
+          "start": 365.2098125,
+          "end": 365.3498125
+        },
+        {
+          "word": " good",
+          "start": 365.3498125,
+          "end": 365.5898125
+        }
+      ]
+    },
+    {
+      "start": 365.5898125,
+      "end": 371.6698125,
+      "text": " practice for using symmetry but I think they did that last term. Okay well let's",
+      "words": [
+        {
+          "word": " practice",
+          "start": 365.5898125,
+          "end": 365.98981249999997
+        },
+        {
+          "word": " for",
+          "start": 365.98981249999997,
+          "end": 366.2698125
+        },
+        {
+          "word": " using",
+          "start": 366.2698125,
+          "end": 366.6898125
+        },
+        {
+          "word": " symmetry",
+          "start": 366.6898125,
+          "end": 367.2298125
+        },
+        {
+          "word": " but",
+          "start": 367.2298125,
+          "end": 368.0498125
+        },
+        {
+          "word": " I",
+          "start": 368.0498125,
+          "end": 368.3098125
+        },
+        {
+          "word": " think",
+          "start": 368.3098125,
+          "end": 368.5098125
+        },
+        {
+          "word": " they",
+          "start": 368.5098125,
+          "end": 368.7298125
+        },
+        {
+          "word": " did",
+          "start": 368.7298125,
+          "end": 368.86981249999997
+        },
+        {
+          "word": " that",
+          "start": 368.86981249999997,
+          "end": 369.0898125
+        },
+        {
+          "word": " last",
+          "start": 369.0898125,
+          "end": 369.4298125
+        },
+        {
+          "word": " term.",
+          "start": 369.4298125,
+          "end": 369.7698125
+        },
+        {
+          "word": " Okay",
+          "start": 370.0498125,
+          "end": 370.3898125
+        },
+        {
+          "word": " well",
+          "start": 370.3898125,
+          "end": 371.36981249999997
+        },
+        {
+          "word": " let's",
+          "start": 371.36981249999997,
+          "end": 371.6698125
+        }
+      ]
+    },
+    {
+      "start": 371.6698125,
+      "end": 377.8098125,
+      "text": " try and get some ideas together and plan the lesson next week. Okay if you could",
+      "words": [
+        {
+          "word": " try",
+          "start": 371.6698125,
+          "end": 371.9098125
+        },
+        {
+          "word": " and",
+          "start": 371.9098125,
+          "end": 371.9298125
+        },
+        {
+          "word": " get",
+          "start": 371.9298125,
+          "end": 372.0698125
+        },
+        {
+          "word": " some",
+          "start": 372.0698125,
+          "end": 372.3298125
+        },
+        {
+          "word": " ideas",
+          "start": 372.3298125,
+          "end": 372.5898125
+        },
+        {
+          "word": " together",
+          "start": 372.5898125,
+          "end": 373.2698125
+        },
+        {
+          "word": " and",
+          "start": 373.2698125,
+          "end": 373.6898125
+        },
+        {
+          "word": " plan",
+          "start": 373.6898125,
+          "end": 374.0098125
+        },
+        {
+          "word": " the",
+          "start": 374.0098125,
+          "end": 374.3298125
+        },
+        {
+          "word": " lesson",
+          "start": 374.3298125,
+          "end": 374.6098125
+        },
+        {
+          "word": " next",
+          "start": 374.6098125,
+          "end": 375.0898125
+        },
+        {
+          "word": " week.",
+          "start": 375.0898125,
+          "end": 375.9498125
+        },
+        {
+          "word": " Okay",
+          "start": 376.2898125,
+          "end": 376.8898125
+        },
+        {
+          "word": " if",
+          "start": 376.8898125,
+          "end": 377.48981249999997
+        },
+        {
+          "word": " you",
+          "start": 377.48981249999997,
+          "end": 377.6698125
+        },
+        {
+          "word": " could",
+          "start": 377.6698125,
+          "end": 377.8098125
+        }
+      ]
+    },
+    {
+      "start": 380.98981249999997,
+      "end": 383.36981249999997,
+      "text": " That is the end of Part 3.",
+      "words": [
+        {
+          "word": " That",
+          "start": 380.98981249999997,
+          "end": 381.6298125
+        },
+        {
+          "word": " is",
+          "start": 381.6298125,
+          "end": 381.8098125
+        },
+        {
+          "word": " the",
+          "start": 381.8098125,
+          "end": 381.98981249999997
+        },
+        {
+          "word": " end",
+          "start": 381.98981249999997,
+          "end": 382.2298125
+        },
+        {
+          "word": " of",
+          "start": 382.2298125,
+          "end": 382.4698125
+        },
+        {
+          "word": " Part",
+          "start": 382.4698125,
+          "end": 382.7098125
+        },
+        {
+          "word": " 3.",
+          "start": 382.7098125,
+          "end": 383.36981249999997
+        }
+      ]
+    },
+    {
+      "start": 383.8498125,
+      "end": 387.98981249999997,
+      "text": " You now have 30 seconds to check your answers to Part 3.",
+      "words": [
+        {
+          "word": " You",
+          "start": 383.8498125,
+          "end": 384.0298125
+        },
+        {
+          "word": " now",
+          "start": 384.0298125,
+          "end": 384.3098125
+        },
+        {
+          "word": " have",
+          "start": 384.3098125,
+          "end": 384.6498125
+        },
+        {
+          "word": " 30",
+          "start": 384.6498125,
+          "end": 385.0498125
+        },
+        {
+          "word": " seconds",
+          "start": 385.0498125,
+          "end": 385.48981249999997
+        },
+        {
+          "word": " to",
+          "start": 385.48981249999997,
+          "end": 385.9498125
+        },
+        {
+          "word": " check",
+          "start": 385.9498125,
+          "end": 386.2098125
+        },
+        {
+          "word": " your",
+          "start": 386.2098125,
+          "end": 386.4698125
+        },
+        {
+          "word": " answers",
+          "start": 386.4698125,
+          "end": 386.7898125
+        },
+        {
+          "word": " to",
+          "start": 386.7898125,
+          "end": 387.1498125
+        },
+        {
+          "word": " Part",
+          "start": 387.1498125,
+          "end": 387.3298125
+        },
+        {
+          "word": " 3.",
+          "start": 387.3298125,
+          "end": 387.98981249999997
+        }
+      ]
+    }
+  ]
+}

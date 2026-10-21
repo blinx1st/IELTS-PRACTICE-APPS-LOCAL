@@ -3,7 +3,7 @@
   "book": 20,
   "test": 1,
   "title": "Cambridge 20 · Test 1",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 3 passages and 40 questions, options, instructions and word limits visually reviewed against supplied PDFs; extraction artifacts and documented source-retyping errors corrected. The supplied files are retyped documents, not publisher-certified originals.",
@@ -143,7 +143,80 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": true
+          "allowNumber": true,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "New Zealand's kākāpō\n\nA type of parrot:\n• diet consists of fern fronds, various parts of a tree and ",
+                  {
+                    "number": 7
+                  },
+                  "\n• nests are created in ",
+                  {
+                    "number": 8
+                  },
+                  " where eggs are laid.\n\nArrival of Polynesian settlers\n• the ",
+                  {
+                    "number": 9
+                  },
+                  " of the kākāpō were used to make clothes.\n\nArrival of European colonisers\n• ",
+                  {
+                    "number": 10
+                  },
+                  " were an animal which they introduced that ate the kākāpō's food sources.\n\nProtecting kākāpō\n• Richard Henry, a conservationist, tried to protect the kākāpō.\n• a definite sighting of female kākāpō on Rakiura Island was reported in the year ",
+                  {
+                    "number": 11
+                  },
+                  "\n• the Recovery Plan included an increase in ",
+                  {
+                    "number": 12
+                  },
+                  "\n• a current goal of the Recovery Plan is to maintain the involvement of ",
+                  {
+                    "number": 13
+                  },
+                  " in kākāpō protection."
+                ],
+                "anchors": [
+                  "cam20-t1-p1-g2-body-0",
+                  "",
+                  "cam20-t1-p1-g2-body-109",
+                  "",
+                  "cam20-t1-p1-g2-body-142",
+                  "",
+                  "cam20-t1-p1-g2-body-211",
+                  "",
+                  "cam20-t1-p1-g2-body-297",
+                  "",
+                  "cam20-t1-p1-g2-body-547",
+                  "",
+                  "cam20-t1-p1-g2-body-602",
+                  "",
+                  "cam20-t1-p1-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -404,7 +477,48 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Uses of a popular tree\n\nFor hundreds of years, the only tree that was more popular in Britain than elm was ",
+                  {
+                    "number": 24
+                  },
+                  " Starting in the Bronze Age, many tools were made from elm and people also used it to make weapons. In the 18th century, it was grown to provide wood for boxes and ",
+                  {
+                    "number": 25
+                  },
+                  " Due to its strength, elm was often used for mining equipment and the Cutty Sark's ",
+                  {
+                    "number": 26
+                  },
+                  " was also constructed from elm."
+                ],
+                "anchors": [
+                  "cam20-t1-p2-g3-body-0",
+                  "",
+                  "cam20-t1-p2-g3-body-117",
+                  "",
+                  "cam20-t1-p2-g3-body-291",
+                  "",
+                  "cam20-t1-p2-g3-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

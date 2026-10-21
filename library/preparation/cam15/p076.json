@@ -1,0 +1,219 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 76,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Test 4\nLISTENING\nPART 1\nQuestions 1-10\nComplete the form below.\nWrite ONE WORD ANDIOR A NUMBER for each answer.\nCustomer Satisfaction Survey\nCustomer details\nName:\nSophie Bird\nOccupation:\nA ceoreectssssesseennssnssesusenastnnsesanensee\nReason for travel today:\nee\nJourney information\nName of station returning to:\nBen eecesssssstasseenssessnussoensoassonseeste\nType of ticket purchased:\nSANA 4 oeececsecctecsneeeesuettennee ticket\nCost of ticket:\nLe\nWhen ticket was purchased:\nyesterday\nWhere ticket was bought:\nGa ccesessetsstsstennnnevanvesuananenaneuse\nSatisfaction with journey\nMost satisfied with:\nthe wifi\nLeast satisfied with:\nTNE 7 ccecsecneentencnmacanan this Moming\nSatisfaction with station facilities\nMost satisfied with:\nTOW MUCHB\nu..csssssssssseereeeesesescetsseterstereneen WAS\nprovided\nLeast satisfied with:\nlack of seats, particularly on the\nNeither satisfied nor dissatisfied with:\nTNE 10 oeesseistuseenneneenue AVAilable\n74\n=> 1M p. 125\np. 113\n",
+  "blocks": [
+    {
+      "box": [
+        77.01870229368198,
+        123.44586395669589,
+        143.5193072598291,
+        142.53967092859799
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        266.6862542038241,
+        173.11212992178054,
+        350.12561265704426,
+        183.19941864490318
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        77.37860277168984,
+        220.9788934968259,
+        269.5006712556414,
+        232.8674858697044
+      ],
+      "text": "PART 1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        77.7385032496977,
+        249.77093173745467,
+        221.6770793362425,
+        262.01979069803957
+      ],
+      "text": "Complete the form below.\n"
+    },
+    {
+      "box": [
+        78.09840372770556,
+        277.84316902206774,
+        379.5186858674972,
+        287.57020580187196
+      ],
+      "text": "Write ONE WORD ANDIOR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        186.42844760807134,
+        321.7510273390266,
+        431.2758775426226,
+        338.3229974857601
+      ],
+      "text": "Customer Satisfaction Survey\n"
+    },
+    {
+      "box": [
+        92.49442284801995,
+        362.0598808759069,
+        187.64311172134788,
+        371.06638448029844
+      ],
+      "text": "Customer details\n"
+    },
+    {
+      "box": [
+        92.85432332602781,
+        379.3351038202842,
+        369.76177453629583,
+        393.7455330183313
+      ],
+      "text": "Name:\nSophie Bird\n"
+    },
+    {
+      "box": [
+        92.85432332602781,
+        399.48953058872434,
+        441.4971331266183,
+        432.2519845763602
+      ],
+      "text": "Occupation:\nA ceoreectssssesseennssnssesusenastnnsesanensee\nReason for travel today:\nee\n"
+    },
+    {
+      "box": [
+        92.49442284801995,
+        446.9963936857618,
+        205.8828872773783,
+        458.88500070302825
+      ],
+      "text": "Journey information\n"
+    },
+    {
+      "box": [
+        93.21422380403567,
+        467.15082045420195,
+        440.15828460361246,
+        478.6791462393741
+      ],
+      "text": "Name of station returning to:\nBen eecesssssstasseenssessnussoensoassonseeste\n"
+    },
+    {
+      "box": [
+        92.49442284801995,
+        486.5854462666264,
+        522.82749469508,
+        499.19455717052966
+      ],
+      "text": "Type of ticket purchased:\nSANA 4 oeececsecctecsneeeesuettennee ticket\n"
+    },
+    {
+      "box": [
+        92.85432332602781,
+        507.0997735130744,
+        451.66068982213125,
+        517.187062236197
+      ],
+      "text": "Cost of ticket:\nLe\n"
+    },
+    {
+      "box": [
+        92.49442284801995,
+        527.2542002815145,
+        360.72457629478254,
+        539.5030592420994
+      ],
+      "text": "When ticket was purchased:\nyesterday\n"
+    },
+    {
+      "box": [
+        92.49442284801995,
+        547.7685275279625,
+        440.7346877129219,
+        559.657134545229
+      ],
+      "text": "Where ticket was bought:\nGa ccesessetsstsstennnnevanvesuananenaneuse\n"
+    },
+    {
+      "box": [
+        93.21422380403567,
+        574.4011629005441,
+        232.68282013778386,
+        585.5692074536221
+      ],
+      "text": "Satisfaction with journey\n"
+    },
+    {
+      "box": [
+        93.21422380403567,
+        594.1956891909764,
+        345.7995725933077,
+        603.9227259707807
+      ],
+      "text": "Most satisfied with:\nthe wifi\n"
+    },
+    {
+      "box": [
+        93.57412428204354,
+        613.9902154814088,
+        525.2388396132429,
+        624.7980080911682
+      ],
+      "text": "Least satisfied with:\nTNE 7 ccecsecneentencnmacanan this Moming\n"
+    },
+    {
+      "box": [
+        93.21422380403567,
+        640.9827513319982,
+        279.2827709340992,
+        650.3495361684841
+      ],
+      "text": "Satisfaction with station facilities\n"
+    },
+    {
+      "box": [
+        93.57412428204354,
+        658.9777752323912,
+        523.8711709347717,
+        686.3417513386851
+      ],
+      "text": "Most satisfied with:\nTOW MUCHB\nu..csssssssssseereeeesesescetsseterstereneen WAS\nprovided\n"
+    },
+    {
+      "box": [
+        93.57412428204354,
+        694.9678230331772,
+        475.6588290931236,
+        706.135867586255
+      ],
+      "text": "Least satisfied with:\nlack of seats, particularly on the\n"
+    },
+    {
+      "box": [
+        93.9340247600514,
+        728.4385674879081,
+        518.6867061387816,
+        738.8861081543491
+      ],
+      "text": "Neither satisfied nor dissatisfied with:\nTNE 10 oeesseistuseenneneenue AVAilable\n"
+    },
+    {
+      "box": [
+        78.09840372770556,
+        773.4261272388906,
+        243.9315552684099,
+        786.0352381427939
+      ],
+      "text": "74\n=> 1M p. 125\np. 113\n"
+    }
+  ]
+}

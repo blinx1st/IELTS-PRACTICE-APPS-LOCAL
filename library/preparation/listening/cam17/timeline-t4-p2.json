@@ -1,0 +1,1113 @@
+{
+  "audioSha256": "c267eb0ff993342feb039b94f172b10e0721b7f06394883786e9107dced79180",
+  "duration": 472.6335,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 352.6335,
+      "end": 356.4135,
+      "text": " but there's also the opportunity to learn something useful.",
+      "words": [
+        {
+          "word": " but",
+          "start": 352.6335,
+          "end": 352.6335
+        },
+        {
+          "word": " there's",
+          "start": 352.6335,
+          "end": 353.05350000000004
+        },
+        {
+          "word": " also",
+          "start": 353.05350000000004,
+          "end": 353.4535
+        },
+        {
+          "word": " the",
+          "start": 353.4535,
+          "end": 353.6535
+        },
+        {
+          "word": " opportunity",
+          "start": 353.6535,
+          "end": 354.25350000000003
+        },
+        {
+          "word": " to",
+          "start": 354.25350000000003,
+          "end": 354.85350000000005
+        },
+        {
+          "word": " learn",
+          "start": 354.85350000000005,
+          "end": 355.19350000000003
+        },
+        {
+          "word": " something",
+          "start": 355.19350000000003,
+          "end": 355.61350000000004
+        },
+        {
+          "word": " useful.",
+          "start": 355.61350000000004,
+          "end": 356.4135
+        }
+      ]
+    },
+    {
+      "start": 357.29350000000005,
+      "end": 363.23350000000005,
+      "text": " This year's trip included a visit to a brewery where staff learned about the new beer",
+      "words": [
+        {
+          "word": " This",
+          "start": 357.29350000000005,
+          "end": 357.55350000000004
+        },
+        {
+          "word": " year's",
+          "start": 357.55350000000004,
+          "end": 357.85350000000005
+        },
+        {
+          "word": " trip",
+          "start": 357.85350000000005,
+          "end": 358.31350000000003
+        },
+        {
+          "word": " included",
+          "start": 358.31350000000003,
+          "end": 358.81350000000003
+        },
+        {
+          "word": " a",
+          "start": 358.81350000000003,
+          "end": 359.1535
+        },
+        {
+          "word": " visit",
+          "start": 359.1535,
+          "end": 359.4535
+        },
+        {
+          "word": " to",
+          "start": 359.4535,
+          "end": 359.75350000000003
+        },
+        {
+          "word": " a",
+          "start": 359.75350000000003,
+          "end": 359.9135
+        },
+        {
+          "word": " brewery",
+          "start": 359.9135,
+          "end": 360.4535
+        },
+        {
+          "word": " where",
+          "start": 360.4535,
+          "end": 361.0935
+        },
+        {
+          "word": " staff",
+          "start": 361.0935,
+          "end": 361.43350000000004
+        },
+        {
+          "word": " learned",
+          "start": 361.43350000000004,
+          "end": 361.87350000000004
+        },
+        {
+          "word": " about",
+          "start": 361.87350000000004,
+          "end": 362.19350000000003
+        },
+        {
+          "word": " the",
+          "start": 362.19350000000003,
+          "end": 362.4535
+        },
+        {
+          "word": " new",
+          "start": 362.4535,
+          "end": 362.73350000000005
+        },
+        {
+          "word": " beer",
+          "start": 362.73350000000005,
+          "end": 363.23350000000005
+        }
+      ]
+    },
+    {
+      "start": 363.23350000000005,
+      "end": 365.25350000000003,
+      "text": " that would be served in the hotel.",
+      "words": [
+        {
+          "word": " that",
+          "start": 363.23350000000005,
+          "end": 363.5335
+        },
+        {
+          "word": " would",
+          "start": 363.5335,
+          "end": 363.7735
+        },
+        {
+          "word": " be",
+          "start": 363.7735,
+          "end": 364.0335
+        },
+        {
+          "word": " served",
+          "start": 364.0335,
+          "end": 364.29350000000005
+        },
+        {
+          "word": " in",
+          "start": 364.29350000000005,
+          "end": 364.5135
+        },
+        {
+          "word": " the",
+          "start": 364.5135,
+          "end": 364.6335
+        },
+        {
+          "word": " hotel.",
+          "start": 364.6335,
+          "end": 365.25350000000003
+        }
+      ]
+    },
+    {
+      "start": 366.6335,
+      "end": 372.4135,
+      "text": " Pentlo hotels identified that retention of junior reception staff was an issue.",
+      "words": [
+        {
+          "word": " Pentlo",
+          "start": 366.6335,
+          "end": 367.0935
+        },
+        {
+          "word": " hotels",
+          "start": 367.0935,
+          "end": 367.75350000000003
+        },
+        {
+          "word": " identified",
+          "start": 367.75350000000003,
+          "end": 368.6535
+        },
+        {
+          "word": " that",
+          "start": 368.6535,
+          "end": 369.2735
+        },
+        {
+          "word": " retention",
+          "start": 369.2735,
+          "end": 369.7735
+        },
+        {
+          "word": " of",
+          "start": 369.7735,
+          "end": 370.17350000000005
+        },
+        {
+          "word": " junior",
+          "start": 370.17350000000005,
+          "end": 370.61350000000004
+        },
+        {
+          "word": " reception",
+          "start": 370.61350000000004,
+          "end": 371.1335
+        },
+        {
+          "word": " staff",
+          "start": 371.1335,
+          "end": 371.67350000000005
+        },
+        {
+          "word": " was",
+          "start": 371.67350000000005,
+          "end": 371.87350000000004
+        },
+        {
+          "word": " an",
+          "start": 371.87350000000004,
+          "end": 371.99350000000004
+        },
+        {
+          "word": " issue.",
+          "start": 371.99350000000004,
+          "end": 372.4135
+        }
+      ]
+    },
+    {
+      "start": 372.99350000000004,
+      "end": 378.5335,
+      "text": " In order to encourage them to see that working in a hotel could be worthwhile and rewarding",
+      "words": [
+        {
+          "word": " In",
+          "start": 372.99350000000004,
+          "end": 373.19350000000003
+        },
+        {
+          "word": " order",
+          "start": 373.19350000000003,
+          "end": 373.3935
+        },
+        {
+          "word": " to",
+          "start": 373.3935,
+          "end": 373.69350000000003
+        },
+        {
+          "word": " encourage",
+          "start": 373.69350000000003,
+          "end": 374.0335
+        },
+        {
+          "word": " them",
+          "start": 374.0335,
+          "end": 374.6535
+        },
+        {
+          "word": " to",
+          "start": 374.6535,
+          "end": 374.8335
+        },
+        {
+          "word": " see",
+          "start": 374.8335,
+          "end": 375.05350000000004
+        },
+        {
+          "word": " that",
+          "start": 375.05350000000004,
+          "end": 375.29350000000005
+        },
+        {
+          "word": " working",
+          "start": 375.29350000000005,
+          "end": 375.67350000000005
+        },
+        {
+          "word": " in",
+          "start": 375.67350000000005,
+          "end": 375.8935
+        },
+        {
+          "word": " a",
+          "start": 375.8935,
+          "end": 376.0135
+        },
+        {
+          "word": " hotel",
+          "start": 376.0135,
+          "end": 376.5335
+        },
+        {
+          "word": " could",
+          "start": 376.5335,
+          "end": 376.9535
+        },
+        {
+          "word": " be",
+          "start": 376.9535,
+          "end": 377.25350000000003
+        },
+        {
+          "word": " worthwhile",
+          "start": 377.25350000000003,
+          "end": 377.7135
+        },
+        {
+          "word": " and",
+          "start": 377.7135,
+          "end": 378.1335
+        },
+        {
+          "word": " rewarding",
+          "start": 378.1335,
+          "end": 378.5335
+        }
+      ]
+    },
+    {
+      "start": 378.5335,
+      "end": 380.0935,
+      "text": " with good prospects.",
+      "words": [
+        {
+          "word": " with",
+          "start": 378.5335,
+          "end": 379.19350000000003
+        },
+        {
+          "word": " good",
+          "start": 379.19350000000003,
+          "end": 379.4735
+        },
+        {
+          "word": " prospects.",
+          "start": 379.4735,
+          "end": 380.0935
+        }
+      ]
+    },
+    {
+      "start": 380.0935,
+      "end": 383.55350000000004,
+      "text": " They introduced a management program.",
+      "words": [
+        {
+          "word": " They",
+          "start": 380.0935,
+          "end": 381.05350000000004
+        },
+        {
+          "word": " introduced",
+          "start": 381.05350000000004,
+          "end": 381.81350000000003
+        },
+        {
+          "word": " a",
+          "start": 381.81350000000003,
+          "end": 382.25350000000003
+        },
+        {
+          "word": " management",
+          "start": 382.25350000000003,
+          "end": 382.6535
+        },
+        {
+          "word": " program.",
+          "start": 382.6535,
+          "end": 383.55350000000004
+        }
+      ]
+    },
+    {
+      "start": 384.2135,
+      "end": 389.7935,
+      "text": " These staff were given additional responsibilities and the chance to work in various roles",
+      "words": [
+        {
+          "word": " These",
+          "start": 384.2135,
+          "end": 384.5135
+        },
+        {
+          "word": " staff",
+          "start": 384.5135,
+          "end": 384.7735
+        },
+        {
+          "word": " were",
+          "start": 384.7735,
+          "end": 384.9535
+        },
+        {
+          "word": " given",
+          "start": 384.9535,
+          "end": 385.47350000000006
+        },
+        {
+          "word": " additional",
+          "start": 385.47350000000006,
+          "end": 386.0735
+        },
+        {
+          "word": " responsibilities",
+          "start": 386.0735,
+          "end": 386.87350000000004
+        },
+        {
+          "word": " and",
+          "start": 386.87350000000004,
+          "end": 387.67350000000005
+        },
+        {
+          "word": " the",
+          "start": 387.67350000000005,
+          "end": 387.9135
+        },
+        {
+          "word": " chance",
+          "start": 387.9135,
+          "end": 388.1335
+        },
+        {
+          "word": " to",
+          "start": 388.1335,
+          "end": 388.3335
+        },
+        {
+          "word": " work",
+          "start": 388.3335,
+          "end": 388.6335
+        },
+        {
+          "word": " in",
+          "start": 388.6335,
+          "end": 388.93350000000004
+        },
+        {
+          "word": " various",
+          "start": 388.93350000000004,
+          "end": 389.31350000000003
+        },
+        {
+          "word": " roles",
+          "start": 389.31350000000003,
+          "end": 389.7935
+        }
+      ]
+    },
+    {
+      "start": 389.7935,
+      "end": 390.75350000000003,
+      "text": " in the hotel.",
+      "words": [
+        {
+          "word": " in",
+          "start": 389.7935,
+          "end": 389.99350000000004
+        },
+        {
+          "word": " the",
+          "start": 389.99350000000004,
+          "end": 390.0735
+        },
+        {
+          "word": " hotel.",
+          "start": 390.0735,
+          "end": 390.75350000000003
+        }
+      ]
+    },
+    {
+      "start": 392.2935,
+      "end": 396.05350000000004,
+      "text": " Green planets wanted to be seen as a caring employer.",
+      "words": [
+        {
+          "word": " Green",
+          "start": 392.2935,
+          "end": 392.69350000000003
+        },
+        {
+          "word": " planets",
+          "start": 392.69350000000003,
+          "end": 393.19350000000003
+        },
+        {
+          "word": " wanted",
+          "start": 393.19350000000003,
+          "end": 393.7935
+        },
+        {
+          "word": " to",
+          "start": 393.7935,
+          "end": 393.97350000000006
+        },
+        {
+          "word": " be",
+          "start": 393.97350000000006,
+          "end": 394.19350000000003
+        },
+        {
+          "word": " seen",
+          "start": 394.19350000000003,
+          "end": 394.55350000000004
+        },
+        {
+          "word": " as",
+          "start": 394.55350000000004,
+          "end": 394.87350000000004
+        },
+        {
+          "word": " a",
+          "start": 394.87350000000004,
+          "end": 395.05350000000004
+        },
+        {
+          "word": " caring",
+          "start": 395.05350000000004,
+          "end": 395.37350000000004
+        },
+        {
+          "word": " employer.",
+          "start": 395.37350000000004,
+          "end": 396.05350000000004
+        }
+      ]
+    },
+    {
+      "start": 396.8935,
+      "end": 403.2135,
+      "text": " To make life easier for staff, many of whom had childcare responsibilities, the hotel",
+      "words": [
+        {
+          "word": " To",
+          "start": 396.8935,
+          "end": 396.99350000000004
+        },
+        {
+          "word": " make",
+          "start": 396.99350000000004,
+          "end": 397.25350000000003
+        },
+        {
+          "word": " life",
+          "start": 397.25350000000003,
+          "end": 397.7135
+        },
+        {
+          "word": " easier",
+          "start": 397.7135,
+          "end": 398.1535
+        },
+        {
+          "word": " for",
+          "start": 398.1535,
+          "end": 398.55350000000004
+        },
+        {
+          "word": " staff,",
+          "start": 398.55350000000004,
+          "end": 399.0935
+        },
+        {
+          "word": " many",
+          "start": 399.43350000000004,
+          "end": 399.6535
+        },
+        {
+          "word": " of",
+          "start": 399.6535,
+          "end": 399.7935
+        },
+        {
+          "word": " whom",
+          "start": 399.7935,
+          "end": 399.99350000000004
+        },
+        {
+          "word": " had",
+          "start": 399.99350000000004,
+          "end": 400.37350000000004
+        },
+        {
+          "word": " childcare",
+          "start": 400.37350000000004,
+          "end": 400.9135
+        },
+        {
+          "word": " responsibilities,",
+          "start": 400.9135,
+          "end": 401.81350000000003
+        },
+        {
+          "word": " the",
+          "start": 402.6535,
+          "end": 402.81350000000003
+        },
+        {
+          "word": " hotel",
+          "start": 402.81350000000003,
+          "end": 403.2135
+        }
+      ]
+    },
+    {
+      "start": 403.2135,
+      "end": 407.2935,
+      "text": " began issuing vouchers to help cover the cost of childcare.",
+      "words": [
+        {
+          "word": " began",
+          "start": 403.2135,
+          "end": 403.6535
+        },
+        {
+          "word": " issuing",
+          "start": 403.6535,
+          "end": 404.1535
+        },
+        {
+          "word": " vouchers",
+          "start": 404.1535,
+          "end": 404.85350000000005
+        },
+        {
+          "word": " to",
+          "start": 404.85350000000005,
+          "end": 405.37350000000004
+        },
+        {
+          "word": " help",
+          "start": 405.37350000000004,
+          "end": 405.69350000000003
+        },
+        {
+          "word": " cover",
+          "start": 405.69350000000003,
+          "end": 405.8935
+        },
+        {
+          "word": " the",
+          "start": 405.8935,
+          "end": 406.3335
+        },
+        {
+          "word": " cost",
+          "start": 406.3335,
+          "end": 406.37350000000004
+        },
+        {
+          "word": " of",
+          "start": 406.37350000000004,
+          "end": 406.5935
+        },
+        {
+          "word": " childcare.",
+          "start": 406.5935,
+          "end": 407.2935
+        }
+      ]
+    },
+    {
+      "start": 408.61350000000004,
+      "end": 414.7135,
+      "text": " Louis Marsh, at the Aimsbury, has one of the best staff retention rates in the business.",
+      "words": [
+        {
+          "word": " Louis",
+          "start": 408.61350000000004,
+          "end": 409.2135
+        },
+        {
+          "word": " Marsh,",
+          "start": 409.2135,
+          "end": 409.81350000000003
+        },
+        {
+          "word": " at",
+          "start": 410.19350000000003,
+          "end": 410.2735
+        },
+        {
+          "word": " the",
+          "start": 410.2735,
+          "end": 410.47350000000006
+        },
+        {
+          "word": " Aimsbury,",
+          "start": 410.47350000000006,
+          "end": 411.1535
+        },
+        {
+          "word": " has",
+          "start": 411.31350000000003,
+          "end": 411.61350000000004
+        },
+        {
+          "word": " one",
+          "start": 411.61350000000004,
+          "end": 411.8335
+        },
+        {
+          "word": " of",
+          "start": 411.8335,
+          "end": 411.9135
+        },
+        {
+          "word": " the",
+          "start": 411.9135,
+          "end": 412.11350000000004
+        },
+        {
+          "word": " best",
+          "start": 412.11350000000004,
+          "end": 412.69350000000003
+        },
+        {
+          "word": " staff",
+          "start": 412.69350000000003,
+          "end": 413.05350000000004
+        },
+        {
+          "word": " retention",
+          "start": 413.05350000000004,
+          "end": 413.5135
+        },
+        {
+          "word": " rates",
+          "start": 413.5135,
+          "end": 413.81350000000003
+        },
+        {
+          "word": " in",
+          "start": 413.81350000000003,
+          "end": 413.97350000000006
+        },
+        {
+          "word": " the",
+          "start": 413.97350000000006,
+          "end": 414.1535
+        },
+        {
+          "word": " business.",
+          "start": 414.1535,
+          "end": 414.7135
+        }
+      ]
+    },
+    {
+      "start": 415.43350000000004,
+      "end": 421.37350000000004,
+      "text": " Since she joined the company, she's made a huge effort to achieve this by creating a cooperative",
+      "words": [
+        {
+          "word": " Since",
+          "start": 415.43350000000004,
+          "end": 415.6535
+        },
+        {
+          "word": " she",
+          "start": 415.6535,
+          "end": 415.8935
+        },
+        {
+          "word": " joined",
+          "start": 415.8935,
+          "end": 416.17350000000005
+        },
+        {
+          "word": " the",
+          "start": 416.17350000000005,
+          "end": 416.47350000000006
+        },
+        {
+          "word": " company,",
+          "start": 416.47350000000006,
+          "end": 416.87350000000004
+        },
+        {
+          "word": " she's",
+          "start": 417.0735,
+          "end": 417.31350000000003
+        },
+        {
+          "word": " made",
+          "start": 417.31350000000003,
+          "end": 417.47350000000006
+        },
+        {
+          "word": " a",
+          "start": 417.47350000000006,
+          "end": 417.7735
+        },
+        {
+          "word": " huge",
+          "start": 417.7735,
+          "end": 418.2735
+        },
+        {
+          "word": " effort",
+          "start": 418.2735,
+          "end": 418.7135
+        },
+        {
+          "word": " to",
+          "start": 418.7135,
+          "end": 418.9535
+        },
+        {
+          "word": " achieve",
+          "start": 418.9535,
+          "end": 419.2935
+        },
+        {
+          "word": " this",
+          "start": 419.2935,
+          "end": 419.9135
+        },
+        {
+          "word": " by",
+          "start": 419.9135,
+          "end": 420.1535
+        },
+        {
+          "word": " creating",
+          "start": 420.1535,
+          "end": 420.5935
+        },
+        {
+          "word": " a",
+          "start": 420.5935,
+          "end": 420.87350000000004
+        },
+        {
+          "word": " cooperative",
+          "start": 420.87350000000004,
+          "end": 421.37350000000004
+        }
+      ]
+    },
+    {
+      "start": 421.37350000000004,
+      "end": 428.25350000000003,
+      "text": " and supportive environment. For her, the staff are part of a large family where everyone",
+      "words": [
+        {
+          "word": " and",
+          "start": 421.37350000000004,
+          "end": 421.9135
+        },
+        {
+          "word": " supportive",
+          "start": 421.9135,
+          "end": 422.5135
+        },
+        {
+          "word": " environment.",
+          "start": 422.5135,
+          "end": 423.4135
+        },
+        {
+          "word": " For",
+          "start": 424.1335,
+          "end": 424.43350000000004
+        },
+        {
+          "word": " her,",
+          "start": 424.43350000000004,
+          "end": 424.9535
+        },
+        {
+          "word": " the",
+          "start": 425.17350000000005,
+          "end": 425.3935
+        },
+        {
+          "word": " staff",
+          "start": 425.3935,
+          "end": 425.67350000000005
+        },
+        {
+          "word": " are",
+          "start": 425.67350000000005,
+          "end": 425.9135
+        },
+        {
+          "word": " part",
+          "start": 425.9135,
+          "end": 426.1535
+        },
+        {
+          "word": " of",
+          "start": 426.1535,
+          "end": 426.3335
+        },
+        {
+          "word": " a",
+          "start": 426.3335,
+          "end": 426.49350000000004
+        },
+        {
+          "word": " large",
+          "start": 426.49350000000004,
+          "end": 426.81350000000003
+        },
+        {
+          "word": " family",
+          "start": 426.81350000000003,
+          "end": 427.4135
+        },
+        {
+          "word": " where",
+          "start": 427.4135,
+          "end": 427.85350000000005
+        },
+        {
+          "word": " everyone",
+          "start": 427.85350000000005,
+          "end": 428.25350000000003
+        }
+      ]
+    },
+    {
+      "start": 428.25350000000003,
+      "end": 429.23350000000005,
+      "text": " is valued.",
+      "words": [
+        {
+          "word": " is",
+          "start": 428.25350000000003,
+          "end": 429.23350000000005
+        },
+        {
+          "word": " valued.",
+          "start": 429.23350000000005,
+          "end": 429.23350000000005
+        }
+      ]
+    },
+    {
+      "start": 429.8335,
+      "end": 433.1535,
+      "text": " Okay, now I'd like to move.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 429.8335,
+          "end": 430.43350000000004
+        },
+        {
+          "word": " now",
+          "start": 430.93350000000004,
+          "end": 431.17350000000005
+        },
+        {
+          "word": " I'd",
+          "start": 431.17350000000005,
+          "end": 431.55350000000004
+        },
+        {
+          "word": " like",
+          "start": 431.55350000000004,
+          "end": 431.75350000000003
+        },
+        {
+          "word": " to",
+          "start": 431.75350000000003,
+          "end": 431.8935
+        },
+        {
+          "word": " move.",
+          "start": 431.8935,
+          "end": 433.1535
+        }
+      ]
+    },
+    {
+      "start": 435.81350000000003,
+      "end": 442.61350000000004,
+      "text": " That is the end of part 2. You now have half a minute to check your answers to part 2.",
+      "words": [
+        {
+          "word": " That",
+          "start": 435.81350000000003,
+          "end": 436.25350000000003
+        },
+        {
+          "word": " is",
+          "start": 436.25350000000003,
+          "end": 436.4535
+        },
+        {
+          "word": " the",
+          "start": 436.4535,
+          "end": 436.6335
+        },
+        {
+          "word": " end",
+          "start": 436.6335,
+          "end": 436.8935
+        },
+        {
+          "word": " of",
+          "start": 436.8935,
+          "end": 437.19350000000003
+        },
+        {
+          "word": " part",
+          "start": 437.19350000000003,
+          "end": 437.4135
+        },
+        {
+          "word": " 2.",
+          "start": 437.4135,
+          "end": 438.11350000000004
+        },
+        {
+          "word": " You",
+          "start": 438.4535,
+          "end": 438.69350000000003
+        },
+        {
+          "word": " now",
+          "start": 438.69350000000003,
+          "end": 438.99350000000004
+        },
+        {
+          "word": " have",
+          "start": 438.99350000000004,
+          "end": 439.37350000000004
+        },
+        {
+          "word": " half",
+          "start": 439.37350000000004,
+          "end": 439.67350000000005
+        },
+        {
+          "word": " a",
+          "start": 439.67350000000005,
+          "end": 439.87350000000004
+        },
+        {
+          "word": " minute",
+          "start": 439.87350000000004,
+          "end": 440.0935
+        },
+        {
+          "word": " to",
+          "start": 440.0935,
+          "end": 440.49350000000004
+        },
+        {
+          "word": " check",
+          "start": 440.49350000000004,
+          "end": 440.73350000000005
+        },
+        {
+          "word": " your",
+          "start": 440.73350000000005,
+          "end": 440.97350000000006
+        },
+        {
+          "word": " answers",
+          "start": 440.97350000000006,
+          "end": 441.35350000000005
+        },
+        {
+          "word": " to",
+          "start": 441.35350000000005,
+          "end": 441.69350000000003
+        },
+        {
+          "word": " part",
+          "start": 441.69350000000003,
+          "end": 441.9535
+        },
+        {
+          "word": " 2.",
+          "start": 441.9535,
+          "end": 442.61350000000004
+        }
+      ]
+    }
+  ]
+}

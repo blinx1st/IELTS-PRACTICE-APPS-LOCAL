@@ -1,0 +1,183 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 10,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 1\nQuestions 1-8\nComplete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 1-8 on your answer sheet.\nChildren’s play\nUses of children’s play\n*\nbuilding a ‘magical kingdom’ may help deVelOp 14 o..sccsssssssnseneee\n.\nboard games iNVOIWE2 .......nnn and turn-taking\nRecent changes affecting children’s play\n©\nPOPUllationS OF 3oem NAVE Grown\n*\nOpportunities for free play are limited due to\n= FAP OF 4 oceccscssssesstsnnetnnnn\nFCAT OF Bec eececssssessetnesesneneee\n— INCFEASEM 6Qe IN SCHOOIS\nInternational policies on children’s play\n°\nitis difficult to find 7... snnumene tO SUPPOrt New policies\n.\nresearch needs to study the impact of play on the rest of the child’s\n18\n",
+  "blocks": [
+    {
+      "box": [
+        126.33454895019531,
+        92.14144134521484,
+        154.0093536376953,
+        100.42801666259766
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        125.97462463378906,
+        201.43704223632812,
+        136.06268310546875
+      ],
+      "text": "Questions 1-8\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        152.60928344726562,
+        252.85626220703125,
+        163.0576171875
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        178.52401733398438,
+        431.60723876953125,
+        190.77383422851562
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        125.61467742919922,
+        204.4388427734375,
+        395.0851745605469,
+        215.96800231933594
+      ],
+      "text": "Write your answers in boxes 1-8 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        286.5022888183594,
+        235.03265380859375,
+        393.3863220214844,
+        250.1647186279297
+      ],
+      "text": "Children’s play\n"
+    },
+    {
+      "box": [
+        133.53309631347656,
+        262.74713134765625,
+        251.9132080078125,
+        273.916015625
+      ],
+      "text": "Uses of children’s play\n"
+    },
+    {
+      "box": [
+        133.1731719970703,
+        282.9030456542969,
+        481.9428405761719,
+        295.1528015136719
+      ],
+      "text": "*\nbuilding a ‘magical kingdom’ may help deVelOp 14 o..sccsssssssnseneee\n"
+    },
+    {
+      "box": [
+        133.17318725585938,
+        301.6192626953125,
+        431.5207214355469,
+        316.7513122558594
+      ],
+      "text": ".\nboard games iNVOIWE2 .......nnn and turn-taking\n"
+    },
+    {
+      "box": [
+        133.17320251464844,
+        332.93292236328125,
+        345.4367980957031,
+        344.8224182128906
+      ],
+      "text": "Recent changes affecting children’s play\n"
+    },
+    {
+      "box": [
+        132.8132781982422,
+        353.44879150390625,
+        382.09912109375,
+        364.9779968261719
+      ],
+      "text": "©\nPOPUllationS OF 3oem NAVE Grown\n"
+    },
+    {
+      "box": [
+        132.8132781982422,
+        373.9646911621094,
+        367.8459167480469,
+        384.7733154296875
+      ],
+      "text": "*\nOpportunities for free play are limited due to\n"
+    },
+    {
+      "box": [
+        155.84864807128906,
+        393.4007568359375,
+        296.0838623046875,
+        402.76824951171875
+      ],
+      "text": "= FAP OF 4 oceccscssssesstsnnetnnnn\n"
+    },
+    {
+      "box": [
+        155.48870849609375,
+        413.5566711425781,
+        296.40045166015625,
+        422.5638732910156
+      ],
+      "text": "FCAT OF Bec eececssssessetnesesneneee\n"
+    },
+    {
+      "box": [
+        155.48870849609375,
+        433.7126159667969,
+        364.62823486328125,
+        443.44036865234375
+      ],
+      "text": "— INCFEASEM 6Qe IN SCHOOIS\n"
+    },
+    {
+      "box": [
+        132.09341430664062,
+        463.58660888671875,
+        337.5184020996094,
+        475.4761047363281
+      ],
+      "text": "International policies on children’s play\n"
+    },
+    {
+      "box": [
+        132.09341430664062,
+        483.7425842285156,
+        454.6891784667969,
+        495.9923400878906
+      ],
+      "text": "°\nitis difficult to find 7... snnumene tO SUPPOrt New policies\n"
+    },
+    {
+      "box": [
+        131.7334747314453,
+        504.2584228515625,
+        481.4966125488281,
+        515.7876586914062
+      ],
+      "text": ".\nresearch needs to study the impact of play on the rest of the child’s\n"
+    },
+    {
+      "box": [
+        122.01542663574219,
+        728.8532104492188,
+        132.44613647460938,
+        737.1398315429688
+      ],
+      "text": "18\n"
+    }
+  ]
+}

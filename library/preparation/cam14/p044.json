@@ -1,0 +1,219 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 44,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 2\nSPEAKING\nPART 1\nThe examiner asks the candidate about him/herself, his/her home, work or studies and\nother familiar topics.\nEXAMPLE\nSocial media\n*\nWhich social media websites do you use?\n* How much time do you spend on social media sites? [Why/Why not?]\n¢ What kind of information about yourself have you put on social media? [Why/Why not?]\n*\nIs there anything you don’t like about social media? [Why?]\nPART 2\nDescribe something you liked very much which\nYou will have to talk\nyou bought for your home.\nabout the topic for one\nYou\nshould say:\nto two minutes. You\n°\nwhat vou 4\nht\nhave one minute to\ny\nong\n.\nthink about what you\nwhen\nand where you bought it\nina\nt\n¥\nwhy you chose this particular thing\noe eea\nene\ntae\ncan make some notes\nand explain why you liked it so much.\nto help you if you wish.\nPART 3\nDiscussion topics:\nCreating a nice home\nExample questions:\nWhy do some people buy lots of things for their home?\nDo you think it is very expensive to make a home look nice?\nWhy don’t some people care about how their home looks?\nDifferent types of home\nExample questions:\nIn what ways is living in a flat/apartment better than living in\na house?\nDo you think homes will look different in the future?\nDo you agree that the kinds of homes people prefer change as they get older?\n52\n",
+  "blocks": [
+    {
+      "box": [
+        127.77426147460938,
+        89.6219711303711,
+        156.91041564941406,
+        97.90860748291016
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        304.4986572265625,
+        125.25477600097656,
+        380.68817138671875,
+        135.34283447265625
+      ],
+      "text": "SPEAKING\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        167.72621154785156,
+        176.3284912109375,
+        177.81427001953125
+      ],
+      "text": "PART 1\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        189.32186889648438,
+        548.4484252929688,
+        213.44781494140625
+      ],
+      "text": "The examiner asks the candidate about him/herself, his/her home, work or studies and\nother familiar topics.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        222.43521118164062,
+        177.67433166503906,
+        231.08206176757812
+      ],
+      "text": "EXAMPLE\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        242.5911102294922,
+        191.7063446044922,
+        251.59829711914062
+      ],
+      "text": "Social media\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        262.7470703125,
+        342.0606994628906,
+        274.6365661621094
+      ],
+      "text": "*\nWhich social media websites do you use?\n"
+    },
+    {
+      "box": [
+        125.61469268798828,
+        276.06439208984375,
+        476.1121826171875,
+        289.0347595214844
+      ],
+      "text": "* How much time do you spend on social media sites? [Why/Why not?]\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        289.02178955078125,
+        553.8654174804688,
+        314.9494934082031
+      ],
+      "text": "¢ What kind of information about yourself have you put on social media? [Why/Why not?]\n*\nIs there anything you don’t like about social media? [Why?]\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        326.0943298339844,
+        176.34286499023438,
+        336.1823425292969
+      ],
+      "text": "PART 2\n"
+    },
+    {
+      "box": [
+        136.05258178710938,
+        358.8476867675781,
+        531.238525390625,
+        384.05487060546875
+      ],
+      "text": "Describe something you liked very much which\nYou will have to talk\nyou bought for your home.\nabout the topic for one\n"
+    },
+    {
+      "box": [
+        135.6926727294922,
+        386.5621337890625,
+        516.3519897460938,
+        399.5325012207031
+      ],
+      "text": "You\nshould say:\nto two minutes. You\n°\n"
+    },
+    {
+      "box": [
+        159.80780029296875,
+        393.76068115234375,
+        514.642333984375,
+        415.0050354003906
+      ],
+      "text": "what vou 4\nht\nhave one minute to\ny\nong\n"
+    },
+    {
+      "box": [
+        159.80780029296875,
+        412.4769287109375,
+        521.7958984375,
+        425.0870056152344
+      ],
+      "text": ".\nthink about what you\nwhen\n"
+    },
+    {
+      "box": [
+        135.6926727294922,
+        417.5158996582031,
+        531.109130859375,
+        462.16021728515625
+      ],
+      "text": "and where you bought it\nina\nt\n¥\nwhy you chose this particular thing\noe eea\nene\ntae\ncan make some notes\nand explain why you liked it so much.\nto help you if you wish.\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        487.7017517089844,
+        175.27748107910156,
+        498.15008544921875
+      ],
+      "text": "PART 3\n"
+    },
+    {
+      "box": [
+        123.45513153076172,
+        508.5775451660156,
+        229.66970825195312,
+        520.8272705078125
+      ],
+      "text": "Discussion topics:\n"
+    },
+    {
+      "box": [
+        123.09520721435547,
+        529.453369140625,
+        233.80886840820312,
+        540.261962890625
+      ],
+      "text": "Creating a nice home\n"
+    },
+    {
+      "box": [
+        122.3753433227539,
+        549.6093139648438,
+        414.132568359375,
+        599.650390625
+      ],
+      "text": "Example questions:\nWhy do some people buy lots of things for their home?\nDo you think it is very expensive to make a home look nice?\nWhy don’t some people care about how their home looks?\n"
+    },
+    {
+      "box": [
+        122.73528289794922,
+        608.6373901367188,
+        244.9666748046875,
+        619.446044921875
+      ],
+      "text": "Different types of home\n"
+    },
+    {
+      "box": [
+        122.3753662109375,
+        628.7933349609375,
+        217.2162628173828,
+        639.6019897460938
+      ],
+      "text": "Example questions:\n"
+    },
+    {
+      "box": [
+        122.3753433227539,
+        641.750732421875,
+        502.12762451171875,
+        680.9957885742188
+      ],
+      "text": "In what ways is living in a flat/apartment better than living in\na house?\nDo you think homes will look different in the future?\nDo you agree that the kinds of homes people prefer change as they get older?\n"
+    },
+    {
+      "box": [
+        121.29553985595703,
+        726.6936645507812,
+        132.3813018798828,
+        734.6199951171875
+      ],
+      "text": "52\n"
+    }
+  ]
+}

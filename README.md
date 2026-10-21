@@ -6,11 +6,13 @@ Nhấp đúp **MO_UNG_DUNG.cmd** để mở app tại http://127.0.0.1:8765. Dù
 
 - **Reading:** hai cột cuộn độc lập, thi 60 phút hoặc không hạn giờ, luyện passage, bảng điền trực tiếp và matching chọn tròn.
 - **Listening:** thi sát thật, luyện cả đề hoặc từng Part. Audio local ghép theo sách/test/Part. Thi sát thật nghe một lần 1×, phát liên tiếp và có 2 phút kiểm tra cuối bài. Luyện tập có tốc độ 0,5–2×, tua ±5 giây, âm lượng và lặp A–B.
-- Tự lưu đáp án, cờ, highlight vàng/cam/đỏ và Note riêng. Listening giữ checkpoint mỗi 2 giây; gặp sự cố dừng và chờ Resume, ghi nhận gián đoạn.
+- Tự lưu đáp án, cờ, highlight **5 màu chọn trực tiếp** (vàng/cam/đỏ/xanh lá/xanh biển) và Note riêng. Listening giữ checkpoint mỗi 2 giây; gặp sự cố dừng và chờ Resume, ghi nhận gián đoạn.
 - Nộp bài khóa đáp án; chỉ **Chấm bài** mới hiện điểm và đáp án đúng. Listening mở transcript theo Part sau chấm. Thống kê/lịch sử tách theo kỹ năng; đủ 40 câu mới có band tham khảo.
 - SQLite giữ phiên bản đề/khóa/audio/transcript theo lượt làm. ZIP v2 sao lưu cả audio được tham chiếu, đọc được ZIP cũ; giới hạn 2 GB ZIP và 4 GB tổng giải nén.
 
-**Mã nguồn GitHub không kèm tài liệu Cambridge:** PDF, audio, đề, khóa, ảnh nguồn, dữ liệu học và script có bản chép nội dung được loại bằng `.gitignore`. Chúng vẫn nằm trên máy này. Khi chuyển máy, chép riêng **`library/`** rồi khôi phục ZIP lịch sử. Bộ cài không tự tải tài liệu Cambridge. Xem [GITHUB.md](GITHUB.md).
+**Clone là có thư viện:** repository kèm đề, khóa đáp án, transcript, ảnh Source và 128 audio trong `library/` (khoảng 1 GB). Máy mới chỉ cần clone rồi chạy **CAI_DAT_LAN_DAU.cmd**, không cần chép thư viện riêng. Thư mục **Tài liệu Cambridge/**, cache/mô hình OCR, dữ liệu học và bản sao lưu cá nhân được loại khỏi Git. Chuyển lịch sử học bằng ZIP trong app. Xem [GITHUB.md](GITHUB.md).
+
+**Bố cục mới:** Listening có **Auto / 1 column / 2 columns**; nhóm câu hỏi rời dài tự chia nửa trái/phải khi đủ rộng. Reading có **82 nhóm điền văn bản trực tiếp, 414 câu**, bên cạnh bảy bảng và 38 matrix; chọn từ ngân hàng bằng dropdown ngay trong đoạn. Logo mèo đóng gói local. Xem [ảnh Listening](docs/screenshots/listening-columns-1280.png) và [ảnh Reading](docs/screenshots/reading-inline-1280.png).
 
 ## Làm quen giao diện trước khi thi
 

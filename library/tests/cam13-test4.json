@@ -3,7 +3,7 @@
   "book": 13,
   "test": 4,
   "title": "Cambridge 13 · Test 4",
-  "version": "2026-10-21.1.layout1",
+  "version": "2026-10-21.1.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Visually reviewed against the supplied local PDF: reading text, paragraph labels, question prompts, answer controls and complete option lists. Complex completion layouts use original source crops. Answer keys are independently source-reviewed; automated structural checks are recorded separately."
@@ -143,7 +143,62 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "After 1880, Cutty Sark carried ",
+                  {
+                    "number": 9
+                  },
+                  " as its main cargo during its most successful time."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "As a captain and ",
+                  {
+                    "number": 10
+                  },
+                  ", Woodget was very skilled."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Ferreira went to Falmouth to repair damage that a ",
+                  {
+                    "number": 11
+                  },
+                  " had caused."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Between 1923 and 1954, Cutty Sark was used for ",
+                  {
+                    "number": 12
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Cutty Sark has twice been damaged by ",
+                  {
+                    "number": 13
+                  },
+                  " in the 21st century."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -269,7 +324,46 @@
           ],
           "wordLimit": 1,
           "allowNumber": false,
-          "renderMode": "source"
+          "renderMode": "source",
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "h3",
+                "content": [
+                  "Why soil degradation could be a disaster for humans"
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "Healthy soil contains a large variety of bacteria and other microorganisms, as well as plant remains and ",
+                  {
+                    "number": 14
+                  },
+                  ". It provides us with food and also with antibiotics, and its function in storing ",
+                  {
+                    "number": 15
+                  },
+                  " has a significant effect on the climate. In addition, it prevents damage to property and infrastructure because it holds ",
+                  {
+                    "number": 16
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "If these microorganisms are lost, soil may lose its special properties. The main factor contributing to soil degradation is the ",
+                  {
+                    "number": 17
+                  },
+                  " carried out by humans."
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam13-t4-p2-g2",
@@ -636,7 +730,64 @@
               "value": "G",
               "label": "preservation"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "Jeremy Bentham\n\nJeremy Bentham was active in other areas besides philosophy. In the 1790s he suggested a type of technology to improve ",
+                  {
+                    "number": 30
+                  },
+                  " for different Government departments. He developed a new way of printing banknotes to increase ",
+                  {
+                    "number": 31
+                  },
+                  " and also designed a method for the ",
+                  {
+                    "number": 32
+                  },
+                  " of food. He also drew up plans for a prison which allowed the ",
+                  {
+                    "number": 33
+                  },
+                  " of prisoners at all times, and believed the same design could be used for other institutions as well. When researching happiness, he investigated possibilities for its ",
+                  {
+                    "number": 34
+                  },
+                  ", and suggested some methods of doing this."
+                ],
+                "anchors": [
+                  "cam13-t4-p3-g2-body",
+                  "",
+                  "cam13-t4-p3-g2-body",
+                  "",
+                  "cam13-t4-p3-g2-body",
+                  "",
+                  "cam13-t4-p3-g2-body",
+                  "",
+                  "cam13-t4-p3-g2-body",
+                  "",
+                  "cam13-t4-p3-g2-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  148,
+                  0,
+                  257,
+                  0,
+                  306,
+                  0,
+                  382,
+                  0,
+                  564
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam13-t4-p3-g3",

@@ -1,0 +1,2262 @@
+{
+  "audioSha256": "972ee2c44fd1f23c061f8804108ba7fc80bd8a7545c3f772e6c8e918bbae054a",
+  "duration": 474.5665625,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.98,
+      "text": " Test 2. This is the IELTS Listening Test. You will hear a number of different recordings",
+      "words": [
+        {
+          "word": " Test",
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "word": " 2.",
+          "start": 0.72,
+          "end": 1.78
+        },
+        {
+          "word": " This",
+          "start": 2.48,
+          "end": 2.52
+        },
+        {
+          "word": " is",
+          "start": 2.52,
+          "end": 2.82
+        },
+        {
+          "word": " the",
+          "start": 2.82,
+          "end": 2.98
+        },
+        {
+          "word": " IELTS",
+          "start": 2.98,
+          "end": 3.42
+        },
+        {
+          "word": " Listening",
+          "start": 3.42,
+          "end": 3.88
+        },
+        {
+          "word": " Test.",
+          "start": 3.88,
+          "end": 4.34
+        },
+        {
+          "word": " You",
+          "start": 4.98,
+          "end": 5.04
+        },
+        {
+          "word": " will",
+          "start": 5.04,
+          "end": 5.24
+        },
+        {
+          "word": " hear",
+          "start": 5.24,
+          "end": 5.44
+        },
+        {
+          "word": " a",
+          "start": 5.44,
+          "end": 5.64
+        },
+        {
+          "word": " number",
+          "start": 5.64,
+          "end": 5.82
+        },
+        {
+          "word": " of",
+          "start": 5.82,
+          "end": 6.2
+        },
+        {
+          "word": " different",
+          "start": 6.2,
+          "end": 6.46
+        },
+        {
+          "word": " recordings",
+          "start": 6.46,
+          "end": 6.98
+        }
+      ]
+    },
+    {
+      "start": 6.98,
+      "end": 12.76,
+      "text": " and you will have to answer questions on what you hear. There will be time for you to read",
+      "words": [
+        {
+          "word": " and",
+          "start": 6.98,
+          "end": 7.52
+        },
+        {
+          "word": " you",
+          "start": 7.52,
+          "end": 7.66
+        },
+        {
+          "word": " will",
+          "start": 7.66,
+          "end": 7.76
+        },
+        {
+          "word": " have",
+          "start": 7.76,
+          "end": 7.96
+        },
+        {
+          "word": " to",
+          "start": 7.96,
+          "end": 8.16
+        },
+        {
+          "word": " answer",
+          "start": 8.16,
+          "end": 8.46
+        },
+        {
+          "word": " questions",
+          "start": 8.46,
+          "end": 9.08
+        },
+        {
+          "word": " on",
+          "start": 9.08,
+          "end": 9.52
+        },
+        {
+          "word": " what",
+          "start": 9.52,
+          "end": 9.74
+        },
+        {
+          "word": " you",
+          "start": 9.74,
+          "end": 9.96
+        },
+        {
+          "word": " hear.",
+          "start": 9.96,
+          "end": 10.3
+        },
+        {
+          "word": " There",
+          "start": 11.02,
+          "end": 11.26
+        },
+        {
+          "word": " will",
+          "start": 11.26,
+          "end": 11.44
+        },
+        {
+          "word": " be",
+          "start": 11.44,
+          "end": 11.68
+        },
+        {
+          "word": " time",
+          "start": 11.68,
+          "end": 11.94
+        },
+        {
+          "word": " for",
+          "start": 11.94,
+          "end": 12.22
+        },
+        {
+          "word": " you",
+          "start": 12.22,
+          "end": 12.28
+        },
+        {
+          "word": " to",
+          "start": 12.28,
+          "end": 12.48
+        },
+        {
+          "word": " read",
+          "start": 12.48,
+          "end": 12.76
+        }
+      ]
+    },
+    {
+      "start": 12.76,
+      "end": 18.96,
+      "text": " the instructions and questions and you will have a chance to check your work. All the recordings",
+      "words": [
+        {
+          "word": " the",
+          "start": 12.76,
+          "end": 13.04
+        },
+        {
+          "word": " instructions",
+          "start": 13.04,
+          "end": 13.52
+        },
+        {
+          "word": " and",
+          "start": 13.52,
+          "end": 13.94
+        },
+        {
+          "word": " questions",
+          "start": 13.94,
+          "end": 14.48
+        },
+        {
+          "word": " and",
+          "start": 14.48,
+          "end": 15.04
+        },
+        {
+          "word": " you",
+          "start": 15.04,
+          "end": 15.12
+        },
+        {
+          "word": " will",
+          "start": 15.12,
+          "end": 15.26
+        },
+        {
+          "word": " have",
+          "start": 15.26,
+          "end": 15.46
+        },
+        {
+          "word": " a",
+          "start": 15.46,
+          "end": 15.6
+        },
+        {
+          "word": " chance",
+          "start": 15.6,
+          "end": 15.94
+        },
+        {
+          "word": " to",
+          "start": 15.94,
+          "end": 16.18
+        },
+        {
+          "word": " check",
+          "start": 16.18,
+          "end": 16.44
+        },
+        {
+          "word": " your",
+          "start": 16.44,
+          "end": 16.74
+        },
+        {
+          "word": " work.",
+          "start": 16.74,
+          "end": 17.26
+        },
+        {
+          "word": " All",
+          "start": 18.04,
+          "end": 18.3
+        },
+        {
+          "word": " the",
+          "start": 18.3,
+          "end": 18.56
+        },
+        {
+          "word": " recordings",
+          "start": 18.56,
+          "end": 18.96
+        }
+      ]
+    },
+    {
+      "start": 18.96,
+      "end": 28.14,
+      "text": " will be played once only. The test is in four parts. At the end of the test, you will be",
+      "words": [
+        {
+          "word": " will",
+          "start": 18.96,
+          "end": 19.36
+        },
+        {
+          "word": " be",
+          "start": 19.36,
+          "end": 19.58
+        },
+        {
+          "word": " played",
+          "start": 19.58,
+          "end": 19.94
+        },
+        {
+          "word": " once",
+          "start": 19.94,
+          "end": 20.44
+        },
+        {
+          "word": " only.",
+          "start": 20.44,
+          "end": 20.82
+        },
+        {
+          "word": " The",
+          "start": 21.62,
+          "end": 21.84
+        },
+        {
+          "word": " test",
+          "start": 21.84,
+          "end": 22.2
+        },
+        {
+          "word": " is",
+          "start": 22.2,
+          "end": 22.54
+        },
+        {
+          "word": " in",
+          "start": 22.54,
+          "end": 22.82
+        },
+        {
+          "word": " four",
+          "start": 22.82,
+          "end": 23.06
+        },
+        {
+          "word": " parts.",
+          "start": 23.06,
+          "end": 23.48
+        },
+        {
+          "word": " At",
+          "start": 24.16,
+          "end": 24.4
+        },
+        {
+          "word": " the",
+          "start": 24.4,
+          "end": 24.54
+        },
+        {
+          "word": " end",
+          "start": 24.54,
+          "end": 24.72
+        },
+        {
+          "word": " of",
+          "start": 24.72,
+          "end": 24.94
+        },
+        {
+          "word": " the",
+          "start": 24.94,
+          "end": 25.08
+        },
+        {
+          "word": " test,",
+          "start": 25.08,
+          "end": 25.42
+        },
+        {
+          "word": " you",
+          "start": 25.62,
+          "end": 25.84
+        },
+        {
+          "word": " will",
+          "start": 25.84,
+          "end": 26.0
+        },
+        {
+          "word": " be",
+          "start": 26.0,
+          "end": 28.14
+        }
+      ]
+    },
+    {
+      "start": 28.14,
+      "end": 34.84,
+      "text": " answers to the answer sheet. Now turn to part 1.",
+      "words": [
+        {
+          "word": " answers",
+          "start": 28.14,
+          "end": 28.72
+        },
+        {
+          "word": " to",
+          "start": 28.72,
+          "end": 29.26
+        },
+        {
+          "word": " the",
+          "start": 29.26,
+          "end": 29.42
+        },
+        {
+          "word": " answer",
+          "start": 29.42,
+          "end": 29.66
+        },
+        {
+          "word": " sheet.",
+          "start": 29.66,
+          "end": 30.22
+        },
+        {
+          "word": " Now",
+          "start": 31.04,
+          "end": 31.4
+        },
+        {
+          "word": " turn",
+          "start": 31.4,
+          "end": 31.78
+        },
+        {
+          "word": " to",
+          "start": 31.78,
+          "end": 32.1
+        },
+        {
+          "word": " part",
+          "start": 32.1,
+          "end": 32.3
+        },
+        {
+          "word": " 1.",
+          "start": 32.3,
+          "end": 34.84
+        }
+      ]
+    },
+    {
+      "start": 37.8,
+      "end": 44.84,
+      "text": " Part 1. You will hear a man asking about voluntary work in the village that he has just moved to.",
+      "words": [
+        {
+          "word": " Part",
+          "start": 37.8,
+          "end": 38.06
+        },
+        {
+          "word": " 1.",
+          "start": 38.06,
+          "end": 38.7
+        },
+        {
+          "word": " You",
+          "start": 39.14,
+          "end": 39.3
+        },
+        {
+          "word": " will",
+          "start": 39.3,
+          "end": 39.5
+        },
+        {
+          "word": " hear",
+          "start": 39.5,
+          "end": 39.7
+        },
+        {
+          "word": " a",
+          "start": 39.7,
+          "end": 39.96
+        },
+        {
+          "word": " man",
+          "start": 39.96,
+          "end": 40.24
+        },
+        {
+          "word": " asking",
+          "start": 40.24,
+          "end": 40.74
+        },
+        {
+          "word": " about",
+          "start": 40.74,
+          "end": 41.26
+        },
+        {
+          "word": " voluntary",
+          "start": 41.26,
+          "end": 41.76
+        },
+        {
+          "word": " work",
+          "start": 41.76,
+          "end": 42.24
+        },
+        {
+          "word": " in",
+          "start": 42.24,
+          "end": 42.46
+        },
+        {
+          "word": " the",
+          "start": 42.46,
+          "end": 42.68
+        },
+        {
+          "word": " village",
+          "start": 42.68,
+          "end": 42.94
+        },
+        {
+          "word": " that",
+          "start": 42.94,
+          "end": 43.26
+        },
+        {
+          "word": " he",
+          "start": 43.26,
+          "end": 43.4
+        },
+        {
+          "word": " has",
+          "start": 43.4,
+          "end": 43.58
+        },
+        {
+          "word": " just",
+          "start": 43.58,
+          "end": 43.92
+        },
+        {
+          "word": " moved",
+          "start": 43.92,
+          "end": 44.22
+        },
+        {
+          "word": " to.",
+          "start": 44.22,
+          "end": 44.84
+        }
+      ]
+    },
+    {
+      "start": 45.3,
+      "end": 49.26,
+      "text": " First, you have some time to look at questions 1 to 7.",
+      "words": [
+        {
+          "word": " First,",
+          "start": 45.3,
+          "end": 45.7
+        },
+        {
+          "word": " you",
+          "start": 45.82,
+          "end": 46.08
+        },
+        {
+          "word": " have",
+          "start": 46.08,
+          "end": 46.36
+        },
+        {
+          "word": " some",
+          "start": 46.36,
+          "end": 46.7
+        },
+        {
+          "word": " time",
+          "start": 46.7,
+          "end": 47.02
+        },
+        {
+          "word": " to",
+          "start": 47.02,
+          "end": 47.18
+        },
+        {
+          "word": " look",
+          "start": 47.18,
+          "end": 47.38
+        },
+        {
+          "word": " at",
+          "start": 47.38,
+          "end": 47.74
+        },
+        {
+          "word": " questions",
+          "start": 47.74,
+          "end": 48.02
+        },
+        {
+          "word": " 1",
+          "start": 48.02,
+          "end": 48.52
+        },
+        {
+          "word": " to",
+          "start": 48.52,
+          "end": 48.72
+        },
+        {
+          "word": " 7.",
+          "start": 48.72,
+          "end": 49.26
+        }
+      ]
+    },
+    {
+      "start": 83.44,
+      "end": 87.34,
+      "text": " Now listen carefully and answer questions",
+      "words": [
+        {
+          "word": " Now",
+          "start": 83.44,
+          "end": 84.6
+        },
+        {
+          "word": " listen",
+          "start": 84.6,
+          "end": 85.06
+        },
+        {
+          "word": " carefully",
+          "start": 85.06,
+          "end": 85.5
+        },
+        {
+          "word": " and",
+          "start": 85.5,
+          "end": 86.18
+        },
+        {
+          "word": " answer",
+          "start": 86.18,
+          "end": 86.66
+        },
+        {
+          "word": " questions",
+          "start": 86.66,
+          "end": 87.34
+        }
+      ]
+    },
+    {
+      "start": 87.34,
+      "end": 88.34,
+      "text": " One to Seven.",
+      "words": [
+        {
+          "word": " One",
+          "start": 87.34,
+          "end": 87.54
+        },
+        {
+          "word": " to",
+          "start": 87.54,
+          "end": 87.82
+        },
+        {
+          "word": " Seven.",
+          "start": 87.82,
+          "end": 88.34
+        }
+      ]
+    },
+    {
+      "start": 91.68,
+      "end": 94.12,
+      "text": " Hello, Jane Fairbank speaking.",
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 91.68,
+          "end": 92.16
+        },
+        {
+          "word": " Jane",
+          "start": 92.66,
+          "end": 92.92
+        },
+        {
+          "word": " Fairbank",
+          "start": 92.92,
+          "end": 93.48
+        },
+        {
+          "word": " speaking.",
+          "start": 93.48,
+          "end": 94.12
+        }
+      ]
+    },
+    {
+      "start": 95.14,
+      "end": 95.64,
+      "text": " Oh, good morning.",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 95.14,
+          "end": 95.16
+        },
+        {
+          "word": " good",
+          "start": 95.2,
+          "end": 95.38
+        },
+        {
+          "word": " morning.",
+          "start": 95.38,
+          "end": 95.64
+        }
+      ]
+    },
+    {
+      "start": 96.14,
+      "end": 97.72,
+      "text": " My name's Frank Pritchard.",
+      "words": [
+        {
+          "word": " My",
+          "start": 96.14,
+          "end": 96.34
+        },
+        {
+          "word": " name's",
+          "start": 96.34,
+          "end": 96.8
+        },
+        {
+          "word": " Frank",
+          "start": 96.8,
+          "end": 97.16
+        },
+        {
+          "word": " Pritchard.",
+          "start": 97.16,
+          "end": 97.72
+        }
+      ]
+    },
+    {
+      "start": 98.08,
+      "end": 100.82,
+      "text": " I've just retired and moved to Southo.",
+      "words": [
+        {
+          "word": " I've",
+          "start": 98.08,
+          "end": 98.44
+        },
+        {
+          "word": " just",
+          "start": 98.44,
+          "end": 98.7
+        },
+        {
+          "word": " retired",
+          "start": 98.7,
+          "end": 99.12
+        },
+        {
+          "word": " and",
+          "start": 99.12,
+          "end": 99.36
+        },
+        {
+          "word": " moved",
+          "start": 99.36,
+          "end": 99.62
+        },
+        {
+          "word": " to",
+          "start": 99.62,
+          "end": 99.9
+        },
+        {
+          "word": " Southo.",
+          "start": 99.9,
+          "end": 100.82
+        }
+      ]
+    },
+    {
+      "start": 100.84,
+      "end": 102.66,
+      "text": " I'd like to become a volunteer.",
+      "words": [
+        {
+          "word": " I'd",
+          "start": 100.84,
+          "end": 101.22
+        },
+        {
+          "word": " like",
+          "start": 101.22,
+          "end": 101.42
+        },
+        {
+          "word": " to",
+          "start": 101.42,
+          "end": 101.58
+        },
+        {
+          "word": " become",
+          "start": 101.58,
+          "end": 101.9
+        },
+        {
+          "word": " a",
+          "start": 101.9,
+          "end": 102.16
+        },
+        {
+          "word": " volunteer.",
+          "start": 102.16,
+          "end": 102.66
+        }
+      ]
+    },
+    {
+      "start": 103.2,
+      "end": 106.54,
+      "text": " And I gather you coordinate voluntary work in the village.",
+      "words": [
+        {
+          "word": " And",
+          "start": 103.2,
+          "end": 103.58
+        },
+        {
+          "word": " I",
+          "start": 103.58,
+          "end": 103.74
+        },
+        {
+          "word": " gather",
+          "start": 103.74,
+          "end": 104.06
+        },
+        {
+          "word": " you",
+          "start": 104.06,
+          "end": 104.42
+        },
+        {
+          "word": " coordinate",
+          "start": 104.42,
+          "end": 104.96
+        },
+        {
+          "word": " voluntary",
+          "start": 104.96,
+          "end": 105.66
+        },
+        {
+          "word": " work",
+          "start": 105.66,
+          "end": 106.02
+        },
+        {
+          "word": " in",
+          "start": 106.02,
+          "end": 106.16
+        },
+        {
+          "word": " the",
+          "start": 106.16,
+          "end": 106.3
+        },
+        {
+          "word": " village.",
+          "start": 106.3,
+          "end": 106.54
+        }
+      ]
+    },
+    {
+      "start": 106.86,
+      "end": 108.1,
+      "text": " That's right.",
+      "words": [
+        {
+          "word": " That's",
+          "start": 106.86,
+          "end": 107.3
+        },
+        {
+          "word": " right.",
+          "start": 107.3,
+          "end": 108.1
+        }
+      ]
+    },
+    {
+      "start": 108.48,
+      "end": 110.12,
+      "text": " What sort of thing could I do?",
+      "words": [
+        {
+          "word": " What",
+          "start": 108.48,
+          "end": 108.76
+        },
+        {
+          "word": " sort",
+          "start": 108.76,
+          "end": 108.98
+        },
+        {
+          "word": " of",
+          "start": 108.98,
+          "end": 109.14
+        },
+        {
+          "word": " thing",
+          "start": 109.14,
+          "end": 109.36
+        },
+        {
+          "word": " could",
+          "start": 109.36,
+          "end": 109.58
+        },
+        {
+          "word": " I",
+          "start": 109.58,
+          "end": 109.72
+        },
+        {
+          "word": " do?",
+          "start": 109.72,
+          "end": 110.12
+        }
+      ]
+    },
+    {
+      "start": 110.74,
+      "end": 113.18,
+      "text": " Well, we need help with the village library.",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 110.74,
+          "end": 111.18
+        },
+        {
+          "word": " we",
+          "start": 111.18,
+          "end": 111.42
+        },
+        {
+          "word": " need",
+          "start": 111.42,
+          "end": 111.68
+        },
+        {
+          "word": " help",
+          "start": 111.68,
+          "end": 111.9
+        },
+        {
+          "word": " with",
+          "start": 111.9,
+          "end": 112.08
+        },
+        {
+          "word": " the",
+          "start": 112.08,
+          "end": 112.32
+        },
+        {
+          "word": " village",
+          "start": 112.32,
+          "end": 112.52
+        },
+        {
+          "word": " library.",
+          "start": 112.52,
+          "end": 113.18
+        }
+      ]
+    },
+    {
+      "start": 113.74,
+      "end": 116.12,
+      "text": " We borrow books from the town library",
+      "words": [
+        {
+          "word": " We",
+          "start": 113.74,
+          "end": 114.08
+        },
+        {
+          "word": " borrow",
+          "start": 114.08,
+          "end": 114.42
+        },
+        {
+          "word": " books",
+          "start": 114.42,
+          "end": 114.78
+        },
+        {
+          "word": " from",
+          "start": 114.78,
+          "end": 115.0
+        },
+        {
+          "word": " the",
+          "start": 115.0,
+          "end": 115.26
+        },
+        {
+          "word": " town",
+          "start": 115.26,
+          "end": 115.58
+        },
+        {
+          "word": " library",
+          "start": 115.58,
+          "end": 116.12
+        }
+      ]
+    },
+    {
+      "start": 116.12,
+      "end": 119.62,
+      "text": " and individuals also donate them.",
+      "words": [
+        {
+          "word": " and",
+          "start": 116.12,
+          "end": 116.86
+        },
+        {
+          "word": " individuals",
+          "start": 116.86,
+          "end": 117.52
+        },
+        {
+          "word": " also",
+          "start": 117.52,
+          "end": 118.14
+        },
+        {
+          "word": " donate",
+          "start": 118.14,
+          "end": 118.48
+        },
+        {
+          "word": " them.",
+          "start": 118.48,
+          "end": 119.62
+        }
+      ]
+    },
+    {
+      "start": 119.68,
+      "end": 119.98,
+      "text": " So...",
+      "words": [
+        {
+          "word": " So...",
+          "start": 119.68,
+          "end": 119.98
+        }
+      ]
+    },
+    {
+      "start": 354.5665625,
+      "end": 358.88656249999997,
+      "text": " they've been before. And we've had a lot of requests to bring them back.",
+      "words": [
+        {
+          "word": " they've",
+          "start": 354.5665625,
+          "end": 355.1665625
+        },
+        {
+          "word": " been",
+          "start": 355.1665625,
+          "end": 355.38656249999997
+        },
+        {
+          "word": " before.",
+          "start": 355.38656249999997,
+          "end": 356.14656249999996
+        },
+        {
+          "word": " And",
+          "start": 356.40656249999995,
+          "end": 356.6265625
+        },
+        {
+          "word": " we've",
+          "start": 356.6265625,
+          "end": 356.88656249999997
+        },
+        {
+          "word": " had",
+          "start": 356.88656249999997,
+          "end": 357.02656249999995
+        },
+        {
+          "word": " a",
+          "start": 357.02656249999995,
+          "end": 357.08656249999996
+        },
+        {
+          "word": " lot",
+          "start": 357.08656249999996,
+          "end": 357.2865625
+        },
+        {
+          "word": " of",
+          "start": 357.2865625,
+          "end": 357.5065625
+        },
+        {
+          "word": " requests",
+          "start": 357.5065625,
+          "end": 358.02656249999995
+        },
+        {
+          "word": " to",
+          "start": 358.02656249999995,
+          "end": 358.2865625
+        },
+        {
+          "word": " bring",
+          "start": 358.2865625,
+          "end": 358.5065625
+        },
+        {
+          "word": " them",
+          "start": 358.5065625,
+          "end": 358.7865625
+        },
+        {
+          "word": " back.",
+          "start": 358.7865625,
+          "end": 359.0665625
+        }
+      ]
+    },
+    {
+      "start": 359.76656249999996,
+      "end": 363.9265625,
+      "text": " I'm not really a dancer, but I'd like to do something to help.",
+      "words": [
+        {
+          "word": " I'm",
+          "start": 359.76656249999996,
+          "end": 360.32656249999997
+        },
+        {
+          "word": " not",
+          "start": 360.32656249999997,
+          "end": 360.6065625
+        },
+        {
+          "word": " really",
+          "start": 360.6065625,
+          "end": 360.84656249999995
+        },
+        {
+          "word": " a",
+          "start": 360.84656249999995,
+          "end": 360.9865625
+        },
+        {
+          "word": " dancer,",
+          "start": 360.9865625,
+          "end": 361.3665625
+        },
+        {
+          "word": " but",
+          "start": 361.6865625,
+          "end": 361.88656249999997
+        },
+        {
+          "word": " I'd",
+          "start": 361.88656249999997,
+          "end": 362.26656249999996
+        },
+        {
+          "word": " like",
+          "start": 362.26656249999996,
+          "end": 362.46656249999995
+        },
+        {
+          "word": " to",
+          "start": 362.46656249999995,
+          "end": 362.5665625
+        },
+        {
+          "word": " do",
+          "start": 362.5665625,
+          "end": 362.8065625
+        },
+        {
+          "word": " something",
+          "start": 362.8065625,
+          "end": 363.20656249999996
+        },
+        {
+          "word": " to",
+          "start": 363.20656249999996,
+          "end": 363.44656249999997
+        },
+        {
+          "word": " help.",
+          "start": 363.44656249999997,
+          "end": 363.9265625
+        }
+      ]
+    },
+    {
+      "start": 364.46656249999995,
+      "end": 371.6665625,
+      "text": " Well, we sell tickets in advance. And having an extra person to check them at the door as people",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 364.46656249999995,
+          "end": 364.76656249999996
+        },
+        {
+          "word": " we",
+          "start": 364.82656249999997,
+          "end": 365.2265625
+        },
+        {
+          "word": " sell",
+          "start": 365.2265625,
+          "end": 365.5465625
+        },
+        {
+          "word": " tickets",
+          "start": 365.5465625,
+          "end": 366.1665625
+        },
+        {
+          "word": " in",
+          "start": 366.1665625,
+          "end": 366.5665625
+        },
+        {
+          "word": " advance.",
+          "start": 366.5665625,
+          "end": 367.2465625
+        },
+        {
+          "word": " And",
+          "start": 367.82656249999997,
+          "end": 368.3665625
+        },
+        {
+          "word": " having",
+          "start": 368.3665625,
+          "end": 368.58656249999996
+        },
+        {
+          "word": " an",
+          "start": 368.58656249999996,
+          "end": 368.9265625
+        },
+        {
+          "word": " extra",
+          "start": 368.9265625,
+          "end": 369.1265625
+        },
+        {
+          "word": " person",
+          "start": 369.1265625,
+          "end": 369.5465625
+        },
+        {
+          "word": " to",
+          "start": 369.5465625,
+          "end": 369.7865625
+        },
+        {
+          "word": " check",
+          "start": 369.7865625,
+          "end": 370.02656249999995
+        },
+        {
+          "word": " them",
+          "start": 370.02656249999995,
+          "end": 370.2265625
+        },
+        {
+          "word": " at",
+          "start": 370.2265625,
+          "end": 370.4265625
+        },
+        {
+          "word": " the",
+          "start": 370.4265625,
+          "end": 370.5665625
+        },
+        {
+          "word": " door",
+          "start": 370.5665625,
+          "end": 370.90656249999995
+        },
+        {
+          "word": " as",
+          "start": 370.90656249999995,
+          "end": 371.32656249999997
+        },
+        {
+          "word": " people",
+          "start": 371.32656249999997,
+          "end": 371.6665625
+        }
+      ]
+    },
+    {
+      "start": 371.6665625,
+      "end": 376.90656249999995,
+      "text": " arrive would be good. It can be quite a bottleneck if everyone arrives at once.",
+      "words": [
+        {
+          "word": " arrive",
+          "start": 371.6665625,
+          "end": 372.28656249999995
+        },
+        {
+          "word": " would",
+          "start": 372.28656249999995,
+          "end": 372.5665625
+        },
+        {
+          "word": " be",
+          "start": 372.5665625,
+          "end": 372.78656249999995
+        },
+        {
+          "word": " good.",
+          "start": 372.78656249999995,
+          "end": 373.1665625
+        },
+        {
+          "word": " It",
+          "start": 373.6065625,
+          "end": 373.8065625
+        },
+        {
+          "word": " can",
+          "start": 373.8065625,
+          "end": 374.0465625
+        },
+        {
+          "word": " be",
+          "start": 374.0465625,
+          "end": 374.26656249999996
+        },
+        {
+          "word": " quite",
+          "start": 374.26656249999996,
+          "end": 374.5465625
+        },
+        {
+          "word": " a",
+          "start": 374.5465625,
+          "end": 374.70656249999996
+        },
+        {
+          "word": " bottleneck",
+          "start": 374.70656249999996,
+          "end": 375.0665625
+        },
+        {
+          "word": " if",
+          "start": 375.0665625,
+          "end": 375.40656249999995
+        },
+        {
+          "word": " everyone",
+          "start": 375.40656249999995,
+          "end": 375.76656249999996
+        },
+        {
+          "word": " arrives",
+          "start": 375.76656249999996,
+          "end": 376.20656249999996
+        },
+        {
+          "word": " at",
+          "start": 376.20656249999996,
+          "end": 376.46656249999995
+        },
+        {
+          "word": " once.",
+          "start": 376.46656249999995,
+          "end": 376.90656249999995
+        }
+      ]
+    },
+    {
+      "start": 377.28656249999995,
+      "end": 379.1065625,
+      "text": " Okay, I'm happy with that.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 377.28656249999995,
+          "end": 377.82656249999997
+        },
+        {
+          "word": " I'm",
+          "start": 378.08656249999996,
+          "end": 378.40656249999995
+        },
+        {
+          "word": " happy",
+          "start": 378.40656249999995,
+          "end": 378.58656249999996
+        },
+        {
+          "word": " with",
+          "start": 378.58656249999996,
+          "end": 378.8065625
+        },
+        {
+          "word": " that.",
+          "start": 378.8065625,
+          "end": 379.1065625
+        }
+      ]
+    },
+    {
+      "start": 379.1065625,
+      "end": 383.08656249999996,
+      "text": " We're also arranging a New Year's Eve party.",
+      "words": [
+        {
+          "word": " We're",
+          "start": 379.1065625,
+          "end": 380.38656249999997
+        },
+        {
+          "word": " also",
+          "start": 380.38656249999997,
+          "end": 380.82656249999997
+        },
+        {
+          "word": " arranging",
+          "start": 380.82656249999997,
+          "end": 381.3465625
+        },
+        {
+          "word": " a",
+          "start": 381.3465625,
+          "end": 381.6265625
+        },
+        {
+          "word": " New",
+          "start": 381.6265625,
+          "end": 381.82656249999997
+        },
+        {
+          "word": " Year's",
+          "start": 381.82656249999997,
+          "end": 382.20656249999996
+        },
+        {
+          "word": " Eve",
+          "start": 382.20656249999996,
+          "end": 382.4865625
+        },
+        {
+          "word": " party.",
+          "start": 382.4865625,
+          "end": 383.08656249999996
+        }
+      ]
+    },
+    {
+      "start": 383.70656249999996,
+      "end": 386.46656249999995,
+      "text": " We're expecting that to be a really big event.",
+      "words": [
+        {
+          "word": " We're",
+          "start": 383.70656249999996,
+          "end": 384.0065625
+        },
+        {
+          "word": " expecting",
+          "start": 384.0065625,
+          "end": 384.3665625
+        },
+        {
+          "word": " that",
+          "start": 384.3665625,
+          "end": 384.78656249999995
+        },
+        {
+          "word": " to",
+          "start": 384.78656249999995,
+          "end": 384.9265625
+        },
+        {
+          "word": " be",
+          "start": 384.9265625,
+          "end": 385.1265625
+        },
+        {
+          "word": " a",
+          "start": 385.1265625,
+          "end": 385.32656249999997
+        },
+        {
+          "word": " really",
+          "start": 385.32656249999997,
+          "end": 385.6065625
+        },
+        {
+          "word": " big",
+          "start": 385.6065625,
+          "end": 385.8665625
+        },
+        {
+          "word": " event.",
+          "start": 385.8665625,
+          "end": 386.46656249999995
+        }
+      ]
+    },
+    {
+      "start": 386.88656249999997,
+      "end": 391.4265625,
+      "text": " So instead of the village hall, it'll be held in the Mountfort Hotel.",
+      "words": [
+        {
+          "word": " So",
+          "start": 386.88656249999997,
+          "end": 387.1865625
+        },
+        {
+          "word": " instead",
+          "start": 387.1865625,
+          "end": 387.64656249999996
+        },
+        {
+          "word": " of",
+          "start": 387.64656249999996,
+          "end": 387.88656249999997
+        },
+        {
+          "word": " the",
+          "start": 387.88656249999997,
+          "end": 388.08656249999996
+        },
+        {
+          "word": " village",
+          "start": 388.08656249999996,
+          "end": 388.38656249999997
+        },
+        {
+          "word": " hall,",
+          "start": 388.38656249999997,
+          "end": 388.8065625
+        },
+        {
+          "word": " it'll",
+          "start": 389.0065625,
+          "end": 389.32656249999997
+        },
+        {
+          "word": " be",
+          "start": 389.32656249999997,
+          "end": 389.44656249999997
+        },
+        {
+          "word": " held",
+          "start": 389.44656249999997,
+          "end": 389.64656249999996
+        },
+        {
+          "word": " in",
+          "start": 389.64656249999996,
+          "end": 389.90656249999995
+        },
+        {
+          "word": " the",
+          "start": 389.90656249999995,
+          "end": 390.0665625
+        },
+        {
+          "word": " Mountfort",
+          "start": 390.0665625,
+          "end": 390.64656249999996
+        },
+        {
+          "word": " Hotel.",
+          "start": 390.64656249999996,
+          "end": 391.4265625
+        }
+      ]
+    },
+    {
+      "start": 392.0665625,
+      "end": 393.8465625,
+      "text": " The Mountfort.",
+      "words": [
+        {
+          "word": " The",
+          "start": 392.0665625,
+          "end": 392.64656249999996
+        },
+        {
+          "word": " Mountfort.",
+          "start": 392.64656249999996,
+          "end": 393.8465625
+        }
+      ]
+    },
+    {
+      "start": 394.5665625,
+      "end": 402.76656249999996,
+      "text": " M-O-U-N-T-F-O-R-T Hotel.",
+      "words": [
+        {
+          "word": " M",
+          "start": 394.5665625,
+          "end": 394.7465625
+        },
+        {
+          "word": "-O",
+          "start": 394.7465625,
+          "end": 395.58656249999996
+        },
+        {
+          "word": "-U",
+          "start": 395.58656249999996,
+          "end": 396.5465625
+        },
+        {
+          "word": "-N",
+          "start": 396.5465625,
+          "end": 397.6265625
+        },
+        {
+          "word": "-T",
+          "start": 397.6265625,
+          "end": 398.5065625
+        },
+        {
+          "word": "-F",
+          "start": 398.5065625,
+          "end": 399.20656249999996
+        },
+        {
+          "word": "-O",
+          "start": 399.20656249999996,
+          "end": 400.14656249999996
+        },
+        {
+          "word": "-R",
+          "start": 400.14656249999996,
+          "end": 401.3065625
+        },
+        {
+          "word": "-T",
+          "start": 401.3065625,
+          "end": 402.0065625
+        },
+        {
+          "word": " Hotel.",
+          "start": 402.0065625,
+          "end": 402.76656249999996
+        }
+      ]
+    },
+    {
+      "start": 403.6865625,
+      "end": 407.9265625,
+      "text": " It isn't in southo itself, but it's only a couple of miles away.",
+      "words": [
+        {
+          "word": " It",
+          "start": 403.6865625,
+          "end": 403.7465625
+        },
+        {
+          "word": " isn't",
+          "start": 403.7465625,
+          "end": 404.0665625
+        },
+        {
+          "word": " in",
+          "start": 404.0665625,
+          "end": 404.3465625
+        },
+        {
+          "word": " southo",
+          "start": 404.3465625,
+          "end": 404.7465625
+        },
+        {
+          "word": " itself,",
+          "start": 404.7465625,
+          "end": 405.52656249999995
+        },
+        {
+          "word": " but",
+          "start": 405.78656249999995,
+          "end": 405.96656249999995
+        },
+        {
+          "word": " it's",
+          "start": 405.96656249999995,
+          "end": 406.26656249999996
+        },
+        {
+          "word": " only",
+          "start": 406.26656249999996,
+          "end": 406.44656249999997
+        },
+        {
+          "word": " a",
+          "start": 406.44656249999997,
+          "end": 406.64656249999996
+        },
+        {
+          "word": " couple",
+          "start": 406.64656249999996,
+          "end": 406.8065625
+        },
+        {
+          "word": " of",
+          "start": 406.8065625,
+          "end": 407.08656249999996
+        },
+        {
+          "word": " miles",
+          "start": 407.08656249999996,
+          "end": 407.38656249999997
+        },
+        {
+          "word": " away.",
+          "start": 407.38656249999997,
+          "end": 407.9265625
+        }
+      ]
+    },
+    {
+      "start": 407.9265625,
+      "end": 412.4265625,
+      "text": " The hotel will be providing dinner, and we've booked a band.",
+      "words": [
+        {
+          "word": " The",
+          "start": 407.9265625,
+          "end": 408.6665625
+        },
+        {
+          "word": " hotel",
+          "start": 408.6665625,
+          "end": 409.0665625
+        },
+        {
+          "word": " will",
+          "start": 409.0665625,
+          "end": 409.3465625
+        },
+        {
+          "word": " be",
+          "start": 409.3465625,
+          "end": 409.6065625
+        },
+        {
+          "word": " providing",
+          "start": 409.6065625,
+          "end": 410.1665625
+        },
+        {
+          "word": " dinner,",
+          "start": 410.1665625,
+          "end": 410.6265625
+        },
+        {
+          "word": " and",
+          "start": 410.7265625,
+          "end": 411.2265625
+        },
+        {
+          "word": " we've",
+          "start": 411.2265625,
+          "end": 411.4865625
+        },
+        {
+          "word": " booked",
+          "start": 411.4865625,
+          "end": 411.70656249999996
+        },
+        {
+          "word": " a",
+          "start": 411.70656249999996,
+          "end": 412.0065625
+        },
+        {
+          "word": " band.",
+          "start": 412.0065625,
+          "end": 412.4265625
+        }
+      ]
+    },
+    {
+      "start": 413.02656249999995,
+      "end": 416.40656249999995,
+      "text": " The one thing we haven't got yet is a poster.",
+      "words": [
+        {
+          "word": " The",
+          "start": 413.02656249999995,
+          "end": 413.32656249999997
+        },
+        {
+          "word": " one",
+          "start": 413.32656249999997,
+          "end": 413.6065625
+        },
+        {
+          "word": " thing",
+          "start": 413.6065625,
+          "end": 413.8465625
+        },
+        {
+          "word": " we",
+          "start": 413.8465625,
+          "end": 414.1865625
+        },
+        {
+          "word": " haven't",
+          "start": 414.1865625,
+          "end": 414.5065625
+        },
+        {
+          "word": " got",
+          "start": 414.5065625,
+          "end": 414.8465625
+        },
+        {
+          "word": " yet",
+          "start": 414.8465625,
+          "end": 415.40656249999995
+        },
+        {
+          "word": " is",
+          "start": 415.40656249999995,
+          "end": 415.70656249999996
+        },
+        {
+          "word": " a",
+          "start": 415.70656249999996,
+          "end": 415.96656249999995
+        },
+        {
+          "word": " poster.",
+          "start": 415.96656249999995,
+          "end": 416.40656249999995
+        }
+      ]
+    },
+    {
+      "start": 416.96656249999995,
+      "end": 420.14656249999996,
+      "text": " That isn't something you could do by any chance, is it?",
+      "words": [
+        {
+          "word": " That",
+          "start": 416.96656249999995,
+          "end": 417.26656249999996
+        },
+        {
+          "word": " isn't",
+          "start": 417.26656249999996,
+          "end": 417.5065625
+        },
+        {
+          "word": " something",
+          "start": 417.5065625,
+          "end": 417.9265625
+        },
+        {
+          "word": " you",
+          "start": 417.9265625,
+          "end": 418.1265625
+        },
+        {
+          "word": " could",
+          "start": 418.1265625,
+          "end": 418.3465625
+        },
+        {
+          "word": " do",
+          "start": 418.3465625,
+          "end": 418.64656249999996
+        },
+        {
+          "word": " by",
+          "start": 418.64656249999996,
+          "end": 418.88656249999997
+        },
+        {
+          "word": " any",
+          "start": 418.88656249999997,
+          "end": 419.1865625
+        },
+        {
+          "word": " chance,",
+          "start": 419.1865625,
+          "end": 419.5465625
+        },
+        {
+          "word": " is",
+          "start": 419.7465625,
+          "end": 419.7465625
+        },
+        {
+          "word": " it?",
+          "start": 419.7465625,
+          "end": 420.14656249999996
+        }
+      ]
+    },
+    {
+      "start": 420.5665625,
+      "end": 427.4865625,
+      "text": " Well, actually, yes. Before I retire, I was a graphic designer, so that's right up my street.",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 420.5665625,
+          "end": 421.16656249999994
+        },
+        {
+          "word": " actually,",
+          "start": 421.3065625,
+          "end": 421.52656249999995
+        },
+        {
+          "word": " yes.",
+          "start": 422.1265625,
+          "end": 422.1265625
+        },
+        {
+          "word": " Before",
+          "start": 422.70656249999996,
+          "end": 423.02656249999995
+        },
+        {
+          "word": " I",
+          "start": 423.02656249999995,
+          "end": 423.32656249999997
+        },
+        {
+          "word": " retire,",
+          "start": 423.32656249999997,
+          "end": 423.52656249999995
+        },
+        {
+          "word": " I",
+          "start": 423.7265625,
+          "end": 423.94656249999997
+        },
+        {
+          "word": " was",
+          "start": 423.94656249999997,
+          "end": 424.1865625
+        },
+        {
+          "word": " a",
+          "start": 424.1865625,
+          "end": 424.40656249999995
+        },
+        {
+          "word": " graphic",
+          "start": 424.40656249999995,
+          "end": 424.7265625
+        },
+        {
+          "word": " designer,",
+          "start": 424.7265625,
+          "end": 425.28656249999995
+        },
+        {
+          "word": " so",
+          "start": 425.44656249999997,
+          "end": 426.0665625
+        },
+        {
+          "word": " that's",
+          "start": 426.0665625,
+          "end": 426.4665625
+        },
+        {
+          "word": " right",
+          "start": 426.4665625,
+          "end": 426.66656249999994
+        },
+        {
+          "word": " up",
+          "start": 426.66656249999994,
+          "end": 426.82656249999997
+        },
+        {
+          "word": " my",
+          "start": 426.82656249999997,
+          "end": 427.1065625
+        },
+        {
+          "word": " street.",
+          "start": 427.1065625,
+          "end": 427.4865625
+        }
+      ]
+    },
+    {
+      "start": 428.08656249999996,
+      "end": 433.70656249999996,
+      "text": " Oh, perfect. I'll give you the details, and then perhaps you could send me a draft?",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 428.08656249999996,
+          "end": 428.16656249999994
+        },
+        {
+          "word": " perfect.",
+          "start": 428.1865625,
+          "end": 428.6865625
+        },
+        {
+          "word": " I'll",
+          "start": 429.08656249999996,
+          "end": 429.6865625
+        },
+        {
+          "word": " give",
+          "start": 429.6865625,
+          "end": 429.90656249999995
+        },
+        {
+          "word": " you",
+          "start": 429.90656249999995,
+          "end": 430.1065625
+        },
+        {
+          "word": " the",
+          "start": 430.1065625,
+          "end": 430.28656249999995
+        },
+        {
+          "word": " details,",
+          "start": 430.28656249999995,
+          "end": 430.90656249999995
+        },
+        {
+          "word": " and",
+          "start": 431.1265625,
+          "end": 431.6065625
+        },
+        {
+          "word": " then",
+          "start": 431.6065625,
+          "end": 431.9865625
+        },
+        {
+          "word": " perhaps",
+          "start": 431.9865625,
+          "end": 432.3065625
+        },
+        {
+          "word": " you",
+          "start": 432.3065625,
+          "end": 432.44656249999997
+        },
+        {
+          "word": " could",
+          "start": 432.44656249999997,
+          "end": 432.70656249999996
+        },
+        {
+          "word": " send",
+          "start": 432.70656249999996,
+          "end": 432.90656249999995
+        },
+        {
+          "word": " me",
+          "start": 432.90656249999995,
+          "end": 433.14656249999996
+        },
+        {
+          "word": " a",
+          "start": 433.14656249999996,
+          "end": 433.3065625
+        },
+        {
+          "word": " draft?",
+          "start": 433.3065625,
+          "end": 433.70656249999996
+        }
+      ]
+    },
+    {
+      "start": 433.8665625,
+      "end": 434.5465625,
+      "text": " Of course.",
+      "words": [
+        {
+          "word": " Of",
+          "start": 433.8665625,
+          "end": 434.20656249999996
+        },
+        {
+          "word": " course.",
+          "start": 434.20656249999996,
+          "end": 434.5465625
+        }
+      ]
+    },
+    {
+      "start": 437.9265625,
+      "end": 440.1065625,
+      "text": " That is the end of part one.",
+      "words": [
+        {
+          "word": " That",
+          "start": 437.9265625,
+          "end": 438.3465625
+        },
+        {
+          "word": " is",
+          "start": 438.3465625,
+          "end": 438.5665625
+        },
+        {
+          "word": " the",
+          "start": 438.5665625,
+          "end": 438.7465625
+        },
+        {
+          "word": " end",
+          "start": 438.7465625,
+          "end": 439.0465625
+        },
+        {
+          "word": " of",
+          "start": 439.0465625,
+          "end": 439.28656249999995
+        },
+        {
+          "word": " part",
+          "start": 439.28656249999995,
+          "end": 439.5465625
+        },
+        {
+          "word": " one.",
+          "start": 439.5465625,
+          "end": 440.1065625
+        }
+      ]
+    },
+    {
+      "start": 440.5065625,
+      "end": 444.5465625,
+      "text": " You now have half a minute to check your answers to part one.",
+      "words": [
+        {
+          "word": " You",
+          "start": 440.5065625,
+          "end": 440.7265625
+        },
+        {
+          "word": " now",
+          "start": 440.7265625,
+          "end": 441.0065625
+        },
+        {
+          "word": " have",
+          "start": 441.0065625,
+          "end": 441.2465625
+        },
+        {
+          "word": " half",
+          "start": 441.2465625,
+          "end": 441.64656249999996
+        },
+        {
+          "word": " a",
+          "start": 441.64656249999996,
+          "end": 441.82656249999997
+        },
+        {
+          "word": " minute",
+          "start": 441.82656249999997,
+          "end": 442.0665625
+        },
+        {
+          "word": " to",
+          "start": 442.0665625,
+          "end": 442.44656249999997
+        },
+        {
+          "word": " check",
+          "start": 442.44656249999997,
+          "end": 442.7465625
+        },
+        {
+          "word": " your",
+          "start": 442.7465625,
+          "end": 443.08656249999996
+        },
+        {
+          "word": " answers",
+          "start": 443.08656249999996,
+          "end": 443.38656249999997
+        },
+        {
+          "word": " to",
+          "start": 443.38656249999997,
+          "end": 443.66656249999994
+        },
+        {
+          "word": " part",
+          "start": 443.66656249999994,
+          "end": 443.8665625
+        },
+        {
+          "word": " one.",
+          "start": 443.8665625,
+          "end": 444.5465625
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "book": 13,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-13\\BAN_GOC\\Cam 13.pdf",
+  "page": 7,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 612.0,
+  "height": 792.0,
+  "text": "Introduction\nMARKING THE PRACTICE TESTS\nListening and Reading\nThe Answer Keys are on pages 118-125.\nEach question in the Listening and Reading tests is worth one mark.\nQuestions which require letter/Roman numeral answers\n*\nFor questions where the answers are letters or Roman numerals, you should write only\nthe number of answers required. For example, if the answer is a single letter or numeral\nyou should write only one answer. If you have written more letters or numerals than are\nrequired, the answer must be marked wrong.\nQuestions which require answers in the form of words or numbers\n*\nAnswers may be written in upper or lower case.\n*\nWords in brackets are optional — they are correct, but not necessary.\n+\nAlternative answers are separated bya slash (/).\n*\nIf you are asked to write an answer using a certain number of words and/or (a)\nnumber(s), you will be penalised if you exceed this. For example, if a question specifies\nan answer using NO MORE THAN THREE WORDS and the correct answer is ‘black\nleather coat’, the answer ‘coat of black leather’ is incorrect.\n*\nIn questions where you are expected to complete a gap, you should only transfer the\nnecessary missing word(s) onto the answer sheet. For example, to complete ‘in the ...’,\nwhere the correct answer is ‘morning’, the answer ‘in the morning’ would be incorrect.\n*\nAll answers require correct spelling (including words in brackets).\n*\nBoth US and UK spelling are acceptable and are included in the Answer Key.\n*\nAll standard alternatives for numbers, dates and currencies are acceptable.\n*\nAll standard abbreviations are acceptable.\n*\nYou will find additional notes about individual answers in the Answer Key.\nWriting\nThe sample answers are on pages 126-135. It is not possible for you to give yourself a mark\nfor the Writing tasks. We have provided sample answers (written by candidates), showing\ntheir score and the examiner's comments. These sample answers will give you an insight\ninto what is required for the Writing test.\n8\n",
+  "blocks": [
+    {
+      "box": [
+        84.23999786376953,
+        53.6400146484375,
+        147.2254180908203,
+        63.36970520019531
+      ],
+      "text": "Introduction\n"
+    },
+    {
+      "box": [
+        83.87999725341797,
+        91.44000244140625,
+        332.5049133300781,
+        104.05258178710938
+      ],
+      "text": "MARKING THE PRACTICE TESTS\n"
+    },
+    {
+      "box": [
+        83.51998901367188,
+        120.96002197265625,
+        225.77578735351562,
+        134.29335021972656
+      ],
+      "text": "Listening and Reading\n"
+    },
+    {
+      "box": [
+        82.79998779296875,
+        141.47998046875,
+        434.969970703125,
+        168.49258422851562
+      ],
+      "text": "The Answer Keys are on pages 118-125.\nEach question in the Listening and Reading tests is worth one mark.\n"
+    },
+    {
+      "box": [
+        83.15997314453125,
+        183.96002197265625,
+        391.83837890625,
+        199.45547485351562
+      ],
+      "text": "Questions which require letter/Roman numeral answers\n"
+    },
+    {
+      "box": [
+        82.79995727539062,
+        203.760009765625,
+        552.2254028320312,
+        259.5722351074219
+      ],
+      "text": "*\nFor questions where the answers are letters or Roman numerals, you should write only\nthe number of answers required. For example, if the answer is a single letter or numeral\nyou should write only one answer. If you have written more letters or numerals than are\nrequired, the answer must be marked wrong.\n"
+    },
+    {
+      "box": [
+        82.43994140625,
+        276.47998046875,
+        439.5869140625,
+        289.09259033203125
+      ],
+      "text": "Questions which require answers in the form of words or numbers\n"
+    },
+    {
+      "box": [
+        81.71994018554688,
+        294.8399963378906,
+        342.51287841796875,
+        306.73187255859375
+      ],
+      "text": "*\nAnswers may be written in upper or lower case.\n"
+    },
+    {
+      "box": [
+        81.71994018554688,
+        309.239990234375,
+        450.0719909667969,
+        322.9336853027344
+      ],
+      "text": "*\nWords in brackets are optional — they are correct, but not necessary.\n"
+    },
+    {
+      "box": [
+        81.35993957519531,
+        322.55999755859375,
+        549.2664794921875,
+        392.4107971191406
+      ],
+      "text": "+\nAlternative answers are separated bya slash (/).\n*\nIf you are asked to write an answer using a certain number of words and/or (a)\nnumber(s), you will be penalised if you exceed this. For example, if a question specifies\nan answer using NO MORE THAN THREE WORDS and the correct answer is ‘black\nleather coat’, the answer ‘coat of black leather’ is incorrect.\n"
+    },
+    {
+      "box": [
+        80.99990844726562,
+        396.0,
+        547.3079223632812,
+        438.8533020019531
+      ],
+      "text": "*\nIn questions where you are expected to complete a gap, you should only transfer the\nnecessary missing word(s) onto the answer sheet. For example, to complete ‘in the ...’,\nwhere the correct answer is ‘morning’, the answer ‘in the morning’ would be incorrect.\n"
+    },
+    {
+      "box": [
+        80.27993774414062,
+        439.9200134277344,
+        431.927978515625,
+        452.8929748535156
+      ],
+      "text": "*\nAll answers require correct spelling (including words in brackets).\n"
+    },
+    {
+      "box": [
+        80.27993774414062,
+        454.32000732421875,
+        493.9199523925781,
+        468.013671875
+      ],
+      "text": "*\nBoth US and UK spelling are acceptable and are included in the Answer Key.\n"
+    },
+    {
+      "box": [
+        80.27993774414062,
+        468.7200012207031,
+        484.4754943847656,
+        482.0533142089844
+      ],
+      "text": "*\nAll standard alternatives for numbers, dates and currencies are acceptable.\n"
+    },
+    {
+      "box": [
+        80.27993774414062,
+        483.1199951171875,
+        313.0883483886719,
+        495.3722229003906
+      ],
+      "text": "*\nAll standard abbreviations are acceptable.\n"
+    },
+    {
+      "box": [
+        79.91993713378906,
+        497.8800048828125,
+        472.9391174316406,
+        511.21331787109375
+      ],
+      "text": "*\nYou will find additional notes about individual answers in the Answer Key.\n"
+    },
+    {
+      "box": [
+        79.19992065429688,
+        522.0,
+        124.42135620117188,
+        535.3333129882812
+      ],
+      "text": "Writing\n"
+    },
+    {
+      "box": [
+        78.83993530273438,
+        542.52001953125,
+        559.4110717773438,
+        598.332275390625
+      ],
+      "text": "The sample answers are on pages 126-135. It is not possible for you to give yourself a mark\nfor the Writing tasks. We have provided sample answers (written by candidates), showing\ntheir score and the examiner's comments. These sample answers will give you an insight\ninto what is required for the Writing test.\n"
+    },
+    {
+      "box": [
+        77.75991821289062,
+        763.2000122070312,
+        83.47491455078125,
+        772.208984375
+      ],
+      "text": "8\n"
+    }
+  ]
+}

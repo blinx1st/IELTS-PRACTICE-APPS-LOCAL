@@ -3,7 +3,7 @@
   "book": 15,
   "test": 1,
   "title": "Cambridge 15 · Test 1",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "All 12 reading passages and 160 question slots compared with the supplied scan. Completion text, options, limits and question numbering corrected. Two original table layouts retained with native answer fields.",
@@ -76,7 +76,56 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The nutmeg tree and fruit\n• the leaves of the tree are ",
+                  {
+                    "number": 1
+                  },
+                  " in shape\n• the ",
+                  {
+                    "number": 2
+                  },
+                  " surrounds the fruit and breaks open when the fruit is ripe\n• the ",
+                  {
+                    "number": 3
+                  },
+                  " is used to produce the spice nutmeg\n• the covering known as the aril is used to produce ",
+                  {
+                    "number": 4
+                  },
+                  "\n• the tree has yellow flowers and fruit"
+                ],
+                "anchors": [
+                  "cam15-t1-p1-g1-body-0",
+                  "",
+                  "cam15-t1-p1-g1-body-67",
+                  "",
+                  "cam15-t1-p1-g1-body-95",
+                  "",
+                  "cam15-t1-p1-g1-body-173",
+                  "",
+                  "cam15-t1-p1-g1-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam15-t1-p1-g2",
@@ -448,7 +497,56 @@
             }
           ],
           "wordLimit": 2,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The impact of driverless cars\n\nFigures from the Transport Research Laboratory indicate that most motor accidents are partly due to ",
+                  {
+                    "number": 19
+                  },
+                  ", so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for ",
+                  {
+                    "number": 20
+                  },
+                  " will be more workable, especially in towns and cities, resulting in fewer cars on the road.\n\nAccording to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in ",
+                  {
+                    "number": 21
+                  },
+                  " of cars. However, this would mean that the yearly ",
+                  {
+                    "number": 22
+                  },
+                  " of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing."
+                ],
+                "anchors": [
+                  "cam15-t1-p2-g2-body-0",
+                  "",
+                  "cam15-t1-p2-g2-body-144",
+                  "",
+                  "cam15-t1-p2-g2-body-339",
+                  "",
+                  "cam15-t1-p2-g2-body-557",
+                  "",
+                  "cam15-t1-p2-g2-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam15-t1-p2-g3",
@@ -838,7 +936,48 @@
             }
           ],
           "wordLimit": 2,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The writer's own bias\n\nThe writer has experience of a large number of ",
+                  {
+                    "number": 38
+                  },
+                  ", and was the first stranger that certain previously ",
+                  {
+                    "number": 39
+                  },
+                  " people had encountered. He believes there is no need for further exploration of Earth's ",
+                  {
+                    "number": 40
+                  },
+                  ", except to answer specific questions such as how buffalo eat."
+                ],
+                "anchors": [
+                  "cam15-t1-p3-g3-body-0",
+                  "",
+                  "cam15-t1-p3-g3-body-83",
+                  "",
+                  "cam15-t1-p3-g3-body-149",
+                  "",
+                  "cam15-t1-p3-g3-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

@@ -1,0 +1,138 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 32,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 2\nQuestions 1-8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-8 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n1\nHenderson rarely visited the area around Press estate when he was younger.\n2\nHenderson pursued a business career because it was what his family wanted.\n3\nHenderson and Notman were surprised by the results of their 1865 experiment.\n4\nThere were many similarities between Henderson’s early landscapes and those\nof Notman.\n5\nThe studio that Henderson opened in 1866 was close to his home.\n6\nHenderson gave up portraiture so that he could focus on taking photographs of\nscenery.\n7\nWhen Henderson began work for the Intercolonial Railway, the Montreal to Halifax\nline had been finished.\n8\nHenderson’s last work as a photographer was with the Canadian Pacific Railway.\n40\n",
+  "blocks": [
+    {
+      "box": [
+        128.49412536621094,
+        91.42159271240234,
+        157.63026428222656,
+        99.7082290649414
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        127.77426147460938,
+        125.25477600097656,
+        203.95652770996094,
+        135.34283447265625
+      ],
+      "text": "Questions 1-8\n"
+    },
+    {
+      "box": [
+        127.41433715820312,
+        151.88941955566406,
+        539.4881591796875,
+        165.580322265625
+      ],
+      "text": "Do the following statements agree with the information given in Reading Passage 1?\n"
+    },
+    {
+      "box": [
+        127.0544204711914,
+        177.80418395996094,
+        327.5339660644531,
+        188.9730682373047
+      ],
+      "text": "In boxes 1-8 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        163.04714965820312,
+        203.7189483642578,
+        445.4625244140625,
+        240.0816650390625
+      ],
+      "text": "TRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nif there is no information on this\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        262.38714599609375,
+        526.660400390625,
+        277.5191955566406
+      ],
+      "text": "1\nHenderson rarely visited the area around Press estate when he was younger.\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        282.5430908203125,
+        529.4154663085938,
+        295.87371826171875
+      ],
+      "text": "2\nHenderson pursued a business career because it was what his family wanted.\n"
+    },
+    {
+      "box": [
+        125.61470794677734,
+        302.69903564453125,
+        535.3634033203125,
+        315.6694030761719
+      ],
+      "text": "3\nHenderson and Notman were surprised by the results of their 1865 experiment.\n"
+    },
+    {
+      "box": [
+        125.25476837158203,
+        322.8550109863281,
+        537.2638549804688,
+        344.8195495605469
+      ],
+      "text": "4\nThere were many similarities between Henderson’s early landscapes and those\nof Notman.\n"
+    },
+    {
+      "box": [
+        125.25475311279297,
+        355.96832275390625,
+        471.86492919921875,
+        367.49749755859375
+      ],
+      "text": "5\nThe studio that Henderson opened in 1866 was close to his home.\n"
+    },
+    {
+      "box": [
+        125.2547378540039,
+        376.1242370605469,
+        534.4347534179688,
+        399.8880920410156
+      ],
+      "text": "6\nHenderson gave up portraiture so that he could focus on taking photographs of\nscenery.\n"
+    },
+    {
+      "box": [
+        124.89482116699219,
+        409.23760986328125,
+        549.1484985351562,
+        431.56207275390625
+      ],
+      "text": "7\nWhen Henderson began work for the Intercolonial Railway, the Montreal to Halifax\nline had been finished.\n"
+    },
+    {
+      "box": [
+        124.89482116699219,
+        442.35089111328125,
+        542.1370849609375,
+        457.1226806640625
+      ],
+      "text": "8\nHenderson’s last work as a photographer was with the Canadian Pacific Railway.\n"
+    },
+    {
+      "box": [
+        121.65545654296875,
+        728.4932861328125,
+        133.45388793945312,
+        736.4196166992188
+      ],
+      "text": "40\n"
+    }
+  ]
+}

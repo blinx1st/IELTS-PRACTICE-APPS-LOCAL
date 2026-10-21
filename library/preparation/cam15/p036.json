@@ -1,0 +1,120 @@
+{
+  "book": 15,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-15\\BAN_GOC\\Cambridge 15 - IELTS Fighter.pdf",
+  "page": 36,
+  "method": "tesseract-eng-binary",
+  "dpi": 200,
+  "width": 595.275390625,
+  "height": 841.889892578125,
+  "text": "Test 2\nPART 3\nQuestions 21-30\nQuestions 21 and 22\nChoose TWO /etters, A-E.\nWhich TWO groups of people is the display primarily intended for?\nA _ students from the English department\nB\nresidents of the local area\nC\nthe university’s teaching staff\nD\npotential new students\nE _ students from other departments\nQuestions 23 and 24\nChoose TWO letters, A-E.\nWhat are Cathy and Graham's TWO reasons for choosing the novelist Charles Dickens?\nA__\nHis speeches inspired others to try to improve society.\nB\nHeused his publications to draw attention to social problems.\nC\nHis novels are well-known now.\nD\nHe was consulted on a number of social issues.\nE\nHis reputation has changed in recent times.\n34\n",
+  "blocks": [
+    {
+      "box": [
+        80.97760755176844,
+        86.7360151998942,
+        112.28894913845224,
+        95.74252612647969
+      ],
+      "text": "Test 2\n"
+    },
+    {
+      "box": [
+        80.61770707376058,
+        123.08596347868803,
+        280.09260558716863,
+        134.97455585156655
+      ],
+      "text": "PART 3\nQuestions 21-30\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        152.23790219732467,
+        198.95297252723452,
+        163.04570945147208
+      ],
+      "text": "Questions 21 and 22\n"
+    },
+    {
+      "box": [
+        80.97760755176844,
+        180.6700399599456,
+        218.73308873993406,
+        191.1175952707746
+      ],
+      "text": "Choose TWO /etters, A-E.\n"
+    },
+    {
+      "box": [
+        79.89790611774487,
+        207.30267533252723,
+        427.20186739532954,
+        219.91178623643052
+      ],
+      "text": "Which TWO groups of people is the display primarily intended for?\n"
+    },
+    {
+      "box": [
+        105.45084005630291,
+        228.53680353499095,
+        328.22917736561635,
+        243.3074846763565
+      ],
+      "text": "A _ students from the English department\n"
+    },
+    {
+      "box": [
+        106.17064101231863,
+        244.0125240893289,
+        302.4602972824984,
+        299.45160778027207
+      ],
+      "text": "B\nresidents of the local area\nC\nthe university’s teaching staff\nD\npotential new students\nE _ students from other departments\n"
+    },
+    {
+      "box": [
+        81.3375080297763,
+        341.18565315145105,
+        199.34886891079833,
+        351.9934750499864
+      ],
+      "text": "Questions 23 and 24\n"
+    },
+    {
+      "box": [
+        81.3375080297763,
+        369.9776913920798,
+        219.3953079625706,
+        380.78551329061514
+      ],
+      "text": "Choose TWO letters, A-E.\n"
+    },
+    {
+      "box": [
+        80.61770707376058,
+        395.53062533063786,
+        544.8030975477103,
+        409.22052135327226
+      ],
+      "text": "What are Cathy and Graham's TWO reasons for choosing the novelist Charles Dickens?\n"
+    },
+    {
+      "box": [
+        106.17064101231863,
+        418.92415640114876,
+        452.8178893571321,
+        487.3171384656492
+      ],
+      "text": "A__\nHis speeches inspired others to try to improve society.\nB\nHeused his publications to draw attention to social problems.\nC\nHis novels are well-known now.\nD\nHe was consulted on a number of social issues.\nE\nHis reputation has changed in recent times.\n"
+    },
+    {
+      "box": [
+        81.69740850778416,
+        775.2256296289299,
+        93.9340247600514,
+        784.2321625220973
+      ],
+      "text": "34\n"
+    }
+  ]
+}

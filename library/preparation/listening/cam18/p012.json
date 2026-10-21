@@ -1,0 +1,183 @@
+{
+  "book": 18,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-18\\BAN_GOC\\Cambridge 18.pdf",
+  "page": 12,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 519.3070068359375,
+  "height": 694.4879760742188,
+  "text": "ielts-fighter.com\nTest 1\nLISTENING\nPART\n1\nQuestions 1-10\n;\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nTransport survey\nName:\nSadie Jones\nYear of birth:\n1991\nPostcode:\nee\nTravelling by bus\nDate of bus journey:\nD ceesssssstnssnsstsstssensenneeste\nReason for trip:\nShopping and Visit to THE 3 ecsssenseeneeneeee\nTravelled by bus because Cost Of\n4wns tO high\nGot on bus at\n5B voce Street\nComplaints about bus service:\n= DUS today WAS 6 oneeessssessssnstnseneennte\n- frequency of buses in the 7nin\nTravelling by car\nGoes to the\n:ee\n©) Aer=\nTravelling by bicycle\nDislikes travelling by bike in the city centre DeCAUSE OF the Q onsen\nDoesn’t own a bike because of 2 lack OF 10 esses\n10\n->|@ p. 119]\n|B p.99\n",
+  "blocks": [
+    {
+      "box": [
+        51.10297393798828,
+        55.781402587890625,
+        477.2911071777344,
+        80.99821472167969
+      ],
+      "text": "ielts-fighter.com\nTest 1\n"
+    },
+    {
+      "box": [
+        227.80413818359375,
+        108.32390594482422,
+        305.53839111328125,
+        119.85160064697266
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        51.82273483276367,
+        161.58624267578125,
+        378.2142333984375,
+        172.75364685058594
+      ],
+      "text": "PART\n1\nQuestions 1-10\n;\n"
+    },
+    {
+      "box": [
+        52.18263244628906,
+        189.29696655273438,
+        179.81410217285156,
+        199.74392700195312
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        52.54249572753906,
+        214.128662109375,
+        332.8603820800781,
+        223.4949188232422
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        206.57119750976562,
+        246.87779235839844,
+        327.8832702636719,
+        260.2066650390625
+      ],
+      "text": "Transport survey\n"
+    },
+    {
+      "box": [
+        60.45985794067383,
+        274.5885314941406,
+        301.4176330566406,
+        301.58892822265625
+      ],
+      "text": "Name:\nSadie Jones\nYear of birth:\n1991\n"
+    },
+    {
+      "box": [
+        61.17961883544922,
+        308.7771301269531,
+        335.6531677246094,
+        322.4662780761719
+      ],
+      "text": "Postcode:\nee\n"
+    },
+    {
+      "box": [
+        60.819740295410156,
+        336.1280517578125,
+        150.3453369140625,
+        346.57501220703125
+      ],
+      "text": "Travelling by bus\n"
+    },
+    {
+      "box": [
+        61.53950119018555,
+        352.68255615234375,
+        457.46533203125,
+        380.7646789550781
+      ],
+      "text": "Date of bus journey:\nD ceesssssstnssnsstsstssensenneeste\nReason for trip:\nShopping and Visit to THE 3 ecsssenseeneeneeee\n"
+    },
+    {
+      "box": [
+        60.819740295410156,
+        386.5112609863281,
+        380.30694580078125,
+        413.511962890625
+      ],
+      "text": "Travelled by bus because Cost Of\n4wns tO high\nGot on bus at\n5B voce Street\n"
+    },
+    {
+      "box": [
+        61.53950119018555,
+        421.05975341796875,
+        418.5818176269531,
+        432.9476623535156
+      ],
+      "text": "Complaints about bus service:\n= DUS today WAS 6 oneeessssessssnstnseneennte\n"
+    },
+    {
+      "box": [
+        241.83944702148438,
+        434.3753356933594,
+        471.94317626953125,
+        449.1451416015625
+      ],
+      "text": "- frequency of buses in the 7nin\n"
+    },
+    {
+      "box": [
+        61.53950119018555,
+        465.3249816894531,
+        148.46856689453125,
+        476.1322021484375
+      ],
+      "text": "Travelling by car\n"
+    },
+    {
+      "box": [
+        62.25926208496094,
+        480.0801086425781,
+        372.8016052246094,
+        493.4089660644531
+      ],
+      "text": "Goes to the\n:ee\n©) Aer=\n"
+    },
+    {
+      "box": [
+        61.89939880371094,
+        508.1507568359375,
+        168.95834350585938,
+        518.5977172851562
+      ],
+      "text": "Travelling by bicycle\n"
+    },
+    {
+      "box": [
+        62.61915969848633,
+        524.3453369140625,
+        441.5010986328125,
+        535.873046875
+      ],
+      "text": "Dislikes travelling by bike in the city centre DeCAUSE OF the Q onsen\n"
+    },
+    {
+      "box": [
+        62.61915969848633,
+        541.9794921875,
+        360.2041320800781,
+        551.345703125
+      ],
+      "text": "Doesn’t own a bike because of 2 lack OF 10 esses\n"
+    },
+    {
+      "box": [
+        54.3419303894043,
+        663.9788208007812,
+        202.9436492919922,
+        675.5065307617188
+      ],
+      "text": "10\n->|@ p. 119]\n|B p.99\n"
+    }
+  ]
+}

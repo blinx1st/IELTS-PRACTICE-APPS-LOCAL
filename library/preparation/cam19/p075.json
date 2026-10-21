@@ -1,0 +1,93 @@
+{
+  "book": 19,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-19\\BAN_GOC\\Cambridge 19 - IELTS Fighter.pdf",
+  "page": 75,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 533.0399780273438,
+  "height": 729.0,
+  "text": "Test 3\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nIt is important for everyone, including young people, to save money for\ntheir future.\nTo what extent do you agree or disagree with this statement?\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\nWrite at least 250 words.\n76\n= ->{®\np. 134]\n",
+  "blocks": [
+    {
+      "box": [
+        50.748573303222656,
+        37.791473388671875,
+        79.89663696289062,
+        46.077919006347656
+      ],
+      "text": "Test 3\n"
+    },
+    {
+      "box": [
+        49.30889892578125,
+        71.62390899658203,
+        171.29981994628906,
+        81.71167755126953
+      ],
+      "text": "WRITING TASK 2\n"
+    },
+    {
+      "box": [
+        49.30889892578125,
+        98.97775268554688,
+        283.7781066894531,
+        109.42584228515625
+      ],
+      "text": "You should spend about 40 minutes on this task.\n"
+    },
+    {
+      "box": [
+        48.948970794677734,
+        124.89187622070312,
+        197.49830627441406,
+        135.3399658203125
+      ],
+      "text": "Write about the following topic:\n"
+    },
+    {
+      "box": [
+        61.18620681762695,
+        158.7242889404297,
+        432.6046142578125,
+        179.60752868652344
+      ],
+      "text": "It is important for everyone, including young people, to save money for\ntheir future.\n"
+    },
+    {
+      "box": [
+        61.906063079833984,
+        197.2356414794922,
+        380.0744323730469,
+        208.04400634765625
+      ],
+      "text": "To what extent do you agree or disagree with this statement?\n"
+    },
+    {
+      "box": [
+        49.30890655517578,
+        231.06797790527344,
+        436.4197998046875,
+        254.11288452148438
+      ],
+      "text": "Give reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n"
+    },
+    {
+      "box": [
+        48.9489860534668,
+        269.579345703125,
+        168.2837677001953,
+        277.8657531738281
+      ],
+      "text": "Write at least 250 words.\n"
+    },
+    {
+      "box": [
+        48.58907699584961,
+        669.0894165039062,
+        146.50863647460938,
+        688.1842041015625
+      ],
+      "text": "76\n= ->{®\np. 134]\n"
+    }
+  ]
+}

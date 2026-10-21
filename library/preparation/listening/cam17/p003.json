@@ -1,0 +1,273 @@
+{
+  "book": 17,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-17\\BAN_GOC\\Cambridge 17 Bản Đẹp.pdf",
+  "page": 3,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.3200073242188,
+  "height": 841.9199829101562,
+  "text": "hen0\nFc ve\nBE, RASAROERER\nRais\n‘Ne 1718867188\nTest 1\nLISTENING\nPART\n1\nQuestions 1-10\nComplete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.\nBuckworth Conservation Group\nRegular activities\nBeach\ne\nmaking sure the beach does not Nave 14 oes\nON\nit\nNO\nrepresses\nNature reserve\n¢\nmaintaining paths\ne\nnesting boxes for birds installed\ne\nnext task is taking action to attract 3 owentO the place\ne\nidentifying typeS Of4 on...ccsssssssssessies\n©\nDUIIGING\n2 NEW 5 o..cccssssesssseersnseeeernee\nForthcoming events\nSaturday\ne\nmeet at Dunsmore Beach car park\ne\nwalk across the sands and reach the 6 on\neeeeceseeeeeeeeee\ne\ntake a picnic\ne\n= =wear appropriate 7eee\nWoodwork session\ne = Suitable for 8eeetO participate in\n©\nMAKING 9 veseseecssersersrercanes\nOUt Of WOOd\ne\n17th, from 10 a.m. to 3 p.m.\n©\nCost of Session (NO CAMPING): 10 Lan eeceeseseesseseeeeee\n10\n+>/@p.119\np.96\nielts-fighter.com\n",
+  "blocks": [
+    {
+      "box": [
+        390.1613464355469,
+        3.5992650985717773,
+        511.9608154296875,
+        60.13886260986328
+      ],
+      "text": "hen0\nFc ve\nBE, RASAROERER\nRais\n‘Ne 1718867188\n"
+    },
+    {
+      "box": [
+        70.90569305419922,
+        113.0172119140625,
+        134.56787109375,
+        132.11245727539062
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        260.2275085449219,
+        163.04708862304688,
+        344.30487060546875,
+        173.49542236328125
+      ],
+      "text": "LISTENING\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        219.9156494140625,
+        262.9486389160156,
+        231.4448699951172
+      ],
+      "text": "PART\n1\nQuestions 1-10\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        249.06980895996094,
+        207.8292236328125,
+        260.23870849609375
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        71.2656021118164,
+        277.1440734863281,
+        372.70477294921875,
+        286.1512756347656
+      ],
+      "text": "Write ONE WORD AND/OR A NUMBER for each answer.\n"
+    },
+    {
+      "box": [
+        181.04347229003906,
+        312.05712890625,
+        423.7065124511719,
+        327.1891784667969
+      ],
+      "text": "Buckworth Conservation Group\n"
+    },
+    {
+      "box": [
+        80.62370300292969,
+        342.65093994140625,
+        177.0662841796875,
+        353.8198547363281
+      ],
+      "text": "Regular activities\n"
+    },
+    {
+      "box": [
+        80.62370300292969,
+        361.36712646484375,
+        112.5672607421875,
+        370.37432861328125
+      ],
+      "text": "Beach\n"
+    },
+    {
+      "box": [
+        80.62370300292969,
+        378.6436767578125,
+        433.6657409667969,
+        407.4443359375
+      ],
+      "text": "e\nmaking sure the beach does not Nave 14 oes\nON\nit\nNO\nrepresses\n"
+    },
+    {
+      "box": [
+        80.62373352050781,
+        422.19488525390625,
+        157.59066772460938,
+        430.841796875
+      ],
+      "text": "Nature reserve\n"
+    },
+    {
+      "box": [
+        80.62373352050781,
+        440.9111022949219,
+        197.78016662597656,
+        451.7197570800781
+      ],
+      "text": "¢\nmaintaining paths\n"
+    },
+    {
+      "box": [
+        80.62373352050781,
+        458.5475769042969,
+        270.37750244140625,
+        470.0767517089844
+      ],
+      "text": "e\nnesting boxes for birds installed\n"
+    },
+    {
+      "box": [
+        80.62373352050781,
+        476.1839904785156,
+        453.1487731933594,
+        490.59552001953125
+      ],
+      "text": "e\nnext task is taking action to attract 3 owentO the place\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        494.5403137207031,
+        308.8896484375,
+        508.9518127441406
+      ],
+      "text": "e\nidentifying typeS Of4 on...ccsssssssssessies\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        515.05615234375,
+        285.6815490722656,
+        526.22509765625
+      ],
+      "text": "©\nDUIIGING\n2 NEW 5 o..cccssssesssseersnseeeernee\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        540.2510375976562,
+        191.9997100830078,
+        551.4199829101562
+      ],
+      "text": "Forthcoming events\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        558.2474975585938,
+        126.70890045166016,
+        570.1370239257812
+      ],
+      "text": "Saturday\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        577.3236083984375,
+        285.696044921875,
+        588.4925537109375
+      ],
+      "text": "e\nmeet at Dunsmore Beach car park\n"
+    },
+    {
+      "box": [
+        80.62374877929688,
+        595.679931640625,
+        403.29864501953125,
+        604.6870727539062
+      ],
+      "text": "e\nwalk across the sands and reach the 6 on\neeeeceseeeeeeeeee\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        614.3961181640625,
+        171.28948974609375,
+        625.2047729492188
+      ],
+      "text": "e\ntake a picnic\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        631.312744140625,
+        300.0517883300781,
+        645.3639526367188
+      ],
+      "text": "e\n= =wear appropriate 7eee\n"
+    },
+    {
+      "box": [
+        79.9039077758789,
+        658.3073120117188,
+        177.99136352539062,
+        666.9542236328125
+      ],
+      "text": "Woodwork session\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        674.8639526367188,
+        351.1920166015625,
+        689.6357421875
+      ],
+      "text": "e = Suitable for 8eeetO participate in\n"
+    },
+    {
+      "box": [
+        80.62376403808594,
+        693.5802001953125,
+        312.1507568359375,
+        708.3519897460938
+      ],
+      "text": "©\nMAKING 9 veseseecssersersrercanes\nOUt Of WOOd\n"
+    },
+    {
+      "box": [
+        80.623779296875,
+        713.3761596679688,
+        250.1136016845703,
+        724.5451049804688
+      ],
+      "text": "e\n17th, from 10 a.m. to 3 p.m.\n"
+    },
+    {
+      "box": [
+        80.623779296875,
+        731.7324829101562,
+        381.1990051269531,
+        743.6220092773438
+      ],
+      "text": "©\nCost of Session (NO CAMPING): 10 Lan eeceeseseesseseeeeee\n"
+    },
+    {
+      "box": [
+        71.26566314697266,
+        758.3671264648438,
+        231.05905151367188,
+        775.3005981445312
+      ],
+      "text": "10\n+>/@p.119\np.96\n"
+    },
+    {
+      "box": [
+        289.7416076660156,
+        813.0761108398438,
+        386.23431396484375,
+        826.7670288085938
+      ],
+      "text": "ielts-fighter.com\n"
+    }
+  ]
+}

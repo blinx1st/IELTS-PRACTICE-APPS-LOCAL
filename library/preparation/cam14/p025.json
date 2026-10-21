@@ -1,0 +1,174 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 25,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Listening\nSECTION 2\nQuestions 11-20\nQuestions 11-15\nChoose the correct letter, A, B or C.\nVisit to Branley Castle\n11\nBefore Queen Elizabeth\n| visited the castle in 1576,\nA\nrepairs were carried out to the guest rooms.\nB\nanew building was constructed for her.\nC\na fire damaged part of the main hall.\n12\nIn 1982, the castle was sold to\nA __ the government.\nB\nthe Fenys family.\nC\n anentertainment company.\n13\nIn some of the rooms, visitors can\nA__ speak to experts on the history ofthe castle.\nB _ interact with actors dressed as famous characters.\nC\nsee models of historical figures moving and talking.\n14\nInthe castle park, visitors can\nA\nsee an 800-year-old tree.\nB\ngo to an art exhibition.\nC\nvisit\na small zoo.\n15\nAtthe end of the visit, the group will have\nA\nafternoon tea in the conservatory.\nB_\nthe chance to meet the castle’s owners.\nC\na photograph together on the Great Staircase.\n33\n",
+  "blocks": [
+    {
+      "box": [
+        497.77972412109375,
+        93.94107055664062,
+        541.4624633789062,
+        104.389404296875
+      ],
+      "text": "Listening\n"
+    },
+    {
+      "box": [
+        109.41796112060547,
+        129.21401977539062,
+        319.8045654296875,
+        139.662353515625
+      ],
+      "text": "SECTION 2\nQuestions 11-20\n"
+    },
+    {
+      "box": [
+        110.1378173828125,
+        155.8485870361328,
+        197.4922332763672,
+        165.9366455078125
+      ],
+      "text": "Questions 11-15\n"
+    },
+    {
+      "box": [
+        110.1378173828125,
+        182.12330627441406,
+        281.751220703125,
+        192.21136474609375
+      ],
+      "text": "Choose the correct letter, A, B or C.\n"
+    },
+    {
+      "box": [
+        244.75070190429688,
+        209.8377227783203,
+        403.4249267578125,
+        223.88897705078125
+      ],
+      "text": "Visit to Branley Castle\n"
+    },
+    {
+      "box": [
+        109.77788543701172,
+        232.87310791015625,
+        381.82904052734375,
+        242.2405548095703
+      ],
+      "text": "11\nBefore Queen Elizabeth\n| visited the castle in 1576,\n"
+    },
+    {
+      "box": [
+        132.81324768066406,
+        253.38894653320312,
+        369.1451721191406,
+        289.75244140625
+      ],
+      "text": "A\nrepairs were carried out to the guest rooms.\nB\nanew building was constructed for her.\nC\na fire damaged part of the main hall.\n"
+    },
+    {
+      "box": [
+        109.77788543701172,
+        299.4596862792969,
+        280.354736328125,
+        309.5477294921875
+      ],
+      "text": "12\nIn 1982, the castle was sold to\n"
+    },
+    {
+      "box": [
+        132.81324768066406,
+        318.1759338378906,
+        234.98582458496094,
+        331.50653076171875
+      ],
+      "text": "A __ the government.\n"
+    },
+    {
+      "box": [
+        133.53309631347656,
+        332.572998046875,
+        288.1436767578125,
+        355.9783935546875
+      ],
+      "text": "B\nthe Fenys family.\nC\n anentertainment company.\n"
+    },
+    {
+      "box": [
+        109.77788543701172,
+        365.6863098144531,
+        296.4956359863281,
+        375.4140625
+      ],
+      "text": "13\nIn some of the rooms, visitors can\n"
+    },
+    {
+      "box": [
+        133.1731719970703,
+        384.0426330566406,
+        371.3695983886719,
+        397.7335510253906
+      ],
+      "text": "A__ speak to experts on the history ofthe castle.\n"
+    },
+    {
+      "box": [
+        133.53309631347656,
+        397.0000305175781,
+        405.2783203125,
+        422.2061462402344
+      ],
+      "text": "B _ interact with actors dressed as famous characters.\nC\nsee models of historical figures moving and talking.\n"
+    },
+    {
+      "box": [
+        109.77787017822266,
+        431.91302490234375,
+        277.4969177246094,
+        442.3613586425781
+      ],
+      "text": "14\nInthe castle park, visitors can\n"
+    },
+    {
+      "box": [
+        133.53309631347656,
+        452.0689697265625,
+        278.94378662109375,
+        486.6302490234375
+      ],
+      "text": "A\nsee an 800-year-old tree.\nB\ngo to an art exhibition.\nC\nvisit\na small zoo.\n"
+    },
+    {
+      "box": [
+        109.77788543701172,
+        497.7797546386719,
+        333.1632995605469,
+        508.22808837890625
+      ],
+      "text": "15\nAtthe end of the visit, the group will have\n"
+    },
+    {
+      "box": [
+        133.53309631347656,
+        518.2955932617188,
+        380.8031311035156,
+        554.6590576171875
+      ],
+      "text": "A\nafternoon tea in the conservatory.\nB_\nthe chance to meet the castle’s owners.\nC\na photograph together on the Great Staircase.\n"
+    },
+    {
+      "box": [
+        529.453369140625,
+        730.65283203125,
+        540.960205078125,
+        738.939453125
+      ],
+      "text": "33\n"
+    }
+  ]
+}

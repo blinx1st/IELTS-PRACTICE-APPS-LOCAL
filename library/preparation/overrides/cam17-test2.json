@@ -3,7 +3,7 @@
   "book": 17,
   "test": 2,
   "title": "Cambridge 17 · Test 2",
-  "version": "2026-10-21.3.layout1",
+  "version": "2026-10-21.3.layout1.inline2",
   "verification": {
     "status": "verified",
     "note": "Reading passages and all question blocks compared visually with the supplied scan; paragraph labels, spacing, column order, answer choices and completion text corrected. Original Rocha table retained as a local illustration with native answer fields.",
@@ -80,7 +80,64 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The Dead Sea Scrolls\n\nDiscovery\nQumran, 1946/7\n• three Bedouin shepherds in their teens were near an opening on side of cliff\n• heard a noise of breaking when one teenager threw a ",
+                  {
+                    "number": 1
+                  },
+                  "\n• teenagers went into the ",
+                  {
+                    "number": 2
+                  },
+                  " and found a number of containers made of ",
+                  {
+                    "number": 3
+                  },
+                  "\n\nThe scrolls\n• date from between 150 BCE and 70 CE\n• thought to have been written by group of people known as the ",
+                  {
+                    "number": 4
+                  },
+                  "\n• written mainly in the ",
+                  {
+                    "number": 5
+                  },
+                  " language\n• most are on religious topics, written using ink on parchment or papyrus"
+                ],
+                "anchors": [
+                  "cam17-t2-p1-g1-body-0",
+                  "",
+                  "cam17-t2-p1-g1-body-192",
+                  "",
+                  "cam17-t2-p1-g1-body-231",
+                  "",
+                  "cam17-t2-p1-g1-body-285",
+                  "",
+                  "cam17-t2-p1-g1-body-412",
+                  "",
+                  "cam17-t2-p1-g1-body-end"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
         },
         {
           "id": "cam17-t2-p1-g2",
@@ -407,7 +464,42 @@
             }
           ],
           "wordLimit": 1,
-          "allowNumber": false
+          "allowNumber": false,
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "An undesirable trait such as loss of ",
+                  {
+                    "number": 24
+                  },
+                  " may be caused by a mutation in a tomato gene."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "By modifying one gene in a tomato plant, researchers made the tomato three times its original ",
+                  {
+                    "number": 25
+                  },
+                  "."
+                ]
+              },
+              {
+                "tag": "p",
+                "content": [
+                  "A type of tomato which was not badly affected by ",
+                  {
+                    "number": 26
+                  },
+                  ", and was rich in vitamin C, was produced by a team of researchers in China."
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [
@@ -714,7 +806,56 @@
               "value": "G",
               "label": "experiments"
             }
-          ]
+          ],
+          "layout": {
+            "kind": "flow",
+            "blocks": [
+              {
+                "tag": "p",
+                "content": [
+                  "The origins of creative behaviour\n\nThe traditional view of scientific discovery is that breakthroughs happen when a single great mind has sudden ",
+                  {
+                    "number": 37
+                  },
+                  ". Although this can occur, it is not often the case. Advances are more likely to be the result of a longer process. In some cases, this process involves ",
+                  {
+                    "number": 38
+                  },
+                  ", such as Nicholson's theory about proto-elements. In others, simple necessity may provoke innovation, as with Westrope's decision to modify the position of his riding stirrups. There is also often an element of ",
+                  {
+                    "number": 39
+                  },
+                  ", for example, the coincidence of ideas that led to the invention of the Post-It note. With both the Law of Natural Selection and the Law of Effect, there may be no clear ",
+                  {
+                    "number": 40
+                  },
+                  " involved, but merely a process of variation and selection."
+                ],
+                "anchors": [
+                  "cam17-t2-p3-g3-body",
+                  "",
+                  "cam17-t2-p3-g3-body",
+                  "",
+                  "cam17-t2-p3-g3-body",
+                  "",
+                  "cam17-t2-p3-g3-body",
+                  "",
+                  "cam17-t2-p3-g3-body"
+                ],
+                "offsets": [
+                  0,
+                  0,
+                  158,
+                  0,
+                  324,
+                  0,
+                  549,
+                  0,
+                  733
+                ]
+              }
+            ]
+          }
         }
       ],
       "sourcePages": [

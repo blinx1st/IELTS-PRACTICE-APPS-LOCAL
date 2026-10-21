@@ -1,0 +1,25 @@
+{
+  "tests": [
+    {
+      "id": "cam16-test1",
+      "passages": 3,
+      "questions": 40
+    },
+    {
+      "id": "cam16-test2",
+      "passages": 3,
+      "questions": 40
+    },
+    {
+      "id": "cam16-test3",
+      "passages": 3,
+      "questions": 40
+    },
+    {
+      "id": "cam16-test4",
+      "passages": 3,
+      "questions": 40
+    }
+  ],
+  "sourceSha256": "9a2412dfbae5d15711bec7a3272edc7fd6ca0d4e0a72596a0daef7543281dc14"
+}

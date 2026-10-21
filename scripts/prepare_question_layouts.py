@@ -131,6 +131,8 @@ def signature(group):
 def layout_for(group):
     if group["id"] in TABLES:
         return TABLES[group["id"]]
+    if group.get("layout", {}).get("kind") in ("table", "matrix"):
+        return group["layout"]
     instructions = group.get("instructions", "").lower()
     kind = "headings" if "choose the correct heading" in instructions else (
         "paragraphs" if re.search(r"which (paragraph|section) contains", instructions) else None)
@@ -203,7 +205,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true", help="Validate generated layouts without changing files")
     args = parser.parse_args()
-    presentation = {"schemaVersion": 1, "groups": {}}
+    presentation = json.loads((LIB / "presentation.json").read_text(encoding="utf-8")) if (LIB / "presentation.json").exists() else {"schemaVersion": 1, "groups": {}}
     reviewed = []
     counts = Counter()
     for path in sorted((LIB / "tests").glob("*.json")):
@@ -229,15 +231,16 @@ def main():
                     "sources": group.get("sourceImages", []),
                 })
         if changed:
-            test["version"] = test["version"].removesuffix("." + VERSION) + "." + VERSION
+            if VERSION not in test["version"].split("."):
+                test["version"] += "." + VERSION
             write_or_check(path, test, args.check)
             write_or_check(LIB / "preparation" / "overrides" / path.name, test, args.check)
-    assert counts == {"table": 6, "headings": 5, "paragraphs": 29}, dict(counts)
+    assert counts == {"table": 7, "headings": 7, "paragraphs": 31}, dict(counts)
     write_or_check(LIB / "presentation.json", presentation, args.check)
     report = {
         "schemaVersion": 1,
         "reviewDate": "2026-10-21",
-        "method": "Six table layouts visually transcribed against local original source crops; matrix rows use previously reviewed question text and options. Original groups excluding layout are fingerprinted for safe presentation overlays on historic snapshots.",
+        "method": "Seven table layouts and 38 matching matrices retained from source-reviewed metadata, including Cambridge 16. Original groups excluding layout are fingerprinted for safe presentation overlays on historic snapshots.",
         "counts": dict(counts),
         "totalGroups": len(reviewed),
         "errors": [],

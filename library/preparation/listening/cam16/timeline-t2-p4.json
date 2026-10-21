@@ -1,0 +1,717 @@
+{
+  "audioSha256": "ac61a42880345db1d81bc6931e0b3b31ff750da22fc10ede9be39eb3dfbab185",
+  "duration": 526.289,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 395.13,
+      "end": 402.46999999999997,
+      "text": " behavior, showed that when women with obesity did zumba three times a week for 16 weeks,",
+      "words": [
+        {
+          "word": " behavior,",
+          "start": 395.13,
+          "end": 395.71
+        },
+        {
+          "word": " showed",
+          "start": 396.25,
+          "end": 396.67
+        },
+        {
+          "word": " that",
+          "start": 396.67,
+          "end": 397.11
+        },
+        {
+          "word": " when",
+          "start": 397.11,
+          "end": 397.35
+        },
+        {
+          "word": " women",
+          "start": 397.35,
+          "end": 397.67
+        },
+        {
+          "word": " with",
+          "start": 397.67,
+          "end": 397.96999999999997
+        },
+        {
+          "word": " obesity",
+          "start": 397.96999999999997,
+          "end": 398.65
+        },
+        {
+          "word": " did",
+          "start": 398.65,
+          "end": 399.39
+        },
+        {
+          "word": " zumba",
+          "start": 399.39,
+          "end": 399.85
+        },
+        {
+          "word": " three",
+          "start": 399.85,
+          "end": 400.25
+        },
+        {
+          "word": " times",
+          "start": 400.25,
+          "end": 400.57
+        },
+        {
+          "word": " a",
+          "start": 400.57,
+          "end": 400.75
+        },
+        {
+          "word": " week",
+          "start": 400.75,
+          "end": 401.05
+        },
+        {
+          "word": " for",
+          "start": 401.05,
+          "end": 401.29
+        },
+        {
+          "word": " 16",
+          "start": 401.29,
+          "end": 401.79
+        },
+        {
+          "word": " weeks,",
+          "start": 401.79,
+          "end": 402.46999999999997
+        }
+      ]
+    },
+    {
+      "start": 402.81,
+      "end": 410.77,
+      "text": " they lost an average of 1.2 kilos and lowered their percentage of body fat by 1%.",
+      "words": [
+        {
+          "word": " they",
+          "start": 402.81,
+          "end": 402.96999999999997
+        },
+        {
+          "word": " lost",
+          "start": 402.96999999999997,
+          "end": 403.25
+        },
+        {
+          "word": " an",
+          "start": 403.25,
+          "end": 403.53
+        },
+        {
+          "word": " average",
+          "start": 403.53,
+          "end": 403.83
+        },
+        {
+          "word": " of",
+          "start": 403.83,
+          "end": 404.25
+        },
+        {
+          "word": " 1",
+          "start": 404.25,
+          "end": 404.67
+        },
+        {
+          "word": ".2",
+          "start": 404.67,
+          "end": 405.35
+        },
+        {
+          "word": " kilos",
+          "start": 405.35,
+          "end": 406.01
+        },
+        {
+          "word": " and",
+          "start": 406.01,
+          "end": 406.79
+        },
+        {
+          "word": " lowered",
+          "start": 406.79,
+          "end": 407.11
+        },
+        {
+          "word": " their",
+          "start": 407.11,
+          "end": 407.57
+        },
+        {
+          "word": " percentage",
+          "start": 407.57,
+          "end": 407.96999999999997
+        },
+        {
+          "word": " of",
+          "start": 407.96999999999997,
+          "end": 408.27
+        },
+        {
+          "word": " body",
+          "start": 408.27,
+          "end": 408.53
+        },
+        {
+          "word": " fat",
+          "start": 408.53,
+          "end": 408.89
+        },
+        {
+          "word": " by",
+          "start": 408.89,
+          "end": 409.39
+        },
+        {
+          "word": " 1%.",
+          "start": 409.39,
+          "end": 410.77
+        }
+      ]
+    },
+    {
+      "start": 410.77,
+      "end": 418.29,
+      "text": " More importantly, the women enjoyed the class so much that they made it a habit and continued",
+      "words": [
+        {
+          "word": " More",
+          "start": 410.77,
+          "end": 411.23
+        },
+        {
+          "word": " importantly,",
+          "start": 411.23,
+          "end": 411.93
+        },
+        {
+          "word": " the",
+          "start": 412.45,
+          "end": 412.59
+        },
+        {
+          "word": " women",
+          "start": 412.59,
+          "end": 412.85
+        },
+        {
+          "word": " enjoyed",
+          "start": 412.85,
+          "end": 413.46999999999997
+        },
+        {
+          "word": " the",
+          "start": 413.46999999999997,
+          "end": 413.77
+        },
+        {
+          "word": " class",
+          "start": 413.77,
+          "end": 414.15
+        },
+        {
+          "word": " so",
+          "start": 414.15,
+          "end": 414.55
+        },
+        {
+          "word": " much",
+          "start": 414.55,
+          "end": 415.03
+        },
+        {
+          "word": " that",
+          "start": 415.03,
+          "end": 415.46999999999997
+        },
+        {
+          "word": " they",
+          "start": 415.46999999999997,
+          "end": 415.69
+        },
+        {
+          "word": " made",
+          "start": 415.69,
+          "end": 415.96999999999997
+        },
+        {
+          "word": " it",
+          "start": 415.96999999999997,
+          "end": 416.23
+        },
+        {
+          "word": " a",
+          "start": 416.23,
+          "end": 416.51
+        },
+        {
+          "word": " habit",
+          "start": 416.51,
+          "end": 416.89
+        },
+        {
+          "word": " and",
+          "start": 416.89,
+          "end": 417.61
+        },
+        {
+          "word": " continued",
+          "start": 417.61,
+          "end": 418.29
+        }
+      ]
+    },
+    {
+      "start": 418.29,
+      "end": 425.73,
+      "text": " to attend classes at least once a week, very unusual for an aerobic exercise program.",
+      "words": [
+        {
+          "word": " to",
+          "start": 418.29,
+          "end": 418.63
+        },
+        {
+          "word": " attend",
+          "start": 418.63,
+          "end": 419.21
+        },
+        {
+          "word": " classes",
+          "start": 419.21,
+          "end": 419.77
+        },
+        {
+          "word": " at",
+          "start": 419.77,
+          "end": 420.37
+        },
+        {
+          "word": " least",
+          "start": 420.37,
+          "end": 420.77
+        },
+        {
+          "word": " once",
+          "start": 420.77,
+          "end": 421.17
+        },
+        {
+          "word": " a",
+          "start": 421.17,
+          "end": 421.31
+        },
+        {
+          "word": " week,",
+          "start": 421.31,
+          "end": 421.96999999999997
+        },
+        {
+          "word": " very",
+          "start": 422.27,
+          "end": 422.61
+        },
+        {
+          "word": " unusual",
+          "start": 422.61,
+          "end": 423.37
+        },
+        {
+          "word": " for",
+          "start": 423.37,
+          "end": 423.90999999999997
+        },
+        {
+          "word": " an",
+          "start": 423.90999999999997,
+          "end": 424.17
+        },
+        {
+          "word": " aerobic",
+          "start": 424.17,
+          "end": 424.53
+        },
+        {
+          "word": " exercise",
+          "start": 424.53,
+          "end": 425.29
+        },
+        {
+          "word": " program.",
+          "start": 425.29,
+          "end": 425.73
+        }
+      ]
+    },
+    {
+      "start": 427.77,
+      "end": 433.93,
+      "text": " Dance is never going to compete with high intensity workouts when it comes to physical fitness",
+      "words": [
+        {
+          "word": " Dance",
+          "start": 427.77,
+          "end": 428.11
+        },
+        {
+          "word": " is",
+          "start": 428.11,
+          "end": 428.59
+        },
+        {
+          "word": " never",
+          "start": 428.59,
+          "end": 428.93
+        },
+        {
+          "word": " going",
+          "start": 428.93,
+          "end": 429.28999999999996
+        },
+        {
+          "word": " to",
+          "start": 429.28999999999996,
+          "end": 429.35
+        },
+        {
+          "word": " compete",
+          "start": 429.35,
+          "end": 429.75
+        },
+        {
+          "word": " with",
+          "start": 429.75,
+          "end": 430.15
+        },
+        {
+          "word": " high",
+          "start": 430.15,
+          "end": 430.51
+        },
+        {
+          "word": " intensity",
+          "start": 430.51,
+          "end": 431.15
+        },
+        {
+          "word": " workouts",
+          "start": 431.15,
+          "end": 431.71
+        },
+        {
+          "word": " when",
+          "start": 431.71,
+          "end": 432.33
+        },
+        {
+          "word": " it",
+          "start": 432.33,
+          "end": 432.49
+        },
+        {
+          "word": " comes",
+          "start": 432.49,
+          "end": 432.78999999999996
+        },
+        {
+          "word": " to",
+          "start": 432.78999999999996,
+          "end": 433.13
+        },
+        {
+          "word": " physical",
+          "start": 433.13,
+          "end": 433.53
+        },
+        {
+          "word": " fitness",
+          "start": 433.53,
+          "end": 433.93
+        }
+      ]
+    },
+    {
+      "start": 433.93,
+      "end": 441.57,
+      "text": " gains, but its popularity is likely to keep on rising because it's such a fun way to keep fit.",
+      "words": [
+        {
+          "word": " gains,",
+          "start": 433.93,
+          "end": 434.43
+        },
+        {
+          "word": " but",
+          "start": 434.93,
+          "end": 435.21
+        },
+        {
+          "word": " its",
+          "start": 435.21,
+          "end": 435.61
+        },
+        {
+          "word": " popularity",
+          "start": 435.61,
+          "end": 436.19
+        },
+        {
+          "word": " is",
+          "start": 436.19,
+          "end": 436.97
+        },
+        {
+          "word": " likely",
+          "start": 436.97,
+          "end": 437.35
+        },
+        {
+          "word": " to",
+          "start": 437.35,
+          "end": 437.63
+        },
+        {
+          "word": " keep",
+          "start": 437.63,
+          "end": 437.89
+        },
+        {
+          "word": " on",
+          "start": 437.89,
+          "end": 438.13
+        },
+        {
+          "word": " rising",
+          "start": 438.13,
+          "end": 438.51
+        },
+        {
+          "word": " because",
+          "start": 438.51,
+          "end": 439.27
+        },
+        {
+          "word": " it's",
+          "start": 439.27,
+          "end": 439.63
+        },
+        {
+          "word": " such",
+          "start": 439.63,
+          "end": 439.85
+        },
+        {
+          "word": " a",
+          "start": 439.85,
+          "end": 440.09
+        },
+        {
+          "word": " fun",
+          "start": 440.09,
+          "end": 440.47
+        },
+        {
+          "word": " way",
+          "start": 440.47,
+          "end": 440.93
+        },
+        {
+          "word": " to",
+          "start": 440.93,
+          "end": 441.07
+        },
+        {
+          "word": " keep",
+          "start": 441.07,
+          "end": 441.49
+        },
+        {
+          "word": " fit.",
+          "start": 441.49,
+          "end": 441.89
+        }
+      ]
+    },
+    {
+      "start": 444.90999999999997,
+      "end": 447.45,
+      "text": " That is the end of part 4.",
+      "words": [
+        {
+          "word": " That",
+          "start": 444.90999999999997,
+          "end": 445.51
+        },
+        {
+          "word": " is",
+          "start": 445.51,
+          "end": 445.71
+        },
+        {
+          "word": " the",
+          "start": 445.71,
+          "end": 445.87
+        },
+        {
+          "word": " end",
+          "start": 445.87,
+          "end": 446.17
+        },
+        {
+          "word": " of",
+          "start": 446.17,
+          "end": 446.40999999999997
+        },
+        {
+          "word": " part",
+          "start": 446.40999999999997,
+          "end": 446.75
+        },
+        {
+          "word": " 4.",
+          "start": 446.75,
+          "end": 447.45
+        }
+      ]
+    },
+    {
+      "start": 448.03,
+      "end": 452.07,
+      "text": " You now have one minute to check your answers to part 4.",
+      "words": [
+        {
+          "word": " You",
+          "start": 448.03,
+          "end": 448.23
+        },
+        {
+          "word": " now",
+          "start": 448.23,
+          "end": 448.53
+        },
+        {
+          "word": " have",
+          "start": 448.53,
+          "end": 448.78999999999996
+        },
+        {
+          "word": " one",
+          "start": 448.78999999999996,
+          "end": 449.11
+        },
+        {
+          "word": " minute",
+          "start": 449.11,
+          "end": 449.39
+        },
+        {
+          "word": " to",
+          "start": 449.39,
+          "end": 449.81
+        },
+        {
+          "word": " check",
+          "start": 449.81,
+          "end": 450.09
+        },
+        {
+          "word": " your",
+          "start": 450.09,
+          "end": 450.33
+        },
+        {
+          "word": " answers",
+          "start": 450.33,
+          "end": 450.69
+        },
+        {
+          "word": " to",
+          "start": 450.69,
+          "end": 451.03
+        },
+        {
+          "word": " part",
+          "start": 451.03,
+          "end": 451.28999999999996
+        },
+        {
+          "word": " 4.",
+          "start": 451.28999999999996,
+          "end": 452.07
+        }
+      ]
+    },
+    {
+      "start": 493.35,
+      "end": 494.75,
+      "text": " You",
+      "words": [
+        {
+          "word": " You",
+          "start": 493.35,
+          "end": 494.75
+        }
+      ]
+    },
+    {
+      "start": 511.59000000000003,
+      "end": 513.91,
+      "text": " That is the end of the listing test.",
+      "words": [
+        {
+          "word": " That",
+          "start": 511.59000000000003,
+          "end": 512.03
+        },
+        {
+          "word": " is",
+          "start": 512.03,
+          "end": 512.25
+        },
+        {
+          "word": " the",
+          "start": 512.25,
+          "end": 512.43
+        },
+        {
+          "word": " end",
+          "start": 512.43,
+          "end": 512.69
+        },
+        {
+          "word": " of",
+          "start": 512.69,
+          "end": 512.91
+        },
+        {
+          "word": " the",
+          "start": 512.91,
+          "end": 513.13
+        },
+        {
+          "word": " listing",
+          "start": 513.13,
+          "end": 513.33
+        },
+        {
+          "word": " test.",
+          "start": 513.33,
+          "end": 513.91
+        }
+      ]
+    }
+  ]
+}

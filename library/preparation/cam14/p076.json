@@ -1,0 +1,165 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 76,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nQuestions 1-8\nComplete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answer in boxes 1-8 on your answer sheet.\nYsabel Giraldo’s research\nFocused on a total 0f1 o....sssnnnnnnee different age groups of ants, analysing\nBehaviour:\n*\nhow well ants looked after their 2ou.\n°\ntheir ability to locate 3 ununnn USING a scent trail\ne\nthe effect that 4oun Mad on them\n8\nMOW 8 oon they attacked prey\nBrains:\n*\ncomparison between age and the 6osu OF dying cells in the\nbrains of ants\n*\ncondition of synaptic complexes (areas in WHICH 7 oo.neneeccnee Met) in\nthe brain’s ‘mushroom bodies’\n©\nlevel Of WO 8 nena iN the brain associated with ageing\n84\n",
+  "blocks": [
+    {
+      "box": [
+        127.41433715820312,
+        91.42159271240234,
+        155.81802368164062,
+        99.7082290649414
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        125.25477600097656,
+        202.8767547607422,
+        135.34283447265625
+      ],
+      "text": "Questions 1-8\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        151.88943481445312,
+        254.0296173095703,
+        162.3377685546875
+      ],
+      "text": "Complete the notes below.\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        177.80422973632812,
+        433.4066467285156,
+        190.05398559570312
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        126.33456420898438,
+        203.35902404785156,
+        390.5933837890625,
+        215.24850463867188
+      ],
+      "text": "Write your answer in boxes 1-8 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        249.06982421875,
+        238.27200317382812,
+        433.281005859375,
+        250.88211059570312
+      ],
+      "text": "Ysabel Giraldo’s research\n"
+    },
+    {
+      "box": [
+        134.25296020507812,
+        264.5467224121094,
+        524.6123657226562,
+        280.7596740722656
+      ],
+      "text": "Focused on a total 0f1 o....sssnnnnnnee different age groups of ants, analysing\n"
+    },
+    {
+      "box": [
+        133.89303588867188,
+        291.9012145996094,
+        189.60995483398438,
+        300.5481262207031
+      ],
+      "text": "Behaviour:\n"
+    },
+    {
+      "box": [
+        133.53311157226562,
+        312.0570983886719,
+        407.01141357421875,
+        322.50543212890625
+      ],
+      "text": "*\nhow well ants looked after their 2ou.\n"
+    },
+    {
+      "box": [
+        133.1731719970703,
+        332.2131042480469,
+        441.48699951171875,
+        344.4628601074219
+      ],
+      "text": "°\ntheir ability to locate 3 ununnn USING a scent trail\n"
+    },
+    {
+      "box": [
+        133.17318725585938,
+        352.3690490722656,
+        385.352783203125,
+        362.4570617675781
+      ],
+      "text": "e\nthe effect that 4oun Mad on them\n"
+    },
+    {
+      "box": [
+        133.17320251464844,
+        371.08526611328125,
+        367.58673095703125,
+        386.2173156738281
+      ],
+      "text": "8\nMOW 8 oon they attacked prey\n"
+    },
+    {
+      "box": [
+        133.17320251464844,
+        398.079833984375,
+        169.3909149169922,
+        406.3664245605469
+      ],
+      "text": "Brains:\n"
+    },
+    {
+      "box": [
+        132.45333862304688,
+        418.5956726074219,
+        514.8673095703125,
+        440.2003479003906
+      ],
+      "text": "*\ncomparison between age and the 6osu OF dying cells in the\nbrains of ants\n"
+    },
+    {
+      "box": [
+        132.4533233642578,
+        451.34912109375,
+        530.489990234375,
+        474.03424072265625
+      ],
+      "text": "*\ncondition of synaptic complexes (areas in WHICH 7 oo.neneeccnee Met) in\nthe brain’s ‘mushroom bodies’\n"
+    },
+    {
+      "box": [
+        132.0933837890625,
+        484.4624328613281,
+        481.09344482421875,
+        497.4327697753906
+      ],
+      "text": "©\nlevel Of WO 8 nena iN the brain associated with ageing\n"
+    },
+    {
+      "box": [
+        120.93563079833984,
+        728.4932861328125,
+        132.41732788085938,
+        736.4196166992188
+      ],
+      "text": "84\n"
+    }
+  ]
+}

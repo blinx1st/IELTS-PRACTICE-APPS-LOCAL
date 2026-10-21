@@ -1,0 +1,183 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 20,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 1\nQuestions 32-35\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32-35 on your answer sheet, write\nYES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n32\nOne reason for high staff turnover in the hospitality industry is poor morale.\n33\nResearch has shown that staff have a tendency to dislike their workplace.\n34\nAn improvement in working conditions and job security makes staff satisfied with\ntheir jobs.\n35\nStaff should be allowed to choose when they take breaks during the working day.\nQuestions 36-40\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 36-40 on your answer sheet.\nFun at work\nTews, Michel and Stafford carried out research on staff in an American chain of\n36 oeeninininnnunnen\n« They discovered that activities designed for staff to have fun\nimproved their 37...\nsssunnee\n» ANd that management involvement led to lower\nStaff 3B one They also found that the activities needed to fit with both the\nCOMPANY'S 39cen ANG THE 40 occu Of the staff.\nA balance was\nrequired between a degree of freedom and maintaining work standards.\n28\n",
+  "blocks": [
+    {
+      "box": [
+        127.41433715820312,
+        91.78157806396484,
+        155.08914184570312,
+        100.06815338134766
+      ],
+      "text": "Test 1\n"
+    },
+    {
+      "box": [
+        126.6944808959961,
+        125.61470031738281,
+        216.46047973632812,
+        135.7027587890625
+      ],
+      "text": "Questions 32-35\n"
+    },
+    {
+      "box": [
+        126.33454895019531,
+        152.24932861328125,
+        546.6651000976562,
+        165.57997131347656
+      ],
+      "text": "Do the following statements agree with the claims of the writer in Reading Passage 3?\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        178.1641082763672,
+        338.412841796875,
+        189.3330535888672
+      ],
+      "text": "In boxes 32-35 on your answer sheet, write\n"
+    },
+    {
+      "box": [
+        161.96737670898438,
+        204.07887268066406,
+        504.4527893066406,
+        242.24307250976562
+      ],
+      "text": "YES\nif the statement agrees with the claims of the writer\nNO\nif the statement contradicts the claims of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n"
+    },
+    {
+      "box": [
+        124.89485168457031,
+        263.1070251464844,
+        513.6163940429688,
+        275.7170715332031
+      ],
+      "text": "32\nOne reason for high staff turnover in the hospitality industry is poor morale.\n"
+    },
+    {
+      "box": [
+        124.89482116699219,
+        282.90301513671875,
+        506.4899597167969,
+        295.8733825683594
+      ],
+      "text": "33\nResearch has shown that staff have a tendency to dislike their workplace.\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        303.0589294433594,
+        540.4312744140625,
+        328.26715087890625
+      ],
+      "text": "34\nAn improvement in working conditions and job security makes staff satisfied with\ntheir jobs.\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        336.17230224609375,
+        542.6986083984375,
+        349.5029296875
+      ],
+      "text": "35\nStaff should be allowed to choose when they take breaks during the working day.\n"
+    },
+    {
+      "box": [
+        124.534912109375,
+        386.9220886230469,
+        214.66070556640625,
+        397.0101013183594
+      ],
+      "text": "Questions 36-40\n"
+    },
+    {
+      "box": [
+        124.17498016357422,
+        413.55670166015625,
+        270.24798583984375,
+        424.7256164550781
+      ],
+      "text": "Complete the summary below.\n"
+    },
+    {
+      "box": [
+        124.17498016357422,
+        439.4714660644531,
+        430.28802490234375,
+        451.3609619140625
+      ],
+      "text": "Choose ONE WORD ONLY from the passage for each answer.\n"
+    },
+    {
+      "box": [
+        124.17499542236328,
+        465.02630615234375,
+        405.35760498046875,
+        476.9158020019531
+      ],
+      "text": "Write your answers in boxes 36-40 on your answer sheet.\n"
+    },
+    {
+      "box": [
+        297.30010986328125,
+        494.5403747558594,
+        381.0336608886719,
+        506.069580078125
+      ],
+      "text": "Fun at work\n"
+    },
+    {
+      "box": [
+        122.73528289794922,
+        525.8540649414062,
+        507.4617919921875,
+        536.6626586914062
+      ],
+      "text": "Tews, Michel and Stafford carried out research on staff in an American chain of\n"
+    },
+    {
+      "box": [
+        122.73531341552734,
+        542.7706298828125,
+        534.2764892578125,
+        571.9370727539062
+      ],
+      "text": "36 oeeninininnnunnen\n« They discovered that activities designed for staff to have fun\nimproved their 37...\nsssunnee\n» ANd that management involvement led to lower\n"
+    },
+    {
+      "box": [
+        122.37540435791016,
+        576.6038818359375,
+        552.7227172851562,
+        604.6890258789062
+      ],
+      "text": "Staff 3B one They also found that the activities needed to fit with both the\nCOMPANY'S 39cen ANG THE 40 occu Of the staff.\nA balance was\n"
+    },
+    {
+      "box": [
+        122.37540435791016,
+        610.7969360351562,
+        470.2093200683594,
+        623.0466918945312
+      ],
+      "text": "required between a degree of freedom and maintaining work standards.\n"
+    },
+    {
+      "box": [
+        121.29560089111328,
+        728.8532104492188,
+        132.38856506347656,
+        737.1398315429688
+      ],
+      "text": "28\n"
+    }
+  ]
+}

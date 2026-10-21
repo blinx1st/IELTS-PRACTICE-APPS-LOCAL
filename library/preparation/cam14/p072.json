@@ -1,0 +1,183 @@
+{
+  "book": 14,
+  "file": "Tài liệu Cambridge\\CAMBRIDGE-14\\BAN_GOC\\14 cambridge.pdf",
+  "page": 72,
+  "method": "tesseract-eng",
+  "dpi": 200,
+  "width": 595.6799926757812,
+  "height": 842.4000244140625,
+  "text": "Test 4\nQuestions 26-30\nWhat comment is made about each of these stories?\nChoose FIVE answers from the box and write the correct letter, A—G, next to\nQuestions 26-30.\nComments\nA\ntranslated into many other languages\nB\nhard to read\nC _ inspired a work in a different area of art\nD_~\nmore popular than the author’s other works\nE _ original title refers to another book\nF\nstarted a new genre\nG\nunlikely topic\nStories\n26\nPerrault’s fairy tales\nsveehshbnersntead\n27\nThe Swiss Family Robinson\nenaameo\n28\nThe Nutcracker and The MOUSE KiNg sccm\n29\nThe Lord of the Rings\nces\n30\nWar Horse\nirpestoetieerts\n80\n",
+  "blocks": [
+    {
+      "box": [
+        127.77426147460938,
+        91.78157806396484,
+        156.53785705566406,
+        100.06815338134766
+      ],
+      "text": "Test 4\n"
+    },
+    {
+      "box": [
+        127.05440521240234,
+        125.61470031738281,
+        216.42449951171875,
+        135.7027587890625
+      ],
+      "text": "Questions 26-30\n"
+    },
+    {
+      "box": [
+        125.97462463378906,
+        152.24935913085938,
+        383.5819091796875,
+        162.69769287109375
+      ],
+      "text": "What comment is made about each of these stories?\n"
+    },
+    {
+      "box": [
+        126.33453369140625,
+        178.16409301757812,
+        498.78753662109375,
+        200.12869262695312
+      ],
+      "text": "Choose FIVE answers from the box and write the correct letter, A—G, next to\nQuestions 26-30.\n"
+    },
+    {
+      "box": [
+        313.4968566894531,
+        229.27383422851562,
+        369.4728698730469,
+        237.92074584960938
+      ],
+      "text": "Comments\n"
+    },
+    {
+      "box": [
+        223.15504455566406,
+        248.7099151611328,
+        429.60577392578125,
+        260.5993957519531
+      ],
+      "text": "A\ntranslated into many other languages\n"
+    },
+    {
+      "box": [
+        223.87489318847656,
+        268.8658752441406,
+        306.1541748046875,
+        277.5127258300781
+      ],
+      "text": "B\nhard to read\n"
+    },
+    {
+      "box": [
+        223.15504455566406,
+        287.2221374511719,
+        438.96759033203125,
+        301.6336669921875
+      ],
+      "text": "C _ inspired a work in a different area of art\n"
+    },
+    {
+      "box": [
+        223.5149688720703,
+        308.8177795410156,
+        458.0978088378906,
+        319.62646484375
+      ],
+      "text": "D_~\nmore popular than the author’s other works\n"
+    },
+    {
+      "box": [
+        223.15504455566406,
+        327.5340270996094,
+        414.4924621582031,
+        341.9455261230469
+      ],
+      "text": "E _ original title refers to another book\n"
+    },
+    {
+      "box": [
+        223.15504455566406,
+        349.1296691894531,
+        343.71282958984375,
+        360.298583984375
+      ],
+      "text": "F\nstarted a new genre\n"
+    },
+    {
+      "box": [
+        222.7951202392578,
+        369.2856140136719,
+        309.7176513671875,
+        380.0942687988281
+      ],
+      "text": "G\nunlikely topic\n"
+    },
+    {
+      "box": [
+        148.29013061523438,
+        414.6365051269531,
+        184.87307739257812,
+        423.28338623046875
+      ],
+      "text": "Stories\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        434.4324951171875,
+        382.2214050292969,
+        445.6014099121094
+      ],
+      "text": "26\nPerrault’s fairy tales\nsveehshbnersntead\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        454.58843994140625,
+        382.458984375,
+        466.11761474609375
+      ],
+      "text": "27\nThe Swiss Family Robinson\nenaameo\n"
+    },
+    {
+      "box": [
+        123.81505584716797,
+        474.744384765625,
+        382.4732971191406,
+        486.994140625
+      ],
+      "text": "28\nThe Nutcracker and The MOUSE KiNg sccm\n"
+    },
+    {
+      "box": [
+        123.45513916015625,
+        494.90032958984375,
+        382.115234375,
+        506.0692443847656
+      ],
+      "text": "29\nThe Lord of the Rings\nces\n"
+    },
+    {
+      "box": [
+        123.45513916015625,
+        515.0562744140625,
+        381.73895263671875,
+        525.144287109375
+      ],
+      "text": "30\nWar Horse\nirpestoetieerts\n"
+    },
+    {
+      "box": [
+        121.29557037353516,
+        728.8532104492188,
+        132.77725219726562,
+        736.779541015625
+      ],
+      "text": "80\n"
+    }
+  ]
+}

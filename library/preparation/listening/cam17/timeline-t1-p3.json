@@ -1,0 +1,1280 @@
+{
+  "audioSha256": "fab13a121f6806d6721a3dd7c03b761620ce321d705a0bc0b85dbc83ad2d1e06",
+  "duration": 444.2645,
+  "model": "faster-whisper tiny.en int8",
+  "segments": [
+    {
+      "start": 324.2645,
+      "end": 331.1645,
+      "text": " Well, my heart sank when I saw that, especially right at the beginning of the course,",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 324.2645,
+          "end": 325.3645
+        },
+        {
+          "word": " my",
+          "start": 325.9245,
+          "end": 326.0245
+        },
+        {
+          "word": " heart",
+          "start": 326.0245,
+          "end": 326.54449999999997
+        },
+        {
+          "word": " sank",
+          "start": 326.54449999999997,
+          "end": 326.9445
+        },
+        {
+          "word": " when",
+          "start": 326.9445,
+          "end": 327.2245
+        },
+        {
+          "word": " I",
+          "start": 327.2245,
+          "end": 327.4245
+        },
+        {
+          "word": " saw",
+          "start": 327.4245,
+          "end": 327.6645
+        },
+        {
+          "word": " that,",
+          "start": 327.6645,
+          "end": 328.4245
+        },
+        {
+          "word": " especially",
+          "start": 328.8845,
+          "end": 329.04449999999997
+        },
+        {
+          "word": " right",
+          "start": 329.04449999999997,
+          "end": 329.5045
+        },
+        {
+          "word": " at",
+          "start": 329.5045,
+          "end": 329.7245
+        },
+        {
+          "word": " the",
+          "start": 329.7245,
+          "end": 329.8445
+        },
+        {
+          "word": " beginning",
+          "start": 329.8445,
+          "end": 330.1445
+        },
+        {
+          "word": " of",
+          "start": 330.1445,
+          "end": 330.3645
+        },
+        {
+          "word": " the",
+          "start": 330.3645,
+          "end": 330.6645
+        },
+        {
+          "word": " course,",
+          "start": 330.6645,
+          "end": 331.1645
+        }
+      ]
+    },
+    {
+      "start": 331.5245,
+      "end": 334.04449999999997,
+      "text": " and I did struggle with it.",
+      "words": [
+        {
+          "word": " and",
+          "start": 331.5245,
+          "end": 332.0245
+        },
+        {
+          "word": " I",
+          "start": 332.0245,
+          "end": 332.4845
+        },
+        {
+          "word": " did",
+          "start": 332.4845,
+          "end": 332.8245
+        },
+        {
+          "word": " struggle",
+          "start": 332.8245,
+          "end": 333.0845
+        },
+        {
+          "word": " with",
+          "start": 333.0845,
+          "end": 333.3045
+        },
+        {
+          "word": " it.",
+          "start": 333.3045,
+          "end": 334.04449999999997
+        }
+      ]
+    },
+    {
+      "start": 334.5245,
+      "end": 338.6845,
+      "text": " I thought it'd be hard, but actually, I found it all quite straightforward.",
+      "words": [
+        {
+          "word": " I",
+          "start": 334.5245,
+          "end": 334.5245
+        },
+        {
+          "word": " thought",
+          "start": 334.5245,
+          "end": 334.7645
+        },
+        {
+          "word": " it'd",
+          "start": 334.7645,
+          "end": 335.0245
+        },
+        {
+          "word": " be",
+          "start": 335.0245,
+          "end": 335.2845
+        },
+        {
+          "word": " hard,",
+          "start": 335.2845,
+          "end": 335.8245
+        },
+        {
+          "word": " but",
+          "start": 336.1245,
+          "end": 336.3845
+        },
+        {
+          "word": " actually,",
+          "start": 336.3845,
+          "end": 336.8845
+        },
+        {
+          "word": " I",
+          "start": 337.0645,
+          "end": 337.2845
+        },
+        {
+          "word": " found",
+          "start": 337.2845,
+          "end": 337.5045
+        },
+        {
+          "word": " it",
+          "start": 337.5045,
+          "end": 337.6645
+        },
+        {
+          "word": " all",
+          "start": 337.6645,
+          "end": 337.8445
+        },
+        {
+          "word": " quite",
+          "start": 337.8445,
+          "end": 338.1245
+        },
+        {
+          "word": " straightforward.",
+          "start": 338.1245,
+          "end": 338.6845
+        }
+      ]
+    },
+    {
+      "start": 339.2845,
+      "end": 341.6245,
+      "text": " What did you think about diet and nutrition?",
+      "words": [
+        {
+          "word": " What",
+          "start": 339.2845,
+          "end": 339.6245
+        },
+        {
+          "word": " did",
+          "start": 339.6245,
+          "end": 339.7645
+        },
+        {
+          "word": " you",
+          "start": 339.7645,
+          "end": 339.9045
+        },
+        {
+          "word": " think",
+          "start": 339.9045,
+          "end": 340.1045
+        },
+        {
+          "word": " about",
+          "start": 340.1045,
+          "end": 340.5245
+        },
+        {
+          "word": " diet",
+          "start": 340.5245,
+          "end": 340.9245
+        },
+        {
+          "word": " and",
+          "start": 340.9245,
+          "end": 341.2045
+        },
+        {
+          "word": " nutrition?",
+          "start": 341.2045,
+          "end": 341.6245
+        }
+      ]
+    },
+    {
+      "start": 342.1445,
+      "end": 343.54449999999997,
+      "text": " Okay, I suppose.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 342.1445,
+          "end": 342.7045
+        },
+        {
+          "word": " I",
+          "start": 342.9245,
+          "end": 343.04449999999997
+        },
+        {
+          "word": " suppose.",
+          "start": 343.04449999999997,
+          "end": 343.54449999999997
+        }
+      ]
+    },
+    {
+      "start": 343.9645,
+      "end": 348.7245,
+      "text": " Do you remember what they told us about pet food, and the fact that there's such limited",
+      "words": [
+        {
+          "word": " Do",
+          "start": 343.9645,
+          "end": 344.0845
+        },
+        {
+          "word": " you",
+          "start": 344.0845,
+          "end": 344.2445
+        },
+        {
+          "word": " remember",
+          "start": 344.2445,
+          "end": 344.54449999999997
+        },
+        {
+          "word": " what",
+          "start": 344.54449999999997,
+          "end": 344.8245
+        },
+        {
+          "word": " they",
+          "start": 344.8245,
+          "end": 345.0045
+        },
+        {
+          "word": " told",
+          "start": 345.0045,
+          "end": 345.2245
+        },
+        {
+          "word": " us",
+          "start": 345.2245,
+          "end": 345.4645
+        },
+        {
+          "word": " about",
+          "start": 345.4645,
+          "end": 345.7645
+        },
+        {
+          "word": " pet",
+          "start": 345.7645,
+          "end": 346.0845
+        },
+        {
+          "word": " food,",
+          "start": 346.0845,
+          "end": 346.4845
+        },
+        {
+          "word": " and",
+          "start": 346.7245,
+          "end": 346.9445
+        },
+        {
+          "word": " the",
+          "start": 346.9445,
+          "end": 347.0845
+        },
+        {
+          "word": " fact",
+          "start": 347.0845,
+          "end": 347.2645
+        },
+        {
+          "word": " that",
+          "start": 347.2645,
+          "end": 347.4245
+        },
+        {
+          "word": " there's",
+          "start": 347.4245,
+          "end": 347.8445
+        },
+        {
+          "word": " such",
+          "start": 347.8445,
+          "end": 348.2245
+        },
+        {
+          "word": " limited",
+          "start": 348.2245,
+          "end": 348.7245
+        }
+      ]
+    },
+    {
+      "start": 348.7245,
+      "end": 350.9045,
+      "text": " checking into whether or not it's contaminated?",
+      "words": [
+        {
+          "word": " checking",
+          "start": 348.7245,
+          "end": 349.1045
+        },
+        {
+          "word": " into",
+          "start": 349.1045,
+          "end": 349.4445
+        },
+        {
+          "word": " whether",
+          "start": 349.4445,
+          "end": 349.7045
+        },
+        {
+          "word": " or",
+          "start": 349.7045,
+          "end": 349.8245
+        },
+        {
+          "word": " not",
+          "start": 349.8245,
+          "end": 350.0045
+        },
+        {
+          "word": " it's",
+          "start": 350.0045,
+          "end": 350.3245
+        },
+        {
+          "word": " contaminated?",
+          "start": 350.3245,
+          "end": 350.9045
+        }
+      ]
+    },
+    {
+      "start": 350.9045,
+      "end": 356.1445,
+      "text": " I mean, in comparison with the checks on food for humans, I thought that was terrible.",
+      "words": [
+        {
+          "word": " I",
+          "start": 350.9045,
+          "end": 351.8245
+        },
+        {
+          "word": " mean,",
+          "start": 351.8245,
+          "end": 352.2245
+        },
+        {
+          "word": " in",
+          "start": 352.54449999999997,
+          "end": 352.54449999999997
+        },
+        {
+          "word": " comparison",
+          "start": 352.54449999999997,
+          "end": 352.8845
+        },
+        {
+          "word": " with",
+          "start": 352.8845,
+          "end": 353.2245
+        },
+        {
+          "word": " the",
+          "start": 353.2245,
+          "end": 353.3445
+        },
+        {
+          "word": " checks",
+          "start": 353.3445,
+          "end": 353.54449999999997
+        },
+        {
+          "word": " on",
+          "start": 353.54449999999997,
+          "end": 353.7445
+        },
+        {
+          "word": " food",
+          "start": 353.7445,
+          "end": 353.9645
+        },
+        {
+          "word": " for",
+          "start": 353.9645,
+          "end": 354.1845
+        },
+        {
+          "word": " humans,",
+          "start": 354.1845,
+          "end": 354.54449999999997
+        },
+        {
+          "word": " I",
+          "start": 355.0845,
+          "end": 355.1845
+        },
+        {
+          "word": " thought",
+          "start": 355.1845,
+          "end": 355.3645
+        },
+        {
+          "word": " that",
+          "start": 355.3645,
+          "end": 355.5245
+        },
+        {
+          "word": " was",
+          "start": 355.5245,
+          "end": 355.7245
+        },
+        {
+          "word": " terrible.",
+          "start": 355.7245,
+          "end": 356.1445
+        }
+      ]
+    },
+    {
+      "start": 357.7245,
+      "end": 363.3445,
+      "text": " I think the module that really impressed me was the animal disease one, when we looked",
+      "words": [
+        {
+          "word": " I",
+          "start": 357.7245,
+          "end": 357.92449999999997
+        },
+        {
+          "word": " think",
+          "start": 357.92449999999997,
+          "end": 358.3245
+        },
+        {
+          "word": " the",
+          "start": 358.3245,
+          "end": 358.5845
+        },
+        {
+          "word": " module",
+          "start": 358.5845,
+          "end": 358.8445
+        },
+        {
+          "word": " that",
+          "start": 358.8445,
+          "end": 359.2845
+        },
+        {
+          "word": " really",
+          "start": 359.2845,
+          "end": 359.6445
+        },
+        {
+          "word": " impressed",
+          "start": 359.6445,
+          "end": 360.0245
+        },
+        {
+          "word": " me",
+          "start": 360.0245,
+          "end": 360.4445
+        },
+        {
+          "word": " was",
+          "start": 360.4445,
+          "end": 360.7445
+        },
+        {
+          "word": " the",
+          "start": 360.7445,
+          "end": 361.04449999999997
+        },
+        {
+          "word": " animal",
+          "start": 361.04449999999997,
+          "end": 361.3045
+        },
+        {
+          "word": " disease",
+          "start": 361.3045,
+          "end": 361.7645
+        },
+        {
+          "word": " one,",
+          "start": 361.7645,
+          "end": 362.2245
+        },
+        {
+          "word": " when",
+          "start": 362.5645,
+          "end": 362.8045
+        },
+        {
+          "word": " we",
+          "start": 362.8045,
+          "end": 363.0645
+        },
+        {
+          "word": " looked",
+          "start": 363.0645,
+          "end": 363.3445
+        }
+      ]
+    },
+    {
+      "start": 363.3445,
+      "end": 369.10450000000003,
+      "text": " at domesticated animals in different parts of the world, like camels and water buffalo",
+      "words": [
+        {
+          "word": " at",
+          "start": 363.3445,
+          "end": 363.6445
+        },
+        {
+          "word": " domesticated",
+          "start": 363.6445,
+          "end": 364.2645
+        },
+        {
+          "word": " animals",
+          "start": 364.2645,
+          "end": 364.7845
+        },
+        {
+          "word": " in",
+          "start": 364.7845,
+          "end": 365.1445
+        },
+        {
+          "word": " different",
+          "start": 365.1445,
+          "end": 365.3645
+        },
+        {
+          "word": " parts",
+          "start": 365.3645,
+          "end": 365.6845
+        },
+        {
+          "word": " of",
+          "start": 365.6845,
+          "end": 365.8645
+        },
+        {
+          "word": " the",
+          "start": 365.8645,
+          "end": 366.0045
+        },
+        {
+          "word": " world,",
+          "start": 366.0045,
+          "end": 366.5245
+        },
+        {
+          "word": " like",
+          "start": 367.0045,
+          "end": 367.54449999999997
+        },
+        {
+          "word": " camels",
+          "start": 367.54449999999997,
+          "end": 368.0045
+        },
+        {
+          "word": " and",
+          "start": 368.0045,
+          "end": 368.4645
+        },
+        {
+          "word": " water",
+          "start": 368.4645,
+          "end": 368.7045
+        },
+        {
+          "word": " buffalo",
+          "start": 368.7045,
+          "end": 369.10450000000003
+        }
+      ]
+    },
+    {
+      "start": 369.10450000000003,
+      "end": 375.8045,
+      "text": " and alpaca, the economies of so many countries depend on these, but scientists don't",
+      "words": [
+        {
+          "word": " and",
+          "start": 369.10450000000003,
+          "end": 369.5045
+        },
+        {
+          "word": " alpaca,",
+          "start": 369.5045,
+          "end": 370.0245
+        },
+        {
+          "word": " the",
+          "start": 370.92449999999997,
+          "end": 370.9645
+        },
+        {
+          "word": " economies",
+          "start": 370.9645,
+          "end": 371.4045
+        },
+        {
+          "word": " of",
+          "start": 371.4045,
+          "end": 371.9045
+        },
+        {
+          "word": " so",
+          "start": 371.9045,
+          "end": 372.3045
+        },
+        {
+          "word": " many",
+          "start": 372.3045,
+          "end": 372.6245
+        },
+        {
+          "word": " countries",
+          "start": 372.6245,
+          "end": 373.04449999999997
+        },
+        {
+          "word": " depend",
+          "start": 373.04449999999997,
+          "end": 373.4445
+        },
+        {
+          "word": " on",
+          "start": 373.4445,
+          "end": 373.6245
+        },
+        {
+          "word": " these,",
+          "start": 373.6245,
+          "end": 374.2045
+        },
+        {
+          "word": " but",
+          "start": 374.42449999999997,
+          "end": 374.7245
+        },
+        {
+          "word": " scientists",
+          "start": 374.7245,
+          "end": 375.3445
+        },
+        {
+          "word": " don't",
+          "start": 375.3445,
+          "end": 375.8045
+        }
+      ]
+    },
+    {
+      "start": 375.8045,
+      "end": 378.1845,
+      "text": " know much about the diseases that affect them.",
+      "words": [
+        {
+          "word": " know",
+          "start": 375.8045,
+          "end": 376.04449999999997
+        },
+        {
+          "word": " much",
+          "start": 376.04449999999997,
+          "end": 376.2845
+        },
+        {
+          "word": " about",
+          "start": 376.2845,
+          "end": 376.5645
+        },
+        {
+          "word": " the",
+          "start": 376.5645,
+          "end": 376.7645
+        },
+        {
+          "word": " diseases",
+          "start": 376.7645,
+          "end": 377.1645
+        },
+        {
+          "word": " that",
+          "start": 377.1645,
+          "end": 377.5245
+        },
+        {
+          "word": " affect",
+          "start": 377.5245,
+          "end": 377.7245
+        },
+        {
+          "word": " them.",
+          "start": 377.7245,
+          "end": 378.1845
+        }
+      ]
+    },
+    {
+      "start": 378.1845,
+      "end": 383.6245,
+      "text": " Yes. I thought they'd know a lot about ways of controlling and eradicating those diseases,",
+      "words": [
+        {
+          "word": " Yes.",
+          "start": 378.1845,
+          "end": 378.7645
+        },
+        {
+          "word": " I",
+          "start": 379.3845,
+          "end": 379.5645
+        },
+        {
+          "word": " thought",
+          "start": 379.5645,
+          "end": 379.7445
+        },
+        {
+          "word": " they'd",
+          "start": 379.7445,
+          "end": 379.9845
+        },
+        {
+          "word": " know",
+          "start": 379.9845,
+          "end": 380.2645
+        },
+        {
+          "word": " a",
+          "start": 380.2645,
+          "end": 380.42449999999997
+        },
+        {
+          "word": " lot",
+          "start": 380.42449999999997,
+          "end": 380.6245
+        },
+        {
+          "word": " about",
+          "start": 380.6245,
+          "end": 380.9645
+        },
+        {
+          "word": " ways",
+          "start": 380.9645,
+          "end": 381.2245
+        },
+        {
+          "word": " of",
+          "start": 381.2245,
+          "end": 381.5045
+        },
+        {
+          "word": " controlling",
+          "start": 381.5045,
+          "end": 381.9445
+        },
+        {
+          "word": " and",
+          "start": 381.9445,
+          "end": 382.1645
+        },
+        {
+          "word": " eradicating",
+          "start": 382.1645,
+          "end": 382.7445
+        },
+        {
+          "word": " those",
+          "start": 382.7445,
+          "end": 383.1845
+        },
+        {
+          "word": " diseases,",
+          "start": 383.1845,
+          "end": 383.6245
+        }
+      ]
+    },
+    {
+      "start": 383.8445,
+      "end": 390.8445,
+      "text": " but that's not the case at all. I loved the wildlife medication unit. Things like helping birds",
+      "words": [
+        {
+          "word": " but",
+          "start": 383.8445,
+          "end": 384.10450000000003
+        },
+        {
+          "word": " that's",
+          "start": 384.10450000000003,
+          "end": 384.3445
+        },
+        {
+          "word": " not",
+          "start": 384.3445,
+          "end": 384.5045
+        },
+        {
+          "word": " the",
+          "start": 384.5045,
+          "end": 384.6245
+        },
+        {
+          "word": " case",
+          "start": 384.6245,
+          "end": 384.8845
+        },
+        {
+          "word": " at",
+          "start": 384.8845,
+          "end": 385.10450000000003
+        },
+        {
+          "word": " all.",
+          "start": 385.10450000000003,
+          "end": 385.5245
+        },
+        {
+          "word": " I",
+          "start": 386.0845,
+          "end": 386.2045
+        },
+        {
+          "word": " loved",
+          "start": 386.2045,
+          "end": 386.5645
+        },
+        {
+          "word": " the",
+          "start": 386.5645,
+          "end": 386.9045
+        },
+        {
+          "word": " wildlife",
+          "start": 386.9045,
+          "end": 387.3245
+        },
+        {
+          "word": " medication",
+          "start": 387.3245,
+          "end": 387.9645
+        },
+        {
+          "word": " unit.",
+          "start": 387.9645,
+          "end": 388.5245
+        },
+        {
+          "word": " Things",
+          "start": 389.42449999999997,
+          "end": 389.42449999999997
+        },
+        {
+          "word": " like",
+          "start": 389.42449999999997,
+          "end": 390.0045
+        },
+        {
+          "word": " helping",
+          "start": 390.0045,
+          "end": 390.4045
+        },
+        {
+          "word": " birds",
+          "start": 390.4045,
+          "end": 390.8445
+        }
+      ]
+    },
+    {
+      "start": 390.8445,
+      "end": 395.1645,
+      "text": " that have been caught in oil spills. That's something I hadn't thought about before.",
+      "words": [
+        {
+          "word": " that",
+          "start": 390.8445,
+          "end": 391.10450000000003
+        },
+        {
+          "word": " have",
+          "start": 391.10450000000003,
+          "end": 391.2445
+        },
+        {
+          "word": " been",
+          "start": 391.2445,
+          "end": 391.54449999999997
+        },
+        {
+          "word": " caught",
+          "start": 391.54449999999997,
+          "end": 391.7845
+        },
+        {
+          "word": " in",
+          "start": 391.7845,
+          "end": 391.9845
+        },
+        {
+          "word": " oil",
+          "start": 391.9845,
+          "end": 392.2845
+        },
+        {
+          "word": " spills.",
+          "start": 392.2845,
+          "end": 392.8045
+        },
+        {
+          "word": " That's",
+          "start": 393.3245,
+          "end": 393.5845
+        },
+        {
+          "word": " something",
+          "start": 393.5845,
+          "end": 393.8445
+        },
+        {
+          "word": " I",
+          "start": 393.8445,
+          "end": 394.0245
+        },
+        {
+          "word": " hadn't",
+          "start": 394.0245,
+          "end": 394.2445
+        },
+        {
+          "word": " thought",
+          "start": 394.2445,
+          "end": 394.4845
+        },
+        {
+          "word": " about",
+          "start": 394.4845,
+          "end": 394.7245
+        },
+        {
+          "word": " before.",
+          "start": 394.7245,
+          "end": 395.1645
+        }
+      ]
+    },
+    {
+      "start": 395.3245,
+      "end": 399.9845,
+      "text": " Yeah. I thought I might write my dissertation on something connected with that.",
+      "words": [
+        {
+          "word": " Yeah.",
+          "start": 395.3245,
+          "end": 395.8445
+        },
+        {
+          "word": " I",
+          "start": 396.3045,
+          "end": 396.6245
+        },
+        {
+          "word": " thought",
+          "start": 396.6245,
+          "end": 396.8445
+        },
+        {
+          "word": " I",
+          "start": 396.8445,
+          "end": 397.04449999999997
+        },
+        {
+          "word": " might",
+          "start": 397.04449999999997,
+          "end": 397.2245
+        },
+        {
+          "word": " write",
+          "start": 397.2245,
+          "end": 397.4645
+        },
+        {
+          "word": " my",
+          "start": 397.4645,
+          "end": 397.7045
+        },
+        {
+          "word": " dissertation",
+          "start": 397.7045,
+          "end": 398.2245
+        },
+        {
+          "word": " on",
+          "start": 398.2245,
+          "end": 398.5845
+        },
+        {
+          "word": " something",
+          "start": 398.5845,
+          "end": 398.9045
+        },
+        {
+          "word": " connected",
+          "start": 398.9045,
+          "end": 399.3045
+        },
+        {
+          "word": " with",
+          "start": 399.3045,
+          "end": 399.5645
+        },
+        {
+          "word": " that.",
+          "start": 399.5645,
+          "end": 399.9845
+        }
+      ]
+    },
+    {
+      "start": 400.1645,
+      "end": 403.8645,
+      "text": " Right. So, actually, I was thinking something along the same line.",
+      "words": [
+        {
+          "word": " Right.",
+          "start": 400.1645,
+          "end": 400.7245
+        },
+        {
+          "word": " So,",
+          "start": 401.2045,
+          "end": 401.6845
+        },
+        {
+          "word": " actually,",
+          "start": 401.7445,
+          "end": 402.0845
+        },
+        {
+          "word": " I",
+          "start": 402.1445,
+          "end": 402.3245
+        },
+        {
+          "word": " was",
+          "start": 402.3245,
+          "end": 402.4845
+        },
+        {
+          "word": " thinking",
+          "start": 402.4845,
+          "end": 402.7845
+        },
+        {
+          "word": " something",
+          "start": 402.7845,
+          "end": 403.10450000000003
+        },
+        {
+          "word": " along",
+          "start": 403.10450000000003,
+          "end": 403.3445
+        },
+        {
+          "word": " the",
+          "start": 403.3445,
+          "end": 403.5245
+        },
+        {
+          "word": " same",
+          "start": 403.5245,
+          "end": 403.7045
+        },
+        {
+          "word": " line.",
+          "start": 403.7045,
+          "end": 403.9845
+        }
+      ]
+    },
+    {
+      "start": 407.04449999999997,
+      "end": 409.4845,
+      "text": " That is the end of Part 3.",
+      "words": [
+        {
+          "word": " That",
+          "start": 407.04449999999997,
+          "end": 407.6645
+        },
+        {
+          "word": " is",
+          "start": 407.6645,
+          "end": 407.8645
+        },
+        {
+          "word": " the",
+          "start": 407.8645,
+          "end": 408.04449999999997
+        },
+        {
+          "word": " end",
+          "start": 408.04449999999997,
+          "end": 408.3045
+        },
+        {
+          "word": " of",
+          "start": 408.3045,
+          "end": 408.5845
+        },
+        {
+          "word": " Part",
+          "start": 408.5845,
+          "end": 408.8245
+        },
+        {
+          "word": " 3.",
+          "start": 408.8245,
+          "end": 409.4845
+        }
+      ]
+    },
+    {
+      "start": 409.9445,
+      "end": 414.1645,
+      "text": " You now have half a minute to check your answers to Part 3.",
+      "words": [
+        {
+          "word": " You",
+          "start": 409.9445,
+          "end": 410.1445
+        },
+        {
+          "word": " now",
+          "start": 410.1445,
+          "end": 410.4445
+        },
+        {
+          "word": " have",
+          "start": 410.4445,
+          "end": 410.7645
+        },
+        {
+          "word": " half",
+          "start": 410.7645,
+          "end": 411.10450000000003
+        },
+        {
+          "word": " a",
+          "start": 411.10450000000003,
+          "end": 411.3245
+        },
+        {
+          "word": " minute",
+          "start": 411.3245,
+          "end": 411.5645
+        },
+        {
+          "word": " to",
+          "start": 411.5645,
+          "end": 411.9845
+        },
+        {
+          "word": " check",
+          "start": 411.9845,
+          "end": 412.2845
+        },
+        {
+          "word": " your",
+          "start": 412.2845,
+          "end": 412.6245
+        },
+        {
+          "word": " answers",
+          "start": 412.6245,
+          "end": 412.9445
+        },
+        {
+          "word": " to",
+          "start": 412.9445,
+          "end": 413.2645
+        },
+        {
+          "word": " Part",
+          "start": 413.2645,
+          "end": 413.4645
+        },
+        {
+          "word": " 3.",
+          "start": 413.4645,
+          "end": 414.1645
+        }
+      ]
+    }
+  ]
+}
