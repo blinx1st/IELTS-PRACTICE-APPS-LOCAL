@@ -750,7 +750,7 @@ function App() {
           {panel === "settings" && <Settings refresh={refresh} />}
         </main>
         <footer className="workspace-footer">
-          <span>readingroom · Không gian tự học của bạn</span>
+          <span>ĐỘT PHÁ TU VI · Không gian tự học của bạn</span>
           <span>{skillName.toUpperCase()} / LOCAL EDITION</span>
         </footer>
       </div>
