@@ -9,8 +9,6 @@ data/
 tmp/
 *.tsbuildinfo
 
-# Source PDFs/audio stay private; the run-ready library IS included.
-/Tài liệu Cambridge/
 
 # Personal study history and exported backups, wherever they are saved.
 *.sqlite3
@@ -20,8 +18,3 @@ tmp/
 *.db
 *.zip
 *.bak
-
-# Credentials and local environment files
-.env
-.env.*
-!.env.example
