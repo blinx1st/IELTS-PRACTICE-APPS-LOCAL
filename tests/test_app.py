@@ -414,3 +414,14 @@ def test_reviewed_existing_layout_upgrade_keeps_snapshot_and_zip_history(fixture
     with server.connect() as db:
         snapshot = json.loads(db.execute('SELECT payload FROM attempts WHERE id=?', (a['id'],)).fetchone()[0])
     assert snapshot['testSnapshot']['passages'][0]['groups'][0]['layout'] == old
+
+
+def test_entry_page_and_logo_revalidate_after_update(fixture_data,monkeypatch,tmp_path):
+    _,_,c=fixture_data
+    root=tmp_path/'portable-app';(root/'dist').mkdir(parents=True)
+    (root/'dist/index.html').write_text('<title>New build</title>',encoding='utf-8')
+    (root/'dist/app-logo.png').write_bytes(b'new-logo')
+    monkeypatch.setattr(server,'ROOT',root)
+    page=c.get('/');logo=c.get('/app-logo.png?v=new-hash')
+    assert page.headers['cache-control']=='no-cache' and 'New build' in page.text
+    assert logo.headers['cache-control']=='no-cache' and logo.content==b'new-logo'

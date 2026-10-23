@@ -69,6 +69,7 @@ import "./listening.css";
 import "./experience.css";
 import "./ux-upgrade.css";
 import "./book-layout.css";
+import { appLogoUrl } from './brand';
 import { Modal } from "./Dialog";
 import { ExamNavigation } from "./ExamNavigation";
 import {
@@ -113,7 +114,7 @@ function Brand() {
   return (
     <div className="brand">
       <span className="brand-symbol">
-        <img src="/app-logo.png" alt="" />
+        <img src={appLogoUrl} alt="" />
       </span>
       <span>
         Tu Luyện IELTS
@@ -1273,7 +1274,7 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
         const el = document.querySelector<HTMLElement>(
           '[data-question="' + target + '"]'
         );
-        el?.scrollIntoView({ behavior: "smooth", block: "center" });
+        el?.scrollIntoView({ behavior: "auto", block: "center" });
         (
           el?.querySelector<HTMLElement>(
             "input:not(:disabled),select:not(:disabled),textarea:not(:disabled)"
@@ -1309,6 +1310,8 @@ function Exam({ id, onBack }: { id: string; onBack: () => void }) {
     return () => window.removeEventListener("keydown", key);
   });
   const selectText = (e: React.MouseEvent) => {
+    // Native answer controls must not trigger the text-selection toolbar.
+    if ((e.target as Element).closest('input,select,textarea,button,[role="combobox"],[role="listbox"]')) return;
     if (!editable || !a) return;
     const s = window.getSelection();
     if (!s?.rangeCount || s.isCollapsed || !s.toString().trim()) {

@@ -11,6 +11,7 @@ import time
 import urllib.error
 import urllib.request
 import webbrowser
+from build_state import build_is_current, runtime_fingerprint
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -52,13 +53,15 @@ def launch(no_browser=False):
     ensure_library()
     DATA.mkdir(exist_ok=True)
     python = ROOT / ".venv" / ("Scripts/python.exe" if os.name == "nt" else "bin/python")
-    if not python.exists() or not (ROOT / "dist/index.html").exists():
-        print("Cần thiết lập lần đầu. Đang chuẩn bị...", flush=True)
+    if not python.exists() or not build_is_current(ROOT):
+        print("Giao diện chưa được build hoặc đã cũ so với mã nguồn. Đang cập nhật...", flush=True)
         subprocess.run([sys.executable, "-X", "utf8", str(ROOT / "scripts/setup.py")], cwd=ROOT, check=True)
     port = None
     for candidate in range(8765, 8776):
         info = health(candidate)
         if info.get("app") == "reading-room-local" and info.get("workspace") == WORKSPACE:
+            if info.get('fingerprint') != runtime_fingerprint(ROOT):
+                raise SystemExit('Dịch vụ đang chạy là phiên bản cũ. Chạy DUNG_UNG_DUNG.cmd, sau đó MO_UNG_DUNG.cmd để nạp bản mới. Không xóa data/.')
             url = f"http://127.0.0.1:{candidate}"
             if not no_browser:
                 webbrowser.open(url)
@@ -101,4 +104,3 @@ if __name__ == "__main__":
     except (OSError, subprocess.CalledProcessError, ValueError) as e:
         print("Không thực hiện được:", e)
         raise SystemExit(1)
-        sys.exit(1)

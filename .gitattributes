@@ -1,0 +1,14 @@
+# Preserve binary assets byte-for-byte, including ASCII-only PDFs that Git may
+# otherwise mistake for text and rewrite on Windows checkout.
+*.pdf binary
+*.zip binary
+*.mp3 binary
+*.m4a binary
+*.mp4 binary
+*.wav binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ttf binary
+*.traineddata binary

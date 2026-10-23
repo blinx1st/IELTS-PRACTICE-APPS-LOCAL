@@ -2,6 +2,7 @@ import type { CSSProperties } from 'react';
 import { Flag } from 'lucide-react';
 import type { Attempt } from './types';
 import type { LayoutProps } from './QuestionLayouts';
+import {WordBankSelect} from './WordBankSelect';
 
 export function answerPartsFor(a:Pick<Attempt,'answers'|'answerParts'>,number:number,count:number){
   const stored=a.answerParts?.[number];
@@ -31,7 +32,7 @@ export function AnswerField({number:n,part=0,count=1,props}:{number:number;part?
   const label=`Answer ${n}${count>1?', part '+(part+1):''}`;
   return <span className={'answer-field inline-blank '+(results[n]?.status||'')} data-question={n} onFocus={()=>onFocus(n)} style={{'--answer-width':width+'ch'} as CSSProperties}>
     {part===0&&<label htmlFor={id} className="answer-number">{n}</label>}
-    {options?.length?<select id={id} aria-label={label} value={value} disabled={!editable} onChange={e=>onAnswer(n,e.target.value)}><option value="">Select an answer</option>{options.map(o=><option value={o.value} key={o.value}>{o.value}. {o.label}</option>)}</select>:<input id={id} aria-label={label} value={value} disabled={!editable} spellCheck={false} autoComplete="off" maxLength={1000} onChange={e=>count>1?onAnswerPart(n,part,count,e.target.value):onAnswer(n,e.target.value)}/>}
+    {options?.length?<WordBankSelect id={id} label={label} value={value} disabled={!editable} options={options} onChange={v=>onAnswer(n,v)}/>:<input id={id} aria-label={label} value={value} disabled={!editable} spellCheck={false} autoComplete="off" maxLength={1000} onChange={e=>count>1?onAnswerPart(n,part,count,e.target.value):onAnswer(n,e.target.value)}/>}
     {part===0&&<button type="button" className={'flag-button '+(a.flags.includes(n)?'flagged':'')} title="Mark for review" aria-label={'Mark question '+n+' for review'} aria-pressed={a.flags.includes(n)} disabled={!editable} onClick={()=>onFlag(n)}><Flag size={14}/></button>}
   </span>;
 }

@@ -25,8 +25,11 @@ from backend.scoring import grade, question_map
 from backend.presentation import present, part_counts
 from backend.listening import units, initial_player, control, stale, duration
 from backend import backups
+from scripts.build_state import runtime_fingerprint, build_info
 
 ROOT = Path(__file__).resolve().parents[1]
+RUNNING_FINGERPRINT = runtime_fingerprint(ROOT)
+RUNNING_BUILD = build_info(ROOT).get('sourceFingerprint')
 LIBRARY = ROOT / "library"
 DATA = Path(os.environ.get("READING_ROOM_DATA", ROOT / "data"))
 DATA.mkdir(parents=True, exist_ok=True)
@@ -134,7 +137,8 @@ def public(a, include_test=True):
 
 @app.get("/api/health")
 def health():
-    return {"app": "reading-room-local", "version": "2.0.0", "workspace": hashlib.sha256(str(ROOT).encode()).hexdigest()[:16]}
+    return {"app": "reading-room-local", "version": "2.1.0", "workspace": hashlib.sha256(str(ROOT).encode()).hexdigest()[:16],
+            "fingerprint": RUNNING_FINGERPRINT, "uiBuildFingerprint": RUNNING_BUILD}
 
 
 @app.post("/api/shutdown")
@@ -418,9 +422,9 @@ def frontend(path: str):
     dist = ROOT / "dist"
     candidate = (dist / path).resolve()
     if candidate.is_relative_to(dist.resolve()) and candidate.is_file():
-        return FileResponse(candidate)
+        return FileResponse(candidate, headers={'Cache-Control':'no-cache'} if candidate.name in ('index.html','app-logo.png','build-info.json') else None)
     if path.startswith("api/"):
         raise HTTPException(404, "Không tìm thấy API.")
     if (dist / "index.html").exists():
-        return FileResponse(dist / "index.html")
+        return FileResponse(dist / "index.html", headers={'Cache-Control':'no-cache'})
     return JSONResponse({"detail": "Chưa có giao diện. Chạy cài đặt lần đầu để build app."}, status_code=503)

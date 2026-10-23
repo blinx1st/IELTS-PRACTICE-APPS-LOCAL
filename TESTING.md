@@ -81,3 +81,8 @@ Cambridge 16 chưa có nguồn, đúng phạm vi bản đầu. Band là tham kh�
 ## Bố cục theo sách — 22/10/2026
 
 Đã bổ sung kiểm thử đủ 18 bảng và 146 nhóm văn bản: thứ tự ô, độ rộng theo giới hạn từ, hai ô/một câu, phân cấp Stonehenge, ngân hàng từ sau summary, khóa sau nộp và highlight/Note trên anchor cũ. Backend kiểm tra nâng cấp layout cũ chỉ khi khớp cả nội dung và hash layout. Kết quả: 45 backend, 30 frontend; build, npm audit và audit thư viện đạt. Xem [phạm vi kiểm tra trực tiếp và ảnh trước/sau](docs/BOOK_LAYOUT_REVIEW.md).
+
+
+## Bản clone và cập nhật — 24/10/2026
+
+50 kiểm thử backend, 30 frontend và build đạt. Đã cài dependencies/build mới trong một bản clone riêng của commit 08041f8; không sử dụng `.venv`, `node_modules`, `dist` hay SQLite của máy gốc. Bản sửa được áp vào clone và kiểm tra lại với launcher thật, Chrome, dropdown Cambridge 13 Test 4, giữ đáp án sau tải lại, logo và API audio Range. Công cụ fingerprint có kiểm thử khác biệt CRLF/LF giữa Git checkout, dist cũ, logo cũ, bundle thiếu và backend cũ. Xem [biên bản và giới hạn kết luận](docs/GITHUB_CLONE_AUDIT.md).

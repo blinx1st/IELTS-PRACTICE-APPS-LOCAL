@@ -2,7 +2,7 @@
 
 Repository: https://github.com/blinx1st/IELTS-PRACTICE-APPS-LOCAL
 
-Repository chứa mã nguồn và thư viện đã chuẩn hóa: đề Reading/Listening, khóa, transcript, ảnh Source, audio, manifest và overrides. Tổng dữ liệu chạy app khoảng 1 GB, dùng Git thông thường, không cần Git LFS. PDF/audio nguồn trong `Tài liệu Cambridge/`, cache OCR/ASR, mô hình nhận dạng, SQLite, bản sao lưu và file môi trường vẫn giữ riêng trên máy theo `.gitignore`.
+Repository chứa mã nguồn, thư viện đã chuẩn hóa (đề, khóa, transcript, ảnh Source, 128 audio, manifest và overrides) và **PDF/audio gốc trong `Tài liệu Cambridge/`** theo lựa chọn cập nhật ngày 24/10/2026. Dùng Git thông thường, không cần Git LFS. Bộ file đang theo dõi khoảng 2,94 GiB, gồm khoảng 1 GiB dữ liệu chạy app, 1,68 GiB tài liệu nguồn và 258 MiB dữ liệu chuẩn bị. Dependencies, build, SQLite, ZIP và file môi trường không đưa lên Git.
 
 ## Lần đầu chuẩn bị Git
 
@@ -60,6 +60,17 @@ Set-Location -LiteralPath 'IELTS-PRACTICE-APPS-LOCAL'
 .\CAI_DAT_LAN_DAU.cmd
 ```
 
-Các cache trước đây đã được theo dõi được bỏ khỏi index ở lần cập nhật này, nhưng vẫn giữ trên ổ đĩa. `.gitignore` không loại được file đã tracked nếu chưa bỏ khỏi index. Lịch sử commit cũ vẫn giữ nguyên nên dung lượng tải lần đầu có thể lớn hơn bộ file hiện tại. Không dùng `git clean` để dọn tài liệu local.
+Cache đã được theo dõi vẫn còn trong index; lần kiểm tra này không tự bỏ file khỏi Git. `.gitignore` chỉ ngăn cache mới. Tài liệu nguồn vẫn được giữ cả trên Git lẫn ổ đĩa. Lịch sử commit giữ nguyên nên dung lượng tải lần đầu có thể lớn hơn bộ file hiện tại. Không dùng `git clean` để dọn tài liệu local.
+
+## Cập nhật bản đã clone
+
+1. Dừng app bằng `DUNG_UNG_DUNG.cmd` của đúng thư mục.
+2. Chạy `git pull --ff-only`.
+3. Chạy `CAI_DAT_LAN_DAU.cmd` khi có Internet, rồi `MO_UNG_DUNG.cmd`.
+4. Mở đúng URL launcher in ra; cổng có thể là 8766–8775 nếu 8765 đang bận. Không mở lại bookmark của bản clone khác.
+
+`dist/` không đưa lên Git. Bản mới lưu fingerprint của mã nguồn khi build; launcher phát hiện build cũ và yêu cầu cập nhật. Nó cũng từ chối dùng lại backend cũ sau khi cập nhật code, để tránh giao diện mới gọi dịch vụ cũ. Logo và favicon có URL kèm hash nội dung để trình duyệt lấy đúng ảnh mới.
+
+Nếu còn lỗi, chạy **CHAN_DOAN.cmd** trên máy gặp lỗi, gửi kết quả gồm commit, `buildCurrent`, fingerprint, logo hash, tài nguyên thiếu và danh sách URL dịch vụ. Công cụ không mở bài làm hay thay đổi đồng hồ. Xem [biên bản kiểm tra bản clone](docs/GITHUB_CLONE_AUDIT.md).
 
 Việc đẩy mã nguồn lên GitHub không đưa backend local lên Internet. App vẫn chạy tại `127.0.0.1` trên máy dùng app.

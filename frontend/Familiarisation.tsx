@@ -1,4 +1,4 @@
-import {useEffect,useRef,useState,type CSSProperties} from 'react';
+import {useEffect,useRef,useState,type CSSProperties,type MouseEvent} from 'react';
 import {ArrowLeft,ArrowRight,BookOpen,Check,CheckCircle2,Clock3,Flag,Headphones,HelpCircle,Highlighter,Maximize2,RotateCcw,Settings2,StickyNote,Volume2} from 'lucide-react';
 import {Modal} from './Dialog';
 import {Annotated} from './Annotated';
@@ -38,7 +38,8 @@ export function Familiarisation({onBack}:{onBack:()=>void}){
   });
   const openNote=(a:Annotation)=>{setNote(a);setNoteText(a.note||'');setDialog('note');};
   const props=(group:Group):LayoutProps=>({group,attempt,editable:true,results:{},onAnswer:(n,v)=>setAnswers(old=>({...old,[n]:v})),onAnswerPart:()=>{},onFocus:setCurrent,onFlag:flag,onAnnotation:openNote});
-  const select=()=>{
+  const select=(e:MouseEvent)=>{
+    if((e.target as Element).closest('input,select,textarea,button,[role="combobox"],[role="listbox"]'))return;
     const s=window.getSelection();if(!s?.rangeCount||s.isCollapsed){setSelection(null);return;}
     const range=s.getRangeAt(0),ranges:TextRange[]=[];
     panels.current?.querySelectorAll<HTMLElement>('[data-text-id]').forEach(el=>{

@@ -17,4 +17,28 @@ tmp/
 *.sqlite
 *.db
 *.zip
+!/Tài liệu Cambridge/**/*.zip
 *.bak
+
+# Keep the run-ready library AND the original Cambridge PDFs/extracted audio.
+# Do not ignore library/, frontend/public/ or Tai lieu Cambridge here.
+# Ignore future preparation caches; already tracked files are kept in the index.
+/library/preparation/cam*/
+/library/preparation/key-inspection/
+/library/preparation/pilot20-review/
+/library/preparation/reading-review/
+/library/preparation/tessdata*/
+/library/preparation/*.png
+/library/preparation/*.jpg
+/library/preparation/listening/cam*/
+/library/preparation/listening/inspection/
+/library/preparation/listening/models/
+
+# Local credentials and tooling caches.
+.env
+.env.*
+!.env.example
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+__MACOSX/

@@ -130,6 +130,10 @@
 .document-flow .flow-feedback:empty { display: none; }
 .question-group .diagram-answer .answer-field { display: flex; width: 100%; margin: 0; }
 .question-group .diagram-answer .answer-field input { width: 0; min-width: 0; flex: 1; }
+.word-bank-popup { z-index: 1200; overflow-y: auto; overscroll-behavior: contain; padding: 5px; border: 1px solid #8ca2b6; border-radius: 6px; background: #fff; color: #172e45; box-shadow: 0 6px 24px #173c6533; font: 16px/1.5 Arial,sans-serif; }
+.word-bank-popup [role=option] { display: block; width: 100%; padding: 8px 10px; border: 0; border-radius: 3px; background: transparent; color: inherit; text-align: left; font: inherit; white-space: normal; cursor: pointer; }
+.word-bank-popup [role=option][aria-selected=true] { font-weight: 700; color: #075ba8; }
+.word-bank-popup [role=option]:is(:hover,[data-active=true]) { background: #e9f3ff; outline: 1px solid #9cc5ed; }
 @media(max-width:700px) {
   .book-document.frame-box { padding: 14px 12px; }
   :is(.question-group,.familiarisation-shell) .book-table th, :is(.question-group,.familiarisation-shell) .book-table td { padding: .5em; }

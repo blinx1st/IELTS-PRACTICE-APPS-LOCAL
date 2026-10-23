@@ -126,3 +126,14 @@ Lưu ý transcript: Cambridge 13 có nhiều dòng gạch chân bị OCR bỏ s�
 Trong **Display**, cỡ chữ 14–24 px áp dụng cả đề và ô trả lời. Khi bảng rộng hơn cột câu hỏi, cuộn ngang ngay trong khung bảng hoặc kéo rộng cột Reading; footer luôn dùng để chuyển tới câu cần làm. Dùng Tab/Shift+Tab để di chuyển qua ô và cờ. Câu 7 Cambridge 15 Test 4 có hai ô quanh chữ “and”, vẫn là một câu.
 
 Nút **Source** mở ảnh để đối chiếu. Bài đang dở giữ nguyên đáp án, cờ, ghi chú và đồng hồ; layout chỉ được nâng cấp nếu nội dung và bố cục cũ khớp phiên bản đã kiểm tra. Xem [ảnh bố cục mới](docs/BOOK_LAYOUT_REVIEW.md).
+
+
+## Chuyển máy và kiểm tra phiên bản
+
+Repository hiện giữ cả `Tài liệu Cambridge/` và thư viện chạy app. Lịch sử cá nhân không đi theo Git: dùng ZIP sao lưu/khôi phục trong app.
+
+Sau khi cập nhật: dừng app bằng `DUNG_UNG_DUNG.cmd`, chạy `git pull --ff-only`, chạy `CAI_DAT_LAN_DAU.cmd`, rồi `MO_UNG_DUNG.cmd`. Mở đúng URL launcher in ra; không mặc định luôn dùng cổng 8765 vì một bản clone khác có thể đang chiếm cổng đó. Build mới có dấu vân tay mã nguồn, logo/favicon có mã ảnh trong URL.
+
+Nếu vẫn lỗi, chạy `CHAN_DOAN.cmd` ngay trong thư mục máy đang lỗi và gửi nội dung hiển thị. Công cụ chỉ kiểm tra môi trường/build/tài nguyên/dịch vụ, không mở bài thi và không thay đổi đáp án hay đồng hồ.
+
+Ô ngân hàng từ có danh sách mở trong trang: bấm ô để chọn, dùng mũi tên và Enter để chọn bằng bàn phím; Escape hủy, Tab sang ô/cờ tiếp theo. Chọn “Select an answer” để xóa câu trả lời.
